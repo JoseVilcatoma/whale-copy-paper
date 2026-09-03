@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 17:52:46 (hora de Perú)
+Actualizado: 2026-09-03 17:54:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $434.07
-**Retorno acumulado:** -13.19%
+**Bankroll actual:** $431.64
+**Retorno acumulado:** -13.67%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 17:52:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $234.07)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $311.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,15 +46,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 7 | 3 | 0 | +7.47 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
+| AV23IUa | 28 | 17 | 3 | +6.42 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| monkeymashingkeyboard | 9 | 7 | 1 | +3.91 USD |
+| monkeymashingkeyboard | 9 | 7 | 2 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| AV23IUa | 27 | 17 | 4 | +3.58 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -79,7 +79,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
 | TAIWANNUMBERONE | 32 | 22 | 0 | -0.29 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -101,21 +100,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
+| ExplosiveNinja | 9 | 7 | 1 | -5.33 USD |
 | Flaznorp | 25 | 8 | 1 | -5.76 USD |
-| pleaseplease123 | 9 | 9 | 4 | -6.38 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
-| ExplosiveNinja | 8 | 7 | 2 | -9.83 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Talvez10 | 1 | 3 | 2 | -10.98 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
+| pleaseplease123 | 9 | 11 | 2 | -16.63 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 412 | 257 | 19 | -172.17 USD |
+| ferrariChampions2026 | 421 | 260 | 7 | -166.55 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3521
-- **Aciertos:** 2246 (63.8%)
+- **Apuestas resueltas:** 3538
+- **Aciertos:** 2257 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,580.24
-- **ROI sobre lo apostado:** -1.00%
-- **Comisiones pagadas (taker fee):** $321.83 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,665.24
+- **ROI sobre lo apostado:** -1.01%
+- **Comisiones pagadas (taker fee):** $323.45 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,9 +142,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1762 | 50.2% | 50.1% | +0.0 pp |
-| 60-79% | 1055 | 69.7% | 67.8% | +1.9 pp |
-| 80-94% | 486 | 85.8% | 86.7% | -0.9 pp |
+| 40-59% | 1770 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1060 | 69.7% | 67.8% | +1.9 pp |
+| 80-94% | 490 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 218 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -744,7 +744,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 53% | 5.00 | 82.2% | ⏳ pendiente | — |
+| monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 54% | 5.00 | 47.3% | ⏳ pendiente | — |
+| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 53% | 5.00 | 92.4% | ⏳ pendiente | — |
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 278.9% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 51% | 5.00 | 14.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -762,15 +763,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 56% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ✅ ganada | +5.97 |
+| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 56% | 5.00 | 2.9% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 1.8% | ✅ ganada | +2.17 |
-| ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 9.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 2.2% | ✅ ganada | +2.72 |
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ❌ perdida | -5.12 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.0729268052355,
+  "bankroll": 431.6447265124238,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18525,6 +18525,91 @@
       "timestamp": 1788475396.0494554,
       "bankroll": 434.07,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1788476013.0170712,
+      "bankroll": 428.93,
+      "event": "lost: 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 \u2014 US Open ATP: Luciano Darderi vs Dalibor Svrcina"
+    },
+    {
+      "timestamp": 1788476013.3397503,
+      "bankroll": 429.91,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Lilli Tagger vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1788476013.4399292,
+      "bankroll": 424.77,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Luciano Darderi vs Dalibor Svrcina"
+    },
+    {
+      "timestamp": 1788476013.7560387,
+      "bankroll": 427.62,
+      "event": "won: AV23IUa \u2014 US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788476014.100693,
+      "bankroll": 432.11,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Nuclear TigeRES vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788476014.7786715,
+      "bankroll": 433.31,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Naomi Osaka vs Katerina Siniakova"
+    },
+    {
+      "timestamp": 1788476015.1627305,
+      "bankroll": 434.59,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Anastasia Potapova vs Leolia Jeanjean"
+    },
+    {
+      "timestamp": 1788476015.6269648,
+      "bankroll": 429.52,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Felix Auger-Aliassime vs Karen Khachanov"
+    },
+    {
+      "timestamp": 1788476016.053157,
+      "bankroll": 424.38,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788476017.82343,
+      "bankroll": 427.1,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Cristina Bucsa vs Himeno Sakatsume"
+    },
+    {
+      "timestamp": 1788476018.023808,
+      "bankroll": 430.2,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788476018.3478277,
+      "bankroll": 425.09,
+      "event": "lost: pleaseplease123 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1788476018.6928678,
+      "bankroll": 419.95,
+      "event": "lost: pleaseplease123 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1788476019.3338056,
+      "bankroll": 420.73,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Harriet Dart vs Marie Bouzkova"
+    },
+    {
+      "timestamp": 1788476019.9736822,
+      "bankroll": 421.85,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Madison Keys vs Anna Bondar"
+    },
+    {
+      "timestamp": 1788476020.0738358,
+      "bankroll": 425.67,
+      "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1788476020.1739712,
+      "bankroll": 431.64,
+      "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5"
     }
   ]
 }
