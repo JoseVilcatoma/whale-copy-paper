@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.8109163589784,
+  "bankroll": 479.873805969368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17985,6 +17985,31 @@
       "timestamp": 1788413175.96954,
       "bankroll": 482.81,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers: O/U 10.5"
+    },
+    {
+      "timestamp": 1788413742.954589,
+      "bankroll": 485.53,
+      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-2.5)"
+    },
+    {
+      "timestamp": 1788413807.07875,
+      "bankroll": 480.52,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788413807.7864518,
+      "bankroll": 484.34,
+      "event": "won: 1winstreak1 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788413807.8866258,
+      "bankroll": 479.22,
+      "event": "lost: 1winstreak1 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788413807.9868114,
+      "bankroll": 479.87,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
     }
   ]
 }
