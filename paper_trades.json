@@ -91849,8 +91849,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1407.3180000000002,
-    "whale_pct": 3.418,
+    "whale_usd": 29351.934,
+    "whale_pct": 71.295,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -91861,8 +91861,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788444921.2550807,
-    "fills": 1
+    "last_fill_at": 1788446280.1673813,
+    "fills": 2
   },
   {
     "timestamp": 1788444925,
@@ -91873,8 +91873,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3131.326,
-    "whale_pct": 7.606,
+    "whale_usd": 8212.141,
+    "whale_pct": 19.947,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -91885,8 +91885,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788444925.5424194,
-    "fills": 1
+    "last_fill_at": 1788446307.648118,
+    "fills": 2
   },
   {
     "timestamp": 1788445128,
