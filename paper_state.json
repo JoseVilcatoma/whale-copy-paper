@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.50169915361045,
+  "bankroll": 466.6674088925089,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18090,6 +18090,41 @@
       "timestamp": 1788432591.282981,
       "bankroll": 470.5,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: DEPO vs Lynn Vision (BO3) - IEM Beijing: Asian Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788434826.8141701,
+      "bankroll": 465.41,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: BNK FEARX vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788434831.1423588,
+      "bankroll": 460.3,
+      "event": "lost: RN1 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788434831.2424865,
+      "bankroll": 455.18,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788434831.3425946,
+      "bankroll": 461.15,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788434831.4427392,
+      "bankroll": 467.38,
+      "event": "won: RN1 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788434831.642988,
+      "bankroll": 471.69,
+      "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788434832.0738904,
+      "bankroll": 466.67,
+      "event": "lost: Flaznorp \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
     }
   ]
 }
