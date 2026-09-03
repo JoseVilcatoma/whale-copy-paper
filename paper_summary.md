@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 19:45:58 (hora de Perú)
+Actualizado: 2026-09-02 19:47:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 19:45:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $332.12)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $327.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 15 | 6 | +63.52 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 15 | 7 | +63.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -711,11 +711,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 318.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 10.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 19.1% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ⏳ pendiente | — |
@@ -730,7 +731,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 55% | 5.00 | 21.6% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 42% | 5.00 | 6.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 71.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 74.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 5.00 | 11.3% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 44% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |
@@ -740,4 +741,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 92% | 5.00 | 11.1% | ❌ perdida | -5.02 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | K27 (BUY) | 46% | 5.00 | 5.0% | ✅ ganada | +5.73 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | GamerLegion (BUY) | 61% | 5.00 | 14.4% | ❌ perdida | -5.10 |

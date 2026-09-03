@@ -88118,8 +88118,8 @@
     "title": "Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
     "outcome": "Phantom",
     "side": "BUY",
-    "whale_usd": 30412.084499999997,
-    "whale_pct": 71.686,
+    "whale_usd": 31409.6831,
+    "whale_pct": 74.038,
     "whale_value_at_open": 42423.9735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -88130,8 +88130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788394586.6456952,
-    "fills": 10
+    "last_fill_at": 1788396383.723745,
+    "fills": 11
   },
   {
     "timestamp": 1788380375,
@@ -88494,8 +88494,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 3665.7091,
-    "whale_pct": 10.398,
+    "whale_usd": 6746.7091,
+    "whale_pct": 19.137,
     "whale_value_at_open": 35255.45,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -88506,8 +88506,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788395476.3824956,
-    "fills": 2
+    "last_fill_at": 1788396370.471767,
+    "fills": 3
   },
   {
     "timestamp": 1788393870,
@@ -88606,6 +88606,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788395333.8806913,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788396376,
+    "timestamp_added": 1788396376.6881528,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-nem-hotu-2026-09-03",
+    "title": "Counter-Strike: Team Nemesis vs HOTU (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Team Nemesis",
+    "side": "BUY",
+    "whale_usd": 1505.4,
+    "whale_pct": 3.554,
+    "whale_value_at_open": 42360.4318,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788396376.688165,
     "fills": 1
   }
 ]
