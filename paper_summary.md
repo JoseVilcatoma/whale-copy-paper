@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 07:06:03 (hora de Perú)
+Actualizado: 2026-09-03 07:08:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 07:06:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $159.77)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $154.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 388 | 241 | 24 | -138.50 USD |
+| ferrariChampions2026 | 388 | 241 | 25 | -138.50 USD |
 
 ## Análisis general
 
@@ -727,18 +727,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-visker-marcos-2026-09-03 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game3 | BBQChickenisthebesttt, zofgkt1111 |
 | lol-fox1-dk-2026-09-03-game4 | BBQChickenisthebesttt, zofgkt1111 |
+| lol-blg-we-2026-09-03 | ferrariChampions2026, zofgkt1111 |
 | atp-damas-kuzmano-2026-09-03 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Chicago White Sox (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Timofeeva vs Elise Me | Elise Mertens (BUY) | 76% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs: O/U  | Over (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 11.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 11.8% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 8.8% | ⏳ pendiente | — |
@@ -762,4 +764,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | BNK FEARX (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 89% | 5.00 | 0.8% | ❌ perdida | -5.03 |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 28.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 13.9% | ✅ ganada | +3.98 |

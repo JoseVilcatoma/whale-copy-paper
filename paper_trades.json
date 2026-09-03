@@ -91130,8 +91130,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Dimitar Kuzmanov",
     "side": "BUY",
-    "whale_usd": 19453.013536,
-    "whale_pct": 11.326,
+    "whale_usd": 20188.660911,
+    "whale_pct": 11.755,
     "whale_value_at_open": 171751.2014,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -91142,8 +91142,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788437161.5745652,
-    "fills": 7
+    "last_fill_at": 1788437245.256619,
+    "fills": 8
   },
   {
     "timestamp": 1788435487,
@@ -91267,6 +91267,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788436951.3395488,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437186,
+    "timestamp_added": 1788437186.7048736,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-blg-we-2026-09-03",
+    "title": "LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 942.0303999999999,
+    "whale_pct": 0.361,
+    "whale_value_at_open": 260960.3882,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "zofgkt1111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437186.7048855,
     "fills": 1
   }
 ]
