@@ -89075,5 +89075,34 @@
     "fills": 2,
     "fee_total_usd": 0.29,
     "closed_price": 42
+  },
+  {
+    "timestamp": 1788408136,
+    "timestamp_added": 1788408136.8889027,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-nyy-laa-2026-09-02",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 846.7299990000001,
+    "whale_pct": 2.089,
+    "whale_value_at_open": 40534.0396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2",
+      "Feromont",
+      "ferrariChampions2026",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788408136.8889155,
+    "fills": 1
   }
 ]

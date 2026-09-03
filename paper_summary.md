@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:00:40 (hora de Perú)
+Actualizado: 2026-09-02 23:02:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:00:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $331.53)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $326.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| 1winstreak1 | 1 | 1 | 2 | -1.61 USD |
+| 1winstreak1 | 1 | 1 | 3 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
@@ -706,7 +706,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
 | cs2-big5-nemi1-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | mlb-mil-chc-2026-09-02 | 0x4f2, monkeymashingkeyboard, pleaseplease123 |
-| mlb-nyy-laa-2026-09-02 | 0x4f2, Feromont, ferrariChampions2026, pleaseplease123 |
+| mlb-nyy-laa-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026, pleaseplease123 |
 | mlb-sd-cin-2026-09-02 | 0x4f2, Sunny24 |
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 
@@ -714,6 +714,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -743,4 +744,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 49% | 5.00 | 27.9% | ❌ perdida | -5.13 |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 13.1% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 91% | 5.00 | 4.5% | 💰 vendida anticipada | -0.16 |
-| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 44% | 5.00 | 18.5% | 💰 vendida anticipada | +1.77 |
