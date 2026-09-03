@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.656434040954,
+  "bankroll": 460.5007869821305,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18285,6 +18285,11 @@
       "timestamp": 1788446823.4759636,
       "bankroll": 459.66,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Yanaki Milev vs Ignacio Parisca"
+    },
+    {
+      "timestamp": 1788447636.5387776,
+      "bankroll": 460.5,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Luca Potenza vs Joel Schwaerzler"
     }
   ]
 }
