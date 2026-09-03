@@ -89823,8 +89823,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 9038.034033,
-    "whale_pct": 9.804,
+    "whale_usd": 12167.496033,
+    "whale_pct": 13.198,
     "whale_value_at_open": 92191.0075,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -89837,8 +89837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448376.5988827,
-    "fills": 4
+    "last_fill_at": 1788448578.2682447,
+    "fills": 5
   },
   {
     "timestamp": 1788419924,
@@ -90673,8 +90673,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -90690,8 +90690,8 @@
     "title": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 8070.005533,
-    "whale_pct": 4.588,
+    "whale_usd": 9603.416341,
+    "whale_pct": 5.46,
     "whale_value_at_open": 175887.0344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -90702,8 +90702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448425.9946878,
-    "fills": 2
+    "last_fill_at": 1788448531.2637885,
+    "fills": 3
   },
   {
     "timestamp": 1788429281,
@@ -92104,6 +92104,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788448295.5417295,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788448505,
+    "timestamp_added": 1788448505.8790267,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-podoros-2026-09-02",
+    "title": "US Open WTA: Iga Swiatek vs Nadia Podoroska",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 2085.7384279999997,
+    "whale_pct": 1.083,
+    "whale_value_at_open": 192510.357,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788448505.8790367,
     "fills": 1
   }
 ]

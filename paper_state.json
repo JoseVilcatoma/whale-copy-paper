@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.06815628304236,
+  "bankroll": 442.00815628304235,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18330,6 +18330,11 @@
       "timestamp": 1788448202.736966,
       "bankroll": 447.07,
       "event": "won: ferrariChampions2026 \u2014 Porto: Miguel Damas vs Dimitar Kuzmanov"
+    },
+    {
+      "timestamp": 1788448511.5815763,
+      "bankroll": 442.01,
+      "event": "lost: ferrariChampions2026 \u2014 KBO: Hanwha Eagles vs. KT Wiz"
     }
   ]
 }
