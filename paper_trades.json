@@ -89823,8 +89823,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 8098.903598999999,
-    "whale_pct": 8.785,
+    "whale_usd": 9038.034033,
+    "whale_pct": 9.804,
     "whale_value_at_open": 92191.0075,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -89837,8 +89837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788446485.2222881,
-    "fills": 3
+    "last_fill_at": 1788448376.5988827,
+    "fills": 4
   },
   {
     "timestamp": 1788419924,
@@ -90690,8 +90690,8 @@
     "title": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 7436.6722,
-    "whale_pct": 4.228,
+    "whale_usd": 8070.005533,
+    "whale_pct": 4.588,
     "whale_value_at_open": 175887.0344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -90702,8 +90702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788428811.1534612,
-    "fills": 1
+    "last_fill_at": 1788448425.9946878,
+    "fills": 2
   },
   {
     "timestamp": 1788429281,
