@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 07:38:49 (hora de Perú)
+Actualizado: 2026-09-03 07:40:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.74
-**Retorno acumulado:** -7.05%
+**Bankroll actual:** $465.22
+**Retorno acumulado:** -6.96%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 07:38:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $149.74)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $155.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,17 +123,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 390 | 243 | 31 | -139.84 USD |
+| ferrariChampions2026 | 391 | 243 | 30 | -139.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3453
-- **Aciertos:** 2203 (63.8%)
+- **Apuestas resueltas:** 3454
+- **Aciertos:** 2204 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,240.24
+- **Total apostado (suma de stakes):** $17,245.24
 - **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $316.12 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $316.14 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1733 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1033 | 69.6% | 67.8% | +1.8 pp |
-| 80-94% | 475 | 85.9% | 86.7% | -0.8 pp |
+| 80-94% | 476 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 212 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -757,7 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 8.8% | ✅ ganada | +3.37 |
-| ferrariChampions2026 | Plovdiv 3: Nikita Mashtakov vs Juan Manu | Juan Manuel La Serna (BUY) | 91% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Nikita Mashtakov vs Juan Manu | Juan Manuel La Serna (BUY) | 91% | 5.00 | 4.8% | ✅ ganada | +0.47 |
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 60% | 5.00 | 57.8% | ⏳ pendiente | — |
 | AV23IUa | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 48% | 5.00 | 6.6% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 99% | 5.00 | 2.0% | ⏳ pendiente | — |

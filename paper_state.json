@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.7426750199838,
+  "bankroll": 465.21518051448925,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18185,6 +18185,11 @@
       "timestamp": 1788438560.5568812,
       "bankroll": 464.74,
       "event": "won: ferrariChampions2026 \u2014 Como: Johan Nikles vs Filip Jianu"
+    },
+    {
+      "timestamp": 1788439185.3232002,
+      "bankroll": 465.22,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Nikita Mashtakov vs Juan Manuel La Serna"
     }
   ]
 }
