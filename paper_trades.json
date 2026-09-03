@@ -88937,8 +88937,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -89007,8 +89007,8 @@
     "title": "Zhangjiagang: Akira Santillan vs Ilya Ivashka",
     "outcome": "Ilya Ivashka",
     "side": "BUY",
-    "whale_usd": 4900.003935000001,
-    "whale_pct": 3.365,
+    "whale_usd": 7752.245032,
+    "whale_pct": 5.324,
     "whale_value_at_open": 145613.9315,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -89019,8 +89019,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788407283.1369452,
-    "fills": 2
+    "last_fill_at": 1788411965.8897665,
+    "fills": 4
   },
   {
     "timestamp": 1788406733,
@@ -89434,6 +89434,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788411808.1669204,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788411931,
+    "timestamp_added": 1788411931.8478556,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-lad-2026-09-02",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 528.2869420000001,
+    "whale_pct": 0.301,
+    "whale_value_at_open": 175491.3889,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x4f2",
+      "1winstreak1",
+      "Feromont"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788411931.8478668,
     "fills": 1
   }
 ]

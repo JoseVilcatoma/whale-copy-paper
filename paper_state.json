@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.21463205157926,
+  "bankroll": 473.97439395634115,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17950,6 +17950,11 @@
       "timestamp": 1788411618.3988621,
       "bankroll": 467.21,
       "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (+1.32 USD)"
+    },
+    {
+      "timestamp": 1788411909.2668774,
+      "bankroll": 473.97,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }
