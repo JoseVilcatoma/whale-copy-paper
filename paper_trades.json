@@ -92081,5 +92081,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788447589.5369687,
     "fills": 1
+  },
+  {
+    "timestamp": 1788448295,
+    "timestamp_added": 1788448295.54172,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bonzi-buse-2026-09-03",
+    "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "whale_usd": 1969.3,
+    "whale_pct": 1.026,
+    "whale_value_at_open": 191922.2652,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788448295.5417295,
+    "fills": 1
   }
 ]
