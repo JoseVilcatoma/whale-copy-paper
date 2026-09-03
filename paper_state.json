@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.12272727515773,
+  "bankroll": 487.9309163589784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17970,6 +17970,16 @@
       "timestamp": 1788412233.0302916,
       "bankroll": 480.12,
       "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-0.17 USD)"
+    },
+    {
+      "timestamp": 1788412537.8282506,
+      "bankroll": 483.79,
+      "event": "won: kekasaur \u2014 Will Deportivo Toluca FC win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788412596.105171,
+      "bankroll": 487.93,
+      "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (+4.14 USD)"
     }
   ]
 }
