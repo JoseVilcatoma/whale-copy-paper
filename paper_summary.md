@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 16:43:48 (hora de Perú)
+Actualizado: 2026-09-03 16:46:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.43
@@ -753,7 +753,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 25.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 30.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
