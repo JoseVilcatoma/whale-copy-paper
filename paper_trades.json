@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 4660.2428150000005,
-    "whale_pct": 4.548,
+    "whale_usd": 5359.679499000001,
+    "whale_pct": 5.231,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,8 +90111,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788423041.7754295,
-    "fills": 7
+    "last_fill_at": 1788436283.5525124,
+    "fills": 8
   },
   {
     "timestamp": 1788422994,
@@ -91169,6 +91169,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788435487.851141,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788436249,
+    "timestamp_added": 1788436249.567842,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-chc-2026-09-03-total-8pt5",
+    "title": "Milwaukee Brewers vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1027.843,
+    "whale_pct": 0.422,
+    "whale_value_at_open": 243534.3025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788436249.5678525,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 06:49:48 (hora de Perú)
+Actualizado: 2026-09-03 06:51:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 06:49:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $179.77)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $174.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 388 | 241 | 21 | -138.50 USD |
+| ferrariChampions2026 | 388 | 241 | 22 | -138.50 USD |
 
 ## Análisis general
 
@@ -732,6 +732,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs: O/U  | Over (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 6.2% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -761,4 +762,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 84% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 53% | 5.00 | 20.1% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 56% | 5.00 | 9.6% | 💰 vendida anticipada | -1.02 |
