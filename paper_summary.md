@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:32:50 (hora de Perú)
+Actualizado: 2026-09-03 10:34:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.46
@@ -742,7 +742,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 56% | 5.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |

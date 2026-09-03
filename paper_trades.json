@@ -92163,8 +92163,8 @@
     "title": "Como: Jay Clarke vs Pedro Martinez",
     "outcome": "Jay Clarke",
     "side": "BUY",
-    "whale_usd": 1481.6520000000003,
-    "whale_pct": 0.723,
+    "whale_usd": 3761.851998,
+    "whale_pct": 1.835,
     "whale_value_at_open": 204960.8611,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -92175,8 +92175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788449254.1349642,
-    "fills": 1
+    "last_fill_at": 1788449652.9219582,
+    "fills": 3
   },
   {
     "timestamp": 1788449433,
