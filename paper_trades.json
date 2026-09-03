@@ -90071,8 +90071,8 @@
     "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
     "outcome": "Alejandro Tabilo",
     "side": "BUY",
-    "whale_usd": 4065.299999,
-    "whale_pct": 4.138,
+    "whale_usd": 7604.273399,
+    "whale_pct": 7.741,
     "whale_value_at_open": 98234.6715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -90085,8 +90085,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422713.0831792,
-    "fills": 1
+    "last_fill_at": 1788427928.5298738,
+    "fills": 2
   },
   {
     "timestamp": 1788422789,
