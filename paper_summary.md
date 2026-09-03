@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:08:00 (hora de Perú)
+Actualizado: 2026-09-03 10:10:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $454.09
-**Retorno acumulado:** -9.18%
+**Bankroll actual:** $447.07
+**Retorno acumulado:** -10.59%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 10:08:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $154.09)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $172.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 45 | 18 | 5 | +65.20 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 45 | 19 | 4 | +60.08 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -59,11 +59,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
+| Flaznorp | 21 | 6 | 7 | +2.80 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| Flaznorp | 20 | 5 | 9 | +2.34 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 399 | 248 | 29 | -152.72 USD |
+| ferrariChampions2026 | 400 | 249 | 27 | -155.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3477
-- **Aciertos:** 2219 (63.8%)
+- **Apuestas resueltas:** 3482
+- **Aciertos:** 2221 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,360.24
-- **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $317.91 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,385.24
+- **ROI sobre lo apostado:** -0.94%
+- **Comisiones pagadas (taker fee):** $318.38 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,9 +142,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1740 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1043 | 69.6% | 67.8% | +1.8 pp |
-| 80-94% | 479 | 85.8% | 86.7% | -0.9 pp |
+| 40-59% | 1742 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1045 | 69.6% | 67.8% | +1.8 pp |
+| 80-94% | 480 | 85.6% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 215 | 96.3% | 97.3% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -764,7 +764,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.8% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
