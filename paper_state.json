@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.5349109998647,
+  "bankroll": 476.2574109998647,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17825,6 +17825,11 @@
       "timestamp": 1788403844.0151684,
       "bankroll": 473.53,
       "event": "won: 1winstreak1 \u2014 Chicago White Sox vs. Houston Astros: O/U 7.5"
+    },
+    {
+      "timestamp": 1788403968.120518,
+      "bankroll": 476.26,
+      "event": "won: 0x4f2 \u2014 Chicago White Sox vs. Houston Astros"
     }
   ]
 }

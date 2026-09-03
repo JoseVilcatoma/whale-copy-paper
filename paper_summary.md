@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 21:50:49 (hora de Perú)
+Actualizado: 2026-09-02 21:52:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.53
-**Retorno acumulado:** -5.29%
+**Bankroll actual:** $476.26
+**Retorno acumulado:** -4.75%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 21:50:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $328.53)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $336.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | AV23IUa | 24 | 15 | 2 | +3.23 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| 0x4f2 | 12 | 10 | 1 | +2.98 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -75,7 +76,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | monkeymashingkeyboard | 8 | 7 | 1 | +0.68 USD |
-| 0x4f2 | 11 | 10 | 2 | +0.26 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
@@ -125,14 +125,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3395
-- **Aciertos:** 2171 (63.9%)
+- **Apuestas resueltas:** 3396
+- **Aciertos:** 2172 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,950.24
-- **ROI sobre lo apostado:** -0.74%
-- **Comisiones pagadas (taker fee):** $310.48 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,955.24
+- **ROI sobre lo apostado:** -0.73%
+- **Comisiones pagadas (taker fee):** $310.57 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -141,7 +141,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1700 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1017 | 69.9% | 67.8% | +2.1 pp |
+| 60-79% | 1018 | 69.9% | 67.8% | +2.2 pp |
 | 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -718,7 +718,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | 💰 vendida anticipada | -0.12 |
 | Feromont | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Feromont | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 80% | 5.00 | 7.7% | ⏳ pendiente | — |
-| 0x4f2 | Chicago White Sox vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 7.1% | ⏳ pendiente | — |
+| 0x4f2 | Chicago White Sox vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 7.1% | ✅ ganada | +2.72 |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | 💰 vendida anticipada | -2.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 32.6% | ⏳ pendiente | — |
