@@ -90037,5 +90037,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788422515.27725,
     "fills": 1
+  },
+  {
+    "timestamp": 1788422572,
+    "timestamp_added": 1788422572.6462986,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "fl1-tou-lil-2026-09-03-lil",
+    "title": "Will Lille OSC win on 2026-09-03?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1560.2482,
+    "whale_pct": 2.129,
+    "whale_value_at_open": 73282.1039,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788422663.7139351,
+    "fills": 2
   }
 ]
