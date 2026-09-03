@@ -90712,8 +90712,8 @@
     "title": "Porto: Niels Visker vs Pedro Vives Marcos",
     "outcome": "Pedro Vives Marcos",
     "side": "BUY",
-    "whale_usd": 21581.880527999998,
-    "whale_pct": 11.911,
+    "whale_usd": 22097.723604,
+    "whale_pct": 12.196,
     "whale_value_at_open": 181193.4422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -90724,8 +90724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788434939.8268661,
-    "fills": 10
+    "last_fill_at": 1788434953.182255,
+    "fills": 11
   },
   {
     "timestamp": 1788429759,
