@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 00:10:30 (hora de Perú)
+Actualizado: 2026-09-03 00:12:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $480.29
-**Retorno acumulado:** -3.94%
+**Bankroll actual:** $480.12
+**Retorno acumulado:** -3.98%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 00:10:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $355.29)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $360.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,8 +76,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| 0x4f2 | 14 | 15 | 1 | +0.39 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -715,7 +715,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 90% | 5.00 | 3.2% | ⏳ pendiente | — |
+| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 90% | 5.00 | 3.2% | 💰 vendida anticipada | -0.17 |
 | 1winstreak1 | Spread: St. Louis Cardinals (-2.5) | Los Angeles Dodgers (BUY) | 64% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 89% | 5.00 | 1.9% | 💰 vendida anticipada | -0.17 |

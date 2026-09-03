@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.2881717196022,
+  "bankroll": 480.12272727515773,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17965,6 +17965,11 @@
       "timestamp": 1788412222.165578,
       "bankroll": 480.29,
       "event": "won: kekasaur \u2014 Deportivo Toluca FC vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788412233.0302916,
+      "bankroll": 480.12,
+      "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-0.17 USD)"
     }
   ]
 }

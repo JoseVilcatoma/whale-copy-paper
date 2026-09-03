@@ -89506,8 +89506,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.17,
     "overlaps_with": [
       "1winstreak1",
       "Feromont",
@@ -89516,6 +89516,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788412168.380228,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.054,
+    "closed_price": 88
   }
 ]
