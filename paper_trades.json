@@ -91729,8 +91729,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 1592.7278999999999,
-    "whale_pct": 9.116,
+    "whale_usd": 2096.7279,
+    "whale_pct": 12.001,
     "whale_value_at_open": 17471.9635,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -91741,8 +91741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788443788.0307403,
-    "fills": 1
+    "last_fill_at": 1788444218.6716344,
+    "fills": 2
   },
   {
     "timestamp": 1788443897,
@@ -91814,6 +91814,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788443980.287819,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788444120,
+    "timestamp_added": 1788444121.192405,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nedic-feldbau-2026-09-03",
+    "title": "Como: Andrej Nedic vs Kilian Feldbausch",
+    "outcome": "Andrej Nedic",
+    "side": "BUY",
+    "whale_usd": 5295.326666,
+    "whale_pct": 2.455,
+    "whale_value_at_open": 215660.4407,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788444121.1924176,
     "fills": 1
   }
 ]
