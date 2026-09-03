@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.0275185704596,
+  "bankroll": 464.5182761462172,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18270,6 +18270,11 @@
       "timestamp": 1788442311.673881,
       "bankroll": 462.03,
       "event": "won: ferrariChampions2026 \u2014 LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788444272.7244053,
+      "bankroll": 464.52,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Felix Balshaw vs Alexandre Muller"
     }
   ]
 }
