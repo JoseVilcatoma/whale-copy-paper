@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 22:07:28 (hora de Perú)
+Actualizado: 2026-09-02 22:09:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.82
@@ -715,7 +715,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open WTA: Lanlana Tararudee vs Linda  | Linda Noskova (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
-| kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 114.1% | ⏳ pendiente | — |
+| kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 288.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 96% | 5.00 | 2.0% | 💰 vendida anticipada | +0.09 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | 💰 vendida anticipada | -0.12 |
 | Feromont | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 74% | 5.00 | 2.7% | ✅ ganada | +1.69 |
