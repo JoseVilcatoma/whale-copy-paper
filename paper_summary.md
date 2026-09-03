@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 21:48:46 (hora de Perú)
+Actualizado: 2026-09-02 21:50:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.02
-**Retorno acumulado:** -6.00%
+**Bankroll actual:** $473.53
+**Retorno acumulado:** -5.29%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 21:48:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $320.02)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $328.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| 1winstreak1 | 1 | 0 | 3 | +3.52 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | AV23IUa | 24 | 15 | 2 | +3.23 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -79,7 +80,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
-| 1winstreak1 | 0 | 0 | 4 | +0.00 USD |
 | Feromont | 0 | 0 | 3 | +0.00 USD |
 | pleaseplease123 | 8 | 7 | 3 | -0.41 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -125,14 +125,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3394
-- **Aciertos:** 2170 (63.9%)
+- **Apuestas resueltas:** 3395
+- **Aciertos:** 2171 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,945.24
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $310.38 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,950.24
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $310.48 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1699 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1700 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1017 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -724,7 +724,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 32.6% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 5.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
