@@ -91339,8 +91339,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -91432,8 +91432,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 33512.305333000004,
-    "whale_pct": 14.105,
+    "whale_usd": 34268.72442300001,
+    "whale_pct": 14.423,
     "whale_value_at_open": 237597.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -91446,8 +91446,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788445328.9757755,
-    "fills": 9
+    "last_fill_at": 1788445365.6672018,
+    "fills": 10
   },
   {
     "timestamp": 1788438023,

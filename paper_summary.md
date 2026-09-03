@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 09:22:14 (hora de Perú)
+Actualizado: 2026-09-03 09:24:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.52
-**Retorno acumulado:** -7.10%
+**Bankroll actual:** $459.41
+**Retorno acumulado:** -8.12%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 09:22:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $164.52)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $164.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 396 | 245 | 31 | -142.29 USD |
+| ferrariChampions2026 | 396 | 246 | 30 | -147.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3471
+- **Apuestas resueltas:** 3472
 - **Aciertos:** 2216 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,330.24
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $317.41 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,335.24
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $317.52 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1737 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1738 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1042 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 478 | 85.8% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 214 | 96.3% | 97.4% | -1.1 pp |
@@ -757,11 +757,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Billy Harris vs Jay Dylan Frien | Jay Dylan Friend (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Jay Dylan Frien | Jay Dylan Friend (BUY) | 55% | 5.00 | 1.7% | ❌ perdida | -5.11 |
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Chicago White Sox (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |

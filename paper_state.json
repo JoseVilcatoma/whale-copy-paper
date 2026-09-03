@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.5182761462172,
+  "bankroll": 459.4062761462172,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18275,6 +18275,11 @@
       "timestamp": 1788444272.7244053,
       "bankroll": 464.52,
       "event": "won: ferrariChampions2026 \u2014 Manacor: Felix Balshaw vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1788445395.2257764,
+      "bankroll": 459.41,
+      "event": "lost: ferrariChampions2026 \u2014 Manacor: Billy Harris vs Jay Dylan Friend"
     }
   ]
 }
