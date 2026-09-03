@@ -91432,8 +91432,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 20811.328032999998,
-    "whale_pct": 8.759,
+    "whale_usd": 23865.306432999998,
+    "whale_pct": 10.044,
     "whale_value_at_open": 237597.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -91446,8 +91446,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788438536.4165106,
-    "fills": 5
+    "last_fill_at": 1788444087.9688594,
+    "fills": 7
   },
   {
     "timestamp": 1788438023,
@@ -91753,8 +91753,8 @@
     "title": "Manacor: Luca Potenza vs Joel Schwaerzler",
     "outcome": "Luca Potenza",
     "side": "BUY",
-    "whale_usd": 937.7090999999999,
-    "whale_pct": 0.382,
+    "whale_usd": 1785.499811,
+    "whale_pct": 0.727,
     "whale_value_at_open": 245525.9224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -91765,8 +91765,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788443898.243868,
-    "fills": 1
+    "last_fill_at": 1788444069.8444855,
+    "fills": 2
   },
   {
     "timestamp": 1788443915,
@@ -91790,6 +91790,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788443916.1207201,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788443979,
+    "timestamp_added": 1788443980.2878096,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-milev-parisca-2026-09-03",
+    "title": "Plovdiv 3: Yanaki Milev vs Ignacio Parisca",
+    "outcome": "Yanaki Milev",
+    "side": "BUY",
+    "whale_usd": 888.840857,
+    "whale_pct": 0.347,
+    "whale_value_at_open": 255866.5994,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788443980.287819,
     "fills": 1
   }
 ]
