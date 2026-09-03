@@ -89533,8 +89533,8 @@
     "title": "US Open WTA: Lilli Tagger vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 517.6305,
-    "whale_pct": 0.292,
+    "whale_usd": 4921.910499,
+    "whale_pct": 2.779,
     "whale_value_at_open": 177087.2062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -89545,8 +89545,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788412443.199344,
-    "fills": 1
+    "last_fill_at": 1788437933.2836905,
+    "fills": 2
   },
   {
     "timestamp": 1788413486,
@@ -90862,8 +90862,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 28838.276727,
-    "whale_pct": 16.414,
+    "whale_usd": 45638.276727000004,
+    "whale_pct": 25.976,
     "whale_value_at_open": 175691.3905,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -90874,8 +90874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788437897.232868,
-    "fills": 7
+    "last_fill_at": 1788437916.9030683,
+    "fills": 13
   },
   {
     "timestamp": 1788431469,
@@ -91397,6 +91397,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788437831.5177004,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437918,
+    "timestamp_added": 1788437919.018889,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-svajda-gea-2026-09-03",
+    "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "whale_usd": 726.3097999999999,
+    "whale_pct": 0.306,
+    "whale_value_at_open": 237597.0327,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437919.018896,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437928,
+    "timestamp_added": 1788437929.386894,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-damas-kuzmano-2026-09-03",
+    "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
+    "outcome": "Miguel Damas",
+    "side": "BUY",
+    "whale_usd": 12522.9577,
+    "whale_pct": 5.271,
+    "whale_value_at_open": 237597.0327,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437929.3869035,
     "fills": 1
   }
 ]

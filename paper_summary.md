@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 07:18:19 (hora de Perú)
+Actualizado: 2026-09-03 07:20:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.65
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 07:18:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $159.65)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $149.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 389 | 242 | 26 | -138.08 USD |
+| ferrariChampions2026 | 389 | 242 | 28 | -138.08 USD |
 
 ## Análisis general
 
@@ -736,6 +736,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Billy Harris vs Jay Dylan Frien | Jay Dylan Friend (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -757,12 +759,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Filip Jianu (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | 💰 vendida anticipada | +3.10 |
-| AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 16.4% | ⏳ pendiente | — |
+| AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 26.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 2.3% | ❌ perdida | -5.09 |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | Dplus KIA (BUY) | 69% | 5.00 | 34.0% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | BNK FEARX (BUY) | 43% | 5.00 | 34.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: SSG Landers vs. Kiwoom Heroes | SSG Landers (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | BNK FEARX (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 12.2% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | US Open ATP: Felix Auger-Aliassime vs Ka | Felix Auger-Aliassime (BUY) | 74% | 5.00 | 4.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: Hanwha Eagles vs. KT Wiz | Hanwha Eagles (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
