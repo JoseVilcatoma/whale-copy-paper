@@ -88979,8 +88979,8 @@
     "title": "US Open ATP: Taylor Fritz vs Mattia Bellucci",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 11488.749998000001,
-    "whale_pct": 7.444,
+    "whale_usd": 16956.869996,
+    "whale_pct": 10.987,
     "whale_value_at_open": 154333.0891,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -88991,7 +88991,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788406316.8608556,
-    "fills": 1
+    "last_fill_at": 1788406330.0884473,
+    "fills": 2
   }
 ]
