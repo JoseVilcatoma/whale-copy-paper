@@ -90531,8 +90531,8 @@
     "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
     "outcome": "Federico Iannaccone",
     "side": "BUY",
-    "whale_usd": 12077.011886,
-    "whale_pct": 9.121,
+    "whale_usd": 13925.453486,
+    "whale_pct": 10.517,
     "whale_value_at_open": 132403.3689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -90545,8 +90545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788427083.2860477,
-    "fills": 5
+    "last_fill_at": 1788427208.8665478,
+    "fills": 6
   },
   {
     "timestamp": 1788426717,
@@ -90557,8 +90557,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA - Game 2 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 6200.0,
-    "whale_pct": 16.648,
+    "whale_usd": 8400.0,
+    "whale_pct": 22.555,
     "whale_value_at_open": 37242.6612,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -90571,7 +90571,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788426718.4688246,
-    "fills": 1
+    "last_fill_at": 1788427220.7880108,
+    "fills": 2
   }
 ]
