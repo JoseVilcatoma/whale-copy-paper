@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 09:53:24 (hora de Perú)
+Actualizado: 2026-09-03 09:55:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $459.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 09:53:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $154.66)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $144.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
-| BBQChickenisthebesttt | 6 | 2 | 0 | +10.72 USD |
+| BBQChickenisthebesttt | 6 | 2 | 1 | +10.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 397 | 246 | 31 | -147.15 USD |
+| ferrariChampions2026 | 397 | 246 | 32 | -147.15 USD |
 
 ## Análisis general
 
@@ -720,6 +720,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-vp-fnc-2026-09-03 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
+| lal-rso-cel-2026-09-03-rso | BBQChickenisthebesttt, Flaznorp |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
 | atp-struff-cerundo-2026-09-02 | AV23IUa, ferrariChampions2026 |
 | atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
@@ -737,6 +738,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -765,5 +768,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Billy Harris vs Jay Dylan Frien | Jay Dylan Friend (BUY) | 55% | 5.00 | 1.7% | ❌ perdida | -5.11 |
-| Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ✅ ganada | +0.20 |
