@@ -89947,8 +89947,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 8208.837519,
-    "whale_pct": 8.797,
+    "whale_usd": 8928.047519,
+    "whale_pct": 9.568,
     "whale_value_at_open": 93310.7715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -89961,8 +89961,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788421958.3189347,
-    "fills": 3
+    "last_fill_at": 1788422837.5041685,
+    "fills": 4
   },
   {
     "timestamp": 1788421957,
@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 635.4,
-    "whale_pct": 0.62,
+    "whale_usd": 2653.0468,
+    "whale_pct": 2.589,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,7 +90111,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422790.1110704,
-    "fills": 1
+    "last_fill_at": 1788422875.06585,
+    "fills": 4
   }
 ]
