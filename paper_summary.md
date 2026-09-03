@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 02:17:25 (hora de Perú)
+Actualizado: 2026-09-03 02:19:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 02:17:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $342.60)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $337.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| AV23IUa | 25 | 16 | 0 | +1.77 USD |
+| AV23IUa | 25 | 16 | 1 | +1.77 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -717,6 +717,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Khumoun Sultanov (BUY) | 67% | 5.00 | 9.9% | ⏳ pendiente | — |
@@ -746,4 +747,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 12.5% | ❌ perdida | -5.01 |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ✅ ganada | +5.08 |
-| 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
