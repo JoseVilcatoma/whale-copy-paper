@@ -90557,8 +90557,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA - Game 2 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 8400.0,
-    "whale_pct": 22.555,
+    "whale_usd": 10659.688246,
+    "whale_pct": 28.622,
     "whale_value_at_open": 37242.6612,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -90571,7 +90571,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788427220.7880108,
-    "fills": 2
+    "last_fill_at": 1788427441.6781085,
+    "fills": 5
   }
 ]
