@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 22:23:49 (hora de Perú)
+Actualizado: 2026-09-02 22:25:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $465.77
-**Retorno acumulado:** -6.85%
+**Bankroll actual:** $469.43
+**Retorno acumulado:** -6.11%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 22:23:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $335.77)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $339.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| AV23IUa | 25 | 15 | 1 | +6.89 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -55,7 +56,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
-| AV23IUa | 24 | 15 | 2 | +3.23 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 1 | 2 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| 0x4f2 | 12 | 11 | 0 | -2.16 USD |
+| 0x4f2 | 12 | 11 | 1 | -2.16 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -125,14 +125,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3401
-- **Aciertos:** 2174 (63.9%)
+- **Apuestas resueltas:** 3402
+- **Aciertos:** 2175 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,980.24
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $311.15 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,985.24
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $311.26 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1703 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1704 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1020 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -702,7 +702,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-color-b8-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, TheMafiaa |
 | lol-hle1-t1-2026-09-02-game2 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, TheMafiaa |
 | mlb-nym-tb-2026-09-02 | 0x4f2, AV23IUa, monkeymashingkeyboard |
-| mlb-det-min-2026-09-02 | 1winstreak1, AV23IUa |
+| mlb-det-min-2026-09-02 | 0x4f2, 1winstreak1, AV23IUa |
 | mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
 | cs2-big5-nemi1-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | mlb-mil-chc-2026-09-02 | 0x4f2, monkeymashingkeyboard, pleaseplease123 |
@@ -714,6 +714,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lanlana Tararudee vs Linda  | Linda Noskova (BUY) | 98% | 5.00 | 2.2% | ⏳ pendiente | — |
 | kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 310.2% | ⏳ pendiente | — |
@@ -743,4 +744,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Boca Juniors win on 2026-09-02? | Yes (BUY) | 53% | 5.00 | 64.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: DEPO vs Lynn Vision (BO3 | Lynn Vision (BUY) | 86% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs Nemiga ( | Nemiga (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |

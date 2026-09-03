@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.7695010899549,
+  "bankroll": 469.4334309145163,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17855,6 +17855,11 @@
       "timestamp": 1788405603.4179914,
       "bankroll": 465.77,
       "event": "lost: 0x4f2 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788405915.684747,
+      "bankroll": 469.43,
+      "event": "won: AV23IUa \u2014 US Open ATP: Valentin Vacherot vs Kamil Majchrzak"
     }
   ]
 }
