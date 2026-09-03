@@ -90073,8 +90073,8 @@
     "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
     "outcome": "Alejandro Tabilo",
     "side": "BUY",
-    "whale_usd": 16046.147954,
-    "whale_pct": 16.335,
+    "whale_usd": 16557.429322,
+    "whale_pct": 16.855,
     "whale_value_at_open": 98234.6715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -90087,8 +90087,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469547.381407,
-    "fills": 6
+    "last_fill_at": 1788469783.7622344,
+    "fills": 7
   },
   {
     "timestamp": 1788422789,
@@ -92091,8 +92091,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 1969.3,
-    "whale_pct": 1.026,
+    "whale_usd": 7048.8260740000005,
+    "whale_pct": 3.673,
     "whale_value_at_open": 191922.2652,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -92103,8 +92103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448295.5417295,
-    "fills": 1
+    "last_fill_at": 1788469871.4185495,
+    "fills": 3
   },
   {
     "timestamp": 1788448505,
@@ -92449,5 +92449,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788469457.9454038,
     "fills": 4
+  },
+  {
+    "timestamp": 1788469771,
+    "timestamp_added": 1788469771.3431017,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zhen-putints-2026-09-02",
+    "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
+    "outcome": "Yulia Putintseva",
+    "side": "BUY",
+    "whale_usd": 4933.6875,
+    "whale_pct": 1.658,
+    "whale_value_at_open": 297590.0672,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788469771.3431106,
+    "fills": 1
   }
 ]
