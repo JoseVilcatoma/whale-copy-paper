@@ -92684,8 +92684,8 @@
     "title": "Milwaukee Brewers vs. Chicago Cubs",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 5238.938700000001,
-    "whale_pct": 47.338,
+    "whale_usd": 10573.818,
+    "whale_pct": 95.543,
     "whale_value_at_open": 11067.0761,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -92696,8 +92696,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788476010.0546045,
-    "fills": 1
+    "last_fill_at": 1788476548.1670938,
+    "fills": 2
   },
   {
     "timestamp": 1788476139,
@@ -92721,6 +92721,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788476140.583643,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788476547,
+    "timestamp_added": 1788476548.416216,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-mil-chc-2026-09-03",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 4999.9963,
+    "whale_pct": 12.113,
+    "whale_value_at_open": 41276.9653,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788476548.4162254,
     "fills": 1
   }
 ]
