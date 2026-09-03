@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.05918236386094,
+  "bankroll": 463.86918236386094,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17785,6 +17785,16 @@
       "timestamp": 1788398659.0396578,
       "bankroll": 474.06,
       "event": "won: AV23IUa \u2014 US Open ATP: Lloyd Harris vs Stefanos Tsitsipas"
+    },
+    {
+      "timestamp": 1788400241.4007432,
+      "bankroll": 468.96,
+      "event": "lost: AV23IUa \u2014 New York Mets vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788400242.4631088,
+      "bankroll": 463.87,
+      "event": "lost: monkeymashingkeyboard \u2014 New York Mets vs. Tampa Bay Rays"
     }
   ]
 }
