@@ -90862,8 +90862,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 907.1440000000001,
-    "whale_pct": 0.516,
+    "whale_usd": 28838.276727,
+    "whale_pct": 16.414,
     "whale_value_at_open": 175691.3905,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -90874,8 +90874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788431203.4929507,
-    "fills": 1
+    "last_fill_at": 1788437897.232868,
+    "fills": 7
   },
   {
     "timestamp": 1788431469,
@@ -91345,6 +91345,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788437678.2045562,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437795,
+    "timestamp_added": 1788437795.4022477,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-bal-2026-09-03",
+    "title": "Boston Red Sox vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 5665.889999,
+    "whale_pct": 2.485,
+    "whale_value_at_open": 227995.4196,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437795.4022577,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437831,
+    "timestamp_added": 1788437831.5176892,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-rso-cel-2026-09-03-total-2pt5",
+    "title": "Real Sociedad de F\u00fatbol vs. RC Celta de Vigo: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 525.2,
+    "whale_pct": 0.23,
+    "whale_value_at_open": 227995.4196,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437831.5177004,
     "fills": 1
   }
 ]
