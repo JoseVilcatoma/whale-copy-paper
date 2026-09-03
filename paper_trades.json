@@ -89713,5 +89713,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788414805.2704287,
     "fills": 1
+  },
+  {
+    "timestamp": 1788417337,
+    "timestamp_added": 1788417338.0666318,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-fox1-dk-2026-09-03-game-handicap-home-1pt5",
+    "title": "Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 2985.7834999999995,
+    "whale_pct": 4.969,
+    "whale_value_at_open": 60085.2995,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788417338.0666432,
+    "fills": 1
   }
 ]
