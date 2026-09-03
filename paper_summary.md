@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 20:08:27 (hora de Perú)
+Actualizado: 2026-09-02 20:10:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.12
@@ -722,7 +722,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 49% | 5.00 | 27.9% | ⏳ pendiente | — |
-| pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 7.6% | ⏳ pendiente | — |
+| pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 11.3% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 91% | 5.00 | 4.5% | 💰 vendida anticipada | -0.16 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 44% | 5.00 | 18.5% | 💰 vendida anticipada | +1.77 |
 | Talvez10 | Miami Marlins vs. Kansas City Royals: O/ | Under (BUY) | 47% | 5.00 | 87.8% | ⏳ pendiente | — |
