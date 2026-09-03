@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.4544261643012,
+  "bankroll": 440.1479975928726,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18495,6 +18495,16 @@
       "timestamp": 1788474149.342254,
       "bankroll": 441.45,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Tristan Schoolkate vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1788474461.182378,
+      "bankroll": 445.27,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1788474461.2825005,
+      "bankroll": 440.15,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Yulia Putintseva"
     }
   ]
 }

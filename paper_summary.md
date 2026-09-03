@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 17:25:35 (hora de Perú)
+Actualizado: 2026-09-03 17:27:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.45
-**Retorno acumulado:** -11.71%
+**Bankroll actual:** $440.15
+**Retorno acumulado:** -11.97%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 17:25:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $221.45)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $230.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 409 | 255 | 24 | -169.93 USD |
+| ferrariChampions2026 | 410 | 256 | 22 | -171.23 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3515
-- **Aciertos:** 2243 (63.8%)
+- **Apuestas resueltas:** 3517
+- **Aciertos:** 2244 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,550.24
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $321.16 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,560.24
+- **ROI sobre lo apostado:** -0.97%
+- **Comisiones pagadas (taker fee):** $321.39 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1757 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1759 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1055 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 485 | 85.8% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 218 | 96.3% | 97.3% | -1.0 pp |
@@ -749,8 +749,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 218.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ✅ ganada | +0.65 |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
