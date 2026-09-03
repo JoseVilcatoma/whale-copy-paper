@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 06:47:50 (hora de Perú)
+Actualizado: 2026-09-03 06:49:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.77
@@ -733,7 +733,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 6.2% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 8.8% | ⏳ pendiente | — |
