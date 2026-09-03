@@ -92401,5 +92401,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788465291.021993,
     "fills": 1
+  },
+  {
+    "timestamp": 1788469044,
+    "timestamp_added": 1788469045.181645,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-schoolk-cobolli-2026-09-02",
+    "title": "US Open ATP: Tristan Schoolkate vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 11117.5812,
+    "whale_pct": 3.648,
+    "whale_value_at_open": 304778.3934,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788469045.181657,
+    "fills": 1
   }
 ]
