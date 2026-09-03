@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 11:52:05 (hora de Perú)
+Actualizado: 2026-09-03 11:54:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 11:52:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $194.66)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $189.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -113,7 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Talvez10 | 1 | 3 | 0 | -10.98 USD |
-| ExplosiveNinja | 7 | 7 | 2 | -13.35 USD |
+| ExplosiveNinja | 7 | 7 | 3 | -13.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -735,11 +735,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-damas-kuzmano-2026-09-03 | Flaznorp, ferrariChampions2026 |
 | mlb-sf-pit-2026-09-03-total-8pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-sf-pit-2026-09-03-total-9pt5 | ferrariChampions2026, pleaseplease123 |
+| cs2-3dmax-hotu-2026-09-03 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -769,4 +771,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 55% | 5.00 | 22.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Virtus.pro vs fnatic (BO | fnatic (BUY) | 58% | 5.00 | 59.9% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ✅ ganada | +2.07 |
-| ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
