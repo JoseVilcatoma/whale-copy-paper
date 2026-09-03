@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 18:17:50 (hora de Perú)
+Actualizado: 2026-09-03 18:19:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $431.64
@@ -746,7 +746,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 14.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 15.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Gael Monfils vs Learner Tie | Learner Tien (BUY) | 85% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Feromont | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 48% | 5.00 | 24.2% | ⏳ pendiente | — |
