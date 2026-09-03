@@ -91530,8 +91530,8 @@
     "title": "Manacor: Felix Balshaw vs Alexandre Muller",
     "outcome": "Felix Balshaw",
     "side": "BUY",
-    "whale_usd": 2335.5450229999997,
-    "whale_pct": 0.858,
+    "whale_usd": 11126.745023,
+    "whale_pct": 4.089,
     "whale_value_at_open": 272138.885,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -91542,8 +91542,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788439018.5702105,
-    "fills": 2
+    "last_fill_at": 1788440628.9252994,
+    "fills": 3
   },
   {
     "timestamp": 1788439049,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 08:03:47 (hora de Perú)
+Actualizado: 2026-09-03 08:05:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $465.22
@@ -738,7 +738,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
