@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 15:59:52 (hora de Perú)
+Actualizado: 2026-09-03 16:01:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $457.42
-**Retorno acumulado:** -8.52%
+**Bankroll actual:** $462.00
+**Retorno acumulado:** -7.60%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 15:59:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $197.42)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $232.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,13 +33,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| BBQChickenisthebesttt | 7 | 2 | 1 | +12.59 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
-| BBQChickenisthebesttt | 6 | 2 | 2 | +10.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| AV23IUa | 27 | 16 | 5 | +8.72 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
@@ -53,14 +54,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 1 | +3.91 USD |
-| AV23IUa | 26 | 16 | 6 | +3.84 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| Flaznorp | 23 | 6 | 5 | +3.58 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| Flaznorp | 21 | 6 | 7 | +2.80 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 407 | 253 | 24 | -162.51 USD |
+| ferrariChampions2026 | 408 | 254 | 22 | -165.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3500
-- **Aciertos:** 2234 (63.8%)
+- **Apuestas resueltas:** 3506
+- **Aciertos:** 2239 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,475.24
-- **ROI sobre lo apostado:** -0.87%
-- **Comisiones pagadas (taker fee):** $319.93 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,505.24
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $320.36 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,10 +142,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1749 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1053 | 69.6% | 67.8% | +1.8 pp |
-| 80-94% | 482 | 85.7% | 86.7% | -1.0 pp |
-| 95-99% (casi seguro) | 216 | 96.3% | 97.4% | -1.1 pp |
+| 40-59% | 1751 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1055 | 69.7% | 67.8% | +1.9 pp |
+| 80-94% | 483 | 85.7% | 86.7% | -1.0 pp |
+| 95-99% (casi seguro) | 217 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -745,7 +745,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 25.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -761,7 +761,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 2.2% | ✅ ganada | +2.72 |
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ✅ ganada | +1.52 |
-| ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -769,6 +769,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 135.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Joel Schwaerzle | Luca Potenza (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 94.2% | ✅ ganada | +5.73 |

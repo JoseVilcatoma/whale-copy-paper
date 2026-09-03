@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.42340754442455,
+  "bankroll": 462.00194225075563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18420,6 +18420,36 @@
       "timestamp": 1788468932.2914805,
       "bankroll": 457.42,
       "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Houston Astros"
+    },
+    {
+      "timestamp": 1788469235.4668572,
+      "bankroll": 457.67,
+      "event": "won: Flaznorp \u2014 1st Half Spread: Toulouse FC (-1.5)"
+    },
+    {
+      "timestamp": 1788469235.772803,
+      "bankroll": 458.2,
+      "event": "won: Flaznorp \u2014 1st Half Spread: Lille OSC (-1.5)"
+    },
+    {
+      "timestamp": 1788469237.835664,
+      "bankroll": 463.08,
+      "event": "won: AV23IUa \u2014 Will Lille OSC win on 2026-09-03?"
+    },
+    {
+      "timestamp": 1788469241.6205385,
+      "bankroll": 465.25,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1788469242.5507197,
+      "bankroll": 460.13,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788469244.3046036,
+      "bankroll": 462.0,
+      "event": "won: BBQChickenisthebesttt \u2014 Will Toulouse FC win on 2026-09-03?"
     }
   ]
 }
