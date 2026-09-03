@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 16:01:54 (hora de Perú)
+Actualizado: 2026-09-03 16:03:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.00
@@ -742,7 +742,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
@@ -764,7 +764,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 1.5% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 93.6% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 135.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ✅ ganada | +3.82 |
