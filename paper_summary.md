@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:58:15 (hora de Perú)
+Actualizado: 2026-09-03 00:00:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $460.00
-**Retorno acumulado:** -8.00%
+**Bankroll actual:** $465.89
+**Retorno acumulado:** -6.82%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:58:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $325.00)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $340.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| Feromont | 2 | 1 | 0 | +3.66 USD |
+| Feromont | 2 | 1 | 1 | +3.66 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -82,8 +82,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
+| 0x4f2 | 13 | 14 | 1 | -0.76 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| pleaseplease123 | 9 | 8 | 1 | -1.23 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| 1winstreak1 | 2 | 2 | 3 | -3.36 USD |
+| 1winstreak1 | 3 | 3 | 2 | -3.41 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -99,9 +99,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| pleaseplease123 | 9 | 9 | 0 | -6.38 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0x4f2 | 12 | 14 | 1 | -6.98 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -121,18 +121,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 380 | 235 | 6 | -139.57 USD |
+| ferrariChampions2026 | 381 | 235 | 5 | -134.69 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3409
-- **Aciertos:** 2179 (63.9%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 3414
+- **Aciertos:** 2182 (63.9%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,020.24
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $311.88 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,045.24
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $312.56 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1709 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1714 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1020 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 471 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 209 | 96.7% | 97.4% | -0.7 pp |
@@ -715,17 +715,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Feromont | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 54% | 5.00 | 33.0% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
+| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 4.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | Dplus KIA (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
-| 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ⏳ pendiente | — |
+| 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ✅ ganada | +6.22 |
+| 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 12.5% | ⏳ pendiente | — |
-| 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
+| 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ✅ ganada | +5.08 |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
-| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.9% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |
@@ -742,6 +745,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 34.8% | 💰 vendida anticipada | +2.97 |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ✅ ganada | +3.37 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 5.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
-| kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
-| 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ❌ perdida | -5.14 |

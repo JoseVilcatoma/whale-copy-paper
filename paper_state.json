@@ -1,5 +1,5 @@
 {
-  "bankroll": 460.0010479838612,
+  "bankroll": 465.8947659801507,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17920,6 +17920,31 @@
       "timestamp": 1788410960.7701461,
       "bankroll": 460.0,
       "event": "won: pleaseplease123 \u2014 New York Yankees vs. Los Angeles Angels: O/U 6.5"
+    },
+    {
+      "timestamp": 1788411590.5476344,
+      "bankroll": 454.85,
+      "event": "lost: pleaseplease123 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788411594.0337985,
+      "bankroll": 459.73,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788411594.1339695,
+      "bankroll": 464.8,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788411594.64184,
+      "bankroll": 459.67,
+      "event": "lost: 1winstreak1 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788411594.7420018,
+      "bankroll": 465.89,
+      "event": "won: 0x4f2 \u2014 New York Yankees vs. Los Angeles Angels"
     }
   ]
 }
