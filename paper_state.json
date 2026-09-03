@@ -1,5 +1,5 @@
 {
-  "bankroll": 442.4319183273106,
+  "bankroll": 440.80260798248304,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18480,6 +18480,16 @@
       "timestamp": 1788471009.3543851,
       "bankroll": 442.43,
       "event": "lost: BBQChickenisthebesttt \u2014 Will Real Sociedad de F\u00fatbol win on 2026-09-03?"
+    },
+    {
+      "timestamp": 1788473200.121379,
+      "bankroll": 437.29,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Virtus.pro vs fnatic (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788473205.014564,
+      "bankroll": 440.8,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Virtus.pro vs fnatic (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
     }
   ]
 }
