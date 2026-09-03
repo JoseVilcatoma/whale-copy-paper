@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:29:39 (hora de Perú)
+Actualizado: 2026-09-03 05:31:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 05:29:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $191.66)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $186.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
-| BBQChickenisthebesttt | 4 | 1 | 2 | +10.54 USD |
+| BBQChickenisthebesttt | 4 | 1 | 3 | +10.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -729,6 +729,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | Dplus KIA (BUY) | 69% | 5.00 | 34.0% | ⏳ pendiente | — |
@@ -749,7 +750,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 56% | 5.00 | 9.6% | 💰 vendida anticipada | -1.02 |
 | RN1 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 38.5% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
@@ -758,4 +759,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 38.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | BNK FEARX (BUY) | 41% | 5.00 | 71.0% | 💰 vendida anticipada | +7.05 |
 | RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 34.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 58% | 5.00 | 1.5% | ⏳ pendiente | — |
