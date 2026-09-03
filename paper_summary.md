@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 22:42:14 (hora de Perú)
+Actualizado: 2026-09-02 22:44:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.82
@@ -714,7 +714,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |

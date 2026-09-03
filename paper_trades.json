@@ -89027,8 +89027,8 @@
     "title": "New York Yankees vs. Los Angeles Angels",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 1131.0375999999999,
-    "whale_pct": 0.775,
+    "whale_usd": 3206.1145229999997,
+    "whale_pct": 2.197,
     "whale_value_at_open": 145903.447,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -89043,7 +89043,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788406733.3298042,
-    "fills": 1
+    "last_fill_at": 1788407034.915074,
+    "fills": 3
   }
 ]
