@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:48:41 (hora de Perú)
+Actualizado: 2026-09-03 05:50:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $475.54
-**Retorno acumulado:** -4.89%
+**Bankroll actual:** $470.50
+**Retorno acumulado:** -5.90%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 05:48:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $195.54)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $190.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 15 | 10 | +63.52 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 16 | 9 | +58.48 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 387 | 240 | 18 | -139.35 USD |
+| ferrariChampions2026 | 387 | 240 | 19 | -139.35 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3436
+- **Apuestas resueltas:** 3437
 - **Aciertos:** 2195 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,155.24
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $314.51 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,160.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $314.54 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1724 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1028 | 69.8% | 67.8% | +2.1 pp |
-| 80-94% | 473 | 86.3% | 86.7% | -0.5 pp |
+| 80-94% | 474 | 86.1% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -720,6 +720,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
+| atp-struff-cerundo-2026-09-02 | AV23IUa, ferrariChampions2026 |
 | atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
 | atp-aboian-sorger-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Flaznorp, RN1, ferrariChampions2026 |
 | atp-iannacc-mrva-2026-09-03 | RN1, ferrariChampions2026 |
@@ -729,6 +730,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -758,4 +760,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 38.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | BNK FEARX (BUY) | 41% | 5.00 | 71.0% | 💰 vendida anticipada | +7.05 |
-| RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 34.1% | ⏳ pendiente | — |

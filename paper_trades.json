@@ -88247,8 +88247,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -90897,6 +90897,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788431470.3385723,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788432550,
+    "timestamp_added": 1788432550.769506,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-struff-cerundo-2026-09-02",
+    "title": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
+    "outcome": "Jan-Lennard Struff",
+    "side": "BUY",
+    "whale_usd": 1774.4240000000002,
+    "whale_pct": 1.162,
+    "whale_value_at_open": 152670.2821,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788432550.7695265,
     "fills": 1
   }
 ]
