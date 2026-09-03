@@ -89007,8 +89007,8 @@
     "title": "Zhangjiagang: Akira Santillan vs Ilya Ivashka",
     "outcome": "Ilya Ivashka",
     "side": "BUY",
-    "whale_usd": 7752.245032,
-    "whale_pct": 5.324,
+    "whale_usd": 11244.401553,
+    "whale_pct": 7.722,
     "whale_value_at_open": 145613.9315,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -89019,8 +89019,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788411965.8897665,
-    "fills": 4
+    "last_fill_at": 1788412022.5257943,
+    "fills": 5
   },
   {
     "timestamp": 1788406733,
@@ -89424,8 +89424,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.17,
     "overlaps_with": [
       "1winstreak1",
       "Feromont",
@@ -89434,7 +89434,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788411808.1669204,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.059,
+    "closed_price": 87
   },
   {
     "timestamp": 1788411931,

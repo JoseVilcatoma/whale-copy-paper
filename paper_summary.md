@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 00:06:19 (hora de Perú)
+Actualizado: 2026-09-03 00:08:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.97
-**Retorno acumulado:** -5.21%
+**Bankroll actual:** $473.80
+**Retorno acumulado:** -5.24%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 00:06:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $348.97)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $353.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| 0x4f2 | 14 | 14 | 1 | +0.56 USD |
+| 0x4f2 | 14 | 15 | 0 | +0.39 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
@@ -716,7 +716,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 89% | 5.00 | 1.9% | 💰 vendida anticipada | -0.17 |
 | Feromont | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 54% | 5.00 | 33.0% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 6.1% | 💰 vendida anticipada | +1.32 |
@@ -731,7 +731,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ✅ ganada | +5.08 |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.9% | ✅ ganada | +4.88 |
-| ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 42% | 5.00 | 1.9% | ✅ ganada | +6.76 |
