@@ -91849,8 +91849,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 44253.024908,
-    "whale_pct": 107.489,
+    "whale_usd": 55590.532908,
+    "whale_pct": 135.028,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -91861,8 +91861,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788449514.2230108,
-    "fills": 5
+    "last_fill_at": 1788449986.4764779,
+    "fills": 6
   },
   {
     "timestamp": 1788444925,
@@ -92228,6 +92228,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788449511.7098365,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788449995,
+    "timestamp_added": 1788449996.2604887,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-yaw-paina-2026-09-03",
+    "title": "Counter-Strike: Yawara Esports vs paiN Academy (BO3) - CCT South America Series 5 Playoffs",
+    "outcome": "Yawara Esports",
+    "side": "BUY",
+    "whale_usd": 2379.0969999999998,
+    "whale_pct": 2.908,
+    "whale_value_at_open": 81823.7791,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788449996.2604973,
     "fills": 1
   }
 ]

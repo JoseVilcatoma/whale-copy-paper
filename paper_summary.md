@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:39:00 (hora de Perú)
+Actualizado: 2026-09-03 10:41:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 10:39:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $179.46)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $174.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 47 | 19 | 2 | +69.85 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 47 | 19 | 3 | +69.85 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -740,6 +740,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 56% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -755,7 +756,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 59.7% | ⏳ pendiente | — |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 107.5% | ⏳ pendiente | — |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 135.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -769,4 +770,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
