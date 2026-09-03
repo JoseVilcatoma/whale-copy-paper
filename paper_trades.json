@@ -88631,5 +88631,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788396376.688165,
     "fills": 1
+  },
+  {
+    "timestamp": 1788396875,
+    "timestamp_added": 1788396875.656287,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-det-min-2026-09-02",
+    "title": "Detroit Tigers vs. Minnesota Twins",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 4722.36,
+    "whale_pct": 20.219,
+    "whale_value_at_open": 23355.8769,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788396875.6563015,
+    "fills": 1
   }
 ]
