@@ -91506,8 +91506,8 @@
     "title": "Miami Marlins vs. Kansas City Royals: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 879.0815,
-    "whale_pct": 0.333,
+    "whale_usd": 14092.871498999997,
+    "whale_pct": 5.34,
     "whale_value_at_open": 263928.9185,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -91518,8 +91518,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788438295.5072277,
-    "fills": 1
+    "last_fill_at": 1788478339.1162212,
+    "fills": 2
   },
   {
     "timestamp": 1788438320,
@@ -92270,8 +92270,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -92294,8 +92294,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7"
     ],
@@ -92884,8 +92884,8 @@
     "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
     "outcome": "Zachary Svajda",
     "side": "BUY",
-    "whale_usd": 3446.5336,
-    "whale_pct": 1.746,
+    "whale_usd": 6049.8112,
+    "whale_pct": 3.064,
     "whale_value_at_open": 197421.6181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -92896,8 +92896,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477710.7888896,
-    "fills": 1
+    "last_fill_at": 1788478322.1276393,
+    "fills": 2
   },
   {
     "timestamp": 1788477809,

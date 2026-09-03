@@ -1,5 +1,5 @@
 {
-  "bankroll": 431.6447265124238,
+  "bankroll": 444.139053634577,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18610,6 +18610,16 @@
       "timestamp": 1788476020.1739712,
       "bankroll": 431.64,
       "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1788478305.2457807,
+      "bankroll": 438.4,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: 3DMAX vs HOTU (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1788478305.3460221,
+      "bankroll": 444.14,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: 3DMAX vs HOTU (BO3) - NODWIN Clutch Series Playoffs"
     }
   ]
 }
