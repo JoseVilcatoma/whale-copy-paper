@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.45820059451034,
+  "bankroll": 451.5485774061046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18360,6 +18360,16 @@
       "timestamp": 1788449005.860562,
       "bankroll": 454.46,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788452037.9467175,
+      "bankroll": 449.38,
+      "event": "lost: ferrariChampions2026 \u2014 Como: Jay Clarke vs Pedro Martinez"
+    },
+    {
+      "timestamp": 1788452039.3185625,
+      "bankroll": 451.55,
+      "event": "won: ferrariChampions2026 \u2014 Como: Jay Clarke vs Pedro Martinez"
     }
   ]
 }
