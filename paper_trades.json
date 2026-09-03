@@ -88446,8 +88446,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.6,
     "overlaps_with": [
       "AV23IUa",
       "monkeymashingkeyboard"
@@ -88455,7 +88455,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788393700.0595543,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.162,
+    "closed_price": 63
   },
   {
     "timestamp": 1788393622,

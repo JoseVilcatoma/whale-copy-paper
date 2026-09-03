@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 19:08:46 (hora de Perú)
+Actualizado: 2026-09-02 19:10:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.03
-**Retorno acumulado:** -4.79%
+**Bankroll actual:** $475.43
+**Retorno acumulado:** -4.91%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 19:08:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $326.03)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $330.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,9 +83,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| 0x4f2 | 9 | 7 | 3 | -1.31 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
+| 0x4f2 | 9 | 8 | 2 | -1.91 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -716,7 +716,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 97.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | ⏳ pendiente | — |
+| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 49% | 5.00 | 6.6% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
