@@ -90049,8 +90049,8 @@
     "title": "Will Lille OSC win on 2026-09-03?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2525.9892,
-    "whale_pct": 3.447,
+    "whale_usd": 4599.973,
+    "whale_pct": 6.277,
     "whale_value_at_open": 73282.1039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -90061,8 +90061,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788423477.9397206,
-    "fills": 3
+    "last_fill_at": 1788438916.7387252,
+    "fills": 4
   },
   {
     "timestamp": 1788422712,
