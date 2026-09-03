@@ -92932,8 +92932,8 @@
     "title": "US Open WTA: Paula Badosa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 6504.658115,
-    "whale_pct": 3.284,
+    "whale_usd": 9344.810815,
+    "whale_pct": 4.718,
     "whale_value_at_open": 198047.1815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -92944,8 +92944,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788478954.4136536,
-    "fills": 3
+    "last_fill_at": 1788479376.8713162,
+    "fills": 4
   },
   {
     "timestamp": 1788478988,
