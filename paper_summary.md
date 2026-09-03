@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 17:46:25 (hora de Perú)
+Actualizado: 2026-09-03 17:48:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $434.07
@@ -744,7 +744,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 53% | 5.00 | 16.7% | ⏳ pendiente | — |
+| Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 53% | 5.00 | 26.8% | ⏳ pendiente | — |
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 278.9% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 51% | 5.00 | 14.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
