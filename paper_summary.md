@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 04:35:48 (hora de Perú)
+Actualizado: 2026-09-03 04:37:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 04:35:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $225.79)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $220.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,6 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
+| zofgkt1111 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -715,7 +716,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE |
-| lol-fox1-dk-2026-09-03-game2 | BBQChickenisthebesttt, TAIWANNUMBERONE |
+| lol-fox1-dk-2026-09-03-game2 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
@@ -727,6 +728,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | BNK FEARX (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 28.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 13.9% | ⏳ pendiente | — |
@@ -756,4 +758,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 4.2% | ✅ ganada | +3.37 |
 | RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 68.3% | ⏳ pendiente | — |

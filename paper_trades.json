@@ -90601,5 +90601,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788427888.7328982,
     "fills": 2
+  },
+  {
+    "timestamp": 1788428204,
+    "timestamp_added": 1788428205.1066396,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-fox1-dk-2026-09-03-game2",
+    "title": "LoL: BNK FEARX vs Dplus KIA - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 920.0,
+    "whale_pct": 4.023,
+    "whale_value_at_open": 22866.409,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788428205.1066527,
+    "fills": 1
   }
 ]
