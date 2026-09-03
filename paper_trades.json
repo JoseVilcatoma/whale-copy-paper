@@ -86942,8 +86942,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 2191.857799,
-    "whale_pct": 1.676,
+    "whale_usd": 13311.341998999998,
+    "whale_pct": 10.181,
     "whale_value_at_open": 130744.0871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -86954,8 +86954,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788404852.791712,
-    "fills": 3
+    "last_fill_at": 1788405617.9505668,
+    "fills": 4
   },
   {
     "timestamp": 1788349483,
@@ -87489,8 +87489,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88149,8 +88149,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "monkeymashingkeyboard"
     ],
@@ -88549,8 +88549,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "monkeymashingkeyboard",
       "pleaseplease123"

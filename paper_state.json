@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.8211677566215,
+  "bankroll": 465.7695010899549,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17840,6 +17840,21 @@
       "timestamp": 1788404843.5243776,
       "bankroll": 472.82,
       "event": "won: Feromont \u2014 Miami Marlins vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788405600.9151268,
+      "bankroll": 476.05,
+      "event": "won: monkeymashingkeyboard \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788405601.627019,
+      "bankroll": 470.91,
+      "event": "lost: pleaseplease123 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788405603.4179914,
+      "bankroll": 465.77,
+      "event": "lost: 0x4f2 \u2014 Milwaukee Brewers vs. Chicago Cubs"
     }
   ]
 }
