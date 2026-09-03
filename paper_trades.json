@@ -90323,8 +90323,8 @@
     "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
     "outcome": "Maxim Mrva",
     "side": "BUY",
-    "whale_usd": 2603.939111,
-    "whale_pct": 1.99,
+    "whale_usd": 4026.161333,
+    "whale_pct": 3.077,
     "whale_value_at_open": 130847.1729,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -90335,8 +90335,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788425715.0917313,
-    "fills": 2
+    "last_fill_at": 1788426028.206911,
+    "fills": 3
   },
   {
     "timestamp": 1788425369,
@@ -90432,8 +90432,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -1.02,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -90441,7 +90441,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788425752.0581875,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.221,
+    "closed_price": 47
   },
   {
     "timestamp": 1788425791,
@@ -90468,5 +90470,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788425791.4073617,
     "fills": 1
+  },
+  {
+    "timestamp": 1788425958,
+    "timestamp_added": 1788425958.9839883,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "atp-aboian-sorger-2026-09-03",
+    "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
+    "outcome": "Valerio Aboian",
+    "side": "BUY",
+    "whale_usd": 5702.9098,
+    "whale_pct": 20.121,
+    "whale_value_at_open": 28343.0628,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788425974.1126158,
+    "fills": 2
   }
 ]

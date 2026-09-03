@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.84646386410486,
+  "bankroll": 481.8216870783906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18020,6 +18020,11 @@
       "timestamp": 1788423605.4859364,
       "bankroll": 482.85,
       "event": "won: RN1 \u2014 W75 Tianjin: Jiaqi Wang vs YeXin Ma"
+    },
+    {
+      "timestamp": 1788425930.843044,
+      "bankroll": 481.82,
+      "event": "venta anticipada: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger (-1.02 USD)"
     }
   ]
 }
