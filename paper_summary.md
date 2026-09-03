@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:18:22 (hora de Perú)
+Actualizado: 2026-09-03 10:20:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $442.01
-**Retorno acumulado:** -11.60%
+**Bankroll actual:** $453.85
+**Retorno acumulado:** -9.23%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 10:18:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $162.01)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $183.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 45 | 19 | 4 | +60.08 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 47 | 19 | 2 | +69.85 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
+| AV23IUa | 26 | 16 | 6 | +3.84 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -71,7 +72,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| AV23IUa | 25 | 16 | 7 | +1.77 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 400 | 250 | 28 | -160.14 USD |
+| ferrariChampions2026 | 400 | 250 | 29 | -160.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3483
-- **Aciertos:** 2221 (63.8%)
+- **Apuestas resueltas:** 3486
+- **Aciertos:** 2224 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,390.24
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $318.44 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,405.24
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $318.76 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,8 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1742 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1046 | 69.5% | 67.8% | +1.7 pp |
+| 40-59% | 1743 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1048 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 480 | 85.6% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 215 | 96.3% | 97.3% | -1.1 pp |
 
@@ -738,6 +738,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -760,11 +761,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
 | BrotherObama | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 55% | 5.00 | 22.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Virtus.pro vs fnatic (BO | fnatic (BUY) | 58% | 5.00 | 59.9% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.8% | ✅ ganada | +2.72 |
-| ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |

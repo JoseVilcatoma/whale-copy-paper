@@ -1,5 +1,5 @@
 {
-  "bankroll": 442.00815628304235,
+  "bankroll": 453.84563537711904,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18335,6 +18335,21 @@
       "timestamp": 1788448511.5815763,
       "bankroll": 442.01,
       "event": "lost: ferrariChampions2026 \u2014 KBO: Hanwha Eagles vs. KT Wiz"
+    },
+    {
+      "timestamp": 1788448816.042185,
+      "bankroll": 444.73,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788448816.338679,
+      "bankroll": 451.78,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: MIBR (-1.5) vs EYEBALLERS (+1.5)"
+    },
+    {
+      "timestamp": 1788448823.9547155,
+      "bankroll": 453.85,
+      "event": "won: AV23IUa \u2014 Counter-Strike: magic vs BIG (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
