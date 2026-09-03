@@ -90712,8 +90712,8 @@
     "title": "Porto: Niels Visker vs Pedro Vives Marcos",
     "outcome": "Pedro Vives Marcos",
     "side": "BUY",
-    "whale_usd": 11657.220577,
-    "whale_pct": 6.434,
+    "whale_usd": 12508.571928,
+    "whale_pct": 6.903,
     "whale_value_at_open": 181193.4422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -90724,8 +90724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788433502.4923437,
-    "fills": 5
+    "last_fill_at": 1788433877.9223707,
+    "fills": 6
   },
   {
     "timestamp": 1788429759,
@@ -90995,6 +90995,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788433790.9745233,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788433886,
+    "timestamp_added": 1788433887.1454625,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-fox1-dk-2026-09-03-game4",
+    "title": "LoL: BNK FEARX vs Dplus KIA - Game 4 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 14999.9948,
+    "whale_pct": 49.359,
+    "whale_value_at_open": 30389.4991,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788433887.145477,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788433997,
+    "timestamp_added": 1788433998.2835264,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mashtak-serna-2026-09-03",
+    "title": "Plovdiv 3: Nikita Mashtakov vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "whale_usd": 2998.1114450000005,
+    "whale_pct": 1.833,
+    "whale_value_at_open": 163548.4735,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788433998.2835426,
     "fills": 1
   }
 ]
