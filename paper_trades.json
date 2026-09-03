@@ -87101,8 +87101,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88494,8 +88494,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 2657.6046,
-    "whale_pct": 7.538,
+    "whale_usd": 3665.7091,
+    "whale_pct": 10.398,
     "whale_value_at_open": 35255.45,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -88506,8 +88506,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788393696.6819499,
-    "fills": 1
+    "last_fill_at": 1788395476.3824956,
+    "fills": 2
   },
   {
     "timestamp": 1788393870,

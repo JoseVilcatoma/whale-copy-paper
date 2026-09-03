@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.432568464247,
+  "bankroll": 477.1243252210038,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17770,6 +17770,11 @@
       "timestamp": 1788394150.2529955,
       "bankroll": 475.43,
       "event": "venta anticipada: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays (-0.60 USD)"
+    },
+    {
+      "timestamp": 1788395507.8237298,
+      "bankroll": 477.12,
+      "event": "won: 0b1 \u2014 US Open ATP: Jiri Lehecka vs Toby Samuel"
     }
   ]
 }
