@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 08:24:37 (hora de Perú)
+Actualizado: 2026-09-03 08:26:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $475.65
-**Retorno acumulado:** -4.87%
+**Bankroll actual:** $472.67
+**Retorno acumulado:** -5.47%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 08:24:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $175.65)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $182.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,11 +35,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
+| BBQChickenisthebesttt | 6 | 2 | 0 | +10.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| BBQChickenisthebesttt | 5 | 2 | 1 | +8.55 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -50,7 +50,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 15 | 10 | 0 | +5.54 USD |
-| zofgkt1111 | 1 | 0 | 4 | +5.51 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
@@ -79,6 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| zofgkt1111 | 1 | 1 | 3 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -127,14 +127,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3457
-- **Aciertos:** 2207 (63.8%)
+- **Apuestas resueltas:** 3459
+- **Aciertos:** 2208 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,260.24
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $316.45 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,270.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $316.67 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,8 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1735 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1034 | 69.6% | 67.8% | +1.9 pp |
+| 40-59% | 1736 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1035 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 476 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 212 | 96.2% | 97.4% | -1.1 pp |
 
