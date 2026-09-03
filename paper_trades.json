@@ -89847,8 +89847,8 @@
     "title": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
     "outcome": "Francisco Cerundolo",
     "side": "BUY",
-    "whale_usd": 549.32,
-    "whale_pct": 0.768,
+    "whale_usd": 48834.6596,
+    "whale_pct": 68.318,
     "whale_value_at_open": 71481.4886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -89859,8 +89859,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788419924.7662485,
-    "fills": 1
+    "last_fill_at": 1788425129.606589,
+    "fills": 2
   },
   {
     "timestamp": 1788420060,
