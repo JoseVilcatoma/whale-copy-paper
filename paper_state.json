@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.1728008764569,
+  "bankroll": 464.7426750199838,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18160,6 +18160,31 @@
       "timestamp": 1788438244.8530474,
       "bankroll": 471.17,
       "event": "won: RN1 \u2014 Counter-Strike: 3DMAX vs Infinite (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1788438552.2360613,
+      "bankroll": 466.09,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: BNK FEARX vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788438557.2799602,
+      "bankroll": 460.99,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788438557.380067,
+      "bankroll": 466.5,
+      "event": "won: zofgkt1111 \u2014 LoL: BNK FEARX vs Dplus KIA - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788438559.4855206,
+      "bankroll": 461.37,
+      "event": "lost: ferrariChampions2026 \u2014 Como: Johan Nikles vs Filip Jianu"
+    },
+    {
+      "timestamp": 1788438560.5568812,
+      "bankroll": 464.74,
+      "event": "won: ferrariChampions2026 \u2014 Como: Johan Nikles vs Filip Jianu"
     }
   ]
 }
