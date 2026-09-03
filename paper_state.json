@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.6669183273106,
+  "bankroll": 442.4319183273106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18470,6 +18470,16 @@
       "timestamp": 1788470380.0501754,
       "bankroll": 452.67,
       "event": "lost: ferrariChampions2026 \u2014 Real Sociedad de F\u00fatbol vs. RC Celta de Vigo: O/U 2.5"
+    },
+    {
+      "timestamp": 1788471003.7331347,
+      "bankroll": 447.55,
+      "event": "lost: Flaznorp \u2014 Will Real Sociedad de F\u00fatbol win on 2026-09-03?"
+    },
+    {
+      "timestamp": 1788471009.3543851,
+      "bankroll": 442.43,
+      "event": "lost: BBQChickenisthebesttt \u2014 Will Real Sociedad de F\u00fatbol win on 2026-09-03?"
     }
   ]
 }
