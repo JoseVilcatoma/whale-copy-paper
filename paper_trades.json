@@ -90531,8 +90531,8 @@
     "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
     "outcome": "Federico Iannaccone",
     "side": "BUY",
-    "whale_usd": 3977.546086,
-    "whale_pct": 3.004,
+    "whale_usd": 12077.011886,
+    "whale_pct": 9.121,
     "whale_value_at_open": 132403.3689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -90545,8 +90545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788426764.7610478,
-    "fills": 3
+    "last_fill_at": 1788427083.2860477,
+    "fills": 5
   },
   {
     "timestamp": 1788426717,
