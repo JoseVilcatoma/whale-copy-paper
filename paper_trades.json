@@ -92758,8 +92758,8 @@
     "title": "US Open ATP: Gael Monfils vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 7211.197588,
-    "whale_pct": 4.909,
+    "whale_usd": 12635.598388,
+    "whale_pct": 8.602,
     "whale_value_at_open": 146895.2735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -92770,8 +92770,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477878.2065551,
-    "fills": 3
+    "last_fill_at": 1788478000.7060957,
+    "fills": 4
   },
   {
     "timestamp": 1788477309,
@@ -92809,8 +92809,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Maria Sakkari",
     "side": "BUY",
-    "whale_usd": 23352.923662,
-    "whale_pct": 15.827,
+    "whale_usd": 31015.950724,
+    "whale_pct": 21.021,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -92821,8 +92821,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477829.7337134,
-    "fills": 9
+    "last_fill_at": 1788477992.6337447,
+    "fills": 10
   },
   {
     "timestamp": 1788477395,
@@ -92921,6 +92921,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788477810.2396533,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788477976,
+    "timestamp_added": 1788477976.5953174,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-badosa-gauff-2026-09-03",
+    "title": "US Open WTA: Paula Badosa vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "whale_usd": 5354.8418,
+    "whale_pct": 2.704,
+    "whale_value_at_open": 198047.1815,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788477976.595327,
     "fills": 1
   }
 ]
