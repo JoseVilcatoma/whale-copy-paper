@@ -91130,8 +91130,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Dimitar Kuzmanov",
     "side": "BUY",
-    "whale_usd": 15628.122136,
-    "whale_pct": 9.099,
+    "whale_usd": 19453.013536,
+    "whale_pct": 11.326,
     "whale_value_at_open": 171751.2014,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -91142,8 +91142,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436714.3724566,
-    "fills": 6
+    "last_fill_at": 1788437161.5745652,
+    "fills": 7
   },
   {
     "timestamp": 1788435487,
