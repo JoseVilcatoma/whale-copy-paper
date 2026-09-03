@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.80260798248304,
+  "bankroll": 441.4544261643012,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18490,6 +18490,11 @@
       "timestamp": 1788473205.014564,
       "bankroll": 440.8,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Virtus.pro vs fnatic (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788474149.342254,
+      "bankroll": 441.45,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Tristan Schoolkate vs Flavio Cobolli"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 17:21:26 (hora de Perú)
+Actualizado: 2026-09-03 17:23:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $440.80
-**Retorno acumulado:** -11.84%
+**Bankroll actual:** $441.45
+**Retorno acumulado:** -11.71%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 17:21:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $215.80)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $221.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 408 | 255 | 25 | -170.58 USD |
+| ferrariChampions2026 | 409 | 255 | 24 | -169.93 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3514
-- **Aciertos:** 2242 (63.8%)
+- **Apuestas resueltas:** 3515
+- **Aciertos:** 2243 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,545.24
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $321.13 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,550.24
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $321.16 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1757 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1055 | 69.7% | 67.8% | +1.9 pp |
-| 80-94% | 484 | 85.7% | 86.7% | -1.0 pp |
+| 80-94% | 485 | 85.8% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 218 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -751,7 +751,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 218.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ✅ ganada | +0.65 |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
