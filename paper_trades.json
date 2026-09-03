@@ -90199,8 +90199,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 652.0966659999999,
-    "whale_pct": 0.734,
+    "whale_usd": 23212.111998999997,
+    "whale_pct": 26.111,
     "whale_value_at_open": 88897.8108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -90211,8 +90211,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788423351.2541776,
-    "fills": 1
+    "last_fill_at": 1788427700.5872693,
+    "fills": 4
   },
   {
     "timestamp": 1788424550,
