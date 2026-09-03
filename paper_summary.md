@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:01:45 (hora de Perú)
+Actualizado: 2026-09-03 10:03:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $460.50
-**Retorno acumulado:** -7.90%
+**Bankroll actual:** $459.23
+**Retorno acumulado:** -8.15%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 10:01:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $145.50)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $154.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 398 | 246 | 32 | -146.31 USD |
+| ferrariChampions2026 | 399 | 247 | 30 | -147.58 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3474
-- **Aciertos:** 2218 (63.8%)
+- **Apuestas resueltas:** 3476
+- **Aciertos:** 2219 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,345.24
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $317.57 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,355.24
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $317.77 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,8 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1738 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1042 | 69.7% | 67.8% | +1.9 pp |
+| 40-59% | 1739 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1043 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 479 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 215 | 96.3% | 97.3% | -1.1 pp |
 
@@ -739,16 +739,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 5.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 19.9% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 71.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Joel Schwaerzle | Luca Potenza (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
@@ -762,7 +762,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |

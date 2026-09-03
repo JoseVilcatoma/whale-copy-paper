@@ -1,5 +1,5 @@
 {
-  "bankroll": 460.5007869821305,
+  "bankroll": 459.2323584107019,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18290,6 +18290,16 @@
       "timestamp": 1788447636.5387776,
       "bankroll": 460.5,
       "event": "won: ferrariChampions2026 \u2014 Manacor: Luca Potenza vs Joel Schwaerzler"
+    },
+    {
+      "timestamp": 1788447824.6343384,
+      "bankroll": 455.41,
+      "event": "lost: ferrariChampions2026 \u2014 Como: Andrej Nedic vs Kilian Feldbausch"
+    },
+    {
+      "timestamp": 1788447825.735857,
+      "bankroll": 459.23,
+      "event": "won: ferrariChampions2026 \u2014 Como: Andrej Nedic vs Kilian Feldbausch"
     }
   ]
 }
