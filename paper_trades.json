@@ -88398,8 +88398,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88801,8 +88801,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -88892,5 +88892,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788404594.4352157,
     "fills": 6
+  },
+  {
+    "timestamp": 1788404816,
+    "timestamp_added": 1788404816.855709,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tararud-noskova-2026-09-02",
+    "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
+    "outcome": "Linda Noskova",
+    "side": "BUY",
+    "whale_usd": 1680.0,
+    "whale_pct": 0.979,
+    "whale_value_at_open": 171627.3841,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788404816.855723,
+    "fills": 1
   }
 ]

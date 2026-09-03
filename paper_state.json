@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.2574109998647,
+  "bankroll": 472.8211677566215,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17830,6 +17830,16 @@
       "timestamp": 1788403968.120518,
       "bankroll": 476.26,
       "event": "won: 0x4f2 \u2014 Chicago White Sox vs. Houston Astros"
+    },
+    {
+      "timestamp": 1788404842.4230213,
+      "bankroll": 471.13,
+      "event": "lost: 1winstreak1 \u2014 Miami Marlins vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788404843.5243776,
+      "bankroll": 472.82,
+      "event": "won: Feromont \u2014 Miami Marlins vs. Kansas City Royals"
     }
   ]
 }
