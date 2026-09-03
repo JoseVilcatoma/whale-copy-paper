@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:14:54 (hora de Perú)
+Actualizado: 2026-09-03 03:17:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 03:14:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $277.60)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $267.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
+| BBQChickenisthebesttt | 3 | 1 | 1 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| AV23IUa | 25 | 16 | 3 | +1.77 USD |
+| AV23IUa | 25 | 16 | 4 | +1.77 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -713,6 +713,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-darderi-svrcina-2026-09-02 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816, ferrariChampions2026 |
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
+| lol-fox1-dk-2026-09-03-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
@@ -722,6 +723,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 0.7% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | BNK FEARX (BUY) | 41% | 5.00 | 71.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 58% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 73% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -750,5 +753,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Lilli Tagger vs Amanda Anis | Amanda Anisimova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 90% | 5.00 | 3.2% | 💰 vendida anticipada | -0.17 |
 | 1winstreak1 | Spread: St. Louis Cardinals (-2.5) | Los Angeles Dodgers (BUY) | 64% | 5.00 | 5.1% | ✅ ganada | +2.72 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
-| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 89% | 5.00 | 1.9% | 💰 vendida anticipada | -0.17 |
