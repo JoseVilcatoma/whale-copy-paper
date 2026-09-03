@@ -90690,8 +90690,8 @@
     "title": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 36516.743341,
-    "whale_pct": 20.761,
+    "whale_usd": 41871.585141,
+    "whale_pct": 23.806,
     "whale_value_at_open": 175887.0344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -90702,8 +90702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788449440.0346406,
-    "fills": 8
+    "last_fill_at": 1788449448.4822283,
+    "fills": 9
   },
   {
     "timestamp": 1788429281,
@@ -91849,8 +91849,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 30624.661272,
-    "whale_pct": 74.386,
+    "whale_usd": 44253.024908,
+    "whale_pct": 107.489,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -91861,8 +91861,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788449430.1052926,
-    "fills": 3
+    "last_fill_at": 1788449514.2230108,
+    "fills": 5
   },
   {
     "timestamp": 1788444925,
@@ -92202,6 +92202,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788449434.1343918,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788449511,
+    "timestamp_added": 1788449511.7098243,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-pit-2026-09-03-total-8pt5",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 9299.999999000001,
+    "whale_pct": 3.721,
+    "whale_value_at_open": 249914.4437,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788449511.7098365,
     "fills": 1
   }
 ]
