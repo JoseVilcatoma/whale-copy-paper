@@ -92758,8 +92758,8 @@
     "title": "US Open ATP: Gael Monfils vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 6375.911088,
-    "whale_pct": 4.34,
+    "whale_usd": 7211.197588,
+    "whale_pct": 4.909,
     "whale_value_at_open": 146895.2735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -92770,8 +92770,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477307.4103978,
-    "fills": 2
+    "last_fill_at": 1788477878.2065551,
+    "fills": 3
   },
   {
     "timestamp": 1788477309,
@@ -92809,8 +92809,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Maria Sakkari",
     "side": "BUY",
-    "whale_usd": 22685.181727,
-    "whale_pct": 15.375,
+    "whale_usd": 23352.923662,
+    "whale_pct": 15.827,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -92821,8 +92821,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477546.1864412,
-    "fills": 8
+    "last_fill_at": 1788477829.7337134,
+    "fills": 9
   },
   {
     "timestamp": 1788477395,
@@ -92897,6 +92897,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788477710.7888896,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788477809,
+    "timestamp_added": 1788477810.2396395,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zandsch-minaur-2026-09-03",
+    "title": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
+    "outcome": "Alex de Minaur",
+    "side": "BUY",
+    "whale_usd": 792.0666999999999,
+    "whale_pct": 0.398,
+    "whale_value_at_open": 198931.8585,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788477810.2396533,
     "fills": 1
   }
 ]
