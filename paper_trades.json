@@ -89823,8 +89823,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 5391.9536,
-    "whale_pct": 5.849,
+    "whale_usd": 8098.903598999999,
+    "whale_pct": 8.785,
     "whale_value_at_open": 92191.0075,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -89837,8 +89837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788429040.82356,
-    "fills": 2
+    "last_fill_at": 1788446485.2222881,
+    "fills": 3
   },
   {
     "timestamp": 1788419924,
