@@ -89723,8 +89723,8 @@
     "title": "Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 2985.7834999999995,
-    "whale_pct": 4.969,
+    "whale_usd": 7410.7835,
+    "whale_pct": 12.334,
     "whale_value_at_open": 60085.2995,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -89735,8 +89735,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788417338.0666432,
-    "fills": 1
+    "last_fill_at": 1788418189.5724146,
+    "fills": 2
   },
   {
     "timestamp": 1788417957,

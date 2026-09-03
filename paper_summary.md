@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 01:48:00 (hora de Perú)
+Actualizado: 2026-09-03 01:50:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -716,7 +716,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 60% | 5.00 | 5.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 60% | 5.00 | 12.3% | ⏳ pendiente | — |
 | Flaznorp | 1st Half Spread: Real Sociedad de Fútbol | RC Celta de Vigo (BUY) | 88% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Flaznorp | 1st Half Spread: RC Celta de Vigo (-1.5) | Real Sociedad de Fútbol (BUY) | 95% | 5.00 | 8.0% | ⏳ pendiente | — |
 | Flaznorp | 1st Half Spread: Lille OSC (-1.5) | Toulouse FC (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
