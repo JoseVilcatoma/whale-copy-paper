@@ -89947,8 +89947,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 8928.047519,
-    "whale_pct": 9.568,
+    "whale_usd": 15534.689519,
+    "whale_pct": 16.648,
     "whale_value_at_open": 93310.7715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -89961,8 +89961,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422837.5041685,
-    "fills": 4
+    "last_fill_at": 1788423044.305998,
+    "fills": 5
   },
   {
     "timestamp": 1788421957,
@@ -89973,8 +89973,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 3013.29,
-    "whale_pct": 11.214,
+    "whale_usd": 5739.598011,
+    "whale_pct": 21.359,
     "whale_value_at_open": 26871.5198,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -89987,8 +89987,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788421957.2645197,
-    "fills": 1
+    "last_fill_at": 1788423044.2894816,
+    "fills": 3
   },
   {
     "timestamp": 1788422392,
@@ -89999,8 +89999,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 2387.1009,
-    "whale_pct": 6.351,
+    "whale_usd": 3011.590695,
+    "whale_pct": 8.012,
     "whale_value_at_open": 37588.9348,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -90011,8 +90011,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422393.7619932,
-    "fills": 1
+    "last_fill_at": 1788423030.6518784,
+    "fills": 2
   },
   {
     "timestamp": 1788422514,
@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 2653.0468,
-    "whale_pct": 2.589,
+    "whale_usd": 4660.2428150000005,
+    "whale_pct": 4.548,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,7 +90111,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422875.06585,
-    "fills": 4
+    "last_fill_at": 1788423041.7754295,
+    "fills": 7
+  },
+  {
+    "timestamp": 1788422994,
+    "timestamp_added": 1788422995.2027333,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dk-2026-09-03-game-handicap-home-1pt5",
+    "title": "Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 1583.40512,
+    "whale_pct": 1.494,
+    "whale_value_at_open": 105995.3114,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788422995.2027438,
+    "fills": 1
   }
 ]
