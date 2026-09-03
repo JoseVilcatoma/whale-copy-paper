@@ -92091,8 +92091,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 7048.8260740000005,
-    "whale_pct": 3.673,
+    "whale_usd": 14003.186074000001,
+    "whale_pct": 7.296,
     "whale_value_at_open": 191922.2652,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -92103,8 +92103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469871.4185495,
-    "fills": 3
+    "last_fill_at": 1788470071.9232767,
+    "fills": 5
   },
   {
     "timestamp": 1788448505,
@@ -92313,8 +92313,8 @@
     "title": "Counter-Strike: Keyd vs Procyon Gaming (BO3) - CCT South America Series 5 Playoffs",
     "outcome": "Keyd",
     "side": "BUY",
-    "whale_usd": 2423.6337999999996,
-    "whale_pct": 5.25,
+    "whale_usd": 4925.548599999999,
+    "whale_pct": 10.67,
     "whale_value_at_open": 46162.7196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -92325,8 +92325,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469163.7937791,
-    "fills": 2
+    "last_fill_at": 1788470059.610986,
+    "fills": 3
   },
   {
     "timestamp": 1788464661,
@@ -92509,8 +92509,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 5911.206,
-    "whale_pct": 1.966,
+    "whale_usd": 11809.741181,
+    "whale_pct": 3.928,
     "whale_value_at_open": 300656.2511,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -92521,8 +92521,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469965.0917392,
-    "fills": 3
+    "last_fill_at": 1788470033.5448081,
+    "fills": 6
   },
   {
     "timestamp": 1788469969,

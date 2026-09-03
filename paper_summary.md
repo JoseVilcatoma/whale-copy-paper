@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 16:13:15 (hora de Perú)
+Actualizado: 2026-09-03 16:15:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.00
@@ -744,7 +744,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 81.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
@@ -752,7 +752,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 25.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 5.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 10.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -761,7 +761,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 1.8% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 2.2% | ✅ ganada | +2.72 |
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
