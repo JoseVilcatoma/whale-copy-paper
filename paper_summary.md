@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 01:54:21 (hora de Perú)
+Actualizado: 2026-09-03 01:56:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 01:54:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $357.60)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $352.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -121,7 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 384 | 237 | 2 | -134.69 USD |
+| ferrariChampions2026 | 384 | 237 | 3 | -134.69 USD |
 
 ## Análisis general
 
@@ -710,11 +710,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-cin-2026-09-02 | 0x4f2, Sunny24 |
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
+| atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Khumoun Sultanov (BUY) | 67% | 5.00 | 9.9% | ⏳ pendiente | — |
 | Flaznorp | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 60% | 5.00 | 12.3% | ⏳ pendiente | — |
 | Flaznorp | 1st Half Spread: Real Sociedad de Fútbol | RC Celta de Vigo (BUY) | 88% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -734,7 +736,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 6.1% | 💰 vendida anticipada | +1.32 |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 7.8% | ✅ ganada | +3.82 |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | Dplus KIA (BUY) | 65% | 5.00 | 11.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | Dplus KIA (BUY) | 65% | 5.00 | 15.8% | ⏳ pendiente | — |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ✅ ganada | +6.22 |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ❌ perdida | -5.12 |
@@ -744,4 +746,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
 | ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.9% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 9.1% | ✅ ganada | +2.72 |
-| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |

@@ -89255,8 +89255,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA - Game 1 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 2964.639999,
-    "whale_pct": 10.981,
+    "whale_usd": 4277.619199000001,
+    "whale_pct": 15.845,
     "whale_value_at_open": 26997.1036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -89267,8 +89267,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788414789.8436277,
-    "fills": 2
+    "last_fill_at": 1788418548.9433012,
+    "fills": 3
   },
   {
     "timestamp": 1788410487,
@@ -89761,5 +89761,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788417958.527138,
     "fills": 2
+  },
+  {
+    "timestamp": 1788418574,
+    "timestamp_added": 1788418575.3709748,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sultano-aguiard-2026-09-02",
+    "title": "Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard",
+    "outcome": "Khumoun Sultanov",
+    "side": "BUY",
+    "whale_usd": 8263.1934,
+    "whale_pct": 9.872,
+    "whale_value_at_open": 83700.8928,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788418575.3709874,
+    "fills": 1
   }
 ]
