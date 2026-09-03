@@ -89989,5 +89989,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788421957.2645197,
     "fills": 1
+  },
+  {
+    "timestamp": 1788422392,
+    "timestamp_added": 1788422393.7619817,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ntr-ef1-2026-09-03",
+    "title": "Counter-Strike: Nuclear TigeRES vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 2387.1009,
+    "whale_pct": 6.351,
+    "whale_value_at_open": 37588.9348,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788422393.7619932,
+    "fills": 1
   }
 ]
