@@ -88439,8 +88439,8 @@
     "title": "New York Mets vs. Tampa Bay Rays",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 3999.9980000000005,
-    "whale_pct": 13.834,
+    "whale_usd": 7593.203,
+    "whale_pct": 26.261,
     "whale_value_at_open": 28914.6975,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -88454,7 +88454,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788393460.789737,
+    "last_fill_at": 1788393607.1115787,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788393622,
+    "timestamp_added": 1788393623.0203269,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-det-min-2026-09-02",
+    "title": "Detroit Tigers vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 1065.499999,
+    "whale_pct": 11.017,
+    "whale_value_at_open": 9671.0586,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788393623.0203404,
     "fills": 1
   }
 ]
