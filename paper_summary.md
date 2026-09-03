@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:40:04 (hora de Perú)
+Actualizado: 2026-09-03 03:42:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.85
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 03:40:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $262.85)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $252.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,12 +116,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| RN1 | 484 | 227 | 3 | -24.32 USD |
+| RN1 | 484 | 227 | 4 | -24.32 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 384 | 237 | 11 | -134.69 USD |
+| ferrariChampions2026 | 384 | 237 | 12 | -134.69 USD |
 
 ## Análisis general
 
@@ -718,11 +718,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
 | atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
+| atp-aboian-sorger-2026-09-03 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -751,5 +754,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | 1st Half Spread: Toulouse FC (-1.5) | Lille OSC (BUY) | 95% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: B8 vs HOTU (BO3) - IEM B | B8 (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | Zhangjiagang: Khumoun Sultanov vs Enzo A | Khumoun Sultanov (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Virtus.pro vs fnatic (BO | Virtus.pro (BUY) | 42% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Lilli Tagger vs Amanda Anis | Amanda Anisimova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
