@@ -91142,5 +91142,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788435354.8597002,
     "fills": 2
+  },
+  {
+    "timestamp": 1788435487,
+    "timestamp_added": 1788435487.851132,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-visker-marcos-2026-09-03",
+    "title": "Porto: Niels Visker vs Pedro Vives Marcos",
+    "outcome": "Pedro Vives Marcos",
+    "side": "BUY",
+    "whale_usd": 502.93998600000003,
+    "whale_pct": 0.259,
+    "whale_value_at_open": 194290.6459,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788435487.851141,
+    "fills": 1
   }
 ]

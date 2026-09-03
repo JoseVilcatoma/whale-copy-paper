@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 06:37:32 (hora de Perú)
+Actualizado: 2026-09-03 06:39:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 06:37:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $176.67)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $171.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Flaznorp | 19 | 5 | 7 | +2.24 USD |
+| Flaznorp | 19 | 5 | 8 | +2.24 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -724,6 +724,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
 | atp-aboian-sorger-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Flaznorp, RN1, ferrariChampions2026 |
 | atp-iannacc-mrva-2026-09-03 | RN1, ferrariChampions2026 |
+| atp-visker-marcos-2026-09-03 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game3 | BBQChickenisthebesttt, zofgkt1111 |
 | lol-fox1-dk-2026-09-03-game4 | BBQChickenisthebesttt, zofgkt1111 |
 
@@ -731,6 +732,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -760,4 +762,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 53% | 5.00 | 20.1% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 56% | 5.00 | 9.6% | 💰 vendida anticipada | -1.02 |
-| RN1 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 75% | 5.00 | 1.0% | ❌ perdida | -5.06 |
