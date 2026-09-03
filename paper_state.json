@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.62811630915604,
+  "bankroll": 465.6894965174894,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17880,6 +17880,11 @@
       "timestamp": 1788408371.4314377,
       "bankroll": 466.63,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Lanlana Tararudee vs Linda Noskova"
+    },
+    {
+      "timestamp": 1788408540.339738,
+      "bankroll": 465.69,
+      "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-0.94 USD)"
     }
   ]
 }

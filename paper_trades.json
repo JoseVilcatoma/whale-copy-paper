@@ -89147,8 +89147,8 @@
     "odds_at_bet": 96,
     "fee_usd": 0.01,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.94,
     "overlaps_with": [
       "Feromont",
       "ferrariChampions2026"
@@ -89156,7 +89156,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788408209.8303485,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.053,
+    "closed_price": 79
   },
   {
     "timestamp": 1788408501,
