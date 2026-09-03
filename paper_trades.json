@@ -90497,5 +90497,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788425974.1126158,
     "fills": 2
+  },
+  {
+    "timestamp": 1788426174,
+    "timestamp_added": 1788426175.025853,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dk-2026-09-03-total-games-3pt5",
+    "title": "Games Total: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1733.1274,
+    "whale_pct": 1.292,
+    "whale_value_at_open": 134141.1862,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788426175.025868,
+    "fills": 1
   }
 ]
