@@ -91897,8 +91897,8 @@
     "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 3811.9247969999997,
-    "whale_pct": 1.926,
+    "whale_usd": 45637.323737,
+    "whale_pct": 23.053,
     "whale_value_at_open": 197970.2533,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -91909,8 +91909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469884.150509,
-    "fills": 3
+    "last_fill_at": 1788470224.4367356,
+    "fills": 7
   },
   {
     "timestamp": 1788445175,
@@ -92091,8 +92091,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 14003.186074000001,
-    "whale_pct": 7.296,
+    "whale_usd": 17148.660255000003,
+    "whale_pct": 8.935,
     "whale_value_at_open": 191922.2652,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -92103,8 +92103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470071.9232767,
-    "fills": 5
+    "last_fill_at": 1788470198.573586,
+    "fills": 6
   },
   {
     "timestamp": 1788448505,
@@ -92313,8 +92313,8 @@
     "title": "Counter-Strike: Keyd vs Procyon Gaming (BO3) - CCT South America Series 5 Playoffs",
     "outcome": "Keyd",
     "side": "BUY",
-    "whale_usd": 4925.548599999999,
-    "whale_pct": 10.67,
+    "whale_usd": 7282.588599999999,
+    "whale_pct": 15.776,
     "whale_value_at_open": 46162.7196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -92325,8 +92325,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470059.610986,
-    "fills": 3
+    "last_fill_at": 1788470208.3978064,
+    "fills": 4
   },
   {
     "timestamp": 1788464661,
@@ -92548,6 +92548,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788469969.372018,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788470123,
+    "timestamp_added": 1788470123.919002,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-tb-tex-2026-09-03",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 14999.999999000001,
+    "whale_pct": 27.725,
+    "whale_value_at_open": 54103.7527,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788470123.9190128,
     "fills": 1
   }
 ]
