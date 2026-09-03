@@ -88724,8 +88724,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.12,
     "overlaps_with": [
       "Feromont",
       "pleaseplease123"
@@ -88733,7 +88733,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788401238.2831912,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.258,
+    "closed_price": 27
   },
   {
     "timestamp": 1788401414,
@@ -88825,8 +88827,8 @@
     "odds_at_bet": 98,
     "fee_usd": 0.005,
     "odds_ballena": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.12,
     "overlaps_with": [
       "1winstreak1",
       "Feromont"
@@ -88834,6 +88836,35 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788403197.7711005,
+    "fills": 1,
+    "fee_total_usd": 0.015,
+    "closed_price": 96
+  },
+  {
+    "timestamp": 1788403254,
+    "timestamp_added": 1788403255.1443365,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-mil-chc-2026-09-02",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 999.9907999999999,
+    "whale_pct": 2.044,
+    "whale_value_at_open": 48920.2026,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788403255.1443484,
     "fills": 1
   }
 ]

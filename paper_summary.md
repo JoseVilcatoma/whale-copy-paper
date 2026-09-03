@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 21:40:37 (hora de Perú)
+Actualizado: 2026-09-02 21:42:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $472.17
-**Retorno acumulado:** -5.57%
+**Bankroll actual:** $469.93
+**Retorno acumulado:** -6.01%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 21:40:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $312.17)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $314.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| 0x4f2 | 10 | 8 | 4 | +2.41 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -76,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | monkeymashingkeyboard | 8 | 7 | 1 | +0.68 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| 0x4f2 | 10 | 10 | 3 | +0.17 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
@@ -714,11 +714,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | ⏳ pendiente | — |
+| 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 96% | 5.00 | 2.0% | ⏳ pendiente | — |
+| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | 💰 vendida anticipada | -0.12 |
 | Feromont | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Feromont | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 80% | 5.00 | 7.7% | ⏳ pendiente | — |
 | 0x4f2 | Chicago White Sox vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 7.1% | ⏳ pendiente | — |
-| 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | ⏳ pendiente | — |
+| 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | 💰 vendida anticipada | -2.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 32.6% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ⏳ pendiente | — |
@@ -743,4 +744,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 55% | 5.00 | 21.6% | ✅ ganada | +3.98 |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 42% | 5.00 | 6.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 75.6% | ⏳ pendiente | — |
-| monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 5.00 | 11.3% | ❌ perdida | -5.09 |
