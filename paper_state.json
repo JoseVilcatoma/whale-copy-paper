@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.02126334957705,
+  "bankroll": 470.79409668291044,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18040,6 +18040,26 @@
       "timestamp": 1788426715.397567,
       "bankroll": 475.02,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788427026.0043333,
+      "bankroll": 469.95,
+      "event": "lost: RN1 \u2014 Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
+    },
+    {
+      "timestamp": 1788427026.4050794,
+      "bankroll": 473.19,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
+    },
+    {
+      "timestamp": 1788427026.505289,
+      "bankroll": 475.91,
+      "event": "won: RN1 \u2014 Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
+    },
+    {
+      "timestamp": 1788427027.8202097,
+      "bankroll": 470.79,
+      "event": "lost: ferrariChampions2026 \u2014 Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
     }
   ]
 }
