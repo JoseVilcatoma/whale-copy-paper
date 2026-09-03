@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:17:00 (hora de Perú)
+Actualizado: 2026-09-03 03:19:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -725,11 +725,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 0.7% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | BNK FEARX (BUY) | 41% | 5.00 | 71.0% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 17.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 58% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 73% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alejandro Tabilo (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
-| AV23IUa | Will Lille OSC win on 2026-09-03? | Yes (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
+| AV23IUa | Will Lille OSC win on 2026-09-03? | Yes (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 43% | 5.00 | 16.3% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs Etern | Nuclear TigeRES (BUY) | 52% | 5.00 | 8.0% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 21.4% | ⏳ pendiente | — |

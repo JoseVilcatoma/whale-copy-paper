@@ -90047,8 +90047,8 @@
     "title": "Will Lille OSC win on 2026-09-03?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1560.2482,
-    "whale_pct": 2.129,
+    "whale_usd": 2525.9892,
+    "whale_pct": 3.447,
     "whale_value_at_open": 73282.1039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -90059,8 +90059,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422663.7139351,
-    "fills": 2
+    "last_fill_at": 1788423477.9397206,
+    "fills": 3
   },
   {
     "timestamp": 1788422712,
@@ -90149,8 +90149,8 @@
     "title": "Counter-Strike: 3DMAX vs Infinite (BO3) - NODWIN Clutch Series Playoffs",
     "outcome": "3DMAX",
     "side": "BUY",
-    "whale_usd": 4530.7452,
-    "whale_pct": 15.172,
+    "whale_usd": 5076.9986,
+    "whale_pct": 17.001,
     "whale_value_at_open": 29862.7178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -90161,8 +90161,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788423202.4342227,
-    "fills": 2
+    "last_fill_at": 1788423541.0351126,
+    "fills": 3
   },
   {
     "timestamp": 1788423311,
