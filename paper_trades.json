@@ -89947,8 +89947,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 6405.380619,
-    "whale_pct": 6.865,
+    "whale_usd": 8208.837519,
+    "whale_pct": 8.797,
     "whale_value_at_open": 93310.7715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -89961,7 +89961,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788421436.6752937,
-    "fills": 2
+    "last_fill_at": 1788421958.3189347,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788421957,
+    "timestamp_added": 1788421957.2645056,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tomic-samrej-2026-09-02",
+    "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
+    "outcome": "Kasidit Samrej",
+    "side": "BUY",
+    "whale_usd": 3013.29,
+    "whale_pct": 11.214,
+    "whale_value_at_open": 26871.5198,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788421957.2645197,
+    "fills": 1
   }
 ]
