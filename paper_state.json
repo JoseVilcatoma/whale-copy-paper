@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.68408571971025,
+  "bankroll": 460.0010479838612,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17915,6 +17915,11 @@
       "timestamp": 1788410057.3876383,
       "bankroll": 455.68,
       "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-1.00 USD)"
+    },
+    {
+      "timestamp": 1788410960.7701461,
+      "bankroll": 460.0,
+      "event": "won: pleaseplease123 \u2014 New York Yankees vs. Los Angeles Angels: O/U 6.5"
     }
   ]
 }
