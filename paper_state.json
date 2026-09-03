@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.9923505340491,
+  "bankroll": 434.0729268052355,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18510,6 +18510,21 @@
       "timestamp": 1788475080.9244406,
       "bankroll": 440.99,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Blockx vs Marco Trungelliti"
+    },
+    {
+      "timestamp": 1788475388.5681458,
+      "bankroll": 435.85,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1788475388.6682544,
+      "bankroll": 439.22,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1788475396.0494554,
+      "bankroll": 434.07,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexei Popyrin vs Alejandro Tabilo"
     }
   ]
 }
