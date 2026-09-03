@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 09:20:14 (hora de Perú)
+Actualizado: 2026-09-03 09:22:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.52
@@ -757,7 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 10.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 64% | 5.00 | 14.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Arthur Gea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
