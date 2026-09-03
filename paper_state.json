@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.8947659801507,
+  "bankroll": 467.21463205157926,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17945,6 +17945,11 @@
       "timestamp": 1788411594.7420018,
       "bankroll": 465.89,
       "event": "won: 0x4f2 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788411618.3988621,
+      "bankroll": 467.21,
+      "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (+1.32 USD)"
     }
   ]
 }

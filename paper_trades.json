@@ -89303,8 +89303,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 660.939999,
-    "whale_pct": 4.439,
+    "whale_usd": 1161.339999,
+    "whale_pct": 7.8,
     "whale_value_at_open": 14888.239,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -89319,8 +89319,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788411481.4193141,
-    "fills": 1
+    "last_fill_at": 1788411648.4169085,
+    "fills": 2
   },
   {
     "timestamp": 1788411512,
@@ -89338,8 +89338,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.32,
     "overlaps_with": [
       "1winstreak1",
       "Feromont",
@@ -89348,7 +89348,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788411550.5297475,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.198,
+    "closed_price": 73
   },
   {
     "timestamp": 1788411519,
