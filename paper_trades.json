@@ -89007,8 +89007,8 @@
     "title": "Zhangjiagang: Akira Santillan vs Ilya Ivashka",
     "outcome": "Ilya Ivashka",
     "side": "BUY",
-    "whale_usd": 11244.401553,
-    "whale_pct": 7.722,
+    "whale_usd": 13274.780753,
+    "whale_pct": 9.116,
     "whale_value_at_open": 145613.9315,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -89019,8 +89019,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788412022.5257943,
-    "fills": 5
+    "last_fill_at": 1788412407.0216033,
+    "fills": 6
   },
   {
     "timestamp": 1788406733,
@@ -89519,5 +89519,29 @@
     "fills": 1,
     "fee_total_usd": 0.054,
     "closed_price": 88
+  },
+  {
+    "timestamp": 1788412442,
+    "timestamp_added": 1788412443.1993294,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tagger-anisimo-2026-09-02",
+    "title": "US Open WTA: Lilli Tagger vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 517.6305,
+    "whale_pct": 0.292,
+    "whale_value_at_open": 177087.2062,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788412443.199344,
+    "fills": 1
   }
 ]
