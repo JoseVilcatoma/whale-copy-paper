@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:19:10 (hora de Perú)
+Actualizado: 2026-09-02 23:21:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $458.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:19:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $323.82)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $318.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,7 +102,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 7 | 8 | 4 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0x4f2 | 12 | 14 | 0 | -6.98 USD |
+| 0x4f2 | 12 | 14 | 1 | -6.98 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -715,13 +715,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 11.4% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | -0.29 |
-| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Akira Santillan vs Ilya Iv | Ilya Ivashka (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |
@@ -744,4 +745,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 74.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ❌ perdida | -5.12 |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |

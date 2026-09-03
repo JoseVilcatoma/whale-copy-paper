@@ -89027,8 +89027,8 @@
     "title": "New York Yankees vs. Los Angeles Angels",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 3206.1145229999997,
-    "whale_pct": 2.197,
+    "whale_usd": 4286.670123,
+    "whale_pct": 2.938,
     "whale_value_at_open": 145903.447,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -89043,8 +89043,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788407034.915074,
-    "fills": 3
+    "last_fill_at": 1788409205.6984723,
+    "fills": 4
   },
   {
     "timestamp": 1788407503,
@@ -89212,5 +89212,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788409121.779869,
     "fills": 2
+  },
+  {
+    "timestamp": 1788409178,
+    "timestamp_added": 1788409178.613691,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-nyy-laa-2026-09-02",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 999.9993999999999,
+    "whale_pct": 3.241,
+    "whale_value_at_open": 30858.2899,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont",
+      "ferrariChampions2026",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788409178.6137016,
+    "fills": 1
   }
 ]
