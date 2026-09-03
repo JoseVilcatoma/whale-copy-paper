@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 21:05:44 (hora de Perú)
+Actualizado: 2026-09-02 21:07:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 21:05:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $337.17)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $332.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| 0x4f2 | 10 | 8 | 1 | +2.41 USD |
+| 0x4f2 | 10 | 8 | 2 | +2.41 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -706,15 +706,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
 | cs2-big5-nemi1-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | mlb-mil-chc-2026-09-02 | 0x4f2, monkeymashingkeyboard, pleaseplease123 |
-| mlb-nyy-laa-2026-09-02 | Feromont, pleaseplease123 |
+| mlb-nyy-laa-2026-09-02 | 0x4f2, Feromont, pleaseplease123 |
 | mlb-sd-cin-2026-09-02 | 0x4f2, Sunny24 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 8.3% | ⏳ pendiente | — |
+| Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 30.4% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -742,4 +743,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 41.2% | ✅ ganada | +4.14 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ❌ perdida | -5.14 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ✅ ganada | +2.49 |
