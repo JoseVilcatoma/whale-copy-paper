@@ -1,5 +1,5 @@
 {
-  "bankroll": 458.82207278867577,
+  "bankroll": 461.79621071971025,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17900,6 +17900,11 @@
       "timestamp": 1788408753.8062246,
       "bankroll": 458.82,
       "event": "won: 1winstreak1 \u2014 Detroit Tigers vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788409408.1746514,
+      "bankroll": 461.8,
+      "event": "venta anticipada: Feromont \u2014 New York Yankees vs. Los Angeles Angels (+2.97 USD)"
     }
   ]
 }

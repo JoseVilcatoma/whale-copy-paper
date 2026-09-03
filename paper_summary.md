@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:23:18 (hora de Perú)
+Actualizado: 2026-09-02 23:25:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $458.82
-**Retorno acumulado:** -8.24%
+**Bankroll actual:** $461.80
+**Retorno acumulado:** -7.64%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:23:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $318.82)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $326.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 15 | 10 | 0 | +5.54 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| Feromont | 2 | 0 | 1 | +4.66 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -71,7 +72,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | AV23IUa | 25 | 16 | 0 | +1.77 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
-| Feromont | 1 | 0 | 2 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
@@ -736,7 +736,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Chicago White Sox vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 7.1% | ✅ ganada | +2.72 |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | 💰 vendida anticipada | -2.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 34.8% | ⏳ pendiente | — |
+| Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 34.8% | 💰 vendida anticipada | +2.97 |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ✅ ganada | +3.37 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
