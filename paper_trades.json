@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 5359.679499000001,
-    "whale_pct": 5.231,
+    "whale_usd": 6165.679499000001,
+    "whale_pct": 6.018,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,8 +90111,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436283.5525124,
-    "fills": 8
+    "last_fill_at": 1788436495.0976617,
+    "fills": 9
   },
   {
     "timestamp": 1788422994,
@@ -91130,8 +91130,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Dimitar Kuzmanov",
     "side": "BUY",
-    "whale_usd": 10583.836422,
-    "whale_pct": 6.162,
+    "whale_usd": 12898.122136,
+    "whale_pct": 7.51,
     "whale_value_at_open": 171751.2014,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -91142,8 +91142,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436168.2296891,
-    "fills": 4
+    "last_fill_at": 1788436523.197762,
+    "fills": 5
   },
   {
     "timestamp": 1788435487,
@@ -91193,6 +91193,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788436249.5678525,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788436483,
+    "timestamp_added": 1788436483.7094622,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-timofee-mertens-2026-09-03",
+    "title": "US Open WTA: Maria Timofeeva vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "whale_usd": 13103.670000000002,
+    "whale_pct": 5.455,
+    "whale_value_at_open": 240227.8543,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788436483.7094705,
     "fills": 1
   }
 ]
