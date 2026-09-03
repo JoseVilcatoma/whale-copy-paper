@@ -92809,8 +92809,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Maria Sakkari",
     "side": "BUY",
-    "whale_usd": 47122.816637,
-    "whale_pct": 31.937,
+    "whale_usd": 49678.791798000006,
+    "whale_pct": 33.669,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -92821,8 +92821,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788479599.2235906,
-    "fills": 14
+    "last_fill_at": 1788479644.3402407,
+    "fills": 15
   },
   {
     "timestamp": 1788477395,
@@ -92833,8 +92833,8 @@
     "title": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 8885.178359000001,
-    "whale_pct": 5.844,
+    "whale_usd": 10899.078682000001,
+    "whale_pct": 7.169,
     "whale_value_at_open": 152028.4865,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -92845,8 +92845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477672.3370607,
-    "fills": 2
+    "last_fill_at": 1788479732.7896166,
+    "fills": 4
   },
   {
     "timestamp": 1788477688,
