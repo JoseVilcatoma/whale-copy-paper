@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:04:30 (hora de Perú)
+Actualizado: 2026-09-03 03:06:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 03:04:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $297.60)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $287.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -121,7 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 384 | 237 | 6 | -134.69 USD |
+| ferrariChampions2026 | 384 | 237 | 8 | -134.69 USD |
 
 ## Análisis general
 
@@ -703,6 +703,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-hle1-t1-2026-09-02-game2 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, TheMafiaa |
 | mlb-nym-tb-2026-09-02 | 0x4f2, AV23IUa, monkeymashingkeyboard |
 | mlb-det-min-2026-09-02 | 0x4f2, 1winstreak1, AV23IUa |
+| lol-fox1-dk-2026-09-03 | TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
 | cs2-big5-nemi1-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | mlb-mil-chc-2026-09-02 | 0x4f2, monkeymashingkeyboard, pleaseplease123 |
@@ -714,13 +715,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
+| atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alejandro Tabilo (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | AV23IUa | Will Lille OSC win on 2026-09-03? | Yes (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 43% | 5.00 | 11.5% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 43% | 5.00 | 16.3% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs Etern | Nuclear TigeRES (BUY) | 52% | 5.00 | 6.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 60% | 5.00 | 8.8% | ⏳ pendiente | — |
@@ -747,5 +751,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 89% | 5.00 | 1.9% | 💰 vendida anticipada | -0.17 |
 | Feromont | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 54% | 5.00 | 33.0% | 💰 vendida anticipada | +4.14 |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 52% | 5.00 | 3.4% | ❌ perdida | -5.12 |
-| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 6.1% | 💰 vendida anticipada | +1.32 |
-| 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 56% | 5.00 | 7.8% | ✅ ganada | +3.82 |

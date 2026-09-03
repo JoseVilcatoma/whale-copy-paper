@@ -90023,8 +90023,8 @@
     "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
     "outcome": "Alexei Popyrin",
     "side": "BUY",
-    "whale_usd": 8400.0,
-    "whale_pct": 11.463,
+    "whale_usd": 11933.391931,
+    "whale_pct": 16.284,
     "whale_value_at_open": 73282.1039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -90035,8 +90035,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788422515.27725,
-    "fills": 1
+    "last_fill_at": 1788422716.4536662,
+    "fills": 3
   },
   {
     "timestamp": 1788422572,
@@ -90061,5 +90061,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788422663.7139351,
     "fills": 2
+  },
+  {
+    "timestamp": 1788422712,
+    "timestamp_added": 1788422713.083166,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-popyrin-tabilo-2026-09-02",
+    "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
+    "outcome": "Alejandro Tabilo",
+    "side": "BUY",
+    "whale_usd": 4065.299999,
+    "whale_pct": 4.138,
+    "whale_value_at_open": 98234.6715,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788422713.0831792,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788422789,
+    "timestamp_added": 1788422790.1110566,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dk-2026-09-03",
+    "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 635.4,
+    "whale_pct": 0.62,
+    "whale_value_at_open": 102457.3886,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788422790.1110704,
+    "fills": 1
   }
 ]
