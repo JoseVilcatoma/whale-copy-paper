@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:44:36 (hora de Perú)
+Actualizado: 2026-09-03 05:46:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.66
-**Retorno acumulado:** -3.67%
+**Bankroll actual:** $475.54
+**Retorno acumulado:** -4.89%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 05:44:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $186.66)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $195.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -119,22 +119,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 485 | 228 | 4 | -26.67 USD |
+| RN1 | 485 | 229 | 3 | -31.73 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 386 | 239 | 20 | -138.29 USD |
+| ferrariChampions2026 | 387 | 240 | 18 | -139.35 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3433
-- **Aciertos:** 2194 (63.9%)
+- **Apuestas resueltas:** 3436
+- **Aciertos:** 2195 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,140.24
-- **ROI sobre lo apostado:** -0.74%
-- **Comisiones pagadas (taker fee):** $314.29 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,155.24
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $314.51 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,9 +142,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1723 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1027 | 69.9% | 67.8% | +2.1 pp |
-| 80-94% | 472 | 86.4% | 86.7% | -0.3 pp |
+| 40-59% | 1724 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1028 | 69.8% | 67.8% | +2.1 pp |
+| 80-94% | 473 | 86.3% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -743,15 +743,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | BNK FEARX (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 28.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 13.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 13.9% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 84% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 53% | 5.00 | 20.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 56% | 5.00 | 9.6% | 💰 vendida anticipada | -1.02 |
-| RN1 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 75% | 5.00 | 1.0% | ❌ perdida | -5.06 |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 7.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ❌ perdida | -5.04 |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 38.5% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |

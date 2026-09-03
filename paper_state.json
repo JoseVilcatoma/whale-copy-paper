@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.6597900627014,
+  "bankroll": 475.53669915361047,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18070,6 +18070,21 @@
       "timestamp": 1788429752.1113293,
       "bankroll": 481.66,
       "event": "won: kekasaur \u2014 Will CF Am\u00e9rica win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788432293.8673406,
+      "bankroll": 476.62,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Federico Iannaccone vs Maxim Mrva"
+    },
+    {
+      "timestamp": 1788432294.167896,
+      "bankroll": 471.56,
+      "event": "lost: RN1 \u2014 Plovdiv 3: Federico Iannaccone vs Maxim Mrva"
+    },
+    {
+      "timestamp": 1788432294.8227336,
+      "bankroll": 475.54,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Federico Iannaccone vs Maxim Mrva"
     }
   ]
 }
