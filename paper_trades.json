@@ -92337,8 +92337,8 @@
     "title": "Map Handicap: Keyd (-1.5) vs Procyon Gaming (+1.5)",
     "outcome": "Keyd",
     "side": "BUY",
-    "whale_usd": 11000.0,
-    "whale_pct": 23.829,
+    "whale_usd": 11563.3208,
+    "whale_pct": 25.049,
     "whale_value_at_open": 46162.7196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -92349,8 +92349,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788464662.8136253,
-    "fills": 1
+    "last_fill_at": 1788468255.8984253,
+    "fills": 2
   },
   {
     "timestamp": 1788464904,
