@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 09:09:52 (hora de Perú)
+Actualizado: 2026-09-03 09:11:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.52
@@ -741,7 +741,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Joel Schwaerzle | Luca Potenza (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 91.1% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 94.2% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | EYEBALLERS (BUY) | 51% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Maks Kasnikowski (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |

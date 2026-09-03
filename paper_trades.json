@@ -91729,8 +91729,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 15911.127885000002,
-    "whale_pct": 91.067,
+    "whale_usd": 16457.127885,
+    "whale_pct": 94.192,
     "whale_value_at_open": 17471.9635,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -91741,8 +91741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788444554.8184798,
-    "fills": 7
+    "last_fill_at": 1788444625.7437925,
+    "fills": 8
   },
   {
     "timestamp": 1788443897,
