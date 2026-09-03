@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:04:47 (hora de Perú)
+Actualizado: 2026-09-03 05:06:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.66
@@ -745,11 +745,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 34.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 35.5% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 26.1% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 33.6% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | BNK FEARX (BUY) | 41% | 5.00 | 71.0% | 💰 vendida anticipada | +7.05 |
 | RN1 | Counter-Strike: 3DMAX vs Infinite (BO3)  | 3DMAX (BUY) | 76% | 5.00 | 34.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | Dplus KIA (BUY) | 58% | 5.00 | 1.5% | ⏳ pendiente | — |
