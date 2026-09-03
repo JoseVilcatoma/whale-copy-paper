@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:04:48 (hora de Perú)
+Actualizado: 2026-09-02 23:06:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.53
-**Retorno acumulado:** -6.69%
+**Bankroll actual:** $466.63
+**Retorno acumulado:** -6.67%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:04:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $316.53)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $321.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -121,17 +121,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 379 | 235 | 6 | -139.67 USD |
+| ferrariChampions2026 | 380 | 235 | 5 | -139.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3403
-- **Aciertos:** 2176 (63.9%)
+- **Apuestas resueltas:** 3404
+- **Aciertos:** 2177 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,990.24
+- **Total apostado (suma de stakes):** $16,995.24
 - **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $311.30 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $311.31 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -143,7 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1704 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1020 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 471 | 86.4% | 86.7% | -0.3 pp |
-| 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
+| 95-99% (casi seguro) | 209 | 96.7% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -724,7 +724,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Lanlana Tararudee vs Linda  | Linda Noskova (BUY) | 98% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Lanlana Tararudee vs Linda  | Linda Noskova (BUY) | 98% | 5.00 | 2.2% | ✅ ganada | +0.10 |
 | kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 310.2% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 96% | 5.00 | 2.0% | 💰 vendida anticipada | +0.09 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | 💰 vendida anticipada | -0.12 |
