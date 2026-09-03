@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 06:03:02 (hora de Perú)
+Actualizado: 2026-09-03 06:05:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 06:03:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $185.50)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $180.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
-| zofgkt1111 | 0 | 0 | 2 | +0.00 USD |
+| zofgkt1111 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -730,6 +730,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 99% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Filip Jianu (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
@@ -739,7 +740,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | BNK FEARX (BUY) | 43% | 5.00 | 34.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: SSG Landers vs. Kiwoom Heroes | SSG Landers (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | BNK FEARX (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Felix Auger-Aliassime vs Ka | Felix Auger-Aliassime (BUY) | 74% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. KT Wiz | Hanwha Eagles (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Leoli | Anastasia Potapova (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -759,4 +760,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 71% | 5.00 | 38.2% | ⏳ pendiente | — |

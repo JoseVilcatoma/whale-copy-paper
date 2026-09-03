@@ -90712,8 +90712,8 @@
     "title": "Porto: Niels Visker vs Pedro Vives Marcos",
     "outcome": "Pedro Vives Marcos",
     "side": "BUY",
-    "whale_usd": 4934.678377,
-    "whale_pct": 2.723,
+    "whale_usd": 11657.220577,
+    "whale_pct": 6.434,
     "whale_value_at_open": 181193.4422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -90724,8 +90724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788433192.8340828,
-    "fills": 4
+    "last_fill_at": 1788433502.4923437,
+    "fills": 5
   },
   {
     "timestamp": 1788429759,
@@ -90947,6 +90947,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788432744.0716465,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788433470,
+    "timestamp_added": 1788433471.6453192,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-blg-we-2026-09-03",
+    "title": "LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 581.3218119999999,
+    "whale_pct": 1.961,
+    "whale_value_at_open": 29650.9355,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788433471.6453376,
     "fills": 1
   }
 ]
