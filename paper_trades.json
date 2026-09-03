@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 7000.429499000001,
-    "whale_pct": 6.833,
+    "whale_usd": 10800.200799000002,
+    "whale_pct": 10.541,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,8 +90111,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436623.5944605,
-    "fills": 10
+    "last_fill_at": 1788436785.254928,
+    "fills": 15
   },
   {
     "timestamp": 1788422994,
@@ -91130,8 +91130,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Dimitar Kuzmanov",
     "side": "BUY",
-    "whale_usd": 12898.122136,
-    "whale_pct": 7.51,
+    "whale_usd": 15628.122136,
+    "whale_pct": 9.099,
     "whale_value_at_open": 171751.2014,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -91142,8 +91142,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436523.197762,
-    "fills": 5
+    "last_fill_at": 1788436714.3724566,
+    "fills": 6
   },
   {
     "timestamp": 1788435487,
