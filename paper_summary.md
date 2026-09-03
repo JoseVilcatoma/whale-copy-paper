@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 11:14:09 (hora de Perú)
+Actualizado: 2026-09-03 11:16:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $451.55
-**Retorno acumulado:** -9.69%
+**Bankroll actual:** $451.94
+**Retorno acumulado:** -9.61%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 11:14:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $181.55)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $191.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,17 +123,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 401 | 251 | 30 | -163.05 USD |
+| ferrariChampions2026 | 402 | 252 | 28 | -162.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3490
-- **Aciertos:** 2226 (63.8%)
+- **Apuestas resueltas:** 3492
+- **Aciertos:** 2227 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,425.24
+- **Total apostado (suma de stakes):** $17,435.24
 - **ROI sobre lo apostado:** -0.91%
-- **Comisiones pagadas (taker fee):** $319.17 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $319.42 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1745 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1747 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1050 | 69.5% | 67.8% | +1.7 pp |
 | 80-94% | 480 | 85.6% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 215 | 96.3% | 97.3% | -1.1 pp |
@@ -752,7 +752,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 93.6% | ⏳ pendiente | — |
@@ -763,7 +763,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Manacor: Luca Potenza vs Joel Schwaerzle | Luca Potenza (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 94.2% | ✅ ganada | +5.73 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | EYEBALLERS (BUY) | 51% | 5.00 | 13.2% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Maks Kasnikowski (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Maks Kasnikowski (BUY) | 55% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
 | BrotherObama | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 55% | 5.00 | 22.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Virtus.pro vs fnatic (BO | fnatic (BUY) | 58% | 5.00 | 59.9% | ⏳ pendiente | — |

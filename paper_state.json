@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.5485774061046,
+  "bankroll": 451.94187527844497,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18370,6 +18370,16 @@
       "timestamp": 1788452039.3185625,
       "bankroll": 451.55,
       "event": "won: ferrariChampions2026 \u2014 Como: Jay Clarke vs Pedro Martinez"
+    },
+    {
+      "timestamp": 1788452161.6241946,
+      "bankroll": 446.44,
+      "event": "lost: ferrariChampions2026 \u2014 Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez"
+    },
+    {
+      "timestamp": 1788452162.1250482,
+      "bankroll": 451.94,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez"
     }
   ]
 }
