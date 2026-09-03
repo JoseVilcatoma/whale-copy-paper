@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.664375278445,
+  "bankroll": 454.71188032895003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18385,6 +18385,11 @@
       "timestamp": 1788454162.1082149,
       "bankroll": 454.66,
       "event": "won: ferrariChampions2026 \u2014 Manacor: Edas Butvilas vs Remy Bertola"
+    },
+    {
+      "timestamp": 1788454470.1163712,
+      "bankroll": 454.71,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Nadia Podoroska"
     }
   ]
 }
