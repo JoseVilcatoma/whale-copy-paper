@@ -91058,8 +91058,8 @@
     "title": "Como: Johan Nikles vs Filip Jianu",
     "outcome": "Johan Nikles",
     "side": "BUY",
-    "whale_usd": 7730.995808,
-    "whale_pct": 4.727,
+    "whale_usd": 14453.538008,
+    "whale_pct": 8.837,
     "whale_value_at_open": 163548.4735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -91070,8 +91070,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788434093.2591746,
-    "fills": 3
+    "last_fill_at": 1788435816.7694912,
+    "fills": 4
   },
   {
     "timestamp": 1788434021,
