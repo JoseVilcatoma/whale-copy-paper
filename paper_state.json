@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.596305969368,
+  "bankroll": 482.84646386410486,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18015,6 +18015,11 @@
       "timestamp": 1788415376.9634292,
       "bankroll": 482.6,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Akira Santillan vs Ilya Ivashka"
+    },
+    {
+      "timestamp": 1788423605.4859364,
+      "bankroll": 482.85,
+      "event": "won: RN1 \u2014 W75 Tianjin: Jiaqi Wang vs YeXin Ma"
     }
   ]
 }

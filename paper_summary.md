@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:19:09 (hora de Perú)
+Actualizado: 2026-09-03 03:21:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.60
-**Retorno acumulado:** -3.48%
+**Bankroll actual:** $482.85
+**Retorno acumulado:** -3.43%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 03:19:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $267.60)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $272.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,7 +116,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| RN1 | 483 | 227 | 4 | -24.57 USD |
+| RN1 | 484 | 227 | 3 | -24.32 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
@@ -125,13 +125,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3424
-- **Aciertos:** 2189 (63.9%)
+- **Apuestas resueltas:** 3425
+- **Aciertos:** 2190 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,095.24
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $313.52 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $17,100.24
+- **ROI sobre lo apostado:** -0.69%
+- **Comisiones pagadas (taker fee):** $313.54 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -143,7 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1720 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1022 | 70.1% | 67.8% | +2.3 pp |
 | 80-94% | 472 | 86.4% | 86.7% | -0.3 pp |
-| 95-99% (casi seguro) | 210 | 96.2% | 97.4% | -1.2 pp |
+| 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -735,7 +735,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 21.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 60% | 5.00 | 23.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 4.2% | ⏳ pendiente | — |
-| RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
