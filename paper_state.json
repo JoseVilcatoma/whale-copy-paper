@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.21518051448925,
+  "bankroll": 471.8295914811371,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18190,6 +18190,16 @@
       "timestamp": 1788439185.3232002,
       "bankroll": 465.22,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Nikita Mashtakov vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1788441055.0442963,
+      "bankroll": 468.73,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788441059.2554471,
+      "bankroll": 471.83,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs"
     }
   ]
 }

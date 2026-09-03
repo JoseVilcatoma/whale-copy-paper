@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 08:10:03 (hora de Perú)
+Actualizado: 2026-09-03 08:12:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $465.22
-**Retorno acumulado:** -6.96%
+**Bankroll actual:** $471.83
+**Retorno acumulado:** -5.63%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 08:10:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $150.22)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $166.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 18 | 7 | +57.86 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 44 | 18 | 6 | +61.38 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -113,8 +113,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Talvez10 | 1 | 3 | 0 | -10.98 USD |
+| ExplosiveNinja | 7 | 7 | 1 | -13.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| ExplosiveNinja | 6 | 7 | 2 | -16.45 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -127,14 +127,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3454
-- **Aciertos:** 2204 (63.8%)
+- **Apuestas resueltas:** 3456
+- **Aciertos:** 2206 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,245.24
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $316.14 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,255.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $316.34 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,8 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1733 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1033 | 69.6% | 67.8% | +1.8 pp |
+| 40-59% | 1734 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1034 | 69.6% | 67.8% | +1.9 pp |
 | 80-94% | 476 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 212 | 96.2% | 97.4% | -1.1 pp |
 
