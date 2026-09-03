@@ -88808,5 +88808,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788402530.2678642,
     "fills": 1
+  },
+  {
+    "timestamp": 1788403197,
+    "timestamp_added": 1788403197.7710886,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-mia-kc-2026-09-02",
+    "title": "Miami Marlins vs. Kansas City Royals",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 542.4,
+    "whale_pct": 1.109,
+    "whale_value_at_open": 48920.2026,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788403197.7711005,
+    "fills": 1
   }
 ]
