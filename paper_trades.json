@@ -90521,5 +90521,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788426175.025868,
     "fills": 1
+  },
+  {
+    "timestamp": 1788426629,
+    "timestamp_added": 1788426629.995471,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-iannacc-mrva-2026-09-03",
+    "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
+    "outcome": "Federico Iannaccone",
+    "side": "BUY",
+    "whale_usd": 3167.546086,
+    "whale_pct": 2.392,
+    "whale_value_at_open": 132403.3689,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788426662.2106721,
+    "fills": 2
   }
 ]
