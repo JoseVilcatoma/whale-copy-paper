@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 02:37:45 (hora de Perú)
+Actualizado: 2026-09-03 02:39:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 02:37:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $332.60)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $322.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,12 +116,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| RN1 | 483 | 227 | 1 | -24.57 USD |
+| RN1 | 483 | 227 | 2 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 384 | 237 | 4 | -134.69 USD |
+| ferrariChampions2026 | 384 | 237 | 5 | -134.69 USD |
 
 ## Análisis general
 
@@ -718,6 +718,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -746,5 +748,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ✅ ganada | +6.22 |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ❌ perdida | -5.12 |
-| 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 12.5% | ❌ perdida | -5.01 |
