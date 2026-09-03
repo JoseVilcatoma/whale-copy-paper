@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.1479975928726,
+  "bankroll": 440.9923505340491,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18505,6 +18505,11 @@
       "timestamp": 1788474461.2825005,
       "bankroll": 440.15,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1788475080.9244406,
+      "bankroll": 440.99,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Blockx vs Marco Trungelliti"
     }
   ]
 }
