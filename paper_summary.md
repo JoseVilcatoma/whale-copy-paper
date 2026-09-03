@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 02:19:27 (hora de Perú)
+Actualizado: 2026-09-03 02:21:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 02:19:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $337.60)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $332.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -112,7 +112,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Talvez10 | 1 | 3 | 0 | -10.98 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| ExplosiveNinja | 6 | 7 | 0 | -16.45 USD |
+| ExplosiveNinja | 6 | 7 | 1 | -16.45 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -708,6 +708,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-chc-2026-09-02 | 0x4f2, monkeymashingkeyboard, pleaseplease123 |
 | mlb-nyy-laa-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026, pleaseplease123 |
 | mlb-sd-cin-2026-09-02 | 0x4f2, Sunny24 |
+| cs2-pha-og1-2026-09-03 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-darderi-svrcina-2026-09-02 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816, ferrariChampions2026 |
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
@@ -717,6 +718,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
@@ -746,4 +748,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ❌ perdida | -5.12 |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 12.5% | ❌ perdida | -5.01 |
-| 1winstreak1 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ✅ ganada | +5.08 |
