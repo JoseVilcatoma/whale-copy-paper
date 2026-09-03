@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 13:05:30 (hora de Perú)
+Actualizado: 2026-09-03 13:07:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $460.05
-**Retorno acumulado:** -7.99%
+**Bankroll actual:** $461.57
+**Retorno acumulado:** -7.69%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 13:05:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $210.05)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $216.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,13 +42,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 16 | 11 | 1 | +6.15 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -127,14 +127,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3496
-- **Aciertos:** 2231 (63.8%)
+- **Apuestas resueltas:** 3497
+- **Aciertos:** 2232 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,455.24
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $319.68 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,460.24
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $319.74 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -143,7 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1748 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1052 | 69.6% | 67.8% | +1.8 pp |
+| 60-79% | 1053 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 480 | 85.6% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 216 | 96.3% | 97.4% | -1.1 pp |
 
@@ -753,7 +753,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Harriet Dart vs Marie Bouzk | Marie Bouzkova (BUY) | 86% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Edas Butvilas vs Remy Bertola | Edas Butvilas (BUY) | 64% | 5.00 | 2.2% | ✅ ganada | +2.72 |
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ❌ perdida | -5.08 |
