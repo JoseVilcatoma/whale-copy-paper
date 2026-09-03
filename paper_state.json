@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.84121863413,
+  "bankroll": 481.6597900627014,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18065,6 +18065,11 @@
       "timestamp": 1788429361.13487,
       "bankroll": 477.84,
       "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 1 Winner (+7.05 USD)"
+    },
+    {
+      "timestamp": 1788429752.1113293,
+      "bankroll": 481.66,
+      "event": "won: kekasaur \u2014 Will CF Am\u00e9rica win on 2026-09-02?"
     }
   ]
 }

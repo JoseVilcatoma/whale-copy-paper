@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:00:36 (hora de Perú)
+Actualizado: 2026-09-03 05:02:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.84
-**Retorno acumulado:** -4.43%
+**Bankroll actual:** $481.66
+**Retorno acumulado:** -3.67%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 05:00:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.84)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $216.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,6 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -86,7 +87,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 0 | 1 | 1 | -1.02 USD |
-| kekasaur | 9 | 9 | 1 | -1.23 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | 1winstreak1 | 5 | 4 | 0 | -1.99 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 386 | 239 | 17 | -138.29 USD |
+| ferrariChampions2026 | 386 | 239 | 18 | -138.29 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3432
-- **Aciertos:** 2193 (63.9%)
+- **Apuestas resueltas:** 3433
+- **Aciertos:** 2194 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,135.24
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $314.18 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,140.24
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $314.29 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1722 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1723 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1027 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 472 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
@@ -728,6 +728,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | BNK FEARX (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Felix Auger-Aliassime vs Ka | Felix Auger-Aliassime (BUY) | 74% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. KT Wiz | Hanwha Eagles (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -757,4 +758,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will Lille OSC win on 2026-09-03? | Yes (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 43% | 5.00 | 25.4% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs Etern | Nuclear TigeRES (BUY) | 52% | 5.00 | 10.7% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 32.9% | ✅ ganada | +2.72 |
