@@ -91945,8 +91945,8 @@
     "title": "Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez",
     "outcome": "Alejo Sanchez Quilez",
     "side": "BUY",
-    "whale_usd": 5563.4834,
-    "whale_pct": 2.871,
+    "whale_usd": 11088.142087,
+    "whale_pct": 5.722,
     "whale_value_at_open": 193788.0472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -91957,8 +91957,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788446164.9191437,
-    "fills": 2
+    "last_fill_at": 1788446398.1682217,
+    "fills": 4
   },
   {
     "timestamp": 1788446147,
