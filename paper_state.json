@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.8295914811371,
+  "bankroll": 475.6481629097085,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18200,6 +18200,11 @@
       "timestamp": 1788441059.2554471,
       "bankroll": 471.83,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788441678.6637666,
+      "bankroll": 475.65,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Iberian Soul vs Nemiga (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
     }
   ]
 }
