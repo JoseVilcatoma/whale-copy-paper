@@ -91448,5 +91448,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788437929.3869035,
     "fills": 1
+  },
+  {
+    "timestamp": 1788438023,
+    "timestamp_added": 1788438023.741707,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-oliynyk-eala-2026-09-03",
+    "title": "US Open WTA: Oleksandra Oliynykova vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "whale_usd": 16089.603000000001,
+    "whale_pct": 6.323,
+    "whale_value_at_open": 254449.786,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788438023.7417183,
+    "fills": 1
   }
 ]
