@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.6674088925089,
+  "bankroll": 469.7661302039843,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18125,6 +18125,11 @@
       "timestamp": 1788434832.0738904,
       "bankroll": 466.67,
       "event": "lost: Flaznorp \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788435589.241705,
+      "bankroll": 469.77,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 4 Winner (+3.10 USD)"
     }
   ]
 }

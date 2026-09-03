@@ -90891,13 +90891,15 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788431470.3385723,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.098,
+    "closed_price": 100
   },
   {
     "timestamp": 1788432550,
@@ -91032,8 +91034,8 @@
     "title": "Plovdiv 3: Nikita Mashtakov vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 6471.174626,
-    "whale_pct": 3.957,
+    "whale_usd": 7805.554891,
+    "whale_pct": 4.773,
     "whale_value_at_open": 163548.4735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -91044,8 +91046,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788434648.9777951,
-    "fills": 2
+    "last_fill_at": 1788435589.2131689,
+    "fills": 3
   },
   {
     "timestamp": 1788434011,
