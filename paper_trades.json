@@ -89545,5 +89545,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788412443.199344,
     "fills": 1
+  },
+  {
+    "timestamp": 1788413486,
+    "timestamp_added": 1788413487.3868794,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-vp-fnc-2026-09-03",
+    "title": "Counter-Strike: Virtus.pro vs fnatic (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+    "outcome": "Virtus.pro",
+    "side": "BUY",
+    "whale_usd": 1081.9818,
+    "whale_pct": 1.049,
+    "whale_value_at_open": 103099.0468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788413487.3868902,
+    "fills": 1
   }
 ]
