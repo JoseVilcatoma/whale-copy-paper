@@ -92483,8 +92483,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 69281.63209599999,
-    "whale_pct": 218.606,
+    "whale_usd": 77970.85579599999,
+    "whale_pct": 246.024,
     "whale_value_at_open": 31692.4278,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -92497,8 +92497,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788471988.3334875,
-    "fills": 4
+    "last_fill_at": 1788479057.8532243,
+    "fills": 5
   },
   {
     "timestamp": 1788469962,
@@ -92908,8 +92908,8 @@
     "title": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
     "outcome": "Alex de Minaur",
     "side": "BUY",
-    "whale_usd": 792.0666999999999,
-    "whale_pct": 0.398,
+    "whale_usd": 2751.887764,
+    "whale_pct": 1.383,
     "whale_value_at_open": 198931.8585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -92920,8 +92920,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477810.2396533,
-    "fills": 1
+    "last_fill_at": 1788479083.0971775,
+    "fills": 4
   },
   {
     "timestamp": 1788477976,
@@ -92969,6 +92969,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788478989.0450957,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788479060,
+    "timestamp_added": 1788479061.2211745,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-hotu-ef1-2026-09-04",
+    "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 1611.434,
+    "whale_pct": 4.96,
+    "whale_value_at_open": 32488.3275,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788479061.221191,
     "fills": 1
   }
 ]
