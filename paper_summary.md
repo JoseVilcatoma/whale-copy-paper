@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 21:15:58 (hora de Perú)
+Actualizado: 2026-09-02 21:18:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.17
@@ -718,12 +718,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 30.4% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 60.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 71.6% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ✅ ganada | +4.32 |

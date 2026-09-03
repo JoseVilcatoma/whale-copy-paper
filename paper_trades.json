@@ -88494,8 +88494,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 21194.721400000002,
-    "whale_pct": 60.118,
+    "whale_usd": 25237.320400000004,
+    "whale_pct": 71.584,
     "whale_value_at_open": 35255.45,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -88506,8 +88506,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788400882.2092652,
-    "fills": 6
+    "last_fill_at": 1788401767.2343075,
+    "fills": 7
   },
   {
     "timestamp": 1788393870,
@@ -88617,8 +88617,8 @@
     "title": "Counter-Strike: Team Nemesis vs HOTU (BO3) - NODWIN Clutch Series Playoffs",
     "outcome": "Team Nemesis",
     "side": "BUY",
-    "whale_usd": 1505.4,
-    "whale_pct": 3.554,
+    "whale_usd": 2230.6000000000004,
+    "whale_pct": 5.266,
     "whale_value_at_open": 42360.4318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -88629,8 +88629,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788396376.688165,
-    "fills": 1
+    "last_fill_at": 1788401775.0065365,
+    "fills": 2
   },
   {
     "timestamp": 1788396875,
