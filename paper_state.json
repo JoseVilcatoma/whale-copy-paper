@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.84809145477004,
+  "bankroll": 472.165053718921,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17800,6 +17800,11 @@
       "timestamp": 1788400560.609138,
       "bankroll": 467.85,
       "event": "won: pleaseplease123 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1788400877.8369796,
+      "bankroll": 472.17,
+      "event": "won: 0x4f2 \u2014 San Francisco Giants vs. Pittsburgh Pirates"
     }
   ]
 }
