@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 19:06:38 (hora de Perú)
+Actualizado: 2026-09-02 19:08:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 19:06:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $331.03)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $326.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -100,7 +100,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 1 | -5.85 USD |
-| kekasaur | 7 | 8 | 2 | -6.25 USD |
+| kekasaur | 7 | 8 | 3 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -711,6 +711,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 97.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 7.5% | ⏳ pendiente | — |
@@ -740,4 +741,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | K27 (BUY) | 46% | 5.00 | 5.0% | ✅ ganada | +5.73 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | GamerLegion (BUY) | 61% | 5.00 | 14.4% | ❌ perdida | -5.10 |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 38.2% | ✅ ganada | +6.48 |
-| Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 62% | 5.00 | 946.5% | ❌ perdida | -5.09 |
