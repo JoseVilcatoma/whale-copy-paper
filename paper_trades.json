@@ -81662,13 +81662,14 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788180312.3972595,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 50
   },
   {
     "timestamp": 1788178512,
@@ -81686,13 +81687,14 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788180315.2396975,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 50
   },
   {
     "timestamp": 1788182107,
@@ -91319,6 +91321,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788437529.5579915,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788437678,
+    "timestamp_added": 1788437678.204543,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-harris-friend-2026-09-03",
+    "title": "Manacor: Billy Harris vs Jay Dylan Friend",
+    "outcome": "Jay Dylan Friend",
+    "side": "BUY",
+    "whale_usd": 659.997391,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 232814.8824,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437678.2045562,
     "fills": 1
   }
 ]
