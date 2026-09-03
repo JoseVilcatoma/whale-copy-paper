@@ -90736,8 +90736,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 2835.0,
-    "whale_pct": 1.633,
+    "whale_usd": 5856.3775,
+    "whale_pct": 3.373,
     "whale_value_at_open": 173639.8521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -90750,8 +90750,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788430143.156034,
-    "fills": 2
+    "last_fill_at": 1788430754.9768007,
+    "fills": 5
   },
   {
     "timestamp": 1788430439,
