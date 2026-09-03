@@ -89737,5 +89737,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788417338.0666432,
     "fills": 1
+  },
+  {
+    "timestamp": 1788417957,
+    "timestamp_added": 1788417958.0292852,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-rso-cel-2026-09-03-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-09-03?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2310.81,
+    "whale_pct": 1.258,
+    "whale_value_at_open": 183702.1348,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788417958.527138,
+    "fills": 2
   }
 ]
