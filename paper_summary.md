@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 07:12:10 (hora de Perú)
+Actualizado: 2026-09-03 07:14:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.77
-**Retorno acumulado:** -6.05%
+**Bankroll actual:** $470.28
+**Retorno acumulado:** -5.94%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 07:12:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $149.77)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $165.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,8 +64,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| Flaznorp | 20 | 5 | 9 | +2.34 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Flaznorp | 19 | 5 | 10 | +2.24 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 388 | 241 | 25 | -138.50 USD |
+| ferrariChampions2026 | 389 | 242 | 23 | -138.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3444
-- **Aciertos:** 2198 (63.8%)
+- **Apuestas resueltas:** 3447
+- **Aciertos:** 2200 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,195.24
+- **Total apostado (suma de stakes):** $17,210.24
 - **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $315.29 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $315.51 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,10 +142,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1729 | 50.3% | 50.1% | +0.1 pp |
-| 60-79% | 1029 | 69.8% | 67.8% | +2.0 pp |
+| 40-59% | 1730 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1030 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 475 | 85.9% | 86.7% | -0.8 pp |
-| 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
+| 95-99% (casi seguro) | 212 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -740,8 +740,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Timofeeva vs Elise Me | Elise Mertens (BUY) | 76% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs: O/U  | Over (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 11.8% | ⏳ pendiente | — |
+| Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
+| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 13.0% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 8.8% | ⏳ pendiente | — |
@@ -753,12 +753,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | 💰 vendida anticipada | +3.10 |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 2.3% | ❌ perdida | -5.09 |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | Dplus KIA (BUY) | 69% | 5.00 | 34.0% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | BNK FEARX (BUY) | 43% | 5.00 | 34.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: SSG Landers vs. Kiwoom Heroes | SSG Landers (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | BNK FEARX (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 47% | 5.00 | 12.2% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | US Open ATP: Felix Auger-Aliassime vs Ka | Felix Auger-Aliassime (BUY) | 74% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. KT Wiz | Hanwha Eagles (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Leoli | Anastasia Potapova (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |

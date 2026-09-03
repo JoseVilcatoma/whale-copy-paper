@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.7661302039843,
+  "bankroll": 470.27846889265123,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18130,6 +18130,21 @@
       "timestamp": 1788435589.241705,
       "bankroll": 469.77,
       "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 4 Winner (+3.10 USD)"
+    },
+    {
+      "timestamp": 1788437621.950698,
+      "bankroll": 475.27,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Niels Visker vs Pedro Vives Marcos"
+    },
+    {
+      "timestamp": 1788437622.780994,
+      "bankroll": 470.18,
+      "event": "lost: ferrariChampions2026 \u2014 Porto: Niels Visker vs Pedro Vives Marcos"
+    },
+    {
+      "timestamp": 1788437624.8006277,
+      "bankroll": 470.28,
+      "event": "won: Flaznorp \u2014 Porto: Niels Visker vs Pedro Vives Marcos"
     }
   ]
 }
