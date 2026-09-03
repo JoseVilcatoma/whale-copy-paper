@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 09:13:58 (hora de Perú)
+Actualizado: 2026-09-03 09:16:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 09:13:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $184.52)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $174.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,7 +102,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| pleaseplease123 | 9 | 9 | 0 | -6.38 USD |
+| pleaseplease123 | 9 | 9 | 2 | -6.38 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -737,6 +737,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -765,5 +767,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Maria Timofeeva vs Elise Me | Elise Mertens (BUY) | 76% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs: O/U  | Over (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
-| ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 13.0% | ⏳ pendiente | — |
-| Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
