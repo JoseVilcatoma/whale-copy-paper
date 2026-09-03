@@ -90297,8 +90297,8 @@
     "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
     "outcome": "Sebastian Sorger",
     "side": "BUY",
-    "whale_usd": 40894.366231,
-    "whale_pct": 33.299,
+    "whale_usd": 41764.366231,
+    "whale_pct": 34.007,
     "whale_value_at_open": 122810.374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -90311,8 +90311,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788427888.0510073,
-    "fills": 9
+    "last_fill_at": 1788428117.454331,
+    "fills": 10
   },
   {
     "timestamp": 1788424976,
