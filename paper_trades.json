@@ -89921,8 +89921,8 @@
     "title": "Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard",
     "outcome": "Enzo Aguiard",
     "side": "BUY",
-    "whale_usd": 2985.838619,
-    "whale_pct": 3.352,
+    "whale_usd": 3727.838619,
+    "whale_pct": 4.185,
     "whale_value_at_open": 89083.6609,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -89935,8 +89935,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788421168.4966028,
-    "fills": 2
+    "last_fill_at": 1788421464.6631525,
+    "fills": 3
   },
   {
     "timestamp": 1788421238,
@@ -89947,8 +89947,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 833.952048,
-    "whale_pct": 0.894,
+    "whale_usd": 6405.380619,
+    "whale_pct": 6.865,
     "whale_value_at_open": 93310.7715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -89961,7 +89961,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788421238.706989,
-    "fills": 1
+    "last_fill_at": 1788421436.6752937,
+    "fills": 2
   }
 ]
