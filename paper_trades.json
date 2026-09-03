@@ -89104,5 +89104,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788408136.8889155,
     "fills": 1
+  },
+  {
+    "timestamp": 1788408204,
+    "timestamp_added": 1788408205.150541,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-lad-2026-09-02",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 13973.2504,
+    "whale_pct": 11.427,
+    "whale_value_at_open": 122287.3248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Feromont"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788408209.252004,
+    "fills": 15
+  },
+  {
+    "timestamp": 1788408209,
+    "timestamp_added": 1788408209.3501115,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-stl-lad-2026-09-02",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 3760.0,
+    "whale_pct": 10.924,
+    "whale_value_at_open": 34419.5179,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Feromont",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788408209.8303485,
+    "fills": 4
   }
 ]
