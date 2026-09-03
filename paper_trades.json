@@ -91294,5 +91294,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788437186.7048855,
     "fills": 1
+  },
+  {
+    "timestamp": 1788437529,
+    "timestamp_added": 1788437529.5579834,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-damas-kuzmano-2026-09-03",
+    "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
+    "outcome": "Miguel Damas",
+    "side": "BUY",
+    "whale_usd": 1487.3599989999998,
+    "whale_pct": 0.748,
+    "whale_value_at_open": 198908.6425,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788437529.5579915,
+    "fills": 1
   }
 ]

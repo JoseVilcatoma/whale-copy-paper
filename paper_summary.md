@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 07:10:05 (hora de Perú)
+Actualizado: 2026-09-03 07:12:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 07:10:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $154.77)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $149.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Flaznorp | 19 | 5 | 9 | +2.24 USD |
+| Flaznorp | 19 | 5 | 10 | +2.24 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -734,6 +734,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Chicago White Sox (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -763,4 +764,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Leoli | Anastasia Potapova (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | BNK FEARX (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 89% | 5.00 | 0.8% | ❌ perdida | -5.03 |
-| BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 28.6% | ⏳ pendiente | — |
