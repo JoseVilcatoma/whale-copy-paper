@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.139053634577,
+  "bankroll": 444.2827203012437,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18620,6 +18620,16 @@
       "timestamp": 1788478305.3460221,
       "bankroll": 444.14,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: 3DMAX vs HOTU (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1788478938.101721,
+      "bankroll": 449.43,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Benjamin Bonzi vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1788478939.3038356,
+      "bankroll": 444.28,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Benjamin Bonzi vs Ignacio Buse"
     }
   ]
 }

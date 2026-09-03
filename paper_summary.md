@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 18:41:35 (hora de Perú)
+Actualizado: 2026-09-03 18:43:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.14
-**Retorno acumulado:** -11.17%
+**Bankroll actual:** $444.28
+**Retorno acumulado:** -11.14%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 18:41:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $284.14)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $289.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,17 +123,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 421 | 260 | 15 | -166.55 USD |
+| ferrariChampions2026 | 422 | 261 | 14 | -166.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3540
-- **Aciertos:** 2259 (63.8%)
+- **Apuestas resueltas:** 3542
+- **Aciertos:** 2260 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,675.24
+- **Total apostado (suma de stakes):** $17,685.24
 - **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $323.73 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $324.00 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1772 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1774 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1060 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 490 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 218 | 96.3% | 97.3% | -1.0 pp |
@@ -745,12 +745,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Michael Zheng (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Zachary Svajda (BUY) | 68% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 48% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 5.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 21.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 25.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Gael Monfils vs Learner Tie | Learner Tien (BUY) | 85% | 5.00 | 8.6% | ⏳ pendiente | — |
 | Feromont | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 48% | 5.00 | 24.2% | ⏳ pendiente | — |
@@ -762,7 +763,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
 | BrotherObama | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 48% | 5.00 | 27.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
-| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 5.8% | ❌ perdida | -5.14 |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 218.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ✅ ganada | +3.82 |
@@ -774,4 +775,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ✅ ganada | +5.73 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ✅ ganada | +6.76 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 45% | 5.00 | 3.7% | ✅ ganada | +5.97 |
