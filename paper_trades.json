@@ -88758,5 +88758,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788401414.944794,
     "fills": 1
+  },
+  {
+    "timestamp": 1788401907,
+    "timestamp_added": 1788401908.2589896,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-stl-lad-2026-09-02",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 2500.0014,
+    "whale_pct": 7.717,
+    "whale_value_at_open": 32396.617,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788401908.2590034,
+    "fills": 1
   }
 ]
