@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 21:39:50 (hora de Perú)
+Actualizado: 2026-09-03 21:41:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $458.46
-**Retorno acumulado:** -8.31%
+**Bankroll actual:** $455.40
+**Retorno acumulado:** -8.92%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 21:39:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $308.46)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $315.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 434 | 267 | 12 | -158.31 USD |
+| ferrariChampions2026 | 435 | 268 | 10 | -161.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3569
-- **Aciertos:** 2278 (63.8%)
+- **Apuestas resueltas:** 3571
+- **Aciertos:** 2279 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,820.24
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $326.66 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,830.24
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $326.87 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,8 +142,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1789 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1068 | 69.8% | 67.8% | +2.0 pp |
+| 40-59% | 1790 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1069 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 493 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
 
@@ -759,7 +759,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Bouzas Maneiro vs E | Elena Rybakina (BUY) | 81% | 5.00 | 9.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 23.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -767,7 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs Bushido Wild | Bushido Wildcats (BUY) | 70% | 5.00 | 15.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Kansas City Royals (BUY) | 85% | 5.00 | 0.6% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 42% | 5.00 | 1.3% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Yunchaokete Bu (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Yunchaokete Bu (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 14.0% | ✅ ganada | +2.84 |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 3.3% | ✅ ganada | +2.97 |
@@ -775,7 +775,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Francesca Jone | Iva Jovic (BUY) | 99% | 5.00 | 1.8% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Colorado vs. Georgia Tech | Georgia Tech (BUY) | 69% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 28.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Michael Zheng (BUY) | 70% | 5.00 | 27.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Michael Zheng (BUY) | 70% | 5.00 | 27.5% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 9.4% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Zachary Svajda (BUY) | 68% | 5.00 | 4.5% | ❌ perdida | -5.08 |

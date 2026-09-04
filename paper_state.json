@@ -1,5 +1,5 @@
 {
-  "bankroll": 458.4624636822136,
+  "bankroll": 455.3953208250707,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18765,6 +18765,16 @@
       "timestamp": 1788489583.5917299,
       "bankroll": 458.46,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Zizou Bergs vs Jesper de Jong"
+    },
+    {
+      "timestamp": 1788489643.0482209,
+      "bankroll": 460.53,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Yunchaokete Bu vs Michael Zheng"
+    },
+    {
+      "timestamp": 1788489643.4486883,
+      "bankroll": 455.4,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Yunchaokete Bu vs Michael Zheng"
     }
   ]
 }
