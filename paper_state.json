@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.1626246680934,
+  "bankroll": 472.0326246680934,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19095,6 +19095,11 @@
       "timestamp": 1788535173.3127337,
       "bankroll": 477.16,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: 9INE vs Rune Eaters (BO3) - Logitech G Play Connect Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788535790.7659523,
+      "bankroll": 472.03,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Falcons vs G2 - Map 1 Winner"
     }
   ]
 }
