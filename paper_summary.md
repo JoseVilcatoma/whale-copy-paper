@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:27:46 (hora de Perú)
+Actualizado: 2026-09-04 09:29:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 09:27:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $276.48)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $266.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 447 | 274 | 5 | -145.90 USD |
+| ferrariChampions2026 | 447 | 274 | 7 | -145.90 USD |
 
 ## Análisis general
 
@@ -766,8 +766,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 53.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
+| fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ⏳ pendiente | — |
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 14.5% | ⏳ pendiente | — |
@@ -794,5 +796,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ❌ perdida | -5.14 |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ✅ ganada | +3.82 |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 82.5% | ⏳ pendiente | — |
-| RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ✅ ganada | +4.32 |
