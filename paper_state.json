@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.42941428465537,
+  "bankroll": 480.18941428465536,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19335,6 +19335,16 @@
       "timestamp": 1788555426.0159616,
       "bankroll": 490.43,
       "event": "won: HongYunX \u2014 Fredrikstad FK vs. FK Bod\u00f8/Glimt: O/U 3.5"
+    },
+    {
+      "timestamp": 1788555738.2273371,
+      "bankroll": 485.29,
+      "event": "lost: Flaznorp \u2014 Will Como 1907 win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788555741.4648144,
+      "bankroll": 480.19,
+      "event": "lost: HongYunX \u2014 Will Nordic United FC win on 2026-09-04?"
     }
   ]
 }
