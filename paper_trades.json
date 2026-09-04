@@ -95455,8 +95455,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 3068.7999979999995,
-    "whale_pct": 21.93,
+    "whale_usd": 6332.7999979999995,
+    "whale_pct": 45.255,
     "whale_value_at_open": 13993.5696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -95467,8 +95467,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536253.9418714,
-    "fills": 2
+    "last_fill_at": 1788536764.4826808,
+    "fills": 3
   },
   {
     "timestamp": 1788534554,
@@ -95479,8 +95479,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 7918.399996000001,
-    "whale_pct": 146.826,
+    "whale_usd": 8926.935396,
+    "whale_pct": 165.526,
     "whale_value_at_open": 5393.0666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -95491,8 +95491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536307.8930027,
-    "fills": 4
+    "last_fill_at": 1788536774.5576317,
+    "fills": 5
   },
   {
     "timestamp": 1788534773,
@@ -95529,8 +95529,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 8641.180795,
-    "whale_pct": 45.559,
+    "whale_usd": 9371.899195,
+    "whale_pct": 49.412,
     "whale_value_at_open": 18966.9391,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -95545,8 +95545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536164.3155487,
-    "fills": 5
+    "last_fill_at": 1788536702.644102,
+    "fills": 6
   },
   {
     "timestamp": 1788534854,
@@ -95632,8 +95632,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 910.1339999999999,
-    "whale_pct": 3.624,
+    "whale_usd": 1437.0427999999997,
+    "whale_pct": 5.722,
     "whale_value_at_open": 25112.6136,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -95647,7 +95647,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536491.8732667,
-    "fills": 1
+    "last_fill_at": 1788536764.4883783,
+    "fills": 2
   }
 ]
