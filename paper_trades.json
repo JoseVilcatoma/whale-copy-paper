@@ -95273,5 +95273,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788530797.7303033,
     "fills": 2
+  },
+  {
+    "timestamp": 1788531897,
+    "timestamp_added": 1788531897.6474106,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-montes-jones-2026-09-04",
+    "title": "Manacor: Inaki Montes vs Jack Pinnington Jones",
+    "outcome": "Inaki Montes",
+    "side": "BUY",
+    "whale_usd": 1700.0,
+    "whale_pct": 0.664,
+    "whale_value_at_open": 255843.7919,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788531897.647423,
+    "fills": 1
   }
 ]
