@@ -95697,5 +95697,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788537214.3513994,
     "fills": 1
+  },
+  {
+    "timestamp": 1788537905,
+    "timestamp_added": 1788537906.0402925,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "swe2-ost-nou-2026-09-04-nou",
+    "title": "Will Nordic United FC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4651.4585,
+    "whale_pct": 9.268,
+    "whale_value_at_open": 50186.9517,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788537912.0812342,
+    "fills": 2
   }
 ]
