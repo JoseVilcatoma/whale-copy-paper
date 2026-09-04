@@ -96372,8 +96372,8 @@
     "title": "San Jose State vs. Eastern Michigan",
     "outcome": "Eastern Michigan",
     "side": "BUY",
-    "whale_usd": 29866.941374,
-    "whale_pct": 197.739,
+    "whale_usd": 202204.37737400003,
+    "whale_pct": 1338.73,
     "whale_value_at_open": 15104.1986,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -96384,8 +96384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560647.62599,
-    "fills": 6
+    "last_fill_at": 1788560828.316169,
+    "fills": 13
   },
   {
     "timestamp": 1788560360,
@@ -96529,6 +96529,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788560702.6919754,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788560778,
+    "timestamp_added": 1788560779.3255334,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-laa-pit-2026-09-04",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 16000.0,
+    "whale_pct": 37.584,
+    "whale_value_at_open": 42571.4604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788560779.3255444,
     "fills": 1
   }
 ]
