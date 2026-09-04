@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.1894258655222,
+  "bankroll": 501.3270090003547,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18930,6 +18930,21 @@
       "timestamp": 1788506262.7547784,
       "bankroll": 493.19,
       "event": "won:  \u2014 Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter"
+    },
+    {
+      "timestamp": 1788510980.566593,
+      "bankroll": 498.69,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Kasidit Samrej vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788510981.0648654,
+      "bankroll": 500.97,
+      "event": "won: RN1 \u2014 Zhangjiagang: Kasidit Samrej vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788510981.9391184,
+      "bankroll": 501.33,
+      "event": "won: Flaznorp \u2014 Zhangjiagang: Kasidit Samrej vs Enzo Aguiard"
     }
   ]
 }
