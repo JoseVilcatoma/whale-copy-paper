@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 16:28:17 (hora de Perú)
+Actualizado: 2026-09-04 16:30:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.69
-**Retorno acumulado:** -2.26%
+**Bankroll actual:** $502.97
+**Retorno acumulado:** +0.59%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 16:28:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $398.69)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $437.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,14 +29,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | AV23IUa | 33 | 17 | 1 | +22.00 USD |
+| tikstt | 5 | 0 | 0 | +20.52 USD |
+| HongYunX | 7 | 3 | 0 | +17.46 USD |
 | Feromont | 5 | 1 | 1 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 52 | 33 | 4 | +16.25 USD |
-|  | 5 | 1 | 2 | +15.27 USD |
+|  | 6 | 2 | 0 | +15.27 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
-| tikstt | 4 | 0 | 1 | +14.55 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| HongYunX | 6 | 3 | 1 | +12.96 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| Flaznorp | 36 | 11 | 1 | +5.93 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ExplosiveNinja | 13 | 8 | 0 | +4.32 USD |
@@ -70,7 +71,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| Flaznorp | 35 | 11 | 2 | +2.11 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3683
-- **Aciertos:** 2351 (63.8%)
+- **Apuestas resueltas:** 3688
+- **Aciertos:** 2355 (63.9%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,390.24
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $338.31 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,415.24
+- **ROI sobre lo apostado:** -0.59%
+- **Comisiones pagadas (taker fee):** $338.88 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,8 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1858 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1102 | 69.9% | 67.8% | +2.1 pp |
+| 40-59% | 1862 | 50.5% | 50.1% | +0.4 pp |
+| 60-79% | 1103 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 499 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
 
@@ -775,12 +775,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 14.0% | ⏳ pendiente | — |
 | Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
 | pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
-|  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ⏳ pendiente | — |
-| tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ⏳ pendiente | — |
+|  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ✅ ganada | +5.08 |
+| tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ✅ ganada | +5.97 |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 91.4% | ⏳ pendiente | — |
 | tikstt | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 59% | 5.00 | 19.1% | ✅ ganada | +3.37 |
-| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 65% | 5.00 | 88.8% | ⏳ pendiente | — |
-|  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 65% | 5.00 | 131.5% | ⏳ pendiente | — |
+|  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ❌ perdida | -5.08 |
 | fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 82.5% | ✅ ganada | +0.25 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 44% | 5.00 | 29.9% | 💰 vendida anticipada | +1.66 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ✅ ganada | +3.82 |

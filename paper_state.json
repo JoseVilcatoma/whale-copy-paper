@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.6861484505786,
+  "bankroll": 502.9742972382989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19360,6 +19360,31 @@
       "timestamp": 1788556679.8985755,
       "bankroll": 488.69,
       "event": "won: tikstt \u2014 Paris Saint-Germain FC vs. AS Monaco FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1788557304.672919,
+      "bankroll": 492.5,
+      "event": "won: Flaznorp \u2014 Spread: Real Madrid CF (-1.5)"
+    },
+    {
+      "timestamp": 1788557306.5266736,
+      "bankroll": 497.0,
+      "event": "won: HongYunX \u2014 Real Betis Balompi\u00e9 vs. Real Madrid CF: O/U 3.5"
+    },
+    {
+      "timestamp": 1788557307.477337,
+      "bankroll": 491.93,
+      "event": "lost:  \u2014 Will Real Madrid CF win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788557308.2203898,
+      "bankroll": 497.9,
+      "event": "won: tikstt \u2014 Will Real Madrid CF win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788557308.5558085,
+      "bankroll": 502.97,
+      "event": "won:  \u2014 US Open WTA: Emma Navarro vs Karolina Muchova"
     }
   ]
 }
