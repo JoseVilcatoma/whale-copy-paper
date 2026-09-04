@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.8724927160279,
+  "bankroll": 490.42941428465537,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19325,6 +19325,16 @@
       "timestamp": 1788554815.2502646,
       "bankroll": 490.87,
       "event": "won: AV23IUa \u2014 US Open ATP: Alexander Bublik vs Tommy Paul"
+    },
+    {
+      "timestamp": 1788555424.22381,
+      "bankroll": 485.75,
+      "event": "lost: HongYunX \u2014 VfB Stuttgart vs. 1. FC K\u00f6ln: O/U 3.5"
+    },
+    {
+      "timestamp": 1788555426.0159616,
+      "bankroll": 490.43,
+      "event": "won: HongYunX \u2014 Fredrikstad FK vs. FK Bod\u00f8/Glimt: O/U 3.5"
     }
   ]
 }
