@@ -95431,8 +95431,8 @@
     "title": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
     "outcome": "Mariano Navone",
     "side": "BUY",
-    "whale_usd": 9632.785673999999,
-    "whale_pct": 2.261,
+    "whale_usd": 28014.511163999996,
+    "whale_pct": 6.576,
     "whale_value_at_open": 425990.9905,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -95443,8 +95443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536818.4836414,
-    "fills": 5
+    "last_fill_at": 1788537341.9028635,
+    "fills": 7
   },
   {
     "timestamp": 1788534476,
