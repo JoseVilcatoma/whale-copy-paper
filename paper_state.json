@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.2519738223705,
+  "bankroll": 446.2994788728755,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18635,6 +18635,11 @@
       "timestamp": 1788480208.4593058,
       "bankroll": 446.25,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Yawara Esports vs paiN Academy (BO3) - CCT South America Series 5 Playoffs"
+    },
+    {
+      "timestamp": 1788485093.9248672,
+      "bankroll": 446.3,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iva Jovic vs Francesca Jones"
     }
   ]
 }

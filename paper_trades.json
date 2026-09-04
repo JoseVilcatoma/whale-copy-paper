@@ -92782,8 +92782,8 @@
     "title": "Milwaukee Brewers vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 12013.536493999998,
-    "whale_pct": 8.142,
+    "whale_usd": 14829.787093999998,
+    "whale_pct": 10.051,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92797,8 +92797,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481226.4026968,
-    "fills": 2
+    "last_fill_at": 1788485078.0643501,
+    "fills": 3
   },
   {
     "timestamp": 1788477316,
@@ -92956,8 +92956,8 @@
     "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 10235.671783,
-    "whale_pct": 4.844,
+    "whale_usd": 10860.147973,
+    "whale_pct": 5.14,
     "whale_value_at_open": 211304.3339,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -92968,8 +92968,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788483916.891509,
-    "fills": 4
+    "last_fill_at": 1788485096.1012018,
+    "fills": 5
   },
   {
     "timestamp": 1788479060,
@@ -93035,8 +93035,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
