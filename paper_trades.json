@@ -91408,8 +91408,8 @@
     "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 13539.375532999999,
-    "whale_pct": 5.698,
+    "whale_usd": 14344.570018999999,
+    "whale_pct": 6.037,
     "whale_value_at_open": 237597.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -91420,8 +91420,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788480839.9213853,
-    "fills": 4
+    "last_fill_at": 1788481097.4724555,
+    "fills": 5
   },
   {
     "timestamp": 1788437928,
