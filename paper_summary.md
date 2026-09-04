@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 03:04:04 (hora de Perú)
+Actualizado: 2026-09-04 03:06:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 03:04:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $338.19)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $333.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| BrotherObama | 4 | 3 | 0 | +1.78 USD |
+| BrotherObama | 4 | 3 | 1 | +1.78 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -758,11 +758,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ⏳ pendiente | — |
 | Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
+| Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | Will Como 1907 win on 2026-09-04? | No (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 68% | 5.00 | 3.5% | ⏳ pendiente | — |
@@ -787,4 +788,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 24.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 49% | 5.00 | 0.8% | ✅ ganada | +5.08 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 60.6% | ❌ perdida | -5.13 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ✅ ganada | +6.48 |

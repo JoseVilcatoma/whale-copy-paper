@@ -94342,8 +94342,8 @@
     "title": "Spread: Real Madrid CF (-1.5)",
     "outcome": "Real Betis Balompi\u00e9",
     "side": "BUY",
-    "whale_usd": 2844.839997,
-    "whale_pct": 1.236,
+    "whale_usd": 4052.089997,
+    "whale_pct": 1.76,
     "whale_value_at_open": 230221.9402,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -94354,8 +94354,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788509011.4640427,
-    "fills": 3
+    "last_fill_at": 1788509152.4680462,
+    "fills": 4
   },
   {
     "timestamp": 1788508035,
@@ -94454,6 +94454,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788508844.6857831,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788509107,
+    "timestamp_added": 1788509108.5282772,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-kt-dk-2026-09-04-game1",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 11999.999999000001,
+    "whale_pct": 127.202,
+    "whale_value_at_open": 9433.8278,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788509108.528292,
     "fills": 1
   }
 ]
