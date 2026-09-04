@@ -92956,8 +92956,8 @@
     "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 50784.090677,
-    "whale_pct": 24.034,
+    "whale_usd": 58010.571077,
+    "whale_pct": 27.454,
     "whale_value_at_open": 211304.3339,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -92968,8 +92968,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788485996.7652583,
-    "fills": 10
+    "last_fill_at": 1788486868.7739062,
+    "fills": 11
   },
   {
     "timestamp": 1788479060,
