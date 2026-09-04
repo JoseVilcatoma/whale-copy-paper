@@ -94606,5 +94606,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788512375.489563,
     "fills": 1
+  },
+  {
+    "timestamp": 1788516000,
+    "timestamp_added": 1788516000.9510307,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-9ine-run2-2026-09-04",
+    "title": "Counter-Strike: 9INE vs Rune Eaters (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
+    "outcome": "9INE",
+    "side": "BUY",
+    "whale_usd": 7649.4656,
+    "whale_pct": 29.377,
+    "whale_value_at_open": 26038.773,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788516000.9510477,
+    "fills": 1
   }
 ]
