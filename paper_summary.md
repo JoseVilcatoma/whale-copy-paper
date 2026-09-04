@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 20:25:00 (hora de Perú)
+Actualizado: 2026-09-03 20:27:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $446.30
-**Retorno acumulado:** -10.74%
+**Bankroll actual:** $446.66
+**Retorno acumulado:** -10.67%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 20:25:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $241.30)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $251.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,17 +123,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 423 | 261 | 22 | -166.35 USD |
+| ferrariChampions2026 | 424 | 262 | 20 | -165.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3544
-- **Aciertos:** 2262 (63.8%)
+- **Apuestas resueltas:** 3546
+- **Aciertos:** 2263 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,695.24
-- **ROI sobre lo apostado:** -0.93%
-- **Comisiones pagadas (taker fee):** $324.07 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $17,705.24
+- **ROI sobre lo apostado:** -0.92%
+- **Comisiones pagadas (taker fee):** $324.35 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1774 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1776 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1061 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 490 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
@@ -760,10 +760,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 11.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Michael Zheng (BUY) | 70% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Zachary Svajda (BUY) | 68% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 15.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 15.7% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 36.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 45% | 5.00 | 10.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Gael Monfils vs Learner Tie | Learner Tien (BUY) | 85% | 5.00 | 8.6% | ⏳ pendiente | — |

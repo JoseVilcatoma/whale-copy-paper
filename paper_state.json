@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.2994788728755,
+  "bankroll": 446.65977674521594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18640,6 +18640,16 @@
       "timestamp": 1788485093.9248672,
       "bankroll": 446.3,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iva Jovic vs Francesca Jones"
+    },
+    {
+      "timestamp": 1788485221.4815288,
+      "bankroll": 451.8,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Botic van de Zandschulp vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1788485221.7819986,
+      "bankroll": 446.66,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Botic van de Zandschulp vs Alex de Minaur"
     }
   ]
 }
