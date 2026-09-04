@@ -2,26 +2,20 @@
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
     "added_at": 1788366301.4703135,
-    "roi_pct": 758.24,
+    "roi_pct": 758.25,
     "short_term_pct": 100.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788434539.160044,
-    "roi_pct": 2248.88,
-    "short_term_pct": 70.0
+    "roi_pct": 2234.68,
+    "short_term_pct": 80.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1788498108.8138843,
-    "roi_pct": 1287.84,
+    "roi_pct": 1415.12,
     "short_term_pct": 100.0
-  },
-  "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
-    "username": "Talvez10",
-    "added_at": 1788499979.0691128,
-    "roi_pct": 2410.6,
-    "short_term_pct": 30.0
   },
   "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8": {
     "username": "fRibrenlc",
@@ -32,31 +26,37 @@
   "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
     "username": "HongYunX",
     "added_at": 1788509258.6637115,
-    "roi_pct": 858.74,
+    "roi_pct": 856.68,
     "short_term_pct": 100.0
   },
   "0xc32359bbc920b365a05cd310b9a998508c980077": {
     "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
     "added_at": 1788512969.1351213,
-    "roi_pct": 275.86,
+    "roi_pct": 276.7,
     "short_term_pct": 100.0
   },
   "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0": {
     "username": "",
     "added_at": 1788520068.3771226,
-    "roi_pct": 211.7,
+    "roi_pct": 222.78,
     "short_term_pct": 100.0
   },
   "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d": {
     "username": "zofgkt1111",
     "added_at": 1788521441.2827184,
-    "roi_pct": 155.46,
+    "roi_pct": 153.67,
     "short_term_pct": 100.0
   },
   "0xfe16a8085468473098b003306abb98ecb3867824": {
     "username": "seretas",
     "added_at": 1788525150.5471296,
-    "roi_pct": 143.11,
+    "roi_pct": 146.12,
+    "short_term_pct": 100.0
+  },
+  "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
+    "username": "ExplosiveNinja",
+    "added_at": 1788526074.5861852,
+    "roi_pct": 138.16,
     "short_term_pct": 100.0
   }
 }
