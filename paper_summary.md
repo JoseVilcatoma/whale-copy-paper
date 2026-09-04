@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 22:43:40 (hora de Perú)
+Actualizado: 2026-09-03 22:45:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.47
@@ -754,17 +754,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | James Kent Trotter (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 19.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 33.6% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 51.2% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 60.6% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 43% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 10.5 | Under (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 11.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 12.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 41% | 5.00 | 5.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 131.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs G2 (+1.5) | G2 (BUY) | 68% | 5.00 | 87.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 138.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs G2 (+1.5) | G2 (BUY) | 68% | 5.00 | 93.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-2.5) | St. Louis Cardinals (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 65% | 5.00 | 649.9% | ⏳ pendiente | — |
 | BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ⏳ pendiente | — |

@@ -93496,8 +93496,8 @@
     "title": "Map Handicap: FAL (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 19813.207599999998,
-    "whale_pct": 87.605,
+    "whale_usd": 21139.6651,
+    "whale_pct": 93.47,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93508,8 +93508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492572.9905756,
-    "fills": 7
+    "last_fill_at": 1788493474.3048348,
+    "fills": 8
   },
   {
     "timestamp": 1788488075,
@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 29703.655600000002,
-    "whale_pct": 131.336,
+    "whale_usd": 31282.5167,
+    "whale_pct": 138.317,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492571.2009373,
-    "fills": 6
+    "last_fill_at": 1788493477.5486655,
+    "fills": 7
   },
   {
     "timestamp": 1788488076,
@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 19731.836687,
-    "whale_pct": 11.541,
+    "whale_usd": 21381.596086999998,
+    "whale_pct": 12.505,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,8 +93654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492313.0022569,
-    "fills": 4
+    "last_fill_at": 1788493466.8690848,
+    "fills": 5
   },
   {
     "timestamp": 1788491238,
@@ -93714,8 +93714,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 4982.0022,
-    "whale_pct": 51.164,
+    "whale_usd": 6513.5676,
+    "whale_pct": 66.893,
     "whale_value_at_open": 9737.3304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -93729,8 +93729,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492052.2874782,
-    "fills": 1
+    "last_fill_at": 1788493466.8728101,
+    "fills": 2
   },
   {
     "timestamp": 1788492065,
@@ -93741,8 +93741,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 3271.554,
-    "whale_pct": 33.598,
+    "whale_usd": 5897.43,
+    "whale_pct": 60.565,
     "whale_value_at_open": 9737.3304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -93755,8 +93755,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492065.4940438,
-    "fills": 1
+    "last_fill_at": 1788493453.6695168,
+    "fills": 2
   },
   {
     "timestamp": 1788492576,
