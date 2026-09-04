@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 19:33:04 (hora de Perú)
+Actualizado: 2026-09-03 19:35:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.25
@@ -746,8 +746,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 51% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Francesca Jone | Iva Jovic (BUY) | 99% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado vs. Georgia Tech | Georgia Tech (BUY) | 69% | 5.00 | 2.5% | ⏳ pendiente | — |

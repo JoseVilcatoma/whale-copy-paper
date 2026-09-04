@@ -93076,8 +93076,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 1412.070519,
-    "whale_pct": 0.53,
+    "whale_usd": 2905.517799,
+    "whale_pct": 1.091,
     "whale_value_at_open": 266251.8344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -93088,8 +93088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481814.3991027,
-    "fills": 1
+    "last_fill_at": 1788482037.759833,
+    "fills": 2
   },
   {
     "timestamp": 1788481903,
@@ -93100,8 +93100,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 6212.462,
-    "whale_pct": 2.318,
+    "whale_usd": 9919.6684,
+    "whale_pct": 3.701,
     "whale_value_at_open": 268020.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -93114,7 +93114,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481903.604565,
-    "fills": 1
+    "last_fill_at": 1788481988.3333392,
+    "fills": 2
   }
 ]
