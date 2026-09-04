@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.65977674521594,
+  "bankroll": 446.86644341188264,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18650,6 +18650,16 @@
       "timestamp": 1788485221.7819986,
       "bankroll": 446.66,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Botic van de Zandschulp vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1788485843.5213385,
+      "bankroll": 451.95,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Zachary Svajda vs Arthur Gea"
+    },
+    {
+      "timestamp": 1788485847.0311074,
+      "bankroll": 446.87,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Zachary Svajda vs Arthur Gea"
     }
   ]
 }

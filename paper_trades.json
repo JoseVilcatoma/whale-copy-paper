@@ -91415,8 +91415,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -92891,8 +92891,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -92956,8 +92956,8 @@
     "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 13520.367472999998,
-    "whale_pct": 6.399,
+    "whale_usd": 32063.063773,
+    "whale_pct": 15.174,
     "whale_value_at_open": 211304.3339,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -92968,8 +92968,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788485524.1788764,
-    "fills": 6
+    "last_fill_at": 1788485767.158231,
+    "fills": 8
   },
   {
     "timestamp": 1788479060,
@@ -93100,8 +93100,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 9919.6684,
-    "whale_pct": 3.701,
+    "whale_usd": 12118.200400000002,
+    "whale_pct": 4.521,
     "whale_value_at_open": 268020.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -93114,8 +93114,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481988.3333392,
-    "fills": 2
+    "last_fill_at": 1788485728.7027602,
+    "fills": 3
   },
   {
     "timestamp": 1788483128,
@@ -93264,5 +93264,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788485377.1315746,
     "fills": 3
+  },
+  {
+    "timestamp": 1788485822,
+    "timestamp_added": 1788485822.9829562,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-03-total-7pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3366.1344,
+    "whale_pct": 1.714,
+    "whale_value_at_open": 196337.3943,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788485822.982968,
+    "fills": 1
   }
 ]
