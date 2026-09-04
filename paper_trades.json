@@ -95290,8 +95290,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95338,8 +95338,8 @@
     "odds_at_bet": 96,
     "fee_usd": 0.01,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -95492,6 +95492,60 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788534614.1487362,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788534773,
+    "timestamp_added": 1788534773.376227,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-fal2-g2-2026-09-04-game2",
+    "title": "Counter-Strike: Team Falcons vs G2 - Map 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 11791.767998,
+    "whale_pct": 107.823,
+    "whale_value_at_open": 10936.2134,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788534788.9909794,
+    "fills": 6
+  },
+  {
+    "timestamp": 1788534788,
+    "timestamp_added": 1788534788.562368,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-fal2-g2-2026-09-04",
+    "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 5317.180795,
+    "whale_pct": 28.034,
+    "whale_value_at_open": 18966.9391,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "BrotherObama",
+      "fRibrenlc"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788534790.3061936,
     "fills": 2
   }
 ]

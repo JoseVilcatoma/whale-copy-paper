@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.64485720567075,
+  "bankroll": 474.5573169757857,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19080,6 +19080,16 @@
       "timestamp": 1788534235.723457,
       "bankroll": 473.64,
       "event": "won: zofgkt1111 \u2014 LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788534738.6299014,
+      "bankroll": 474.36,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Inaki Montes vs Jack Pinnington Jones"
+    },
+    {
+      "timestamp": 1788534738.8302352,
+      "bankroll": 474.56,
+      "event": "won: fRibrenlc \u2014 Manacor: Inaki Montes vs Jack Pinnington Jones"
     }
   ]
 }
