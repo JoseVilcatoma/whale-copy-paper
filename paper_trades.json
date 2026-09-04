@@ -93168,5 +93168,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788483651.6934454,
     "fills": 1
+  },
+  {
+    "timestamp": 1788483844,
+    "timestamp_added": 1788483845.2041488,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-kc-2026-09-03-total-11pt5",
+    "title": "Miami Marlins vs. Kansas City Royals: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 583.02,
+    "whale_pct": 0.211,
+    "whale_value_at_open": 276516.3362,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788483845.2041595,
+    "fills": 1
   }
 ]
