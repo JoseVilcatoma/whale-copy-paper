@@ -94196,8 +94196,8 @@
     "title": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 621.789666,
-    "whale_pct": 0.869,
+    "whale_usd": 1871.3047080000001,
+    "whale_pct": 2.614,
     "whale_value_at_open": 71588.0318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -94208,8 +94208,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788502956.606582,
-    "fills": 1
+    "last_fill_at": 1788504278.6238317,
+    "fills": 2
   },
   {
     "timestamp": 1788503388,
