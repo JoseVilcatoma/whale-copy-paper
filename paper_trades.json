@@ -96372,8 +96372,8 @@
     "title": "San Jose State vs. Eastern Michigan",
     "outcome": "Eastern Michigan",
     "side": "BUY",
-    "whale_usd": 202204.37737400003,
-    "whale_pct": 1338.73,
+    "whale_usd": 260504.37737400003,
+    "whale_pct": 1724.715,
     "whale_value_at_open": 15104.1986,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -96384,8 +96384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560828.316169,
-    "fills": 13
+    "last_fill_at": 1788561156.7273738,
+    "fills": 14
   },
   {
     "timestamp": 1788560360,
@@ -96516,8 +96516,8 @@
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 9030.0882,
-    "whale_pct": 4.826,
+    "whale_usd": 22987.5852,
+    "whale_pct": 12.286,
     "whale_value_at_open": 187106.9987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -96528,8 +96528,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560702.6919754,
-    "fills": 1
+    "last_fill_at": 1788561163.1812248,
+    "fills": 2
   },
   {
     "timestamp": 1788560778,
@@ -96577,6 +96577,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788561036.2736843,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788561208,
+    "timestamp_added": 1788561208.75768,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "mlb-mil-cin-2026-09-04",
+    "title": "Milwaukee Brewers vs. Cincinnati Reds",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 19999.999998,
+    "whale_pct": 51.938,
+    "whale_value_at_open": 38507.1828,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788561208.7576926,
     "fills": 1
   }
 ]
