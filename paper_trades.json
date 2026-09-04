@@ -92994,5 +92994,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788479061.221191,
     "fills": 1
+  },
+  {
+    "timestamp": 1788480004,
+    "timestamp_added": 1788480005.1348882,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-col-gtech-2026-09-03",
+    "title": "Colorado vs. Georgia Tech",
+    "outcome": "Georgia Tech",
+    "side": "BUY",
+    "whale_usd": 1081.2,
+    "whale_pct": 0.458,
+    "whale_value_at_open": 235969.6394,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788480005.134901,
+    "fills": 1
   }
 ]
