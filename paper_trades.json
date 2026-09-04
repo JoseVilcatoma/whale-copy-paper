@@ -94946,5 +94946,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788522452.4814105,
     "fills": 3
+  },
+  {
+    "timestamp": 1788523590,
+    "timestamp_added": 1788523590.7028093,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-al-lgd-2026-09-04-game4",
+    "title": "LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 8710.6626,
+    "whale_pct": 12.138,
+    "whale_value_at_open": 71760.8255,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788523606.083794,
+    "fills": 2
   }
 ]
