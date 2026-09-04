@@ -95155,8 +95155,8 @@
     "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 7836.278974,
-    "whale_pct": 2.355,
+    "whale_usd": 20324.589999,
+    "whale_pct": 6.108,
     "whale_value_at_open": 332741.9556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -95169,8 +95169,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788530090.3197427,
-    "fills": 5
+    "last_fill_at": 1788530750.4632688,
+    "fills": 7
   },
   {
     "timestamp": 1788530385,
@@ -95205,8 +95205,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 3552.696,
-    "whale_pct": 25.437,
+    "whale_usd": 12998.6136,
+    "whale_pct": 93.07,
     "whale_value_at_open": 13966.5161,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -95220,8 +95220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788530457.526135,
-    "fills": 2
+    "last_fill_at": 1788530695.5066767,
+    "fills": 5
   },
   {
     "timestamp": 1788530634,
@@ -95246,5 +95246,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788530635.4705994,
     "fills": 1
+  },
+  {
+    "timestamp": 1788530702,
+    "timestamp_added": 1788530702.6721885,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-fal2-g2-2026-09-04",
+    "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 14544.37186,
+    "whale_pct": 72.524,
+    "whale_value_at_open": 20054.5993,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788530797.7303033,
+    "fills": 2
   }
 ]
