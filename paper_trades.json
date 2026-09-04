@@ -93076,8 +93076,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 7062.752567,
-    "whale_pct": 2.653,
+    "whale_usd": 8811.548237,
+    "whale_pct": 3.309,
     "whale_value_at_open": 266251.8344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -93088,8 +93088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788482425.4125762,
-    "fills": 4
+    "last_fill_at": 1788483506.9014096,
+    "fills": 6
   },
   {
     "timestamp": 1788481903,
