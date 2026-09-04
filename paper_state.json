@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.8380878226127,
+  "bankroll": 493.1894258655222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18915,6 +18915,21 @@
       "timestamp": 1788504684.8340127,
       "bankroll": 491.84,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Quentin Halys"
+    },
+    {
+      "timestamp": 1788506262.170461,
+      "bankroll": 496.91,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter"
+    },
+    {
+      "timestamp": 1788506262.270611,
+      "bankroll": 491.83,
+      "event": "lost: ferrariChampions2026 \u2014 Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter"
+    },
+    {
+      "timestamp": 1788506262.7547784,
+      "bankroll": 493.19,
+      "event": "won:  \u2014 Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter"
     }
   ]
 }
