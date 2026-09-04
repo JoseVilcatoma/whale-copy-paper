@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.78656919146135,
+  "bankroll": 455.6309221326378,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18705,6 +18705,11 @@
       "timestamp": 1788487093.6936533,
       "bankroll": 454.79,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Maria Sakkari vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1788487408.0158958,
+      "bankroll": 455.63,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Gael Monfils vs Learner Tien"
     }
   ]
 }
