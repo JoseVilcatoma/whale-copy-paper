@@ -95155,8 +95155,8 @@
     "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 20324.589999,
-    "whale_pct": 6.108,
+    "whale_usd": 22909.608114000002,
+    "whale_pct": 6.885,
     "whale_value_at_open": 332741.9556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -95169,8 +95169,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788530750.4632688,
-    "fills": 7
+    "last_fill_at": 1788532649.926736,
+    "fills": 9
   },
   {
     "timestamp": 1788530385,
