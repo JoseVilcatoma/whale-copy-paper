@@ -92939,8 +92939,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -93100,8 +93100,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 36542.532029,
-    "whale_pct": 13.634,
+    "whale_usd": 37611.648029,
+    "whale_pct": 14.033,
     "whale_value_at_open": 268020.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -93114,8 +93114,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788486679.3250904,
-    "fills": 10
+    "last_fill_at": 1788486819.698644,
+    "fills": 11
   },
   {
     "timestamp": 1788483128,
@@ -93274,8 +93274,8 @@
     "title": "Athletics vs. Seattle Mariners: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4086.9344,
-    "whale_pct": 2.082,
+    "whale_usd": 4666.9344,
+    "whale_pct": 2.377,
     "whale_value_at_open": 196337.3943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -93288,8 +93288,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788486614.900408,
-    "fills": 2
+    "last_fill_at": 1788486742.5439491,
+    "fills": 3
   },
   {
     "timestamp": 1788485970,
@@ -93337,6 +93337,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788486549.8444989,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788486807,
+    "timestamp_added": 1788486808.0871172,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zverev-halys-2026-09-03",
+    "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 537.976705,
+    "whale_pct": 0.286,
+    "whale_value_at_open": 188106.1274,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788486808.0871294,
     "fills": 1
   }
 ]

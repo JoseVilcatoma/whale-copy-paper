@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.6099391383784,
+  "bankroll": 456.88705306242906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18690,6 +18690,11 @@
       "timestamp": 1788486469.3632169,
       "bankroll": 455.61,
       "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788486784.5314555,
+      "bankroll": 456.89,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Paula Badosa vs Coco Gauff"
     }
   ]
 }
