@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 10:42:34 (hora de Perú)
+Actualizado: 2026-09-04 10:44:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.59
@@ -770,10 +770,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 6.7% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 10.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 45.6% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 169.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 180.1% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 146.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 21.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Tomas Etcheverry vs Mariano | Mariano Navone (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
