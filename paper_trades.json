@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 95411.84506099999,
-    "whale_pct": 50.722,
+    "whale_usd": 107057.65126099998,
+    "whale_pct": 56.913,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788491978.150092,
-    "fills": 13
+    "last_fill_at": 1788492286.005081,
+    "fills": 15
   },
   {
     "timestamp": 1788487001,
