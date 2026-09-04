@@ -92809,8 +92809,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Maria Sakkari",
     "side": "BUY",
-    "whale_usd": 52517.940118000006,
-    "whale_pct": 35.594,
+    "whale_usd": 53509.140118,
+    "whale_pct": 36.265,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -92821,8 +92821,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788480457.1651013,
-    "fills": 16
+    "last_fill_at": 1788480915.0047467,
+    "fills": 17
   },
   {
     "timestamp": 1788477395,
@@ -92980,8 +92980,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 1611.434,
-    "whale_pct": 4.96,
+    "whale_usd": 2284.0292,
+    "whale_pct": 7.03,
     "whale_value_at_open": 32488.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92992,8 +92992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788479061.221191,
-    "fills": 1
+    "last_fill_at": 1788480866.3272936,
+    "fills": 2
   },
   {
     "timestamp": 1788480004,
