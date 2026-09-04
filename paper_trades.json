@@ -95232,8 +95232,8 @@
     "title": "Real Betis Balompi\u00e9 vs. Real Madrid CF: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3335.5377000000003,
-    "whale_pct": 14.482,
+    "whale_usd": 6659.743200000001,
+    "whale_pct": 28.915,
     "whale_value_at_open": 23032.2201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -95244,8 +95244,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788530635.4705994,
-    "fills": 1
+    "last_fill_at": 1788532925.6260102,
+    "fills": 2
   },
   {
     "timestamp": 1788530702,
