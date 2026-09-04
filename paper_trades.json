@@ -93412,5 +93412,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788487535.5991042,
     "fills": 2
+  },
+  {
+    "timestamp": 1788487626,
+    "timestamp_added": 1788487627.0654335,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-stl-lad-2026-09-03-spread-home-2pt5",
+    "title": "Spread: Los Angeles Dodgers (-2.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 7999.999999,
+    "whale_pct": 13.535,
+    "whale_value_at_open": 59104.3144,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788487627.0654447,
+    "fills": 1
   }
 ]
