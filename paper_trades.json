@@ -94791,5 +94791,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788516493.7569122,
     "fills": 1
+  },
+  {
+    "timestamp": 1788516896,
+    "timestamp_added": 1788516897.2964752,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-imp11-alkaa-2026-09-04",
+    "title": "Counter-Strike: Imperial vs ALKA (BO3) - PGL Masters Bucharest: South American Open Qualifier #1 Playoffs",
+    "outcome": "Imperial",
+    "side": "BUY",
+    "whale_usd": 672.0,
+    "whale_pct": 0.44,
+    "whale_value_at_open": 152892.0397,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788516897.296503,
+    "fills": 1
   }
 ]
