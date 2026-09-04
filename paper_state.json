@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.9742972382989,
+  "bankroll": 502.0315564975582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19385,6 +19385,16 @@
       "timestamp": 1788557308.5558085,
       "bankroll": 502.97,
       "event": "won:  \u2014 US Open WTA: Emma Navarro vs Karolina Muchova"
+    },
+    {
+      "timestamp": 1788562937.493977,
+      "bankroll": 497.89,
+      "event": "lost: 1winstreak1 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788562938.2712383,
+      "bankroll": 502.03,
+      "event": "won: Feromont \u2014 Detroit Tigers vs. Cleveland Guardians"
     }
   ]
 }
