@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 19:51:45 (hora de Perú)
+Actualizado: 2026-09-03 19:53:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 19:51:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $266.25)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $261.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 422 | 261 | 19 | -166.40 USD |
+| ferrariChampions2026 | 422 | 261 | 20 | -166.40 USD |
 
 ## Análisis general
 
@@ -732,7 +732,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-bal-2026-09-03 | AV23IUa, BrotherObama, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game4 | BBQChickenisthebesttt, zofgkt1111 |
 | lol-blg-we-2026-09-03 | ferrariChampions2026, zofgkt1111 |
-| mlb-tb-tex-2026-09-03 | AV23IUa, BrotherObama, pleaseplease123 |
+| mlb-tb-tex-2026-09-03 | AV23IUa, BrotherObama, ferrariChampions2026, pleaseplease123 |
 | lal-rso-cel-2026-09-03-total-2pt5 | Flaznorp, ferrariChampions2026 |
 | atp-damas-kuzmano-2026-09-03 | Flaznorp, ferrariChampions2026 |
 | mlb-mil-chc-2026-09-03-total-8pt5 | ferrariChampions2026, monkeymashingkeyboard |
@@ -746,6 +746,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 51% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -775,4 +776,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ✅ ganada | +0.65 |
-| monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
