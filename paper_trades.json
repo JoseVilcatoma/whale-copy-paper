@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 69812.794061,
-    "whale_pct": 37.114,
+    "whale_usd": 70328.10406099999,
+    "whale_pct": 37.387,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788491489.2104912,
-    "fills": 9
+    "last_fill_at": 1788491621.7105014,
+    "fills": 10
   },
   {
     "timestamp": 1788487001,
@@ -93496,8 +93496,8 @@
     "title": "Map Handicap: FAL (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 16004.545799999998,
-    "whale_pct": 70.765,
+    "whale_usd": 17952.317199999998,
+    "whale_pct": 79.377,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93508,8 +93508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788490781.3669362,
-    "fills": 5
+    "last_fill_at": 1788491673.0992513,
+    "fills": 6
   },
   {
     "timestamp": 1788488075,
@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 24453.8275,
-    "whale_pct": 108.124,
+    "whale_usd": 27529.6261,
+    "whale_pct": 121.724,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788490778.5775332,
-    "fills": 4
+    "last_fill_at": 1788491673.9737797,
+    "fills": 5
   },
   {
     "timestamp": 1788488076,
@@ -93679,6 +93679,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788491238.991442,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788491679,
+    "timestamp_added": 1788491680.5577486,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-b8-ntr-2026-09-04",
+    "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 1685.2836,
+    "whale_pct": 2.501,
+    "whale_value_at_open": 67386.6216,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788491680.5577607,
     "fills": 1
   }
 ]
