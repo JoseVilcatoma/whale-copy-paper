@@ -92980,8 +92980,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 9106.9908,
-    "whale_pct": 28.032,
+    "whale_usd": 11233.303199999998,
+    "whale_pct": 34.576,
     "whale_value_at_open": 32488.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92992,8 +92992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788487175.9119098,
-    "fills": 7
+    "last_fill_at": 1788497991.9537537,
+    "fills": 8
   },
   {
     "timestamp": 1788480004,
@@ -93819,8 +93819,8 @@
     "title": "Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter",
     "outcome": "James Kent Trotter",
     "side": "BUY",
-    "whale_usd": 7756.497069999999,
-    "whale_pct": 3.053,
+    "whale_usd": 9787.03757,
+    "whale_pct": 3.852,
     "whale_value_at_open": 254079.8034,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93831,8 +93831,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788494391.7551966,
-    "fills": 3
+    "last_fill_at": 1788497996.4839685,
+    "fills": 5
   },
   {
     "timestamp": 1788493279,
@@ -93946,8 +93946,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 1563.0320000000002,
-    "whale_pct": 1.75,
+    "whale_usd": 3154.0369,
+    "whale_pct": 3.531,
     "whale_value_at_open": 89326.8543,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93958,8 +93958,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788496180.995067,
-    "fills": 1
+    "last_fill_at": 1788497993.809139,
+    "fills": 2
   },
   {
     "timestamp": 1788496696,
@@ -93970,8 +93970,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 7528.193343000001,
-    "whale_pct": 89.499,
+    "whale_usd": 16730.518207,
+    "whale_pct": 198.902,
     "whale_value_at_open": 8411.4557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -93984,7 +93984,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788496755.953011,
-    "fills": 2
+    "last_fill_at": 1788497922.7030523,
+    "fills": 4
+  },
+  {
+    "timestamp": 1788497953,
+    "timestamp_added": 1788497954.362831,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-leong-trotter-2026-09-03",
+    "title": "Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter",
+    "outcome": "Mitsuki Wei Kang Leong",
+    "side": "BUY",
+    "whale_usd": 15010.456299999998,
+    "whale_pct": 38.212,
+    "whale_value_at_open": 39282.187,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788497954.3628442,
+    "fills": 1
   }
 ]
