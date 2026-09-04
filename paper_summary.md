@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 08:19:28 (hora de Perú)
+Actualizado: 2026-09-04 08:21:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 08:19:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $323.34)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| TAIWANNUMBERONE | 33 | 22 | 0 | +2.32 USD |
+| TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -763,7 +763,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 4.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
+| HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 10.0% | ⏳ pendiente | — |
 | HongYunX | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 50% | 5.00 | 67.3% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: HOTU vs Eternal Fire (BO | HOTU (BUY) | 73% | 5.00 | 25.5% | 💰 vendida anticipada | -0.55 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -792,4 +793,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
-| Flaznorp | Will Como 1907 win on 2026-09-04? | No (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
