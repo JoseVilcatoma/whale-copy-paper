@@ -94842,5 +94842,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788518589.0877328,
     "fills": 1
+  },
+  {
+    "timestamp": 1788519536,
+    "timestamp_added": 1788519536.7234383,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-kt-dk-2026-09-04-game4",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 9704.3618,
+    "whale_pct": 15.175,
+    "whale_value_at_open": 63950.1948,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "cerrada_venta",
+    "profit_usd": -0.35,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788519560.7304509,
+    "fills": 4,
+    "fee_total_usd": 0.25,
+    "closed_price": 49
   }
 ]

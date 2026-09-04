@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.39674904228343,
+  "bankroll": 503.04679904228345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18955,6 +18955,11 @@
       "timestamp": 1788518855.6034653,
       "bankroll": 503.4,
       "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): Flaznorp \u2014 US Open ATP: Rafael Jodar vs Thanasi Kokkinakis"
+    },
+    {
+      "timestamp": 1788519580.437605,
+      "bankroll": 503.05,
+      "event": "venta anticipada: zofgkt1111 \u2014 LoL: KT Rolster vs Dplus KIA - Game 4 Winner (-0.35 USD)"
     }
   ]
 }
