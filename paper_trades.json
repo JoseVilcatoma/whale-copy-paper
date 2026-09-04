@@ -93090,5 +93090,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788481814.3991027,
     "fills": 1
+  },
+  {
+    "timestamp": 1788481903,
+    "timestamp_added": 1788481903.6045537,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bergs-jong-2026-09-03",
+    "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "whale_usd": 6212.462,
+    "whale_pct": 2.318,
+    "whale_value_at_open": 268020.4789,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788481903.604565,
+    "fills": 1
   }
 ]
