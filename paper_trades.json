@@ -96102,8 +96102,8 @@
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 8912.6784,
-    "whale_pct": 77.255,
+    "whale_usd": 9456.7284,
+    "whale_pct": 81.971,
     "whale_value_at_open": 11536.6841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -96114,8 +96114,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788550056.5240452,
-    "fills": 2
+    "last_fill_at": 1788554396.9136016,
+    "fills": 3
   },
   {
     "timestamp": 1788550924,
@@ -96152,8 +96152,8 @@
     "title": "Minnesota Twins vs. Chicago White Sox",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 45823.408800000005,
-    "whale_pct": 74.204,
+    "whale_usd": 56426.76370000001,
+    "whale_pct": 91.374,
     "whale_value_at_open": 61753.4482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -96164,8 +96164,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788552012.2749853,
-    "fills": 1
+    "last_fill_at": 1788554376.6284904,
+    "fills": 2
   },
   {
     "timestamp": 1788553618,
