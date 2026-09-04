@@ -95581,8 +95581,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner",
     "outcome": "Heroic",
     "side": "BUY",
-    "whale_usd": 2690.799998,
-    "whale_pct": 10.447,
+    "whale_usd": 7431.839991,
+    "whale_pct": 28.854,
     "whale_value_at_open": 25756.4737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -95593,8 +95593,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536591.6219819,
-    "fills": 2
+    "last_fill_at": 1788537100.0526118,
+    "fills": 4
   },
   {
     "timestamp": 1788535538,
