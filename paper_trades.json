@@ -93144,5 +93144,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788483128.9081328,
     "fills": 1
+  },
+  {
+    "timestamp": 1788483651,
+    "timestamp_added": 1788483651.6934345,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bu-zheng-2026-09-03",
+    "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
+    "outcome": "Yunchaokete Bu",
+    "side": "BUY",
+    "whale_usd": 1636.363636,
+    "whale_pct": 0.58,
+    "whale_value_at_open": 281946.2485,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788483651.6934454,
+    "fills": 1
   }
 ]
