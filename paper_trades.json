@@ -94828,8 +94828,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 995.0122,
-    "whale_pct": 1.245,
+    "whale_usd": 6333.821000000001,
+    "whale_pct": 7.928,
     "whale_value_at_open": 79894.7539,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -94842,8 +94842,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788518589.0877328,
-    "fills": 1
+    "last_fill_at": 1788519851.843652,
+    "fills": 2
   },
   {
     "timestamp": 1788519536,
@@ -94904,8 +94904,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 2999.999999,
-    "whale_pct": 2.674,
+    "whale_usd": 9999.999998000001,
+    "whale_pct": 8.914,
     "whale_value_at_open": 112187.3803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -94918,7 +94918,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788519730.661113,
-    "fills": 1
+    "last_fill_at": 1788519757.126727,
+    "fills": 2
   }
 ]
