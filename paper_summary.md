@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 07:21:35 (hora de Perú)
+Actualizado: 2026-09-04 07:23:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.66
@@ -764,7 +764,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Anyone's Legend vs LGD Gaming - Gam | Anyone's Legend (BUY) | 63% | 5.00 | 12.1% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Anyone's Legend vs LGD Gaming - Gam | Anyone's Legend (BUY) | 63% | 5.00 | 14.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 3.0% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 55% | 5.00 | 12.0% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | Dplus KIA (BUY) | 52% | 5.00 | 14.8% | ⏳ pendiente | — |
