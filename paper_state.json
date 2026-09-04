@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.8070886403411,
+  "bankroll": 457.87004468429717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19225,6 +19225,26 @@
       "timestamp": 1788541881.4332073,
       "bankroll": 459.81,
       "event": "won: Flaznorp \u2014 Manacor: Alejo Sanchez Quilez vs Mark Lajal"
+    },
+    {
+      "timestamp": 1788544059.0242794,
+      "bankroll": 454.66,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788544061.2466297,
+      "bankroll": 458.48,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788544064.4839137,
+      "bankroll": 453.37,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788544064.5840697,
+      "bankroll": 457.87,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }

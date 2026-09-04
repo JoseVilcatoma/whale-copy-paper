@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 12:45:38 (hora de Perú)
+Actualizado: 2026-09-04 12:47:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $459.81
-**Retorno acumulado:** -8.04%
+**Bankroll actual:** $457.87
+**Retorno acumulado:** -8.43%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 12:45:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $284.81)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $302.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 31 | 7 | +23.93 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 32 | 6 | +18.79 USD |
 | AV23IUa | 31 | 17 | 3 | +17.34 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -36,8 +36,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 21 | 13 | 2 | +11.35 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -72,6 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+| ExplosiveNinja | 12 | 8 | 1 | +1.71 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -88,7 +89,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| ExplosiveNinja | 11 | 8 | 2 | -2.11 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3657
-- **Aciertos:** 2332 (63.8%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 3661
+- **Aciertos:** 2334 (63.8%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,260.24
-- **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $335.58 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,280.24
+- **ROI sobre lo apostado:** -0.83%
+- **Comisiones pagadas (taker fee):** $336.06 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1841 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1845 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1095 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 498 | 85.9% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 223 | 96.4% | 97.4% | -0.9 pp |
@@ -785,8 +785,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 27.5% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 27.5% | ✅ ganada | +4.50 |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ❌ perdida | -5.11 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 28.9% | ✅ ganada | +3.82 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ❌ perdida | -5.13 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 49.4% | ✅ ganada | +0.78 |
