@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.3387729979764,
+  "bankroll": 496.56734926916283,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19030,6 +19030,16 @@
       "timestamp": 1788526733.789203,
       "bankroll": 498.34,
       "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788529561.4160295,
+      "bankroll": 501.71,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Doosan Bears vs. SSG Landers"
+    },
+    {
+      "timestamp": 1788529561.5162466,
+      "bankroll": 496.57,
+      "event": "lost:  \u2014 KBO: Doosan Bears vs. SSG Landers"
     }
   ]
 }

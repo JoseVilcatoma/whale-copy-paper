@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 08:44:17 (hora de Perú)
+Actualizado: 2026-09-04 08:46:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.34
-**Retorno acumulado:** -0.33%
+**Bankroll actual:** $496.57
+**Retorno acumulado:** -0.69%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 08:44:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $313.34)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $311.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 23 | 14 | +62.03 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 23 | 15 | +62.03 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| AV23IUa | 31 | 17 | 0 | +17.34 USD |
+| AV23IUa | 31 | 17 | 1 | +17.34 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
@@ -75,7 +75,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-|  | 1 | 0 | 4 | +1.36 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -97,6 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 3 | 5 | 0 | -2.94 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 1winstreak1 | 7 | 5 | 0 | -3.63 USD |
+|  | 1 | 1 | 3 | -3.78 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 446 | 274 | 4 | -149.27 USD |
+| ferrariChampions2026 | 447 | 274 | 3 | -145.90 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3618
-- **Aciertos:** 2311 (63.9%)
+- **Apuestas resueltas:** 3620
+- **Aciertos:** 2312 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,065.24
-- **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $331.79 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,075.24
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $332.04 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1819 | 50.5% | 50.1% | +0.4 pp |
+| 40-59% | 1821 | 50.5% | 50.1% | +0.4 pp |
 | 60-79% | 1084 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 496 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
@@ -757,6 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
 | cs2-furia-vit-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
+| atp-bublik-paul-2026-09-04 | AV23IUa, Flaznorp |
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 | lol-kt-dk-2026-09-04-game4 | BrotherObama, zofgkt1111 |
 
@@ -764,6 +765,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 309.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
 | HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 28.1% | ⏳ pendiente | — |
@@ -792,5 +795,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ✅ ganada | +6.22 |
 | Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
