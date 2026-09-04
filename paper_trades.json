@@ -93290,5 +93290,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788485822.982968,
     "fills": 1
+  },
+  {
+    "timestamp": 1788485970,
+    "timestamp_added": 1788485970.5307717,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-sf-nym-2026-09-04",
+    "title": "San Francisco Giants vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 1021.621621,
+    "whale_pct": 5.456,
+    "whale_value_at_open": 18726.3476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788485970.5307872,
+    "fills": 1
   }
 ]
