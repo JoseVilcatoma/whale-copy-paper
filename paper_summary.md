@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 15:42:45 (hora de Perú)
+Actualizado: 2026-09-04 15:44:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.80
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 15:42:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $364.80)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $359.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| pleaseplease123 | 11 | 11 | 1 | -6.44 USD |
+| pleaseplease123 | 11 | 11 | 2 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -771,6 +771,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ⏳ pendiente | — |
 | tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 91.4% | ⏳ pendiente | — |
@@ -800,4 +801,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ❌ perdida | -5.13 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 49.4% | ✅ ganada | +0.78 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 185.3% | ✅ ganada | +2.84 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ❌ perdida | -5.11 |
