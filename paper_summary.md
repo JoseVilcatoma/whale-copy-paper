@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:37:37 (hora de Perú)
+Actualizado: 2026-09-04 11:39:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.06
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 11:37:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $227.06)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $222.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| fRibrenlc | 2 | 0 | 2 | +2.47 USD |
+| fRibrenlc | 2 | 0 | 3 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -758,7 +758,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
 | wta-pegula-fernand-2026-09-04 | Flaznorp, ferrariChampions2026 |
-| cs2-furia-vit-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
+| cs2-furia-vit-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, fRibrenlc |
 | atp-bublik-paul-2026-09-04 | AV23IUa, Flaznorp |
 | wta-kostyuk-alexand-2026-09-04 | Flaznorp, ferrariChampions2026 |
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
@@ -769,6 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 59.0% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -798,4 +799,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ⏳ pendiente | — |
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 28.9% | ⏳ pendiente | — |
-| fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 93.1% | ⏳ pendiente | — |

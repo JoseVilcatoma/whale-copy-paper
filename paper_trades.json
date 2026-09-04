@@ -95939,5 +95939,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788538940.8454356,
     "fills": 1
+  },
+  {
+    "timestamp": 1788539915,
+    "timestamp_added": 1788539915.531616,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-furia-vit-2026-09-04",
+    "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 28888.600000000002,
+    "whale_pct": 58.97,
+    "whale_value_at_open": 48988.3741,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788539915.5316308,
+    "fills": 1
   }
 ]
