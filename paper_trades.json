@@ -94994,5 +94994,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788524093.8144486,
     "fills": 1
+  },
+  {
+    "timestamp": 1788524834,
+    "timestamp_added": 1788524835.2687097,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "cs2-hotu-ef1-2026-09-04",
+    "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+    "outcome": "HOTU",
+    "side": "BUY",
+    "whale_usd": 7071.530600000001,
+    "whale_pct": 21.623,
+    "whale_value_at_open": 32703.4288,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788524862.966587,
+    "fills": 5
   }
 ]
