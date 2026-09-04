@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 38539.506622,
-    "whale_pct": 22.541,
+    "whale_usd": 41154.976622,
+    "whale_pct": 24.07,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,8 +93654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788496518.2291145,
-    "fills": 10
+    "last_fill_at": 1788496710.5953653,
+    "fills": 11
   },
   {
     "timestamp": 1788491238,
@@ -93960,5 +93960,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788496180.995067,
     "fills": 1
+  },
+  {
+    "timestamp": 1788496696,
+    "timestamp_added": 1788496696.3074408,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-kt-dk-2026-09-04",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 7528.193343000001,
+    "whale_pct": 89.499,
+    "whale_value_at_open": 8411.4557,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788496755.953011,
+    "fills": 2
   }
 ]

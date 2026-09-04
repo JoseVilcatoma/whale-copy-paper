@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 23:37:32 (hora de Perú)
+Actualizado: 2026-09-03 23:39:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 23:37:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $312.55)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $307.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| Diabolical-Prize | 0 | 0 | 1 | +0.00 USD |
 | TAIWANNUMBERONE | 32 | 22 | 1 | -0.29 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -745,11 +746,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03-total-7pt5 | Talvez10, ferrariChampions2026 |
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
+| lol-kt-dk-2026-09-04 | Diabolical-Prize, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 89.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 10.5% | ⏳ pendiente | — |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ⏳ pendiente | — |
@@ -762,7 +765,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 43% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 10.5 | Under (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 22.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 24.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -779,4 +782,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 2.4% | ✅ ganada | +5.08 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs Eternal Fir | Eternal Fire (BUY) | 74% | 5.00 | 36.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs Bushido Wild | Bushido Wildcats (BUY) | 70% | 5.00 | 15.6% | ⏳ pendiente | — |
