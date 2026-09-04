@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:31:49 (hora de Perú)
+Actualizado: 2026-09-04 09:33:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.48
@@ -769,7 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ⏳ pendiente | — |
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 14.5% | ⏳ pendiente | — |

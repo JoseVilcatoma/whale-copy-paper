@@ -95307,8 +95307,8 @@
     "title": "Manacor: Billy Harris vs Felix Balshaw",
     "outcome": "Felix Balshaw",
     "side": "BUY",
-    "whale_usd": 4219.0515,
-    "whale_pct": 1.622,
+    "whale_usd": 5809.160099999999,
+    "whale_pct": 2.234,
     "whale_value_at_open": 260061.3853,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -95319,8 +95319,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788532094.9207582,
-    "fills": 2
+    "last_fill_at": 1788532322.9507086,
+    "fills": 3
   },
   {
     "timestamp": 1788532018,
