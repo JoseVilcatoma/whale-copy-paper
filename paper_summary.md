@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:33:54 (hora de Perú)
+Actualizado: 2026-09-04 09:36:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 09:33:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $266.48)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $261.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 447 | 274 | 7 | -145.90 USD |
+| ferrariChampions2026 | 447 | 274 | 8 | -145.90 USD |
 
 ## Análisis general
 
@@ -758,6 +758,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
 | cs2-furia-vit-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-bublik-paul-2026-09-04 | AV23IUa, Flaznorp |
+| wta-kostyuk-alexand-2026-09-04 | Flaznorp, ferrariChampions2026 |
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 | lol-kt-dk-2026-09-04-game4 | BrotherObama, zofgkt1111 |
 | atp-montes-jones-2026-09-04 | fRibrenlc, ferrariChampions2026 |
@@ -766,6 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ⏳ pendiente | — |
@@ -795,4 +797,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.4% | ❌ perdida | -5.13 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ❌ perdida | -5.14 |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ✅ ganada | +3.82 |
-| ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |

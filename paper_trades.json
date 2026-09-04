@@ -95395,5 +95395,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788532144.7100272,
     "fills": 2
+  },
+  {
+    "timestamp": 1788532471,
+    "timestamp_added": 1788532471.6702995,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kostyuk-alexand-2026-09-04",
+    "title": "US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova",
+    "outcome": "Marta Kostyuk",
+    "side": "BUY",
+    "whale_usd": 15807.36,
+    "whale_pct": 6.263,
+    "whale_value_at_open": 252402.8623,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788532471.6703107,
+    "fills": 1
   }
 ]
