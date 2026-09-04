@@ -94626,8 +94626,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95503,8 +95503,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 - Map 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 12607.767998,
-    "whale_pct": 115.285,
+    "whale_usd": 14455.767998,
+    "whale_pct": 132.183,
     "whale_value_at_open": 10936.2134,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -95517,8 +95517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534836.2087383,
-    "fills": 7
+    "last_fill_at": 1788535120.3146584,
+    "fills": 9
   },
   {
     "timestamp": 1788534788,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.5573169757857,
+  "bankroll": 477.1626246680934,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19090,6 +19090,11 @@
       "timestamp": 1788534738.8302352,
       "bankroll": 474.56,
       "event": "won: fRibrenlc \u2014 Manacor: Inaki Montes vs Jack Pinnington Jones"
+    },
+    {
+      "timestamp": 1788535173.3127337,
+      "bankroll": 477.16,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: 9INE vs Rune Eaters (BO3) - Logitech G Play Connect Closed Qualifier Playoffs"
     }
   ]
 }
