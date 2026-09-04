@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.10288231514727,
+  "bankroll": 484.80425527552023,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19300,6 +19300,21 @@
       "timestamp": 1788552534.0325205,
       "bankroll": 477.1,
       "event": "won:  \u2014 US Open WTA: Taylor Townsend vs Diana Shnaider"
+    },
+    {
+      "timestamp": 1788553863.244985,
+      "bankroll": 479.71,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788553864.9184473,
+      "bankroll": 482.31,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788553869.0708117,
+      "bankroll": 484.8,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs"
     }
   ]
 }
