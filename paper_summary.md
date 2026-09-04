@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 03:14:16 (hora de Perú)
+Actualizado: 2026-09-04 03:16:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 03:14:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $333.19)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $323.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 22 | 12 | +67.11 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 22 | 13 | +67.11 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| BBQChickenisthebesttt | 7 | 3 | 0 | +7.47 USD |
+| BBQChickenisthebesttt | 7 | 3 | 1 | +7.47 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -747,7 +747,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03-total-7pt5 | Talvez10, ferrariChampions2026 |
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
-| lol-kt-dk-2026-09-04 | Diabolical-Prize, TAIWANNUMBERONE |
+| lol-kt-dk-2026-09-04 | BBQChickenisthebesttt, Diabolical-Prize, TAIWANNUMBERONE |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
@@ -758,6 +758,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 91.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ⏳ pendiente | — |
 | Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -765,7 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Flaznorp | Will Como 1907 win on 2026-09-04? | No (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 68% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 86% | 5.00 | 26.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Black Phoenix vs UNiTY e | Black Phoenix (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -786,5 +788,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 5.00 | 8.7% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | James Kent Trotter (BUY) | 68% | 5.00 | 3.9% | ❌ perdida | -5.08 |
 | 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 24.0% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 49% | 5.00 | 0.8% | ✅ ganada | +5.08 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 60.6% | ❌ perdida | -5.13 |
