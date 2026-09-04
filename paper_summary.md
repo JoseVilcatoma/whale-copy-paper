@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:33:44 (hora de Perú)
+Actualizado: 2026-09-04 17:35:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -778,7 +778,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 12.3% | ⏳ pendiente | — |
 | tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ⏳ pendiente | — |
 | tikstt | CA Platense vs. CD Riestra: O/U 2.5 | Over (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
+| Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | tikstt | Will CA Belgrano win on 2026-09-04? | Yes (BUY) | 49% | 5.00 | 8.4% | ⏳ pendiente | — |
 | Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 1724.7% | ⏳ pendiente | — |

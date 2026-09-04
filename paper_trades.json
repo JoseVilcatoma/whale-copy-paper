@@ -96444,8 +96444,8 @@
     "title": "St. Louis Cardinals vs. Colorado Rockies: O/U 11.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3343.8460000000005,
-    "whale_pct": 7.073,
+    "whale_usd": 4107.343777,
+    "whale_pct": 8.688,
     "whale_value_at_open": 47277.7225,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -96456,8 +96456,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560392.8709898,
-    "fills": 1
+    "last_fill_at": 1788561271.508978,
+    "fills": 2
   },
   {
     "timestamp": 1788560528,
