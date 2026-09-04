@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.46395480222355,
+  "bankroll": 478.96276694868016,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18820,6 +18820,31 @@
       "timestamp": 1788499017.8676188,
       "bankroll": 477.46,
       "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 10.5"
+    },
+    {
+      "timestamp": 1788499644.6874294,
+      "bankroll": 484.51,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788499647.1772044,
+      "bankroll": 479.45,
+      "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788499647.787987,
+      "bankroll": 474.31,
+      "event": "lost: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788499648.8094878,
+      "bankroll": 477.69,
+      "event": "won: Feromont \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788499648.909632,
+      "bankroll": 478.96,
+      "event": "won: 1winstreak1 \u2014 Athletics vs. Seattle Mariners"
     }
   ]
 }
