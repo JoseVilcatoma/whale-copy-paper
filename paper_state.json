@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.267427714775,
+  "bankroll": 453.6487022245789,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18740,6 +18740,21 @@
       "timestamp": 1788488649.526177,
       "bankroll": 453.27,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: Keyd (-1.5) vs Procyon Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788489395.7832866,
+      "bankroll": 454.11,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Miami Marlins (-1.5)"
+    },
+    {
+      "timestamp": 1788489459.0261505,
+      "bankroll": 458.79,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788489459.580423,
+      "bankroll": 453.65,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Kansas City Royals: O/U 11.5"
     }
   ]
 }
