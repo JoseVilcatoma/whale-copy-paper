@@ -94294,8 +94294,8 @@
     "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 1602.3744000000002,
-    "whale_pct": 1.196,
+    "whale_usd": 3212.1152,
+    "whale_pct": 2.398,
     "whale_value_at_open": 133958.3371,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -94306,8 +94306,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788506093.378196,
-    "fills": 1
+    "last_fill_at": 1788506991.861509,
+    "fills": 2
   },
   {
     "timestamp": 1788506254,
