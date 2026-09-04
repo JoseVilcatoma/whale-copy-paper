@@ -96348,8 +96348,8 @@
     "title": "Spread: Eastern Michigan (-1.5)",
     "outcome": "Eastern Michigan",
     "side": "BUY",
-    "whale_usd": 2401.0,
-    "whale_pct": 10.296,
+    "whale_usd": 13640.5,
+    "whale_pct": 58.493,
     "whale_value_at_open": 23320.067,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -96360,8 +96360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560106.7045186,
-    "fills": 2
+    "last_fill_at": 1788560527.401474,
+    "fills": 3
   },
   {
     "timestamp": 1788560020,
@@ -96372,8 +96372,8 @@
     "title": "San Jose State vs. Eastern Michigan",
     "outcome": "Eastern Michigan",
     "side": "BUY",
-    "whale_usd": 28414.741374000005,
-    "whale_pct": 188.125,
+    "whale_usd": 28967.001374000003,
+    "whale_pct": 191.781,
     "whale_value_at_open": 15104.1986,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -96384,8 +96384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560393.4613774,
-    "fills": 4
+    "last_fill_at": 1788560514.7217972,
+    "fills": 5
   },
   {
     "timestamp": 1788560360,
@@ -96457,6 +96457,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788560392.8709898,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788560528,
+    "timestamp_added": 1788560528.531235,
+    "username": "tikstt",
+    "wallet": "0xe4a785280932b1de883176e17284a4ad19194a1d",
+    "slug": "arg-pla-rie-2026-09-04-total-2pt5",
+    "title": "CA Platense vs. CD Riestra: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1199.3715,
+    "whale_pct": 6.798,
+    "whale_value_at_open": 17643.6904,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788560528.5312486,
     "fills": 1
   }
 ]
