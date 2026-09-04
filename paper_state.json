@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.91034926916285,
+  "bankroll": 473.64485720567075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19070,6 +19070,16 @@
       "timestamp": 1788533923.1067848,
       "bankroll": 475.91,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788534234.6276,
+      "bankroll": 470.8,
+      "event": "lost: BrotherObama \u2014 Game Handicap: AL (-1.5) vs LGD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788534235.723457,
+      "bankroll": 473.64,
+      "event": "won: zofgkt1111 \u2014 LoL: Anyone's Legend vs LGD Gaming - Game 4 Winner"
     }
   ]
 }
