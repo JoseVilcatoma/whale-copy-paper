@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.4407176469346,
+  "bankroll": 507.664354010571,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18970,6 +18970,11 @@
       "timestamp": 1788520355.4144974,
       "bankroll": 501.44,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MOUZ NXT vs Bushido Wildcats (BO3) - CCT Europe Series #8 Group Stage"
+    },
+    {
+      "timestamp": 1788520676.6842117,
+      "bankroll": 507.66,
+      "event": "won: BrotherObama \u2014 LoL: KT Rolster vs Dplus KIA - Game 1 Winner"
     }
   ]
 }

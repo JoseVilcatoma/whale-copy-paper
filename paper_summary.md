@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 06:16:56 (hora de Perú)
+Actualizado: 2026-09-04 06:18:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.44
-**Retorno acumulado:** +0.29%
+**Bankroll actual:** $507.66
+**Retorno acumulado:** +1.53%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 06:16:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $291.44)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $302.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| BrotherObama | 6 | 3 | 2 | +11.47 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -52,7 +53,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| BrotherObama | 5 | 3 | 3 | +5.25 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 3 | +4.65 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3607
-- **Aciertos:** 2305 (63.9%)
+- **Apuestas resueltas:** 3608
+- **Aciertos:** 2306 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,010.24
-- **ROI sobre lo apostado:** -0.61%
-- **Comisiones pagadas (taker fee):** $330.50 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,015.24
+- **ROI sobre lo apostado:** -0.57%
+- **Comisiones pagadas (taker fee):** $330.64 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1811 | 50.6% | 50.1% | +0.5 pp |
+| 40-59% | 1812 | 50.6% | 50.1% | +0.5 pp |
 | 60-79% | 1081 | 69.6% | 67.8% | +1.7 pp |
 | 80-94% | 496 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
@@ -781,7 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | 💰 vendida anticipada | +3.47 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 240.7% | ⏳ pendiente | — |
-| BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ⏳ pendiente | — |
+| BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ✅ ganada | +6.22 |
 | Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
