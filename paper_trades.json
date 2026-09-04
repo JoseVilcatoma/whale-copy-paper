@@ -96192,5 +96192,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788553618.6249716,
     "fills": 1
+  },
+  {
+    "timestamp": 1788553771,
+    "timestamp_added": 1788553771.8262265,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-navarro-muchova-2026-09-04",
+    "title": "US Open WTA: Emma Navarro vs Karolina Muchova",
+    "outcome": "Emma Navarro",
+    "side": "BUY",
+    "whale_usd": 15000.0,
+    "whale_pct": 80.714,
+    "whale_value_at_open": 18584.2095,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788553771.8262355,
+    "fills": 1
   }
 ]

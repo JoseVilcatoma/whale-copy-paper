@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 15:27:58 (hora de Perú)
+Actualizado: 2026-09-04 15:30:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 15:27:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $347.10)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $342.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 32 | 17 | 2 | +19.03 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-|  | 5 | 1 | 1 | +15.27 USD |
+|  | 5 | 1 | 2 | +15.27 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 33 | 5 | +13.64 USD |
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
@@ -771,6 +771,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ⏳ pendiente | — |
 | tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 74.2% | ⏳ pendiente | — |
 | tikstt | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 59% | 5.00 | 19.1% | ⏳ pendiente | — |
@@ -800,4 +801,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 49.4% | ✅ ganada | +0.78 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 185.3% | ✅ ganada | +2.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ❌ perdida | -5.11 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 74.8% | ✅ ganada | +6.48 |
