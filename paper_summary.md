@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 18:30:32 (hora de Perú)
+Actualizado: 2026-09-04 18:32:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 18:30:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $352.03)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $337.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| 1winstreak1 | 7 | 6 | 0 | -8.72 USD |
+| 1winstreak1 | 7 | 6 | 3 | -8.72 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -775,6 +775,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 64% | 5.00 | 74.7% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 6.5 | Over (BUY) | 62% | 5.00 | 33.8% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 50% | 5.00 | 23.0% | ⏳ pendiente | — |
 | Talvez10 | Zack Gelof: Home Runs O/U 0.5 | Under (BUY) | 92% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ⏳ pendiente | — |
 | BrotherObama | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 36.2% | ⏳ pendiente | — |
@@ -802,6 +805,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 91.4% | ⏳ pendiente | — |
 | tikstt | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 59% | 5.00 | 19.1% | ✅ ganada | +3.37 |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 65% | 5.00 | 141.0% | ❌ perdida | -5.09 |
-|  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ❌ perdida | -5.08 |
-| fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 82.5% | ✅ ganada | +0.25 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 44% | 5.00 | 29.9% | 💰 vendida anticipada | +1.66 |
