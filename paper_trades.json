@@ -91356,8 +91356,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 5665.889999,
-    "whale_pct": 2.485,
+    "whale_usd": 11065.889998999999,
+    "whale_pct": 4.854,
     "whale_value_at_open": 227995.4196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -91370,8 +91370,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788437795.4022577,
-    "fills": 1
+    "last_fill_at": 1788483971.447499,
+    "fills": 6
   },
   {
     "timestamp": 1788437831,
@@ -92932,8 +92932,8 @@
     "title": "US Open WTA: Paula Badosa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 16480.31622,
-    "whale_pct": 8.321,
+    "whale_usd": 18521.018597000002,
+    "whale_pct": 9.352,
     "whale_value_at_open": 198047.1815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -92944,8 +92944,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788482326.1106942,
-    "fills": 7
+    "last_fill_at": 1788483944.3280985,
+    "fills": 8
   },
   {
     "timestamp": 1788478988,
@@ -92956,8 +92956,8 @@
     "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 9298.939483,
-    "whale_pct": 4.401,
+    "whale_usd": 10235.671783,
+    "whale_pct": 4.844,
     "whale_value_at_open": 211304.3339,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -92968,8 +92968,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788482161.3885024,
-    "fills": 3
+    "last_fill_at": 1788483916.891509,
+    "fills": 4
   },
   {
     "timestamp": 1788479060,
@@ -93154,8 +93154,8 @@
     "title": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 1636.363636,
-    "whale_pct": 0.58,
+    "whale_usd": 2516.203636,
+    "whale_pct": 0.892,
     "whale_value_at_open": 281946.2485,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -93166,8 +93166,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788483651.6934454,
-    "fills": 1
+    "last_fill_at": 1788483924.1875167,
+    "fills": 2
   },
   {
     "timestamp": 1788483844,
@@ -93178,8 +93178,8 @@
     "title": "Miami Marlins vs. Kansas City Royals: O/U 11.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 583.02,
-    "whale_pct": 0.211,
+    "whale_usd": 3498.12,
+    "whale_pct": 1.265,
     "whale_value_at_open": 276516.3362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -93190,7 +93190,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788483845.2041595,
-    "fills": 1
+    "last_fill_at": 1788483935.7097075,
+    "fills": 6
   }
 ]
