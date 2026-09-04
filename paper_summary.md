@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 21:21:11 (hora de Perú)
+Actualizado: 2026-09-03 21:23:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $463.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 21:21:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $283.42)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $278.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 431 | 266 | 15 | -161.53 USD |
+| ferrariChampions2026 | 431 | 266 | 16 | -161.53 USD |
 
 ## Análisis general
 
@@ -749,6 +749,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 41% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 32.6% | ⏳ pendiente | — |
@@ -778,4 +779,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 9.4% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Zachary Svajda (BUY) | 68% | 5.00 | 4.5% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 48% | 5.00 | 2.5% | ✅ ganada | +5.29 |
