@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 14:40:52 (hora de Perú)
+Actualizado: 2026-09-04 14:42:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 14:40:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $342.08)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $337.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| tikstt | 3 | 0 | 0 | +11.18 USD |
+| tikstt | 3 | 0 | 1 | +11.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
@@ -763,12 +763,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-kostyuk-alexand-2026-09-04 | Flaznorp, ferrariChampions2026 |
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 | lol-kt-dk-2026-09-04-game4 | BrotherObama, zofgkt1111 |
+| fl1-psg-asm-2026-09-04-total-3pt5 | HongYunX, tikstt |
 | atp-montes-jones-2026-09-04 | fRibrenlc, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| tikstt | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 59% | 5.00 | 19.1% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 65% | 5.00 | 77.3% | ⏳ pendiente | — |
 |  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ⏳ pendiente | — |
 | fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 82.5% | ⏳ pendiente | — |
@@ -798,4 +800,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 74.8% | ✅ ganada | +6.48 |
 | AV23IUa | US Open ATP: Tomas Etcheverry vs Mariano | Mariano Navone (BUY) | 50% | 5.00 | 8.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
-| ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
