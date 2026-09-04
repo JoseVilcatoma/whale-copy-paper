@@ -91408,8 +91408,8 @@
     "title": "US Open ATP: Zachary Svajda vs Arthur Gea",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 14344.570018999999,
-    "whale_pct": 6.037,
+    "whale_usd": 17035.168825999997,
+    "whale_pct": 7.17,
     "whale_value_at_open": 237597.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -91420,8 +91420,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481097.4724555,
-    "fills": 5
+    "last_fill_at": 1788482312.9063928,
+    "fills": 6
   },
   {
     "timestamp": 1788437928,
@@ -92833,8 +92833,8 @@
     "title": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 19607.089706000002,
-    "whale_pct": 12.897,
+    "whale_usd": 23892.061306,
+    "whale_pct": 15.716,
     "whale_value_at_open": 152028.4865,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -92845,8 +92845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481577.8306398,
-    "fills": 9
+    "last_fill_at": 1788482348.446916,
+    "fills": 11
   },
   {
     "timestamp": 1788477688,
@@ -92932,8 +92932,8 @@
     "title": "US Open WTA: Paula Badosa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 12782.804615000001,
-    "whale_pct": 6.454,
+    "whale_usd": 16480.31622,
+    "whale_pct": 8.321,
     "whale_value_at_open": 198047.1815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -92944,8 +92944,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788481449.7378423,
-    "fills": 6
+    "last_fill_at": 1788482326.1106942,
+    "fills": 7
   },
   {
     "timestamp": 1788478988,
@@ -93076,8 +93076,8 @@
     "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 2905.517799,
-    "whale_pct": 1.091,
+    "whale_usd": 3819.8239270000004,
+    "whale_pct": 1.435,
     "whale_value_at_open": 266251.8344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -93088,8 +93088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788482037.759833,
-    "fills": 2
+    "last_fill_at": 1788482328.943748,
+    "fills": 3
   },
   {
     "timestamp": 1788481903,
