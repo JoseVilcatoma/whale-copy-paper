@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:39:50 (hora de Perú)
+Actualizado: 2026-09-04 17:41:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 17:39:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $362.97)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $357.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -97,7 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 1winstreak1 | 7 | 5 | 1 | -3.63 USD |
-| BrotherObama | 6 | 6 | 0 | -3.89 USD |
+| BrotherObama | 6 | 6 | 1 | -3.89 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -767,12 +767,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-montes-jones-2026-09-04 | fRibrenlc, ferrariChampions2026 |
 | lal-bet-rea-2026-09-04-rea | , tikstt |
 | mlb-det-cle-2026-06-14 | 1winstreak1, Feromont |
+| cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
 | mlb-laa-pit-2026-09-04 | , Feromont |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 54% | 5.00 | 27.8% | ⏳ pendiente | — |
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ⏳ pendiente | — |
@@ -802,4 +804,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ✅ ganada | +3.82 |
 |  | US Open WTA: Taylor Townsend vs Diana Sh | Taylor Townsend (BUY) | 43% | 5.00 | 44.5% | ✅ ganada | +6.48 |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 86.9% | ✅ ganada | +2.49 |
-| Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ✅ ganada | +3.66 |

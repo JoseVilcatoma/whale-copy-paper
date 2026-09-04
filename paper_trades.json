@@ -96652,5 +96652,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788561510.9219909,
     "fills": 1
+  },
+  {
+    "timestamp": 1788561618,
+    "timestamp_added": 1788561619.5484552,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cfb-sjst-emich-2026-09-04",
+    "title": "San Jose State vs. Eastern Michigan",
+    "outcome": "Eastern Michigan",
+    "side": "BUY",
+    "whale_usd": 30999.999997,
+    "whale_pct": 226.203,
+    "whale_value_at_open": 13704.4886,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788561665.7424223,
+    "fills": 3
   }
 ]
