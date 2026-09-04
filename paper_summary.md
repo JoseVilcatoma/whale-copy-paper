@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 23:18:52 (hora de Perú)
+Actualizado: 2026-09-03 23:20:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 23:18:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $322.55)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $317.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 3 | 2 | 0 | -1.38 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| 1winstreak1 | 5 | 4 | 2 | -1.99 USD |
+| 1winstreak1 | 5 | 4 | 3 | -1.99 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -743,13 +743,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-lad-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Talvez10, ferrariChampions2026 |
 | mlb-mil-chc-2026-09-03 | Feromont, ferrariChampions2026, monkeymashingkeyboard |
 | mlb-oak-sea-2026-09-03-total-7pt5 | Talvez10, ferrariChampions2026 |
-| mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Feromont, ferrariChampions2026 |
+| mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 7.2% | ⏳ pendiente | — |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Quentin Halys (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 5.00 | 8.7% | ⏳ pendiente | — |
@@ -779,4 +780,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs Eternal Fir | Eternal Fire (BUY) | 74% | 5.00 | 36.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs Bushido Wild | Bushido Wildcats (BUY) | 70% | 5.00 | 15.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Kansas City Royals (BUY) | 85% | 5.00 | 0.6% | ✅ ganada | +0.84 |
-| ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 42% | 5.00 | 1.3% | ❌ perdida | -5.14 |
