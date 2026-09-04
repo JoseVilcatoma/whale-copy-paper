@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:53:54 (hora de Perú)
+Actualizado: 2026-09-04 11:55:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $453.54
-**Retorno acumulado:** -9.29%
+**Bankroll actual:** $454.92
+**Retorno acumulado:** -9.02%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 11:53:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $243.54)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $254.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 20 | 12 | 4 | +12.66 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 19 | 11 | 6 | +11.29 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3647
-- **Aciertos:** 2324 (63.7%)
+- **Apuestas resueltas:** 3649
+- **Aciertos:** 2325 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,210.24
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $334.87 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,220.24
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $335.12 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1837 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1839 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1092 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 498 | 85.9% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 220 | 96.4% | 97.3% | -1.0 pp |
@@ -788,8 +788,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 49.4% | ✅ ganada | +0.78 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 185.3% | ✅ ganada | +2.84 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 74.8% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ❌ perdida | -5.11 |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 74.8% | ✅ ganada | +6.48 |
 | AV23IUa | US Open ATP: Tomas Etcheverry vs Mariano | Mariano Navone (BUY) | 50% | 5.00 | 8.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |

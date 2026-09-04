@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.53888302182463,
+  "bankroll": 454.9187899985688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19175,6 +19175,16 @@
       "timestamp": 1788540005.2106197,
       "bankroll": 453.54,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788540942.7831619,
+      "bankroll": 460.02,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788540942.8833337,
+      "bankroll": 454.92,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner"
     }
   ]
 }
