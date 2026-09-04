@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 41154.976622,
-    "whale_pct": 24.07,
+    "whale_usd": 48626.087733,
+    "whale_pct": 28.44,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,8 +93654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788496710.5953653,
-    "fills": 11
+    "last_fill_at": 1788497620.2179008,
+    "fills": 13
   },
   {
     "timestamp": 1788491238,
