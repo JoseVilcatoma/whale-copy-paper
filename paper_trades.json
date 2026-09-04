@@ -93881,5 +93881,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788493751.2258291,
     "fills": 1
+  },
+  {
+    "timestamp": 1788494970,
+    "timestamp_added": 1788494970.8707635,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-oak-sea-2026-09-03",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 2900.0,
+    "whale_pct": 23.374,
+    "whale_value_at_open": 12407.0983,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788494970.8707747,
+    "fills": 1
   }
 ]
