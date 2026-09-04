@@ -95011,8 +95011,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.55,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "ExplosiveNinja"
@@ -95020,6 +95020,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788524881.0611649,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.144,
+    "closed_price": 67
   }
 ]
