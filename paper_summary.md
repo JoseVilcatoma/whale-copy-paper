@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:43:39 (hora de Perú)
+Actualizado: 2026-09-04 11:45:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $453.54
@@ -769,7 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 63.5% | ⏳ pendiente | — |
+| fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 86.9% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
