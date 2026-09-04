@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.6487022245789,
+  "bankroll": 458.4624636822136,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18755,6 +18755,16 @@
       "timestamp": 1788489459.580423,
       "bankroll": 453.65,
       "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Kansas City Royals: O/U 11.5"
+    },
+    {
+      "timestamp": 1788489582.0663242,
+      "bankroll": 455.62,
+      "event": "won: AV23IUa \u2014 US Open ATP: Zizou Bergs vs Jesper de Jong"
+    },
+    {
+      "timestamp": 1788489583.5917299,
+      "bankroll": 458.46,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Zizou Bergs vs Jesper de Jong"
     }
   ]
 }
