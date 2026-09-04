@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.47479153691734,
+  "bankroll": 487.6269548022235,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18800,6 +18800,16 @@
       "timestamp": 1788493001.268654,
       "bankroll": 477.47,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788494000.2482548,
+      "bankroll": 482.55,
+      "event": "won: Talvez10 \u2014 Athletics vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1788494000.7490392,
+      "bankroll": 487.63,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
