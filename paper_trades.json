@@ -93216,5 +93216,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788484097.5534427,
     "fills": 2
+  },
+  {
+    "timestamp": 1788484464,
+    "timestamp_added": 1788484464.9821398,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-mouzn-bw-2026-09-04",
+    "title": "Counter-Strike: MOUZ NXT vs Bushido Wildcats (BO3) - CCT Europe Series #8 Group Stage",
+    "outcome": "Bushido Wildcats",
+    "side": "BUY",
+    "whale_usd": 586.3412999999999,
+    "whale_pct": 4.152,
+    "whale_value_at_open": 14121.5094,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788484464.982152,
+    "fills": 1
   }
 ]
