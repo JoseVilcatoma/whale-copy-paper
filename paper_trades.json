@@ -95659,8 +95659,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 7990.2014800000015,
-    "whale_pct": 1.779,
+    "whale_usd": 8725.472080000001,
+    "whale_pct": 1.943,
     "whale_value_at_open": 449123.3123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -95671,8 +95671,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788538157.4734287,
-    "fills": 2
+    "last_fill_at": 1788538532.3826134,
+    "fills": 3
   },
   {
     "timestamp": 1788537213,
@@ -95842,6 +95842,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788538407.197993,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788538445,
+    "timestamp_added": 1788538445.941586,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "spl-abh-ett-2026-09-04-total-2pt5",
+    "title": "Abha Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 523.5799999999999,
+    "whale_pct": 0.129,
+    "whale_value_at_open": 407427.6384,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788538445.9415982,
     "fills": 1
   }
 ]
