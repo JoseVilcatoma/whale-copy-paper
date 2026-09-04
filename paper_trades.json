@@ -94804,8 +94804,8 @@
     "title": "Counter-Strike: Imperial vs ALKA (BO3) - PGL Masters Bucharest: South American Open Qualifier #1 Playoffs",
     "outcome": "Imperial",
     "side": "BUY",
-    "whale_usd": 672.0,
-    "whale_pct": 0.44,
+    "whale_usd": 2328.46,
+    "whale_pct": 1.523,
     "whale_value_at_open": 152892.0397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -94816,8 +94816,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788516897.296503,
-    "fills": 1
+    "last_fill_at": 1788533098.1847427,
+    "fills": 2
   },
   {
     "timestamp": 1788518588,

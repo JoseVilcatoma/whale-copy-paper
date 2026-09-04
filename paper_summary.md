@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:44:17 (hora de Perú)
+Actualizado: 2026-09-04 09:46:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.48
@@ -791,7 +791,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | Dplus KIA (BUY) | 52% | 5.00 | 14.8% | ✅ ganada | +4.50 |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 50% | 5.00 | 15.2% | 💰 vendida anticipada | -0.35 |
 | ExplosiveNinja | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 53% | 5.00 | 18.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Imperial vs ALKA (BO3) - | Imperial (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Imperial vs ALKA (BO3) - | Imperial (BUY) | 86% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 60% | 5.00 | 27.1% | ✅ ganada | +3.23 |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.0% | ❌ perdida | -5.13 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.4% | ❌ perdida | -5.13 |
