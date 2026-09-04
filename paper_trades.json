@@ -93250,8 +93250,8 @@
     "title": "Map Handicap: HOTU (-1.5) vs Eternal Fire (+1.5)",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 915.42,
-    "whale_pct": 6.482,
+    "whale_usd": 1747.0214,
+    "whale_pct": 12.371,
     "whale_value_at_open": 14121.5094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -93262,7 +93262,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788484476.1699934,
-    "fills": 1
+    "last_fill_at": 1788484908.0302505,
+    "fills": 2
   }
 ]
