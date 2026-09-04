@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 33196.5884,
-    "whale_pct": 146.78,
+    "whale_usd": 33753.6638,
+    "whale_pct": 149.244,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788495270.5981176,
-    "fills": 9
+    "last_fill_at": 1788496177.5158434,
+    "fills": 10
   },
   {
     "timestamp": 1788488076,
@@ -93935,6 +93935,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788495562.4426165,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788496180,
+    "timestamp_added": 1788496180.995055,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-hero-ef1-2026-09-04",
+    "title": "Counter-Strike: Heroic vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 1563.0320000000002,
+    "whale_pct": 1.75,
+    "whale_value_at_open": 89326.8543,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788496180.995067,
     "fills": 1
   }
 ]
