@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 03:51:13 (hora de Perú)
+Actualizado: 2026-09-04 03:53:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 03:51:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $346.33)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $341.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| BrotherObama | 4 | 3 | 1 | +1.78 USD |
+| BrotherObama | 4 | 3 | 2 | +1.78 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -747,7 +747,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03-total-7pt5 | Talvez10, ferrariChampions2026 |
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
-| lol-kt-dk-2026-09-04 | BBQChickenisthebesttt, Diabolical-Prize, TAIWANNUMBERONE |
+| lol-kt-dk-2026-09-04 | BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
@@ -758,6 +758,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 240.7% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ⏳ pendiente | — |
@@ -787,4 +788,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Quentin Halys (BUY) | 42% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 5.00 | 8.7% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | James Kent Trotter (BUY) | 68% | 5.00 | 3.9% | ❌ perdida | -5.08 |
-| 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 24.0% | ❌ perdida | -5.09 |

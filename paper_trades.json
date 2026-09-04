@@ -94530,5 +94530,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788509699.881487,
     "fills": 1
+  },
+  {
+    "timestamp": 1788511996,
+    "timestamp_added": 1788511997.6447568,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-kt-dk-2026-09-04",
+    "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 29999.999999000003,
+    "whale_pct": 79.873,
+    "whale_value_at_open": 37559.785,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "Diabolical-Prize",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788511997.6447692,
+    "fills": 1
   }
 ]
