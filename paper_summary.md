@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 20:06:16 (hora de Perú)
+Actualizado: 2026-09-03 20:08:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 20:06:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $251.25)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $246.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 422 | 261 | 22 | -166.40 USD |
+| ferrariChampions2026 | 422 | 261 | 23 | -166.40 USD |
 
 ## Análisis general
 
@@ -746,6 +746,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Kansas City Royals (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 42% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Yunchaokete Bu (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -775,4 +776,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 5.8% | ❌ perdida | -5.14 |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 246.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |

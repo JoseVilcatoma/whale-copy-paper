@@ -93192,5 +93192,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788483935.7097075,
     "fills": 6
+  },
+  {
+    "timestamp": 1788484096,
+    "timestamp_added": 1788484097.1193686,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-kc-2026-09-03-spread-away-1pt5",
+    "title": "Spread: Miami Marlins (-1.5)",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 1660.0,
+    "whale_pct": 0.58,
+    "whale_value_at_open": 286246.3217,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788484097.5534427,
+    "fills": 2
   }
 ]
