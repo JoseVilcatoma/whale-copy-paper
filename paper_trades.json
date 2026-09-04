@@ -94180,8 +94180,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95479,8 +95479,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 5058.399997,
-    "whale_pct": 93.795,
+    "whale_usd": 7918.399996000001,
+    "whale_pct": 146.826,
     "whale_value_at_open": 5393.0666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -95491,8 +95491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536070.5639193,
-    "fills": 3
+    "last_fill_at": 1788536307.8930027,
+    "fills": 4
   },
   {
     "timestamp": 1788534773,
@@ -95557,8 +95557,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 5876.6199990000005,
-    "whale_pct": 22.816,
+    "whale_usd": 6590.6199990000005,
+    "whale_pct": 25.588,
     "whale_value_at_open": 25756.4737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -95569,8 +95569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536126.9361532,
-    "fills": 4
+    "last_fill_at": 1788536396.8522077,
+    "fills": 5
   },
   {
     "timestamp": 1788534872,

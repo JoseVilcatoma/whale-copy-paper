@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.98870630074646,
+  "bankroll": 474.59401399305415,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19110,6 +19110,11 @@
       "timestamp": 1788536103.520316,
       "bankroll": 471.99,
       "event": "won:  \u2014 KBO: Hanwha Eagles vs. Lotte Giants"
+    },
+    {
+      "timestamp": 1788536418.0799742,
+      "bankroll": 474.59,
+      "event": "won:  \u2014 KBO: KT Wiz vs. Kia Tigers"
     }
   ]
 }
