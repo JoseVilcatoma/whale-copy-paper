@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.1387348814362,
+  "bankroll": 491.8380878226127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18905,6 +18905,16 @@
       "timestamp": 1788502154.3311002,
       "bankroll": 496.14,
       "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1788504682.5239167,
+      "bankroll": 496.98,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Quentin Halys"
+    },
+    {
+      "timestamp": 1788504684.8340127,
+      "bankroll": 491.84,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Quentin Halys"
     }
   ]
 }
