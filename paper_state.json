@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.64397126450564,
+  "bankroll": 503.39674904228343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18950,6 +18950,11 @@
       "timestamp": 1788518491.1489244,
       "bankroll": 505.64,
       "event": "won: RN1 \u2014 M15 Buzau: Jeremy Gschwendtner vs Nicola Rispoli"
+    },
+    {
+      "timestamp": 1788518855.6034653,
+      "bankroll": 503.4,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): Flaznorp \u2014 US Open ATP: Rafael Jodar vs Thanasi Kokkinakis"
     }
   ]
 }
