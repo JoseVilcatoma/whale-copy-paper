@@ -94234,5 +94234,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788503389.0597086,
     "fills": 1
+  },
+  {
+    "timestamp": 1788505202,
+    "timestamp_added": 1788505203.4128265,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-fernand-2026-09-04",
+    "title": "US Open WTA: Jessica Pegula vs Leylah Fernandez",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 18333.269997,
+    "whale_pct": 26.244,
+    "whale_value_at_open": 69857.558,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788505203.4128406,
+    "fills": 1
   }
 ]
