@@ -96142,5 +96142,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788550924.820436,
     "fills": 1
+  },
+  {
+    "timestamp": 1788552008,
+    "timestamp_added": 1788552012.2749717,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-cws-2026-09-04",
+    "title": "Minnesota Twins vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 45823.408800000005,
+    "whale_pct": 74.204,
+    "whale_value_at_open": 61753.4482,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788552012.2749853,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 14:59:26 (hora de Perú)
+Actualizado: 2026-09-04 15:01:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 14:59:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $345.62)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $340.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
+| pleaseplease123 | 11 | 11 | 1 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -770,6 +770,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 74.2% | ⏳ pendiente | — |
 | tikstt | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 59% | 5.00 | 19.1% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 65% | 5.00 | 77.3% | ⏳ pendiente | — |
 |  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ⏳ pendiente | — |
@@ -799,4 +800,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ❌ perdida | -5.11 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | B8 (BUY) | 43% | 5.00 | 74.8% | ✅ ganada | +6.48 |
 | AV23IUa | US Open ATP: Tomas Etcheverry vs Mariano | Mariano Navone (BUY) | 50% | 5.00 | 8.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
