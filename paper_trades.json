@@ -95047,5 +95047,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788527429.9406319,
     "fills": 2
+  },
+  {
+    "timestamp": 1788527567,
+    "timestamp_added": 1788527568.7395163,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "bun-stu-koe-2026-09-04-total-3pt5",
+    "title": "VfB Stuttgart vs. 1. FC K\u00f6ln: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 667.1741999999999,
+    "whale_pct": 4.373,
+    "whale_value_at_open": 15256.2072,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788527568.7395282,
+    "fills": 1
   }
 ]

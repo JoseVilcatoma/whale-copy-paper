@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 08:11:15 (hora de Perú)
+Actualizado: 2026-09-04 08:13:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 08:11:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $328.34)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $323.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
-| HongYunX | 4 | 1 | 1 | +13.63 USD |
+| HongYunX | 4 | 1 | 2 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
@@ -763,6 +763,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HongYunX | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 50% | 5.00 | 38.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: HOTU vs Eternal Fire (BO | HOTU (BUY) | 73% | 5.00 | 25.5% | 💰 vendida anticipada | -0.55 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -792,4 +793,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Flaznorp | Will Como 1907 win on 2026-09-04? | No (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 7.7% | ⏳ pendiente | — |
