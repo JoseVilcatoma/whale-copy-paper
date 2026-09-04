@@ -95057,8 +95057,8 @@
     "title": "VfB Stuttgart vs. 1. FC K\u00f6ln: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4294.048513,
-    "whale_pct": 28.146,
+    "whale_usd": 6177.956413,
+    "whale_pct": 40.495,
     "whale_value_at_open": 15256.2072,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -95069,8 +95069,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788528873.2258642,
-    "fills": 4
+    "last_fill_at": 1788531329.6014698,
+    "fills": 5
   },
   {
     "timestamp": 1788528038,
