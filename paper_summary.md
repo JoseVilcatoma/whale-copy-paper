@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 18:12:08 (hora de Perú)
+Actualizado: 2026-09-04 18:14:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.03
@@ -784,7 +784,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ⏳ pendiente | — |
 |  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ⏳ pendiente | — |
-| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 12.3% | ⏳ pendiente | — |
+| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 19.7% | ⏳ pendiente | — |
 | tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ⏳ pendiente | — |
 | tikstt | CA Platense vs. CD Riestra: O/U 2.5 | Over (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
