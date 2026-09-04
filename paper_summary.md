@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 05:40:06 (hora de Perú)
+Actualizado: 2026-09-04 05:42:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.33
-**Retorno acumulado:** +0.27%
+**Bankroll actual:** $505.64
+**Retorno acumulado:** +1.13%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 05:40:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $291.33)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $300.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -120,8 +120,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
+| RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 488 | 230 | 1 | -26.84 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3605
-- **Aciertos:** 2304 (63.9%)
+- **Apuestas resueltas:** 3606
+- **Aciertos:** 2305 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,000.24
-- **ROI sobre lo apostado:** -0.60%
-- **Comisiones pagadas (taker fee):** $330.31 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,005.24
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $330.43 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1810 | 50.6% | 50.1% | +0.5 pp |
+| 40-59% | 1811 | 50.6% | 50.1% | +0.5 pp |
 | 60-79% | 1080 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 496 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
@@ -768,7 +768,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 46.2% | ⏳ pendiente | — |
-| RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ✅ ganada | +4.32 |
 | BrotherObama | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 56% | 5.00 | 29.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |

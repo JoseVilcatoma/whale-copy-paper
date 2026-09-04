@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.3270090003547,
+  "bankroll": 505.64397126450564,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18945,6 +18945,11 @@
       "timestamp": 1788510981.9391184,
       "bankroll": 501.33,
       "event": "won: Flaznorp \u2014 Zhangjiagang: Kasidit Samrej vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788518491.1489244,
+      "bankroll": 505.64,
+      "event": "won: RN1 \u2014 M15 Buzau: Jeremy Gschwendtner vs Nicola Rispoli"
     }
   ]
 }
