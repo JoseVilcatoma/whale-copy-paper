@@ -92980,8 +92980,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 11233.303199999998,
-    "whale_pct": 34.576,
+    "whale_usd": 13808.3442,
+    "whale_pct": 42.502,
     "whale_value_at_open": 32488.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92992,8 +92992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788497991.9537537,
-    "fills": 8
+    "last_fill_at": 1788506092.3060021,
+    "fills": 9
   },
   {
     "timestamp": 1788480004,
@@ -94284,5 +94284,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788505550.2603865,
     "fills": 2
+  },
+  {
+    "timestamp": 1788506092,
+    "timestamp_added": 1788506093.378183,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-furia-vit-2026-09-04",
+    "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 1602.3744000000002,
+    "whale_pct": 1.196,
+    "whale_value_at_open": 133958.3371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788506093.378196,
+    "fills": 1
   }
 ]
