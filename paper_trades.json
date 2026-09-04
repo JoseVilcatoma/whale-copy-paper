@@ -94524,8 +94524,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95205,8 +95205,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 1899.996,
-    "whale_pct": 13.604,
+    "whale_usd": 3552.696,
+    "whale_pct": 25.437,
     "whale_value_at_open": 13966.5161,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -95220,7 +95220,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788530411.8142185,
-    "fills": 1
+    "last_fill_at": 1788530457.526135,
+    "fills": 2
   }
 ]

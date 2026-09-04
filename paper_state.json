@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.56734926916283,
+  "bankroll": 491.47734926916286,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19040,6 +19040,11 @@
       "timestamp": 1788529561.5162466,
       "bankroll": 496.57,
       "event": "lost:  \u2014 KBO: Doosan Bears vs. SSG Landers"
+    },
+    {
+      "timestamp": 1788530497.2629929,
+      "bankroll": 491.48,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 Ares vs The Last Resort (BO3) - CCT Europe Series #8 Group Stage"
     }
   ]
 }
