@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 22:00:20 (hora de Perú)
+Actualizado: 2026-09-03 22:02:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.35
@@ -749,7 +749,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -757,7 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 108.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs G2 (+1.5) | G2 (BUY) | 68% | 5.00 | 70.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-2.5) | St. Louis Cardinals (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 65% | 5.00 | 626.9% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 65% | 5.00 | 649.9% | ⏳ pendiente | — |
 | BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Bouzas Maneiro vs E | Elena Rybakina (BUY) | 81% | 5.00 | 9.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 23.0% | ⏳ pendiente | — |

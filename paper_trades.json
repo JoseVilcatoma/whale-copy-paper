@@ -93446,8 +93446,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 26688.7872,
-    "whale_pct": 626.858,
+    "whale_usd": 27671.1872,
+    "whale_pct": 649.932,
     "whale_value_at_open": 4257.5515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -93458,8 +93458,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489757.79816,
-    "fills": 2
+    "last_fill_at": 1788490893.1714735,
+    "fills": 3
   },
   {
     "timestamp": 1788488044,
@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 624.7380999999999,
-    "whale_pct": 0.365,
+    "whale_usd": 1162.067887,
+    "whale_pct": 0.68,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,7 +93654,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788490338.980944,
-    "fills": 1
+    "last_fill_at": 1788490865.906029,
+    "fills": 2
   }
 ]
