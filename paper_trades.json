@@ -92980,8 +92980,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 3737.8799,
-    "whale_pct": 11.505,
+    "whale_usd": 6467.3854,
+    "whale_pct": 19.907,
     "whale_value_at_open": 32488.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92992,8 +92992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788482665.5449157,
-    "fills": 4
+    "last_fill_at": 1788485383.7306218,
+    "fills": 5
   },
   {
     "timestamp": 1788480004,
@@ -93226,8 +93226,8 @@
     "title": "Counter-Strike: MOUZ NXT vs Bushido Wildcats (BO3) - CCT Europe Series #8 Group Stage",
     "outcome": "Bushido Wildcats",
     "side": "BUY",
-    "whale_usd": 586.3412999999999,
-    "whale_pct": 4.152,
+    "whale_usd": 1241.4867,
+    "whale_pct": 8.791,
     "whale_value_at_open": 14121.5094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -93238,8 +93238,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788484464.982152,
-    "fills": 1
+    "last_fill_at": 1788485380.0551078,
+    "fills": 2
   },
   {
     "timestamp": 1788484468,
@@ -93250,8 +93250,8 @@
     "title": "Map Handicap: HOTU (-1.5) vs Eternal Fire (+1.5)",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 1747.0214,
-    "whale_pct": 12.371,
+    "whale_usd": 5104.043,
+    "whale_pct": 36.144,
     "whale_value_at_open": 14121.5094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -93262,7 +93262,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788484908.0302505,
-    "fills": 2
+    "last_fill_at": 1788485377.1315746,
+    "fills": 3
   }
 ]
