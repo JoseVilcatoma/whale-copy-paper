@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 05:07:27 (hora de Perú)
+Actualizado: 2026-09-04 05:09:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 05:07:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $306.33)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $296.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| BBQChickenisthebesttt | 7 | 3 | 1 | +7.47 USD |
+| BBQChickenisthebesttt | 7 | 3 | 2 | +7.47 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 2 | +4.65 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 3 | +4.65 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | monkeymashingkeyboard | 10 | 8 | 1 | +3.29 USD |
@@ -754,13 +754,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
-| lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, zofgkt1111 |
+| lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 60% | 5.00 | 27.1% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.0% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 41.8% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
@@ -788,5 +790,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 43% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Samsung Lions vs. LG Twins | Samsung Lions (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
-|  | KBO: Samsung Lions vs. LG Twins | LG Twins (BUY) | 50% | 5.00 | 10.4% | ⏳ pendiente | — |
-|  | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 78% | 5.00 | 38.2% | ✅ ganada | +1.36 |
