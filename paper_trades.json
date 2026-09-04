@@ -95673,5 +95673,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788536951.7168732,
     "fills": 1
+  },
+  {
+    "timestamp": 1788537213,
+    "timestamp_added": 1788537214.3513856,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "nor-ffk-bog-2026-09-04-total-3pt5",
+    "title": "Fredrikstad FK vs. FK Bod\u00f8/Glimt: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 17000.0,
+    "whale_pct": 52.708,
+    "whale_value_at_open": 32253.4704,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788537214.3513994,
+    "fills": 1
   }
 ]
