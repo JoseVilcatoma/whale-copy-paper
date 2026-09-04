@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.08404551384166,
+  "bankroll": 470.6179753384031,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19285,6 +19285,16 @@
       "timestamp": 1788550499.624273,
       "bankroll": 472.08,
       "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: FURIA vs Vitality - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788551965.523347,
+      "bankroll": 466.95,
+      "event": "lost: Flaznorp \u2014 Abha Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1788551965.6234937,
+      "bankroll": 470.62,
+      "event": "won: Flaznorp \u2014 Abha Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5"
     }
   ]
 }
