@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 03:28:38 (hora de Perú)
+Actualizado: 2026-09-04 03:30:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.19
@@ -767,7 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Flaznorp | Will Como 1907 win on 2026-09-04? | No (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 6.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 68% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 86% | 5.00 | 26.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Black Phoenix vs UNiTY e | Black Phoenix (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
