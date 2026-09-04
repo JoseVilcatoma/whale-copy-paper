@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 06:06:28 (hora de Perú)
+Actualizado: 2026-09-04 06:08:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.52
@@ -762,7 +762,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 55% | 5.00 | 8.9% | ⏳ pendiente | — |
+| BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 55% | 5.00 | 12.0% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | Dplus KIA (BUY) | 52% | 5.00 | 14.8% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 50% | 5.00 | 15.2% | 💰 vendida anticipada | -0.35 |
 | ExplosiveNinja | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 53% | 5.00 | 7.9% | ⏳ pendiente | — |

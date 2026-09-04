@@ -94904,8 +94904,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 9999.999998000001,
-    "whale_pct": 8.914,
+    "whale_usd": 13499.999998000001,
+    "whale_pct": 12.033,
     "whale_value_at_open": 112187.3803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -94918,7 +94918,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788519757.126727,
-    "fills": 2
+    "last_fill_at": 1788519996.009568,
+    "fills": 3
   }
 ]
