@@ -94356,5 +94356,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788507743.7853029,
     "fills": 2
+  },
+  {
+    "timestamp": 1788508035,
+    "timestamp_added": 1788508036.5425715,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-bublik-paul-2026-09-04",
+    "title": "US Open ATP: Alexander Bublik vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "whale_usd": 1228.2,
+    "whale_pct": 0.537,
+    "whale_value_at_open": 228628.4036,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788508036.5425854,
+    "fills": 1
   }
 ]
