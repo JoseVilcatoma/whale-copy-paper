@@ -95388,8 +95388,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95659,8 +95659,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 6638.349629000001,
-    "whale_pct": 1.478,
+    "whale_usd": 7990.2014800000015,
+    "whale_pct": 1.779,
     "whale_value_at_open": 449123.3123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -95671,8 +95671,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536951.7168732,
-    "fills": 1
+    "last_fill_at": 1788538157.4734287,
+    "fills": 2
   },
   {
     "timestamp": 1788537213,
@@ -95720,6 +95720,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788537912.0812342,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788538154,
+    "timestamp_added": 1788538154.640771,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "wta-sabalen-rakhimo-2026-09-04",
+    "title": "US Open WTA: Aryna Sabalenka vs Kamilla Rakhimova",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "whale_usd": 1514.779998,
+    "whale_pct": 0.383,
+    "whale_value_at_open": 395708.7703,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788538173.6791532,
     "fills": 2
   }
 ]

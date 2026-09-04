@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.59401399305415,
+  "bankroll": 477.8273473263875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19115,6 +19115,11 @@
       "timestamp": 1788536418.0799742,
       "bankroll": 474.59,
       "event": "won:  \u2014 KBO: KT Wiz vs. Kia Tigers"
+    },
+    {
+      "timestamp": 1788538107.8166685,
+      "bankroll": 477.83,
+      "event": "won: ferrariChampions2026 \u2014 W35 Kursumlijska Banja: Sara Cakarevic vs Giorgia Pedone"
     }
   ]
 }
