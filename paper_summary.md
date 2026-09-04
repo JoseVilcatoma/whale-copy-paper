@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:25:35 (hora de Perú)
+Actualizado: 2026-09-04 09:27:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 09:25:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $286.48)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $276.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
-| fRibrenlc | 1 | 0 | 2 | +2.27 USD |
+| fRibrenlc | 1 | 0 | 3 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 447 | 274 | 4 | -145.90 USD |
+| ferrariChampions2026 | 447 | 274 | 5 | -145.90 USD |
 
 ## Análisis general
 
@@ -760,12 +760,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bublik-paul-2026-09-04 | AV23IUa, Flaznorp |
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 | lol-kt-dk-2026-09-04-game4 | BrotherObama, zofgkt1111 |
+| atp-montes-jones-2026-09-04 | fRibrenlc, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
+| fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 53.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ⏳ pendiente | — |
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 14.5% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 93.1% | ⏳ pendiente | — |
@@ -793,5 +796,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 82.5% | ⏳ pendiente | — |
 | RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ✅ ganada | +4.32 |
-| BrotherObama | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 56% | 5.00 | 29.8% | ⏳ pendiente | — |
-| BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | 💰 vendida anticipada | +3.47 |
