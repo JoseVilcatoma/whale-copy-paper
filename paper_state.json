@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.4930605437638,
+  "bankroll": 498.3387729979764,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18990,6 +18990,46 @@
       "timestamp": 1788526425.077104,
       "bankroll": 506.49,
       "event": "lost: BrotherObama \u2014 LoL: KT Rolster vs Dplus KIA - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788526726.3165214,
+      "bankroll": 509.1,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788526728.2110293,
+      "bankroll": 511.82,
+      "event": "won: Diabolical-Prize \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788526732.0846653,
+      "bankroll": 506.69,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788526733.3884697,
+      "bankroll": 510.5,
+      "event": "won: zofgkt1111 \u2014 LoL: KT Rolster vs Dplus KIA - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788526733.4886525,
+      "bankroll": 505.36,
+      "event": "lost: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788526733.5888386,
+      "bankroll": 500.23,
+      "event": "lost: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 LoL: KT Rolster vs Dplus KIA - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788526733.6890304,
+      "bankroll": 495.11,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: KT Rolster vs Dplus KIA - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788526733.789203,
+      "bankroll": 498.34,
+      "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs"
     }
   ]
 }

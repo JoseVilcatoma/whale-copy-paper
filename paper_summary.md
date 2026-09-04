@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 07:56:49 (hora de Perú)
+Actualizado: 2026-09-04 07:58:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.49
-**Retorno acumulado:** +1.30%
+**Bankroll actual:** $498.34
+**Retorno acumulado:** -0.33%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 07:56:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $301.49)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $333.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,8 +44,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| BBQChickenisthebesttt | 7 | 3 | 2 | +7.47 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
+| zofgkt1111 | 5 | 3 | 1 | +6.59 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | BrotherObama | 6 | 4 | 1 | +6.36 USD |
@@ -54,18 +54,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 3 | 3 | +4.10 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | monkeymashingkeyboard | 10 | 8 | 1 | +3.29 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| zofgkt1111 | 4 | 3 | 2 | +2.77 USD |
+| Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| TAIWANNUMBERONE | 33 | 22 | 0 | +2.32 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -84,8 +84,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | Talvez10 | 4 | 3 | 0 | +0.20 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Diabolical-Prize | 0 | 0 | 1 | +0.00 USD |
-| TAIWANNUMBERONE | 32 | 22 | 1 | -0.29 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -95,6 +93,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 3 | 5 | 0 | -2.94 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 1winstreak1 | 7 | 5 | 0 | -3.63 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3610
-- **Aciertos:** 2307 (63.9%)
+- **Apuestas resueltas:** 3618
+- **Aciertos:** 2311 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,025.24
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $330.87 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,065.24
+- **ROI sobre lo apostado:** -0.62%
+- **Comisiones pagadas (taker fee):** $331.79 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,8 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1814 | 50.6% | 50.1% | +0.5 pp |
-| 60-79% | 1081 | 69.6% | 67.8% | +1.7 pp |
+| 40-59% | 1819 | 50.5% | 50.1% | +0.4 pp |
+| 60-79% | 1084 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 496 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
 
@@ -772,18 +772,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 50% | 5.00 | 15.2% | 💰 vendida anticipada | -0.35 |
 | ExplosiveNinja | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 53% | 5.00 | 18.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Imperial vs ALKA (BO3) - | Imperial (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 60% | 5.00 | 27.1% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.0% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.4% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 60% | 5.00 | 27.1% | ✅ ganada | +3.23 |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.0% | ❌ perdida | -5.13 |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 50.4% | ❌ perdida | -5.13 |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ❌ perdida | -5.14 |
+| zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ✅ ganada | +3.82 |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 82.5% | ⏳ pendiente | — |
 | RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ✅ ganada | +4.32 |
 | BrotherObama | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 56% | 5.00 | 29.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | 💰 vendida anticipada | +3.47 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 240.7% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 240.7% | ❌ perdida | -5.13 |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ✅ ganada | +6.22 |
 | Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
