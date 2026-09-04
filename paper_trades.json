@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 107057.65126099998,
-    "whale_pct": 56.913,
+    "whale_usd": 117389.87166099998,
+    "whale_pct": 62.406,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492286.005081,
-    "fills": 15
+    "last_fill_at": 1788492416.6550953,
+    "fills": 16
   },
   {
     "timestamp": 1788487001,
@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 8003.353486999999,
-    "whale_pct": 4.681,
+    "whale_usd": 19731.836687,
+    "whale_pct": 11.541,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,8 +93654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492052.1037474,
-    "fills": 3
+    "last_fill_at": 1788492313.0022569,
+    "fills": 4
   },
   {
     "timestamp": 1788491238,
