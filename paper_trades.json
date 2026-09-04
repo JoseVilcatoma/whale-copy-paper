@@ -93324,8 +93324,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 4938.6468,
-    "whale_pct": 2.723,
+    "whale_usd": 8937.212800000001,
+    "whale_pct": 4.927,
     "whale_value_at_open": 181387.3482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93336,8 +93336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492014.209286,
-    "fills": 2
+    "last_fill_at": 1788492065.4350083,
+    "fills": 3
   },
   {
     "timestamp": 1788486807,
@@ -93730,6 +93730,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788492052.2874782,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788492065,
+    "timestamp_added": 1788492065.4940324,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "mlb-oak-sea-2026-09-03",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 3271.554,
+    "whale_pct": 33.598,
+    "whale_value_at_open": 9737.3304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788492065.4940438,
     "fills": 1
   }
 ]
