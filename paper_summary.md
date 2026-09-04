@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 01:54:36 (hora de Perú)
+Actualizado: 2026-09-04 01:56:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.84
@@ -758,7 +758,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Black Phoenix vs UNiTY e | Black Phoenix (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 47% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 47% | 5.00 | 7.5% | ⏳ pendiente | — |
 |  | KBO: KT Wiz vs. Kia Tigers | Kia Tigers (BUY) | 65% | 5.00 | 20.8% | ⏳ pendiente | — |
 |  | KBO: Hanwha Eagles vs. Lotte Giants | Hanwha Eagles (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. Lotte Giants | Lotte Giants (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
