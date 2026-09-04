@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 02:30:24 (hora de Perú)
+Actualizado: 2026-09-04 02:32:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.19
@@ -773,7 +773,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: Samsung Lions vs. LG Twins | Samsung Lions (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | KBO: Samsung Lions vs. LG Twins | LG Twins (BUY) | 50% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 78% | 5.00 | 38.2% | ✅ ganada | +1.36 |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 578.0% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 587.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 15.7% | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 14.9% | ✅ ganada | +1.28 |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ✅ ganada | +3.37 |
