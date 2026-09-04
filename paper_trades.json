@@ -93301,8 +93301,8 @@
     "title": "San Francisco Giants vs. New York Mets",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 1021.621621,
-    "whale_pct": 5.456,
+    "whale_usd": 1976.463221,
+    "whale_pct": 10.554,
     "whale_value_at_open": 18726.3476,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -93313,8 +93313,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788485970.5307872,
-    "fills": 1
+    "last_fill_at": 1788535233.0205443,
+    "fills": 2
   },
   {
     "timestamp": 1788486549,
@@ -95503,8 +95503,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 - Map 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 14455.767998,
-    "whale_pct": 132.183,
+    "whale_usd": 15307.767998,
+    "whale_pct": 139.973,
     "whale_value_at_open": 10936.2134,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -95517,8 +95517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788535120.3146584,
-    "fills": 9
+    "last_fill_at": 1788535184.679987,
+    "fills": 10
   },
   {
     "timestamp": 1788534788,
@@ -95557,8 +95557,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 1509.199999,
-    "whale_pct": 5.859,
+    "whale_usd": 3203.1999990000004,
+    "whale_pct": 12.436,
     "whale_value_at_open": 25756.4737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -95569,8 +95569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534854.90964,
-    "fills": 1
+    "last_fill_at": 1788535233.4227571,
+    "fills": 2
   },
   {
     "timestamp": 1788534872,
