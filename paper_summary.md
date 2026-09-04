@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:54:13 (hora de Perú)
+Actualizado: 2026-09-04 17:56:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 17:54:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $347.97)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $342.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
-| Talvez10 | 4 | 3 | 0 | +0.20 USD |
+| Talvez10 | 4 | 3 | 1 | +0.20 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -775,6 +775,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Zack Gelof: Home Runs O/U 0.5 | Under (BUY) | 92% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 28.7% | ⏳ pendiente | — |
 | BrotherObama | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 36.2% | ⏳ pendiente | — |
 | BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ⏳ pendiente | — |
@@ -804,4 +805,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ❌ perdida | -5.08 |
 | fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 82.5% | ✅ ganada | +0.25 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 44% | 5.00 | 29.9% | 💰 vendida anticipada | +1.66 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ✅ ganada | +3.82 |

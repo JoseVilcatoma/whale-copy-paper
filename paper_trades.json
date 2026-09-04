@@ -96728,5 +96728,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788561899.4053657,
     "fills": 3
+  },
+  {
+    "timestamp": 1788562524,
+    "timestamp_added": 1788562525.5053864,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-oak-sea-2026-09-04-hr-zack-gelof-0pt5",
+    "title": "Zack Gelof: Home Runs O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 900.0,
+    "whale_pct": 3.036,
+    "whale_value_at_open": 29646.9575,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788562525.505397,
+    "fills": 1
   }
 ]
