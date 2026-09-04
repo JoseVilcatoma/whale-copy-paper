@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 20:47:56 (hora de Perú)
+Actualizado: 2026-09-03 20:50:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $455.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 20:47:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $290.61)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $285.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 427 | 264 | 16 | -161.70 USD |
+| ferrariChampions2026 | 427 | 264 | 17 | -161.70 USD |
 
 ## Análisis general
 
@@ -747,6 +747,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs Eternal Fir | Eternal Fire (BUY) | 74% | 5.00 | 36.1% | ⏳ pendiente | — |
@@ -755,7 +756,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 42% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Yunchaokete Bu (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 9.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 12.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 51% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Francesca Jone | Iva Jovic (BUY) | 99% | 5.00 | 1.8% | ✅ ganada | +0.05 |
@@ -776,4 +777,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 53% | 5.00 | 92.4% | ⏳ pendiente | — |
 | Talvez10 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 278.9% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 51% | 5.00 | 14.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 60% | 5.00 | 1.8% | ✅ ganada | +3.23 |

@@ -93100,8 +93100,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 25477.185938,
-    "whale_pct": 9.506,
+    "whale_usd": 34164.314903,
+    "whale_pct": 12.747,
     "whale_value_at_open": 268020.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -93114,8 +93114,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788486452.556972,
-    "fills": 7
+    "last_fill_at": 1788486537.7900903,
+    "fills": 9
   },
   {
     "timestamp": 1788483128,
@@ -93313,6 +93313,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788485970.5307872,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788486549,
+    "timestamp_added": 1788486549.844487,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-03",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 3520.664,
+    "whale_pct": 1.941,
+    "whale_value_at_open": 181387.3482,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788486549.8444989,
     "fills": 1
   }
 ]
