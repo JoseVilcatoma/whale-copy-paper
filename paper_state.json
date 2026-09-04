@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.6568664776453,
+  "bankroll": 456.8675706028231,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19200,6 +19200,16 @@
       "timestamp": 1788541260.7797046,
       "bankroll": 453.66,
       "event": "won: Flaznorp \u2014 US Open WTA: Jasmine Paolini vs Sorana Cirstea"
+    },
+    {
+      "timestamp": 1788541563.4309871,
+      "bankroll": 455.35,
+      "event": "won: Flaznorp \u2014 US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova"
+    },
+    {
+      "timestamp": 1788541567.0469933,
+      "bankroll": 456.87,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova"
     }
   ]
 }
