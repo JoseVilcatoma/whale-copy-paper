@@ -93004,8 +93004,8 @@
     "title": "Colorado vs. Georgia Tech",
     "outcome": "Georgia Tech",
     "side": "BUY",
-    "whale_usd": 6481.066400000001,
-    "whale_pct": 2.747,
+    "whale_usd": 8378.2664,
+    "whale_pct": 3.551,
     "whale_value_at_open": 235969.6394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -93016,8 +93016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489920.774304,
-    "fills": 5
+    "last_fill_at": 1788489996.719056,
+    "fills": 7
   },
   {
     "timestamp": 1788481334,
