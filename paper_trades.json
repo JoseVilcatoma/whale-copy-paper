@@ -96092,5 +96092,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788549636.423541,
     "fills": 1
+  },
+  {
+    "timestamp": 1788550055,
+    "timestamp_added": 1788550055.8527708,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-det-cle-2026-06-14",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 8912.6784,
+    "whale_pct": 77.255,
+    "whale_value_at_open": 11536.6841,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788550056.5240452,
+    "fills": 2
   }
 ]
