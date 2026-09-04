@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 08:58:48 (hora de Perú)
+Actualizado: 2026-09-04 09:00:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 08:58:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $311.57)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $301.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 23 | 15 | +62.03 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 23 | 16 | +62.03 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
-| fRibrenlc | 1 | 0 | 0 | +2.27 USD |
+| fRibrenlc | 1 | 0 | 1 | +2.27 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -749,7 +749,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
 | lol-kt-dk-2026-09-04 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
-| cs2-fal2-g2-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama |
+| cs2-fal2-g2-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama, fRibrenlc |
 | cs2-b8-ntr-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
@@ -765,8 +765,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 13.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs Back to Bac | Fluxo W7M (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 62% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 309.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
 | HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 28.1% | ⏳ pendiente | — |
@@ -793,5 +795,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs The Last Reso | G2 Ares (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 46% | 5.00 | 240.7% | ❌ perdida | -5.13 |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 1 Wi | KT Rolster (BUY) | 44% | 5.00 | 127.2% | ✅ ganada | +6.22 |
-| Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |

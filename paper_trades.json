@@ -93691,8 +93691,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 10196.3226,
-    "whale_pct": 15.131,
+    "whale_usd": 13242.056199999999,
+    "whale_pct": 19.651,
     "whale_value_at_open": 67386.6216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -93703,8 +93703,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788529497.059832,
-    "fills": 4
+    "last_fill_at": 1788530393.7131116,
+    "fills": 5
   },
   {
     "timestamp": 1788492051,
@@ -95131,8 +95131,8 @@
     "title": "Games Total: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2550.0,
-    "whale_pct": 1.306,
+    "whale_usd": 4214.5226999999995,
+    "whale_pct": 2.158,
     "whale_value_at_open": 195255.7286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -95143,8 +95143,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788529498.0751307,
-    "fills": 1
+    "last_fill_at": 1788530389.1855752,
+    "fills": 2
   },
   {
     "timestamp": 1788529553,
@@ -95171,5 +95171,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788530090.3197427,
     "fills": 5
+  },
+  {
+    "timestamp": 1788530385,
+    "timestamp_added": 1788530386.4552486,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-fxw7-backto-2026-09-04-game2",
+    "title": "Counter-Strike: Fluxo W7M vs Back to Back  - Map 2 Winner",
+    "outcome": "Fluxo W7M",
+    "side": "BUY",
+    "whale_usd": 513.5005,
+    "whale_pct": 0.274,
+    "whale_value_at_open": 187373.7016,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788530386.455262,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788530411,
+    "timestamp_added": 1788530411.814209,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "cs2-fal2-g2-2026-09-04",
+    "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 1899.996,
+    "whale_pct": 13.604,
+    "whale_value_at_open": 13966.5161,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788530411.8142185,
+    "fills": 1
   }
 ]
