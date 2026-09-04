@@ -95023,5 +95023,29 @@
     "fills": 6,
     "fee_total_usd": 0.144,
     "closed_price": 67
+  },
+  {
+    "timestamp": 1788527428,
+    "timestamp_added": 1788527429.5060518,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "fl1-psg-asm-2026-09-04-total-3pt5",
+    "title": "Paris Saint-Germain FC vs. AS Monaco FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4263.541593,
+    "whale_pct": 38.939,
+    "whale_value_at_open": 10949.1601,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788527429.9406319,
+    "fills": 2
   }
 ]
