@@ -93324,8 +93324,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 8937.212800000001,
-    "whale_pct": 4.927,
+    "whale_usd": 9919.414,
+    "whale_pct": 5.469,
     "whale_value_at_open": 181387.3482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93336,8 +93336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492065.4350083,
-    "fills": 3
+    "last_fill_at": 1788497486.907174,
+    "fills": 4
   },
   {
     "timestamp": 1788486807,
@@ -93791,8 +93791,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 3763.2000000000003,
-    "whale_pct": 19.16,
+    "whale_usd": 4722.179999,
+    "whale_pct": 24.042,
     "whale_value_at_open": 19641.1853,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -93807,8 +93807,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788492604.1230955,
-    "fills": 2
+    "last_fill_at": 1788497411.474162,
+    "fills": 3
   },
   {
     "timestamp": 1788493190,
