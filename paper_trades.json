@@ -96554,5 +96554,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788560779.3255444,
     "fills": 1
+  },
+  {
+    "timestamp": 1788561035,
+    "timestamp_added": 1788561036.273674,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-lehecka-tsitsip-2026-09-04",
+    "title": "US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas",
+    "outcome": "Jiri Lehecka",
+    "side": "BUY",
+    "whale_usd": 19999.999999,
+    "whale_pct": 96.164,
+    "whale_value_at_open": 20797.8723,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788561036.2736843,
+    "fills": 1
   }
 ]

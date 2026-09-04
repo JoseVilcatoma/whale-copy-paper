@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:29:40 (hora de Perú)
+Actualizado: 2026-09-04 17:31:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 17:29:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $382.97)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $377.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 5 | 1 | 4 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 52 | 33 | 4 | +16.25 USD |
-|  | 6 | 2 | 0 | +15.27 USD |
+|  | 6 | 2 | 1 | +15.27 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -772,6 +772,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 4.8% | ⏳ pendiente | — |
 | tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -801,4 +802,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Over (BUY) | 48% | 5.00 | 0.1% | ❌ perdida | -5.13 |
-| Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
