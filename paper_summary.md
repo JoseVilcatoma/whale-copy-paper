@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 05:05:22 (hora de Perú)
+Actualizado: 2026-09-04 05:07:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 05:05:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $321.33)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $306.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 0 | +4.65 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 2 | +4.65 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | monkeymashingkeyboard | 10 | 8 | 1 | +3.29 USD |
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| zofgkt1111 | 3 | 2 | 0 | -1.38 USD |
+| zofgkt1111 | 3 | 2 | 1 | -1.38 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
@@ -747,18 +747,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03-total-7pt5 | Talvez10, ferrariChampions2026 |
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
-| lol-kt-dk-2026-09-04 | BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
+| lol-kt-dk-2026-09-04 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
 | cs2-b8-ntr-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
+| lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, zofgkt1111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | KT Rolster (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 29.4% | ⏳ pendiente | — |
 | RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -786,6 +790,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: Samsung Lions vs. LG Twins | Samsung Lions (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | KBO: Samsung Lions vs. LG Twins | LG Twins (BUY) | 50% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 78% | 5.00 | 38.2% | ✅ ganada | +1.36 |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 587.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 15.7% | ⏳ pendiente | — |
-| 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 14.9% | ✅ ganada | +1.28 |
