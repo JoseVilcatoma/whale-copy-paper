@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.1096759283792,
+  "bankroll": 506.4930605437638,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18980,6 +18980,16 @@
       "timestamp": 1788525312.7768326,
       "bankroll": 507.11,
       "event": "venta anticipada: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs (-0.55 USD)"
+    },
+    {
+      "timestamp": 1788526424.9769528,
+      "bankroll": 511.61,
+      "event": "won: zofgkt1111 \u2014 LoL: KT Rolster vs Dplus KIA - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788526425.077104,
+      "bankroll": 506.49,
+      "event": "lost: BrotherObama \u2014 LoL: KT Rolster vs Dplus KIA - Game 4 Winner"
     }
   ]
 }
