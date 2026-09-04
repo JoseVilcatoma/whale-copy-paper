@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.23034926916284,
+  "bankroll": 475.91034926916285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19055,6 +19055,21 @@
       "timestamp": 1788533299.05171,
       "bankroll": 491.23,
       "event": "lost: ferrariChampions2026 \u2014 KBO: Samsung Lions vs. LG Twins"
+    },
+    {
+      "timestamp": 1788533916.6033473,
+      "bankroll": 486.09,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788533916.930859,
+      "bankroll": 481.03,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: HOTU (-1.5) vs Eternal Fire (+1.5)"
+    },
+    {
+      "timestamp": 1788533923.1067848,
+      "bankroll": 475.91,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
     }
   ]
 }
