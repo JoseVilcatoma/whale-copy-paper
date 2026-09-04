@@ -95503,8 +95503,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 - Map 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 16805.092191,
-    "whale_pct": 153.665,
+    "whale_usd": 18581.944691,
+    "whale_pct": 169.912,
     "whale_value_at_open": 10936.2134,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -95517,8 +95517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788535421.9292023,
-    "fills": 12
+    "last_fill_at": 1788535612.1526096,
+    "fills": 14
   },
   {
     "timestamp": 1788534788,
@@ -95529,8 +95529,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 5317.180795,
-    "whale_pct": 28.034,
+    "whale_usd": 6409.180795,
+    "whale_pct": 33.791,
     "whale_value_at_open": 18966.9391,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -95545,8 +95545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534790.3061936,
-    "fills": 2
+    "last_fill_at": 1788535649.5112896,
+    "fills": 3
   },
   {
     "timestamp": 1788534854,
@@ -95557,8 +95557,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 3203.1999990000004,
-    "whale_pct": 12.436,
+    "whale_usd": 4740.399999,
+    "whale_pct": 18.405,
     "whale_value_at_open": 25756.4737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -95569,8 +95569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788535233.4227571,
-    "fills": 2
+    "last_fill_at": 1788535599.824306,
+    "fills": 3
   },
   {
     "timestamp": 1788534872,
