@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 10:23:44 (hora de Perú)
+Actualizado: 2026-09-04 10:25:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.16
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 10:23:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $262.16)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $257.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 6 | +7.67 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 7 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -751,7 +751,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-kt-dk-2026-09-04 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
 | cs2-fal2-g2-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0x99a093771ad58bcfc3023cd75566415f, BrotherObama, fRibrenlc |
 | cs2-fal2-g2-2026-09-04-game2 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0x99a093771ad58bcfc3023cd75566415f |
-| cs2-b8-ntr-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
+| cs2-b8-ntr-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0x99a093771ad58bcfc3023cd75566415f, ExplosiveNinja |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
@@ -768,6 +768,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 6.7% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 12.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 28.0% | ⏳ pendiente | — |
@@ -797,4 +798,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 3.0% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 55% | 5.00 | 12.0% | ❌ perdida | -5.11 |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | Dplus KIA (BUY) | 52% | 5.00 | 14.8% | ✅ ganada | +4.50 |
-| zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 4 Wi | KT Rolster (BUY) | 50% | 5.00 | 15.2% | 💰 vendida anticipada | -0.35 |
