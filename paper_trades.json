@@ -93398,8 +93398,8 @@
     "title": "US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 5515.1717,
-    "whale_pct": 2.851,
+    "whale_usd": 6077.0617,
+    "whale_pct": 3.141,
     "whale_value_at_open": 193467.9101,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -93410,7 +93410,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788487018.3004887,
-    "fills": 1
+    "last_fill_at": 1788487535.5991042,
+    "fills": 2
   }
 ]
