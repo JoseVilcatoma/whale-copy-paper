@@ -92246,8 +92246,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -92833,8 +92833,8 @@
     "title": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 16939.698682000002,
-    "whale_pct": 11.142,
+    "whale_usd": 18385.005040000004,
+    "whale_pct": 12.093,
     "whale_value_at_open": 152028.4865,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -92845,8 +92845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788479852.4471407,
-    "fills": 5
+    "last_fill_at": 1788480195.0618718,
+    "fills": 7
   },
   {
     "timestamp": 1788477688,
