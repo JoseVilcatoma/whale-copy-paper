@@ -95503,8 +95503,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 - Map 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 19697.944691,
-    "whale_pct": 180.117,
+    "whale_usd": 20265.684591,
+    "whale_pct": 185.308,
     "whale_value_at_open": 10936.2134,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -95517,8 +95517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536614.2415297,
-    "fills": 15
+    "last_fill_at": 1788536996.8020704,
+    "fills": 16
   },
   {
     "timestamp": 1788534788,
@@ -95649,5 +95649,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788536828.5395885,
     "fills": 4
+  },
+  {
+    "timestamp": 1788536951,
+    "timestamp_added": 1788536951.716864,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-medvede-rinderk-2026-09-04",
+    "title": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "whale_usd": 6638.349629000001,
+    "whale_pct": 1.478,
+    "whale_value_at_open": 449123.3123,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788536951.7168732,
+    "fills": 1
   }
 ]
