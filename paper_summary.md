@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 12:57:56 (hora de Perú)
+Actualizado: 2026-09-04 13:00:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.87
@@ -769,7 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 60.9% | ⏳ pendiente | — |
+| fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 64.6% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 44% | 5.00 | 10.7% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ⏳ pendiente | — |
 |  | US Open WTA: Taylor Townsend vs Diana Sh | Taylor Townsend (BUY) | 43% | 5.00 | 44.5% | ⏳ pendiente | — |
