@@ -93568,8 +93568,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 - Map 1 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 804.1512,
-    "whale_pct": 3.556,
+    "whale_usd": 2584.2428,
+    "whale_pct": 11.426,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93580,8 +93580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788488080.757406,
-    "fills": 1
+    "last_fill_at": 1788498882.8255382,
+    "fills": 2
   },
   {
     "timestamp": 1788488568,
@@ -93690,8 +93690,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 1685.2836,
-    "whale_pct": 2.501,
+    "whale_usd": 3777.8971999999994,
+    "whale_pct": 5.606,
     "whale_value_at_open": 67386.6216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -93702,8 +93702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788491680.5577607,
-    "fills": 1
+    "last_fill_at": 1788498890.9090998,
+    "fills": 2
   },
   {
     "timestamp": 1788492051,
@@ -93946,8 +93946,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 3154.0369,
-    "whale_pct": 3.531,
+    "whale_usd": 5187.5329,
+    "whale_pct": 5.807,
     "whale_value_at_open": 89326.8543,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93958,8 +93958,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788497993.809139,
-    "fills": 2
+    "last_fill_at": 1788498891.7574391,
+    "fills": 3
   },
   {
     "timestamp": 1788496696,
@@ -93970,8 +93970,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 28649.437125000004,
-    "whale_pct": 340.6,
+    "whale_usd": 44399.437125000004,
+    "whale_pct": 527.845,
     "whale_value_at_open": 8411.4557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -93984,8 +93984,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788498749.6436267,
-    "fills": 5
+    "last_fill_at": 1788498893.9734955,
+    "fills": 6
   },
   {
     "timestamp": 1788497953,
