@@ -96226,8 +96226,8 @@
     "title": "Arizona Diamondbacks vs. Houston Astros",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 3802.889,
-    "whale_pct": 4.833,
+    "whale_usd": 13375.949,
+    "whale_pct": 17.001,
     "whale_value_at_open": 78678.1526,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -96238,8 +96238,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788554644.973449,
-    "fills": 1
+    "last_fill_at": 1788566198.4918225,
+    "fills": 2
   },
   {
     "timestamp": 1788555177,

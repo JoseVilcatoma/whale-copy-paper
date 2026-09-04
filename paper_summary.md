@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 18:55:20 (hora de Perú)
+Actualizado: 2026-09-04 18:57:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.03
@@ -799,7 +799,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ⏳ pendiente | — |
 | Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 38.3% | ✅ ganada | +4.14 |
-| pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
+| pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 17.0% | ⏳ pendiente | — |
 |  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ✅ ganada | +5.08 |
 | tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ✅ ganada | +5.97 |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 91.4% | ⏳ pendiente | — |
