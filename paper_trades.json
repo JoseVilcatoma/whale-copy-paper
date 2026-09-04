@@ -96714,8 +96714,8 @@
     "title": "New York City FC vs. Nashville SC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3528.2,
-    "whale_pct": 28.71,
+    "whale_usd": 4321.24,
+    "whale_pct": 35.163,
     "whale_value_at_open": 12289.1706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -96726,8 +96726,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788561899.4053657,
-    "fills": 3
+    "last_fill_at": 1788562646.2707543,
+    "fills": 4
   },
   {
     "timestamp": 1788562524,
