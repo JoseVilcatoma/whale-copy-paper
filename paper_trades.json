@@ -95990,5 +95990,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788541184.6407683,
     "fills": 1
+  },
+  {
+    "timestamp": 1788541645,
+    "timestamp_added": 1788541645.9597814,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "cs2-furia-vit-2026-09-04-game2",
+    "title": "Counter-Strike: FURIA vs Vitality - Map 2 Winner",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 7014.799000000001,
+    "whale_pct": 107.2,
+    "whale_value_at_open": 6543.6412,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788541645.9598033,
+    "fills": 1
   }
 ]

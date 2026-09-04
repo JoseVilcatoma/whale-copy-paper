@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 12:06:16 (hora de Perú)
+Actualizado: 2026-09-04 12:08:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $456.87
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 12:06:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $276.87)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $271.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 3 | 5 | 0 | -2.94 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 3 | 5 | 1 | -2.94 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 1winstreak1 | 7 | 5 | 0 | -3.63 USD |
 | BrotherObama | 6 | 6 | 0 | -3.89 USD |
@@ -769,6 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ⏳ pendiente | — |
 |  | US Open WTA: Taylor Townsend vs Diana Sh | Taylor Townsend (BUY) | 43% | 5.00 | 44.5% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 86.9% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -798,4 +799,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 2.2% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
-| fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ✅ ganada | +3.52 |
