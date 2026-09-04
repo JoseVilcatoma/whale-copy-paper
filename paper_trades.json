@@ -96042,5 +96042,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788542180.8003292,
     "fills": 1
+  },
+  {
+    "timestamp": 1788544500,
+    "timestamp_added": 1788544501.4441683,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-wu-alcaraz-2026-09-04",
+    "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "whale_usd": 4977.5181,
+    "whale_pct": 9.954,
+    "whale_value_at_open": 50006.8471,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788544512.9664772,
+    "fills": 2
   }
 ]
