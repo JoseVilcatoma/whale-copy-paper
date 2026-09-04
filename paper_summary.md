@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 02:59:57 (hora de Perú)
+Actualizado: 2026-09-04 03:02:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 02:59:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $348.19)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $338.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 22 | 11 | +67.11 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 22 | 12 | +67.11 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -105,7 +105,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| Flaznorp | 25 | 8 | 5 | -5.76 USD |
+| Flaznorp | 25 | 8 | 6 | -5.76 USD |
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -752,12 +752,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
-| atp-samrej-aguiard-2026-09-04 | RN1, ferrariChampions2026 |
+| atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -786,5 +788,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 49% | 5.00 | 0.8% | ✅ ganada | +5.08 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 60.6% | ❌ perdida | -5.13 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ✅ ganada | +6.48 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 43% | 5.00 | 8.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 10.5 | Under (BUY) | 66% | 5.00 | 0.5% | ❌ perdida | -5.08 |
