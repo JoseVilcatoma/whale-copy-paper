@@ -93656,5 +93656,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788490865.906029,
     "fills": 2
+  },
+  {
+    "timestamp": 1788491238,
+    "timestamp_added": 1788491238.9914286,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-03-total-10pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 828.7685710000001,
+    "whale_pct": 0.463,
+    "whale_value_at_open": 179124.2451,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788491238.991442,
+    "fills": 1
   }
 ]
