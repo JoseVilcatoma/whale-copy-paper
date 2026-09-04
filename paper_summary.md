@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:17:57 (hora de Perú)
+Actualizado: 2026-09-04 11:19:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.06
@@ -774,7 +774,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 5.9% | ⏳ pendiente | — |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ⏳ pendiente | — |

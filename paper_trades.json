@@ -95731,8 +95731,8 @@
     "title": "US Open WTA: Aryna Sabalenka vs Kamilla Rakhimova",
     "outcome": "Aryna Sabalenka",
     "side": "BUY",
-    "whale_usd": 1514.779998,
-    "whale_pct": 0.383,
+    "whale_usd": 23282.079938000003,
+    "whale_pct": 5.884,
     "whale_value_at_open": 395708.7703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -95743,8 +95743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788538173.6791532,
-    "fills": 2
+    "last_fill_at": 1788538734.0216544,
+    "fills": 5
   },
   {
     "timestamp": 1788538294,
