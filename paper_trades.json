@@ -92857,8 +92857,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 3140.2486,
-    "whale_pct": 1.591,
+    "whale_usd": 4895.731,
+    "whale_pct": 2.48,
     "whale_value_at_open": 197421.6181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -92872,8 +92872,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477689.1605418,
-    "fills": 1
+    "last_fill_at": 1788484498.9869146,
+    "fills": 2
   },
   {
     "timestamp": 1788477710,
@@ -93239,6 +93239,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788484464.982152,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788484468,
+    "timestamp_added": 1788484476.1699834,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-hotu-ef1-2026-09-04-map-handicap-away-1pt5",
+    "title": "Map Handicap: HOTU (-1.5) vs Eternal Fire (+1.5)",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 915.42,
+    "whale_pct": 6.482,
+    "whale_value_at_open": 14121.5094,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788484476.1699934,
     "fills": 1
   }
 ]
