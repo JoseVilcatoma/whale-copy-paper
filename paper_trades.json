@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 6099.087815999999,
-    "whale_pct": 3.242,
+    "whale_usd": 32312.794061,
+    "whale_pct": 17.178,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489671.7867002,
-    "fills": 2
+    "last_fill_at": 1788489764.4783587,
+    "fills": 5
   },
   {
     "timestamp": 1788487001,
@@ -93446,8 +93446,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 16000.0,
-    "whale_pct": 375.803,
+    "whale_usd": 26688.7872,
+    "whale_pct": 626.858,
     "whale_value_at_open": 4257.5515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -93458,8 +93458,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788487887.2270026,
-    "fills": 1
+    "last_fill_at": 1788489757.79816,
+    "fills": 2
   },
   {
     "timestamp": 1788488044,
