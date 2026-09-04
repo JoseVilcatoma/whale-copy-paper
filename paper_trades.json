@@ -94582,5 +94582,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788512161.4918327,
     "fills": 1
+  },
+  {
+    "timestamp": 1788512375,
+    "timestamp_added": 1788512375.4895475,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-gschwen-rispoli-2026-09-04",
+    "title": "M15 Buzau: Jeremy Gschwendtner vs Nicola Rispoli",
+    "outcome": "Nicola Rispoli",
+    "side": "BUY",
+    "whale_usd": 540.28,
+    "whale_pct": 1.808,
+    "whale_value_at_open": 29882.9003,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788512375.489563,
+    "fills": 1
   }
 ]
