@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:19:59 (hora de Perú)
+Actualizado: 2026-09-04 11:22:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.06
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 11:19:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $242.06)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $232.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 26 | 9 | 10 | -7.65 USD |
+| Flaznorp | 26 | 9 | 12 | -7.65 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -769,6 +769,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Over (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -797,5 +799,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 28.9% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 93.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs Back to Bac | Fluxo W7M (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
