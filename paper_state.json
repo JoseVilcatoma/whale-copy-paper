@@ -1,5 +1,5 @@
 {
-  "bankroll": 458.37599817266926,
+  "bankroll": 464.9170696012407,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19260,6 +19260,16 @@
       "timestamp": 1788549101.7943976,
       "bankroll": 458.38,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Heroic vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788549419.1060658,
+      "bankroll": 461.1,
+      "event": "won: Flaznorp \u2014 Olympique Lyonnais vs. AJ Auxerre: O/U 2.5"
+    },
+    {
+      "timestamp": 1788549419.8098402,
+      "bankroll": 464.92,
+      "event": "won: Flaznorp \u2014 Olympique Lyonnais vs. AJ Auxerre: Both Teams to Score"
     }
   ]
 }
