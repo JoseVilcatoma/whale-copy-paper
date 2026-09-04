@@ -94130,8 +94130,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -94154,8 +94154,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -95479,8 +95479,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 2930.399999,
-    "whale_pct": 54.336,
+    "whale_usd": 5058.399997,
+    "whale_pct": 93.795,
     "whale_value_at_open": 5393.0666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -95491,8 +95491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534614.1487362,
-    "fills": 2
+    "last_fill_at": 1788536070.5639193,
+    "fills": 3
   },
   {
     "timestamp": 1788534773,
@@ -95529,8 +95529,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 7501.180795,
-    "whale_pct": 39.549,
+    "whale_usd": 8641.180795,
+    "whale_pct": 45.559,
     "whale_value_at_open": 18966.9391,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -95545,8 +95545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788535712.8208036,
-    "fills": 4
+    "last_fill_at": 1788536164.3155487,
+    "fills": 5
   },
   {
     "timestamp": 1788534854,
@@ -95557,8 +95557,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 4740.399999,
-    "whale_pct": 18.405,
+    "whale_usd": 5876.6199990000005,
+    "whale_pct": 22.816,
     "whale_value_at_open": 25756.4737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -95569,8 +95569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788535599.824306,
-    "fills": 3
+    "last_fill_at": 1788536126.9361532,
+    "fills": 4
   },
   {
     "timestamp": 1788534872,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.0326246680934,
+  "bankroll": 471.98870630074646,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19100,6 +19100,16 @@
       "timestamp": 1788535790.7659523,
       "bankroll": 472.03,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Falcons vs G2 - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788536103.4200985,
+      "bankroll": 466.91,
+      "event": "lost: ferrariChampions2026 \u2014 KBO: Hanwha Eagles vs. Lotte Giants"
+    },
+    {
+      "timestamp": 1788536103.520316,
+      "bankroll": 471.99,
+      "event": "won:  \u2014 KBO: Hanwha Eagles vs. Lotte Giants"
     }
   ]
 }
