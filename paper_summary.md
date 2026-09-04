@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 01:48:17 (hora de Perú)
+Actualizado: 2026-09-04 01:50:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.14
@@ -758,7 +758,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Black Phoenix vs UNiTY e | Black Phoenix (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 47% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 47% | 5.00 | 3.6% | ⏳ pendiente | — |
 |  | KBO: KT Wiz vs. Kia Tigers | Kia Tigers (BUY) | 65% | 5.00 | 20.8% | ⏳ pendiente | — |
 |  | KBO: Hanwha Eagles vs. Lotte Giants | Hanwha Eagles (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. Lotte Giants | Lotte Giants (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -767,7 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: Samsung Lions vs. LG Twins | Samsung Lions (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | KBO: Samsung Lions vs. LG Twins | LG Twins (BUY) | 50% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 78% | 5.00 | 38.2% | ⏳ pendiente | — |
-| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 567.8% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 578.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 15.7% | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 14.9% | ✅ ganada | +1.28 |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ✅ ganada | +3.37 |

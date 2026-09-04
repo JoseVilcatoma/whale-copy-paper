@@ -93970,8 +93970,8 @@
     "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 47762.81982700001,
-    "whale_pct": 567.831,
+    "whale_usd": 48614.171178000004,
+    "whale_pct": 577.952,
     "whale_value_at_open": 8411.4557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -93984,8 +93984,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788503778.280792,
-    "fills": 7
+    "last_fill_at": 1788504526.2645607,
+    "fills": 8
   },
   {
     "timestamp": 1788497953,
@@ -94196,8 +94196,8 @@
     "title": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
     "outcome": "Kasidit Samrej",
     "side": "BUY",
-    "whale_usd": 1871.3047080000001,
-    "whale_pct": 2.614,
+    "whale_usd": 2581.367208,
+    "whale_pct": 3.606,
     "whale_value_at_open": 71588.0318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -94208,8 +94208,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788504278.6238317,
-    "fills": 2
+    "last_fill_at": 1788504580.7432852,
+    "fills": 3
   },
   {
     "timestamp": 1788503388,
