@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:17:28 (hora de Perú)
+Actualizado: 2026-09-04 17:19:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 17:17:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $417.97)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $412.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 33 | 17 | 1 | +22.00 USD |
 | tikstt | 5 | 0 | 1 | +20.52 USD |
 | HongYunX | 7 | 3 | 0 | +17.46 USD |
-| Feromont | 5 | 1 | 2 | +16.46 USD |
+| Feromont | 5 | 1 | 3 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 52 | 33 | 4 | +16.25 USD |
 |  | 6 | 2 | 0 | +15.27 USD |
@@ -772,7 +772,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 177.8% | ⏳ pendiente | — |
+| Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 183.0% | ⏳ pendiente | — |
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 10.3% | ⏳ pendiente | — |
 | tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
@@ -801,4 +802,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 6.7% | ✅ ganada | +0.05 |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ❌ perdida | -5.11 |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ✅ ganada | +4.68 |
-| AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ✅ ganada | +1.69 |
