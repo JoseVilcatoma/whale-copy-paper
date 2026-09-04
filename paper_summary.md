@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 07:27:47 (hora de Perú)
+Actualizado: 2026-09-04 07:29:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.66
@@ -763,7 +763,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: HOTU vs Eternal Fire (BO | HOTU (BUY) | 73% | 5.00 | 21.6% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: HOTU vs Eternal Fire (BO | HOTU (BUY) | 73% | 5.00 | 25.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Anyone's Legend vs LGD Gaming - Gam | Anyone's Legend (BUY) | 63% | 5.00 | 14.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 65% | 5.00 | 3.0% | ⏳ pendiente | — |

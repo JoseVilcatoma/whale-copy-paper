@@ -95004,8 +95004,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 7071.530600000001,
-    "whale_pct": 21.623,
+    "whale_usd": 8323.380400000002,
+    "whale_pct": 25.451,
     "whale_value_at_open": 32703.4288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -95019,7 +95019,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788524862.966587,
-    "fills": 5
+    "last_fill_at": 1788524881.0611649,
+    "fills": 6
   }
 ]
