@@ -95095,5 +95095,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788528039.0663548,
     "fills": 1
+  },
+  {
+    "timestamp": 1788529456,
+    "timestamp_added": 1788529457.0490384,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-fal2-g2-2026-09-04",
+    "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 29999.999999000003,
+    "whale_pct": 309.759,
+    "whale_value_at_open": 9684.9436,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788529457.0490546,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 08:42:13 (hora de Perú)
+Actualizado: 2026-09-04 08:44:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 08:42:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.34)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $313.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 5 | 3 | 1 | +6.59 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
-| BrotherObama | 6 | 4 | 1 | +6.36 USD |
+| BrotherObama | 6 | 4 | 2 | +6.36 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -749,6 +749,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, 1winstreak1, Feromont, ferrariChampions2026 |
 | mlb-stl-lad-2026-09-03-spread-home-2pt5 | BrotherObama, ferrariChampions2026 |
 | lol-kt-dk-2026-09-04 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, BrotherObama, Diabolical-Prize, TAIWANNUMBERONE |
+| cs2-fal2-g2-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama |
 | cs2-b8-ntr-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-leong-trotter-2026-09-03 | , ferrariChampions2026 |
 | kbo-sam-lg-2026-09-04 | , ferrariChampions2026 |
@@ -763,6 +764,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 309.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
 | HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 28.1% | ⏳ pendiente | — |
 | HongYunX | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 50% | 5.00 | 67.3% | ⏳ pendiente | — |
@@ -792,4 +794,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Isurus vs Peladona (BO3) | Peladona (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Spread: Real Madrid CF (-1.5) | Real Betis Balompié (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
