@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.6309221326378,
+  "bankroll": 463.42242771477504,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18710,6 +18710,26 @@
       "timestamp": 1788487408.0158958,
       "bankroll": 455.63,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Gael Monfils vs Learner Tien"
+    },
+    {
+      "timestamp": 1788488023.7604647,
+      "bankroll": 459.29,
+      "event": "won: AV23IUa \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788488024.0353603,
+      "bankroll": 454.16,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788488024.3856752,
+      "bankroll": 458.14,
+      "event": "won: BrotherObama \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788488025.7841802,
+      "bankroll": 463.42,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Baltimore Orioles"
     }
   ]
 }
