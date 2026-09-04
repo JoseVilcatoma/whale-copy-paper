@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 14:09:56 (hora de Perú)
+Actualizado: 2026-09-04 14:12:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $463.52
-**Retorno acumulado:** -7.30%
+**Bankroll actual:** $458.38
+**Retorno acumulado:** -8.32%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 14:09:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $313.52)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $313.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,11 +28,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 32 | 6 | +18.79 USD |
 | AV23IUa | 31 | 17 | 3 | +17.34 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 33 | 5 | +13.64 USD |
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3663
+- **Apuestas resueltas:** 3664
 - **Aciertos:** 2336 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,290.24
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $336.22 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,295.24
+- **ROI sobre lo apostado:** -0.83%
+- **Comisiones pagadas (taker fee):** $336.37 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1846 | 50.3% | 50.1% | +0.3 pp |
+| 40-59% | 1847 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1095 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 499 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 223 | 96.4% | 97.4% | -0.9 pp |
