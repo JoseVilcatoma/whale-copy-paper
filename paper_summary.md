@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 13:28:53 (hora de Perú)
+Actualizado: 2026-09-04 13:30:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $457.87
-**Retorno acumulado:** -8.43%
+**Bankroll actual:** $463.52
+**Retorno acumulado:** -7.30%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 13:28:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $297.87)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $313.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| Flaznorp | 31 | 9 | 8 | -0.93 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
@@ -105,7 +106,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| Flaznorp | 30 | 9 | 9 | -5.81 USD |
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 451 | 277 | 1 | -151.31 USD |
+| ferrariChampions2026 | 452 | 277 | 0 | -150.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3661
-- **Aciertos:** 2334 (63.8%)
+- **Apuestas resueltas:** 3663
+- **Aciertos:** 2336 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,280.24
-- **ROI sobre lo apostado:** -0.83%
-- **Comisiones pagadas (taker fee):** $336.06 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,290.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $336.22 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,9 +144,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1845 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1846 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1095 | 69.7% | 67.8% | +1.9 pp |
-| 80-94% | 498 | 85.9% | 86.7% | -0.7 pp |
+| 80-94% | 499 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 223 | 96.4% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -780,7 +780,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Over (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 6.7% | ✅ ganada | +0.05 |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |

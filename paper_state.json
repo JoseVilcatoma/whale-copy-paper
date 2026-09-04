@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.87004468429717,
+  "bankroll": 463.5239981726693,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19245,6 +19245,16 @@
       "timestamp": 1788544064.5840697,
       "bankroll": 457.87,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788546570.7577302,
+      "bankroll": 458.65,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Jessica Pegula vs Leylah Fernandez"
+    },
+    {
+      "timestamp": 1788546577.4362466,
+      "bankroll": 463.52,
+      "event": "won: Flaznorp \u2014 US Open WTA: Jessica Pegula vs Leylah Fernandez"
     }
   ]
 }
