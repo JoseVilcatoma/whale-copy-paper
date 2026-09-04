@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 15:53:46 (hora de Perú)
+Actualizado: 2026-09-04 15:55:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.87
@@ -772,7 +772,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 8.5% | ⏳ pendiente | — |
+| Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
 | pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ⏳ pendiente | — |
 | tikstt | Will Real Madrid CF win on 2026-09-04? | No (BUY) | 45% | 5.00 | 105.6% | ⏳ pendiente | — |

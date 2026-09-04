@@ -96250,8 +96250,8 @@
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 2211.9231999999997,
-    "whale_pct": 8.52,
+    "whale_usd": 9930.752987,
+    "whale_pct": 38.253,
     "whale_value_at_open": 25960.972,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -96264,7 +96264,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788555178.4289541,
-    "fills": 1
+    "last_fill_at": 1788555268.1447997,
+    "fills": 4
   }
 ]
