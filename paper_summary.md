@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 00:59:12 (hora de Perú)
+Actualizado: 2026-09-04 01:01:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.32
@@ -756,7 +756,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 |  | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 78% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 64% | 5.00 | 527.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 10.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs Eternal Fire ( | Eternal Fire (BUY) | 41% | 5.00 | 12.6% | ⏳ pendiente | — |
 | 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 14.9% | ✅ ganada | +1.28 |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Quentin Halys (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -780,7 +780,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open WTA: Jessica Bouzas Maneiro vs E | Elena Rybakina (BUY) | 81% | 5.00 | 9.7% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 23.0% | ✅ ganada | +1.78 |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 120.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 120.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 41% | 5.00 | 5.5% | ✅ ganada | +7.05 |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 2.4% | ✅ ganada | +5.08 |

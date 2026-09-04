@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 225928.83194899996,
-    "whale_pct": 120.107,
+    "whale_usd": 226609.12055399996,
+    "whale_pct": 120.469,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788501495.9131958,
-    "fills": 49
+    "last_fill_at": 1788501595.0190945,
+    "fills": 50
   },
   {
     "timestamp": 1788487001,
@@ -93946,8 +93946,8 @@
     "title": "Counter-Strike: Heroic vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 9244.9729,
-    "whale_pct": 10.35,
+    "whale_usd": 11287.316900000002,
+    "whale_pct": 12.636,
     "whale_value_at_open": 89326.8543,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93958,8 +93958,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788500687.2110095,
-    "fills": 5
+    "last_fill_at": 1788501586.0025518,
+    "fills": 6
   },
   {
     "timestamp": 1788496696,
