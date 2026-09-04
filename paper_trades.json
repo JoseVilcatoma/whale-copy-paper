@@ -94980,8 +94980,8 @@
     "title": "Games Total: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 625.24,
-    "whale_pct": 0.321,
+    "whale_usd": 1131.4,
+    "whale_pct": 0.58,
     "whale_value_at_open": 194905.1667,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -94992,8 +94992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788524093.8144486,
-    "fills": 1
+    "last_fill_at": 1788534019.3623176,
+    "fills": 2
   },
   {
     "timestamp": 1788524834,
