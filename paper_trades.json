@@ -94186,5 +94186,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788502809.8337553,
     "fills": 1
+  },
+  {
+    "timestamp": 1788502956,
+    "timestamp_added": 1788502956.606567,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-samrej-aguiard-2026-09-04",
+    "title": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
+    "outcome": "Kasidit Samrej",
+    "side": "BUY",
+    "whale_usd": 621.789666,
+    "whale_pct": 0.869,
+    "whale_value_at_open": 71588.0318,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788502956.606582,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 01:21:38 (hora de Perú)
+Actualizado: 2026-09-04 01:23:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 01:21:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $371.14)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $366.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 443 | 272 | 7 | -150.48 USD |
+| ferrariChampions2026 | 443 | 272 | 8 | -150.48 USD |
 
 ## Análisis general
 
@@ -757,6 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Zhangjiagang: Kasidit Samrej vs Enzo Agu | Kasidit Samrej (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | KBO: KT Wiz vs. Kia Tigers | Kia Tigers (BUY) | 65% | 5.00 | 20.8% | ⏳ pendiente | — |
 |  | KBO: Hanwha Eagles vs. Lotte Giants | Hanwha Eagles (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Hanwha Eagles vs. Lotte Giants | Lotte Giants (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -786,4 +787,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 149.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs G2 (+1.5) | G2 (BUY) | 68% | 5.00 | 97.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-2.5) | St. Louis Cardinals (BUY) | 58% | 5.00 | 1.9% | ✅ ganada | +3.52 |
-| TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 65% | 5.00 | 649.9% | ⏳ pendiente | — |
