@@ -95431,8 +95431,8 @@
     "title": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
     "outcome": "Mariano Navone",
     "side": "BUY",
-    "whale_usd": 6309.9946,
-    "whale_pct": 1.481,
+    "whale_usd": 7099.9138,
+    "whale_pct": 1.667,
     "whale_value_at_open": 425990.9905,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -95443,8 +95443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534090.020166,
-    "fills": 2
+    "last_fill_at": 1788534682.3683438,
+    "fills": 3
   },
   {
     "timestamp": 1788534476,
@@ -95479,8 +95479,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "Nuclear TigeRES",
     "side": "BUY",
-    "whale_usd": 2336.399999,
-    "whale_pct": 43.322,
+    "whale_usd": 2930.399999,
+    "whale_pct": 54.336,
     "whale_value_at_open": 5393.0666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -95491,7 +95491,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788534554.6613286,
-    "fills": 1
+    "last_fill_at": 1788534614.1487362,
+    "fills": 2
   }
 ]
