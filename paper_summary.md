@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 12:00:02 (hora de Perú)
+Actualizado: 2026-09-04 12:02:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $454.92
-**Retorno acumulado:** -9.02%
+**Bankroll actual:** $453.66
+**Retorno acumulado:** -9.27%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 12:00:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $249.92)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $263.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | HongYunX | 4 | 1 | 5 | +13.63 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 20 | 12 | 4 | +12.66 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 21 | 13 | 2 | +11.35 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 26 | 9 | 13 | -7.65 USD |
+| Flaznorp | 27 | 9 | 12 | -7.60 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3649
-- **Aciertos:** 2325 (63.7%)
+- **Apuestas resueltas:** 3652
+- **Aciertos:** 2327 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,220.24
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $335.12 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,235.24
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $335.36 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,10 +144,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1839 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1841 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1092 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 498 | 85.9% | 86.7% | -0.7 pp |
-| 95-99% (casi seguro) | 220 | 96.4% | 97.3% | -1.0 pp |
+| 95-99% (casi seguro) | 221 | 96.4% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -773,7 +773,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 86.9% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Over (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -785,8 +785,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 27.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 28.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 28.9% | ✅ ganada | +3.82 |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Eternal Fire (BUY) | 49% | 5.00 | 25.6% | ❌ perdida | -5.13 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 86% | 5.00 | 49.4% | ✅ ganada | +0.78 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Team Falcons vs G2 - Map | Team Falcons (BUY) | 63% | 5.00 | 185.3% | ✅ ganada | +2.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES -  | Nuclear TigeRES (BUY) | 58% | 5.00 | 165.5% | ❌ perdida | -5.11 |

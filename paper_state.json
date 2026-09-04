@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.9187899985688,
+  "bankroll": 453.6568664776453,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19185,6 +19185,21 @@
       "timestamp": 1788540942.8833337,
       "bankroll": 454.92,
       "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788541257.1298602,
+      "bankroll": 449.79,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788541257.2300982,
+      "bankroll": 453.61,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Heroic vs Eternal Fire - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788541260.7797046,
+      "bankroll": 453.66,
+      "event": "won: Flaznorp \u2014 US Open WTA: Jasmine Paolini vs Sorana Cirstea"
     }
   ]
 }
