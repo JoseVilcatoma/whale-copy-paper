@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 09:46:23 (hora de Perú)
+Actualizado: 2026-09-04 09:48:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.48
-**Retorno acumulado:** -1.70%
+**Bankroll actual:** $491.23
+**Retorno acumulado:** -1.75%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 09:46:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $261.48)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $271.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,6 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+|  | 2 | 1 | 2 | +1.10 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | ExplosiveNinja | 10 | 7 | 4 | +0.40 USD |
@@ -96,7 +97,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 3 | 5 | 0 | -2.94 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 1winstreak1 | 7 | 5 | 0 | -3.63 USD |
-|  | 1 | 1 | 3 | -3.78 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -125,17 +125,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 447 | 274 | 8 | -145.90 USD |
+| ferrariChampions2026 | 447 | 275 | 7 | -151.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3621
-- **Aciertos:** 2312 (63.8%)
+- **Apuestas resueltas:** 3623
+- **Aciertos:** 2313 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,080.24
+- **Total apostado (suma de stakes):** $18,090.24
 - **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $332.13 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $332.38 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1821 | 50.5% | 50.1% | +0.4 pp |
+| 40-59% | 1823 | 50.5% | 50.1% | +0.4 pp |
 | 60-79% | 1085 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 496 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
