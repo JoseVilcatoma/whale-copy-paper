@@ -93004,8 +93004,8 @@
     "title": "Colorado vs. Georgia Tech",
     "outcome": "Georgia Tech",
     "side": "BUY",
-    "whale_usd": 8378.2664,
-    "whale_pct": 3.551,
+    "whale_usd": 13009.646400000001,
+    "whale_pct": 5.513,
     "whale_value_at_open": 235969.6394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -93016,8 +93016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489996.719056,
-    "fills": 7
+    "last_fill_at": 1788492033.944465,
+    "fills": 8
   },
   {
     "timestamp": 1788481334,
@@ -93324,8 +93324,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 3520.664,
-    "whale_pct": 1.941,
+    "whale_usd": 4938.6468,
+    "whale_pct": 2.723,
     "whale_value_at_open": 181387.3482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93336,8 +93336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788486549.8444989,
-    "fills": 1
+    "last_fill_at": 1788492014.209286,
+    "fills": 2
   },
   {
     "timestamp": 1788486807,
@@ -93348,8 +93348,8 @@
     "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 83124.84506099999,
-    "whale_pct": 44.19,
+    "whale_usd": 95411.84506099999,
+    "whale_pct": 50.722,
     "whale_value_at_open": 188106.1274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -93360,8 +93360,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788491724.750386,
-    "fills": 12
+    "last_fill_at": 1788491978.150092,
+    "fills": 13
   },
   {
     "timestamp": 1788487001,
@@ -93640,8 +93640,8 @@
     "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 1162.067887,
-    "whale_pct": 0.68,
+    "whale_usd": 8003.353486999999,
+    "whale_pct": 4.681,
     "whale_value_at_open": 170978.1615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -93654,8 +93654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788490865.906029,
-    "fills": 2
+    "last_fill_at": 1788492052.1037474,
+    "fills": 3
   },
   {
     "timestamp": 1788491238,
@@ -93703,6 +93703,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788491680.5577607,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788492051,
+    "timestamp_added": 1788492052.2874644,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "mlb-stl-lad-2026-09-03",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 4982.0022,
+    "whale_pct": 51.164,
+    "whale_value_at_open": 9737.3304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788492052.2874782,
     "fills": 1
   }
 ]
