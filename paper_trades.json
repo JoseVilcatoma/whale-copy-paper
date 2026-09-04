@@ -94332,5 +94332,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788506254.5344172,
     "fills": 1
+  },
+  {
+    "timestamp": 1788506720,
+    "timestamp_added": 1788506720.7227762,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-bet-rea-2026-09-04-spread-away-1pt5",
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Betis Balompi\u00e9",
+    "side": "BUY",
+    "whale_usd": 662.5999989999999,
+    "whale_pct": 0.288,
+    "whale_value_at_open": 230221.9402,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788506720.7227893,
+    "fills": 1
   }
 ]
