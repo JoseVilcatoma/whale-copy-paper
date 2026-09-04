@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:15:27 (hora de Perú)
+Actualizado: 2026-09-04 17:17:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -772,7 +772,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 174.2% | ⏳ pendiente | — |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 177.8% | ⏳ pendiente | — |
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 10.3% | ⏳ pendiente | — |
 | tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |

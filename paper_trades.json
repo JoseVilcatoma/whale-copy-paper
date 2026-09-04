@@ -96372,8 +96372,8 @@
     "title": "San Jose State vs. Eastern Michigan",
     "outcome": "Eastern Michigan",
     "side": "BUY",
-    "whale_usd": 26308.866100000003,
-    "whale_pct": 174.182,
+    "whale_usd": 26860.945674000002,
+    "whale_pct": 177.838,
     "whale_value_at_open": 15104.1986,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -96384,7 +96384,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788560021.038345,
-    "fills": 1
+    "last_fill_at": 1788560203.3470018,
+    "fills": 2
   }
 ]
