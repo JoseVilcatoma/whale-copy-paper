@@ -95431,8 +95431,8 @@
     "title": "US Open ATP: Tomas Etcheverry vs Mariano Navone",
     "outcome": "Mariano Navone",
     "side": "BUY",
-    "whale_usd": 9089.5294,
-    "whale_pct": 2.134,
+    "whale_usd": 9632.785673999999,
+    "whale_pct": 2.261,
     "whale_value_at_open": 425990.9905,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -95443,8 +95443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536289.251787,
-    "fills": 4
+    "last_fill_at": 1788536818.4836414,
+    "fills": 5
   },
   {
     "timestamp": 1788534476,
@@ -95455,8 +95455,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES - Map 1 Winner",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 6332.7999979999995,
-    "whale_pct": 45.255,
+    "whale_usd": 10473.825798,
+    "whale_pct": 74.847,
     "whale_value_at_open": 13993.5696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -95467,8 +95467,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536764.4826808,
-    "fills": 3
+    "last_fill_at": 1788536899.8376672,
+    "fills": 6
   },
   {
     "timestamp": 1788534554,
@@ -95632,8 +95632,8 @@
     "title": "Counter-Strike: B8 vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 1437.0427999999997,
-    "whale_pct": 5.722,
+    "whale_usd": 6915.442795999999,
+    "whale_pct": 27.538,
     "whale_value_at_open": 25112.6136,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -95647,7 +95647,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788536764.4883783,
-    "fills": 2
+    "last_fill_at": 1788536828.5395885,
+    "fills": 4
   }
 ]
