@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.86644341188264,
+  "bankroll": 455.6099391383784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18660,6 +18660,36 @@
       "timestamp": 1788485847.0311074,
       "bankroll": 446.87,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Zachary Svajda vs Arthur Gea"
+    },
+    {
+      "timestamp": 1788486466.7174065,
+      "bankroll": 441.74,
+      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1788486467.8560436,
+      "bankroll": 446.23,
+      "event": "won: monkeymashingkeyboard \u2014 Milwaukee Brewers vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1788486468.3192403,
+      "bankroll": 449.47,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1788486468.8716927,
+      "bankroll": 444.35,
+      "event": "lost: monkeymashingkeyboard \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788486469.1160283,
+      "bankroll": 449.64,
+      "event": "won: Feromont \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788486469.3632169,
+      "bankroll": 455.61,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Chicago Cubs"
     }
   ]
 }
