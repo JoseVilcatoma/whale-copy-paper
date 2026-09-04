@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 17:11:25 (hora de Perú)
+Actualizado: 2026-09-04 17:13:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 17:11:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $432.97)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $427.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | AV23IUa | 33 | 17 | 1 | +22.00 USD |
-| tikstt | 5 | 0 | 0 | +20.52 USD |
+| tikstt | 5 | 0 | 1 | +20.52 USD |
 | HongYunX | 7 | 3 | 0 | +17.46 USD |
 | Feromont | 5 | 1 | 1 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -772,6 +772,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 5.0% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ⏳ pendiente | — |
 | Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
@@ -801,4 +802,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ✅ ganada | +1.69 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 27.5% | ✅ ganada | +4.50 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ❌ perdida | -5.11 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 28.9% | ✅ ganada | +3.82 |

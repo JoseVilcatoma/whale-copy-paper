@@ -96314,5 +96314,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788559234.6920033,
     "fills": 3
+  },
+  {
+    "timestamp": 1788559944,
+    "timestamp_added": 1788559944.7762136,
+    "username": "tikstt",
+    "wallet": "0xe4a785280932b1de883176e17284a4ad19194a1d",
+    "slug": "mls-nyc-nas-2026-09-04-nas",
+    "title": "Will Nashville SC win on 2026-09-04?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 670.9808,
+    "whale_pct": 4.961,
+    "whale_value_at_open": 13523.9248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788559944.7762258,
+    "fills": 1
   }
 ]
