@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.8273473263875,
+  "bankroll": 472.06173194177217,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19120,6 +19120,21 @@
       "timestamp": 1788538107.8166685,
       "bankroll": 477.83,
       "event": "won: ferrariChampions2026 \u2014 W35 Kursumlijska Banja: Sara Cakarevic vs Giorgia Pedone"
+    },
+    {
+      "timestamp": 1788538293.7509532,
+      "bankroll": 472.69,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Black Phoenix vs UNiTY esports (BO3) - CCT Europe Series #8 Group Stage"
+    },
+    {
+      "timestamp": 1788538297.534258,
+      "bankroll": 477.19,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Billy Harris vs Felix Balshaw"
+    },
+    {
+      "timestamp": 1788538297.6344416,
+      "bankroll": 472.06,
+      "event": "lost: ferrariChampions2026 \u2014 Manacor: Billy Harris vs Felix Balshaw"
     }
   ]
 }

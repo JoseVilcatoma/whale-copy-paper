@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:09:39 (hora de Perú)
+Actualizado: 2026-09-04 11:11:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.83
-**Retorno acumulado:** -4.43%
+**Bankroll actual:** $472.06
+**Retorno acumulado:** -5.59%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 11:09:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $257.83)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $262.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 27 | 12 | +41.60 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 28 | 11 | +36.47 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 26 | 9 | 5 | -7.65 USD |
+| Flaznorp | 26 | 9 | 6 | -7.65 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 449 | 276 | 4 | -152.20 USD |
+| ferrariChampions2026 | 450 | 277 | 2 | -152.83 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3636
-- **Aciertos:** 2320 (63.8%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 3639
+- **Aciertos:** 2321 (63.8%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,155.24
-- **ROI sobre lo apostado:** -0.73%
-- **Comisiones pagadas (taker fee):** $333.59 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,170.24
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $333.97 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1829 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 1832 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 1090 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 497 | 85.9% | 86.7% | -0.8 pp |
 | 95-99% (casi seguro) | 220 | 96.4% | 97.3% | -1.0 pp |
@@ -768,6 +768,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
@@ -783,9 +784,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Tomas Etcheverry vs Mariano | Mariano Navone (BUY) | 50% | 5.00 | 8.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
 | fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Felix Balshaw (BUY) | 52% | 5.00 | 2.2% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
 | fRibrenlc | Counter-Strike: Team Falcons vs G2 (BO3) | Team Falcons (BUY) | 58% | 5.00 | 72.5% | ⏳ pendiente | — |
 | HongYunX | Real Betis Balompié vs. Real Madrid CF:  | Under (BUY) | 52% | 5.00 | 28.9% | ⏳ pendiente | — |
@@ -797,4 +798,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
 | HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 40.5% | ⏳ pendiente | — |
 | HongYunX | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 50% | 5.00 | 67.3% | ⏳ pendiente | — |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: HOTU vs Eternal Fire (BO | HOTU (BUY) | 73% | 5.00 | 25.5% | 💰 vendida anticipada | -0.55 |
