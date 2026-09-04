@@ -93496,8 +93496,8 @@
     "title": "Map Handicap: FAL (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 13115.179499999998,
-    "whale_pct": 57.989,
+    "whale_usd": 16004.545799999998,
+    "whale_pct": 70.765,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93508,8 +93508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489870.916332,
-    "fills": 3
+    "last_fill_at": 1788490781.3669362,
+    "fills": 5
   },
   {
     "timestamp": 1788488075,
@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 20174.2123,
-    "whale_pct": 89.201,
+    "whale_usd": 24453.8275,
+    "whale_pct": 108.124,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788489875.260166,
-    "fills": 3
+    "last_fill_at": 1788490778.5775332,
+    "fills": 4
   },
   {
     "timestamp": 1788488076,
