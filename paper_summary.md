@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 20:43:45 (hora de Perú)
+Actualizado: 2026-09-03 20:45:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.87
@@ -760,7 +760,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 51% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Francesca Jone | Iva Jovic (BUY) | 99% | 5.00 | 1.8% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Colorado vs. Georgia Tech | Georgia Tech (BUY) | 69% | 5.00 | 2.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 19.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 25.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Michael Zheng (BUY) | 70% | 5.00 | 24.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Paula Badosa vs Coco Gauff | Coco Gauff (BUY) | 79% | 5.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ❌ perdida | -5.14 |
