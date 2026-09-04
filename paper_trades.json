@@ -96266,5 +96266,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788555268.1447997,
     "fills": 4
+  },
+  {
+    "timestamp": 1788557079,
+    "timestamp_added": 1788557080.2826173,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-laa-pit-2026-09-04-total-8pt5",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 11551.9595,
+    "whale_pct": 13.985,
+    "whale_value_at_open": 82600.8492,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788557080.2826288,
+    "fills": 1
   }
 ]
