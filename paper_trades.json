@@ -92782,8 +92782,8 @@
     "title": "Milwaukee Brewers vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 635.8,
-    "whale_pct": 0.431,
+    "whale_usd": 12013.536493999998,
+    "whale_pct": 8.142,
     "whale_value_at_open": 147549.0128,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92797,8 +92797,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788477310.070185,
-    "fills": 1
+    "last_fill_at": 1788481226.4026968,
+    "fills": 2
   },
   {
     "timestamp": 1788477316,
@@ -92932,8 +92932,8 @@
     "title": "US Open WTA: Paula Badosa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 9344.810815,
-    "whale_pct": 4.718,
+    "whale_usd": 10586.810815,
+    "whale_pct": 5.346,
     "whale_value_at_open": 198047.1815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -92944,8 +92944,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788479376.8713162,
-    "fills": 4
+    "last_fill_at": 1788481192.8643968,
+    "fills": 5
   },
   {
     "timestamp": 1788478988,
