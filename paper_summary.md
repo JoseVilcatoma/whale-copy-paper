@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 19:24:47 (hora de Perú)
+Actualizado: 2026-09-03 19:26:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.25
@@ -753,7 +753,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Alex de Minaur (BUY) | 42% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Zachary Svajda vs Arthur Ge | Zachary Svajda (BUY) | 68% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 48% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 12.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 36.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 45% | 5.00 | 8.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Gael Monfils vs Learner Tie | Learner Tien (BUY) | 85% | 5.00 | 8.6% | ⏳ pendiente | — |
