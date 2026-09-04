@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 05:30:21 (hora de Perú)
+Actualizado: 2026-09-04 05:32:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.33
@@ -767,7 +767,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | KT Rolster (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: KT Rolster vs Dplus KIA - Game 3 Wi | Dplus KIA (BUY) | 56% | 5.00 | 24.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 56% | 5.00 | 37.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 29.4% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: 9INE vs Rune Eaters (BO3 | 9INE (BUY) | 65% | 5.00 | 46.2% | ⏳ pendiente | — |
 | RN1 | M15 Buzau: Jeremy Gschwendtner vs Nicola | Nicola Rispoli (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
 | BrotherObama | Game Handicap: AL (-1.5) vs LGD Gaming ( | LGD Gaming (BUY) | 56% | 5.00 | 29.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 43% | 5.00 | 79.9% | ⏳ pendiente | — |
