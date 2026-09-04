@@ -96052,8 +96052,8 @@
     "title": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 4977.5181,
-    "whale_pct": 9.954,
+    "whale_usd": 30459.518099999998,
+    "whale_pct": 60.911,
     "whale_value_at_open": 50006.8471,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -96064,7 +96064,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788544512.9664772,
-    "fills": 2
+    "last_fill_at": 1788544673.925404,
+    "fills": 7
   }
 ]
