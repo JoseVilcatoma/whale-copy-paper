@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.80425527552023,
+  "bankroll": 490.8724927160279,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19315,6 +19315,16 @@
       "timestamp": 1788553869.0708117,
       "bankroll": 484.8,
       "event": "won: fRibrenlc \u2014 Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788554813.1849039,
+      "bankroll": 487.9,
+      "event": "won: Flaznorp \u2014 US Open ATP: Alexander Bublik vs Tommy Paul"
+    },
+    {
+      "timestamp": 1788554815.2502646,
+      "bankroll": 490.87,
+      "event": "won: AV23IUa \u2014 US Open ATP: Alexander Bublik vs Tommy Paul"
     }
   ]
 }
