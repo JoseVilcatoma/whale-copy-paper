@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.3953208250707,
+  "bankroll": 476.3489520307445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18775,6 +18775,26 @@
       "timestamp": 1788489643.4486883,
       "bankroll": 455.4,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Yunchaokete Bu vs Michael Zheng"
+    },
+    {
+      "timestamp": 1788489898.8736324,
+      "bankroll": 460.68,
+      "event": "won: AV23IUa \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788489899.2171974,
+      "bankroll": 466.19,
+      "event": "won: pleaseplease123 \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788489899.3173926,
+      "bankroll": 471.47,
+      "event": "won: BrotherObama \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788489900.3921103,
+      "bankroll": 476.35,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers"
     }
   ]
 }

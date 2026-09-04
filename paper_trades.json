@@ -90993,8 +90993,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -92490,8 +92490,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -92566,8 +92566,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [
       "AV23IUa",
       "pleaseplease123"
@@ -93004,8 +93004,8 @@
     "title": "Colorado vs. Georgia Tech",
     "outcome": "Georgia Tech",
     "side": "BUY",
-    "whale_usd": 5875.866400000001,
-    "whale_pct": 2.49,
+    "whale_usd": 6481.066400000001,
+    "whale_pct": 2.747,
     "whale_value_at_open": 235969.6394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -93016,8 +93016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788480371.6303031,
-    "fills": 4
+    "last_fill_at": 1788489920.774304,
+    "fills": 5
   },
   {
     "timestamp": 1788481334,
@@ -93133,8 +93133,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "AV23IUa",
       "BrotherObama",
@@ -93496,8 +93496,8 @@
     "title": "Map Handicap: FAL (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 8685.0405,
-    "whale_pct": 38.401,
+    "whale_usd": 13115.179499999998,
+    "whale_pct": 57.989,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93508,8 +93508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788488983.0395806,
-    "fills": 2
+    "last_fill_at": 1788489870.916332,
+    "fills": 3
   },
   {
     "timestamp": 1788488075,
@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 14246.2314,
-    "whale_pct": 62.99,
+    "whale_usd": 20174.2123,
+    "whale_pct": 89.201,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788488984.638998,
-    "fills": 2
+    "last_fill_at": 1788489875.260166,
+    "fills": 3
   },
   {
     "timestamp": 1788488076,
