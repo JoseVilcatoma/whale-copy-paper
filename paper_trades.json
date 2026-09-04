@@ -93857,5 +93857,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788493279.458269,
     "fills": 1
+  },
+  {
+    "timestamp": 1788493751,
+    "timestamp_added": 1788493751.2258193,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zverev-halys-2026-09-03",
+    "title": "US Open ATP: Alexander Zverev vs Quentin Halys",
+    "outcome": "Quentin Halys",
+    "side": "BUY",
+    "whale_usd": 981.048,
+    "whale_pct": 0.566,
+    "whale_value_at_open": 173376.294,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788493751.2258291,
+    "fills": 1
   }
 ]
