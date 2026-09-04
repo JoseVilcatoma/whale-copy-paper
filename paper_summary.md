@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 11:11:44 (hora de Perú)
+Actualizado: 2026-09-04 11:13:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.06
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 11:11:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $262.06)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $247.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 26 | 9 | 6 | -7.65 USD |
+| Flaznorp | 26 | 9 | 9 | -7.65 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
@@ -757,6 +757,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kbo-doo-ssg-2026-09-04 | , ferrariChampions2026 |
 | kbo-han-lot-2026-09-04 | , ferrariChampions2026 |
 | atp-samrej-aguiard-2026-09-04 | Flaznorp, RN1, ferrariChampions2026 |
+| wta-pegula-fernand-2026-09-04 | Flaznorp, ferrariChampions2026 |
 | cs2-furia-vit-2026-09-04 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-bublik-paul-2026-09-04 | AV23IUa, Flaznorp |
 | wta-kostyuk-alexand-2026-09-04 | Flaznorp, ferrariChampions2026 |
@@ -768,7 +769,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
@@ -795,6 +799,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Alexander Bublik vs Tommy P | Tommy Paul (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 43% | 5.00 | 309.8% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 43% | 5.00 | 7.9% | ⏳ pendiente | — |
-| HongYunX | VfB Stuttgart vs. 1. FC Köln: O/U 3.5 | Under (BUY) | 50% | 5.00 | 40.5% | ⏳ pendiente | — |
-| HongYunX | Paris Saint-Germain FC vs. AS Monaco FC: | Under (BUY) | 50% | 5.00 | 67.3% | ⏳ pendiente | — |
