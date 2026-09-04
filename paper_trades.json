@@ -93504,8 +93504,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -93528,8 +93528,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -93552,8 +93552,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -95112,8 +95112,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7"
     ],
@@ -95212,8 +95212,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "BrotherObama"
@@ -95263,8 +95263,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "BrotherObama"
@@ -95510,8 +95510,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7"
     ],
@@ -95536,8 +95536,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "BrotherObama",
@@ -95949,8 +95949,8 @@
     "title": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 28888.600000000002,
-    "whale_pct": 58.97,
+    "whale_usd": 31115.218642000003,
+    "whale_pct": 63.516,
     "whale_value_at_open": 48988.3741,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -95964,7 +95964,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788539915.5316308,
-    "fills": 1
+    "last_fill_at": 1788540079.8339005,
+    "fills": 2
   }
 ]

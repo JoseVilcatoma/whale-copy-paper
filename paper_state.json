@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.06173194177217,
+  "bankroll": 453.53888302182463,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19135,6 +19135,46 @@
       "timestamp": 1788538297.6344416,
       "bankroll": 472.06,
       "event": "lost: ferrariChampions2026 \u2014 Manacor: Billy Harris vs Felix Balshaw"
+    },
+    {
+      "timestamp": 1788539996.3072557,
+      "bankroll": 466.98,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FAL (-1.5) vs G2 (+1.5)"
+    },
+    {
+      "timestamp": 1788539996.6166034,
+      "bankroll": 461.83,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788539997.0002632,
+      "bankroll": 456.69,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Falcons vs G2 - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788540001.9718661,
+      "bankroll": 451.54,
+      "event": "lost: BrotherObama \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788540003.5710802,
+      "bankroll": 446.4,
+      "event": "lost: fRibrenlc \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788540004.0362146,
+      "bankroll": 449.92,
+      "event": "won: fRibrenlc \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788540005.1104078,
+      "bankroll": 452.76,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Team Falcons vs G2 - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788540005.2106197,
+      "bankroll": 453.54,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs"
     }
   ]
 }
