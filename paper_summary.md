@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 14:20:11 (hora de Perú)
+Actualizado: 2026-09-04 14:22:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.57
-**Retorno acumulado:** -6.69%
+**Bankroll actual:** $468.27
+**Retorno acumulado:** -6.35%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 14:20:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $336.57)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $338.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| AV23IUa | 31 | 17 | 3 | +17.34 USD |
+| AV23IUa | 32 | 17 | 2 | +19.03 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-|  | 4 | 1 | 1 | +8.79 USD |
+|  | 4 | 1 | 2 | +8.79 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3666
-- **Aciertos:** 2338 (63.8%)
+- **Apuestas resueltas:** 3667
+- **Aciertos:** 2339 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,305.24
+- **Total apostado (suma de stakes):** $18,310.24
 - **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $336.57 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $336.63 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1848 | 50.3% | 50.1% | +0.3 pp |
-| 60-79% | 1096 | 69.7% | 67.8% | +1.9 pp |
+| 60-79% | 1097 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 499 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 223 | 96.4% | 97.4% | -0.9 pp |
 
@@ -769,6 +769,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Real Madrid CF win on 2026-09-04? | Yes (BUY) | 70% | 5.00 | 51.7% | ⏳ pendiente | — |
 | fRibrenlc | US Open ATP: Yibing Wu vs Carlos Alcaraz | Carlos Alcaraz (BUY) | 95% | 5.00 | 82.5% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 44% | 5.00 | 29.9% | 💰 vendida anticipada | +1.66 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: FURIA vs Vitality - Map  | Vitality (BUY) | 56% | 5.00 | 107.2% | ⏳ pendiente | — |
@@ -785,7 +786,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 6.7% | ✅ ganada | +0.05 |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ✅ ganada | +1.69 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | B8 (BUY) | 52% | 5.00 | 27.5% | ✅ ganada | +4.50 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 57% | 5.00 | 3.2% | ❌ perdida | -5.11 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Heroic vs Eternal Fire - | Heroic (BUY) | 56% | 5.00 | 28.9% | ✅ ganada | +3.82 |
@@ -798,4 +799,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Ekaterina  | Marta Kostyuk (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | W35 Kursumlijska Banja: Sara Cakarevic v | Giorgia Pedone (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Manacor: Billy Harris vs Felix Balshaw | Billy Harris (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
-| fRibrenlc | Manacor: Inaki Montes vs Jack Pinnington | Inaki Montes (BUY) | 96% | 5.00 | 125.9% | ✅ ganada | +0.20 |
