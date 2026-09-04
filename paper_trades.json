@@ -94342,8 +94342,8 @@
     "title": "Spread: Real Madrid CF (-1.5)",
     "outcome": "Real Betis Balompi\u00e9",
     "side": "BUY",
-    "whale_usd": 662.5999989999999,
-    "whale_pct": 0.288,
+    "whale_usd": 1247.679998,
+    "whale_pct": 0.542,
     "whale_value_at_open": 230221.9402,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -94354,7 +94354,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788506720.7227893,
-    "fills": 1
+    "last_fill_at": 1788507743.7853029,
+    "fills": 2
   }
 ]
