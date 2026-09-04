@@ -93100,8 +93100,8 @@
     "title": "US Open ATP: Zizou Bergs vs Jesper de Jong",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 34164.314903,
-    "whale_pct": 12.747,
+    "whale_usd": 36542.532029,
+    "whale_pct": 13.634,
     "whale_value_at_open": 268020.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -93114,8 +93114,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788486537.7900903,
-    "fills": 9
+    "last_fill_at": 1788486679.3250904,
+    "fills": 10
   },
   {
     "timestamp": 1788483128,
@@ -93274,8 +93274,8 @@
     "title": "Athletics vs. Seattle Mariners: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3366.1344,
-    "whale_pct": 1.714,
+    "whale_usd": 4086.9344,
+    "whale_pct": 2.082,
     "whale_value_at_open": 196337.3943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -93288,8 +93288,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788485822.982968,
-    "fills": 1
+    "last_fill_at": 1788486614.900408,
+    "fills": 2
   },
   {
     "timestamp": 1788485970,

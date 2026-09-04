@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 20:50:00 (hora de Perú)
+Actualizado: 2026-09-03 20:52:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $455.61
@@ -749,14 +749,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs Eternal Fir | Eternal Fire (BUY) | 74% | 5.00 | 36.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs Bushido Wild | Bushido Wildcats (BUY) | 70% | 5.00 | 8.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Kansas City Royals (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 42% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yunchaokete Bu vs Michael Z | Yunchaokete Bu (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 12.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Jesper de Jo | Zizou Bergs (BUY) | 63% | 5.00 | 13.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Yulia Starodubtseva (BUY) | 62% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 51% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Francesca Jone | Iva Jovic (BUY) | 99% | 5.00 | 1.8% | ✅ ganada | +0.05 |
