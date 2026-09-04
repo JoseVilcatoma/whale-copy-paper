@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.96276694868016,
+  "bankroll": 492.3201634528648,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18845,6 +18845,61 @@
       "timestamp": 1788499648.909632,
       "bankroll": 478.96,
       "event": "won: 1winstreak1 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788499960.1338253,
+      "bankroll": 483.64,
+      "event": "won: pleaseplease123 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788499960.2339528,
+      "bankroll": 485.43,
+      "event": "won: Talvez10 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788499960.3340926,
+      "bankroll": 489.74,
+      "event": "won: Talvez10 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788499961.3249266,
+      "bankroll": 491.52,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788499961.4251068,
+      "bankroll": 486.39,
+      "event": "lost: BrotherObama \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1788499961.817368,
+      "bankroll": 489.9,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1788499962.6291802,
+      "bankroll": 493.88,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788499962.7293236,
+      "bankroll": 488.75,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788499962.9295712,
+      "bankroll": 495.24,
+      "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788499963.2215083,
+      "bankroll": 490.15,
+      "event": "lost: 1winstreak1 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788499963.6111367,
+      "bankroll": 492.32,
+      "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
     }
   ]
 }

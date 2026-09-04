@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 00:30:50 (hora de Perú)
+Actualizado: 2026-09-04 00:32:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.96
-**Retorno acumulado:** -4.21%
+**Bankroll actual:** $492.32
+**Retorno acumulado:** -1.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 00:30:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $328.96)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $397.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 17 | 11 | 0 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | BBQChickenisthebesttt | 7 | 3 | 0 | +7.47 USD |
-| BrotherObama | 4 | 2 | 1 | +6.91 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -53,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 2 | 2 | 0 | +4.65 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | monkeymashingkeyboard | 10 | 8 | 1 | +3.29 USD |
@@ -70,6 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
+| BrotherObama | 4 | 3 | 0 | +1.78 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -79,6 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 10 | 7 | 0 | +0.40 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
+| Talvez10 | 4 | 3 | 0 | +0.20 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Diabolical-Prize | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 1 | +0.00 USD |
@@ -86,16 +88,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| 1winstreak1 | 6 | 4 | 2 | -0.71 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | zofgkt1111 | 3 | 2 | 0 | -1.38 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 2 | 1 | -1.83 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| 1winstreak1 | 7 | 5 | 0 | -3.63 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -105,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
 | Flaznorp | 25 | 8 | 1 | -5.76 USD |
-| Talvez10 | 2 | 3 | 2 | -5.90 USD |
+| pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -115,7 +116,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| pleaseplease123 | 10 | 11 | 1 | -11.12 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 439 | 271 | 9 | -158.45 USD |
+| ferrariChampions2026 | 442 | 272 | 5 | -154.30 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3585
-- **Aciertos:** 2289 (63.8%)
+- **Apuestas resueltas:** 3596
+- **Aciertos:** 2297 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,900.24
-- **ROI sobre lo apostado:** -0.73%
-- **Comisiones pagadas (taker fee):** $328.36 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,955.24
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $329.52 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,8 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1799 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1073 | 69.6% | 67.8% | +1.8 pp |
+| 40-59% | 1806 | 50.5% | 50.1% | +0.4 pp |
+| 60-79% | 1077 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 494 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 219 | 96.3% | 97.3% | -1.0 pp |
 
@@ -760,27 +760,27 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Athletics vs. Seattle Mariners | Athletics (BUY) | 79% | 5.00 | 14.9% | ✅ ganada | +1.28 |
 | Feromont | Athletics vs. Seattle Mariners | Athletics (BUY) | 59% | 5.00 | 23.4% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Quentin Halys (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 5.00 | 8.7% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: St. Louis Cardinals (-1.5) | Los Angeles Dodgers (BUY) | 69% | 5.00 | 8.7% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | James Kent Trotter (BUY) | 68% | 5.00 | 3.9% | ⏳ pendiente | — |
-| 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 24.0% | ⏳ pendiente | — |
+| 1winstreak1 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 65% | 5.00 | 24.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Zhangjiagang: Mitsuki Wei Kang Leong vs  | Mitsuki Wei Kang Leong (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 46% | 5.00 | 60.6% | ❌ perdida | -5.13 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 43% | 5.00 | 66.9% | ✅ ganada | +6.48 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: B8 vs Nuclear TigeRES (B | Nuclear TigeRES (BUY) | 43% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 10.5 | Under (BUY) | 66% | 5.00 | 0.5% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 28.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | St. Louis Cardinals (BUY) | 48% | 5.00 | 28.4% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 75% | 5.00 | 3.3% | ❌ perdida | -5.06 |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | St. Louis Cardinals (BUY) | 55% | 5.00 | 0.5% | ✅ ganada | +3.98 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 48% | 5.00 | 11.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 - Map | G2 (BUY) | 41% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Falcons vs G2 (BO3) | G2 (BUY) | 41% | 5.00 | 149.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs G2 (+1.5) | G2 (BUY) | 68% | 5.00 | 97.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-2.5) | St. Louis Cardinals (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-2.5) | St. Louis Cardinals (BUY) | 58% | 5.00 | 1.9% | ✅ ganada | +3.52 |
 | TAIWANNUMBERONE | LoL: KT Rolster vs Dplus KIA (BO5) - LCK | Dplus KIA (BUY) | 65% | 5.00 | 649.9% | ⏳ pendiente | — |
-| BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ⏳ pendiente | — |
+| BrotherObama | Spread: Los Angeles Dodgers (-2.5) | Los Angeles Dodgers (BUY) | 46% | 5.00 | 13.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open WTA: Jessica Bouzas Maneiro vs E | Elena Rybakina (BUY) | 81% | 5.00 | 9.7% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 23.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 99.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 73% | 5.00 | 23.0% | ✅ ganada | +1.78 |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Quentin | Alexander Zverev (BUY) | 85% | 5.00 | 100.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 41% | 5.00 | 5.5% | ✅ ganada | +7.05 |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 64% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Over (BUY) | 49% | 5.00 | 2.4% | ✅ ganada | +5.08 |
