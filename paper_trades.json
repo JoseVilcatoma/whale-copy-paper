@@ -93496,8 +93496,8 @@
     "title": "Map Handicap: FAL (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 21139.6651,
-    "whale_pct": 93.47,
+    "whale_usd": 22081.585099999997,
+    "whale_pct": 97.635,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93508,8 +93508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788493474.3048348,
-    "fills": 8
+    "last_fill_at": 1788494370.3524354,
+    "fills": 9
   },
   {
     "timestamp": 1788488075,
@@ -93520,8 +93520,8 @@
     "title": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 31282.5167,
-    "whale_pct": 138.317,
+    "whale_usd": 32403.9266,
+    "whale_pct": 143.276,
     "whale_value_at_open": 22616.496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -93532,8 +93532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788493477.5486655,
-    "fills": 7
+    "last_fill_at": 1788494372.8168483,
+    "fills": 8
   },
   {
     "timestamp": 1788488076,
@@ -93819,8 +93819,8 @@
     "title": "Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter",
     "outcome": "James Kent Trotter",
     "side": "BUY",
-    "whale_usd": 715.214848,
-    "whale_pct": 0.281,
+    "whale_usd": 7756.497069999999,
+    "whale_pct": 3.053,
     "whale_value_at_open": 254079.8034,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -93831,8 +93831,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788493190.1890228,
-    "fills": 1
+    "last_fill_at": 1788494391.7551966,
+    "fills": 3
   },
   {
     "timestamp": 1788493279,
