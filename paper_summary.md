@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 12:10:24 (hora de Perú)
+Actualizado: 2026-09-04 12:12:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $456.87
-**Retorno acumulado:** -8.63%
+**Bankroll actual:** $459.81
+**Retorno acumulado:** -8.04%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 12:10:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $271.87)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $289.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 50 | 31 | 8 | +21.09 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 51 | 31 | 7 | +23.93 USD |
 | AV23IUa | 31 | 17 | 3 | +17.34 USD |
 | Feromont | 5 | 1 | 0 | +16.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -105,7 +105,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| Flaznorp | 28 | 9 | 11 | -5.91 USD |
+| Flaznorp | 30 | 9 | 9 | -5.81 USD |
 | pleaseplease123 | 11 | 11 | 0 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3654
-- **Aciertos:** 2329 (63.7%)
-- **Cuota promedio de entrada:** 63.2%
+- **Apuestas resueltas:** 3657
+- **Aciertos:** 2332 (63.8%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,245.24
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $335.48 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,260.24
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $335.58 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,9 +145,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1841 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1094 | 69.7% | 67.8% | +1.8 pp |
+| 60-79% | 1095 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 498 | 85.9% | 86.7% | -0.7 pp |
-| 95-99% (casi seguro) | 221 | 96.4% | 97.3% | -1.0 pp |
+| 95-99% (casi seguro) | 223 | 96.4% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -773,14 +773,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open WTA: Taylor Townsend vs Diana Sh | Taylor Townsend (BUY) | 43% | 5.00 | 44.5% | ⏳ pendiente | — |
 | fRibrenlc | Counter-Strike: FURIA vs Vitality (BO3)  | Vitality (BUY) | 66% | 5.00 | 86.9% | ⏳ pendiente | — |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Manacor: Alejo Sanchez Quilez vs Mark La | Mark Lajal (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | US Open WTA: Jasmine Paolini vs Sorana C | Sorana Cirstea (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | Flaznorp | Abha Saudi Club vs. Al Ettifaq Saudi Clu | Over (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: Both  | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Athletic Club win on 2026-09-05? | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Leylah Fe | Jessica Pegula (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Olympique Lyonnais vs. AJ Auxerre: O/U 2 | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 6.7% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Aryna Sabalenka vs Kamilla  | Aryna Sabalenka (BUY) | 99% | 5.00 | 6.7% | ✅ ganada | +0.05 |
 | HongYunX | Will Nordic United FC win on 2026-09-04? | No (BUY) | 58% | 5.00 | 9.3% | ⏳ pendiente | — |
 | HongYunX | Fredrikstad FK vs. FK Bodø/Glimt: O/U 3. | Under (BUY) | 51% | 5.00 | 52.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Arthur R | Daniil Medvedev (BUY) | 74% | 5.00 | 1.9% | ⏳ pendiente | — |

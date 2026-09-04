@@ -1,5 +1,5 @@
 {
-  "bankroll": 456.8675706028231,
+  "bankroll": 459.8070886403411,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19210,6 +19210,21 @@
       "timestamp": 1788541567.0469933,
       "bankroll": 456.87,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Marta Kostyuk vs Ekaterina Alexandrova"
+    },
+    {
+      "timestamp": 1788541874.616051,
+      "bankroll": 459.71,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Isurus vs Peladona (BO3) - CCT South America Series 5 Playoffs"
+    },
+    {
+      "timestamp": 1788541879.4911473,
+      "bankroll": 459.76,
+      "event": "won: Flaznorp \u2014 US Open WTA: Aryna Sabalenka vs Kamilla Rakhimova"
+    },
+    {
+      "timestamp": 1788541881.4332073,
+      "bankroll": 459.81,
+      "event": "won: Flaznorp \u2014 Manacor: Alejo Sanchez Quilez vs Mark Lajal"
     }
   ]
 }
