@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.6179753384031,
+  "bankroll": 477.10288231514727,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19295,6 +19295,11 @@
       "timestamp": 1788551965.6234937,
       "bankroll": 470.62,
       "event": "won: Flaznorp \u2014 Abha Saudi Club vs. Al Ettifaq Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1788552534.0325205,
+      "bankroll": 477.1,
+      "event": "won:  \u2014 US Open WTA: Taylor Townsend vs Diana Shnaider"
     }
   ]
 }
