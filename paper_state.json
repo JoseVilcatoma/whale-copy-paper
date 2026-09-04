@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.9170696012407,
+  "bankroll": 466.57371732851345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19270,6 +19270,11 @@
       "timestamp": 1788549419.8098402,
       "bankroll": 464.92,
       "event": "won: Flaznorp \u2014 Olympique Lyonnais vs. AJ Auxerre: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788549564.6985853,
+      "bankroll": 466.57,
+      "event": "venta anticipada: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs (+1.66 USD)"
     }
   ]
 }
