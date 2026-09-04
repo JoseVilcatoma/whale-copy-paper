@@ -92980,8 +92980,8 @@
     "title": "Counter-Strike: HOTU vs Eternal Fire (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 2284.0292,
-    "whale_pct": 7.03,
+    "whale_usd": 2914.3799,
+    "whale_pct": 8.971,
     "whale_value_at_open": 32488.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -92992,8 +92992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788480866.3272936,
-    "fills": 2
+    "last_fill_at": 1788481764.9102273,
+    "fills": 3
   },
   {
     "timestamp": 1788480004,
@@ -93065,6 +93065,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788481629.7288172,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788481814,
+    "timestamp_added": 1788481814.399092,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-sakkari-starodu-2026-09-02",
+    "title": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
+    "outcome": "Yulia Starodubtseva",
+    "side": "BUY",
+    "whale_usd": 1412.070519,
+    "whale_pct": 0.53,
+    "whale_value_at_open": 266251.8344,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788481814.3991027,
     "fills": 1
   }
 ]
