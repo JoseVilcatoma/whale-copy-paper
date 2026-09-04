@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.04679904228345,
+  "bankroll": 506.5157176469346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18960,6 +18960,11 @@
       "timestamp": 1788519580.437605,
       "bankroll": 503.05,
       "event": "venta anticipada: zofgkt1111 \u2014 LoL: KT Rolster vs Dplus KIA - Game 4 Winner (-0.35 USD)"
+    },
+    {
+      "timestamp": 1788519666.2922366,
+      "bankroll": 506.52,
+      "event": "venta anticipada: BrotherObama \u2014 LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs (+3.47 USD)"
     }
   ]
 }

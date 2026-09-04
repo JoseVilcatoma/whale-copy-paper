@@ -94548,8 +94548,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.47,
     "overlaps_with": [
       "BBQChickenisthebesttt",
       "Diabolical-Prize",
@@ -94558,7 +94558,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788511997.6447692,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.252,
+    "closed_price": 75
   },
   {
     "timestamp": 1788512160,
@@ -94868,5 +94870,55 @@
     "fills": 4,
     "fee_total_usd": 0.25,
     "closed_price": 49
+  },
+  {
+    "timestamp": 1788519648,
+    "timestamp_added": 1788519649.8725264,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-kt-dk-2026-09-04-game4",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 10955.6015,
+    "whale_pct": 14.795,
+    "whale_value_at_open": 74048.2324,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788519741.0511017,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788519729,
+    "timestamp_added": 1788519730.6611016,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-kt-dk-2026-09-04-game4",
+    "title": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 2999.999999,
+    "whale_pct": 2.674,
+    "whale_value_at_open": 112187.3803,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "zofgkt1111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788519730.661113,
+    "fills": 1
   }
 ]
