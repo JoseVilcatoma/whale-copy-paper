@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.3201634528648,
+  "bankroll": 496.1387348814362,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18900,6 +18900,11 @@
       "timestamp": 1788499963.6111367,
       "bankroll": 492.32,
       "event": "won: 1winstreak1 \u2014 Spread: St. Louis Cardinals (-1.5)"
+    },
+    {
+      "timestamp": 1788502154.3311002,
+      "bankroll": 496.14,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Kansas City Royals: O/U 8.5"
     }
   ]
 }
