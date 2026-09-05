@@ -96882,8 +96882,8 @@
     "title": "Will Nottingham Forest FC win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 25095.620299999995,
-    "whale_pct": 32.537,
+    "whale_usd": 40129.242,
+    "whale_pct": 52.029,
     "whale_value_at_open": 77128.4439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -96894,8 +96894,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788567575.5366912,
-    "fills": 2
+    "last_fill_at": 1788568090.4569168,
+    "fills": 3
   },
   {
     "timestamp": 1788567588,

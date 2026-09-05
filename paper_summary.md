@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 19:26:18 (hora de Perú)
+Actualizado: 2026-09-04 19:28:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.06
@@ -778,7 +778,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 20.1% | ⏳ pendiente | — |
 | AV23IUa | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | AV23IUa | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 50% | 5.00 | 30.7% | ⏳ pendiente | — |
-| AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 32.5% | ⏳ pendiente | — |
+| AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 52.0% | ⏳ pendiente | — |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes (BUY) | 59% | 5.00 | 68.0% | ⏳ pendiente | — |
 | AV23IUa | Will Newcastle United FC win on 2026-09- | Yes (BUY) | 47% | 5.00 | 285.0% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 64% | 5.00 | 74.7% | ⏳ pendiente | — |
