@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 23:35:41 (hora de Perú)
+Actualizado: 2026-09-04 23:37:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $467.27
-**Retorno acumulado:** -6.55%
+**Bankroll actual:** $472.34
+**Retorno acumulado:** -5.53%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 23:35:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $377.27)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $382.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 454 | 282 | 3 | -172.39 USD |
+| ferrariChampions2026 | 455 | 282 | 3 | -167.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3724
-- **Aciertos:** 2373 (63.7%)
+- **Apuestas resueltas:** 3725
+- **Aciertos:** 2374 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,595.24
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $342.66 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,600.24
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $342.79 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1886 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1887 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1113 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -776,13 +776,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 4.7% | ⏳ pendiente | — |
 | kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Elina Svitolina vs Anna Kal | Elina Svitolina (BUY) | 67% | 5.00 | 0.6% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 49% | 5.00 | 0.5% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -805,4 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ✅ ganada | +2.61 |
 |  | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 54% | 5.00 | 27.8% | ❌ perdida | -5.12 |
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ✅ ganada | +3.23 |
-|  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ❌ perdida | -5.11 |
