@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 23:31:32 (hora de Perú)
+Actualizado: 2026-09-04 23:33:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.27
@@ -776,7 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 4.7% | ⏳ pendiente | — |
 | kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ❌ perdida | -5.13 |
