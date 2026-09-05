@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:33:56 (hora de Perú)
+Actualizado: 2026-09-05 08:35:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $455.82
@@ -793,7 +793,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 57% | 5.00 | 15.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 51% | 5.00 | 16.5% | ⏳ pendiente | — |
 | AV23IUa | Will Bayer 04 Leverkusen win on 2026-09- | Yes (BUY) | 72% | 5.00 | 11.7% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | JD Gaming (BUY) | 59% | 5.00 | 21.8% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | JD Gaming (BUY) | 59% | 5.00 | 24.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 87% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds: O | Under (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
