@@ -98623,8 +98623,8 @@
     "title": "US Open WTA: Cristina Bucsa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 17410.979999999996,
-    "whale_pct": 7.236,
+    "whale_usd": 23617.430599999996,
+    "whale_pct": 9.815,
     "whale_value_at_open": 240628.6982,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -98635,8 +98635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788606055.9442549,
-    "fills": 2
+    "last_fill_at": 1788638193.490983,
+    "fills": 3
   },
   {
     "timestamp": 1788606122,
@@ -99762,8 +99762,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100458,8 +100458,8 @@
     "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
     "outcome": "Far\u00e9s Ziam",
     "side": "BUY",
-    "whale_usd": 58472.791685000004,
-    "whale_pct": 112.574,
+    "whale_usd": 75816.939085,
+    "whale_pct": 145.966,
     "whale_value_at_open": 51941.5903,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -100470,8 +100470,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637818.7846684,
-    "fills": 7
+    "last_fill_at": 1788638188.1368592,
+    "fills": 8
   },
   {
     "timestamp": 1788634598,
