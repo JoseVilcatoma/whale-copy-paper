@@ -101850,8 +101850,8 @@
     "title": "Bergs vs. Zandschulp: Match O/U 36.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 5624.74999,
-    "whale_pct": 38.755,
+    "whale_usd": 9044.009988,
+    "whale_pct": 62.314,
     "whale_value_at_open": 14513.5484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -101862,8 +101862,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788648023.3226166,
-    "fills": 4
+    "last_fill_at": 1788648560.4811988,
+    "fills": 5
   },
   {
     "timestamp": 1788647849,
