@@ -1,5 +1,5 @@
 {
-  "bankroll": 409.1953922245798,
+  "bankroll": 404.0623922245798,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20185,6 +20185,11 @@
       "timestamp": 1788640042.460692,
       "bankroll": 409.2,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexander Blockx vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1788641749.7322528,
+      "bankroll": 404.06,
+      "event": "lost: ferrariChampions2026 \u2014 CS Mar\u00edtimo vs. Sport Lisboa e Benfica: O/U 2.5"
     }
   ]
 }
