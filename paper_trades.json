@@ -97270,8 +97270,8 @@
     "title": "US Open ATP: Ben Shelton vs Denis Shapovalov",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 23635.367318,
-    "whale_pct": 15.422,
+    "whale_usd": 24593.407318,
+    "whale_pct": 16.047,
     "whale_value_at_open": 153255.5947,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -97282,8 +97282,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788585188.4797618,
-    "fills": 6
+    "last_fill_at": 1788585237.9005394,
+    "fills": 7
   },
   {
     "timestamp": 1788582949,
@@ -97380,5 +97380,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788584108.627822,
     "fills": 2
+  },
+  {
+    "timestamp": 1788585294,
+    "timestamp_added": 1788585294.9139123,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bun-wer-lei-2026-09-05-total-3pt5",
+    "title": "SV Werder Bremen vs. RB Leipzig: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 915.9382,
+    "whale_pct": 0.577,
+    "whale_value_at_open": 158823.1362,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788585294.913922,
+    "fills": 1
   }
 ]
