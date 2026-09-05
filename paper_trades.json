@@ -97960,8 +97960,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 42262.99889,
-    "whale_pct": 28.467,
+    "whale_usd": 45543.58717500001,
+    "whale_pct": 30.676,
     "whale_value_at_open": 148464.6019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -97972,8 +97972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788640098.4067016,
-    "fills": 10
+    "last_fill_at": 1788640671.6561832,
+    "fills": 12
   },
   {
     "timestamp": 1788597354,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 65444.851766,
-    "whale_pct": 19.028,
+    "whale_usd": 66455.962877,
+    "whale_pct": 19.322,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639557.3956108,
-    "fills": 16
+    "last_fill_at": 1788640661.7796962,
+    "fills": 17
   },
   {
     "timestamp": 1788635522,
@@ -101118,8 +101118,8 @@
     "title": "San Francisco Giants vs. New York Mets",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 1984.3200000000002,
-    "whale_pct": 0.415,
+    "whale_usd": 3111.979574,
+    "whale_pct": 0.65,
     "whale_value_at_open": 478556.7023,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -101130,8 +101130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639496.4096615,
-    "fills": 1
+    "last_fill_at": 1788640603.494543,
+    "fills": 2
   },
   {
     "timestamp": 1788639533,
