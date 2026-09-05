@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.09560496838793,
+  "bankroll": 439.9061739682071,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19810,6 +19810,16 @@
       "timestamp": 1788621453.2373986,
       "bankroll": 436.1,
       "event": "lost: ferrariChampions2026 \u2014 Will ACF Fiorentina win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788622034.5517523,
+      "bankroll": 439.76,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Spirit vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788622035.4058557,
+      "bankroll": 439.91,
+      "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: Spirit vs Team Falcons - Map 1 Winner"
     }
   ]
 }
