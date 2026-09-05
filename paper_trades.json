@@ -101018,8 +101018,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 26790.077111,
-    "whale_pct": 20.77,
+    "whale_usd": 29166.309332999997,
+    "whale_pct": 22.612,
     "whale_value_at_open": 128984.485,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -101032,8 +101032,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788648963.5965874,
-    "fills": 5
+    "last_fill_at": 1788649514.9071844,
+    "fills": 6
   },
   {
     "timestamp": 1788639425,
@@ -101310,8 +101310,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 51781.090393000006,
-    "whale_pct": 32.575,
+    "whale_usd": 95110.61039300001,
+    "whale_pct": 59.833,
     "whale_value_at_open": 158959.1787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -101322,8 +101322,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788648910.0765493,
-    "fills": 13
+    "last_fill_at": 1788649409.9536858,
+    "fills": 14
   },
   {
     "timestamp": 1788641653,
