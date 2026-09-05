@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:42:28 (hora de Perú)
+Actualizado: 2026-09-05 13:44:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $431.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:42:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $201.05)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $196.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 487 | 302 | 29 | -162.36 USD |
+| ferrariChampions2026 | 487 | 302 | 30 | -162.36 USD |
 
 ## Análisis general
 
@@ -792,6 +792,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Francisco Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. Atalanta BC: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Beşiktaş JK: O/U 3.5 | Under (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Inaki Montes | Inaki Montes (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 6.1% | ⏳ pendiente | — |
 | monkeymashingkeyboard | US Open WTA: Naomi Osaka vs Elise Merten | Naomi Osaka (BUY) | 74% | 5.00 | 70.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |

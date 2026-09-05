@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 49697.008689999995,
-    "whale_pct": 13.999,
+    "whale_usd": 51717.10008999999,
+    "whale_pct": 14.568,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788633009.9824045,
-    "fills": 7
+    "last_fill_at": 1788633756.6168773,
+    "fills": 8
   },
   {
     "timestamp": 1788613644,
@@ -100424,5 +100424,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788633672.4166505,
     "fills": 1
+  },
+  {
+    "timestamp": 1788633806,
+    "timestamp_added": 1788633806.561189,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-cerundo-2026-09-04",
+    "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "whale_usd": 7953.0916,
+    "whale_pct": 2.23,
+    "whale_value_at_open": 356611.1587,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788633864.8495955,
+    "fills": 5
   }
 ]
