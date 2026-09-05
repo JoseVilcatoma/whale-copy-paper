@@ -97610,8 +97610,8 @@
     "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
     "outcome": "Yanaki Milev",
     "side": "BUY",
-    "whale_usd": 11372.759410000002,
-    "whale_pct": 10.136,
+    "whale_usd": 14709.879517000003,
+    "whale_pct": 13.111,
     "whale_value_at_open": 112197.0228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -97622,8 +97622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788611030.8720145,
-    "fills": 8
+    "last_fill_at": 1788611144.335678,
+    "fills": 10
   },
   {
     "timestamp": 1788592774,
@@ -98931,5 +98931,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788611007.0246043,
     "fills": 1
+  },
+  {
+    "timestamp": 1788611098,
+    "timestamp_added": 1788611098.3467233,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-nip-jdg-2026-09-05",
+    "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 550.8000000000001,
+    "whale_pct": 0.159,
+    "whale_value_at_open": 346190.0283,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788611098.3467345,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788611130,
+    "timestamp_added": 1788611131.0797842,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-nip-jdg-2026-09-05-game2",
+    "title": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 3518.8599999999997,
+    "whale_pct": 3.893,
+    "whale_value_at_open": 90391.4858,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788611135.242806,
+    "fills": 2
   }
 ]

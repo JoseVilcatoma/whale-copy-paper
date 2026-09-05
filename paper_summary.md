@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 07:24:26 (hora de Perú)
+Actualizado: 2026-09-05 07:26:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 07:24:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $183.67)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $173.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| zofgkt1111 | 8 | 7 | 1 | +6.09 USD |
+| zofgkt1111 | 8 | 7 | 2 | +6.09 USD |
 | monkeymashingkeyboard | 11 | 8 | 0 | +6.01 USD |
 | Flaznorp | 36 | 11 | 1 | +5.93 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 461 | 285 | 36 | -170.11 USD |
+| ferrariChampions2026 | 461 | 285 | 37 | -170.11 USD |
 
 ## Análisis general
 
@@ -773,7 +773,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
 | mlb-det-cle-2026-09-04 | ferrariChampions2026, pleaseplease123 |
 | mlb-laa-pit-2026-09-04 | , Feromont |
-| lol-nip-jdg-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE |
+| lol-nip-jdg-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-gen-hle1-2026-09-05-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 | lol-ig1-tes-2026-09-05-game2 | , TAIWANNUMBERONE |
 | lol-ig1-tes-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
@@ -784,6 +784,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
@@ -812,5 +814,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Will Salahdine Parnasse win by KO or TKO | Yes (BUY) | 55% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Seoul vs. Incheon United FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
