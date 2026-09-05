@@ -96930,8 +96930,8 @@
     "title": "Spread: Manchester City FC (-1.5)",
     "outcome": "Manchester City FC",
     "side": "BUY",
-    "whale_usd": 1438.9523000000002,
-    "whale_pct": 1.141,
+    "whale_usd": 2149.1724000000004,
+    "whale_pct": 1.704,
     "whale_value_at_open": 126114.2483,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -96942,8 +96942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788567735.5244365,
-    "fills": 1
+    "last_fill_at": 1788591609.9821026,
+    "fills": 2
   },
   {
     "timestamp": 1788567786,
@@ -97462,8 +97462,8 @@
     "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 11338.777,
-    "whale_pct": 117.091,
+    "whale_usd": 15566.972399999999,
+    "whale_pct": 160.753,
     "whale_value_at_open": 9683.7615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -97474,8 +97474,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788590707.5300977,
-    "fills": 5
+    "last_fill_at": 1788591593.8883824,
+    "fills": 6
   },
   {
     "timestamp": 1788591138,
