@@ -101262,8 +101262,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 1296.785574,
-    "whale_pct": 0.348,
+    "whale_usd": 3200.3155730000003,
+    "whale_pct": 0.858,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -101274,8 +101274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788641448.04538,
-    "fills": 1
+    "last_fill_at": 1788641620.1444168,
+    "fills": 2
   },
   {
     "timestamp": 1788641480,
@@ -101299,6 +101299,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788641481.2785478,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788641630,
+    "timestamp_added": 1788641630.989416,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tb-tex-2026-09-05",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 43472.638761,
+    "whale_pct": 27.348,
+    "whale_value_at_open": 158959.1787,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788641676.0545542,
+    "fills": 8
+  },
+  {
+    "timestamp": 1788641653,
+    "timestamp_added": 1788641654.3837276,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-tex-2026-09-05",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 10207.759998999998,
+    "whale_pct": 2.663,
+    "whale_value_at_open": 383277.4846,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788641654.3837392,
     "fills": 1
   }
 ]
