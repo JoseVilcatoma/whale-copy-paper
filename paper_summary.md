@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:33:50 (hora de Perú)
+Actualizado: 2026-09-05 05:35:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $463.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 05:33:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $188.82)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $183.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| zofgkt1111 | 6 | 5 | 4 | +7.67 USD |
+| zofgkt1111 | 6 | 5 | 5 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -781,6 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 23.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: GEN (-2.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 54% | 5.00 | 46.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Nottingham Forest FC vs. Tottenham Hotsp | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Gen.G (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
