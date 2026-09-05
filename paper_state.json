@@ -1,5 +1,5 @@
 {
-  "bankroll": 377.0130982545192,
+  "bankroll": 376.1371708987699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20250,6 +20250,21 @@
       "timestamp": 1788642992.046544,
       "bankroll": 377.01,
       "event": "lost: ferrariChampions2026 \u2014 Villarreal CF vs. RC Deportivo A Coru\u00f1a: O/U 3.5"
+    },
+    {
+      "timestamp": 1788643912.6846087,
+      "bankroll": 371.87,
+      "event": "lost: Talvez10 \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1788643916.6656792,
+      "bankroll": 374.36,
+      "event": "won: Jsram \u2014 UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)"
+    },
+    {
+      "timestamp": 1788643921.138969,
+      "bankroll": 376.14,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)"
     }
   ]
 }

@@ -99317,8 +99317,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100659,8 +100659,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101238,8 +101238,8 @@
     "title": "UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",
     "outcome": "Salahdine Parnasse",
     "side": "BUY",
-    "whale_usd": 5969.138428,
-    "whale_pct": 1.601,
+    "whale_usd": 6738.824142,
+    "whale_pct": 1.807,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -101250,8 +101250,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788643431.8513014,
-    "fills": 5
+    "last_fill_at": 1788643894.7602265,
+    "fills": 6
   },
   {
     "timestamp": 1788641447,
@@ -101262,8 +101262,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 11776.088973000002,
-    "whale_pct": 3.158,
+    "whale_usd": 18018.418034000002,
+    "whale_pct": 4.832,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -101274,8 +101274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788643785.9080937,
-    "fills": 6
+    "last_fill_at": 1788643911.5005662,
+    "fills": 8
   },
   {
     "timestamp": 1788641480,
@@ -101367,8 +101367,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [
       "Jsram"
     ],
