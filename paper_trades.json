@@ -101214,8 +101214,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 13762.589000000002,
-    "whale_pct": 3.691,
+    "whale_usd": 17343.389000000003,
+    "whale_pct": 4.651,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -101226,8 +101226,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788641507.4199815,
-    "fills": 7
+    "last_fill_at": 1788641843.7463298,
+    "fills": 8
   },
   {
     "timestamp": 1788641408,
@@ -101238,8 +101238,8 @@
     "title": "UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",
     "outcome": "Salahdine Parnasse",
     "side": "BUY",
-    "whale_usd": 790.0,
-    "whale_pct": 0.212,
+    "whale_usd": 1422.0,
+    "whale_pct": 0.381,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -101250,8 +101250,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788641408.5905862,
-    "fills": 1
+    "last_fill_at": 1788641920.011074,
+    "fills": 2
   },
   {
     "timestamp": 1788641447,
@@ -101349,6 +101349,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788641654.3837392,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788641910,
+    "timestamp_added": 1788641910.392564,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-mic32-nur1-2026-09-05",
+    "title": "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)",
+    "outcome": "Michael Page",
+    "side": "BUY",
+    "whale_usd": 1788.48,
+    "whale_pct": 0.474,
+    "whale_value_at_open": 377099.6948,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Jsram"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788641910.392577,
     "fills": 1
   }
 ]
