@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.9435696048957,
+  "bankroll": 435.68914103346714,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20040,6 +20040,16 @@
       "timestamp": 1788631992.0728993,
       "bankroll": 436.94,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Madison Keys vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788632932.0125196,
+      "bankroll": 431.87,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Nathaniel Wood vs. Pavel Andrusca (Featherweight, Prelims)"
+    },
+    {
+      "timestamp": 1788632932.3129697,
+      "bankroll": 435.69,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Nathaniel Wood vs. Pavel Andrusca (Featherweight, Prelims)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:27:54 (hora de Perú)
+Actualizado: 2026-09-05 13:29:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $436.94
-**Retorno acumulado:** -12.61%
+**Bankroll actual:** $435.69
+**Retorno acumulado:** -12.86%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:27:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $221.94)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $230.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,17 +126,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 485 | 300 | 25 | -161.54 USD |
+| ferrariChampions2026 | 486 | 301 | 23 | -162.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3815
-- **Aciertos:** 2422 (63.5%)
+- **Apuestas resueltas:** 3817
+- **Aciertos:** 2423 (63.5%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,050.24
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $351.99 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $19,060.24
+- **ROI sobre lo apostado:** -0.97%
+- **Comisiones pagadas (taker fee):** $352.17 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1942 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1136 | 69.5% | 67.8% | +1.8 pp |
+| 40-59% | 1943 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1137 | 69.5% | 67.8% | +1.7 pp |
 | 80-94% | 511 | 85.5% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -795,17 +795,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Le Havre AC vs. Stade Brestois 29: O/U 2 | Under (BUY) | 54% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Talvez10 | Juan Soto: Home Runs O/U 0.5 | Under (BUY) | 82% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 0. | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 12.7% | ⏳ pendiente | — |
 | kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 33.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 6.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: MOUZ (-1.5) vs Vitality (+ | Vitality (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Qinwen Zheng (BUY) | 93% | 5.00 | 1.6% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Nathaniel Wood (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Nathaniel Wood (BUY) | 71% | 5.00 | 2.9% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Spread: Al Nassr Saudi Club (-1.5) | Al Nassr Saudi Club (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Blockx vs Cobolli | Cobolli (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | St. Louis City SC (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
