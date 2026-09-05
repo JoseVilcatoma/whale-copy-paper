@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 20:47:21 (hora de Perú)
+Actualizado: 2026-09-04 20:49:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $486.03
-**Retorno acumulado:** -2.79%
+**Bankroll actual:** $495.20
+**Retorno acumulado:** -0.96%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 20:47:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $331.03)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $350.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| HongYunX | 8 | 3 | 0 | +22.97 USD |
 | Feromont | 6 | 1 | 3 | +20.60 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
-| HongYunX | 7 | 3 | 1 | +17.46 USD |
+| tikstt | 7 | 2 | 0 | +19.21 USD |
 | AV23IUa | 33 | 18 | 6 | +16.88 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| tikstt | 6 | 2 | 1 | +15.55 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3699
-- **Aciertos:** 2360 (63.8%)
+- **Apuestas resueltas:** 3701
+- **Aciertos:** 2362 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,470.24
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $339.99 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,480.24
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $340.23 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1869 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 1871 | 50.5% | 50.1% | +0.4 pp |
 | 60-79% | 1106 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
@@ -786,7 +786,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 6.5 | Over (BUY) | 62% | 5.00 | 33.8% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 50% | 5.00 | 23.0% | ⏳ pendiente | — |
 | Talvez10 | Zack Gelof: Home Runs O/U 0.5 | Under (BUY) | 92% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ⏳ pendiente | — |
+| HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ✅ ganada | +5.51 |
 | BrotherObama | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 36.2% | ⏳ pendiente | — |
 | BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ⏳ pendiente | — |
@@ -802,6 +802,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |
 | Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 1724.7% | ⏳ pendiente | — |
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 58.5% | ⏳ pendiente | — |
-| tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
+| tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ✅ ganada | +3.66 |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.0342317531182,
+  "bankroll": 495.20345945002003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19440,6 +19440,16 @@
       "timestamp": 1788572335.334459,
       "bankroll": 486.03,
       "event": "lost:  \u2014 Atlanta Braves vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1788572964.4856403,
+      "bankroll": 489.7,
+      "event": "won: tikstt \u2014 Will Nashville SC win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788572967.683475,
+      "bankroll": 495.2,
+      "event": "won: HongYunX \u2014 New York City FC vs. Nashville SC: O/U 2.5"
     }
   ]
 }
