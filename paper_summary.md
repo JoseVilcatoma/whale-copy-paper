@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:18:25 (hora de Perú)
+Actualizado: 2026-09-05 05:20:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $461.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 05:18:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $196.95)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $191.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
-| HongYunX | 8 | 3 | 0 | +22.97 USD |
+| HongYunX | 8 | 3 | 1 | +22.97 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | AV23IUa | 33 | 18 | 6 | +16.88 USD |
@@ -781,6 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Gen.G (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Invictus Gaming vs Top Esports (BO5 | Top Esports (BUY) | 67% | 5.00 | 9.5% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.4% | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 47% | 5.00 | 425.1% | ⏳ pendiente | — |

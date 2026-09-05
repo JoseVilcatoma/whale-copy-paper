@@ -98491,5 +98491,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788603499.0005803,
     "fills": 1
+  },
+  {
+    "timestamp": 1788603505,
+    "timestamp_added": 1788603505.9008644,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "elc-sto-cha-2026-09-05-sto",
+    "title": "Will Stoke City FC win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 9824.6325,
+    "whale_pct": 265.771,
+    "whale_value_at_open": 3696.6602,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788603505.9008741,
+    "fills": 1
   }
 ]
