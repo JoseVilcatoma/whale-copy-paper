@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:52:44 (hora de Perú)
+Actualizado: 2026-09-05 13:54:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.30
@@ -793,7 +793,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sol | Farés Ziam (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Francisco Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Francisco Cerundolo (BUY) | 44% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. Atalanta BC: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Beşiktaş JK: O/U 3.5 | Under (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Inaki Montes | Inaki Montes (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -821,4 +821,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | St. Louis City SC (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portland Timbers win on 2026-09-05? | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 6.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 11.3% | ⏳ pendiente | — |

@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 29947.7252,
-    "whale_pct": 24.185,
+    "whale_usd": 33176.492819,
+    "whale_pct": 26.792,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788633526.15116,
-    "fills": 8
+    "last_fill_at": 1788634420.5168936,
+    "fills": 9
   },
   {
     "timestamp": 1788595377,
@@ -99755,8 +99755,8 @@
     "title": "Liberty vs. James Madison",
     "outcome": "James Madison",
     "side": "BUY",
-    "whale_usd": 32365.640000000003,
-    "whale_pct": 6.1,
+    "whale_usd": 60121.334,
+    "whale_pct": 11.331,
     "whale_value_at_open": 530580.344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -99767,8 +99767,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788628163.8078594,
-    "fills": 1
+    "last_fill_at": 1788634484.246038,
+    "fills": 2
   },
   {
     "timestamp": 1788628397,
@@ -100434,8 +100434,8 @@
     "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
     "outcome": "Francisco Cerundolo",
     "side": "BUY",
-    "whale_usd": 7953.0916,
-    "whale_pct": 2.23,
+    "whale_usd": 10406.98766,
+    "whale_pct": 2.918,
     "whale_value_at_open": 356611.1587,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -100446,8 +100446,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788633864.8495955,
-    "fills": 5
+    "last_fill_at": 1788634398.7992644,
+    "fills": 7
   },
   {
     "timestamp": 1788634115,
