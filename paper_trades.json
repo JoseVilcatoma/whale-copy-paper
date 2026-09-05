@@ -96906,8 +96906,8 @@
     "title": "Will Brighton & Hove Albion FC win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 23693.2444,
-    "whale_pct": 30.719,
+    "whale_usd": 97011.06883700001,
+    "whale_pct": 125.779,
     "whale_value_at_open": 77128.4439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -96918,8 +96918,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788567589.0958052,
-    "fills": 1
+    "last_fill_at": 1788581246.526064,
+    "fills": 3
   },
   {
     "timestamp": 1788567734,
