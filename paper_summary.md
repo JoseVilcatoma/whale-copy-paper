@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:34:48 (hora de Perú)
+Actualizado: 2026-09-04 21:36:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $492.68
-**Retorno acumulado:** -1.46%
+**Bankroll actual:** $487.56
+**Retorno acumulado:** -2.49%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:34:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $372.68)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $367.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,10 +28,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| Feromont | 7 | 1 | 2 | +23.21 USD |
 | HongYunX | 8 | 3 | 0 | +22.97 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| Feromont | 7 | 2 | 1 | +18.09 USD |
 | AV23IUa | 33 | 18 | 6 | +16.88 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 39 | 1 | -95.46 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 452 | 277 | 4 | -150.53 USD |
+| ferrariChampions2026 | 452 | 277 | 5 | -150.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3711
+- **Apuestas resueltas:** 3712
 - **Aciertos:** 2368 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,530.24
-- **ROI sobre lo apostado:** -0.64%
-- **Comisiones pagadas (taker fee):** $341.26 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,535.24
+- **ROI sobre lo apostado:** -0.67%
+- **Comisiones pagadas (taker fee):** $341.38 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1876 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 1877 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1111 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
@@ -776,6 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -805,4 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | tikstt | CA Platense vs. CD Riestra: O/U 2.5 | Over (BUY) | 46% | 5.00 | 6.8% | ❌ perdida | -5.13 |
 | Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | tikstt | Will CA Belgrano win on 2026-09-04? | Yes (BUY) | 49% | 5.00 | 8.4% | ❌ perdida | -5.13 |
-| Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |

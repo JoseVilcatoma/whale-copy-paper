@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.67855322781867,
+  "bankroll": 487.55655322781865,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19500,6 +19500,11 @@
       "timestamp": 1788575182.3967133,
       "bankroll": 492.68,
       "event": "lost: BrotherObama \u2014 San Jose State vs. Eastern Michigan"
+    },
+    {
+      "timestamp": 1788575809.0522683,
+      "bankroll": 487.56,
+      "event": "lost: Feromont \u2014 Spread: Eastern Michigan (-1.5)"
     }
   ]
 }
