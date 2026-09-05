@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:43:17 (hora de Perú)
+Actualizado: 2026-09-05 04:45:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 04:43:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $238.38)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $233.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 21 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 22 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,6 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | FC Seoul vs. Incheon United FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Yanaki Milev (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 50% | 5.00 | 1.4% | 💰 vendida anticipada | +4.88 |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 67% | 5.00 | 5.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 52% | 5.00 | 17.1% | ⏳ pendiente | — |
