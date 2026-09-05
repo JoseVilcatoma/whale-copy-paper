@@ -95081,8 +95081,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 3218.754144,
-    "whale_pct": 40.543,
+    "whale_usd": 4119.880844,
+    "whale_pct": 51.893,
     "whale_value_at_open": 7939.2012,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -95093,8 +95093,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788558465.3465836,
-    "fills": 3
+    "last_fill_at": 1788575499.3467896,
+    "fills": 4
   },
   {
     "timestamp": 1788529456,
@@ -97040,5 +97040,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788575428.7408814,
     "fills": 1
+  },
+  {
+    "timestamp": 1788575519,
+    "timestamp_added": 1788575519.8078558,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-lad-2026-09-04-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 3896.55,
+    "whale_pct": 1.348,
+    "whale_value_at_open": 289142.4158,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788575531.3471093,
+    "fills": 3
   }
 ]
