@@ -98809,5 +98809,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788608681.3364167,
     "fills": 1
+  },
+  {
+    "timestamp": 1788609661,
+    "timestamp_added": 1788609661.3684895,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bun-scp-fre-2026-09-05-total-2pt5",
+    "title": "SC Paderborn 07 vs. SC Freiburg: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5259.242299999999,
+    "whale_pct": 2.006,
+    "whale_value_at_open": 262197.225,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788609661.368502,
+    "fills": 1
   }
 ]
