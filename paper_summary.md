@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 19:22:08 (hora de Perú)
+Actualizado: 2026-09-04 19:24:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 19:22:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $316.90)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $306.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| AV23IUa | 33 | 17 | 5 | +22.00 USD |
+| AV23IUa | 33 | 17 | 7 | +22.00 USD |
 | Feromont | 6 | 1 | 3 | +20.60 USD |
 | HongYunX | 7 | 3 | 1 | +17.46 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -775,6 +775,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 20.1% | ⏳ pendiente | — |
+| AV23IUa | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | AV23IUa | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 50% | 5.00 | 30.7% | ⏳ pendiente | — |
 | AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 32.5% | ⏳ pendiente | — |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes (BUY) | 59% | 5.00 | 68.0% | ⏳ pendiente | — |
@@ -803,5 +805,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
 | pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ⏳ pendiente | — |
 | Feromont | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 54% | 5.00 | 38.3% | ✅ ganada | +4.14 |
-| pleaseplease123 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 47% | 5.00 | 17.0% | ⏳ pendiente | — |
-|  | US Open WTA: Emma Navarro vs Karolina Mu | Emma Navarro (BUY) | 49% | 5.00 | 80.7% | ✅ ganada | +5.08 |
