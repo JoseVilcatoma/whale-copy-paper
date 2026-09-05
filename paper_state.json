@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.44999992637116,
+  "bankroll": 440.0269214949986,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19775,6 +19775,16 @@
       "timestamp": 1788616581.4792671,
       "bankroll": 440.45,
       "event": "lost: AV23IUa \u2014 Will Newcastle United FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788616899.660823,
+      "bankroll": 435.34,
+      "event": "lost: ferrariChampions2026 \u2014 Jeju SK FC vs. Ulsan HD FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788616900.0071957,
+      "bankroll": 440.03,
+      "event": "won: ferrariChampions2026 \u2014 FC Seoul vs. Incheon United FC: O/U 2.5"
     }
   ]
 }
