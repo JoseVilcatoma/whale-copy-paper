@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 14:58:38 (hora de Perú)
+Actualizado: 2026-09-05 15:00:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $407.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 14:58:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $177.98)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $172.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 495 | 308 | 27 | -173.33 USD |
+| ferrariChampions2026 | 495 | 308 | 28 | -173.33 USD |
 
 ## Análisis general
 
@@ -795,6 +795,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | O/U 3.5 Rounds | Under (BUY) | 73% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sol | Axel Sola (BUY) | 42% | 5.00 | 43.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -807,7 +808,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Villarreal CF win on 2026-09-05? | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Muhammad Naimov vs. Los | Losene Keita (BUY) | 78% | 5.00 | 0.8% | ✅ ganada | +1.36 |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 108.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 8.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 11.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Darderi vs Sweeny | Darderi (BUY) | 70% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Villarreal CF vs. RC Deportivo A Co | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Marie Bouzkova (BUY) | 42% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -824,4 +825,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Le Havre AC vs. Stade Brestois 29: O/U 2 | Under (BUY) | 54% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Talvez10 | Juan Soto: Home Runs O/U 0.5 | Under (BUY) | 82% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.6% | ✅ ganada | +2.49 |
