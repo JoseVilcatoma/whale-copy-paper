@@ -99054,5 +99054,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788613645.4078965,
     "fills": 1
+  },
+  {
+    "timestamp": 1788614774,
+    "timestamp_added": 1788614775.0565825,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-nip-jdg-2026-09-05-game3",
+    "title": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 3 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 7423.913,
+    "whale_pct": 17.153,
+    "whale_value_at_open": 43281.7256,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788614778.0644712,
+    "fills": 5
   }
 ]

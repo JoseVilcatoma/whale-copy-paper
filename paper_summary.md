@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:25:42 (hora de Perú)
+Actualizado: 2026-09-05 08:27:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 08:25:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $194.30)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $189.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 8 | 4 | 1 | +10.88 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| zofgkt1111 | 9 | 7 | 1 | +10.41 USD |
+| zofgkt1111 | 9 | 7 | 2 | +10.41 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -784,6 +784,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | JD Gaming (BUY) | 59% | 5.00 | 17.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 87% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds: O | Under (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -813,4 +814,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | 1. FC Kaiserslautern vs. SV Darmstadt 98 | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 52% | 5.00 | 34.2% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Dusan Obradovic (BUY) | 73% | 5.00 | 1.4% | ❌ perdida | -5.07 |
-| ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Under (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
