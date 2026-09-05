@@ -101262,8 +101262,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 8149.868973000001,
-    "whale_pct": 2.186,
+    "whale_usd": 11776.088973000002,
+    "whale_pct": 3.158,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -101274,8 +101274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788643751.7468476,
-    "fills": 5
+    "last_fill_at": 1788643785.9080937,
+    "fills": 6
   },
   {
     "timestamp": 1788641480,
