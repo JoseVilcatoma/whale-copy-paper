@@ -97622,5 +97622,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788592543.0395365,
     "fills": 1
+  },
+  {
+    "timestamp": 1788592774,
+    "timestamp_added": 1788592775.6206334,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "elc-pne-bbr-2026-09-05-total-2pt5",
+    "title": "Preston North End FC vs. Blackburn Rovers FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1004.1708000000001,
+    "whale_pct": 0.879,
+    "whale_value_at_open": 114279.3226,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788592775.6206412,
+    "fills": 1
   }
 ]
