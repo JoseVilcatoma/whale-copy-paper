@@ -97610,8 +97610,8 @@
     "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
     "outcome": "Yanaki Milev",
     "side": "BUY",
-    "whale_usd": 14709.879517000003,
-    "whale_pct": 13.111,
+    "whale_usd": 15358.768405000003,
+    "whale_pct": 13.689,
     "whale_value_at_open": 112197.0228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -97622,8 +97622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788611144.335678,
-    "fills": 10
+    "last_fill_at": 1788611201.7699664,
+    "fills": 11
   },
   {
     "timestamp": 1788592774,
@@ -98982,5 +98982,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788611135.242806,
     "fills": 2
+  },
+  {
+    "timestamp": 1788611211,
+    "timestamp_added": 1788611211.9472525,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-cin-2026-09-05-total-9pt5",
+    "title": "Milwaukee Brewers vs. Cincinnati Reds: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 521.8327,
+    "whale_pct": 0.149,
+    "whale_value_at_open": 351274.8394,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788611211.9472682,
+    "fills": 1
   }
 ]
