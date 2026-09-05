@@ -99779,8 +99779,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 11169.881598999998,
-    "whale_pct": 1.954,
+    "whale_usd": 15981.603498999997,
+    "whale_pct": 2.796,
     "whale_value_at_open": 571509.7138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -99793,8 +99793,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788628843.6507034,
-    "fills": 6
+    "last_fill_at": 1788629061.9606864,
+    "fills": 7
   },
   {
     "timestamp": 1788628590,
