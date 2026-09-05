@@ -98527,8 +98527,8 @@
     "title": "Newcastle United FC vs. AFC Bournemouth: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 14571.460000000001,
-    "whale_pct": 6.409,
+    "whale_usd": 18877.16,
+    "whale_pct": 8.303,
     "whale_value_at_open": 227364.772,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -98539,8 +98539,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788604044.7279735,
-    "fills": 1
+    "last_fill_at": 1788605812.5242016,
+    "fills": 2
   },
   {
     "timestamp": 1788604240,
@@ -98551,8 +98551,8 @@
     "title": "Newcastle United FC vs. AFC Bournemouth: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1173.7033999999999,
-    "whale_pct": 0.483,
+    "whale_usd": 10524.463396,
+    "whale_pct": 4.33,
     "whale_value_at_open": 243077.1659,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -98563,8 +98563,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788604240.9287832,
-    "fills": 1
+    "last_fill_at": 1788605836.4355166,
+    "fills": 3
   },
   {
     "timestamp": 1788604483,

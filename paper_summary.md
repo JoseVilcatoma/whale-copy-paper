@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:55:59 (hora de Perú)
+Actualizado: 2026-09-05 05:57:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.11
@@ -783,8 +783,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
