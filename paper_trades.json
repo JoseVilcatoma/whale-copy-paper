@@ -98539,5 +98539,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788604044.7279735,
     "fills": 1
+  },
+  {
+    "timestamp": 1788604240,
+    "timestamp_added": 1788604240.9287717,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-new-bou-2026-09-05-total-3pt5",
+    "title": "Newcastle United FC vs. AFC Bournemouth: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1173.7033999999999,
+    "whale_pct": 0.483,
+    "whale_value_at_open": 243077.1659,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788604240.9287832,
+    "fills": 1
   }
 ]
