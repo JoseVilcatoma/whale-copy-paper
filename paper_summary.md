@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:21:05 (hora de Perú)
+Actualizado: 2026-09-05 16:23:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $377.01
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 16:21:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $112.01)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $102.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 502 | 317 | 29 | -201.10 USD |
+| ferrariChampions2026 | 502 | 317 | 31 | -201.10 USD |
 
 ## Análisis general
 
@@ -803,6 +803,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Zheng vs Gea | Gea (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 50% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baylor vs. Auburn | Auburn (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -810,7 +812,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 27.3% | ⏳ pendiente | — |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 27.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Michael Zheng (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Dan Hooker vs. Salahdin | Salahdine Parnasse (BUY) | 81% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -823,7 +825,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 4.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 55% | 5.00 | 5.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
@@ -831,5 +833,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 1.0% | ✅ ganada | +2.27 |
 | Talvez10 | O/U 3.5 Rounds | Under (BUY) | 73% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sol | Axel Sola (BUY) | 42% | 5.00 | 43.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | CD Eldense vs. RCD Mallorca: O/U 1.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
