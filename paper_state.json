@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.4596808374833,
+  "bankroll": 472.34768083748327,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19555,6 +19555,11 @@
       "timestamp": 1788579919.0530071,
       "bankroll": 477.46,
       "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1788580485.7330003,
+      "bankroll": 472.35,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Colorado Rockies"
     }
   ]
 }

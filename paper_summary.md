@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 22:52:55 (hora de Perú)
+Actualizado: 2026-09-04 22:54:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.46
-**Retorno acumulado:** -4.51%
+**Bankroll actual:** $472.35
+**Retorno acumulado:** -5.53%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 22:52:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $382.46)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $382.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 454 | 280 | 4 | -162.20 USD |
+| ferrariChampions2026 | 454 | 281 | 3 | -167.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3722
-- **Aciertos:** 2373 (63.8%)
+- **Apuestas resueltas:** 3723
+- **Aciertos:** 2373 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,585.24
-- **ROI sobre lo apostado:** -0.72%
-- **Comisiones pagadas (taker fee):** $342.47 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,590.24
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $342.58 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1885 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1886 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1112 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -785,7 +785,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 61% | 5.00 | 43.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs FOKUS (BO3) - St | FOKUS (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 23.4% | ⏳ pendiente | — |
