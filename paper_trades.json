@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 11156.159000000001,
-    "whale_pct": 9.009,
+    "whale_usd": 19207.3182,
+    "whale_pct": 15.511,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788602957.8972063,
-    "fills": 3
+    "last_fill_at": 1788628212.1432376,
+    "fills": 5
   },
   {
     "timestamp": 1788595377,
@@ -99745,5 +99745,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788628068.432996,
     "fills": 2
+  },
+  {
+    "timestamp": 1788628163,
+    "timestamp_added": 1788628163.8078475,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-librty-jmad-2026-09-05",
+    "title": "Liberty vs. James Madison",
+    "outcome": "James Madison",
+    "side": "BUY",
+    "whale_usd": 32365.640000000003,
+    "whale_pct": 6.1,
+    "whale_value_at_open": 530580.344,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788628163.8078594,
+    "fills": 1
   }
 ]
