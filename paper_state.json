@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.08048355124146,
+  "bankroll": 382.96654721681654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20295,6 +20295,21 @@
       "timestamp": 1788645765.894896,
       "bankroll": 376.08,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Al Nassr Saudi Club (-1.5)"
+    },
+    {
+      "timestamp": 1788646378.9048398,
+      "bankroll": 380.06,
+      "event": "won: Talvez10 \u2014 Will Salahdine Parnasse win by KO or TKO?"
+    },
+    {
+      "timestamp": 1788646384.5131013,
+      "bankroll": 381.84,
+      "event": "won: Talvez10 \u2014 O/U 3.5 Rounds"
+    },
+    {
+      "timestamp": 1788646387.6683292,
+      "bankroll": 382.97,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)"
     }
   ]
 }
