@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:47:22 (hora de Perú)
+Actualizado: 2026-09-05 04:49:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.38
-**Retorno acumulado:** -6.32%
+**Bankroll actual:** $467.07
+**Retorno acumulado:** -6.59%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 04:47:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $233.38)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $232.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,9 +42,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| zofgkt1111 | 6 | 4 | 4 | +8.98 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
+| zofgkt1111 | 6 | 5 | 3 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 1 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -97,7 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 7 | 5 | 3 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Talvez10 | 4 | 4 | 0 | -4.82 USD |
+| Talvez10 | 4 | 4 | 1 | -4.82 USD |
 | pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -781,11 +781,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Will Salahdine Parnasse win by KO or TKO | Yes (BUY) | 55% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Seoul vs. Incheon United FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | 💰 vendida anticipada | -1.31 |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
 | ferrariChampions2026 | Borussia Mönchengladbach vs. SV 07 Elver | Over (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Preston North End FC vs. Blackburn Rover | Over (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Yanaki Milev (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 50% | 5.00 | 1.4% | 💰 vendida anticipada | +4.88 |
-| TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 67% | 5.00 | 5.9% | ⏳ pendiente | — |

@@ -98191,13 +98191,15 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -1.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788600225.5295324,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.208,
+    "closed_price": 46
   },
   {
     "timestamp": 1788600473,
@@ -98256,8 +98258,8 @@
     "title": "Jeju SK FC vs. Ulsan HD FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 573.078,
-    "whale_pct": 0.3,
+    "whale_usd": 1262.6864,
+    "whale_pct": 0.66,
     "whale_value_at_open": 191270.615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -98268,8 +98270,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788600822.9620209,
-    "fills": 1
+    "last_fill_at": 1788601653.198369,
+    "fills": 2
   },
   {
     "timestamp": 1788601407,
@@ -98294,5 +98296,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788601419.0078015,
     "fills": 2
+  },
+  {
+    "timestamp": 1788601655,
+    "timestamp_added": 1788601656.1158257,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-dan6-salpar-2026-09-05-parnasse-win-by-ko-tko",
+    "title": "Will Salahdine Parnasse win by KO or TKO?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3741.6600000000003,
+    "whale_pct": 13.224,
+    "whale_value_at_open": 28294.322,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788601656.1158345,
+    "fills": 1
   }
 ]
