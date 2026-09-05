@@ -101474,5 +101474,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788642581.982745,
     "fills": 1
+  },
+  {
+    "timestamp": 1788642735,
+    "timestamp_added": 1788642735.876492,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-tor-kc-2026-09-05-total-9pt5",
+    "title": "Toronto Blue Jays vs. Kansas City Royals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 17335.5091,
+    "whale_pct": 11.286,
+    "whale_value_at_open": 153608.2201,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788642735.8765018,
+    "fills": 1
   }
 ]
