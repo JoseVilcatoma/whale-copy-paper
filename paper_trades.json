@@ -97404,5 +97404,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788585294.913922,
     "fills": 1
+  },
+  {
+    "timestamp": 1788585413,
+    "timestamp_added": 1788585414.1154077,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "fl1-rcl-lor-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Racing Club de Lens (-1.5)",
+    "outcome": "FC Lorient",
+    "side": "BUY",
+    "whale_usd": 2175.9719999999998,
+    "whale_pct": 1.407,
+    "whale_value_at_open": 154666.5872,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788585414.115417,
+    "fills": 1
   }
 ]
