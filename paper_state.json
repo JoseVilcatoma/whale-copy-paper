@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.9866013856069,
+  "bankroll": 468.4773589613645,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19600,6 +19600,11 @@
       "timestamp": 1788585971.7532878,
       "bankroll": 465.99,
       "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788587354.9557838,
+      "bankroll": 468.48,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Ilia Simakin vs Mitsuki Wei Kang Leong"
     }
   ]
 }
