@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.0457184318555,
+  "bankroll": 474.50268812882524,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19885,6 +19885,16 @@
       "timestamp": 1788623577.1043828,
       "bankroll": 465.05,
       "event": "lost: ferrariChampions2026 \u2014 SV Werder Bremen vs. RB Leipzig: O/U 3.5"
+    },
+    {
+      "timestamp": 1788624195.1921225,
+      "bankroll": 471.27,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: HOTU vs FOKUS (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788624200.7300978,
+      "bankroll": 474.5,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Shandong Taishan FC (-1.5)"
     }
   ]
 }
