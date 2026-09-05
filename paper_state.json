@@ -1,5 +1,5 @@
 {
-  "bankroll": 409.4523764990785,
+  "bankroll": 407.03987649907856,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20115,6 +20115,16 @@
       "timestamp": 1788636032.5675895,
       "bankroll": 409.45,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788636154.527092,
+      "bankroll": 404.32,
+      "event": "lost: ferrariChampions2026 \u2014 Manacor: Luca Potenza vs Inaki Montes"
+    },
+    {
+      "timestamp": 1788636154.6272497,
+      "bankroll": 407.04,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Luca Potenza vs Inaki Montes"
     }
   ]
 }
