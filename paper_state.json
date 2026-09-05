@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.2990748346354,
+  "bankroll": 500.9910909636677,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19465,6 +19465,16 @@
       "timestamp": 1788573915.367618,
       "bankroll": 495.3,
       "event": "won:  \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788574486.2159934,
+      "bankroll": 498.27,
+      "event": "won: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1788574547.7350996,
+      "bankroll": 500.99,
+      "event": "won: monkeymashingkeyboard \u2014 San Francisco Giants vs. New York Mets"
     }
   ]
 }
