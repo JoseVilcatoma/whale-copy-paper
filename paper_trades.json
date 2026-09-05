@@ -98623,8 +98623,8 @@
     "title": "US Open WTA: Cristina Bucsa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 41483.563599999994,
-    "whale_pct": 17.24,
+    "whale_usd": 47930.514433,
+    "whale_pct": 19.919,
     "whale_value_at_open": 240628.6982,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -98635,8 +98635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638672.6684604,
-    "fills": 6
+    "last_fill_at": 1788638837.5824594,
+    "fills": 8
   },
   {
     "timestamp": 1788606122,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 60329.505195,
-    "whale_pct": 17.541,
+    "whale_usd": 61008.255195,
+    "whale_pct": 17.738,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638704.3283286,
-    "fills": 13
+    "last_fill_at": 1788638822.3875675,
+    "fills": 14
   },
   {
     "timestamp": 1788635522,
