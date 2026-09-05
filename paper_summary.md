@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 15:00:41 (hora de Perú)
+Actualizado: 2026-09-05 15:02:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $407.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 15:00:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $172.98)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $157.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,7 +102,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 1 | -5.14 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 495 | 308 | 28 | -173.33 USD |
+| ferrariChampions2026 | 495 | 308 | 30 | -173.33 USD |
 
 ## Análisis general
 
@@ -795,6 +795,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 7.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians:  | Over (BUY) | 57% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | O/U 3.5 Rounds | Under (BUY) | 73% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sol | Axel Sola (BUY) | 42% | 5.00 | 43.5% | ⏳ pendiente | — |
@@ -822,6 +825,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | MOUZ (BUY) | 91% | 5.00 | 0.8% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | CS Marítimo vs. Sport Lisboa e Benfica:  | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sporting CP vs. CD Nacional: O/U 3.5 | Under (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Le Havre AC vs. Stade Brestois 29: O/U 2 | Under (BUY) | 54% | 5.00 | 2.7% | ⏳ pendiente | — |
-| Talvez10 | Juan Soto: Home Runs O/U 0.5 | Under (BUY) | 82% | 5.00 | 5.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
