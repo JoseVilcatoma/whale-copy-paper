@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.87629057664765,
+  "bankroll": 486.0342317531182,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19430,6 +19430,16 @@
       "timestamp": 1788572013.1193068,
       "bankroll": 488.88,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1788572330.7141414,
+      "bankroll": 491.15,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Fluxo W7M vs Back to Back  - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788572335.334459,
+      "bankroll": 486.03,
+      "event": "lost:  \u2014 Atlanta Braves vs. Philadelphia Phillies"
     }
   ]
 }
