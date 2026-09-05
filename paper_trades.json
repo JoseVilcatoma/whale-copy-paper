@@ -100119,8 +100119,8 @@
     "title": "Hull City AFC vs. Aston Villa FC: O/U 0.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 629.5393,
-    "whale_pct": 0.168,
+    "whale_usd": 1274.4993,
+    "whale_pct": 0.34,
     "whale_value_at_open": 374493.5948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -100131,7 +100131,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631443.316303,
-    "fills": 1
+    "last_fill_at": 1788631600.0159712,
+    "fills": 2
   }
 ]
