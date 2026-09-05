@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:12:57 (hora de Perú)
+Actualizado: 2026-09-05 16:15:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.31
@@ -812,11 +812,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 27.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Michael Zheng (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Michael Zheng (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Dan Hooker vs. Salahdin | Salahdine Parnasse (BUY) | 81% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Arthur Gea (BUY) | 52% | 5.00 | 4.7% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 54% | 5.00 | 21.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Chicken Coop Esports vs  | Chicken Coop Esports (BUY) | 75% | 5.00 | 24.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Chicken Coop Esports vs  | Chicken Coop Esports (BUY) | 75% | 5.00 | 81.6% | ⏳ pendiente | — |
 | us391 | Will Tigres de la UANL win on 2026-09-05 | No (BUY) | 43% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |

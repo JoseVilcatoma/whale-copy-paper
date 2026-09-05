@@ -101166,8 +101166,8 @@
     "title": "Counter-Strike: Chicken Coop Esports vs Villainous (BO3) - NSTLGA League Group Stage",
     "outcome": "Chicken Coop Esports",
     "side": "BUY",
-    "whale_usd": 999.0802999999999,
-    "whale_pct": 24.14,
+    "whale_usd": 3378.7667,
+    "whale_pct": 81.637,
     "whale_value_at_open": 4138.7628,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -101178,8 +101178,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788640168.5788126,
-    "fills": 1
+    "last_fill_at": 1788642866.7451096,
+    "fills": 2
   },
   {
     "timestamp": 1788640308,
@@ -101262,8 +101262,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 3200.3155730000003,
-    "whale_pct": 0.858,
+    "whale_usd": 3794.919573,
+    "whale_pct": 1.018,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -101274,8 +101274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788641620.1444168,
-    "fills": 2
+    "last_fill_at": 1788642847.7237442,
+    "fills": 3
   },
   {
     "timestamp": 1788641480,
