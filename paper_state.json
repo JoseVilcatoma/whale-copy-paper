@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.29876247013635,
+  "bankroll": 469.8066013856069,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19575,6 +19575,21 @@
       "timestamp": 1788584850.3568082,
       "bankroll": 467.3,
       "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 6.5"
+    },
+    {
+      "timestamp": 1788585160.4135134,
+      "bankroll": 471.28,
+      "event": "won: pleaseplease123 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788585160.5136244,
+      "bankroll": 474.94,
+      "event": "won: BrotherObama \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788585164.045463,
+      "bankroll": 469.81,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
