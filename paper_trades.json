@@ -98368,5 +98368,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788602686.1319435,
     "fills": 1
+  },
+  {
+    "timestamp": 1788602856,
+    "timestamp_added": 1788602857.1939595,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-ig1-tes-2026-09-05",
+    "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 3653.251608,
+    "whale_pct": 12.503,
+    "whale_value_at_open": 29219.4195,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788602864.1356454,
+    "fills": 3
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:05:57 (hora de Perú)
+Actualizado: 2026-09-05 05:08:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 05:05:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $222.07)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $217.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| zofgkt1111 | 6 | 5 | 3 | +7.67 USD |
+| zofgkt1111 | 6 | 5 | 4 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 1 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -775,12 +775,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-pit-2026-09-04 | , Feromont |
 | lol-gen-hle1-2026-09-05-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 | lol-ig1-tes-2026-09-05-game2 | , TAIWANNUMBERONE |
-| lol-ig1-tes-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE |
+| lol-ig1-tes-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 52% | 5.00 | 12.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Dusan Obradovic (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Under (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Talvez10 | Will Salahdine Parnasse win by KO or TKO | Yes (BUY) | 55% | 5.00 | 13.2% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Alexander Blockx (BUY) | 50% | 5.00 | 8.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Under (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: VfL Wolfsburg (-1.5) | FC Energie Cottbus (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Preston North End FC vs. Blackburn Rover | Over (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
