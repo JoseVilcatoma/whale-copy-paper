@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 102742.16559599999,
-    "whale_pct": 28.941,
+    "whale_usd": 103442.465596,
+    "whale_pct": 29.138,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639498.899312,
-    "fills": 23
+    "last_fill_at": 1788639672.8595066,
+    "fills": 24
   },
   {
     "timestamp": 1788613644,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 63348.663195,
-    "whale_pct": 18.419,
+    "whale_usd": 65444.851766,
+    "whale_pct": 19.028,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639380.2039206,
-    "fills": 15
+    "last_fill_at": 1788639557.3956108,
+    "fills": 16
   },
   {
     "timestamp": 1788635522,
@@ -100992,8 +100992,8 @@
     "title": "Chicago Cubs vs. Miami Marlins",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 1021.076574,
-    "whale_pct": 0.248,
+    "whale_usd": 1947.107397,
+    "whale_pct": 0.473,
     "whale_value_at_open": 411866.8381,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -101006,8 +101006,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639042.8676848,
-    "fills": 1
+    "last_fill_at": 1788639568.3127227,
+    "fills": 2
   },
   {
     "timestamp": 1788639105,
