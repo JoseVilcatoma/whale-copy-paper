@@ -1,5 +1,5 @@
 {
-  "bankroll": 409.53063407483614,
+  "bankroll": 404.38763407483617,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20130,6 +20130,11 @@
       "timestamp": 1788636339.4461372,
       "bankroll": 409.53,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Morgan Charri\u00e8re vs. Felipe Lima (Featherweight, Main Card)"
+    },
+    {
+      "timestamp": 1788636401.2840366,
+      "bankroll": 404.39,
+      "event": "lost: ferrariChampions2026 \u2014 Coastal Carolina vs. West Virginia: O/U 44.5"
     }
   ]
 }

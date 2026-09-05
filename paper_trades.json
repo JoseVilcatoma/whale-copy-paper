@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 79290.77009499999,
-    "whale_pct": 22.335,
+    "whale_usd": 81658.64729499999,
+    "whale_pct": 23.002,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636324.5019891,
-    "fills": 16
+    "last_fill_at": 1788636454.0619195,
+    "fills": 17
   },
   {
     "timestamp": 1788613644,
@@ -100174,8 +100174,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 14296.886922,
-    "whale_pct": 4.157,
+    "whale_usd": 14891.039922,
+    "whale_pct": 4.33,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636344.8411305,
-    "fills": 5
+    "last_fill_at": 1788636393.0053232,
+    "fills": 6
   },
   {
     "timestamp": 1788635522,
@@ -100737,6 +100737,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788636290.7608275,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788636448,
+    "timestamp_added": 1788636449.4198406,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-khachan-bonzi-2026-09-04-first-set-winner-Khachanov-vs-Bonzi",
+    "title": "Set 1 Winner: Khachanov vs Bonzi",
+    "outcome": "Khachanov",
+    "side": "BUY",
+    "whale_usd": 505.68309999999997,
+    "whale_pct": 0.125,
+    "whale_value_at_open": 404172.3653,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788636449.419851,
     "fills": 1
   }
 ]
