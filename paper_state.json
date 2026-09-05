@@ -1,5 +1,5 @@
 {
-  "bankroll": 406.79545146070234,
+  "bankroll": 407.9810878243387,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20145,6 +20145,16 @@
       "timestamp": 1788638186.4034317,
       "bankroll": 406.8,
       "event": "won: ferrariChampions2026 \u2014 Liberty vs. James Madison"
+    },
+    {
+      "timestamp": 1788638245.0903466,
+      "bankroll": 401.76,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Taylor Fritz vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788638246.2810888,
+      "bankroll": 407.98,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Taylor Fritz vs Francisco Cerundolo"
     }
   ]
 }
