@@ -101670,5 +101670,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788644892.2254589,
     "fills": 1
+  },
+  {
+    "timestamp": 1788645335,
+    "timestamp_added": 1788645336.159397,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-wkent-nevada-2026-09-05",
+    "title": "Western Kentucky vs. Nevada",
+    "outcome": "Western Kentucky",
+    "side": "BUY",
+    "whale_usd": 5865.01,
+    "whale_pct": 7.559,
+    "whale_value_at_open": 77591.2325,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788645336.1594086,
+    "fills": 1
   }
 ]

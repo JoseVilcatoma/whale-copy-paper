@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:53:59 (hora de Perú)
+Actualizado: 2026-09-05 16:56:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 16:53:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $121.22)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $116.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 23 | 41 | 0 | -100.16 USD |
+| Sassy-Bucket | 23 | 41 | 1 | -100.16 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 506 | 317 | 29 | -195.89 USD |
 
@@ -804,6 +804,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky (BUY) | 51% | 5.00 | 7.6% | ⏳ pendiente | — |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ⏳ pendiente | — |
 | HongYunX | Will CA San Lorenzo de Almagro win on 20 | Yes (BUY) | 41% | 5.00 | 93.6% | ⏳ pendiente | — |
 | us391 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 39.5% | ⏳ pendiente | — |
@@ -833,4 +834,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 55% | 5.00 | 5.2% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.7% | ❌ perdida | -5.14 |
