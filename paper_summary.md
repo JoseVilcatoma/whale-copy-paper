@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:34:13 (hora de Perú)
+Actualizado: 2026-09-05 13:36:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:34:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $210.69)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $205.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 486 | 301 | 27 | -162.79 USD |
+| ferrariChampions2026 | 486 | 301 | 28 | -162.79 USD |
 
 ## Análisis general
 
@@ -792,6 +792,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Manacor: Luca Potenza vs Inaki Montes | Luca Potenza (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | MOUZ (BUY) | 91% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | CS Marítimo vs. Sport Lisboa e Benfica:  | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Under (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ✅ ganada | +1.36 |
-| ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 4.2% | ❌ perdida | -5.09 |
