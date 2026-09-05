@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.5696808374833,
+  "bankroll": 477.4596808374833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19550,6 +19550,11 @@
       "timestamp": 1788579604.9305768,
       "bankroll": 482.57,
       "event": "won: Feromont \u2014 Spread: Oklahoma (-41.5)"
+    },
+    {
+      "timestamp": 1788579919.0530071,
+      "bankroll": 477.46,
+      "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Colorado Rockies: O/U 11.5"
     }
   ]
 }
