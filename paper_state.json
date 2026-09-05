@@ -1,5 +1,5 @@
 {
-  "bankroll": 456.9217748708506,
+  "bankroll": 460.293351142037,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19835,6 +19835,11 @@
       "timestamp": 1788622339.2396467,
       "bankroll": 456.92,
       "event": "won:  \u2014 Will Stoke City FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788622648.4996364,
+      "bankroll": 460.29,
+      "event": "won: zofgkt1111 \u2014 LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner"
     }
   ]
 }

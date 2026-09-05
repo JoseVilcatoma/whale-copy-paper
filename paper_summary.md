@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 10:36:04 (hora de Perú)
+Actualizado: 2026-09-05 10:38:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $456.92
-**Retorno acumulado:** -8.62%
+**Bankroll actual:** $460.29
+**Retorno acumulado:** -7.94%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 10:36:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $191.92)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $200.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 9 | 4 | 0 | +17.10 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 2 | +14.61 USD |
+| zofgkt1111 | 10 | 7 | 1 | +13.78 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | AV23IUa | 33 | 19 | 10 | +11.75 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| zofgkt1111 | 9 | 7 | 2 | +10.41 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -130,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3774
-- **Aciertos:** 2401 (63.6%)
+- **Apuestas resueltas:** 3775
+- **Aciertos:** 2402 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,845.24
-- **ROI sobre lo apostado:** -0.87%
-- **Comisiones pagadas (taker fee):** $347.67 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,850.24
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $347.78 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1916 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1917 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1125 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
@@ -809,7 +809,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 87% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds: O | Under (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 11.7% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 11.7% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ❌ perdida | -5.13 |
