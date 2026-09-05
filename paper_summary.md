@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 02:43:32 (hora de Perú)
+Actualizado: 2026-09-05 02:45:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -788,7 +788,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 52% | 5.00 | 17.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 63% | 5.00 | 240.9% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 63% | 5.00 | 273.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 2. | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Racing Club de Lens (-1.5) | FC Lorient (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
