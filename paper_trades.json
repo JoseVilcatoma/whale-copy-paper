@@ -97610,8 +97610,8 @@
     "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
     "outcome": "Yanaki Milev",
     "side": "BUY",
-    "whale_usd": 5833.397,
-    "whale_pct": 5.199,
+    "whale_usd": 8448.4595,
+    "whale_pct": 7.53,
     "whale_value_at_open": 112197.0228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -97622,8 +97622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788610289.7933095,
-    "fills": 3
+    "last_fill_at": 1788610373.3713896,
+    "fills": 4
   },
   {
     "timestamp": 1788592774,
@@ -97984,8 +97984,8 @@
     "title": "Manchester City FC vs. Coventry City FC: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1598.4528,
-    "whale_pct": 1.002,
+    "whale_usd": 16068.114199,
+    "whale_pct": 10.069,
     "whale_value_at_open": 159584.9357,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -97996,8 +97996,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788597354.9219055,
-    "fills": 1
+    "last_fill_at": 1788610352.6437812,
+    "fills": 3
   },
   {
     "timestamp": 1788597639,
