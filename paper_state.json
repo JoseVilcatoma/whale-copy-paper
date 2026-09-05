@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.82299992637115,
+  "bankroll": 445.58299992637114,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19760,6 +19760,16 @@
       "timestamp": 1788615089.1244583,
       "bankroll": 455.82,
       "event": "won: ferrariChampions2026 \u2014 KBO: NC Dinos vs. Kiwoom Heroes"
+    },
+    {
+      "timestamp": 1788615969.6676204,
+      "bankroll": 450.67,
+      "event": "lost: ferrariChampions2026 \u2014 Newcastle United FC vs. AFC Bournemouth: O/U 2.5"
+    },
+    {
+      "timestamp": 1788615970.0250845,
+      "bankroll": 445.58,
+      "event": "lost: ferrariChampions2026 \u2014 Newcastle United FC vs. AFC Bournemouth: O/U 3.5"
     }
   ]
 }

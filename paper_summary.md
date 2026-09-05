@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:44:15 (hora de Perú)
+Actualizado: 2026-09-05 08:46:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $455.82
-**Retorno acumulado:** -8.84%
+**Bankroll actual:** $445.58
+**Retorno acumulado:** -10.88%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 08:44:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $165.82)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $165.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 466 | 286 | 33 | -166.62 USD |
+| ferrariChampions2026 | 466 | 288 | 31 | -176.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3759
-- **Aciertos:** 2393 (63.7%)
-- **Cuota promedio de entrada:** 63.2%
+- **Apuestas resueltas:** 3761
+- **Aciertos:** 2393 (63.6%)
+- **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,770.24
-- **ROI sobre lo apostado:** -0.88%
-- **Comisiones pagadas (taker fee):** $345.91 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,780.24
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $346.15 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1904 | 50.3% | 50.1% | +0.1 pp |
-| 60-79% | 1123 | 69.8% | 67.8% | +2.0 pp |
+| 40-59% | 1905 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1124 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
@@ -814,6 +814,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Coco Gauf | Coco Gauff (BUY) | 98% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ✅ ganada | +4.32 |
-| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ❌ perdida | -5.09 |
+| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ❌ perdida | -5.15 |
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
