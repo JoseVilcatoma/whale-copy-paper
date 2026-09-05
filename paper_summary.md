@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:08:09 (hora de Perú)
+Actualizado: 2026-09-05 06:10:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.11
@@ -782,7 +782,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 58.7% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 64.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Coco Gauf | Coco Gauff (BUY) | 98% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
