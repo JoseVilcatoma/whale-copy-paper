@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:50:22 (hora de Perú)
+Actualizado: 2026-09-05 12:52:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $451.55
-**Retorno acumulado:** -9.69%
+**Bankroll actual:** $446.78
+**Retorno acumulado:** -10.64%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 12:50:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $231.55)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $261.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,13 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 1 | +26.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
 | HongYunX | 9 | 4 | 1 | +23.15 USD |
-| ChonkyChocolateCake | 48 | 30 | 1 | +19.69 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 9 | 4 | 0 | +17.10 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| zofgkt1111 | 10 | 7 | 1 | +13.78 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -43,6 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| zofgkt1111 | 10 | 8 | 0 | +8.68 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | ExplosiveNinja | 14 | 8 | 1 | +7.98 USD |
@@ -96,7 +96,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Talvez10 | 4 | 4 | 4 | -4.82 USD |
 | pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
-| TAIWANNUMBERONE | 35 | 25 | 1 | -4.93 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -112,32 +111,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | AGUGava | 1 | 2 | 2 | -9.08 USD |
+| TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| BBQChickenisthebesttt | 8 | 8 | 1 | -12.86 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 480 | 298 | 24 | -162.30 USD |
+| ferrariChampions2026 | 484 | 299 | 21 | -156.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3803
-- **Aciertos:** 2416 (63.5%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 3812
+- **Aciertos:** 2421 (63.5%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,990.24
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $350.83 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,035.24
+- **ROI sobre lo apostado:** -0.91%
+- **Comisiones pagadas (taker fee):** $351.77 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1935 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1132 | 69.5% | 67.8% | +1.8 pp |
+| 40-59% | 1941 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1135 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 510 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -791,6 +791,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: MOUZ (-1.5) vs Vitality (+ | Vitality (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Qinwen Zheng (BUY) | 93% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Nathaniel Wood (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -804,9 +806,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Under (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 4.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ✅ ganada | +5.51 |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
@@ -819,5 +821,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ✅ ganada | +0.15 |
 | Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 53% | 5.00 | 57.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 9.9% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |

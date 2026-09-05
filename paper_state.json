@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.55481835667825,
+  "bankroll": 446.7822255188742,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19980,6 +19980,51 @@
       "timestamp": 1788630428.948268,
       "bankroll": 451.55,
       "event": "lost: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: Spirit vs Team Falcons - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788630739.4199584,
+      "bankroll": 446.44,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788630740.5989919,
+      "bankroll": 441.33,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788630740.8902442,
+      "bankroll": 443.94,
+      "event": "won: ferrariChampions2026 \u2014 Games Total: O/U 4.5"
+    },
+    {
+      "timestamp": 1788630741.1919253,
+      "bankroll": 448.43,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: NIP (-1.5) vs JD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788630741.2920785,
+      "bankroll": 450.6,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788630742.2709157,
+      "bankroll": 445.5,
+      "event": "lost: zofgkt1111 \u2014 LoL: Ninjas in Pyjamas vs JD Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788630742.9026105,
+      "bankroll": 450.57,
+      "event": "won: DoNotTailMe \u2014 LoL: Ninjas in Pyjamas vs JD Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788630744.3964505,
+      "bankroll": 445.43,
+      "event": "lost: ferrariChampions2026 \u2014 Como: Juan Pablo Varillas vs Jay Clarke"
+    },
+    {
+      "timestamp": 1788630744.6388414,
+      "bankroll": 446.78,
+      "event": "won: ferrariChampions2026 \u2014 Como: Juan Pablo Varillas vs Jay Clarke"
     }
   ]
 }
