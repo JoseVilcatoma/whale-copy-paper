@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 18:52:09 (hora de Perú)
+Actualizado: 2026-09-05 18:54:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $405.37
-**Retorno acumulado:** -18.93%
+**Bankroll actual:** $404.08
+**Retorno acumulado:** -19.18%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 18:52:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $130.37)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $144.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,6 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | pleaseplease123 | 14 | 13 | 6 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -104,7 +105,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 1 | -5.14 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 1 | -7.75 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 41 | 2 | -100.16 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 513 | 321 | 27 | -193.08 USD |
+| ferrariChampions2026 | 514 | 322 | 25 | -196.15 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3881
-- **Aciertos:** 2460 (63.4%)
+- **Apuestas resueltas:** 3884
+- **Aciertos:** 2462 (63.4%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,380.24
-- **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $358.30 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,395.24
+- **ROI sobre lo apostado:** -1.14%
+- **Comisiones pagadas (taker fee):** $358.59 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.71% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,8 +147,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1973 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1160 | 69.5% | 67.8% | +1.7 pp |
+| 40-59% | 1974 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1162 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 521 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
 
@@ -809,7 +809,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 52% | 5.00 | 2.9% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 45% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -837,5 +837,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Zheng vs Gea | Gea (BUY) | 60% | 5.00 | 0.2% | ✅ ganada | +3.23 |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 50% | 5.00 | 31.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Baylor vs. Auburn | Auburn (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Baylor vs. Auburn | Auburn (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |

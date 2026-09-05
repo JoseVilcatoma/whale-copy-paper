@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.37216581493715,
+  "bankroll": 404.07833802628744,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20375,6 +20375,21 @@
       "timestamp": 1788651131.0009673,
       "bankroll": 405.37,
       "event": "won: ferrariChampions2026 \u2014 Spread: Sporting CP (-2.5)"
+    },
+    {
+      "timestamp": 1788652365.1650465,
+      "bankroll": 407.15,
+      "event": "won: 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 \u2014 Baylor vs. Auburn"
+    },
+    {
+      "timestamp": 1788652368.7547438,
+      "bankroll": 409.22,
+      "event": "won: ferrariChampions2026 \u2014 Baylor vs. Auburn"
+    },
+    {
+      "timestamp": 1788652374.5156612,
+      "bankroll": 404.08,
+      "event": "lost: ferrariChampions2026 \u2014 Baylor vs. Auburn"
     }
   ]
 }
