@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 17:32:59 (hora de Perú)
+Actualizado: 2026-09-05 17:35:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $389.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 17:32:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $149.30)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $144.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 3 | +26.80 USD |
-| HongYunX | 10 | 4 | 2 | +26.38 USD |
+| HongYunX | 10 | 4 | 3 | +26.38 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
@@ -805,6 +805,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 48% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -834,4 +835,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Chicken Coop Esports vs  | Chicken Coop Esports (BUY) | 75% | 5.00 | 173.1% | ⏳ pendiente | — |
 | us391 | Will Tigres de la UANL win on 2026-09-05 | No (BUY) | 43% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |

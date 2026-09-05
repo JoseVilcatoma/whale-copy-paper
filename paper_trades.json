@@ -101816,5 +101816,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788646462.0831592,
     "fills": 1
+  },
+  {
+    "timestamp": 1788647657,
+    "timestamp_added": 1788647658.1513221,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "mls-clb-col-2026-09-05-clb",
+    "title": "Will Columbus Crew win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 9297.9524,
+    "whale_pct": 18.515,
+    "whale_value_at_open": 50218.495,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788647658.1513338,
+    "fills": 1
   }
 ]
