@@ -1,5 +1,5 @@
 {
-  "bankroll": 456.68481835667825,
+  "bankroll": 451.55481835667825,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19975,6 +19975,11 @@
       "timestamp": 1788630112.708002,
       "bankroll": 456.68,
       "event": "won: DoNotTailMe \u2014 LoL: Karmine Corp vs GIANTX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788630428.948268,
+      "bankroll": 451.55,
+      "event": "lost: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: Spirit vs Team Falcons - Map 2 Winner"
     }
   ]
 }
