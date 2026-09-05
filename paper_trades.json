@@ -97308,5 +97308,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788582950.2677543,
     "fills": 1
+  },
+  {
+    "timestamp": 1788583093,
+    "timestamp_added": 1788583094.2429695,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-simakin-leong-2026-09-04",
+    "title": "Zhangjiagang: Ilia Simakin vs Mitsuki Wei Kang Leong",
+    "outcome": "Ilia Simakin",
+    "side": "BUY",
+    "whale_usd": 1170.0,
+    "whale_pct": 0.809,
+    "whale_value_at_open": 144636.4148,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788583094.2429821,
+    "fills": 1
   }
 ]
