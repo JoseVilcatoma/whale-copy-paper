@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 10559.059000000001,
-    "whale_pct": 8.527,
+    "whale_usd": 11156.159000000001,
+    "whale_pct": 9.009,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788597073.9590423,
-    "fills": 2
+    "last_fill_at": 1788602957.8972063,
+    "fills": 3
   },
   {
     "timestamp": 1788595377,
@@ -98378,8 +98378,8 @@
     "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 3653.251608,
-    "whale_pct": 12.503,
+    "whale_usd": 10000.451608000001,
+    "whale_pct": 34.225,
     "whale_value_at_open": 29219.4195,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -98393,7 +98393,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788602864.1356454,
-    "fills": 3
+    "last_fill_at": 1788602989.739707,
+    "fills": 5
   }
 ]
