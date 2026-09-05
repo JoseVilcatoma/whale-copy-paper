@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.21848355124143,
+  "bankroll": 376.08048355124146,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20290,6 +20290,11 @@
       "timestamp": 1788645151.8580513,
       "bankroll": 381.22,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Karen Khachanov vs Benjamin Bonzi"
+    },
+    {
+      "timestamp": 1788645765.894896,
+      "bankroll": 376.08,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Al Nassr Saudi Club (-1.5)"
     }
   ]
 }
