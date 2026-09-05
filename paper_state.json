@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.06926233691195,
+  "bankroll": 461.94926233691194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19630,6 +19630,11 @@
       "timestamp": 1788601700.9458632,
       "bankroll": 467.07,
       "event": "venta anticipada: zofgkt1111 \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner (-1.31 USD)"
+    },
+    {
+      "timestamp": 1788603182.3767354,
+      "bankroll": 461.95,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Invictus Gaming vs Top Esports - Game 2 Winner"
     }
   ]
 }
