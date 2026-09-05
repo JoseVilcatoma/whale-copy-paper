@@ -1,5 +1,5 @@
 {
-  "bankroll": 396.9109442915269,
+  "bankroll": 405.37216581493715,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20365,6 +20365,16 @@
       "timestamp": 1788650687.342874,
       "bankroll": 396.91,
       "event": "venta anticipada:  \u2014 Baylor vs. Auburn (+4.14 USD)"
+    },
+    {
+      "timestamp": 1788651130.049147,
+      "bankroll": 401.23,
+      "event": "won: ferrariChampions2026 \u2014 Sporting CP vs. CD Nacional: O/U 3.5"
+    },
+    {
+      "timestamp": 1788651131.0009673,
+      "bankroll": 405.37,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Sporting CP (-2.5)"
     }
   ]
 }

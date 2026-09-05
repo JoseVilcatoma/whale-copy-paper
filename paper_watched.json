@@ -8,55 +8,55 @@
   "0x42477970683d4d0a52ec7082fee5d760cc5591c4": {
     "username": "",
     "added_at": 1788626523.1126218,
-    "roi_pct": 368.01,
+    "roi_pct": 411.57,
     "short_term_pct": 80.0
   },
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1788630109.6776478,
-    "roi_pct": 286.48,
+    "roi_pct": 298.79,
     "short_term_pct": 100.0
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
     "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "added_at": 1788636582.8997145,
-    "roi_pct": 3412.58,
-    "short_term_pct": 100.0
-  },
-  "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
-    "username": "kekasaur",
-    "added_at": 1788639354.7828255,
-    "roi_pct": 2710.31,
+    "roi_pct": 3395.33,
     "short_term_pct": 100.0
   },
   "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814": {
     "username": "sbsigner",
     "added_at": 1788643015.64714,
-    "roi_pct": 428.93,
+    "roi_pct": 428.8,
     "short_term_pct": 100.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1788646734.654711,
-    "roi_pct": 281.41,
+    "roi_pct": 205.28,
     "short_term_pct": 100.0
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "username": "Jsram",
     "added_at": 1788646734.6547153,
-    "roi_pct": 310.06,
+    "roi_pct": 310.31,
     "short_term_pct": 100.0
   },
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1788648596.7974904,
-    "roi_pct": 297.04,
-    "short_term_pct": 50.0
+    "roi_pct": 290.48,
+    "short_term_pct": 60.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788650243.606805,
-    "roi_pct": 767.94,
+    "roi_pct": 757.72,
+    "short_term_pct": 100.0
+  },
+  "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "added_at": 1788651178.480461,
+    "roi_pct": 219.23,
     "short_term_pct": 100.0
   }
 }
