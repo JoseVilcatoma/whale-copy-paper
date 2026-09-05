@@ -98146,5 +98146,33 @@
     "fills": 1,
     "fee_total_usd": 0.202,
     "closed_price": 57
+  },
+  {
+    "timestamp": 1788599939,
+    "timestamp_added": 1788599939.5091722,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-hle1-2026-09-05",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 896.0,
+    "whale_pct": 0.472,
+    "whale_value_at_open": 189641.2364,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BBQChickenisthebesttt",
+      "BrotherObama",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788599939.5091827,
+    "fills": 1
   }
 ]
