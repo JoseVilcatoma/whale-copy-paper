@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 14:27:49 (hora de Perú)
+Actualizado: 2026-09-05 14:29:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $404.39
@@ -797,11 +797,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Sporting CP (-2.5) | CD Nacional (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Jsram | UFC Fight Night: Trevor Peek vs. Kurtis  | Kurtis Campbell (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Orlando City SC win on 2026-09-05? | No (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Jsram | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 66% | 5.00 | 22.8% | ⏳ pendiente | — |
+| Jsram | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 66% | 5.00 | 37.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Villarreal CF win on 2026-09-05? | Yes (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Muhammad Naimov vs. Los | Losene Keita (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 108.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 8.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Darderi vs Sweeny | Darderi (BUY) | 70% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Villarreal CF vs. RC Deportivo A Co | No (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Marie Bouzkova (BUY) | 42% | 5.00 | 0.8% | ⏳ pendiente | — |

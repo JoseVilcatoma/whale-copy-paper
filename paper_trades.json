@@ -97960,8 +97960,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 21228.4916,
-    "whale_pct": 14.299,
+    "whale_usd": 22081.123178,
+    "whale_pct": 14.873,
     "whale_value_at_open": 148464.6019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -97972,8 +97972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635705.8225899,
-    "fills": 4
+    "last_fill_at": 1788636502.3626833,
+    "fills": 5
   },
   {
     "timestamp": 1788597354,
@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 81658.64729499999,
-    "whale_pct": 23.002,
+    "whale_usd": 84009.53148499998,
+    "whale_pct": 23.664,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636454.0619195,
-    "fills": 17
+    "last_fill_at": 1788636473.7678711,
+    "fills": 19
   },
   {
     "timestamp": 1788613644,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 14891.039922,
-    "whale_pct": 4.33,
+    "whale_usd": 27828.785722,
+    "whale_pct": 8.091,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636393.0053232,
-    "fills": 6
+    "last_fill_at": 1788636516.893793,
+    "fills": 9
   },
   {
     "timestamp": 1788635522,
@@ -100652,8 +100652,8 @@
     "title": "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)",
     "outcome": "Michael Page",
     "side": "BUY",
-    "whale_usd": 30519.177000000003,
-    "whale_pct": 22.836,
+    "whale_usd": 50674.2145,
+    "whale_pct": 37.916,
     "whale_value_at_open": 133647.1965,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -100664,8 +100664,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636340.106924,
-    "fills": 2
+    "last_fill_at": 1788636532.1067898,
+    "fills": 3
   },
   {
     "timestamp": 1788636140,
