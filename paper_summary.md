@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:20:33 (hora de Perú)
+Actualizado: 2026-09-05 06:22:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.00
-**Retorno acumulado:** -7.20%
+**Bankroll actual:** $473.88
+**Retorno acumulado:** -5.22%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 06:20:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $169.00)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $188.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| zofgkt1111 | 7 | 6 | 3 | +6.70 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
@@ -62,11 +63,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
+| TAIWANNUMBERONE | 34 | 23 | 4 | +2.93 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| zofgkt1111 | 6 | 6 | 4 | +2.56 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
 | BBQChickenisthebesttt | 8 | 5 | 4 | +2.50 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
@@ -94,7 +95,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | kekasaur | 10 | 10 | 0 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| TAIWANNUMBERONE | 33 | 23 | 5 | -2.80 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Talvez10 | 4 | 4 | 1 | -4.82 USD |
@@ -130,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3737
-- **Aciertos:** 2380 (63.7%)
+- **Apuestas resueltas:** 3739
+- **Aciertos:** 2382 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,660.24
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $343.78 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,670.24
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $344.03 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1893 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1895 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1115 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -783,7 +783,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 64.8% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 73.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Coco Gauf | Coco Gauff (BUY) | 98% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
