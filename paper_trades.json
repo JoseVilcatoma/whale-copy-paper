@@ -99769,5 +99769,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788628163.8078594,
     "fills": 1
+  },
+  {
+    "timestamp": 1788628397,
+    "timestamp_added": 1788628397.9842887,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blockx-cobolli-2026-09-04",
+    "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 2109.619999,
+    "whale_pct": 0.369,
+    "whale_value_at_open": 571509.7138,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788628397.9843009,
+    "fills": 1
   }
 ]
