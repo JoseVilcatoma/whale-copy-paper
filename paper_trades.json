@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 44334.092819,
-    "whale_pct": 35.802,
+    "whale_usd": 46912.70695199999,
+    "whale_pct": 37.885,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634492.4612544,
-    "fills": 10
+    "last_fill_at": 1788634900.7449942,
+    "fills": 13
   },
   {
     "timestamp": 1788595377,
@@ -100021,8 +100021,8 @@
     "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 22181.782597000005,
-    "whale_pct": 6.104,
+    "whale_usd": 40912.603607000005,
+    "whale_pct": 11.259,
     "whale_value_at_open": 363369.8664,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -100033,8 +100033,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634134.868422,
-    "fills": 11
+    "last_fill_at": 1788634936.3184326,
+    "fills": 14
   },
   {
     "timestamp": 1788631199,
@@ -100497,6 +100497,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788634598.5348723,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788634889,
+    "timestamp_added": 1788634889.7596912,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-vil-dep-2026-09-05-draw",
+    "title": "Will Villarreal CF vs. RC Deportivo A Coru\u00f1a end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 543.32,
+    "whale_pct": 0.16,
+    "whale_value_at_open": 339703.4802,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788634889.7597034,
     "fills": 1
   }
 ]
