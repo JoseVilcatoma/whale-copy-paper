@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:00:47 (hora de Perú)
+Actualizado: 2026-09-05 13:02:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.78
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:00:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $251.78)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $241.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Talvez10 | 4 | 4 | 4 | -4.82 USD |
+| Talvez10 | 4 | 4 | 5 | -4.82 USD |
 | pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 484 | 299 | 22 | -156.81 USD |
+| ferrariChampions2026 | 484 | 299 | 23 | -156.81 USD |
 
 ## Análisis general
 
@@ -785,13 +785,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swiatek-bouzkov-2026-09-04 | AGUGava, ferrariChampions2026 |
 | lol-nip-jdg-2026-09-05-game3 | DoNotTailMe, zofgkt1111 |
 | cs2-ts7-fal2-2026-09-05-game1 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, ExplosiveNinja |
+| ufc-mbukau-oum-2026-09-05 | Talvez10, ferrariChampions2026 |
 | ufc-nor4-kla-2026-09-05 | Sassy-Bucket, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 19.2% | ⏳ pendiente | — |
+| Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 0.8% | ⏳ pendiente | — |
+| kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 26.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -819,5 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 71% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Team Falcons (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ❌ perdida | -5.03 |
-| DoNotTailMe | LoL: Karmine Corp vs GIANTX - Game 2 Win | GIANTX (BUY) | 49% | 5.00 | 78.9% | ✅ ganada | +5.08 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ✅ ganada | +0.15 |
