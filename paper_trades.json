@@ -99410,8 +99410,8 @@
     "title": "Counter-Strike: Spirit vs Team Falcons - Map 2 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 684.7357999999999,
-    "whale_pct": 4.326,
+    "whale_usd": 3640.3072999999995,
+    "whale_pct": 23.0,
     "whale_value_at_open": 15827.184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -99422,7 +99422,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788620824.3172987,
-    "fills": 1
+    "last_fill_at": 1788620839.251172,
+    "fills": 2
   }
 ]
