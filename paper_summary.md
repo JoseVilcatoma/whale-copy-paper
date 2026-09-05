@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:39:02 (hora de Perú)
+Actualizado: 2026-09-05 03:41:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 03:39:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $288.83)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $278.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | kekasaur | 10 | 10 | 0 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| BBQChickenisthebesttt | 7 | 5 | 2 | -2.79 USD |
+| BBQChickenisthebesttt | 7 | 5 | 3 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Talvez10 | 4 | 4 | 0 | -4.82 USD |
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 15 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 16 | -173.20 USD |
 
 ## Análisis general
 
@@ -765,7 +765,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-kt-dk-2026-09-04-game3 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, BBQChickenisthebesttt, zofgkt1111 |
 | lol-kt-dk-2026-09-04-game4 | BrotherObama, zofgkt1111 |
 | fl1-psg-asm-2026-09-04-total-3pt5 | HongYunX, tikstt |
-| lol-gen-hle1-2026-09-05 | BrotherObama, TAIWANNUMBERONE, ferrariChampions2026 |
+| lol-gen-hle1-2026-09-05 | BBQChickenisthebesttt, BrotherObama, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-montes-jones-2026-09-04 | fRibrenlc, ferrariChampions2026 |
 | lal-bet-rea-2026-09-04-rea | , tikstt |
 | mlb-det-cle-2026-06-14 | 1winstreak1, Feromont |
@@ -781,6 +781,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manchester City FC vs. Coventry City FC: | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dane Swe | Luciano Darderi (BUY) | 78% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: TES (-1.5) vs Invictus Ga | Invictus Gaming (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -809,5 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ❌ perdida | -5.04 |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 18.6% | ✅ ganada | +0.59 |
