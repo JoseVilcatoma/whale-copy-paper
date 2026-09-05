@@ -99030,5 +99030,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788611396.3395264,
     "fills": 2
+  },
+  {
+    "timestamp": 1788613644,
+    "timestamp_added": 1788613645.407882,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-chc-mia-2026-09-05",
+    "title": "Chicago Cubs vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 559.26,
+    "whale_pct": 17.83,
+    "whale_value_at_open": 3136.641,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788613645.4078965,
+    "fills": 1
   }
 ]
