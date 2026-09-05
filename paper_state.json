@@ -1,5 +1,5 @@
 {
-  "bankroll": 460.293351142037,
+  "bankroll": 468.6287841958787,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19840,6 +19840,26 @@
       "timestamp": 1788622648.4996364,
       "bankroll": 460.29,
       "event": "won: zofgkt1111 \u2014 LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788622950.8704803,
+      "bankroll": 466.78,
+      "event": "won: ferrariChampions2026 \u2014 SC Paderborn 07 vs. SC Freiburg: O/U 2.5"
+    },
+    {
+      "timestamp": 1788622954.2639039,
+      "bankroll": 471.85,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Bayer 04 Leverkusen (-1.5)"
+    },
+    {
+      "timestamp": 1788622955.695877,
+      "bankroll": 466.75,
+      "event": "lost: ferrariChampions2026 \u2014 SC Paderborn 07 vs. SC Freiburg: O/U 2.5"
+    },
+    {
+      "timestamp": 1788622958.8976927,
+      "bankroll": 468.63,
+      "event": "won: AV23IUa \u2014 Will Bayer 04 Leverkusen win on 2026-09-05?"
     }
   ]
 }
