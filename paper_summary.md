@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 10:05:08 (hora de Perú)
+Actualizado: 2026-09-05 10:07:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 10:05:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $161.23)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $156.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 1 | +2.54 USD |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 2 | +2.54 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -789,6 +789,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Team Falcons (BUY) | 48% | 5.00 | 4.3% | ⏳ pendiente | — |
 | beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Karmine Corp vs GIANTX - Game 2 Win | GIANTX (BUY) | 49% | 5.00 | 78.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ⏳ pendiente | — |
@@ -818,4 +819,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 44% | 5.00 | 28.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Valerio Aboian (BUY) | 61% | 5.00 | 4.3% | ❌ perdida | -5.10 |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ❌ perdida | -5.14 |
-| BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 204.7% | ⏳ pendiente | — |

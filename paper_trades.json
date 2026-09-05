@@ -99400,5 +99400,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788620259.031845,
     "fills": 1
+  },
+  {
+    "timestamp": 1788620823,
+    "timestamp_added": 1788620824.3172872,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "cs2-ts7-fal2-2026-09-05-game2",
+    "title": "Counter-Strike: Spirit vs Team Falcons - Map 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 684.7357999999999,
+    "whale_pct": 4.326,
+    "whale_value_at_open": 15827.184,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788620824.3172987,
+    "fills": 1
   }
 ]
