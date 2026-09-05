@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:48:37 (hora de Perú)
+Actualizado: 2026-09-05 13:50:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $431.05
-**Retorno acumulado:** -13.79%
+**Bankroll actual:** $429.15
+**Retorno acumulado:** -14.17%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:48:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $191.05)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $199.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,10 +28,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 1 | +26.80 USD |
+| HongYunX | 10 | 4 | 0 | +26.38 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
-| HongYunX | 9 | 4 | 1 | +23.15 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 9 | 4 | 0 | +17.10 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 487 | 302 | 30 | -162.36 USD |
+| ferrariChampions2026 | 487 | 303 | 29 | -167.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3820
-- **Aciertos:** 2424 (63.5%)
+- **Apuestas resueltas:** 3822
+- **Aciertos:** 2425 (63.4%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,075.24
-- **ROI sobre lo apostado:** -0.99%
-- **Comisiones pagadas (taker fee):** $352.45 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,085.24
+- **ROI sobre lo apostado:** -1.00%
+- **Comisiones pagadas (taker fee):** $352.68 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1944 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1139 | 69.4% | 67.8% | +1.6 pp |
+| 40-59% | 1945 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1140 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 511 | 85.5% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -810,7 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 12.7% | ❌ perdida | -5.08 |
 | kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 33.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 6.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: MOUZ (-1.5) vs Vitality (+ | Vitality (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |

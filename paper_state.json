@@ -1,5 +1,5 @@
 {
-  "bankroll": 431.0464389058076,
+  "bankroll": 429.1547722391409,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20065,6 +20065,16 @@
       "timestamp": 1788633555.1073937,
       "bankroll": 431.05,
       "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)"
+    },
+    {
+      "timestamp": 1788634164.1261437,
+      "bankroll": 425.92,
+      "event": "lost: ferrariChampions2026 \u2014 Hull City AFC vs. Aston Villa FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788634167.9516375,
+      "bankroll": 429.15,
+      "event": "won: HongYunX \u2014 FC Schalke 04 vs. FC Bayern M\u00fcnchen: O/U 4.5"
     }
   ]
 }
