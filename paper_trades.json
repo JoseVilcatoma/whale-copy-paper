@@ -97270,8 +97270,8 @@
     "title": "US Open ATP: Ben Shelton vs Denis Shapovalov",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 7135.242542,
-    "whale_pct": 4.656,
+    "whale_usd": 19269.132542,
+    "whale_pct": 12.573,
     "whale_value_at_open": 153255.5947,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -97282,8 +97282,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788582790.22567,
-    "fills": 3
+    "last_fill_at": 1788584115.457821,
+    "fills": 4
   },
   {
     "timestamp": 1788582949,
@@ -97356,5 +97356,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788583567.4305894,
     "fills": 1
+  },
+  {
+    "timestamp": 1788584106,
+    "timestamp_added": 1788584107.231242,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-04",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 8403.222218,
+    "whale_pct": 4.69,
+    "whale_value_at_open": 179168.8949,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788584108.627822,
+    "fills": 2
   }
 ]
