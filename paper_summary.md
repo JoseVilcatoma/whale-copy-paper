@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:36:57 (hora de Perú)
+Actualizado: 2026-09-05 03:39:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -789,7 +789,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Nottingham Forest FC vs. Tottenham Hotsp | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Gen.G (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Invictus Gaming vs Top Esports (BO5 | Top Esports (BUY) | 67% | 5.00 | 9.5% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 14.8% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 47% | 5.00 | 202.8% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 57% | 5.00 | 85.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Alexander Blockx (BUY) | 50% | 5.00 | 8.5% | ⏳ pendiente | — |
