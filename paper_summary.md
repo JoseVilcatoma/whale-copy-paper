@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 00:24:11 (hora de Perú)
+Actualizado: 2026-09-05 00:26:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.79
-**Retorno acumulado:** -7.04%
+**Bankroll actual:** $465.99
+**Retorno acumulado:** -6.80%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 00:24:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $374.79)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $380.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 455 | 284 | 6 | -177.48 USD |
+| ferrariChampions2026 | 456 | 284 | 5 | -176.28 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3730
-- **Aciertos:** 2376 (63.7%)
+- **Apuestas resueltas:** 3731
+- **Aciertos:** 2377 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,625.24
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $343.21 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,630.24
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $343.26 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -146,7 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1890 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1113 | 69.9% | 67.8% | +2.1 pp |
-| 80-94% | 502 | 85.7% | 86.7% | -1.0 pp |
+| 80-94% | 503 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -778,7 +778,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Spread: Racing Club de Lens (-1.5) | FC Lorient (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ❌ perdida | -5.04 |

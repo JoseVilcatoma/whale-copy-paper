@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.7866013856069,
+  "bankroll": 465.9866013856069,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19595,6 +19595,11 @@
       "timestamp": 1788585785.161951,
       "bankroll": 464.79,
       "event": "lost: Talvez10 \u2014 Zack Gelof: Home Runs O/U 0.5"
+    },
+    {
+      "timestamp": 1788585971.7532878,
+      "bankroll": 465.99,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
     }
   ]
 }
