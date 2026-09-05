@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:00:45 (hora de Perú)
+Actualizado: 2026-09-05 16:02:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $404.06
-**Retorno acumulado:** -19.19%
+**Bankroll actual:** $396.06
+**Retorno acumulado:** -20.79%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 16:00:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $99.06)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $101.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| kekasaur | 10 | 10 | 1 | -2.52 USD |
+| kekasaur | 10 | 10 | 2 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 498 | 310 | 38 | -173.40 USD |
+| ferrariChampions2026 | 499 | 312 | 35 | -181.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3845
-- **Aciertos:** 2437 (63.4%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 3848
+- **Aciertos:** 2438 (63.4%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,200.24
-- **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $354.76 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,215.24
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $355.12 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,8 +147,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1954 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1149 | 69.4% | 67.8% | +1.6 pp |
+| 40-59% | 1956 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1150 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 516 | 85.3% | 86.7% | -1.4 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -801,6 +801,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Will Ceará SC win on 2026-09-05? | No (BUY) | 61% | 5.00 | 32.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -817,12 +818,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians:  | Over (BUY) | 57% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 1.0% | ✅ ganada | +2.27 |
 | Talvez10 | O/U 3.5 Rounds | Under (BUY) | 73% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sol | Axel Sola (BUY) | 42% | 5.00 | 43.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -830,4 +831,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Khachanov vs Bonzi | Khachanov (BUY) | 60% | 5.00 | 0.1% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Spread: Sporting CP (-2.5) | CD Nacional (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Jsram | UFC Fight Night: Trevor Peek vs. Kurtis  | Kurtis Campbell (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Will Orlando City SC win on 2026-09-05? | No (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |

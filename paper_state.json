@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.0623922245798,
+  "bankroll": 396.0553334010504,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20190,6 +20190,21 @@
       "timestamp": 1788641749.7322528,
       "bankroll": 404.06,
       "event": "lost: ferrariChampions2026 \u2014 CS Mar\u00edtimo vs. Sport Lisboa e Benfica: O/U 2.5"
+    },
+    {
+      "timestamp": 1788642063.327335,
+      "bankroll": 398.93,
+      "event": "lost: ferrariChampions2026 \u2014 AS Roma vs. Atalanta BC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788642066.2650259,
+      "bankroll": 401.2,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Punahele Soriano vs. Daniil Donchenko (Welterweight, Main Card)"
+    },
+    {
+      "timestamp": 1788642067.0346243,
+      "bankroll": 396.06,
+      "event": "lost: ferrariChampions2026 \u2014 Will Atalanta BC win on 2026-09-05?"
     }
   ]
 }
