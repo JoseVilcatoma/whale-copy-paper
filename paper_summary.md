@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 10:46:19 (hora de Perú)
+Actualizado: 2026-09-05 10:48:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.63
-**Retorno acumulado:** -6.27%
+**Bankroll actual:** $464.65
+**Retorno acumulado:** -7.07%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 10:46:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $228.63)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $239.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| HongYunX | 9 | 3 | 2 | +28.26 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
+| HongYunX | 9 | 4 | 1 | +23.15 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 9 | 4 | 0 | +17.10 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 472 | 293 | 21 | -169.25 USD |
+| ferrariChampions2026 | 473 | 294 | 19 | -168.12 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3779
-- **Aciertos:** 2405 (63.6%)
+- **Apuestas resueltas:** 3782
+- **Aciertos:** 2406 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,870.24
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $348.22 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,885.24
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $348.56 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1919 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1127 | 69.7% | 67.8% | +1.9 pp |
+| 40-59% | 1921 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 1128 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -798,7 +798,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 53% | 5.00 | 53.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 9.9% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 67% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -811,7 +811,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Milwaukee Brewers vs. Cincinnati Reds: O | Under (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 11.7% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ⏳ pendiente | — |
+| HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |

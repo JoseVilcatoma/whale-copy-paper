@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.6287841958787,
+  "bankroll": 464.6524205595151,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19860,6 +19860,21 @@
       "timestamp": 1788622958.8976927,
       "bankroll": 468.63,
       "event": "won: AV23IUa \u2014 Will Bayer 04 Leverkusen win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788623263.1776118,
+      "bankroll": 474.85,
+      "event": "won: ferrariChampions2026 \u2014 Borussia M\u00f6nchengladbach vs. SV 07 Elversberg: O/U 3.5"
+    },
+    {
+      "timestamp": 1788623265.9899824,
+      "bankroll": 469.74,
+      "event": "lost: HongYunX \u2014 Borussia M\u00f6nchengladbach vs. SV 07 Elversberg: O/U 3.5"
+    },
+    {
+      "timestamp": 1788623269.1968231,
+      "bankroll": 464.65,
+      "event": "lost: ferrariChampions2026 \u2014 Manacor: Mark Lajal vs Felix Balshaw"
     }
   ]
 }
