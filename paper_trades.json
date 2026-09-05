@@ -99286,8 +99286,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 19003.832400000003,
-    "whale_pct": 53.804,
+    "whale_usd": 20446.788000000004,
+    "whale_pct": 57.889,
     "whale_value_at_open": 35320.6247,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -99298,8 +99298,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788622253.4601622,
-    "fills": 3
+    "last_fill_at": 1788627984.9377925,
+    "fills": 4
   },
   {
     "timestamp": 1788617393,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:04:47 (hora de Perú)
+Actualizado: 2026-09-05 12:06:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.41
@@ -808,7 +808,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Karmine Corp vs GIANTX - Game 2 Win | GIANTX (BUY) | 49% | 5.00 | 78.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ✅ ganada | +0.15 |
 | Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Talvez10 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 53% | 5.00 | 53.8% | ⏳ pendiente | — |
+| Talvez10 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 53% | 5.00 | 57.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 9.9% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
