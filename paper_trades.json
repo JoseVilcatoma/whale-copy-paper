@@ -98006,8 +98006,8 @@
     "title": "Spread: Manchester City FC (-2.5)",
     "outcome": "Coventry City FC",
     "side": "BUY",
-    "whale_usd": 3837.089999,
-    "whale_pct": 2.349,
+    "whale_usd": 14055.769997999998,
+    "whale_pct": 8.603,
     "whale_value_at_open": 163381.4528,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -98018,8 +98018,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788597640.6109064,
-    "fills": 1
+    "last_fill_at": 1788598042.3399644,
+    "fills": 2
   },
   {
     "timestamp": 1788597664,
@@ -98048,5 +98048,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788597667.2035525,
     "fills": 4
+  },
+  {
+    "timestamp": 1788598018,
+    "timestamp_added": 1788598018.7671435,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-avi-hol-2026-09-05-total-2pt5",
+    "title": "Avispa Fukuoka vs. FC Mito Holly Hock: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1479.5592000000001,
+    "whale_pct": 0.877,
+    "whale_value_at_open": 168743.1529,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788598018.7671552,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:45:18 (hora de Perú)
+Actualizado: 2026-09-05 03:47:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 03:45:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $278.83)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $273.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 16 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 17 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,8 +781,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Avispa Fukuoka vs. FC Mito Holly Hock: O | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manchester City FC vs. Coventry City FC: | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dane Swe | Luciano Darderi (BUY) | 78% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: TES (-1.5) vs Invictus Ga | Invictus Gaming (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
