@@ -98599,8 +98599,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Nikola Bartunkova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 26632.872396000002,
-    "whale_pct": 11.465,
+    "whale_usd": 30575.572396000003,
+    "whale_pct": 13.162,
     "whale_value_at_open": 232296.6724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -98611,8 +98611,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788605723.8564065,
-    "fills": 2
+    "last_fill_at": 1788628279.898207,
+    "fills": 3
   },
   {
     "timestamp": 1788606054,
