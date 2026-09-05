@@ -102043,5 +102043,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788649579.2222595,
     "fills": 1
+  },
+  {
+    "timestamp": 1788649731,
+    "timestamp_added": 1788649731.981045,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-phi-mim-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Philadelphia Union (-1.5)",
+    "outcome": "CF Montr\u00e9al",
+    "side": "BUY",
+    "whale_usd": 1364.3802,
+    "whale_pct": 0.393,
+    "whale_value_at_open": 346929.5571,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HongYunX"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788649731.9810584,
+    "fills": 1
   }
 ]
