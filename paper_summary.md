@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:08:54 (hora de Perú)
+Actualizado: 2026-09-05 16:10:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 16:08:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $116.31)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $111.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 501 | 314 | 32 | -186.81 USD |
+| ferrariChampions2026 | 501 | 314 | 33 | -186.81 USD |
 
 ## Análisis general
 
@@ -795,12 +795,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sf-nym-2026-09-05-total-8pt5 | Talvez10, ferrariChampions2026 |
 | ufc-far-axe-2026-09-05 | Sassy-Bucket, Talvez10 |
 | ufc-mic32-nur1-2026-09-05 | Jsram, ferrariChampions2026 |
+| cfb-bayl-aubrn-2026-09-05 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816, ferrariChampions2026 |
 | mlb-tb-tex-2026-09-05 | ferrariChampions2026, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Baylor vs. Auburn | Auburn (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | kekasaur | Will Ceará SC win on 2026-09-05? | No (BUY) | 61% | 5.00 | 69.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -809,7 +811,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 27.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Michael Zheng (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Dan Hooker vs. Salahdin | Salahdine Parnasse (BUY) | 81% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Dan Hooker vs. Salahdin | Salahdine Parnasse (BUY) | 81% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Arthur Gea (BUY) | 52% | 5.00 | 4.7% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 54% | 5.00 | 21.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Chicken Coop Esports vs  | Chicken Coop Esports (BUY) | 75% | 5.00 | 24.1% | ⏳ pendiente | — |
@@ -830,4 +832,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Eldense vs. RCD Mallorca: O/U 1.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Khachanov vs Bonzi | Khachanov (BUY) | 60% | 5.00 | 0.1% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Spread: Sporting CP (-2.5) | CD Nacional (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
