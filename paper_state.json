@@ -1,5 +1,5 @@
 {
-  "bankroll": 424.2648710045731,
+  "bankroll": 409.4523764990785,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20095,6 +20095,26 @@
       "timestamp": 1788635904.9934797,
       "bankroll": 424.26,
       "event": "lost: ferrariChampions2026 \u2014 Map Handicap: MOUZ (-1.5) vs Vitality (+1.5)"
+    },
+    {
+      "timestamp": 1788636026.003013,
+      "bankroll": 419.17,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788636028.6684926,
+      "bankroll": 414.07,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788636029.6743555,
+      "bankroll": 408.98,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788636032.5675895,
+      "bankroll": 409.45,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs"
     }
   ]
 }
