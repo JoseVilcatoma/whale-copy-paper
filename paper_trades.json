@@ -98661,5 +98661,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788606122.980893,
     "fills": 1
+  },
+  {
+    "timestamp": 1788606318,
+    "timestamp_added": 1788606319.3086514,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-nip-jdg-2026-09-05",
+    "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 5311.526,
+    "whale_pct": 58.738,
+    "whale_value_at_open": 9042.6787,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788606319.3086655,
+    "fills": 1
   }
 ]
