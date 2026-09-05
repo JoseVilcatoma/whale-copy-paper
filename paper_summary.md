@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:39:11 (hora de Perú)
+Actualizado: 2026-09-05 04:41:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.38
@@ -783,7 +783,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
