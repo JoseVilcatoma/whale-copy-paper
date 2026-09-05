@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.11568812882524,
+  "bankroll": 457.62769958603974,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19910,6 +19910,26 @@
       "timestamp": 1788625441.083201,
       "bankroll": 459.12,
       "event": "lost: AV23IUa \u2014 Will Brighton & Hove Albion FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788626066.5796478,
+      "bankroll": 454.04,
+      "event": "lost: AV23IUa \u2014 Spread: Manchester City FC (-1.5)"
+    },
+    {
+      "timestamp": 1788626070.2669742,
+      "bankroll": 459.11,
+      "event": "won: ferrariChampions2026 \u2014 Manchester City FC vs. Coventry City FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1788626070.595655,
+      "bankroll": 462.78,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Manchester City FC (-2.5)"
+    },
+    {
+      "timestamp": 1788626071.9873745,
+      "bankroll": 457.63,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Manchester City FC (-2.5)"
     }
   ]
 }

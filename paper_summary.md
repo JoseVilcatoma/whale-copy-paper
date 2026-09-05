@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:33:39 (hora de Perú)
+Actualizado: 2026-09-05 11:35:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $459.12
-**Retorno acumulado:** -8.18%
+**Bankroll actual:** $457.63
+**Retorno acumulado:** -8.47%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 11:33:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $264.12)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $282.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
-| AV23IUa | 34 | 21 | 7 | +3.36 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -87,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| AV23IUa | 34 | 22 | 6 | -1.72 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
@@ -126,17 +126,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 475 | 296 | 15 | -169.61 USD |
+| ferrariChampions2026 | 477 | 297 | 12 | -166.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3789
-- **Aciertos:** 2409 (63.6%)
+- **Apuestas resueltas:** 3793
+- **Aciertos:** 2411 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,920.24
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $349.43 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $18,940.24
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $349.89 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1927 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1129 | 69.6% | 67.8% | +1.9 pp |
+| 40-59% | 1930 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 1130 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -818,5 +818,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Manchester City FC (BUY) | 41% | 5.00 | 4.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Manchester City FC (BUY) | 41% | 5.00 | 4.2% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Spread: Shandong Taishan FC (-1.5) | Shenzhen Xinpengcheng FC (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |
