@@ -99424,5 +99424,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788620839.251172,
     "fills": 2
+  },
+  {
+    "timestamp": 1788621782,
+    "timestamp_added": 1788621783.4624739,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-mbukau-oum-2026-09-05",
+    "title": "UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)",
+    "outcome": "Oumar Sy",
+    "side": "BUY",
+    "whale_usd": 501.2,
+    "whale_pct": 0.744,
+    "whale_value_at_open": 67370.7051,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788621783.4624898,
+    "fills": 1
   }
 ]
