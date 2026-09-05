@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.68868339976046,
+  "bankroll": 441.2306049683879,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19795,6 +19795,16 @@
       "timestamp": 1788620022.7739346,
       "bankroll": 441.69,
       "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Yanaki Milev vs Valerio Aboian"
+    },
+    {
+      "timestamp": 1788620331.0957909,
+      "bankroll": 446.37,
+      "event": "won: ferrariChampions2026 \u2014 Spread: VfL Wolfsburg (-1.5)"
+    },
+    {
+      "timestamp": 1788620334.2693543,
+      "bankroll": 441.23,
+      "event": "lost: ferrariChampions2026 \u2014 1. FC Kaiserslautern vs. SV Darmstadt 98: O/U 2.5"
     }
   ]
 }

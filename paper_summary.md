@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 09:56:51 (hora de Perú)
+Actualizado: 2026-09-05 09:59:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.69
-**Retorno acumulado:** -11.66%
+**Bankroll actual:** $441.23
+**Retorno acumulado:** -11.75%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 09:56:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $156.69)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $161.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| beachboy4 | 7 | 2 | 0 | +1.95 USD |
+| beachboy4 | 7 | 2 | 1 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
@@ -126,17 +126,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 468 | 290 | 28 | -175.63 USD |
+| ferrariChampions2026 | 469 | 291 | 26 | -176.09 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3766
-- **Aciertos:** 2395 (63.6%)
+- **Apuestas resueltas:** 3768
+- **Aciertos:** 2396 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,805.24
+- **Total apostado (suma de stakes):** $18,815.24
 - **ROI sobre lo apostado:** -0.95%
-- **Comisiones pagadas (taker fee):** $346.76 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $347.02 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1909 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1911 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1125 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -773,6 +773,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
 | mlb-det-cle-2026-09-04 | ferrariChampions2026, pleaseplease123 |
 | mlb-laa-pit-2026-09-04 | , Feromont |
+| wta-potapov-anisimo-2026-09-04 | beachboy4, ferrariChampions2026 |
 | cs2-mouz-vit-2026-09-05 | AV23IUa, ExplosiveNinja |
 | lol-nip-jdg-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-gen-hle1-2026-09-05-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
@@ -788,6 +789,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Karmine Corp vs GIANTX - Game 2 Win | GIANTX (BUY) | 49% | 5.00 | 78.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -817,4 +819,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Valerio Aboian (BUY) | 61% | 5.00 | 4.3% | ❌ perdida | -5.10 |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ❌ perdida | -5.14 |
 | BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 204.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
