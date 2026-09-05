@@ -97720,5 +97720,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788594115.4991634,
     "fills": 1
+  },
+  {
+    "timestamp": 1788595377,
+    "timestamp_added": 1788595378.1794243,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-ig1-tes-2026-09-05-game3",
+    "title": "LoL: Invictus Gaming vs Top Esports - Game 3 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "whale_usd": 8534.8678,
+    "whale_pct": 85.391,
+    "whale_value_at_open": 9995,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788595414.0880332,
+    "fills": 3
   }
 ]

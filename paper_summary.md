@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:01:51 (hora de Perú)
+Actualizado: 2026-09-05 03:03:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 03:01:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $343.83)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $338.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 8 | 4 | 0 | +10.88 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
+| zofgkt1111 | 6 | 3 | 1 | +9.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -778,6 +778,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 57% | 5.00 | 85.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Alexander Blockx (BUY) | 50% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Under (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: VfL Wolfsburg (-1.5) | FC Energie Cottbus (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -807,4 +808,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 61% | 5.00 | 48.4% | ⏳ pendiente | — |
