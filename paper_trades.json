@@ -101914,5 +101914,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788648046.2281876,
     "fills": 1
+  },
+  {
+    "timestamp": 1788648131,
+    "timestamp_added": 1788648131.8058865,
+    "username": "",
+    "wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+    "slug": "cfb-bayl-aubrn-2026-09-05",
+    "title": "Baylor vs. Auburn",
+    "outcome": "Auburn",
+    "side": "BUY",
+    "whale_usd": 779.999999,
+    "whale_pct": 4.264,
+    "whale_value_at_open": 18292.7395,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788648131.8058982,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788648171,
+    "timestamp_added": 1788648172.372728,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "mls-phi-mim-2026-09-05-spread-home-1pt5",
+    "title": "Spread: Philadelphia Union (-1.5)",
+    "outcome": "CF Montr\u00e9al",
+    "side": "BUY",
+    "whale_usd": 19834.108500000002,
+    "whale_pct": 29.495,
+    "whale_value_at_open": 67245.3471,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788648181.3796186,
+    "fills": 2
   }
 ]
