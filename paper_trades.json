@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 28007.117589999994,
-    "whale_pct": 7.889,
+    "whale_usd": 38330.17758999999,
+    "whale_pct": 10.797,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631743.2613437,
-    "fills": 3
+    "last_fill_at": 1788632361.490815,
+    "fills": 5
   },
   {
     "timestamp": 1788613644,
