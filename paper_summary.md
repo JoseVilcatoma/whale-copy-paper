@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:57:32 (hora de Perú)
+Actualizado: 2026-09-04 21:59:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $490.79
-**Retorno acumulado:** -1.84%
+**Bankroll actual:** $492.68
+**Retorno acumulado:** -1.46%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:57:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $350.79)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $367.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,6 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| pleaseplease123 | 13 | 12 | 2 | -3.72 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -106,7 +107,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| pleaseplease123 | 12 | 12 | 3 | -7.24 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | 1winstreak1 | 9 | 7 | 0 | -8.15 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -125,18 +125,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 39 | 1 | -95.46 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 452 | 277 | 9 | -150.53 USD |
+| ferrariChampions2026 | 453 | 278 | 7 | -152.15 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3713
-- **Aciertos:** 2369 (63.8%)
+- **Apuestas resueltas:** 3716
+- **Aciertos:** 2371 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,540.24
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $341.48 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,555.24
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $341.84 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1877 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1880 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 1112 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
@@ -782,8 +782,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Elina Svitolina vs Anna Kal | Elina Svitolina (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
+| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 61% | 5.00 | 21.9% | ⏳ pendiente | — |

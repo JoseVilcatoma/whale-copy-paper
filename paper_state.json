@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.789886561152,
+  "bankroll": 492.67626587149687,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19510,6 +19510,21 @@
       "timestamp": 1788576127.539915,
       "bankroll": 490.79,
       "event": "won:  \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788577075.8481967,
+      "bankroll": 494.31,
+      "event": "won: pleaseplease123 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788577078.2834508,
+      "bankroll": 489.16,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788577078.3836403,
+      "bankroll": 492.68,
+      "event": "won: ferrariChampions2026 \u2014 Detroit Tigers vs. Cleveland Guardians"
     }
   ]
 }
