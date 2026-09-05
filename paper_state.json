@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.9452231642249,
+  "bankroll": 486.8202231642249,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19415,6 +19415,11 @@
       "timestamp": 1788568225.5651886,
       "bankroll": 491.95,
       "event": "lost:  \u2014 US Open ATP: Jiri Lehecka vs Stefanos Tsitsipas"
+    },
+    {
+      "timestamp": 1788568850.2476645,
+      "bankroll": 486.82,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Tomas Etcheverry vs Mariano Navone"
     }
   ]
 }
