@@ -97960,8 +97960,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 22805.957646000003,
-    "whale_pct": 15.361,
+    "whale_usd": 23333.603957000003,
+    "whale_pct": 15.717,
     "whale_value_at_open": 148464.6019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -97972,8 +97972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637046.4228382,
-    "fills": 6
+    "last_fill_at": 1788637271.399552,
+    "fills": 7
   },
   {
     "timestamp": 1788597354,
