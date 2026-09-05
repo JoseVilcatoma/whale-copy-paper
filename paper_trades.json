@@ -98198,5 +98198,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788600225.5295324,
     "fills": 3
+  },
+  {
+    "timestamp": 1788600473,
+    "timestamp_added": 1788600473.7570944,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-hle1-2026-09-05-total-games-3pt5",
+    "title": "Games Total: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1310.383292,
+    "whale_pct": 0.683,
+    "whale_value_at_open": 191905.782,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788600473.7571042,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:26:43 (hora de Perú)
+Actualizado: 2026-09-05 04:28:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 04:26:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $253.38)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $248.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 19 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 20 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,6 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 52% | 5.00 | 17.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 63% | 5.00 | 415.5% | ⏳ pendiente | — |
