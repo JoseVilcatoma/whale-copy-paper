@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.55655322781865,
+  "bankroll": 490.789886561152,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19505,6 +19505,11 @@
       "timestamp": 1788575809.0522683,
       "bankroll": 487.56,
       "event": "lost: Feromont \u2014 Spread: Eastern Michigan (-1.5)"
+    },
+    {
+      "timestamp": 1788576127.539915,
+      "bankroll": 490.79,
+      "event": "won:  \u2014 Milwaukee Brewers vs. Cincinnati Reds"
     }
   ]
 }

@@ -96595,8 +96595,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -97002,8 +97002,8 @@
     "title": "Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 600.0,
-    "whale_pct": 3.894,
+    "whale_usd": 3372.0,
+    "whale_pct": 21.882,
     "whale_value_at_open": 15409.9705,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -97014,8 +97014,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788574942.9847097,
-    "fills": 1
+    "last_fill_at": 1788576175.6878986,
+    "fills": 2
   },
   {
     "timestamp": 1788575428,
@@ -97187,6 +97187,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788575952.029809,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788576125,
+    "timestamp_added": 1788576126.0007873,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-04-total-8pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2546.6448,
+    "whale_pct": 1.023,
+    "whale_value_at_open": 248840.7271,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788576126.0007997,
     "fills": 1
   }
 ]
