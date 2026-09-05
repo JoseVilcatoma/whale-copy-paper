@@ -100045,8 +100045,8 @@
     "title": "Will Legia Warszawa win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 10383.4822,
-    "whale_pct": 26.585,
+    "whale_usd": 13221.121200000001,
+    "whale_pct": 33.85,
     "whale_value_at_open": 39057.4062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -100057,8 +100057,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631331.830699,
-    "fills": 3
+    "last_fill_at": 1788631443.1164446,
+    "fills": 5
   },
   {
     "timestamp": 1788631304,
@@ -100069,8 +100069,8 @@
     "title": "UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)",
     "outcome": "Oumar Sy",
     "side": "BUY",
-    "whale_usd": 2760.0,
-    "whale_pct": 0.793,
+    "whale_usd": 44206.92,
+    "whale_pct": 12.7,
     "whale_value_at_open": 348098.1544,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -100083,8 +100083,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631328.4833643,
-    "fills": 3
+    "last_fill_at": 1788631435.0495353,
+    "fills": 9
   },
   {
     "timestamp": 1788631323,
@@ -100108,6 +100108,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788631324.5511053,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788631442,
+    "timestamp_added": 1788631443.3162904,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-hul-ast-2026-09-05-total-0pt5",
+    "title": "Hull City AFC vs. Aston Villa FC: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 629.5393,
+    "whale_pct": 0.168,
+    "whale_value_at_open": 374493.5948,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788631443.316303,
     "fills": 1
   }
 ]

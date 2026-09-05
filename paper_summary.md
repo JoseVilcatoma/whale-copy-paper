@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:02:50 (hora de Perú)
+Actualizado: 2026-09-05 13:04:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.78
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:02:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $241.78)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $236.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 484 | 299 | 23 | -156.81 USD |
+| ferrariChampions2026 | 484 | 299 | 24 | -156.81 USD |
 
 ## Análisis general
 
@@ -792,9 +792,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 0. | Under (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 0.8% | ⏳ pendiente | — |
-| kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 26.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 12.7% | ⏳ pendiente | — |
+| kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 33.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | FC Schalke 04 vs. FC Bayern München: O/U | Under (BUY) | 60% | 5.00 | 92853.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 71% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Team Falcons (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
-| beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ❌ perdida | -5.03 |
