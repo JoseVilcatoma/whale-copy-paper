@@ -97318,8 +97318,8 @@
     "title": "Zhangjiagang: Ilia Simakin vs Mitsuki Wei Kang Leong",
     "outcome": "Ilia Simakin",
     "side": "BUY",
-    "whale_usd": 1170.0,
-    "whale_pct": 0.809,
+    "whale_usd": 1860.0,
+    "whale_pct": 1.286,
     "whale_value_at_open": 144636.4148,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -97330,7 +97330,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788583094.2429821,
-    "fills": 1
+    "last_fill_at": 1788583344.091999,
+    "fills": 2
   }
 ]

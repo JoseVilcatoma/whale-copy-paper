@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 23:39:50 (hora de Perú)
+Actualizado: 2026-09-04 23:43:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.34
@@ -776,7 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 4.7% | ⏳ pendiente | — |
 | kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ⏳ pendiente | — |
