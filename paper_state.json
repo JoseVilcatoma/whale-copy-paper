@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.3080532278187,
+  "bankroll": 492.67855322781867,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19480,6 +19480,26 @@
       "timestamp": 1788574864.5565197,
       "bankroll": 505.31,
       "event": "won: pleaseplease123 \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788575117.3930562,
+      "bankroll": 500.18,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1788575117.7252152,
+      "bankroll": 502.91,
+      "event": "won: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788575180.889204,
+      "bankroll": 497.79,
+      "event": "lost: Sassy-Bucket \u2014 San Jose State vs. Eastern Michigan"
+    },
+    {
+      "timestamp": 1788575182.3967133,
+      "bankroll": 492.68,
+      "event": "lost: BrotherObama \u2014 San Jose State vs. Eastern Michigan"
     }
   ]
 }

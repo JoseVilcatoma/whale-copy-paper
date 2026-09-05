@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:24:19 (hora de Perú)
+Actualizado: 2026-09-04 21:26:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.31
-**Retorno acumulado:** +1.06%
+**Bankroll actual:** $492.68
+**Retorno acumulado:** -1.46%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:24:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $385.31)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $392.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,7 +96,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| BrotherObama | 6 | 6 | 2 | -3.89 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -105,13 +104,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| 1winstreak1 | 8 | 6 | 2 | -5.75 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 12 | 12 | 3 | -7.24 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
+| 1winstreak1 | 9 | 7 | 0 | -8.15 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
+| BrotherObama | 6 | 7 | 1 | -9.00 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -123,20 +123,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 22 | 38 | 2 | -90.34 USD |
+| Sassy-Bucket | 22 | 39 | 1 | -95.46 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 452 | 277 | 0 | -150.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3707
-- **Aciertos:** 2367 (63.9%)
+- **Apuestas resueltas:** 3711
+- **Aciertos:** 2368 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,510.24
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $340.82 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,530.24
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $341.26 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,8 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1873 | 50.5% | 50.1% | +0.4 pp |
-| 60-79% | 1110 | 69.9% | 67.8% | +2.1 pp |
+| 40-59% | 1876 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 1111 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
 
@@ -783,13 +783,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 52.0% | ⏳ pendiente | — |
 | AV23IUa | Will Brentford FC win on 2026-09-05? | Yes (BUY) | 59% | 5.00 | 68.0% | ⏳ pendiente | — |
 | AV23IUa | Will Newcastle United FC win on 2026-09- | Yes (BUY) | 47% | 5.00 | 285.0% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 64% | 5.00 | 74.7% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 64% | 5.00 | 74.7% | ✅ ganada | +2.72 |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 6.5 | Over (BUY) | 62% | 5.00 | 33.8% | ✅ ganada | +2.97 |
-| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 50% | 5.00 | 23.0% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 50% | 5.00 | 23.0% | ❌ perdida | -5.12 |
 | Talvez10 | Zack Gelof: Home Runs O/U 0.5 | Under (BUY) | 92% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ✅ ganada | +5.51 |
 | BrotherObama | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 36.2% | ⏳ pendiente | — |
-| BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ⏳ pendiente | — |
+| BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ❌ perdida | -5.11 |
 |  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ✅ ganada | +2.61 |
 |  | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 54% | 5.00 | 27.8% | ❌ perdida | -5.12 |
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ⏳ pendiente | — |
@@ -801,7 +801,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | tikstt | Will CA Belgrano win on 2026-09-04? | Yes (BUY) | 49% | 5.00 | 8.4% | ❌ perdida | -5.13 |
 | Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 1724.7% | ⏳ pendiente | — |
+| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 1724.7% | ❌ perdida | -5.12 |
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 58.5% | ⏳ pendiente | — |
 | tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ✅ ganada | +3.66 |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
