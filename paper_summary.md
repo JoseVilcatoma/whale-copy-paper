@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:46:03 (hora de Perú)
+Actualizado: 2026-09-05 11:48:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.41
@@ -794,7 +794,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 404.0% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ⏳ pendiente | — |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |
 | HongYunX | FC Schalke 04 vs. FC Bayern München: O/U | Under (BUY) | 60% | 5.00 | 92853.1% | ⏳ pendiente | — |

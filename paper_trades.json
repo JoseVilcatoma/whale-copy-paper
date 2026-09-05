@@ -99532,8 +99532,8 @@
     "title": "UFC Fight Night: Nora Cornolle vs. Klaudia Sygula (Women's Bantamweight, Prelims)",
     "outcome": "Nora Cornolle",
     "side": "BUY",
-    "whale_usd": 20314.589,
-    "whale_pct": 404.025,
+    "whale_usd": 29944.6963,
+    "whale_pct": 595.553,
     "whale_value_at_open": 5028.0502,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -99544,8 +99544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788626371.1993253,
-    "fills": 1
+    "last_fill_at": 1788626874.1007903,
+    "fills": 3
   },
   {
     "timestamp": 1788626561,
