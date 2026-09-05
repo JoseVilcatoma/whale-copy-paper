@@ -100458,8 +100458,8 @@
     "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
     "outcome": "Far\u00e9s Ziam",
     "side": "BUY",
-    "whale_usd": 3233.2425949999997,
-    "whale_pct": 6.225,
+    "whale_usd": 4672.266985,
+    "whale_pct": 8.995,
     "whale_value_at_open": 51941.5903,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -100470,8 +100470,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637007.5727289,
-    "fills": 5
+    "last_fill_at": 1788637095.8187222,
+    "fills": 6
   },
   {
     "timestamp": 1788634598,
