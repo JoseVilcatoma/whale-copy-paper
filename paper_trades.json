@@ -100021,8 +100021,8 @@
     "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 20306.353345000003,
-    "whale_pct": 5.588,
+    "whale_usd": 21669.581167000004,
+    "whale_pct": 5.964,
     "whale_value_at_open": 363369.8664,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -100033,8 +100033,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788632746.1562102,
-    "fills": 8
+    "last_fill_at": 1788632811.9946778,
+    "fills": 10
   },
   {
     "timestamp": 1788631199,
