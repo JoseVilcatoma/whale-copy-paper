@@ -99606,8 +99606,8 @@
     "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
     "outcome": "Madison Keys",
     "side": "BUY",
-    "whale_usd": 610.0,
-    "whale_pct": 0.123,
+    "whale_usd": 6664.630400000001,
+    "whale_pct": 1.345,
     "whale_value_at_open": 495599.2127,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99618,8 +99618,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788626715.0103242,
-    "fills": 1
+    "last_fill_at": 1788627008.459954,
+    "fills": 2
   },
   {
     "timestamp": 1788626738,
@@ -99643,6 +99643,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788626739.1461477,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788626910,
+    "timestamp_added": 1788626911.3669996,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-kc-2026-09-05-total-9pt5",
+    "title": "Toronto Blue Jays vs. Kansas City Royals: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 7040.629999,
+    "whale_pct": 1.422,
+    "whale_value_at_open": 494954.5831,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788626911.367015,
     "fills": 1
   }
 ]
