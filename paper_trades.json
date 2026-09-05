@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 43630.03758999999,
-    "whale_pct": 12.29,
+    "whale_usd": 49697.008689999995,
+    "whale_pct": 13.999,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788632513.7176733,
-    "fills": 6
+    "last_fill_at": 1788633009.9824045,
+    "fills": 7
   },
   {
     "timestamp": 1788613644,
@@ -99731,8 +99731,8 @@
     "title": "US Open WTA: Naomi Osaka vs Elise Mertens",
     "outcome": "Naomi Osaka",
     "side": "BUY",
-    "whale_usd": 6412.9624,
-    "whale_pct": 62.844,
+    "whale_usd": 7142.9551,
+    "whale_pct": 69.997,
     "whale_value_at_open": 10204.6174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -99743,8 +99743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788628068.432996,
-    "fills": 2
+    "last_fill_at": 1788633012.073952,
+    "fills": 3
   },
   {
     "timestamp": 1788628163,
@@ -100228,6 +100228,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788632510.1271439,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788633074,
+    "timestamp_added": 1788633075.1236725,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "por-spo-nac-2026-09-04-total-3pt5",
+    "title": "Sporting CP vs. CD Nacional: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2962.7468000000003,
+    "whale_pct": 0.803,
+    "whale_value_at_open": 369087.8924,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788633075.123682,
     "fills": 1
   }
 ]
