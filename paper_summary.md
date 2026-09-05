@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:20:33 (hora de Perú)
+Actualizado: 2026-09-05 04:22:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 04:20:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $258.38)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $253.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| zofgkt1111 | 6 | 4 | 2 | +8.98 USD |
+| zofgkt1111 | 6 | 4 | 3 | +8.98 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -781,7 +781,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 34.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
 | ferrariChampions2026 | Borussia Mönchengladbach vs. SV 07 Elver | Over (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 159.9% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 63% | 5.00 | 415.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 2. | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
