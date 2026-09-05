@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.30553727890947,
+  "bankroll": 377.0130982545192,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20230,6 +20230,26 @@
       "timestamp": 1788642374.0163958,
       "bankroll": 391.31,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Marie Bouzkova"
+    },
+    {
+      "timestamp": 1788642988.5415123,
+      "bankroll": 386.16,
+      "event": "lost: ferrariChampions2026 \u2014 Villarreal CF vs. RC Deportivo A Coru\u00f1a: O/U 2.5"
+    },
+    {
+      "timestamp": 1788642989.007617,
+      "bankroll": 387.21,
+      "event": "won: ferrariChampions2026 \u2014 Will Villarreal CF vs. RC Deportivo A Coru\u00f1a end in a draw?"
+    },
+    {
+      "timestamp": 1788642989.9266045,
+      "bankroll": 382.13,
+      "event": "lost: ferrariChampions2026 \u2014 Will Villarreal CF win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788642992.046544,
+      "bankroll": 377.01,
+      "event": "lost: ferrariChampions2026 \u2014 Villarreal CF vs. RC Deportivo A Coru\u00f1a: O/U 3.5"
     }
   ]
 }
