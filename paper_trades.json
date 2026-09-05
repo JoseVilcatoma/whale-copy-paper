@@ -99367,8 +99367,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -99704,8 +99704,8 @@
     "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 3382.7375999999995,
-    "whale_pct": 0.609,
+    "whale_usd": 4709.2814,
+    "whale_pct": 0.848,
     "whale_value_at_open": 555068.7265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99719,8 +99719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788629952.6140738,
-    "fills": 6
+    "last_fill_at": 1788630071.6414044,
+    "fills": 8
   },
   {
     "timestamp": 1788628060,

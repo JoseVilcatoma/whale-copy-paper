@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.60873672402516,
+  "bankroll": 456.68481835667825,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19970,6 +19970,11 @@
       "timestamp": 1788629799.4440546,
       "bankroll": 451.61,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Nora Cornolle vs. Klaudia Sygula (Women's Bantamweight, Prelims)"
+    },
+    {
+      "timestamp": 1788630112.708002,
+      "bankroll": 456.68,
+      "event": "won: DoNotTailMe \u2014 LoL: Karmine Corp vs GIANTX - Game 2 Winner"
     }
   ]
 }
