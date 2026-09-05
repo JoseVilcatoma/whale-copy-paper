@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:21:38 (hora de Perú)
+Actualizado: 2026-09-05 13:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:21:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $226.94)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $221.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 0 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 485 | 300 | 24 | -161.54 USD |
+| ferrariChampions2026 | 485 | 300 | 25 | -161.54 USD |
 
 ## Análisis general
 
@@ -792,6 +792,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Le Havre AC vs. Stade Brestois 29: O/U 2 | Under (BUY) | 54% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Talvez10 | Juan Soto: Home Runs O/U 0.5 | Under (BUY) | 82% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ✅ ganada | +5.51 |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
-| AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |

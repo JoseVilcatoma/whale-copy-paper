@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 38330.17758999999,
-    "whale_pct": 10.797,
+    "whale_usd": 43630.03758999999,
+    "whale_pct": 12.29,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788632361.490815,
-    "fills": 5
+    "last_fill_at": 1788632513.7176733,
+    "fills": 6
   },
   {
     "timestamp": 1788613644,
@@ -100204,6 +100204,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788632239.4514368,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788632509,
+    "timestamp_added": 1788632510.1271327,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "fl1-hac-sbr-2026-09-05-total-2pt5",
+    "title": "Le Havre AC vs. Stade Brestois 29: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 9251.6906,
+    "whale_pct": 2.729,
+    "whale_value_at_open": 339021.0595,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788632510.1271439,
     "fills": 1
   }
 ]
