@@ -98573,8 +98573,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 9902.0792,
-    "whale_pct": 23.717,
+    "whale_usd": 14885.4408,
+    "whale_pct": 35.654,
     "whale_value_at_open": 41750.1925,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -98585,7 +98585,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788604495.2217686,
-    "fills": 2
+    "last_fill_at": 1788604677.0641658,
+    "fills": 3
   }
 ]
