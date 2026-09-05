@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.96654721681654,
+  "bankroll": 387.84154721681654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20310,6 +20310,11 @@
       "timestamp": 1788646387.6683292,
       "bankroll": 382.97,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1788646999.4336174,
+      "bankroll": 387.84,
+      "event": "won: kekasaur \u2014 Will Legia Warszawa win on 2026-09-05?"
     }
   ]
 }
