@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:32:04 (hora de Perú)
+Actualizado: 2026-09-05 12:34:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 12:32:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $211.42)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $206.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 1 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 479 | 298 | 23 | -166.98 USD |
+| ferrariChampions2026 | 479 | 298 | 24 | -166.98 USD |
 
 ## Análisis general
 
@@ -791,6 +791,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Qinwen Zheng (BUY) | 93% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Nathaniel Wood (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Al Nassr Saudi Club (-1.5) | Al Nassr Saudi Club (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Blockx vs Cobolli | Cobolli (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -820,4 +821,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 9.9% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |

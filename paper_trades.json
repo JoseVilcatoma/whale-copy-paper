@@ -99915,5 +99915,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788629379.9286883,
     "fills": 1
+  },
+  {
+    "timestamp": 1788629629,
+    "timestamp_added": 1788629629.4687068,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-keys-zhen-2026-09-04",
+    "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
+    "outcome": "Qinwen Zheng",
+    "side": "BUY",
+    "whale_usd": 8042.15137,
+    "whale_pct": 1.622,
+    "whale_value_at_open": 495939.8977,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788629630.4369624,
+    "fills": 2
   }
 ]
