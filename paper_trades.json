@@ -97610,8 +97610,8 @@
     "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
     "outcome": "Yanaki Milev",
     "side": "BUY",
-    "whale_usd": 8448.4595,
-    "whale_pct": 7.53,
+    "whale_usd": 9363.668010000001,
+    "whale_pct": 8.346,
     "whale_value_at_open": 112197.0228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -97622,8 +97622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788610373.3713896,
-    "fills": 4
+    "last_fill_at": 1788610535.9711466,
+    "fills": 5
   },
   {
     "timestamp": 1788592774,
