@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 90329.11809599999,
-    "whale_pct": 25.445,
+    "whale_usd": 100092.01809599999,
+    "whale_pct": 28.195,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637795.026171,
-    "fills": 21
+    "last_fill_at": 1788639257.6476681,
+    "fills": 22
   },
   {
     "timestamp": 1788613644,
@@ -100920,8 +100920,8 @@
     "title": "Baylor vs. Auburn",
     "outcome": "Auburn",
     "side": "BUY",
-    "whale_usd": 11279.7292,
-    "whale_pct": 35.29,
+    "whale_usd": 18435.608342,
+    "whale_pct": 57.677,
     "whale_value_at_open": 31963.2691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -100932,8 +100932,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639140.7734876,
-    "fills": 4
+    "last_fill_at": 1788639215.6538343,
+    "fills": 7
   },
   {
     "timestamp": 1788638535,
@@ -100944,8 +100944,8 @@
     "title": "Will Atalanta BC win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 980.0476,
-    "whale_pct": 0.273,
+    "whale_usd": 2498.957599,
+    "whale_pct": 0.697,
     "whale_value_at_open": 358502.1191,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -100956,8 +100956,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638536.1810138,
-    "fills": 1
+    "last_fill_at": 1788639188.951265,
+    "fills": 2
   },
   {
     "timestamp": 1788639011,
