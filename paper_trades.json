@@ -98623,8 +98623,8 @@
     "title": "US Open WTA: Cristina Bucsa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 35486.353599999995,
-    "whale_pct": 14.747,
+    "whale_usd": 41483.563599999994,
+    "whale_pct": 17.24,
     "whale_value_at_open": 240628.6982,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -98635,8 +98635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638243.3315127,
-    "fills": 5
+    "last_fill_at": 1788638672.6684604,
+    "fills": 6
   },
   {
     "timestamp": 1788606122,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 39687.945195,
-    "whale_pct": 11.539,
+    "whale_usd": 50008.725195,
+    "whale_pct": 14.54,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638350.2622766,
-    "fills": 11
+    "last_fill_at": 1788638681.5800767,
+    "fills": 12
   },
   {
     "timestamp": 1788635522,
@@ -100872,8 +100872,8 @@
     "title": "UFC Fight Night: Punahele Soriano vs. Daniil Donchenko (Welterweight, Main Card)",
     "outcome": "Daniil Donchenko",
     "side": "BUY",
-    "whale_usd": 1007.1440000000001,
-    "whale_pct": 0.265,
+    "whale_usd": 1677.1440000000002,
+    "whale_pct": 0.441,
     "whale_value_at_open": 380075.8429,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -100884,8 +100884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638326.0631819,
-    "fills": 1
+    "last_fill_at": 1788638666.4179444,
+    "fills": 2
   },
   {
     "timestamp": 1788638523,
