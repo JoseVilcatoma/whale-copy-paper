@@ -98867,8 +98867,8 @@
     "title": "Game Handicap: NIP (-1.5) vs JD Gaming (+1.5)",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 2152.4,
-    "whale_pct": 0.751,
+    "whale_usd": 5522.0,
+    "whale_pct": 1.927,
     "whale_value_at_open": 286504.0472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -98879,7 +98879,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788610682.4527478,
-    "fills": 2
+    "last_fill_at": 1788610745.5995603,
+    "fills": 5
   }
 ]

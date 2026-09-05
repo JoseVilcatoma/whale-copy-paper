@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 07:18:24 (hora de Perú)
+Actualizado: 2026-09-05 07:20:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.00
@@ -783,7 +783,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Manchester City FC (BUY) | 41% | 5.00 | 4.2% | ⏳ pendiente | — |
