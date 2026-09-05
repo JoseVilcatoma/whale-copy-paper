@@ -1,5 +1,5 @@
 {
-  "bankroll": 414.5593922245798,
+  "bankroll": 409.1953922245798,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20170,6 +20170,21 @@
       "timestamp": 1788639918.351838,
       "bankroll": 414.56,
       "event": "won: Jsram \u2014 UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims)"
+    },
+    {
+      "timestamp": 1788640039.0314221,
+      "bankroll": 419.43,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Blockx vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1788640040.6383948,
+      "bankroll": 414.31,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Alexander Blockx vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1788640042.460692,
+      "bankroll": 409.2,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Alexander Blockx vs Flavio Cobolli"
     }
   ]
 }
