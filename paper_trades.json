@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 7757.2390000000005,
-    "whale_pct": 6.264,
+    "whale_usd": 10559.059000000001,
+    "whale_pct": 8.527,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788594115.4991634,
-    "fills": 1
+    "last_fill_at": 1788597073.9590423,
+    "fills": 2
   },
   {
     "timestamp": 1788595377,
@@ -97947,6 +97947,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788596797.6742413,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788597081,
+    "timestamp_added": 1788597082.203072,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-darderi-sweeny-2026-09-04",
+    "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "whale_usd": 7395.9628,
+    "whale_pct": 4.982,
+    "whale_value_at_open": 148464.6019,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788597082.2030964,
     "fills": 1
   }
 ]
