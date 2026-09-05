@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 19:30:34 (hora de Perú)
+Actualizado: 2026-09-04 19:32:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.95
@@ -775,7 +775,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 20.1% | ⏳ pendiente | — |
+| AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 21.3% | ⏳ pendiente | — |
 | AV23IUa | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | AV23IUa | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 50% | 5.00 | 30.7% | ⏳ pendiente | — |
 | AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 52.0% | ⏳ pendiente | — |
