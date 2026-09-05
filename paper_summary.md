@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 19:28:23 (hora de Perú)
+Actualizado: 2026-09-04 19:30:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.06
-**Retorno acumulado:** -0.59%
+**Bankroll actual:** $491.95
+**Retorno acumulado:** -1.61%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 19:28:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $317.06)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $316.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 52 | 33 | 4 | +16.25 USD |
 | tikstt | 6 | 2 | 1 | +15.55 USD |
-|  | 6 | 2 | 4 | +15.27 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+|  | 6 | 3 | 3 | +10.16 USD |
 | zofgkt1111 | 6 | 3 | 0 | +9.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -129,14 +129,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3693
+- **Apuestas resueltas:** 3694
 - **Aciertos:** 2357 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,440.24
-- **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $339.47 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,445.24
+- **ROI sobre lo apostado:** -0.65%
+- **Comisiones pagadas (taker fee):** $339.58 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1866 | 50.5% | 50.1% | +0.4 pp |
+| 40-59% | 1867 | 50.5% | 50.1% | +0.4 pp |
 | 60-79% | 1104 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 499 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
@@ -791,7 +791,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 54% | 5.00 | 27.8% | ⏳ pendiente | — |
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ⏳ pendiente | — |
-|  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ⏳ pendiente | — |
+|  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ❌ perdida | -5.11 |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 19.7% | ⏳ pendiente | — |
 | tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ✅ ganada | +5.29 |
