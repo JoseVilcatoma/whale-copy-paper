@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.6670140002771,
+  "bankroll": 474.79285350644994,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19700,6 +19700,11 @@
       "timestamp": 1788611008.6883123,
       "bankroll": 473.67,
       "event": "won: ferrariChampions2026 \u2014 Avispa Fukuoka vs. FC Mito Holly Hock: O/U 2.5"
+    },
+    {
+      "timestamp": 1788611632.5169497,
+      "bankroll": 474.79,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Doosan Bears vs. SSG Landers"
     }
   ]
 }

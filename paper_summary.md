@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 07:32:44 (hora de Perú)
+Actualizado: 2026-09-05 07:34:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.67
-**Retorno acumulado:** -5.27%
+**Bankroll actual:** $474.79
+**Retorno acumulado:** -5.04%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 07:32:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $163.67)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $169.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,17 +126,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 461 | 285 | 39 | -170.11 USD |
+| ferrariChampions2026 | 462 | 285 | 38 | -168.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3747
-- **Aciertos:** 2387 (63.7%)
+- **Apuestas resueltas:** 3748
+- **Aciertos:** 2388 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,710.24
+- **Total apostado (suma de stakes):** $18,715.24
 - **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $344.76 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $344.80 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1898 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1120 | 69.9% | 67.8% | +2.1 pp |
-| 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
+| 80-94% | 505 | 85.7% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -808,7 +808,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 2.0% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | 1. FC Kaiserslautern vs. SV Darmstadt 98 | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 52% | 5.00 | 34.2% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Dusan Obradovic (BUY) | 73% | 5.00 | 1.4% | ❌ perdida | -5.07 |
