@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 16:47:48 (hora de Perú)
+Actualizado: 2026-09-05 16:49:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $377.80
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 16:47:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $112.80)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $102.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 2 | +26.80 USD |
-| HongYunX | 10 | 4 | 0 | +26.38 USD |
+| HongYunX | 10 | 4 | 2 | +26.38 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
@@ -804,6 +804,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ⏳ pendiente | — |
+| HongYunX | Will CA San Lorenzo de Almagro win on 20 | Yes (BUY) | 41% | 5.00 | 93.6% | ⏳ pendiente | — |
 | us391 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 39.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -832,5 +834,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 55% | 5.00 | 5.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.7% | ❌ perdida | -5.14 |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians:  | Over (BUY) | 57% | 5.00 | 2.8% | ⏳ pendiente | — |
