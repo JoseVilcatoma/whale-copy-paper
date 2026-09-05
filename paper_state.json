@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.8066013856069,
+  "bankroll": 464.7866013856069,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19590,6 +19590,11 @@
       "timestamp": 1788585164.045463,
       "bankroll": 469.81,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788585785.161951,
+      "bankroll": 464.79,
+      "event": "lost: Talvez10 \u2014 Zack Gelof: Home Runs O/U 0.5"
     }
   ]
 }
