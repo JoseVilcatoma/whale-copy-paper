@@ -1,5 +1,5 @@
 {
-  "bankroll": 389.30269455152256,
+  "bankroll": 392.1472024880305,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20340,6 +20340,11 @@
       "timestamp": 1788647370.2112079,
       "bankroll": 389.3,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Zheng vs Gea"
+    },
+    {
+      "timestamp": 1788647983.686801,
+      "bankroll": 392.15,
+      "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. New York Mets: O/U 9.5"
     }
   ]
 }

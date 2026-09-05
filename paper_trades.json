@@ -101293,8 +101293,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101850,8 +101850,8 @@
     "title": "Bergs vs. Zandschulp: Match O/U 36.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1912.419992,
-    "whale_pct": 13.177,
+    "whale_usd": 5624.74999,
+    "whale_pct": 38.755,
     "whale_value_at_open": 14513.5484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -101862,8 +101862,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788647756.9498847,
-    "fills": 2
+    "last_fill_at": 1788648023.3226166,
+    "fills": 4
   },
   {
     "timestamp": 1788647849,
@@ -101874,8 +101874,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 17999.82,
-    "whale_pct": 8.409,
+    "whale_usd": 34198.2,
+    "whale_pct": 15.976,
     "whale_value_at_open": 214065.2369,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -101886,7 +101886,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788647849.747516,
+    "last_fill_at": 1788648034.277819,
+    "fills": 5
+  },
+  {
+    "timestamp": 1788648045,
+    "timestamp_added": 1788648046.2281754,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "mls-orl-sdg-2026-09-05-orl",
+    "title": "Will Orlando City SC win on 2026-09-05?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 9280.0,
+    "whale_pct": 16.057,
+    "whale_value_at_open": 57794.4771,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788648046.2281876,
     "fills": 1
   }
 ]
