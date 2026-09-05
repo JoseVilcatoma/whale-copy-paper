@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 15:10:57 (hora de Perú)
+Actualizado: 2026-09-05 15:12:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $407.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 15:10:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $147.98)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $142.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| pleaseplease123 | 14 | 13 | 1 | -4.87 USD |
+| pleaseplease123 | 14 | 13 | 2 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -787,6 +787,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-chc-mia-2026-09-05 | ferrariChampions2026, monkeymashingkeyboard |
 | lol-nip-jdg-2026-09-05-game3 | DoNotTailMe, zofgkt1111 |
 | cs2-ts7-fal2-2026-09-05-game1 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, ExplosiveNinja |
+| mlb-nyy-sd-2026-09-05 | Talvez10, pleaseplease123 |
 | ufc-mbukau-oum-2026-09-05 | Talvez10, ferrariChampions2026 |
 | ufc-nor4-kla-2026-09-05 | Sassy-Bucket, ferrariChampions2026 |
 | mlb-sf-nym-2026-09-05-total-8pt5 | Talvez10, ferrariChampions2026 |
@@ -796,12 +797,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 9.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Atalanta BC win on 2026-09-05? | Yes (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 11.8% | ⏳ pendiente | — |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | Baylor vs. Auburn | Auburn (BUY) | 73% | 5.00 | 35.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians:  | Over (BUY) | 57% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Punahele Soriano vs. Da | Daniil Donchenko (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | O/U 3.5 Rounds | Under (BUY) | 73% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Farés Ziam vs. Axel Sol | Axel Sola (BUY) | 42% | 5.00 | 43.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -825,4 +827,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Manacor: Luca Potenza vs Inaki Montes | Inaki Montes (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Inaki Montes | Luca Potenza (BUY) | 46% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Villarreal CF vs. RC Deportivo A Coruña: | Under (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | MOUZ (BUY) | 91% | 5.00 | 0.8% | ✅ ganada | +0.47 |
