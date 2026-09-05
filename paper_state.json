@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.79285350644994,
+  "bankroll": 459.4440525579501,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19705,6 +19705,51 @@
       "timestamp": 1788611632.5169497,
       "bankroll": 474.79,
       "event": "won: ferrariChampions2026 \u2014 KBO: Doosan Bears vs. SSG Landers"
+    },
+    {
+      "timestamp": 1788611931.7710335,
+      "bankroll": 469.65,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788611934.9230852,
+      "bankroll": 464.55,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)"
+    },
+    {
+      "timestamp": 1788611938.8153703,
+      "bankroll": 459.42,
+      "event": "lost: BrotherObama \u2014 LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788611938.9155362,
+      "bankroll": 463.56,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788611939.6147723,
+      "bankroll": 464.76,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: GEN (-2.5) vs Hanwha Life Esports (+2.5)"
+    },
+    {
+      "timestamp": 1788611940.7577095,
+      "bankroll": 459.62,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788611941.2187383,
+      "bankroll": 454.54,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788611941.5713258,
+      "bankroll": 455.13,
+      "event": "won: ferrariChampions2026 \u2014 Games Total: O/U 3.5"
+    },
+    {
+      "timestamp": 1788611944.7594888,
+      "bankroll": 459.44,
+      "event": "won: zofgkt1111 \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner"
     }
   ]
 }
