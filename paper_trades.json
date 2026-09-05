@@ -101166,8 +101166,8 @@
     "title": "Counter-Strike: Chicken Coop Esports vs Villainous (BO3) - NSTLGA League Group Stage",
     "outcome": "Chicken Coop Esports",
     "side": "BUY",
-    "whale_usd": 3378.7667,
-    "whale_pct": 81.637,
+    "whale_usd": 7162.546700000001,
+    "whale_pct": 173.06,
     "whale_value_at_open": 4138.7628,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -101178,8 +101178,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788642866.7451096,
-    "fills": 2
+    "last_fill_at": 1788645562.2293117,
+    "fills": 3
   },
   {
     "timestamp": 1788640308,
@@ -101693,6 +101693,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788645336.1594086,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788645514,
+    "timestamp_added": 1788645515.0526426,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "cfb-wyom-colst-2026-09-05",
+    "title": "Wyoming vs. Colorado State",
+    "outcome": "Colorado State",
+    "side": "BUY",
+    "whale_usd": 622.1600000000001,
+    "whale_pct": 1.114,
+    "whale_value_at_open": 55832.4391,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788645515.0526543,
     "fills": 1
   }
 ]
