@@ -97924,5 +97924,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788596215.6661584,
     "fills": 1
+  },
+  {
+    "timestamp": 1788596797,
+    "timestamp_added": 1788596797.674228,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ig1-tes-2026-09-05-game-handicap-home-1pt5",
+    "title": "Game Handicap: TES (-1.5) vs Invictus Gaming (+1.5)",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 766.8,
+    "whale_pct": 0.527,
+    "whale_value_at_open": 145629.5028,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788596797.6742413,
+    "fills": 1
   }
 ]
