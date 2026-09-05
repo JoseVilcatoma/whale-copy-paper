@@ -98697,8 +98697,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 8600.0,
-    "whale_pct": 54.754,
+    "whale_usd": 17000.0,
+    "whale_pct": 108.234,
     "whale_value_at_open": 15706.6845,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -98709,7 +98709,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788606701.960071,
-    "fills": 1
+    "last_fill_at": 1788606747.5205371,
+    "fills": 2
   }
 ]
