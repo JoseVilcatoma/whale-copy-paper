@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:15:23 (hora de Perú)
+Actualizado: 2026-09-05 13:17:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:15:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $231.94)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $226.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Talvez10 | 4 | 4 | 5 | -4.82 USD |
+| Talvez10 | 4 | 4 | 6 | -4.82 USD |
 | pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -792,13 +792,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Juan Soto: Home Runs O/U 0.5 | Under (BUY) | 82% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 0. | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 12.7% | ⏳ pendiente | — |
 | kekasaur | Will Legia Warszawa win on 2026-09-05? | Yes (BUY) | 50% | 5.00 | 33.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Taylor Fritz (BUY) | 85% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Pavel Andrusca (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | SG Dynamo Dresden vs. VfL Bochum: O/U 2. | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: MOUZ (-1.5) vs Vitality (+ | Vitality (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ✅ ganada | +5.51 |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |
-| HongYunX | FC Schalke 04 vs. FC Bayern München: O/U | Under (BUY) | 60% | 5.00 | 92853.1% | ⏳ pendiente | — |

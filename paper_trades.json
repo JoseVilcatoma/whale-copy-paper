@@ -100021,8 +100021,8 @@
     "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
     "outcome": "Taylor Fritz",
     "side": "BUY",
-    "whale_usd": 2356.318918,
-    "whale_pct": 0.648,
+    "whale_usd": 7658.875775,
+    "whale_pct": 2.108,
     "whale_value_at_open": 363369.8664,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -100033,8 +100033,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631145.3474028,
-    "fills": 2
+    "last_fill_at": 1788632130.990973,
+    "fills": 3
   },
   {
     "timestamp": 1788631199,
@@ -100180,6 +100180,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788632038.2457442,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788632238,
+    "timestamp_added": 1788632239.4514265,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-sf-nym-2026-09-05-hr-juan-soto-0pt5",
+    "title": "Juan Soto: Home Runs O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4000.0,
+    "whale_pct": 4.955,
+    "whale_value_at_open": 80725.9907,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788632239.4514368,
     "fills": 1
   }
 ]
