@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 02:12:43 (hora de Perú)
+Actualizado: 2026-09-05 02:14:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.07
-**Retorno acumulado:** -6.19%
+**Bankroll actual:** $463.96
+**Retorno acumulado:** -7.21%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 02:12:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $364.07)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $358.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| kekasaur | 10 | 9 | 1 | +2.59 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 6 | +2.32 USD |
@@ -84,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+|  | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -92,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| kekasaur | 10 | 10 | 0 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | BBQChickenisthebesttt | 7 | 5 | 0 | -2.79 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -129,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3733
+- **Apuestas resueltas:** 3734
 - **Aciertos:** 2379 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,640.24
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $343.37 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,645.24
+- **ROI sobre lo apostado:** -0.79%
+- **Comisiones pagadas (taker fee):** $343.48 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -144,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1890 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1891 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1114 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -771,11 +772,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
 | mlb-det-cle-2026-09-04 | ferrariChampions2026, pleaseplease123 |
 | mlb-laa-pit-2026-09-04 | , Feromont |
+| lol-ig1-tes-2026-09-05-game2 | , TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 67% | 5.00 | 1.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 52% | 5.00 | 17.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -789,7 +792,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ❌ perdida | -5.04 |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 18.6% | ✅ ganada | +0.59 |
-| kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ⏳ pendiente | — |
+| kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ❌ perdida | -5.12 |
@@ -805,4 +808,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 68% | 5.00 | 1.7% | ⏳ pendiente | — |
 | AV23IUa | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 50% | 5.00 | 125.8% | ⏳ pendiente | — |
 | AV23IUa | Will Nottingham Forest FC win on 2026-09 | Yes (BUY) | 42% | 5.00 | 52.0% | ⏳ pendiente | — |
-| AV23IUa | Will Brentford FC win on 2026-09-05? | Yes (BUY) | 59% | 5.00 | 68.0% | ⏳ pendiente | — |

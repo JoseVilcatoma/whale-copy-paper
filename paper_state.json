@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.06833648945434,
+  "bankroll": 463.9563364894543,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19610,6 +19610,11 @@
       "timestamp": 1788590488.9330497,
       "bankroll": 469.07,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Denis Shapovalov"
+    },
+    {
+      "timestamp": 1788592378.0724182,
+      "bankroll": 463.96,
+      "event": "lost: kekasaur \u2014 Will CF Pachuca win on 2026-09-04?"
     }
   ]
 }

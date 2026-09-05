@@ -97253,8 +97253,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -97571,6 +97571,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788592058.765823,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788592433,
+    "timestamp_added": 1788592434.1583457,
+    "username": "",
+    "wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+    "slug": "lol-ig1-tes-2026-09-05-game2",
+    "title": "LoL: Invictus Gaming vs Top Esports - Game 2 Winner",
+    "outcome": "Top Esports",
+    "side": "BUY",
+    "whale_usd": 801.239999,
+    "whale_pct": 1.38,
+    "whale_value_at_open": 58074.5689,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788592434.1583576,
     "fills": 1
   }
 ]
