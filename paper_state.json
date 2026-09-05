@@ -1,5 +1,5 @@
 {
-  "bankroll": 439.9061739682071,
+  "bankroll": 456.9217748708506,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19820,6 +19820,21 @@
       "timestamp": 1788622035.4058557,
       "bankroll": 439.91,
       "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: Spirit vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788622334.4615302,
+      "bankroll": 445.41,
+      "event": "won: ferrariChampions2026 \u2014 Preston North End FC vs. Blackburn Rovers FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788622338.321302,
+      "bankroll": 450.7,
+      "event": "won: HongYunX \u2014 Will Stoke City FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788622339.2396467,
+      "bankroll": 456.92,
+      "event": "won:  \u2014 Will Stoke City FC win on 2026-09-05?"
     }
   ]
 }
