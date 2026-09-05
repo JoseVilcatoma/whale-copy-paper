@@ -98785,5 +98785,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788608460.0138164,
     "fills": 1
+  },
+  {
+    "timestamp": 1788608681,
+    "timestamp_added": 1788608681.3364036,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-mac-cov-2026-09-05-spread-home-2pt5",
+    "title": "Spread: Manchester City FC (-2.5)",
+    "outcome": "Manchester City FC",
+    "side": "BUY",
+    "whale_usd": 11625.996000000001,
+    "whale_pct": 4.22,
+    "whale_value_at_open": 275508.52,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788608681.3364167,
+    "fills": 1
   }
 ]
