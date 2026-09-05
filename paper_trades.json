@@ -97452,5 +97452,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788588460.6162379,
     "fills": 1
+  },
+  {
+    "timestamp": 1788589049,
+    "timestamp_added": 1788589049.6805618,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mouz-vit-2026-09-05",
+    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 753.92,
+    "whale_pct": 7.785,
+    "whale_value_at_open": 9683.7615,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788589049.6805737,
+    "fills": 1
   }
 ]
