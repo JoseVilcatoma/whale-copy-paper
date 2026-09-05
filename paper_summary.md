@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:59:53 (hora de Perú)
+Actualizado: 2026-09-05 04:01:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 03:59:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $268.83)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $263.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 17 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 18 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,7 +781,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 61.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Borussia Mönchengladbach vs. SV 07 Elver | Over (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 75.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. FC Mito Holly Hock: O | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 2. | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Racing Club de Lens (-1.5) | FC Lorient (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
