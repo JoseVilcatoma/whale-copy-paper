@@ -99228,5 +99228,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788615072.190029,
     "fills": 1
+  },
+  {
+    "timestamp": 1788616376,
+    "timestamp_added": 1788616377.1634116,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-lajal-balshaw-2026-09-05",
+    "title": "Manacor: Mark Lajal vs Felix Balshaw",
+    "outcome": "Mark Lajal",
+    "side": "BUY",
+    "whale_usd": 1403.1578940000002,
+    "whale_pct": 0.327,
+    "whale_value_at_open": 429488.5892,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788616377.1634293,
+    "fills": 1
   }
 ]

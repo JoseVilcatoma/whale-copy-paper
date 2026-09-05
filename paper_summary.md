@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:52:28 (hora de Perú)
+Actualizado: 2026-09-05 08:54:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $445.58
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 08:52:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $165.58)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $160.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 466 | 288 | 31 | -176.86 USD |
+| ferrariChampions2026 | 466 | 288 | 32 | -176.86 USD |
 
 ## Análisis general
 
@@ -787,6 +787,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 67% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -816,4 +817,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ❌ perdida | -5.15 |
-| HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
