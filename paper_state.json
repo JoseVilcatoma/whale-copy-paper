@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.4773589613645,
+  "bankroll": 469.06833648945434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19605,6 +19605,11 @@
       "timestamp": 1788587354.9557838,
       "bankroll": 468.48,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Ilia Simakin vs Mitsuki Wei Kang Leong"
+    },
+    {
+      "timestamp": 1788590488.9330497,
+      "bankroll": 469.07,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Denis Shapovalov"
     }
   ]
 }
