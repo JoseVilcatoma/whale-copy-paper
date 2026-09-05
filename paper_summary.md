@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:25:33 (hora de Perú)
+Actualizado: 2026-09-05 12:28:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $438.32
@@ -802,7 +802,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Under (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ⏳ pendiente | — |
