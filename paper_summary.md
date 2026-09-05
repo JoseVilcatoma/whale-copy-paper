@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:43:13 (hora de Perú)
+Actualizado: 2026-09-04 21:45:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:43:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $360.79)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $355.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 39 | 1 | -95.46 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 452 | 277 | 8 | -150.53 USD |
+| ferrariChampions2026 | 452 | 277 | 9 | -150.53 USD |
 
 ## Análisis general
 
@@ -776,6 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Elina Svitolina vs Anna Kal | Elina Svitolina (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -805,4 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ❌ perdida | -5.11 |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ✅ ganada | +2.61 |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 19.7% | ⏳ pendiente | — |
-| tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ✅ ganada | +5.29 |

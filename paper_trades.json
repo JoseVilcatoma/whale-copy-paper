@@ -97212,5 +97212,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788576126.0007997,
     "fills": 1
+  },
+  {
+    "timestamp": 1788576315,
+    "timestamp_added": 1788576316.0166495,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-tex-2026-09-04",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 7183.141439999999,
+    "whale_pct": 3.038,
+    "whale_value_at_open": 236411.7834,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788576316.0166662,
+    "fills": 1
   }
 ]
