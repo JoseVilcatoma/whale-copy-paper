@@ -101238,8 +101238,8 @@
     "title": "UFC Fight Night: Dan Hooker vs. Salahdine Parnasse (Lightweight, Main Card)",
     "outcome": "Salahdine Parnasse",
     "side": "BUY",
-    "whale_usd": 3816.565238,
-    "whale_pct": 1.024,
+    "whale_usd": 5969.138428,
+    "whale_pct": 1.601,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -101250,8 +101250,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788642610.0189402,
-    "fills": 3
+    "last_fill_at": 1788643431.8513014,
+    "fills": 5
   },
   {
     "timestamp": 1788641447,
@@ -101262,8 +101262,8 @@
     "title": "US Open ATP: Michael Zheng vs Arthur Gea",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 3794.919573,
-    "whale_pct": 1.018,
+    "whale_usd": 4593.394173000001,
+    "whale_pct": 1.232,
     "whale_value_at_open": 372867.5513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -101274,8 +101274,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788642847.7237442,
-    "fills": 3
+    "last_fill_at": 1788643451.7384377,
+    "fills": 4
   },
   {
     "timestamp": 1788641480,
@@ -101386,8 +101386,8 @@
     "title": "Spread: Philadelphia Union (-1.5)",
     "outcome": "Philadelphia Union",
     "side": "BUY",
-    "whale_usd": 6331.2899990000005,
-    "whale_pct": 1.807,
+    "whale_usd": 11667.169998,
+    "whale_pct": 3.329,
     "whale_value_at_open": 350450.2052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -101398,8 +101398,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788642040.2997053,
-    "fills": 1
+    "last_fill_at": 1788643435.671396,
+    "fills": 2
   },
   {
     "timestamp": 1788642090,
@@ -101534,8 +101534,8 @@
     "title": "Spread: Chicago Cubs (-3.5)",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 2530.7999999999997,
-    "whale_pct": 0.782,
+    "whale_usd": 6221.549999999999,
+    "whale_pct": 1.922,
     "whale_value_at_open": 323659.2295,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -101546,7 +101546,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788643364.6933875,
+    "last_fill_at": 1788643420.083863,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788643503,
+    "timestamp_added": 1788643504.2244809,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-chc-mia-2026-09-05-spread-away-2pt5",
+    "title": "Spread: Chicago Cubs (-2.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 1092.301,
+    "whale_pct": 0.296,
+    "whale_value_at_open": 369336.9005,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788643504.224496,
     "fills": 1
   }
 ]
