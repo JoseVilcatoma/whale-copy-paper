@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.84154721681654,
+  "bankroll": 386.0693612181892,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20315,6 +20315,26 @@
       "timestamp": 1788646999.4336174,
       "bankroll": 387.84,
       "event": "won: kekasaur \u2014 Will Legia Warszawa win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788647306.7576268,
+      "bankroll": 382.71,
+      "event": "lost: ferrariChampions2026 \u2014 SG Dynamo Dresden vs. VfL Bochum: O/U 2.5"
+    },
+    {
+      "timestamp": 1788647307.0160618,
+      "bankroll": 388.21,
+      "event": "won: Talvez10 \u2014 San Francisco Giants vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1788647308.8593295,
+      "bankroll": 383.1,
+      "event": "lost: ferrariChampions2026 \u2014 San Francisco Giants vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1788647309.8645973,
+      "bankroll": 386.07,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Miami Marlins: O/U 7.5"
     }
   ]
 }
