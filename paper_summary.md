@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:29:49 (hora de Perú)
+Actualizado: 2026-09-05 08:31:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $454.30
-**Retorno acumulado:** -9.14%
+**Bankroll actual:** $455.82
+**Retorno acumulado:** -8.84%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 08:29:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $179.30)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $165.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 8 | 3 | 2 | +22.97 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| AV23IUa | 33 | 18 | 8 | +16.88 USD |
+| AV23IUa | 33 | 18 | 11 | +16.88 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
+| ChonkyChocolateCake | 47 | 30 | 1 | +14.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 |  | 8 | 4 | 1 | +10.88 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 465 | 286 | 34 | -168.14 USD |
+| ferrariChampions2026 | 466 | 286 | 33 | -166.62 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3758
-- **Aciertos:** 2392 (63.7%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 3759
+- **Aciertos:** 2393 (63.7%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,765.24
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $345.85 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,770.24
+- **ROI sobre lo apostado:** -0.88%
+- **Comisiones pagadas (taker fee):** $345.91 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -146,7 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1904 | 50.3% | 50.1% | +0.1 pp |
-| 60-79% | 1122 | 69.8% | 67.8% | +2.0 pp |
+| 60-79% | 1123 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
@@ -773,6 +773,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
 | mlb-det-cle-2026-09-04 | ferrariChampions2026, pleaseplease123 |
 | mlb-laa-pit-2026-09-04 | , Feromont |
+| cs2-mouz-vit-2026-09-05 | AV23IUa, ExplosiveNinja |
 | lol-nip-jdg-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-gen-hle1-2026-09-05-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 | lol-ig1-tes-2026-09-05-game2 | , TAIWANNUMBERONE |
@@ -780,11 +781,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-blockx-cobolli-2026-09-04 | AV23IUa, ferrariChampions2026 |
 | bun-moe-elv-2026-09-05-total-3pt5 | HongYunX, ferrariChampions2026 |
 | elc-sto-cha-2026-09-05-sto | , HongYunX |
+| lol-nip-jdg-2026-09-05-game3 | DoNotTailMe, zofgkt1111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 67% | 5.00 | 6.6% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 57% | 5.00 | 15.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 51% | 5.00 | 16.5% | ⏳ pendiente | — |
 | AV23IUa | Will Bayer 04 Leverkusen win on 2026-09- | Yes (BUY) | 72% | 5.00 | 11.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | JD Gaming (BUY) | 59% | 5.00 | 21.8% | ⏳ pendiente | — |
@@ -804,14 +810,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Valerio Aboian (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ❌ perdida | -5.14 |
 | BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 204.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Coco Gauf | Coco Gauff (BUY) | 98% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 2.0% | ✅ ganada | +2.72 |
-| ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | 1. FC Kaiserslautern vs. SV Darmstadt 98 | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
