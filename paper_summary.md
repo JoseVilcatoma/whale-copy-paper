@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 01:07:09 (hora de Perú)
+Actualizado: 2026-09-05 01:09:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 01:07:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $388.48)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $383.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 457 | 284 | 4 | -173.79 USD |
+| ferrariChampions2026 | 457 | 284 | 5 | -173.79 USD |
 
 ## Análisis general
 
@@ -776,6 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 2. | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Racing Club de Lens (-1.5) | FC Lorient (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
@@ -805,4 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 6.5 | Over (BUY) | 62% | 5.00 | 33.8% | ✅ ganada | +2.97 |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 50% | 5.00 | 23.0% | ❌ perdida | -5.12 |
 | Talvez10 | Zack Gelof: Home Runs O/U 0.5 | Under (BUY) | 92% | 5.00 | 3.0% | ❌ perdida | -5.02 |
-| HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ✅ ganada | +5.51 |

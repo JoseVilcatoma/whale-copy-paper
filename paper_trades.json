@@ -97428,5 +97428,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788585414.115417,
     "fills": 1
+  },
+  {
+    "timestamp": 1788588459,
+    "timestamp_added": 1788588460.616226,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-hul-ast-2026-09-05-total-2pt5",
+    "title": "Hull City AFC vs. Aston Villa FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 508.5808,
+    "whale_pct": 0.485,
+    "whale_value_at_open": 104868.427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788588460.6162379,
+    "fills": 1
   }
 ]
