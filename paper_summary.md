@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:32:41 (hora de Perú)
+Actualizado: 2026-09-04 21:34:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:32:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $382.68)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $372.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 39 | 1 | -95.46 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 452 | 277 | 2 | -150.53 USD |
+| ferrariChampions2026 | 452 | 277 | 4 | -150.53 USD |
 
 ## Análisis general
 
@@ -769,12 +769,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-det-cle-2026-06-14 | 1winstreak1, Feromont |
 | mlb-wsh-lad-2026-09-04-total-8pt5 | BrotherObama, pleaseplease123 |
 | cfb-sjst-emich-2026-09-04 | BrotherObama, Sassy-Bucket |
+| mlb-det-cle-2026-09-04 | ferrariChampions2026, pleaseplease123 |
 | mlb-laa-pit-2026-09-04 | , Feromont |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 61% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -803,5 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | St. Louis Cardinals vs. Colorado Rockies | Under (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | tikstt | Will CA Belgrano win on 2026-09-04? | Yes (BUY) | 49% | 5.00 | 8.4% | ❌ perdida | -5.13 |
 | Feromont | Spread: Oklahoma (-41.5) | Oklahoma (BUY) | 49% | 5.00 | 18.1% | ⏳ pendiente | — |
-| Sassy-Bucket | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 54% | 5.00 | 1724.7% | ❌ perdida | -5.12 |
-| Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 58.5% | ⏳ pendiente | — |

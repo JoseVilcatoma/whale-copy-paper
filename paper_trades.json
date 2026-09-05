@@ -97064,5 +97064,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788575531.3471093,
     "fills": 3
+  },
+  {
+    "timestamp": 1788575582,
+    "timestamp_added": 1788575583.0688238,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-cle-2026-09-04",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 999.9899999999999,
+    "whale_pct": 0.343,
+    "whale_value_at_open": 291850.673,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788575583.0688357,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788575589,
+    "timestamp_added": 1788575590.0275564,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-cle-2026-09-04",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 1390.2299999999998,
+    "whale_pct": 0.476,
+    "whale_value_at_open": 291850.673,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788575590.0275686,
+    "fills": 1
   }
 ]
