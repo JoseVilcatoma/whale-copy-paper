@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.4440525579501,
+  "bankroll": 454.3040525579501,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19750,6 +19750,11 @@
       "timestamp": 1788611944.7594888,
       "bankroll": 459.44,
       "event": "won: zofgkt1111 \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788611998.1888547,
+      "bankroll": 454.3,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner"
     }
   ]
 }

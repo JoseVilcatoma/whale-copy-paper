@@ -98704,8 +98704,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -98968,8 +98968,8 @@
     "title": "LoL: Ninjas in Pyjamas vs JD Gaming - Game 2 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 7979.8757,
-    "whale_pct": 8.828,
+    "whale_usd": 10589.0392,
+    "whale_pct": 11.715,
     "whale_value_at_open": 90391.4858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -98980,8 +98980,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788611938.0910978,
-    "fills": 6
+    "last_fill_at": 1788611957.810418,
+    "fills": 7
   },
   {
     "timestamp": 1788611211,
