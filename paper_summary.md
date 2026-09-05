@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:42:09 (hora de Perú)
+Actualizado: 2026-09-05 05:44:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $463.82
@@ -785,7 +785,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
 | HongYunX | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 48% | 5.00 | 265.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Georgii Kravchenko (BUY) | 64% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Kaiserslautern vs. SV Darmstadt 98 | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
