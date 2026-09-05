@@ -1,5 +1,5 @@
 {
-  "bankroll": 386.0693612181892,
+  "bankroll": 389.30269455152256,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20335,6 +20335,11 @@
       "timestamp": 1788647309.8645973,
       "bankroll": 386.07,
       "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1788647370.2112079,
+      "bankroll": 389.3,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Zheng vs Gea"
     }
   ]
 }
