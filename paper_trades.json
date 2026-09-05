@@ -97960,8 +97960,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 40672.637957000006,
-    "whale_pct": 27.396,
+    "whale_usd": 42262.99889,
+    "whale_pct": 28.467,
     "whale_value_at_open": 148464.6019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -97972,8 +97972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638531.676237,
-    "fills": 9
+    "last_fill_at": 1788640098.4067016,
+    "fills": 10
   },
   {
     "timestamp": 1788597354,
@@ -101155,6 +101155,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788639534.319873,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788640167,
+    "timestamp_added": 1788640168.5788026,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-cce-vil1-2026-09-05",
+    "title": "Counter-Strike: Chicken Coop Esports vs Villainous (BO3) - NSTLGA League Group Stage",
+    "outcome": "Chicken Coop Esports",
+    "side": "BUY",
+    "whale_usd": 999.0802999999999,
+    "whale_pct": 24.14,
+    "whale_value_at_open": 4138.7628,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788640168.5788126,
     "fills": 1
   }
 ]
