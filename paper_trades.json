@@ -97960,8 +97960,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dane Sweeny",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 7395.9628,
-    "whale_pct": 4.982,
+    "whale_usd": 12591.1528,
+    "whale_pct": 8.481,
     "whale_value_at_open": 148464.6019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -97972,8 +97972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788597082.2030964,
-    "fills": 1
+    "last_fill_at": 1788635529.7516646,
+    "fills": 3
   },
   {
     "timestamp": 1788597354,
@@ -100458,8 +100458,8 @@
     "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
     "outcome": "Far\u00e9s Ziam",
     "side": "BUY",
-    "whale_usd": 741.9603999999999,
-    "whale_pct": 1.428,
+    "whale_usd": 1923.1403999999998,
+    "whale_pct": 3.703,
     "whale_value_at_open": 51941.5903,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -100470,8 +100470,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634116.147427,
-    "fills": 1
+    "last_fill_at": 1788635584.5573778,
+    "fills": 3
   },
   {
     "timestamp": 1788634598,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 1003.8,
-    "whale_pct": 0.292,
+    "whale_usd": 10557.5019,
+    "whale_pct": 3.07,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,7 +100568,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635201.2702153,
+    "last_fill_at": 1788635570.7393188,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788635522,
+    "timestamp_added": 1788635522.8484793,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-det-cle-2026-09-05",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 67500.0,
+    "whale_pct": 108.789,
+    "whale_value_at_open": 62046.985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788635522.848489,
     "fills": 1
   }
 ]

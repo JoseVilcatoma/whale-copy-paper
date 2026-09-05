@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 14:11:23 (hora de Perú)
+Actualizado: 2026-09-05 14:13:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $428.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 14:11:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $188.17)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $183.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
+| pleaseplease123 | 14 | 13 | 1 | -4.87 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -792,11 +792,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
+| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 108.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Darderi vs Sweeny | Darderi (BUY) | 70% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Villarreal CF vs. RC Deportivo A Co | No (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Marie Bouzkova (BUY) | 42% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sol | Farés Ziam (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sol | Farés Ziam (BUY) | 60% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Francisco Cerundolo (BUY) | 44% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. Atalanta BC: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Beşiktaş JK: O/U 3.5 | Under (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Qinwen Zheng (BUY) | 93% | 5.00 | 1.6% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | UFC Fight Night: Nathaniel Wood vs. Pave | Nathaniel Wood (BUY) | 71% | 5.00 | 2.9% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Spread: Al Nassr Saudi Club (-1.5) | Al Nassr Saudi Club (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Blockx vs Cobolli | Cobolli (BUY) | 47% | 5.00 | 0.8% | ✅ ganada | +5.51 |
