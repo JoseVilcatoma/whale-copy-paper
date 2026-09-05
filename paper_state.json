@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.8965564975582,
+  "bankroll": 497.0552231642249,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19400,6 +19400,16 @@
       "timestamp": 1788567274.7133207,
       "bankroll": 496.9,
       "event": "lost: tikstt \u2014 CA Platense vs. CD Riestra: O/U 2.5"
+    },
+    {
+      "timestamp": 1788567910.0008085,
+      "bankroll": 491.77,
+      "event": "lost: tikstt \u2014 Will CA Belgrano win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788567910.6032956,
+      "bankroll": 497.06,
+      "event": "won: tikstt \u2014 CA Belgrano vs. CA Hurac\u00e1n: O/U 1.5"
     }
   ]
 }
