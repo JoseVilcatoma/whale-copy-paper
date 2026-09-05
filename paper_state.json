@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.1371708987699,
+  "bankroll": 377.7969328035318,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20265,6 +20265,16 @@
       "timestamp": 1788643921.138969,
       "bankroll": 376.14,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)"
+    },
+    {
+      "timestamp": 1788644841.8692958,
+      "bankroll": 371.04,
+      "event": "lost: Sassy-Bucket \u2014 UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)"
+    },
+    {
+      "timestamp": 1788644843.5038555,
+      "bankroll": 377.8,
+      "event": "won: Talvez10 \u2014 UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)"
     }
   ]
 }
