@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 03:16:11 (hora de Perú)
+Actualizado: 2026-09-05 03:18:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 03:16:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $308.83)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $303.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 11 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 12 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,12 +781,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Game Handicap: GEN (-2.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 54% | 5.00 | 46.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Nottingham Forest FC vs. Tottenham Hotsp | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Gen.G (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Gen.G (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Invictus Gaming vs Top Esports (BO5 | Top Esports (BUY) | 67% | 5.00 | 9.5% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 14.8% | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 47% | 5.00 | 92.7% | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 47% | 5.00 | 133.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 57% | 5.00 | 85.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Alexander Blockx (BUY) | 50% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Under (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ❌ perdida | -5.12 |

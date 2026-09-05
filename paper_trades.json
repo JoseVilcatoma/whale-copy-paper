@@ -97754,8 +97754,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 15999.999995999999,
-    "whale_pct": 92.705,
+    "whale_usd": 22999.999993999998,
+    "whale_pct": 133.264,
     "whale_value_at_open": 17258.958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -97768,8 +97768,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788595940.8034492,
-    "fills": 4
+    "last_fill_at": 1788596257.0777695,
+    "fills": 6
   },
   {
     "timestamp": 1788595538,
@@ -97832,8 +97832,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 553.85,
-    "whale_pct": 0.415,
+    "whale_usd": 2322.0832,
+    "whale_pct": 1.738,
     "whale_value_at_open": 133586.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -97847,8 +97847,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788595940.805424,
-    "fills": 1
+    "last_fill_at": 1788596256.79908,
+    "fills": 4
   },
   {
     "timestamp": 1788595947,
@@ -97899,6 +97899,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788596010.8723319,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788596215,
+    "timestamp_added": 1788596215.6661482,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gen-hle1-2026-09-05-game-handicap-away-2pt5",
+    "title": "Game Handicap: GEN (-2.5) vs Hanwha Life Esports (+2.5)",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 689.9454539999999,
+    "whale_pct": 0.489,
+    "whale_value_at_open": 141204.301,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788596215.6661584,
     "fills": 1
   }
 ]
