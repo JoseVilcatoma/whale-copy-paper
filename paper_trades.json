@@ -98833,5 +98833,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788609661.368502,
     "fills": 1
+  },
+  {
+    "timestamp": 1788609956,
+    "timestamp_added": 1788609956.7233157,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-nip-jdg-2026-09-05-total-games-4pt5",
+    "title": "Games Total: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2534.4,
+    "whale_pct": 0.95,
+    "whale_value_at_open": 266898.0445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788609962.7354906,
+    "fills": 3
   }
 ]
