@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.53569792467374,
+  "bankroll": 470.0030841757157,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19670,6 +19670,31 @@
       "timestamp": 1788608231.3953485,
       "bankroll": 471.54,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Georgii Kravchenko vs Dusan Obradovic"
+    },
+    {
+      "timestamp": 1788609462.6869485,
+      "bankroll": 473.92,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788609464.6064765,
+      "bankroll": 468.83,
+      "event": "lost: BBQChickenisthebesttt \u2014 LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788609465.76615,
+      "bankroll": 470.62,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: TES (-1.5) vs Invictus Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788609468.4339976,
+      "bankroll": 465.51,
+      "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Top Esports - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788609469.6563735,
+      "bankroll": 470.0,
+      "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs"
     }
   ]
 }

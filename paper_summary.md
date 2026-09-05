@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:55:39 (hora de Perú)
+Actualizado: 2026-09-05 06:57:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $471.54
-**Retorno acumulado:** -5.69%
+**Bankroll actual:** $470.00
+**Retorno acumulado:** -6.00%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 06:55:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $176.54)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $200.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,14 +46,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| zofgkt1111 | 7 | 6 | 3 | +6.70 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| zofgkt1111 | 8 | 7 | 1 | +6.09 USD |
 | monkeymashingkeyboard | 11 | 8 | 0 | +6.01 USD |
 | Flaznorp | 36 | 11 | 1 | +5.93 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
+| TAIWANNUMBERONE | 35 | 23 | 3 | +5.31 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 1 | 0 | 0 | +4.88 USD |
 | ExplosiveNinja | 13 | 8 | 1 | +4.32 USD |
@@ -63,13 +64,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
-| TAIWANNUMBERONE | 34 | 23 | 4 | +2.93 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
-| BBQChickenisthebesttt | 8 | 5 | 4 | +2.50 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -94,6 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | kekasaur | 10 | 10 | 0 | -2.52 USD |
+| BBQChickenisthebesttt | 8 | 6 | 3 | -2.58 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 459 | 285 | 34 | -175.55 USD |
+| ferrariChampions2026 | 460 | 285 | 33 | -173.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3741
-- **Aciertos:** 2383 (63.7%)
+- **Apuestas resueltas:** 3746
+- **Aciertos:** 2386 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,680.24
+- **Total apostado (suma de stakes):** $18,705.24
 - **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $344.19 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $344.65 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1895 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1117 | 69.9% | 67.8% | +2.1 pp |
+| 40-59% | 1897 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1120 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
@@ -800,13 +800,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Bayer 04 Leverkusen (-1.5) | Bayer 04 Leverkusen (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | SSG Landers (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Kaiserslautern vs. SV Darmstadt 98 | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 52% | 5.00 | 34.2% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 52% | 5.00 | 34.2% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Dusan O | Dusan Obradovic (BUY) | 73% | 5.00 | 1.4% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Under (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Talvez10 | Will Salahdine Parnasse win by KO or TKO | Yes (BUY) | 55% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Seoul vs. Incheon United FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | 💰 vendida anticipada | -1.31 |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
