@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.62769958603974,
+  "bankroll": 447.4096995860398,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19930,6 +19930,16 @@
       "timestamp": 1788626071.9873745,
       "bankroll": 457.63,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Manchester City FC (-2.5)"
+    },
+    {
+      "timestamp": 1788626688.1534767,
+      "bankroll": 452.55,
+      "event": "lost: Flaznorp \u2014 Will Athletic Club win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788626688.9560807,
+      "bankroll": 447.41,
+      "event": "lost: AV23IUa \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-09-05?"
     }
   ]
 }

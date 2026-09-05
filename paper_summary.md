@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:44:01 (hora de Perú)
+Actualizado: 2026-09-05 11:46:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $457.63
-**Retorno acumulado:** -8.47%
+**Bankroll actual:** $447.41
+**Retorno acumulado:** -10.52%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 11:44:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $262.63)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $252.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | monkeymashingkeyboard | 11 | 8 | 1 | +6.01 USD |
-| Flaznorp | 36 | 11 | 1 | +5.93 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 1 | 0 | 0 | +4.88 USD |
@@ -79,6 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| Flaznorp | 36 | 12 | 0 | +0.85 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -86,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| AV23IUa | 34 | 22 | 6 | -1.72 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
@@ -107,6 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| AV23IUa | 34 | 23 | 5 | -6.86 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | 1winstreak1 | 9 | 7 | 0 | -8.15 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 1 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 477 | 297 | 14 | -166.02 USD |
+| ferrariChampions2026 | 477 | 297 | 16 | -166.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3793
-- **Aciertos:** 2411 (63.6%)
+- **Apuestas resueltas:** 3795
+- **Aciertos:** 2411 (63.5%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,940.24
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $349.89 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,950.24
+- **ROI sobre lo apostado:** -0.91%
+- **Comisiones pagadas (taker fee):** $350.11 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,8 +145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1930 | 50.4% | 50.1% | +0.3 pp |
-| 60-79% | 1130 | 69.6% | 67.8% | +1.8 pp |
+| 40-59% | 1931 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1131 | 69.5% | 67.8% | +1.7 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
@@ -790,6 +790,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 404.0% | ⏳ pendiente | — |
@@ -818,5 +820,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 11.7% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
