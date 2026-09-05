@@ -98941,8 +98941,8 @@
     "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 550.8000000000001,
-    "whale_pct": 0.159,
+    "whale_usd": 1285.8000000000002,
+    "whale_pct": 0.371,
     "whale_value_at_open": 346190.0283,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -98956,8 +98956,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788611098.3467345,
-    "fills": 1
+    "last_fill_at": 1788611434.3234336,
+    "fills": 2
   },
   {
     "timestamp": 1788611130,
@@ -99006,5 +99006,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788611211.9472682,
     "fills": 1
+  },
+  {
+    "timestamp": 1788611382,
+    "timestamp_added": 1788611383.3200457,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-bouzkov-2026-09-04",
+    "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 26052.819989999996,
+    "whale_pct": 7.339,
+    "whale_value_at_open": 355003.0477,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788611396.3395264,
+    "fills": 2
   }
 ]
