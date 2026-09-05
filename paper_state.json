@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.0030841757157,
+  "bankroll": 473.6670140002771,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19695,6 +19695,11 @@
       "timestamp": 1788609469.6563735,
       "bankroll": 470.0,
       "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788611008.6883123,
+      "bankroll": 473.67,
+      "event": "won: ferrariChampions2026 \u2014 Avispa Fukuoka vs. FC Mito Holly Hock: O/U 2.5"
     }
   ]
 }

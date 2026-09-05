@@ -97610,8 +97610,8 @@
     "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
     "outcome": "Yanaki Milev",
     "side": "BUY",
-    "whale_usd": 9912.774010000001,
-    "whale_pct": 8.835,
+    "whale_usd": 11372.759410000002,
+    "whale_pct": 10.136,
     "whale_value_at_open": 112197.0228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -97622,8 +97622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788610883.9707372,
-    "fills": 6
+    "last_fill_at": 1788611030.8720145,
+    "fills": 8
   },
   {
     "timestamp": 1788592774,
@@ -98067,8 +98067,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -98867,8 +98867,8 @@
     "title": "Game Handicap: NIP (-1.5) vs JD Gaming (+1.5)",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 18478.248,
-    "whale_pct": 6.45,
+    "whale_usd": 39298.70400000001,
+    "whale_pct": 13.717,
     "whale_value_at_open": 286504.0472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -98879,8 +98879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788610904.674478,
-    "fills": 17
+    "last_fill_at": 1788610985.6109612,
+    "fills": 36
   },
   {
     "timestamp": 1788610859,
@@ -98904,6 +98904,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788610859.8796084,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788611006,
+    "timestamp_added": 1788611007.0245872,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "bun-moe-elv-2026-09-05-total-3pt5",
+    "title": "Borussia M\u00f6nchengladbach vs. SV 07 Elversberg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 9520.0,
+    "whale_pct": 45.781,
+    "whale_value_at_open": 20794.6435,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788611007.0246043,
     "fills": 1
   }
 ]

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 07:22:22 (hora de Perú)
+Actualizado: 2026-09-05 07:24:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.00
-**Retorno acumulado:** -6.00%
+**Bankroll actual:** $473.67
+**Retorno acumulado:** -5.27%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 07:22:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $180.00)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $183.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
-| HongYunX | 8 | 3 | 1 | +22.97 USD |
+| HongYunX | 8 | 3 | 2 | +22.97 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | AV23IUa | 33 | 18 | 6 | +16.88 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 460 | 285 | 37 | -173.77 USD |
+| ferrariChampions2026 | 461 | 285 | 36 | -170.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3746
-- **Aciertos:** 2386 (63.7%)
+- **Apuestas resueltas:** 3747
+- **Aciertos:** 2387 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,705.24
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $344.65 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,710.24
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $344.76 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1897 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1898 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1120 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -777,14 +777,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-gen-hle1-2026-09-05-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
 | lol-ig1-tes-2026-09-05-game2 | , TAIWANNUMBERONE |
 | lol-ig1-tes-2026-09-05 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
+| bun-moe-elv-2026-09-05-total-3pt5 | HongYunX, ferrariChampions2026 |
 | elc-sto-cha-2026-09-05-sto | , HongYunX |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Manchester City FC (BUY) | 41% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -812,4 +814,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Jeju SK FC vs. Ulsan HD FC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 57% | 5.00 | 4.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 59% | 5.00 | 36.0% | 💰 vendida anticipada | -1.31 |
