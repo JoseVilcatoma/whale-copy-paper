@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:19:18 (hora de Perú)
+Actualizado: 2026-09-05 12:21:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $447.41
-**Retorno acumulado:** -10.52%
+**Bankroll actual:** $438.32
+**Retorno acumulado:** -12.34%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 12:19:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $207.41)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $213.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| beachboy4 | 7 | 2 | 1 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
@@ -92,6 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | kekasaur | 10 | 10 | 0 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Talvez10 | 4 | 4 | 4 | -4.82 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 1 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 477 | 297 | 24 | -166.02 USD |
+| ferrariChampions2026 | 478 | 298 | 22 | -170.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3795
-- **Aciertos:** 2411 (63.5%)
+- **Apuestas resueltas:** 3798
+- **Aciertos:** 2412 (63.5%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,950.24
-- **ROI sobre lo apostado:** -0.91%
-- **Comisiones pagadas (taker fee):** $350.11 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,965.24
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $350.22 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1931 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1131 | 69.5% | 67.8% | +1.7 pp |
-| 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
+| 80-94% | 510 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -794,7 +794,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Blockx vs Cobolli | Cobolli (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | St. Louis City SC (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portland Timbers win on 2026-09-05? | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 6.1% | ⏳ pendiente | — |
 | monkeymashingkeyboard | US Open WTA: Naomi Osaka vs Elise Merten | Naomi Osaka (BUY) | 74% | 5.00 | 62.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -803,14 +803,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Qinwen Zhen | Madison Keys (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 595.6% | ⏳ pendiente | — |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |
 | HongYunX | FC Schalke 04 vs. FC Bayern München: O/U | Under (BUY) | 60% | 5.00 | 92853.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 71% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Team Falcons (BUY) | 48% | 5.00 | 23.0% | ⏳ pendiente | — |
-| beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ⏳ pendiente | — |
+| beachboy4 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 87% | 5.00 | 819.1% | ❌ perdida | -5.03 |
 | DoNotTailMe | LoL: Karmine Corp vs GIANTX - Game 2 Win | GIANTX (BUY) | 49% | 5.00 | 78.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 97% | 5.00 | 113.3% | ✅ ganada | +0.15 |
 | Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |

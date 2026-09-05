@@ -97349,8 +97349,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -99391,8 +99391,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -99563,8 +99563,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [
       "beachboy4"
     ],
@@ -99779,8 +99779,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 9641.010799,
-    "whale_pct": 1.687,
+    "whale_usd": 11169.881598999998,
+    "whale_pct": 1.954,
     "whale_value_at_open": 571509.7138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -99793,8 +99793,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788628695.200665,
-    "fills": 4
+    "last_fill_at": 1788628843.6507034,
+    "fills": 6
   },
   {
     "timestamp": 1788628590,
