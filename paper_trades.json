@@ -98308,8 +98308,8 @@
     "title": "Will Salahdine Parnasse win by KO or TKO?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3741.6600000000003,
-    "whale_pct": 13.224,
+    "whale_usd": 4551.66,
+    "whale_pct": 16.087,
     "whale_value_at_open": 28294.322,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -98320,8 +98320,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788601656.1158345,
-    "fills": 1
+    "last_fill_at": 1788618549.925559,
+    "fills": 2
   },
   {
     "timestamp": 1788602513,
