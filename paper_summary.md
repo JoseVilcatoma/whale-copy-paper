@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 14:44:15 (hora de Perú)
+Actualizado: 2026-09-05 14:46:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $404.39
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 14:44:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $169.39)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $164.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 492 | 307 | 30 | -176.92 USD |
+| ferrariChampions2026 | 492 | 307 | 31 | -176.92 USD |
 
 ## Análisis general
 
@@ -788,18 +788,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-ts7-fal2-2026-09-05-game1 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, ExplosiveNinja |
 | ufc-mbukau-oum-2026-09-05 | Talvez10, ferrariChampions2026 |
 | ufc-nor4-kla-2026-09-05 | Sassy-Bucket, ferrariChampions2026 |
+| mlb-sf-nym-2026-09-05-total-8pt5 | Talvez10, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Under (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Eldense vs. RCD Mallorca: O/U 1.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Khachanov vs Bonzi | Khachanov (BUY) | 60% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Sporting CP (-2.5) | CD Nacional (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Jsram | UFC Fight Night: Trevor Peek vs. Kurtis  | Kurtis Campbell (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Orlando City SC win on 2026-09-05? | No (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Jsram | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 66% | 5.00 | 37.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Villarreal CF win on 2026-09-05? | Yes (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Villarreal CF win on 2026-09-05? | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Muhammad Naimov vs. Los | Losene Keita (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 108.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Benjamin | Karen Khachanov (BUY) | 71% | 5.00 | 8.1% | ⏳ pendiente | — |
@@ -821,5 +823,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Coastal Carolina vs. West Virginia: O/U  | Under (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | UFC Fight Night: Morgan Charrière vs. Fe | Felipe Lima (BUY) | 66% | 5.00 | 0.6% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 0. | Under (BUY) | 54% | 5.00 | 0.3% | ✅ ganada | +4.14 |
-| Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 70% | 5.00 | 12.7% | ❌ perdida | -5.08 |
+| Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 47% | 5.00 | 23.1% | ⏳ pendiente | — |
