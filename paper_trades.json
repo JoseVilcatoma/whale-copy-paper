@@ -97462,8 +97462,8 @@
     "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 15566.972399999999,
-    "whale_pct": 160.753,
+    "whale_usd": 18654.3802,
+    "whale_pct": 192.636,
     "whale_value_at_open": 9683.7615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -97474,8 +97474,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788591593.8883824,
-    "fills": 6
+    "last_fill_at": 1788592489.0532026,
+    "fills": 7
   },
   {
     "timestamp": 1788591138,
@@ -97597,6 +97597,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788592434.1583576,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788592542,
+    "timestamp_added": 1788592543.0395238,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-milev-aboian-2026-09-05",
+    "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
+    "outcome": "Yanaki Milev",
+    "side": "BUY",
+    "whale_usd": 1784.9155999999998,
+    "whale_pct": 1.591,
+    "whale_value_at_open": 112197.0228,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788592543.0395365,
     "fills": 1
   }
 ]
