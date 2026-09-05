@@ -98320,5 +98320,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788601656.1158345,
     "fills": 1
+  },
+  {
+    "timestamp": 1788602513,
+    "timestamp_added": 1788602514.2360218,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bun-wer-lei-2026-09-05-total-3pt5",
+    "title": "SV Werder Bremen vs. RB Leipzig: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6778.969999,
+    "whale_pct": 3.367,
+    "whale_value_at_open": 201326.8206,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788602514.2360296,
+    "fills": 1
   }
 ]
