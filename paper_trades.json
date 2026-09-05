@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 63929.97082799999,
-    "whale_pct": 51.627,
+    "whale_usd": 78361.542504,
+    "whale_pct": 63.282,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635175.2658534,
-    "fills": 15
+    "last_fill_at": 1788635839.2623007,
+    "fills": 17
   },
   {
     "timestamp": 1788595377,
@@ -100604,8 +100604,8 @@
     "title": "UFC Fight Night: Muhammad Naimov vs. Losene Keita (Featherweight, Main Card)",
     "outcome": "Losene Keita",
     "side": "BUY",
-    "whale_usd": 1583.3333330000003,
-    "whale_pct": 0.456,
+    "whale_usd": 2849.9999990000006,
+    "whale_pct": 0.82,
     "whale_value_at_open": 347401.1073,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -100616,8 +100616,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635686.3295465,
-    "fills": 1
+    "last_fill_at": 1788635741.6293344,
+    "fills": 2
   },
   {
     "timestamp": 1788635726,
@@ -100641,6 +100641,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788635727.0393288,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788635851,
+    "timestamp_added": 1788635852.27584,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ufc-mic32-nur1-2026-09-05",
+    "title": "UFC Fight Night: Michael Page vs. Nursulton Ruziboev (Middleweight, Main Card)",
+    "outcome": "Michael Page",
+    "side": "BUY",
+    "whale_usd": 29609.177000000003,
+    "whale_pct": 22.155,
+    "whale_value_at_open": 133647.1965,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788635852.2758508,
     "fills": 1
   }
 ]
