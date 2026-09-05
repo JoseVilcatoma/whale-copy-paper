@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 17:04:15 (hora de Perú)
+Actualizado: 2026-09-05 17:06:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $376.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 17:04:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $111.08)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $106.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 41 | 2 | -100.16 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 506 | 318 | 28 | -201.03 USD |
+| ferrariChampions2026 | 506 | 318 | 29 | -201.03 USD |
 
 ## Análisis general
 
@@ -788,6 +788,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-chc-mia-2026-09-05 | ferrariChampions2026, monkeymashingkeyboard |
 | lol-nip-jdg-2026-09-05-game3 | DoNotTailMe, zofgkt1111 |
 | atp-mensik-tien-2026-09-05 | AV23IUa, ferrariChampions2026 |
+| atp-bergs-zandsch-2026-09-05 | AV23IUa, ferrariChampions2026 |
 | cs2-ts7-fal2-2026-09-05-game1 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, ExplosiveNinja |
 | mlb-nyy-sd-2026-09-05 | Talvez10, pleaseplease123 |
 | ufc-mbukau-oum-2026-09-05 | Talvez10, ferrariChampions2026 |
@@ -804,6 +805,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Wyoming vs. Colorado State | Colorado State (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky (BUY) | 51% | 5.00 | 7.6% | ⏳ pendiente | — |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ⏳ pendiente | — |
@@ -832,5 +834,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Miami Marlins: O/U 7.5 | Over (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |
-| pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 9.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 54% | 5.00 | 11.1% | ⏳ pendiente | — |
+| pleaseplease123 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 10.9% | ⏳ pendiente | — |

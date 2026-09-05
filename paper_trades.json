@@ -101018,8 +101018,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 12070.586000000001,
-    "whale_pct": 9.358,
+    "whale_usd": 14103.386,
+    "whale_pct": 10.934,
     "whale_value_at_open": 128984.485,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -101032,8 +101032,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639105.5619948,
-    "fills": 1
+    "last_fill_at": 1788645927.8821514,
+    "fills": 3
   },
   {
     "timestamp": 1788639425,
@@ -101717,6 +101717,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788645515.0526543,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788645917,
+    "timestamp_added": 1788645918.1697683,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bergs-zandsch-2026-09-05",
+    "title": "US Open ATP: Zizou Bergs vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "whale_usd": 4859.757,
+    "whale_pct": 1.475,
+    "whale_value_at_open": 329502.0117,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788645918.1697805,
     "fills": 1
   }
 ]
