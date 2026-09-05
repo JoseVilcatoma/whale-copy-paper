@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.94926233691194,
+  "bankroll": 463.8237067813564,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19635,6 +19635,11 @@
       "timestamp": 1788603182.3767354,
       "bankroll": 461.95,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Invictus Gaming vs Top Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788603806.2311084,
+      "bankroll": 463.82,
+      "event": "won: 11vsldfdsgfkjgos \u2014 M15 Szczawno: Pawel Juszczak vs John Hallquist Lithen"
     }
   ]
 }

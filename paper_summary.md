@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:22:34 (hora de Perú)
+Actualizado: 2026-09-05 05:24:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $461.95
-**Retorno acumulado:** -7.61%
+**Bankroll actual:** $463.82
+**Retorno acumulado:** -7.24%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 05:22:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $191.95)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $198.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,10 +43,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | zofgkt1111 | 6 | 5 | 4 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| 11vsldfdsgfkjgos | 3 | 0 | 1 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
@@ -130,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3735
-- **Aciertos:** 2379 (63.7%)
+- **Apuestas resueltas:** 3736
+- **Aciertos:** 2380 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,650.24
-- **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $343.60 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,655.24
+- **ROI sobre lo apostado:** -0.81%
+- **Comisiones pagadas (taker fee):** $343.67 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -146,7 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1892 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1114 | 69.9% | 67.8% | +2.1 pp |
+| 60-79% | 1115 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
 
@@ -798,7 +798,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
 | ferrariChampions2026 | Borussia Mönchengladbach vs. SV 07 Elver | Over (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 159.9% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 159.9% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Avispa Fukuoka vs. FC Mito Holly Hock: O | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
