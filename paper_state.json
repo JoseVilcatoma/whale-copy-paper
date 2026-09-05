@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.6792255188742,
+  "bankroll": 436.9435696048957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20030,6 +20030,16 @@
       "timestamp": 1788631672.9512866,
       "bankroll": 441.68,
       "event": "lost: AV23IUa \u2014 Will Brentford FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788631989.9169462,
+      "bankroll": 436.58,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Madison Keys vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788631992.0728993,
+      "bankroll": 436.94,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Madison Keys vs Qinwen Zheng"
     }
   ]
 }
