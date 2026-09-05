@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:17:04 (hora de Perú)
+Actualizado: 2026-09-05 11:19:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.50
-**Retorno acumulado:** -5.10%
+**Bankroll actual:** $464.24
+**Retorno acumulado:** -7.15%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 11:17:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $269.50)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $269.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 2 | +14.61 USD |
 | zofgkt1111 | 10 | 7 | 1 | +13.78 USD |
-| AV23IUa | 34 | 19 | 9 | +13.62 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -45,6 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| AV23IUa | 34 | 20 | 8 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | ExplosiveNinja | 14 | 8 | 1 | +7.98 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 475 | 295 | 16 | -164.49 USD |
+| ferrariChampions2026 | 475 | 296 | 15 | -169.61 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3786
+- **Apuestas resueltas:** 3788
 - **Aciertos:** 2409 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,905.24
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $349.04 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,915.24
+- **ROI sobre lo apostado:** -0.83%
+- **Comisiones pagadas (taker fee):** $349.30 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1924 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 1926 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 1129 | 69.6% | 67.8% | +1.9 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 226 | 96.5% | 97.3% | -0.9 pp |

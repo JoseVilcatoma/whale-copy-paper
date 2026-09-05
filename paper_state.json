@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.50268812882524,
+  "bankroll": 464.24068812882524,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19895,6 +19895,16 @@
       "timestamp": 1788624200.7300978,
       "bankroll": 474.5,
       "event": "won: ferrariChampions2026 \u2014 Spread: Shandong Taishan FC (-1.5)"
+    },
+    {
+      "timestamp": 1788625131.44574,
+      "bankroll": 469.36,
+      "event": "lost: AV23IUa \u2014 Will Nottingham Forest FC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788625135.4133577,
+      "bankroll": 464.24,
+      "event": "lost: ferrariChampions2026 \u2014 Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5"
     }
   ]
 }
