@@ -97140,5 +97140,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788575799.1411793,
     "fills": 1
+  },
+  {
+    "timestamp": 1788575929,
+    "timestamp_added": 1788575930.4052277,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-svitoli-kalinsk-2026-09-04",
+    "title": "US Open WTA: Elina Svitolina vs Anna Kalinskaya",
+    "outcome": "Elina Svitolina",
+    "side": "BUY",
+    "whale_usd": 1571.427,
+    "whale_pct": 0.626,
+    "whale_value_at_open": 250917.978,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788575930.4052606,
+    "fills": 1
   }
 ]
