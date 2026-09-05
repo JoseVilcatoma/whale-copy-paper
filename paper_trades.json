@@ -99795,5 +99795,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788628397.9843009,
     "fills": 1
+  },
+  {
+    "timestamp": 1788628590,
+    "timestamp_added": 1788628591.5352488,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-por-min-2026-09-05-por",
+    "title": "Will Portland Timbers win on 2026-09-05?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 929.8000000000001,
+    "whale_pct": 0.17,
+    "whale_value_at_open": 545714.5758,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788628591.5352614,
+    "fills": 1
   }
 ]
