@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 23:59:29 (hora de Perú)
+Actualizado: 2026-09-05 00:01:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $472.34
@@ -780,7 +780,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Amanda Anisimova (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Ilia Simakin vs Mitsuki We | Ilia Simakin (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 12.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Denis Shapov | Ben Shelton (BUY) | 89% | 5.00 | 14.1% | ⏳ pendiente | — |
 | kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ❌ perdida | -5.13 |

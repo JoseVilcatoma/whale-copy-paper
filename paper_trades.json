@@ -97270,8 +97270,8 @@
     "title": "US Open ATP: Ben Shelton vs Denis Shapovalov",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 19269.132542,
-    "whale_pct": 12.573,
+    "whale_usd": 21595.367318,
+    "whale_pct": 14.091,
     "whale_value_at_open": 153255.5947,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -97282,8 +97282,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788584115.457821,
-    "fills": 4
+    "last_fill_at": 1788584482.6452157,
+    "fills": 5
   },
   {
     "timestamp": 1788582949,
