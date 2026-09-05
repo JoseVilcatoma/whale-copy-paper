@@ -98623,8 +98623,8 @@
     "title": "US Open WTA: Cristina Bucsa vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 47930.514433,
-    "whale_pct": 19.919,
+    "whale_usd": 61304.037953,
+    "whale_pct": 25.477,
     "whale_value_at_open": 240628.6982,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -98635,8 +98635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788638837.5824594,
-    "fills": 8
+    "last_fill_at": 1788641089.4751456,
+    "fills": 9
   },
   {
     "timestamp": 1788606122,
