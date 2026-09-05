@@ -96865,8 +96865,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -98599,8 +98599,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Nikola Bartunkova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 36275.572396,
-    "whale_pct": 15.616,
+    "whale_usd": 38023.972396000005,
+    "whale_pct": 16.369,
     "whale_value_at_open": 232296.6724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -98611,8 +98611,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788630142.1586866,
-    "fills": 4
+    "last_fill_at": 1788631688.8818347,
+    "fills": 5
   },
   {
     "timestamp": 1788606054,
@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 26052.819989999996,
-    "whale_pct": 7.339,
+    "whale_usd": 28007.117589999994,
+    "whale_pct": 7.889,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788611396.3395264,
-    "fills": 2
+    "last_fill_at": 1788631743.2613437,
+    "fills": 3
   },
   {
     "timestamp": 1788613644,
@@ -100133,5 +100133,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788631600.0159712,
     "fills": 2
+  },
+  {
+    "timestamp": 1788631667,
+    "timestamp_added": 1788631667.4438035,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-mor-fel10-2026-09-05",
+    "title": "UFC Fight Night: Morgan Charri\u00e8re vs. Felipe Lima (Featherweight, Main Card)",
+    "outcome": "Felipe Lima",
+    "side": "BUY",
+    "whale_usd": 650.0,
+    "whale_pct": 0.168,
+    "whale_value_at_open": 386683.1396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788631667.4438128,
+    "fills": 1
   }
 ]

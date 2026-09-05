@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.7822255188742,
+  "bankroll": 441.6792255188742,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20025,6 +20025,11 @@
       "timestamp": 1788630744.6388414,
       "bankroll": 446.78,
       "event": "won: ferrariChampions2026 \u2014 Como: Juan Pablo Varillas vs Jay Clarke"
+    },
+    {
+      "timestamp": 1788631672.9512866,
+      "bankroll": 441.68,
+      "event": "lost: AV23IUa \u2014 Will Brentford FC win on 2026-09-05?"
     }
   ]
 }
