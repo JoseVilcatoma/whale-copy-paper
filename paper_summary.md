@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:41:56 (hora de Perú)
+Actualizado: 2026-09-05 11:44:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 11:41:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $272.63)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $262.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 1 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 477 | 297 | 12 | -166.02 USD |
+| ferrariChampions2026 | 477 | 297 | 14 | -166.02 USD |
 
 ## Análisis general
 
@@ -790,6 +790,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Jay Clarke (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Anastasia Potapova vs Amand | Anastasia Potapova (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 47% | 5.00 | 404.0% | ⏳ pendiente | — |
 | AGUGava | Will Real Racing Club win on 2026-09-05? | Yes (BUY) | 47% | 5.00 | 12.2% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |
@@ -818,5 +820,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ❌ perdida | -5.10 |
