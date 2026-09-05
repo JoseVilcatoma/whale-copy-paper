@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.8202231642249,
+  "bankroll": 488.87629057664765,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19420,6 +19420,16 @@
       "timestamp": 1788568850.2476645,
       "bankroll": 486.82,
       "event": "lost: AV23IUa \u2014 US Open ATP: Tomas Etcheverry vs Mariano Navone"
+    },
+    {
+      "timestamp": 1788572012.8071928,
+      "bankroll": 487.6,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Imperial vs ALKA (BO3) - PGL Masters Bucharest: South American Open Qualifier #1 Playoffs"
+    },
+    {
+      "timestamp": 1788572013.1193068,
+      "bankroll": 488.88,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
     }
   ]
 }
