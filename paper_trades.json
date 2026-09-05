@@ -99867,5 +99867,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788628645.4005363,
     "fills": 2
+  },
+  {
+    "timestamp": 1788628985,
+    "timestamp_added": 1788628986.235358,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "spl-ith-nsr-2026-09-05-spread-away-1pt5",
+    "title": "Spread: Al Nassr Saudi Club (-1.5)",
+    "outcome": "Al Nassr Saudi Club",
+    "side": "BUY",
+    "whale_usd": 2409.8279999999995,
+    "whale_pct": 0.505,
+    "whale_value_at_open": 476798.181,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788628986.235371,
+    "fills": 1
   }
 ]
