@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:41:10 (hora de Perú)
+Actualizado: 2026-09-05 06:43:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $471.54
@@ -784,7 +784,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Spread: Shandong Taishan FC (-1.5) | Shenzhen Xinpengcheng FC (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 44% | 5.00 | 16.7% | ⏳ pendiente | — |
+|  | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 44% | 5.00 | 28.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Valerio Aboian (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 204.7% | ⏳ pendiente | — |
