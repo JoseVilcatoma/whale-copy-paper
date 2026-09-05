@@ -99472,5 +99472,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788622441.2750907,
     "fills": 1
+  },
+  {
+    "timestamp": 1788625344,
+    "timestamp_added": 1788625345.1235878,
+    "username": "AGUGava",
+    "wallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+    "slug": "wta-swiatek-bouzkov-2026-09-04",
+    "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 6450.0,
+    "whale_pct": 21.409,
+    "whale_value_at_open": 30127.5,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788625345.1235998,
+    "fills": 1
   }
 ]

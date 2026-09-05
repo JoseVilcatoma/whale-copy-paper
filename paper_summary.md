@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 11:21:13 (hora de Perú)
+Actualizado: 2026-09-05 11:23:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 11:21:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $269.24)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $264.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 9 | 7 | 0 | -8.15 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| AGUGava | 1 | 2 | 0 | -9.08 USD |
+| AGUGava | 1 | 2 | 1 | -9.08 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -782,6 +782,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-blockx-cobolli-2026-09-04 | AV23IUa, ferrariChampions2026 |
 | bun-moe-elv-2026-09-05-total-3pt5 | HongYunX, ferrariChampions2026 |
 | elc-sto-cha-2026-09-05-sto | , HongYunX |
+| wta-swiatek-bouzkov-2026-09-04 | AGUGava, ferrariChampions2026 |
 | lol-nip-jdg-2026-09-05-game3 | DoNotTailMe, zofgkt1111 |
 | cs2-ts7-fal2-2026-09-05-game1 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, ExplosiveNinja |
 
@@ -789,6 +790,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AGUGava | US Open WTA: Iga Swiatek vs Marie Bouzko | Iga Swiatek (BUY) | 88% | 5.00 | 21.4% | ⏳ pendiente | — |
 | HongYunX | FC Schalke 04 vs. FC Bayern München: O/U | Under (BUY) | 60% | 5.00 | 92853.1% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Modestas Bukauskas vs.  | Oumar Sy (BUY) | 71% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: Spirit vs Team Falcons - | Team Falcons (BUY) | 48% | 5.00 | 23.0% | ⏳ pendiente | — |
@@ -818,4 +820,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Manchester City FC (BUY) | 41% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Shandong Taishan FC (-1.5) | Shenzhen Xinpengcheng FC (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |
-|  | Will Stoke City FC win on 2026-09-05? | Yes (BUY) | 44% | 5.00 | 28.2% | ✅ ganada | +6.22 |
