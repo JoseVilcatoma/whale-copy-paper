@@ -97834,8 +97834,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 4669.598472000001,
-    "whale_pct": 3.496,
+    "whale_usd": 6432.214472000001,
+    "whale_pct": 4.815,
     "whale_value_at_open": 133586.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -97849,8 +97849,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788607306.1084688,
-    "fills": 7
+    "last_fill_at": 1788607380.8501937,
+    "fills": 9
   },
   {
     "timestamp": 1788595947,
@@ -98671,8 +98671,8 @@
     "title": "LoL: Ninjas in Pyjamas vs JD Gaming (BO5) - LPL Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 6597.181555,
-    "whale_pct": 72.956,
+    "whale_usd": 18512.899655,
+    "whale_pct": 204.728,
     "whale_value_at_open": 9042.6787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -98685,8 +98685,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788607264.7886353,
-    "fills": 3
+    "last_fill_at": 1788607427.6594517,
+    "fills": 9
   },
   {
     "timestamp": 1788606701,
