@@ -98613,5 +98613,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788605723.8564065,
     "fills": 2
+  },
+  {
+    "timestamp": 1788606054,
+    "timestamp_added": 1788606055.3750618,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-bucsa-gauff-2026-09-05",
+    "title": "US Open WTA: Cristina Bucsa vs Coco Gauff",
+    "outcome": "Coco Gauff",
+    "side": "BUY",
+    "whale_usd": 17410.979999999996,
+    "whale_pct": 7.236,
+    "whale_value_at_open": 240628.6982,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788606055.9442549,
+    "fills": 2
   }
 ]
