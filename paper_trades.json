@@ -100157,5 +100157,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788631667.4438128,
     "fills": 1
+  },
+  {
+    "timestamp": 1788632037,
+    "timestamp_added": 1788632038.2457316,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cfb-coast-wvir-2026-09-05-total-44pt5",
+    "title": "Coastal Carolina vs. West Virginia: O/U 44.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 611.1714000000001,
+    "whale_pct": 0.156,
+    "whale_value_at_open": 391669.1657,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788632038.2457442,
+    "fills": 1
   }
 ]
