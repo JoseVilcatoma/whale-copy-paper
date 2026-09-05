@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:14:21 (hora de Perú)
+Actualizado: 2026-09-05 06:16:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.11
-**Retorno acumulado:** -6.18%
+**Bankroll actual:** $464.00
+**Retorno acumulado:** -7.20%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 06:14:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $169.11)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $169.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| zofgkt1111 | 6 | 5 | 5 | +7.67 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -67,6 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| zofgkt1111 | 6 | 6 | 4 | +2.56 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
 | BBQChickenisthebesttt | 8 | 5 | 4 | +2.50 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
@@ -130,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3736
+- **Apuestas resueltas:** 3737
 - **Aciertos:** 2380 (63.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,655.24
-- **ROI sobre lo apostado:** -0.81%
-- **Comisiones pagadas (taker fee):** $343.67 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,660.24
+- **ROI sobre lo apostado:** -0.84%
+- **Comisiones pagadas (taker fee):** $343.78 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1892 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1893 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1115 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 504 | 85.7% | 86.7% | -1.0 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |

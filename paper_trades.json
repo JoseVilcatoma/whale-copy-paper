@@ -97737,8 +97737,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -97834,8 +97834,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 2936.9632,
-    "whale_pct": 2.199,
+    "whale_usd": 3646.054109,
+    "whale_pct": 2.729,
     "whale_value_at_open": 133586.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -97849,8 +97849,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788596467.7807481,
-    "fills": 5
+    "last_fill_at": 1788606925.205935,
+    "fills": 6
   },
   {
     "timestamp": 1788595947,
