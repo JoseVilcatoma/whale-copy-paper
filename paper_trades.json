@@ -98082,8 +98082,8 @@
     "title": "M15 Szczawno: Pawel Juszczak vs John Hallquist Lithen",
     "outcome": "John Hallquist Lithen",
     "side": "BUY",
-    "whale_usd": 14780.470743,
-    "whale_pct": 75.047,
+    "whale_usd": 20981.110742999997,
+    "whale_pct": 106.531,
     "whale_value_at_open": 19694.9306,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -98094,8 +98094,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788598906.507509,
-    "fills": 10
+    "last_fill_at": 1788598964.944863,
+    "fills": 13
   },
   {
     "timestamp": 1788598898,
