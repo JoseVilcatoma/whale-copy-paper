@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.7666850322677,
+  "bankroll": 396.9109442915269,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20360,6 +20360,11 @@
       "timestamp": 1788649897.5448525,
       "bankroll": 392.77,
       "event": "lost: ferrariChampions2026 \u2014 San Francisco Giants vs. New York Mets"
+    },
+    {
+      "timestamp": 1788650687.342874,
+      "bankroll": 396.91,
+      "event": "venta anticipada:  \u2014 Baylor vs. Auburn (+4.14 USD)"
     }
   ]
 }

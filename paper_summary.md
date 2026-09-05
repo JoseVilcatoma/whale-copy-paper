@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 18:23:39 (hora de Perú)
+Actualizado: 2026-09-05 18:25:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $392.77
-**Retorno acumulado:** -21.45%
+**Bankroll actual:** $396.91
+**Retorno acumulado:** -20.62%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 18:23:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $102.77)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $111.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
+|  | 2 | 0 | 1 | +9.02 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | zofgkt1111 | 10 | 8 | 0 | +8.68 USD |
@@ -53,7 +54,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 11 | 8 | 2 | +6.01 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-|  | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Talvez10 | 9 | 6 | 2 | +4.04 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -818,7 +818,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | sbsigner | Will Columbus Crew win on 2026-09-05? | No (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ⏳ pendiente | — |
-|  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | ⏳ pendiente | — |
+|  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
 | HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ⏳ pendiente | — |
 |  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ⏳ pendiente | — |

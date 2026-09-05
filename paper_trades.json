@@ -101931,8 +101931,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 4.14,
     "overlaps_with": [
       "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
       "ferrariChampions2026"
@@ -101940,7 +101940,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788648131.8058982,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.115,
+    "closed_price": 100
   },
   {
     "timestamp": 1788648171,
