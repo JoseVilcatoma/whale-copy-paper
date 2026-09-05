@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:22:12 (hora de Perú)
+Actualizado: 2026-09-04 21:24:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:22:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $390.31)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $385.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 10 | 9 | 0 | +2.59 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| TAIWANNUMBERONE | 33 | 22 | 1 | +2.32 USD |
+| TAIWANNUMBERONE | 33 | 22 | 2 | +2.32 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -775,6 +775,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 61% | 5.00 | 3.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs FOKUS (BO3) - St | FOKUS (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 43% | 5.00 | 23.4% | ⏳ pendiente | — |
 | AV23IUa | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -804,4 +805,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 58.5% | ⏳ pendiente | — |
 | tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ✅ ganada | +3.66 |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
-| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ❌ perdida | -5.12 |
