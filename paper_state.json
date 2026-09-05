@@ -1,5 +1,5 @@
 {
-  "bankroll": 396.0553334010504,
+  "bankroll": 391.30553727890947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20205,6 +20205,31 @@
       "timestamp": 1788642067.0346243,
       "bankroll": 396.06,
       "event": "lost: ferrariChampions2026 \u2014 Will Atalanta BC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788642368.4661794,
+      "bankroll": 396.77,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Marie Bouzkova"
+    },
+    {
+      "timestamp": 1788642369.9779658,
+      "bankroll": 397.42,
+      "event": "won: AGUGava \u2014 US Open WTA: Iga Swiatek vs Marie Bouzkova"
+    },
+    {
+      "timestamp": 1788642372.7467546,
+      "bankroll": 392.31,
+      "event": "lost: ferrariChampions2026 \u2014 Le Havre AC vs. Stade Brestois 29: O/U 2.5"
+    },
+    {
+      "timestamp": 1788642373.763688,
+      "bankroll": 396.45,
+      "event": "won: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Be\u015fikta\u015f JK: O/U 3.5"
+    },
+    {
+      "timestamp": 1788642374.0163958,
+      "bankroll": 391.31,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Marie Bouzkova"
     }
   ]
 }
