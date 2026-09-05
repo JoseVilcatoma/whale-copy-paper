@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.4215172830573,
+  "bankroll": 451.60873672402516,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19960,6 +19960,16 @@
       "timestamp": 1788629481.2064981,
       "bankroll": 441.42,
       "event": "won: ferrariChampions2026 \u2014 Spread: Racing Club de Lens (-1.5)"
+    },
+    {
+      "timestamp": 1788629798.6720142,
+      "bankroll": 446.93,
+      "event": "won: Sassy-Bucket \u2014 UFC Fight Night: Nora Cornolle vs. Klaudia Sygula (Women's Bantamweight, Prelims)"
+    },
+    {
+      "timestamp": 1788629799.4440546,
+      "bankroll": 451.61,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Nora Cornolle vs. Klaudia Sygula (Women's Bantamweight, Prelims)"
     }
   ]
 }

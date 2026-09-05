@@ -99539,8 +99539,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -99685,8 +99685,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "Sassy-Bucket"
     ],
@@ -99704,8 +99704,8 @@
     "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 2260.2875999999997,
-    "whale_pct": 0.407,
+    "whale_usd": 2764.2875999999997,
+    "whale_pct": 0.498,
     "whale_value_at_open": 555068.7265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99719,8 +99719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788629760.8259468,
-    "fills": 4
+    "last_fill_at": 1788629769.049736,
+    "fills": 5
   },
   {
     "timestamp": 1788628060,
@@ -99901,8 +99901,8 @@
     "title": "UFC Fight Night: Nathaniel Wood vs. Pavel Andrusca (Featherweight, Prelims)",
     "outcome": "Nathaniel Wood",
     "side": "BUY",
-    "whale_usd": 1166.6666659999999,
-    "whale_pct": 0.235,
+    "whale_usd": 14225.082665999998,
+    "whale_pct": 2.869,
     "whale_value_at_open": 495824.9839,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -99913,8 +99913,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788629379.9286883,
-    "fills": 1
+    "last_fill_at": 1788629819.7136545,
+    "fills": 5
   },
   {
     "timestamp": 1788629629,
