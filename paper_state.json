@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.2306049683879,
+  "bankroll": 436.09560496838793,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19805,6 +19805,11 @@
       "timestamp": 1788620334.2693543,
       "bankroll": 441.23,
       "event": "lost: ferrariChampions2026 \u2014 1. FC Kaiserslautern vs. SV Darmstadt 98: O/U 2.5"
+    },
+    {
+      "timestamp": 1788621453.2373986,
+      "bankroll": 436.1,
+      "event": "lost: ferrariChampions2026 \u2014 Will ACF Fiorentina win on 2026-09-05?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 10:15:36 (hora de Perú)
+Actualizado: 2026-09-05 10:17:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.23
-**Retorno acumulado:** -11.75%
+**Bankroll actual:** $436.10
+**Retorno acumulado:** -12.78%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 10:15:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $156.23)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $156.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,18 +126,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 469 | 291 | 26 | -176.09 USD |
+| ferrariChampions2026 | 469 | 292 | 25 | -181.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3768
+- **Apuestas resueltas:** 3769
 - **Aciertos:** 2396 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,815.24
-- **ROI sobre lo apostado:** -0.95%
-- **Comisiones pagadas (taker fee):** $347.02 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,820.24
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $347.15 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1911 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1912 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1125 | 69.7% | 67.8% | +1.9 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -810,7 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 59% | 5.00 | 11.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HongYunX | Borussia Mönchengladbach vs. SV 07 Elver | Under (BUY) | 57% | 5.00 | 45.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will ACF Fiorentina win on 2026-09-05? | Yes (BUY) | 46% | 5.00 | 3.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: NIP (-1.5) vs JD Gaming ( | Ninjas in Pyjamas (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Paderborn 07 vs. SC Freiburg: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
