@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 06:24:40 (hora de Perú)
+Actualizado: 2026-09-05 06:26:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 06:24:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $188.88)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $183.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 33 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 34 | -173.20 USD |
 
 ## Análisis general
 
@@ -782,6 +782,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Valerio Aboian (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 44% | 5.00 | 108.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 56% | 5.00 | 204.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -811,4 +812,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Avispa Fukuoka vs. FC Mito Holly Hock: O | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manchester City FC vs. Coventry City FC: | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |

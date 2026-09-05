@@ -98711,5 +98711,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788606747.5205371,
     "fills": 2
+  },
+  {
+    "timestamp": 1788607559,
+    "timestamp_added": 1788607560.09274,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-milev-aboian-2026-09-05",
+    "title": "Plovdiv 3: Yanaki Milev vs Valerio Aboian",
+    "outcome": "Valerio Aboian",
+    "side": "BUY",
+    "whale_usd": 1006.968,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 259021.8023,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788607560.0927582,
+    "fills": 1
   }
 ]
