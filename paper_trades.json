@@ -98072,5 +98072,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788598018.7671552,
     "fills": 1
+  },
+  {
+    "timestamp": 1788598275,
+    "timestamp_added": 1788598276.143162,
+    "username": "11vsldfdsgfkjgos",
+    "wallet": "0x397062018dfb77e855608fe23223592bc82c44ce",
+    "slug": "itf-juszcz-lithe-2026-09-05",
+    "title": "M15 Szczawno: Pawel Juszczak vs John Hallquist Lithen",
+    "outcome": "John Hallquist Lithen",
+    "side": "BUY",
+    "whale_usd": 2625.194077,
+    "whale_pct": 13.329,
+    "whale_value_at_open": 19694.9306,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788598283.0670722,
+    "fills": 2
   }
 ]
