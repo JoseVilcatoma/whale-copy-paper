@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 17:18:38 (hora de Perú)
+Actualizado: 2026-09-05 17:20:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.97
@@ -825,7 +825,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 46% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Michael Page vs. Nursul | Michael Page (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 27.9% | ⏳ pendiente | — |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 52% | 5.00 | 29.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Michael Zheng vs Arthur Gea | Michael Zheng (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Dan Hooker vs. Salahdin | Salahdine Parnasse (BUY) | 81% | 5.00 | 1.8% | ✅ ganada | +1.13 |
