@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 04:12:15 (hora de Perú)
+Actualizado: 2026-09-05 04:14:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.83
-**Retorno acumulado:** -6.23%
+**Bankroll actual:** $468.38
+**Retorno acumulado:** -6.32%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 04:12:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $263.83)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $263.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 8 | 4 | 0 | +10.88 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| zofgkt1111 | 6 | 3 | 2 | +9.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| zofgkt1111 | 6 | 4 | 2 | +8.98 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -781,8 +781,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 60% | 5.00 | 9.4% | 💰 vendida anticipada | -0.45 |
 | ferrariChampions2026 | Borussia Mönchengladbach vs. SV 07 Elver | Over (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 106.5% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | M15 Szczawno: Pawel Juszczak vs John Hal | John Hallquist Lithen (BUY) | 72% | 5.00 | 151.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Avispa Fukuoka vs. FC Mito Holly Hock: O | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 44% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester City FC (-2.5) | Coventry City FC (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 63% | 5.00 | 415.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hull City AFC vs. Aston Villa FC: O/U 2. | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Racing Club de Lens (-1.5) | FC Lorient (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | SV Werder Bremen vs. RB Leipzig: O/U 3.5 | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |

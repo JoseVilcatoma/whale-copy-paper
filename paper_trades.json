@@ -98082,8 +98082,8 @@
     "title": "M15 Szczawno: Pawel Juszczak vs John Hallquist Lithen",
     "outcome": "John Hallquist Lithen",
     "side": "BUY",
-    "whale_usd": 20981.110742999997,
-    "whale_pct": 106.531,
+    "whale_usd": 29880.622642999995,
+    "whale_pct": 151.717,
     "whale_value_at_open": 19694.9306,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -98094,8 +98094,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788598964.944863,
-    "fills": 13
+    "last_fill_at": 1788599634.0755615,
+    "fills": 15
   },
   {
     "timestamp": 1788598898,
@@ -98120,5 +98120,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788598898.7865274,
     "fills": 1
+  },
+  {
+    "timestamp": 1788599575,
+    "timestamp_added": 1788599576.0778286,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-gen-hle1-2026-09-05-game2",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 2999.9965999999995,
+    "whale_pct": 9.355,
+    "whale_value_at_open": 32069.3908,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "cerrada_venta",
+    "profit_usd": -0.45,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788599576.077836,
+    "fills": 1,
+    "fee_total_usd": 0.202,
+    "closed_price": 57
   }
 ]
