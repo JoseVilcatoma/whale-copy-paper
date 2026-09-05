@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.8237067813564,
+  "bankroll": 469.1103734480231,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19640,6 +19640,11 @@
       "timestamp": 1788603806.2311084,
       "bankroll": 463.82,
       "event": "won: 11vsldfdsgfkjgos \u2014 M15 Szczawno: Pawel Juszczak vs John Hallquist Lithen"
+    },
+    {
+      "timestamp": 1788605420.2871618,
+      "bankroll": 469.11,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner (+5.29 USD)"
     }
   ]
 }
