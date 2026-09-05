@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.24068812882524,
+  "bankroll": 459.11568812882524,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19905,6 +19905,11 @@
       "timestamp": 1788625135.4133577,
       "bankroll": 464.24,
       "event": "lost: ferrariChampions2026 \u2014 Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788625441.083201,
+      "bankroll": 459.12,
+      "event": "lost: AV23IUa \u2014 Will Brighton & Hove Albion FC win on 2026-09-05?"
     }
   ]
 }
