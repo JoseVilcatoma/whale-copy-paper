@@ -99606,8 +99606,8 @@
     "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
     "outcome": "Madison Keys",
     "side": "BUY",
-    "whale_usd": 9164.977969000001,
-    "whale_pct": 1.849,
+    "whale_usd": 9731.644635,
+    "whale_pct": 1.964,
     "whale_value_at_open": 495599.2127,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99618,8 +99618,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788627312.1219933,
-    "fills": 4
+    "last_fill_at": 1788627539.6920662,
+    "fills": 5
   },
   {
     "timestamp": 1788626738,
