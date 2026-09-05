@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 13:54:49 (hora de Perú)
+Actualizado: 2026-09-05 13:56:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 13:54:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $208.30)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $203.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 23 | 40 | 1 | -95.06 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 488 | 303 | 28 | -163.34 USD |
+| ferrariChampions2026 | 488 | 303 | 29 | -163.34 USD |
 
 ## Análisis general
 
@@ -792,6 +792,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Marie Bouzko | Marie Bouzkova (BUY) | 42% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Farés Ziam vs. Axel Sol | Farés Ziam (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Taylor Fritz vs Francisco C | Francisco Cerundolo (BUY) | 44% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. Atalanta BC: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -821,4 +822,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | St. Louis City SC (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Portland Timbers win on 2026-09-05? | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 11.3% | ⏳ pendiente | — |

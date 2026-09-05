@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 33176.492819,
-    "whale_pct": 26.792,
+    "whale_usd": 44334.092819,
+    "whale_pct": 35.802,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634420.5168936,
-    "fills": 9
+    "last_fill_at": 1788634492.4612544,
+    "fills": 10
   },
   {
     "timestamp": 1788595377,
@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 63546.054518,
-    "whale_pct": 17.9,
+    "whale_usd": 67799.895618,
+    "whale_pct": 19.098,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634352.7315018,
-    "fills": 12
+    "last_fill_at": 1788634562.8611703,
+    "fills": 13
   },
   {
     "timestamp": 1788613644,
@@ -100471,6 +100471,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788634116.147427,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788634598,
+    "timestamp_added": 1788634598.5348606,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-bouzkov-2026-09-04",
+    "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
+    "outcome": "Marie Bouzkova",
+    "side": "BUY",
+    "whale_usd": 2859.1349999999998,
+    "whale_pct": 0.768,
+    "whale_value_at_open": 372383.0064,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AGUGava"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788634598.5348723,
     "fills": 1
   }
 ]
