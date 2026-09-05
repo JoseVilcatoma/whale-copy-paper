@@ -98589,5 +98589,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788604677.0641658,
     "fills": 3
+  },
+  {
+    "timestamp": 1788605708,
+    "timestamp_added": 1788605708.9200935,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-bartunk-2026-09-05",
+    "title": "US Open WTA: Mirra Andreeva vs Nikola Bartunkova",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "whale_usd": 26632.872396000002,
+    "whale_pct": 11.465,
+    "whale_value_at_open": 232296.6724,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788605723.8564065,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 05:53:46 (hora de Perú)
+Actualizado: 2026-09-05 05:55:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.11
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 05:53:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $194.11)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $189.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 40 | 0 | -100.57 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 458 | 284 | 30 | -173.20 USD |
+| ferrariChampions2026 | 458 | 284 | 31 | -173.20 USD |
 
 ## Análisis general
 
@@ -781,6 +781,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
@@ -810,4 +811,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: TES (-1.5) vs Invictus Ga | Invictus Gaming (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: GEN (-2.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 54% | 5.00 | 46.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Nottingham Forest FC vs. Tottenham Hotsp | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
