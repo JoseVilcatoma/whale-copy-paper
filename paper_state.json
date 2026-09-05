@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.58299992637114,
+  "bankroll": 440.44999992637116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19770,6 +19770,11 @@
       "timestamp": 1788615970.0250845,
       "bankroll": 445.58,
       "event": "lost: ferrariChampions2026 \u2014 Newcastle United FC vs. AFC Bournemouth: O/U 3.5"
+    },
+    {
+      "timestamp": 1788616581.4792671,
+      "bankroll": 440.45,
+      "event": "lost: AV23IUa \u2014 Will Newcastle United FC win on 2026-09-05?"
     }
   ]
 }

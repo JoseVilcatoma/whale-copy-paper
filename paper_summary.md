@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 08:54:32 (hora de Perú)
+Actualizado: 2026-09-05 08:56:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $445.58
-**Retorno acumulado:** -10.88%
+**Bankroll actual:** $440.45
+**Retorno acumulado:** -11.91%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 08:54:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $160.58)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $155.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 8 | 3 | 2 | +22.97 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| AV23IUa | 33 | 18 | 11 | +16.88 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 1 | +14.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| AV23IUa | 33 | 19 | 10 | +11.75 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 |  | 8 | 4 | 1 | +10.88 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 1 | 0 | 0 | +4.88 USD |
-| ExplosiveNinja | 13 | 8 | 1 | +4.32 USD |
+| ExplosiveNinja | 13 | 8 | 2 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -130,14 +130,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3761
+- **Apuestas resueltas:** 3762
 - **Aciertos:** 2393 (63.6%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,780.24
-- **ROI sobre lo apostado:** -0.93%
-- **Comisiones pagadas (taker fee):** $346.15 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $18,785.24
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $346.29 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -145,7 +145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1905 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1906 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1124 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 507 | 85.8% | 86.7% | -0.9 pp |
 | 95-99% (casi seguro) | 225 | 96.4% | 97.3% | -0.9 pp |
@@ -787,6 +787,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 61% | 5.00 | 6.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Ninjas in Pyjamas vs JD Gaming - Ga | Ninjas in Pyjamas (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
@@ -816,4 +817,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 63% | 5.00 | 4.3% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Newcastle United FC vs. AFC Bournemouth: | Under (BUY) | 41% | 5.00 | 8.3% | ❌ perdida | -5.15 |
