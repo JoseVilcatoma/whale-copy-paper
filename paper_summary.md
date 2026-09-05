@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 12:34:05 (hora de Perú)
+Actualizado: 2026-09-05 12:36:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.42
@@ -800,7 +800,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Flavio  | Flavio Cobolli (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liberty vs. James Madison | James Madison (BUY) | 82% | 5.00 | 6.1% | ⏳ pendiente | — |
 | monkeymashingkeyboard | US Open WTA: Naomi Osaka vs Elise Merten | Naomi Osaka (BUY) | 74% | 5.00 | 62.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: MOUZ vs Vitality (BO3) - | Vitality (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Nora Cornolle vs. Klaud | Nora Cornolle (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Under (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Juan Pablo Varillas vs Jay Clarke | Juan Pablo Varillas (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
