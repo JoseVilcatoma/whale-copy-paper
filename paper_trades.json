@@ -97744,5 +97744,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788595414.0880332,
     "fills": 3
+  },
+  {
+    "timestamp": 1788595472,
+    "timestamp_added": 1788595472.3196282,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-gen-hle1-2026-09-05",
+    "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 9999.999999,
+    "whale_pct": 57.941,
+    "whale_value_at_open": 17258.958,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788595472.3196392,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788595538,
+    "timestamp_added": 1788595539.2745423,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-gen-hle1-2026-09-05-game1",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 1369.0536,
+    "whale_pct": 5.061,
+    "whale_value_at_open": 27050.1549,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788595539.2745507,
+    "fills": 1
   }
 ]
