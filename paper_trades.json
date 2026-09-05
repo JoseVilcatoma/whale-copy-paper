@@ -96968,5 +96968,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788568643.1679986,
     "fills": 3
+  },
+  {
+    "timestamp": 1788569982,
+    "timestamp_added": 1788569982.9678676,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-hotu-fokus-2026-09-05",
+    "title": "Counter-Strike: HOTU vs FOKUS (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+    "outcome": "FOKUS",
+    "side": "BUY",
+    "whale_usd": 860.8686,
+    "whale_pct": 1.91,
+    "whale_value_at_open": 45072.8209,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788569982.9678836,
+    "fills": 1
   }
 ]
