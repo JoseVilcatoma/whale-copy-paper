@@ -98857,5 +98857,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788609962.7354906,
     "fills": 3
+  },
+  {
+    "timestamp": 1788610631,
+    "timestamp_added": 1788610632.2746296,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-nip-jdg-2026-09-05-game-handicap-away-1pt5",
+    "title": "Game Handicap: NIP (-1.5) vs JD Gaming (+1.5)",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 2152.4,
+    "whale_pct": 0.751,
+    "whale_value_at_open": 286504.0472,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788610682.4527478,
+    "fills": 2
   }
 ]
