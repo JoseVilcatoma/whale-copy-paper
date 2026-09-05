@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.8811979246737,
+  "bankroll": 471.53569792467374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19660,6 +19660,16 @@
       "timestamp": 1788607298.2217424,
       "bankroll": 473.88,
       "event": "won: zofgkt1111 \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788608230.1690028,
+      "bankroll": 468.81,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Georgii Kravchenko vs Dusan Obradovic"
+    },
+    {
+      "timestamp": 1788608231.3953485,
+      "bankroll": 471.54,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Georgii Kravchenko vs Dusan Obradovic"
     }
   ]
 }
