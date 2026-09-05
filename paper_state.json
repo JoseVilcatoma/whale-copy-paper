@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.0269214949986,
+  "bankroll": 441.68868339976046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19785,6 +19785,16 @@
       "timestamp": 1788616900.0071957,
       "bankroll": 440.03,
       "event": "won: ferrariChampions2026 \u2014 FC Seoul vs. Incheon United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788620017.2653067,
+      "bankroll": 446.79,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Yanaki Milev vs Valerio Aboian"
+    },
+    {
+      "timestamp": 1788620022.7739346,
+      "bankroll": 441.69,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Yanaki Milev vs Valerio Aboian"
     }
   ]
 }
