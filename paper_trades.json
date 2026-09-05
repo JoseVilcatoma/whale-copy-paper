@@ -97706,8 +97706,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 23054.5982,
-    "whale_pct": 18.618,
+    "whale_usd": 29947.7252,
+    "whale_pct": 24.185,
     "whale_value_at_open": 123829.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -97718,8 +97718,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788630389.4549506,
-    "fills": 7
+    "last_fill_at": 1788633526.15116,
+    "fills": 8
   },
   {
     "timestamp": 1788595377,
@@ -98599,8 +98599,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Nikola Bartunkova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 38023.972396000005,
-    "whale_pct": 16.369,
+    "whale_usd": 45155.159806,
+    "whale_pct": 19.439,
     "whale_value_at_open": 232296.6724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -98611,8 +98611,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788631688.8818347,
-    "fills": 5
+    "last_fill_at": 1788633560.3536017,
+    "fills": 6
   },
   {
     "timestamp": 1788606054,
@@ -99441,8 +99441,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -99779,8 +99779,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 25491.189954999998,
-    "whale_pct": 4.46,
+    "whale_usd": 28015.464955,
+    "whale_pct": 4.902,
     "whale_value_at_open": 571509.7138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -99793,8 +99793,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788630821.6607516,
-    "fills": 12
+    "last_fill_at": 1788633569.2997935,
+    "fills": 14
   },
   {
     "timestamp": 1788628590,
@@ -99860,8 +99860,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100076,8 +100076,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "Talvez10"
     ],
@@ -100375,6 +100375,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788633416.3629265,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788633573,
+    "timestamp_added": 1788633573.929534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "tur-fen-bes-2026-09-05-total-3pt5",
+    "title": "Fenerbah\u00e7e SK vs. Be\u015fikta\u015f JK: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5564.659999,
+    "whale_pct": 1.571,
+    "whale_value_at_open": 354294.1704,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788633573.9295425,
     "fills": 1
   }
 ]

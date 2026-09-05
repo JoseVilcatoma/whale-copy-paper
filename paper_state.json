@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.68914103346714,
+  "bankroll": 431.0464389058076,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20050,6 +20050,21 @@
       "timestamp": 1788632932.3129697,
       "bankroll": 435.69,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Nathaniel Wood vs. Pavel Andrusca (Featherweight, Prelims)"
+    },
+    {
+      "timestamp": 1788633551.9389682,
+      "bankroll": 430.62,
+      "event": "lost: Talvez10 \u2014 UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)"
+    },
+    {
+      "timestamp": 1788633554.3589683,
+      "bankroll": 436.12,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Blockx vs Cobolli"
+    },
+    {
+      "timestamp": 1788633555.1073937,
+      "bankroll": 431.05,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)"
     }
   ]
 }
