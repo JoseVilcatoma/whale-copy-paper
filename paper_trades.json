@@ -99956,8 +99956,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100434,8 +100434,8 @@
     "title": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
     "outcome": "Francisco Cerundolo",
     "side": "BUY",
-    "whale_usd": 10406.98766,
-    "whale_pct": 2.918,
+    "whale_usd": 14290.935500000001,
+    "whale_pct": 4.007,
     "whale_value_at_open": 356611.1587,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -100446,8 +100446,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634398.7992644,
-    "fills": 7
+    "last_fill_at": 1788635921.5186272,
+    "fills": 9
   },
   {
     "timestamp": 1788634115,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 10557.5019,
-    "whale_pct": 3.07,
+    "whale_usd": 12619.736922,
+    "whale_pct": 3.669,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635570.7393188,
-    "fills": 3
+    "last_fill_at": 1788635869.2040963,
+    "fills": 4
   },
   {
     "timestamp": 1788635522,
@@ -100628,8 +100628,8 @@
     "title": "Will Villarreal CF win on 2026-09-05?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 534.3195,
-    "whale_pct": 0.154,
+    "whale_usd": 1069.8075,
+    "whale_pct": 0.308,
     "whale_value_at_open": 347401.1073,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -100640,8 +100640,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788635727.0393288,
-    "fills": 1
+    "last_fill_at": 1788635890.3092651,
+    "fills": 2
   },
   {
     "timestamp": 1788635851,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.29187100457307,
+  "bankroll": 424.2648710045731,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20090,6 +20090,11 @@
       "timestamp": 1788635720.411182,
       "bankroll": 429.29,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Mirra Andreeva vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1788635904.9934797,
+      "bankroll": 424.26,
+      "event": "lost: ferrariChampions2026 \u2014 Map Handicap: MOUZ (-1.5) vs Vitality (+1.5)"
     }
   ]
 }
