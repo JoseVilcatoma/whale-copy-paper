@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.6524205595151,
+  "bankroll": 465.0457184318555,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19875,6 +19875,16 @@
       "timestamp": 1788623269.1968231,
       "bankroll": 464.65,
       "event": "lost: ferrariChampions2026 \u2014 Manacor: Mark Lajal vs Felix Balshaw"
+    },
+    {
+      "timestamp": 1788623573.0861034,
+      "bankroll": 470.16,
+      "event": "won: ferrariChampions2026 \u2014 SV Werder Bremen vs. RB Leipzig: O/U 3.5"
+    },
+    {
+      "timestamp": 1788623577.1043828,
+      "bankroll": 465.05,
+      "event": "lost: ferrariChampions2026 \u2014 SV Werder Bremen vs. RB Leipzig: O/U 3.5"
     }
   ]
 }
