@@ -99606,8 +99606,8 @@
     "title": "US Open WTA: Madison Keys vs Qinwen Zheng",
     "outcome": "Madison Keys",
     "side": "BUY",
-    "whale_usd": 6664.630400000001,
-    "whale_pct": 1.345,
+    "whale_usd": 9164.977969000001,
+    "whale_pct": 1.849,
     "whale_value_at_open": 495599.2127,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99618,8 +99618,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788627008.459954,
-    "fills": 2
+    "last_fill_at": 1788627312.1219933,
+    "fills": 4
   },
   {
     "timestamp": 1788626738,
@@ -99694,5 +99694,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788627152.731136,
     "fills": 1
+  },
+  {
+    "timestamp": 1788627273,
+    "timestamp_added": 1788627274.072081,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-mouz-vit-2026-09-05",
+    "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 1189.2559999999999,
+    "whale_pct": 0.214,
+    "whale_value_at_open": 555068.7265,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788627303.5830715,
+    "fills": 2
   }
 ]
