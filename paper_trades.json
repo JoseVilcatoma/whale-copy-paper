@@ -98467,5 +98467,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788603350.9139516,
     "fills": 1
+  },
+  {
+    "timestamp": 1788603498,
+    "timestamp_added": 1788603499.0005703,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kravche-obradov-2026-09-05",
+    "title": "Plovdiv 3: Georgii Kravchenko vs Dusan Obradovic",
+    "outcome": "Georgii Kravchenko",
+    "side": "BUY",
+    "whale_usd": 2445.5088,
+    "whale_pct": 1.094,
+    "whale_value_at_open": 223606.2006,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788603499.0005803,
+    "fills": 1
   }
 ]
