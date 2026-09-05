@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.20345945002003,
+  "bankroll": 495.2990748346354,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19450,6 +19450,21 @@
       "timestamp": 1788572967.683475,
       "bankroll": 495.2,
       "event": "won: HongYunX \u2014 New York City FC vs. Nashville SC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788573912.3985898,
+      "bankroll": 490.09,
+      "event": "lost: pleaseplease123 \u2014 Los Angeles Angels vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1788573914.8698208,
+      "bankroll": 492.69,
+      "event": "won: Feromont \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788573915.367618,
+      "bankroll": 495.3,
+      "event": "won:  \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
     }
   ]
 }

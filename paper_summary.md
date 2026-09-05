@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:03:40 (hora de Perú)
+Actualizado: 2026-09-04 21:05:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.20
-**Retorno acumulado:** -0.96%
+**Bankroll actual:** $495.30
+**Retorno acumulado:** -0.94%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:03:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $350.20)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $365.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,8 +28,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| Feromont | 7 | 1 | 2 | +23.21 USD |
 | HongYunX | 8 | 3 | 0 | +22.97 USD |
-| Feromont | 6 | 1 | 3 | +20.60 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 55 | 33 | 2 | +20.58 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | AV23IUa | 33 | 18 | 6 | +16.88 USD |
@@ -45,6 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+|  | 7 | 4 | 1 | +7.65 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -53,7 +54,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 36 | 11 | 1 | +5.93 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-|  | 6 | 4 | 2 | +5.04 USD |
 | ExplosiveNinja | 13 | 8 | 0 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -105,7 +105,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 1 | 0 | -5.14 USD |
-| pleaseplease123 | 11 | 11 | 5 | -6.44 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -116,6 +115,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| pleaseplease123 | 11 | 12 | 4 | -11.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -129,13 +129,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3701
-- **Aciertos:** 2362 (63.8%)
+- **Apuestas resueltas:** 3704
+- **Aciertos:** 2364 (63.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $18,480.24
+- **Total apostado (suma de stakes):** $18,495.24
 - **ROI sobre lo apostado:** -0.63%
-- **Comisiones pagadas (taker fee):** $340.23 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $340.52 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -144,8 +144,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1871 | 50.5% | 50.1% | +0.4 pp |
-| 60-79% | 1106 | 69.8% | 67.8% | +2.0 pp |
+| 40-59% | 1872 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 1108 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 500 | 86.0% | 86.7% | -0.7 pp |
 | 95-99% (casi seguro) | 224 | 96.4% | 97.3% | -0.9 pp |
 
@@ -789,11 +789,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | New York City FC vs. Nashville SC: O/U 2 | Under (BUY) | 47% | 5.00 | 35.2% | ✅ ganada | +5.51 |
 | BrotherObama | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 57% | 5.00 | 36.2% | ⏳ pendiente | — |
 | BrotherObama | San Jose State vs. Eastern Michigan | Eastern Michigan (BUY) | 55% | 5.00 | 226.2% | ⏳ pendiente | — |
-|  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ⏳ pendiente | — |
+|  | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 27.8% | ✅ ganada | +2.61 |
 |  | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 54% | 5.00 | 27.8% | ❌ perdida | -5.12 |
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ⏳ pendiente | — |
 |  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ❌ perdida | -5.11 |
-| Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ⏳ pendiente | — |
+| Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ✅ ganada | +2.61 |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 19.7% | ⏳ pendiente | — |
 | tikstt | CA Belgrano vs. CA Huracán: O/U 1.5 | Over (BUY) | 48% | 5.00 | 5.2% | ✅ ganada | +5.29 |
 | tikstt | CA Platense vs. CD Riestra: O/U 2.5 | Over (BUY) | 46% | 5.00 | 6.8% | ❌ perdida | -5.13 |
@@ -804,4 +804,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | Spread: Eastern Michigan (-1.5) | Eastern Michigan (BUY) | 51% | 5.00 | 58.5% | ⏳ pendiente | — |
 | tikstt | Will Nashville SC win on 2026-09-04? | No (BUY) | 57% | 5.00 | 12.2% | ✅ ganada | +3.66 |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 55% | 5.00 | 63.0% | ⏳ pendiente | — |
-| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ⏳ pendiente | — |
+| pleaseplease123 | Los Angeles Angels vs. Pittsburgh Pirate | Over (BUY) | 54% | 5.00 | 46.1% | ❌ perdida | -5.12 |
