@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.38763407483617,
+  "bankroll": 405.7428904850926,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20135,6 +20135,11 @@
       "timestamp": 1788636401.2840366,
       "bankroll": 404.39,
       "event": "lost: ferrariChampions2026 \u2014 Coastal Carolina vs. West Virginia: O/U 44.5"
+    },
+    {
+      "timestamp": 1788637815.5485954,
+      "bankroll": 405.74,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Muhammad Naimov vs. Losene Keita (Featherweight, Main Card)"
     }
   ]
 }

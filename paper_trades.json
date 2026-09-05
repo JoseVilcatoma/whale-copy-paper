@@ -99016,8 +99016,8 @@
     "title": "US Open WTA: Iga Swiatek vs Marie Bouzkova",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 85892.75259599999,
-    "whale_pct": 24.195,
+    "whale_usd": 90329.11809599999,
+    "whale_pct": 25.445,
     "whale_value_at_open": 355003.0477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -99028,8 +99028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637365.899184,
-    "fills": 20
+    "last_fill_at": 1788637795.026171,
+    "fills": 21
   },
   {
     "timestamp": 1788613644,
@@ -99310,8 +99310,8 @@
     "title": "O/U 2.5 Rounds",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 926.664,
-    "whale_pct": 1.73,
+    "whale_usd": 1498.7292,
+    "whale_pct": 2.798,
     "whale_value_at_open": 53561.1368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -99322,8 +99322,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788617393.7418518,
-    "fills": 1
+    "last_fill_at": 1788637776.8046238,
+    "fills": 2
   },
   {
     "timestamp": 1788618145,
@@ -100458,8 +100458,8 @@
     "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
     "outcome": "Far\u00e9s Ziam",
     "side": "BUY",
-    "whale_usd": 4672.266985,
-    "whale_pct": 8.995,
+    "whale_usd": 58472.791685000004,
+    "whale_pct": 112.574,
     "whale_value_at_open": 51941.5903,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -100470,8 +100470,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788637095.8187222,
-    "fills": 6
+    "last_fill_at": 1788637818.7846684,
+    "fills": 7
   },
   {
     "timestamp": 1788634598,
@@ -100508,8 +100508,8 @@
     "title": "Will Villarreal CF vs. RC Deportivo A Coru\u00f1a end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 543.32,
-    "whale_pct": 0.16,
+    "whale_usd": 1158.6928000000003,
+    "whale_pct": 0.341,
     "whale_value_at_open": 339703.4802,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -100520,8 +100520,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788634889.7597034,
-    "fills": 1
+    "last_fill_at": 1788637724.6422827,
+    "fills": 2
   },
   {
     "timestamp": 1788635186,
@@ -100556,8 +100556,8 @@
     "title": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 27828.785722,
-    "whale_pct": 8.091,
+    "whale_usd": 29785.575195,
+    "whale_pct": 8.66,
     "whale_value_at_open": 343934.9704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -100568,8 +100568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788636516.893793,
-    "fills": 9
+    "last_fill_at": 1788637767.2976017,
+    "fills": 10
   },
   {
     "timestamp": 1788635522,
@@ -100611,8 +100611,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -100811,6 +100811,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788637571.4314082,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788637817,
+    "timestamp_added": 1788637818.2082584,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-far-axe-2026-09-05",
+    "title": "UFC Fight Night: Far\u00e9s Ziam vs. Axel Sola (Lightweight, Main Card)",
+    "outcome": "Axel Sola",
+    "side": "BUY",
+    "whale_usd": 38206.8053,
+    "whale_pct": 43.541,
+    "whale_value_at_open": 87748.442,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788637818.20827,
     "fills": 1
   }
 ]
