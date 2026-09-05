@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-04 21:51:24 (hora de Perú)
+Actualizado: 2026-09-04 21:53:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-04 21:51:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $355.79)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $350.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| kekasaur | 10 | 9 | 0 | +2.59 USD |
+| kekasaur | 10 | 9 | 1 | +2.59 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 5 | 5 | 0 | +2.54 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | TAIWANNUMBERONE | 33 | 22 | 2 | +2.32 USD |
@@ -776,6 +776,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Will CF Pachuca win on 2026-09-04? | No (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 96% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 8.5 | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 7.5 | Under (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -805,4 +806,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 60% | 5.00 | 51.9% | ✅ ganada | +3.23 |
 |  | US Open ATP: Jiri Lehecka vs Stefanos Ts | Jiri Lehecka (BUY) | 56% | 5.00 | 96.2% | ❌ perdida | -5.11 |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 65% | 5.00 | 37.6% | ✅ ganada | +2.61 |
-| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 58% | 5.00 | 19.7% | ⏳ pendiente | — |
