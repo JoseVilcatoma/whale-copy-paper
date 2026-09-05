@@ -97332,5 +97332,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788583344.091999,
     "fills": 2
+  },
+  {
+    "timestamp": 1788583566,
+    "timestamp_added": 1788583567.4305792,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-potapov-anisimo-2026-09-04",
+    "title": "US Open WTA: Anastasia Potapova vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 6439.498799999999,
+    "whale_pct": 4.439,
+    "whale_value_at_open": 145058.4266,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788583567.4305894,
+    "fills": 1
   }
 ]
