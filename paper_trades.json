@@ -101840,5 +101840,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788647658.1513338,
     "fills": 1
+  },
+  {
+    "timestamp": 1788647741,
+    "timestamp_added": 1788647742.0989773,
+    "username": "",
+    "wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+    "slug": "atp-bergs-zandsch-2026-09-05-match-total-36pt5",
+    "title": "Bergs vs. Zandschulp: Match O/U 36.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1912.419992,
+    "whale_pct": 13.177,
+    "whale_value_at_open": 14513.5484,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788647756.9498847,
+    "fills": 2
   }
 ]

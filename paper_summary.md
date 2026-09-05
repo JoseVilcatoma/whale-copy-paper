@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 17:35:00 (hora de Perú)
+Actualizado: 2026-09-05 17:37:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $389.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 17:35:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $144.30)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $139.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 11 | 8 | 2 | +6.01 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-|  | 1 | 0 | 0 | +4.88 USD |
+|  | 1 | 0 | 1 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Jsram | 2 | 0 | 0 | +3.77 USD |
@@ -805,6 +805,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 13.2% | ⏳ pendiente | — |
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -834,4 +835,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 54% | 5.00 | 21.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Chicken Coop Esports vs  | Chicken Coop Esports (BUY) | 75% | 5.00 | 173.1% | ⏳ pendiente | — |
 | us391 | Will Tigres de la UANL win on 2026-09-05 | No (BUY) | 43% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
