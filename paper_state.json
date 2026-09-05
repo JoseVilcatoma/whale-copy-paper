@@ -1,5 +1,5 @@
 {
-  "bankroll": 438.3227959715819,
+  "bankroll": 441.4215172830573,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19955,6 +19955,11 @@
       "timestamp": 1788628882.6491601,
       "bankroll": 438.32,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Anastasia Potapova vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1788629481.2064981,
+      "bankroll": 441.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Racing Club de Lens (-1.5)"
     }
   ]
 }
