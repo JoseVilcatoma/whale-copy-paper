@@ -99704,8 +99704,8 @@
     "title": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 2764.2875999999997,
-    "whale_pct": 0.498,
+    "whale_usd": 3382.7375999999995,
+    "whale_pct": 0.609,
     "whale_value_at_open": 555068.7265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -99719,8 +99719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788629769.049736,
-    "fills": 5
+    "last_fill_at": 1788629952.6140738,
+    "fills": 6
   },
   {
     "timestamp": 1788628060,
@@ -99779,8 +99779,8 @@
     "title": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 17243.143498999998,
-    "whale_pct": 3.017,
+    "whale_usd": 24565.323798999998,
+    "whale_pct": 4.298,
     "whale_value_at_open": 571509.7138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -99793,8 +99793,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788629492.6590507,
-    "fills": 9
+    "last_fill_at": 1788630007.2824957,
+    "fills": 11
   },
   {
     "timestamp": 1788628590,
@@ -99939,5 +99939,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788629630.4369624,
     "fills": 2
+  },
+  {
+    "timestamp": 1788629947,
+    "timestamp_added": 1788629947.4202194,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-mouz-vit-2026-09-05-map-handicap-away-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs Vitality (+1.5)",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 642.72923,
+    "whale_pct": 0.13,
+    "whale_value_at_open": 493783.679,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788629947.4202352,
+    "fills": 1
   }
 ]
