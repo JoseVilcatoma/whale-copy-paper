@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.4935992048302,
+  "bankroll": 482.5696808374833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19545,6 +19545,11 @@
       "timestamp": 1788578846.9306693,
       "bankroll": 477.49,
       "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788579604.9305768,
+      "bankroll": 482.57,
+      "event": "won: Feromont \u2014 Spread: Oklahoma (-41.5)"
     }
   ]
 }
