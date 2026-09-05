@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.1472024880305,
+  "bankroll": 396.8291240566579,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20345,6 +20345,11 @@
       "timestamp": 1788647983.686801,
       "bankroll": 392.15,
       "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. New York Mets: O/U 9.5"
+    },
+    {
+      "timestamp": 1788649584.70117,
+      "bankroll": 396.83,
+      "event": "won: ferrariChampions2026 \u2014 CD Eldense vs. RCD Mallorca: O/U 1.5"
     }
   ]
 }
