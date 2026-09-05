@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.34768083748327,
+  "bankroll": 467.2656808374833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19560,6 +19560,11 @@
       "timestamp": 1788580485.7330003,
       "bankroll": 472.35,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788580676.970845,
+      "bankroll": 467.27,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Elina Svitolina vs Anna Kalinskaya"
     }
   ]
 }
