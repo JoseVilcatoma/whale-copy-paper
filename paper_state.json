@@ -1,5 +1,5 @@
 {
-  "bankroll": 407.9810878243387,
+  "bankroll": 414.5593922245798,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20155,6 +20155,21 @@
       "timestamp": 1788638246.2810888,
       "bankroll": 407.98,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Taylor Fritz vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788639855.757106,
+      "bankroll": 410.05,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Darderi vs Sweeny"
+    },
+    {
+      "timestamp": 1788639857.2563987,
+      "bankroll": 413.28,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Khachanov vs Bonzi"
+    },
+    {
+      "timestamp": 1788639918.351838,
+      "bankroll": 414.56,
+      "event": "won: Jsram \u2014 UFC Fight Night: Trevor Peek vs. Kurtis Campbell (Featherweight, Prelims)"
     }
   ]
 }
