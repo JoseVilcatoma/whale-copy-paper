@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.9563364894543,
+  "bankroll": 468.8313364894543,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -19615,6 +19615,11 @@
       "timestamp": 1788592378.0724182,
       "bankroll": 463.96,
       "event": "lost: kekasaur \u2014 Will CF Pachuca win on 2026-09-04?"
+    },
+    {
+      "timestamp": 1788593991.6892114,
+      "bankroll": 468.83,
+      "event": "venta anticipada:  \u2014 LoL: Invictus Gaming vs Top Esports - Game 2 Winner (+4.88 USD)"
     }
   ]
 }

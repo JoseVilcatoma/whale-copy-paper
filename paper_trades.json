@@ -97589,15 +97589,17 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788592434.1583576,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.125,
+    "closed_price": 100
   },
   {
     "timestamp": 1788592542,
