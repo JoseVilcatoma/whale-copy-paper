@@ -99434,8 +99434,8 @@
     "title": "UFC Fight Night: Modestas Bukauskas vs. Oumar Sy (Light Heavyweight, Prelims)",
     "outcome": "Oumar Sy",
     "side": "BUY",
-    "whale_usd": 501.2,
-    "whale_pct": 0.744,
+    "whale_usd": 4384.8,
+    "whale_pct": 6.508,
     "whale_value_at_open": 67370.7051,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -99446,8 +99446,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788621783.4624898,
-    "fills": 1
+    "last_fill_at": 1788622833.6792386,
+    "fills": 2
   },
   {
     "timestamp": 1788622440,
