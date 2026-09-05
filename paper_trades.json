@@ -97558,8 +97558,8 @@
     "title": "LoL: Invictus Gaming vs Top Esports (BO5) - LPL Playoffs",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 564.8823520000001,
-    "whale_pct": 1.409,
+    "whale_usd": 2361.071152,
+    "whale_pct": 5.891,
     "whale_value_at_open": 40077.0771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -97570,8 +97570,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788592058.765823,
-    "fills": 1
+    "last_fill_at": 1788595239.7429953,
+    "fills": 2
   },
   {
     "timestamp": 1788592433,

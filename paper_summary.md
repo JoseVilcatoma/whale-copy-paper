@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 02:59:50 (hora de Perú)
+Actualizado: 2026-09-05 03:01:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.83
@@ -784,7 +784,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Preston North End FC vs. Blackburn Rover | Over (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Valerio Aboia | Yanaki Milev (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | LoL: Invictus Gaming vs Top Esports - Ga | Top Esports (BUY) | 50% | 5.00 | 1.4% | 💰 vendida anticipada | +4.88 |
-| TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 67% | 5.00 | 1.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports (BO5 | Invictus Gaming (BUY) | 67% | 5.00 | 5.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs Top Esports - Ga | Invictus Gaming (BUY) | 52% | 5.00 | 17.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Ninjas in Pyjamas vs JD Gaming (BO5 | JD Gaming (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
