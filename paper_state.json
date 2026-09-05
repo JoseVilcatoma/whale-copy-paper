@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.07833802628744,
+  "bankroll": 387.78459728554674,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20390,6 +20390,31 @@
       "timestamp": 1788652374.5156612,
       "bankroll": 404.08,
       "event": "lost: ferrariChampions2026 \u2014 Baylor vs. Auburn"
+    },
+    {
+      "timestamp": 1788652669.668371,
+      "bankroll": 398.94,
+      "event": "lost: monkeymashingkeyboard \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788652672.3700821,
+      "bankroll": 403.09,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788652672.8181107,
+      "bankroll": 397.96,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1788652675.9642813,
+      "bankroll": 392.86,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-3.5)"
+    },
+    {
+      "timestamp": 1788652676.3083963,
+      "bankroll": 387.78,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-2.5)"
     }
   ]
 }
