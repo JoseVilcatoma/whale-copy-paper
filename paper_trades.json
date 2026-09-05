@@ -101484,8 +101484,8 @@
     "title": "Toronto Blue Jays vs. Kansas City Royals: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 17335.5091,
-    "whale_pct": 11.286,
+    "whale_usd": 48554.707599999994,
+    "whale_pct": 31.609,
     "whale_value_at_open": 153608.2201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -101498,8 +101498,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788642735.8765018,
-    "fills": 1
+    "last_fill_at": 1788649294.3152845,
+    "fills": 2
   },
   {
     "timestamp": 1788643350,
@@ -101874,8 +101874,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 34198.2,
-    "whale_pct": 15.976,
+    "whale_usd": 38248.2,
+    "whale_pct": 17.868,
     "whale_value_at_open": 214065.2369,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -101886,8 +101886,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788648034.277819,
-    "fills": 5
+    "last_fill_at": 1788649288.0229406,
+    "fills": 6
   },
   {
     "timestamp": 1788648045,
