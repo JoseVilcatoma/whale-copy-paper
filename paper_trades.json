@@ -98687,5 +98687,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788606539.6876287,
     "fills": 2
+  },
+  {
+    "timestamp": 1788606701,
+    "timestamp_added": 1788606701.9600565,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-gen-hle1-2026-09-05-game4",
+    "title": "LoL: Gen.G vs Hanwha Life Esports - Game 4 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 8600.0,
+    "whale_pct": 54.754,
+    "whale_value_at_open": 15706.6845,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788606701.960071,
+    "fills": 1
   }
 ]
