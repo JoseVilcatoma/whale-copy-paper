@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 09:09:06 (hora de Perú)
+Actualizado: 2026-09-05 09:11:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 09:09:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $160.03)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $155.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Talvez10 | 4 | 4 | 2 | -4.82 USD |
+| Talvez10 | 4 | 4 | 3 | -4.82 USD |
 | pleaseplease123 | 14 | 13 | 0 | -4.87 USD |
 | TAIWANNUMBERONE | 35 | 25 | 1 | -4.93 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -787,6 +787,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | O/U 2.5 Rounds | Under (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 53% | 5.00 | 49.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Spirit vs Team Falcons - | Spirit (BUY) | 57% | 5.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Mark Lajal vs Felix Balshaw | Mark Lajal (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -816,4 +817,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: NC Dinos vs. Kiwoom Heroes | NC Dinos (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Coco Gauf | Coco Gauff (BUY) | 98% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Nikola Ba | Mirra Andreeva (BUY) | 81% | 5.00 | 11.5% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Gen.G vs Hanwha Life Esports - Game | Gen.G (BUY) | 53% | 5.00 | 35.7% | ✅ ganada | +4.32 |

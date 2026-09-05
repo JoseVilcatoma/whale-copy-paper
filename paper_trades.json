@@ -99300,5 +99300,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788617199.3070605,
     "fills": 2
+  },
+  {
+    "timestamp": 1788617393,
+    "timestamp_added": 1788617393.7418387,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-mic32-nur1-2026-09-05-totals-2pt5",
+    "title": "O/U 2.5 Rounds",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 926.664,
+    "whale_pct": 1.73,
+    "whale_value_at_open": 53561.1368,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788617393.7418518,
+    "fills": 1
   }
 ]
