@@ -103705,8 +103705,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 63180.5098,
-    "whale_pct": 246.08,
+    "whale_usd": 63720.5098,
+    "whale_pct": 248.184,
     "whale_value_at_open": 25674.7358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -103719,8 +103719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788703639.4356217,
-    "fills": 5
+    "last_fill_at": 1788705421.1941395,
+    "fills": 6
   },
   {
     "timestamp": 1788695303,
@@ -104311,6 +104311,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788704955.9095087,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788705429,
+    "timestamp_added": 1788705429.9495544,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-atl-phi-2026-09-06-total-8pt5",
+    "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5012.490900000001,
+    "whale_pct": 2.795,
+    "whale_value_at_open": 179338.5721,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788705429.9495654,
     "fills": 1
   }
 ]

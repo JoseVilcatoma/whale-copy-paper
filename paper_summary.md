@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 09:35:34 (hora de Perú)
+Actualizado: 2026-09-06 09:37:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $350.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 09:35:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $110.72)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $105.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -117,7 +117,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 9 | 9 | 0 | -11.28 USD |
 | sbsigner | 2 | 4 | 2 | -12.87 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| pleaseplease123 | 16 | 17 | 3 | -15.37 USD |
+| pleaseplease123 | 16 | 17 | 4 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | AV23IUa | 36 | 26 | 5 | -16.14 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
@@ -817,6 +817,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 2.8% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 19.0% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 69.8% | ⏳ pendiente | — |
@@ -841,9 +842,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 42% | 5.00 | 17.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Svyatoslav Gulin vs Rudolf Mollek | Rudolf Molleker (BUY) | 53% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Seville: Saba Purtseladze vs Izan Almaza | Izan Almazan Valiente (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
-| pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/ | Under (BUY) | 53% | 5.00 | 246.1% | ⏳ pendiente | — |
+| pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/ | Under (BUY) | 53% | 5.00 | 248.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles: O/ | Over (BUY) | 50% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Deigo Dedura-Palomero vs Timo Ros | Deigo Dedura-Palomero (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 1.4% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
