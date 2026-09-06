@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 07:23:45 (hora de Perú)
+Actualizado: 2026-09-06 07:25:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $370.43
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 07:23:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $140.43)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $130.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 544 | 338 | 28 | -194.50 USD |
+| ferrariChampions2026 | 544 | 338 | 30 | -194.50 USD |
 
 ## Análisis general
 
@@ -813,6 +813,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | SC Heerenveen vs. AZ: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -841,5 +843,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ✅ ganada | +2.38 |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ✅ ganada | +0.98 |
-| ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ✅ ganada | +1.69 |
