@@ -104442,8 +104442,8 @@
     "title": "Washington State vs. Washington",
     "outcome": "Washington",
     "side": "BUY",
-    "whale_usd": 5476.421242,
-    "whale_pct": 4.439,
+    "whale_usd": 55784.330162,
+    "whale_pct": 45.214,
     "whale_value_at_open": 123379.5462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -104454,8 +104454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728479.4075522,
-    "fills": 6
+    "last_fill_at": 1788734687.7342086,
+    "fills": 7
   },
   {
     "timestamp": 1788709127,
@@ -107342,6 +107342,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788734593.3313198,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788734745,
+    "timestamp_added": 1788734746.348207,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "bra-bot-pal-2026-09-06-draw",
+    "title": "Will Botafogo FR vs. SE Palmeiras end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1179.24,
+    "whale_pct": 0.311,
+    "whale_value_at_open": 378846.4803,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788734746.3482172,
     "fills": 1
   }
 ]
