@@ -104917,8 +104917,8 @@
     "title": "Spread: Washington (-21.5)",
     "outcome": "Washington State",
     "side": "BUY",
-    "whale_usd": 1936.0,
-    "whale_pct": 1.187,
+    "whale_usd": 3916.0,
+    "whale_pct": 2.401,
     "whale_value_at_open": 163085.7787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -104929,8 +104929,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788716849.7655265,
-    "fills": 1
+    "last_fill_at": 1788717930.2107236,
+    "fills": 2
   },
   {
     "timestamp": 1788717376,
