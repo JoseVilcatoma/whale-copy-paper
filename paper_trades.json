@@ -104442,8 +104442,8 @@
     "title": "Washington State vs. Washington",
     "outcome": "Washington",
     "side": "BUY",
-    "whale_usd": 2653.910442,
-    "whale_pct": 2.151,
+    "whale_usd": 4239.521242,
+    "whale_pct": 3.436,
     "whale_value_at_open": 123379.5462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -104454,8 +104454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788713375.22513,
-    "fills": 3
+    "last_fill_at": 1788722557.0741305,
+    "fills": 5
   },
   {
     "timestamp": 1788709127,
@@ -105458,8 +105458,8 @@
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 557.44,
-    "whale_pct": 1.476,
+    "whale_usd": 1460.8999990000002,
+    "whale_pct": 3.868,
     "whale_value_at_open": 37769.9633,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -105475,8 +105475,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788721351.824694,
-    "fills": 1
+    "last_fill_at": 1788722554.578717,
+    "fills": 2
   },
   {
     "timestamp": 1788721815,
@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 851.0,
-    "whale_pct": 0.41,
+    "whale_usd": 1888.76,
+    "whale_pct": 0.909,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722368.15521,
-    "fills": 1
+    "last_fill_at": 1788722545.6722026,
+    "fills": 2
   },
   {
     "timestamp": 1788722393,

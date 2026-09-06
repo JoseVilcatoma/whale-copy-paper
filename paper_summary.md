@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:21:48 (hora de Perú)
+Actualizado: 2026-09-06 14:23:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.41
@@ -829,11 +829,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 75% | 5.00 | 24.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 76% | 5.00 | 1.9% | ⏳ pendiente | — |
