@@ -105863,5 +105863,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788724166.5831742,
     "fills": 1
+  },
+  {
+    "timestamp": 1788724305,
+    "timestamp_added": 1788724306.2042003,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-sf-nym-2026-09-06-spread-away-1pt5",
+    "title": "Spread: San Francisco Giants (-1.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 769.4599999999999,
+    "whale_pct": 1.327,
+    "whale_value_at_open": 57988.9395,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788724306.2042124,
+    "fills": 1
   }
 ]
