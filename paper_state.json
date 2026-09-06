@@ -1,5 +1,5 @@
 {
-  "bankroll": 359.3837112871429,
+  "bankroll": 367.3597635747246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21420,6 +21420,26 @@
       "timestamp": 1788734530.4133315,
       "bankroll": 359.38,
       "event": "won: 1winstreak1 \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788735692.8932602,
+      "bankroll": 365.36,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1788735693.2407196,
+      "bankroll": 370.23,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1788735693.64249,
+      "bankroll": 372.5,
+      "event": "won: 1winstreak1 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1788735696.2460127,
+      "bankroll": 367.36,
+      "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 2.5"
     }
   ]
 }
