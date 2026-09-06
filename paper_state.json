@@ -1,5 +1,5 @@
 {
-  "bankroll": 362.3389871692031,
+  "bankroll": 357.2439871692031,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21085,6 +21085,11 @@
       "timestamp": 1788724774.814058,
       "bankroll": 362.34,
       "event": "won: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1788725342.8997793,
+      "bankroll": 357.24,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will CA Rosario Central win on 2026-09-06?"
     }
   ]
 }
