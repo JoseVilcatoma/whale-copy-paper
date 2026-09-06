@@ -1,5 +1,5 @@
 {
-  "bankroll": 342.61221779600305,
+  "bankroll": 346.75647705526234,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20565,6 +20565,11 @@
       "timestamp": 1788666156.1778755,
       "bankroll": 342.61,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Inter Miami CF (-1.5)"
+    },
+    {
+      "timestamp": 1788667729.4468176,
+      "bankroll": 346.76,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Cincinnati Reds: O/U 9.5"
     }
   ]
 }
