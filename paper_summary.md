@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:11:07 (hora de Perú)
+Actualizado: 2026-09-06 04:13:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $371.39
-**Retorno acumulado:** -25.72%
+**Bankroll actual:** $366.24
+**Retorno acumulado:** -26.75%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 04:11:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $196.39)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $191.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| zofgkt1111 | 10 | 8 | 5 | +8.68 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -58,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Jsram | 2 | 0 | 1 | +3.77 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
+| zofgkt1111 | 10 | 9 | 4 | +3.53 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 527 | 335 | 17 | -207.83 USD |
+| ferrariChampions2026 | 527 | 335 | 18 | -207.83 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3937
+- **Apuestas resueltas:** 3938
 - **Aciertos:** 2488 (63.2%)
-- **Cuota promedio de entrada:** 63.0%
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,660.24
-- **ROI sobre lo apostado:** -1.29%
-- **Comisiones pagadas (taker fee):** $364.29 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.57% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,665.24
+- **ROI sobre lo apostado:** -1.31%
+- **Comisiones pagadas (taker fee):** $364.43 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2015 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2016 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1171 | 69.4% | 67.8% | +1.7 pp |
 | 80-94% | 524 | 85.3% | 86.7% | -1.3 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
@@ -805,11 +805,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-fcc-dcu-2026-09-05-fcc | ferrariChampions2026, us391 |
 | mls-clb-col-2026-09-05-clb | HongYunX, sbsigner |
 | cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
+| epl-ars-che-2026-09-06-total-2pt5 | Jsram, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
@@ -817,10 +819,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Arjun Kadhe vs Tsung-Hao Huang | Tsung-Hao Huang (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
 | sbsigner | Will Manchester United FC win on 2026-09 | No (BUY) | 54% | 5.00 | 13.2% | ⏳ pendiente | — |
-| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
+| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 12.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | Dplus KIA (BUY) | 51% | 5.00 | 19.6% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 46.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
@@ -830,7 +832,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 30.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: S D Prajwal Dev vs Benjami | S D Prajwal Dev (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Takuya Kumasaka vs Martin  | Martin Borisiouk (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 1 | Team WE (BUY) | 41% | 5.00 | 54.9% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 1 | Team WE (BUY) | 41% | 5.00 | 54.9% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Game Handicap: IG (-2.5) vs Team WE (+2. | Team WE (BUY) | 71% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 3.5 | Over (BUY) | 72% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs ALKA (BO3) -  | Galorys (BUY) | 79% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -839,4 +841,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |

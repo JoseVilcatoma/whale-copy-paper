@@ -102556,8 +102556,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -102789,8 +102789,8 @@
     "title": "Game Handicap: T1 (-1.5) vs Dplus KIA (+1.5)",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 5032.8236,
-    "whale_pct": 4.316,
+    "whale_usd": 7687.2556,
+    "whale_pct": 6.592,
     "whale_value_at_open": 116616.5556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -102801,8 +102801,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788685855.4359362,
-    "fills": 2
+    "last_fill_at": 1788685867.907424,
+    "fills": 3
   },
   {
     "timestamp": 1788682805,
@@ -102861,8 +102861,8 @@
     "title": "Arsenal FC vs. Chelsea FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3714.2400000000002,
-    "whale_pct": 3.115,
+    "whale_usd": 14339.048509999997,
+    "whale_pct": 12.026,
     "whale_value_at_open": 119231.7172,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -102873,8 +102873,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788683910.0076406,
-    "fills": 1
+    "last_fill_at": 1788685990.4517715,
+    "fills": 2
   },
   {
     "timestamp": 1788683996,
@@ -103042,6 +103042,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788685572.4037797,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788685989,
+    "timestamp_added": 1788685989.821288,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-ars-che-2026-09-06-total-2pt5",
+    "title": "Arsenal FC vs. Chelsea FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 9421.999999,
+    "whale_pct": 7.187,
+    "whale_value_at_open": 131091.6772,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Jsram"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788685989.8212996,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 371.3921530266236,
+  "bankroll": 366.24415302662356,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20655,6 +20655,11 @@
       "timestamp": 1788685734.8755171,
       "bankroll": 371.39,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Jesse Delaney vs Mikalai Haliak"
+    },
+    {
+      "timestamp": 1788685920.4077544,
+      "bankroll": 366.24,
+      "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 1 Winner"
     }
   ]
 }
