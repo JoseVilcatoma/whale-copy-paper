@@ -106554,8 +106554,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 10557.789799999999,
-    "whale_pct": 5.466,
+    "whale_usd": 12231.355355,
+    "whale_pct": 6.332,
     "whale_value_at_open": 193157.5487,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -106569,8 +106569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728770.4267087,
-    "fills": 3
+    "last_fill_at": 1788729434.8754046,
+    "fills": 4
   },
   {
     "timestamp": 1788728681,
@@ -106598,6 +106598,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788728681.838788,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788729427,
+    "timestamp_added": 1788729428.2091103,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-michels-etcheve-2026-09-06",
+    "title": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "whale_usd": 557.5108,
+    "whale_pct": 0.139,
+    "whale_value_at_open": 402026.8458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788729428.2091186,
     "fills": 1
   }
 ]
