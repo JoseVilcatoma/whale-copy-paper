@@ -1,5 +1,5 @@
 {
-  "bankroll": 366.24415302662356,
+  "bankroll": 366.71665852112903,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20660,6 +20660,11 @@
       "timestamp": 1788685920.4077544,
       "bankroll": 366.24,
       "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788687037.5070746,
+      "bankroll": 366.72,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Arjun Kadhe vs Tsung-Hao Huang"
     }
   ]
 }

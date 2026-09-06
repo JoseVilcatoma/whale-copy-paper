@@ -102837,8 +102837,8 @@
     "title": "KBO: Doosan Bears vs. SSG Landers",
     "outcome": "Doosan Bears",
     "side": "BUY",
-    "whale_usd": 1036.0,
-    "whale_pct": 0.875,
+    "whale_usd": 5265.5708,
+    "whale_pct": 4.446,
     "whale_value_at_open": 118439.4472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -102849,8 +102849,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788683819.66677,
-    "fills": 1
+    "last_fill_at": 1788687087.0501144,
+    "fills": 2
   },
   {
     "timestamp": 1788683909,
@@ -102916,8 +102916,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -103167,5 +103167,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788686654.7558274,
     "fills": 3
+  },
+  {
+    "timestamp": 1788687037,
+    "timestamp_added": 1788687037.499975,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kravche-milev-2026-09-06",
+    "title": "Plovdiv 3: Georgii Kravchenko vs Yanaki Milev",
+    "outcome": "Georgii Kravchenko",
+    "side": "BUY",
+    "whale_usd": 2332.4196,
+    "whale_pct": 1.595,
+    "whale_value_at_open": 146222.0246,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788687037.4999866,
+    "fills": 1
   }
 ]
