@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:47:17 (hora de Perú)
+Actualizado: 2026-09-06 18:49:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:47:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $91.45)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $81.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 42 | 12 | 26 | +6.66 USD |
+| Flaznorp | 42 | 12 | 27 | +6.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -98,7 +98,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 24 | 12 | 4 | -4.96 USD |
+| 1winstreak1 | 24 | 12 | 5 | -4.96 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -837,6 +837,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will CD Universidad de Concepción win on | No (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-6.5) | Louisville (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | SC Corinthians Paulista vs. Associação C | Over (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -861,9 +863,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 11.1% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Wisconsin (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | No (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will Trujillanos FC win on 2026-09-06? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
