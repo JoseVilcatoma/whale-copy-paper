@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 02:27:04 (hora de Perú)
+Actualizado: 2026-09-06 02:29:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 02:27:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $269.79)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $264.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 526 | 335 | 7 | -209.43 USD |
+| ferrariChampions2026 | 526 | 335 | 8 | -209.43 USD |
 
 ## Análisis general
 
@@ -810,6 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Linda Nosk | Linda Noskova (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Maxim Zhukov (BUY) | 60% | 5.00 | 7.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 30.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: S D Prajwal Dev vs Benjami | S D Prajwal Dev (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ❌ perdida | -5.11 |
 | sbsigner | Will Columbus Crew win on 2026-09-05? | No (BUY) | 54% | 5.00 | 3.8% | ❌ perdida | -5.12 |
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ❌ perdida | -5.11 |
-|  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
