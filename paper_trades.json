@@ -102676,8 +102676,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -105101,8 +105101,8 @@
     "title": "San Francisco Giants vs. New York Mets",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 1414.4,
-    "whale_pct": 10.214,
+    "whale_usd": 2746.88,
+    "whale_pct": 19.836,
     "whale_value_at_open": 13848.024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -105115,8 +105115,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788719292.6038494,
-    "fills": 2
+    "last_fill_at": 1788724454.7848532,
+    "fills": 3
   },
   {
     "timestamp": 1788719391,
@@ -105706,13 +105706,15 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 5.01,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788724030.4841928,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.23,
+    "closed_price": 84
   },
   {
     "timestamp": 1788723093,

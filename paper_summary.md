@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:53:20 (hora de Perú)
+Actualizado: 2026-09-06 14:55:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $355.84
-**Retorno acumulado:** -28.83%
+**Bankroll actual:** $367.08
+**Retorno acumulado:** -26.58%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:53:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $15.84)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $37.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,11 +27,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| Feromont | 9 | 2 | 2 | +28.18 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 61 | 36 | 5 | +25.04 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
-| Feromont | 8 | 2 | 3 | +23.17 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 10 | 5 | 0 | +19.01 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 557 | 349 | 6 | -205.89 USD |
+| ferrariChampions2026 | 558 | 349 | 5 | -199.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4018
-- **Aciertos:** 2538 (63.2%)
+- **Apuestas resueltas:** 4019
+- **Aciertos:** 2539 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,065.24
-- **ROI sobre lo apostado:** -1.34%
-- **Comisiones pagadas (taker fee):** $371.88 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,070.24
+- **ROI sobre lo apostado:** -1.31%
+- **Comisiones pagadas (taker fee):** $372.02 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2055 | 50.1% | 50.1% | -0.1 pp |
+| 40-59% | 2056 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1200 | 69.2% | 67.8% | +1.5 pp |
 | 80-94% | 533 | 85.6% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -834,7 +834,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 51. | Under (BUY) | 51% | 5.00 | 11.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 34.8% | ⏳ pendiente | — |
+| Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 34.8% | 💰 vendida anticipada | +5.01 |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 34.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 355.8411017137141,
+  "bankroll": 367.0786892968627,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21060,6 +21060,16 @@
       "timestamp": 1788724142.5509763,
       "bankroll": 355.84,
       "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724414.3148434,
+      "bankroll": 360.86,
+      "event": "venta anticipada: Feromont \u2014 Atlanta Braves vs. Philadelphia Phillies (+5.01 USD)"
+    },
+    {
+      "timestamp": 1788724452.9001,
+      "bankroll": 367.08,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Marta Kostyuk vs Linda Noskova"
     }
   ]
 }
