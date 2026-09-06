@@ -102717,8 +102717,8 @@
     "title": "Shanghai: Jesse Delaney vs Mikalai Haliak",
     "outcome": "Mikalai Haliak",
     "side": "BUY",
-    "whale_usd": 1053.02,
-    "whale_pct": 1.083,
+    "whale_usd": 1553.67,
+    "whale_pct": 1.598,
     "whale_value_at_open": 97232.8045,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -102729,7 +102729,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788681633.0908058,
-    "fills": 1
+    "last_fill_at": 1788681937.5223458,
+    "fills": 2
   }
 ]
