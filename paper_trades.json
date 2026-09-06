@@ -106496,8 +106496,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 63926.22439999999,
-    "whale_pct": 19.639,
+    "whale_usd": 73681.630714,
+    "whale_pct": 22.636,
     "whale_value_at_open": 325503.8226,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -106512,8 +106512,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788729218.7353237,
-    "fills": 7
+    "last_fill_at": 1788729633.8514504,
+    "fills": 9
   },
   {
     "timestamp": 1788728418,
@@ -106647,5 +106647,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788729507.932832,
     "fills": 1
+  },
+  {
+    "timestamp": 1788729615,
+    "timestamp_added": 1788729615.8412042,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-06-total-6pt5",
+    "title": "Athletics vs. Seattle Mariners: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1749.591731,
+    "whale_pct": 0.429,
+    "whale_value_at_open": 408209.9082,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788729698.5656347,
+    "fills": 2
   }
 ]
