@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:44:46 (hora de Perú)
+Actualizado: 2026-09-06 12:46:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $352.44
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 12:44:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $107.44)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $97.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 58 | 34 | 9 | +25.98 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 58 | 34 | 10 | +25.98 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | sbsigner | 3 | 5 | 2 | -13.82 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 8 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 9 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -812,6 +812,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-bos-bal-2026-09-06 | AV23IUa, wr0ngw4yb3tt0r |
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-chc-mia-2026-09-06 | Talvez10, pleaseplease123 |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123 |
@@ -820,6 +821,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: WaR (-1.5) vs Wanted Goons | Without a Roof (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 63.7% | ⏳ pendiente | — |
 | Talvez10 | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Over (BUY) | 51% | 5.00 | 17.2% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 46% | 5.00 | 11.3% | ⏳ pendiente | — |
@@ -848,5 +851,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ❌ perdida | -5.11 |
 | ExplosiveNinja | Counter-Strike: Spirit vs MOUZ - Map 1 W | Spirit (BUY) | 61% | 5.00 | 5.1% | ✅ ganada | +3.10 |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | LGD Gaming (BUY) | 44% | 5.00 | 8.5% | ✅ ganada | +6.22 |
-| monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 60% | 5.00 | 77.5% | ⏳ pendiente | — |
-| AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 58% | 5.00 | 3.6% | ⏳ pendiente | — |
