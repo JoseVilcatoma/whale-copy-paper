@@ -104408,5 +104408,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788708492.5629487,
     "fills": 1
+  },
+  {
+    "timestamp": 1788708749,
+    "timestamp_added": 1788708750.1236308,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "sea-juv-mil-2026-09-06-juv",
+    "title": "Will Juventus FC win on 2026-09-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 17417.997000000003,
+    "whale_pct": 14.054,
+    "whale_value_at_open": 123935.3766,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788708750.1236398,
+    "fills": 1
   }
 ]

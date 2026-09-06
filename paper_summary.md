@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:31:13 (hora de Perú)
+Actualizado: 2026-09-06 10:33:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $353.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 10:31:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $138.19)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $133.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 16 | 17 | 6 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 1 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -817,6 +817,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 12.3% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 44% | 5.00 | 6.9% | ⏳ pendiente | — |
@@ -846,4 +847,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Svyatoslav Gulin vs Rudolf Mollek | Rudolf Molleker (BUY) | 53% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Seville: Saba Purtseladze vs Izan Almaza | Izan Almazan Valiente (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
 | pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/ | Under (BUY) | 53% | 5.00 | 316.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles: O/ | Over (BUY) | 50% | 5.00 | 1.1% | ⏳ pendiente | — |
