@@ -102484,8 +102484,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104401,8 +104401,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104569,8 +104569,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [
       "pleaseplease123"
     ],
@@ -104619,8 +104619,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [
       "monkeymashingkeyboard",
       "pleaseplease123"
@@ -104999,8 +104999,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "Talvez10",
       "monkeymashingkeyboard",
@@ -105465,8 +105465,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "Talvez10",
       "monkeymashingkeyboard",
@@ -105522,8 +105522,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "1winstreak1",
       "Talvez10",
@@ -105601,8 +105601,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "Talvez10",
       "monkeymashingkeyboard",
@@ -105908,8 +105908,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "1winstreak1",
       "Talvez10",
@@ -106446,8 +106446,8 @@
     "title": "Arizona Diamondbacks vs. Houston Astros",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 1138.190351,
-    "whale_pct": 0.302,
+    "whale_usd": 9191.690351,
+    "whale_pct": 2.439,
     "whale_value_at_open": 376816.9446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -106458,7 +106458,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788727378.1505342,
-    "fills": 1
+    "last_fill_at": 1788727699.9227352,
+    "fills": 2
   }
 ]

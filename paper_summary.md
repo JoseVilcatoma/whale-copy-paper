@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:46:48 (hora de Perú)
+Actualizado: 2026-09-06 15:48:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $358.29
-**Retorno acumulado:** -28.34%
+**Bankroll actual:** $352.92
+**Retorno acumulado:** -29.42%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 15:46:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $33.29)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $72.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,15 +29,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | Feromont | 10 | 3 | 1 | +26.77 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 62 | 36 | 4 | +26.32 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 61 | 36 | 5 | +25.04 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-|  | 10 | 5 | 5 | +19.01 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
+| monkeymashingkeyboard | 15 | 9 | 2 | +15.25 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
+|  | 10 | 6 | 4 | +13.88 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| monkeymashingkeyboard | 14 | 9 | 3 | +12.28 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -88,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | Jsram | 3 | 2 | 0 | -2.32 USD |
-| 1winstreak1 | 17 | 8 | 11 | -2.41 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -98,6 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| 1winstreak1 | 18 | 9 | 9 | -4.79 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -109,15 +109,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| Talvez10 | 11 | 10 | 2 | -8.89 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| pleaseplease123 | 19 | 19 | 3 | -13.86 USD |
+| Talvez10 | 11 | 11 | 1 | -14.04 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| pleaseplease123 | 18 | 19 | 4 | -16.96 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -126,21 +126,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| wr0ngw4yb3tt0r | 13 | 18 | 22 | -35.69 USD |
+| wr0ngw4yb3tt0r | 14 | 19 | 20 | -35.74 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 558 | 350 | 9 | -204.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4041
-- **Aciertos:** 2553 (63.2%)
+- **Apuestas resueltas:** 4050
+- **Aciertos:** 2558 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,180.24
-- **ROI sobre lo apostado:** -1.33%
-- **Comisiones pagadas (taker fee):** $374.11 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.52% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,225.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $375.08 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2067 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1207 | 69.3% | 67.7% | +1.6 pp |
+| 40-59% | 2072 | 50.0% | 50.1% | -0.2 pp |
+| 60-79% | 1211 | 69.4% | 67.7% | +1.7 pp |
 | 80-94% | 536 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 231 | 96.5% | 97.3% | -0.8 pp |
 
@@ -831,7 +831,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Feromont | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 59% | 5.00 | 27.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -852,7 +852,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Houston Astros (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 81% | 5.00 | 1.3% | ✅ ganada | +1.13 |
 |  | Will Olympique de Marseille win on 2026- | Yes (BUY) | 43% | 5.00 | 186.2% | ⏳ pendiente | — |
-|  | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 49% | 5.00 | 49.4% | ⏳ pendiente | — |
+|  | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 49% | 5.00 | 49.4% | ❌ perdida | -5.13 |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | New York Mets (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
 | Feromont | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 15.1% | 💰 vendida anticipada | -3.01 |
 | 1winstreak1 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 66% | 5.00 | 1.4% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 358.2869149861157,
+  "bankroll": 352.9168479833271,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21185,6 +21185,51 @@
       "timestamp": 1788727469.8787034,
       "bankroll": 358.29,
       "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Colorado Rockies (-3.01 USD)"
+    },
+    {
+      "timestamp": 1788727697.721666,
+      "bankroll": 359.56,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Galorys vs ALKA (BO3) - CCT South America Series 5 Playoffs"
+    },
+    {
+      "timestamp": 1788727699.1896708,
+      "bankroll": 362.66,
+      "event": "won: pleaseplease123 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727700.233866,
+      "bankroll": 365.63,
+      "event": "won: monkeymashingkeyboard \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727700.3340216,
+      "bankroll": 360.48,
+      "event": "lost: Talvez10 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727701.9370277,
+      "bankroll": 365.56,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727703.7789176,
+      "bankroll": 360.46,
+      "event": "lost: 1winstreak1 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727703.8790302,
+      "bankroll": 355.32,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727704.391589,
+      "bankroll": 358.04,
+      "event": "won: 1winstreak1 \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788727706.152517,
+      "bankroll": 352.92,
+      "event": "lost:  \u2014 Detroit Tigers vs. Cleveland Guardians"
     }
   ]
 }
