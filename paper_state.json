@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.0978614820688,
+  "bankroll": 352.37497540611946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20935,6 +20935,11 @@
       "timestamp": 1788712653.9849522,
       "bankroll": 351.1,
       "event": "lost: ferrariChampions2026 \u2014 Telstar 1963 vs. SC Cambuur-Leeuwarden: O/U 3.5"
+    },
+    {
+      "timestamp": 1788712963.0021946,
+      "bankroll": 352.37,
+      "event": "won: AV23IUa \u2014 Will FC Barcelona win on 2026-09-06?"
     }
   ]
 }

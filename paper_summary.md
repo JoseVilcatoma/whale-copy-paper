@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 11:40:45 (hora de Perú)
+Actualizado: 2026-09-06 11:42:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $351.10
-**Retorno acumulado:** -29.78%
+**Bankroll actual:** $352.37
+**Retorno acumulado:** -29.53%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 11:40:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $111.10)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $117.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| AV23IUa | 36 | 27 | 4 | -21.26 USD |
+| AV23IUa | 37 | 27 | 3 | -19.98 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3993
-- **Aciertos:** 2522 (63.2%)
+- **Apuestas resueltas:** 3994
+- **Aciertos:** 2523 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,940.24
-- **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $369.41 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,945.24
+- **ROI sobre lo apostado:** -1.36%
+- **Comisiones pagadas (taker fee):** $369.46 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2042 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1191 | 69.3% | 67.8% | +1.5 pp |
+| 60-79% | 1192 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
@@ -829,7 +829,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 31.3% | ⏳ pendiente | — |
 | sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 45.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 25.9% | ⏳ pendiente | — |
@@ -845,6 +845,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 58% | 5.00 | 3.6% | ⏳ pendiente | — |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 61% | 5.00 | 16.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 62% | 5.00 | 3.1% | ⏳ pendiente | — |
-| AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ⏳ pendiente | — |
+| AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ✅ ganada | +1.28 |
 | AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 710.8% | ❌ perdida | -5.12 |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming - G | Ninjas in Pyjamas (BUY) | 60% | 5.00 | 20.5% | ✅ ganada | +3.23 |
