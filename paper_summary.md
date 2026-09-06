@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 11:28:22 (hora de Perú)
+Actualizado: 2026-09-06 11:30:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $356.21
@@ -818,7 +818,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 67.1% | ⏳ pendiente | — |
+| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 73.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Houston Astros: | Over (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
