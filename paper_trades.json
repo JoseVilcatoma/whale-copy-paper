@@ -104184,5 +104184,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788702584.909768,
     "fills": 3
+  },
+  {
+    "timestamp": 1788703323,
+    "timestamp_added": 1788703324.2623754,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ts7-mouz-2026-09-06-game1",
+    "title": "Counter-Strike: Spirit vs MOUZ - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 3429.5879999999997,
+    "whale_pct": 5.135,
+    "whale_value_at_open": 66783.5299,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788703324.2623844,
+    "fills": 1
   }
 ]
