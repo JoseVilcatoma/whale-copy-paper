@@ -106051,8 +106051,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 9999.999999000001,
-    "whale_pct": 21.589,
+    "whale_usd": 18401.045998,
+    "whale_pct": 39.725,
     "whale_value_at_open": 46320.5771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -106066,7 +106066,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788725155.642518,
-    "fills": 1
+    "last_fill_at": 1788725261.6236918,
+    "fills": 3
   }
 ]

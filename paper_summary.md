@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:06:02 (hora de Perú)
+Actualizado: 2026-09-06 15:08:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.34
@@ -828,7 +828,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 48% | 5.00 | 21.6% | ⏳ pendiente | — |
+|  | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 48% | 5.00 | 39.7% | ⏳ pendiente | — |
 |  | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 50% | 5.00 | 29.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-6.5) | Miami Marlins (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Houston Astros (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
