@@ -106871,5 +106871,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788730953.9842668,
     "fills": 1
+  },
+  {
+    "timestamp": 1788731083,
+    "timestamp_added": 1788731084.6621196,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-michels-etcheve-2026-09-06",
+    "title": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "whale_usd": 4940.21,
+    "whale_pct": 1.238,
+    "whale_value_at_open": 398934.0624,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788731084.6621304,
+    "fills": 1
   }
 ]

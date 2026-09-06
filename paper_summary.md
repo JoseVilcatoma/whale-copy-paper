@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:44:14 (hora de Perú)
+Actualizado: 2026-09-06 16:46:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 16:44:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $80.72)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $75.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Flaznorp | 36 | 12 | 1 | +0.85 USD |
+| Flaznorp | 36 | 12 | 2 | +0.85 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -827,11 +827,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-min-cws-2026-09-06 | Feromont, wr0ngw4yb3tt0r |
+| atp-michels-etcheve-2026-09-06 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -861,4 +863,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 95% | 5.00 | 1.0% | ✅ ganada | +0.25 |
-| wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 57% | 5.00 | 6.7% | ⏳ pendiente | — |
