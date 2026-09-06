@@ -102621,8 +102621,8 @@
     "title": "LoL: Invictus Gaming vs Team WE - Game 2 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 2700.0,
-    "whale_pct": 20.813,
+    "whale_usd": 3900.0,
+    "whale_pct": 30.063,
     "whale_value_at_open": 12972.5706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -102633,7 +102633,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788678605.5652153,
-    "fills": 1
+    "last_fill_at": 1788678627.999916,
+    "fills": 3
   }
 ]
