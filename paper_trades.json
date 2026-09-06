@@ -106833,8 +106833,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6072.626362999999,
-    "whale_pct": 1.533,
+    "whale_usd": 6633.906362999999,
+    "whale_pct": 1.675,
     "whale_value_at_open": 396108.8281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -106845,8 +106845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788734563.3698583,
-    "fills": 6
+    "last_fill_at": 1788735545.6760457,
+    "fills": 7
   },
   {
     "timestamp": 1788730953,
@@ -107476,8 +107476,8 @@
     "title": "Will Botafogo FR win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 606.69,
-    "whale_pct": 0.155,
+    "whale_usd": 1736.24,
+    "whale_pct": 0.444,
     "whale_value_at_open": 390969.7334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -107488,8 +107488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735483.006644,
-    "fills": 1
+    "last_fill_at": 1788735538.0012538,
+    "fills": 2
   },
   {
     "timestamp": 1788735487,
