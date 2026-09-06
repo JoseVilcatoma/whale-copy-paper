@@ -105544,8 +105544,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 2525.96603,
-    "whale_pct": 1.189,
+    "whale_usd": 4372.119876,
+    "whale_pct": 2.058,
     "whale_value_at_open": 212421.3001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -105558,8 +105558,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722071.5226228,
-    "fills": 1
+    "last_fill_at": 1788723102.819246,
+    "fills": 2
   },
   {
     "timestamp": 1788722367,
@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 2924.6800000000003,
-    "whale_pct": 1.407,
+    "whale_usd": 3695.4928000000004,
+    "whale_pct": 1.778,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722799.0871058,
-    "fills": 3
+    "last_fill_at": 1788723059.5418677,
+    "fills": 4
   },
   {
     "timestamp": 1788722393,
@@ -105712,6 +105712,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788722940.388999,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788723093,
+    "timestamp_added": 1788723093.949125,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-mia-2026-09-06-total-13pt5",
+    "title": "Chicago Cubs vs. Miami Marlins: O/U 13.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 989.9967,
+    "whale_pct": 0.423,
+    "whale_value_at_open": 234018.4883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788723093.949137,
     "fills": 1
   }
 ]

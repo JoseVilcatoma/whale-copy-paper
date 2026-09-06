@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:30:14 (hora de Perú)
+Actualizado: 2026-09-06 14:32:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $353.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:30:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $13.90)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $8.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | AV23IUa | 37 | 27 | 3 | -19.98 USD |
-| wr0ngw4yb3tt0r | 9 | 13 | 22 | -21.58 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 23 | -21.58 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -827,13 +827,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 8.7% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 23.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 1.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -856,4 +857,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 141.0% | ⏳ pendiente | — |
