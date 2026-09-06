@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 00:27:24 (hora de Perú)
+Actualizado: 2026-09-06 00:29:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.37
@@ -812,10 +812,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |
 |  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 1016.7% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 1066.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-2.5) vs MOUZ (+2.5) | MOUZ (BUY) | 80% | 5.00 | 34.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 180.4% | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ❌ perdida | -5.08 |
