@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:36:59 (hora de Perú)
+Actualizado: 2026-09-06 18:39:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $372.60
-**Retorno acumulado:** -25.48%
+**Bankroll actual:** $381.45
+**Retorno acumulado:** -23.71%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:36:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $112.60)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $126.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
+|  | 12 | 8 | 0 | +13.79 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -43,12 +44,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | zofgkt1111 | 14 | 11 | 0 | +8.96 USD |
-|  | 11 | 8 | 1 | +8.91 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 42 | 12 | 22 | +6.66 USD |
+| Flaznorp | 42 | 12 | 23 | +6.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -85,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| WTSA | 1 | 1 | 0 | -1.14 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | Jsram | 3 | 2 | 0 | -2.32 USD |
@@ -103,7 +104,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
-| WTSA | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4108
-- **Aciertos:** 2598 (63.2%)
+- **Apuestas resueltas:** 4110
+- **Aciertos:** 2600 (63.3%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,515.24
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $380.23 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,525.24
+- **ROI sobre lo apostado:** -1.19%
+- **Comisiones pagadas (taker fee):** $380.47 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2097 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2099 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1231 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 545 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 235 | 96.6% | 97.3% | -0.8 pp |
@@ -830,11 +830,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-cws-2026-09-06 | Feromont, Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-michels-etcheve-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | atp-shelton-tsitsip-2026-09-06 | Flaznorp, ferrariChampions2026 |
+| wta-pegula-cirstea-2026-09-06 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-6.5) | Ole Miss (BUY) | 52% | 5.00 | 7.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA River Plate (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -843,7 +845,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 74% | 5.00 | 7.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 20.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 24.1% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 0.5 | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | Yes (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss (BUY) | 70% | 5.00 | 17.5% | ⏳ pendiente | — |
@@ -864,4 +866,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.5% | ❌ perdida | -5.14 |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Athletics (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
-| Flaznorp | Club León FC vs. CF América: O/U 3.5 | Under (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |

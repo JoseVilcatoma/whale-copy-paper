@@ -104726,8 +104726,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -106034,8 +106034,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "WTSA"
     ],
@@ -107596,8 +107596,8 @@
     "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 26456.097028,
-    "whale_pct": 19.951,
+    "whale_usd": 31905.489028,
+    "whale_pct": 24.061,
     "whale_value_at_open": 132604.0255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -107608,8 +107608,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788737012.7615297,
-    "fills": 8
+    "last_fill_at": 1788737826.8469002,
+    "fills": 9
   },
   {
     "timestamp": 1788736640,
@@ -107805,6 +107805,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788737491.5977468,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788737839,
+    "timestamp_added": 1788737839.461201,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "wta-pegula-cirstea-2026-09-06",
+    "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 789.9359,
+    "whale_pct": 0.253,
+    "whale_value_at_open": 312263.9336,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788737839.4612143,
     "fills": 1
   }
 ]

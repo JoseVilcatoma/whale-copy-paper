@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.5974322147851,
+  "bankroll": 381.4513413056942,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21520,6 +21520,16 @@
       "timestamp": 1788736626.9202254,
       "bankroll": 372.6,
       "event": "won: Flaznorp \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1788737867.119024,
+      "bankroll": 376.58,
+      "event": "won: WTSA \u2014 Will Cruzeiro EC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788737869.1729808,
+      "bankroll": 381.45,
+      "event": "won:  \u2014 Will Cruzeiro EC win on 2026-09-06?"
     }
   ]
 }
