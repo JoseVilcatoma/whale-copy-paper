@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 08:46:11 (hora de Perú)
+Actualizado: 2026-09-06 08:48:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 08:46:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $125.62)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $120.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| zofgkt1111 | 12 | 11 | 1 | -0.49 USD |
+| zofgkt1111 | 12 | 11 | 2 | -0.49 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -807,6 +807,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | epl-ars-che-2026-09-06-total-2pt5 | Jsram, ferrariChampions2026 |
 | epl-eve-mun-2026-09-06-mun | AV23IUa, ferrariChampions2026, sbsigner |
+| lol-nip-lgd-2026-09-06 | sbsigner, zofgkt1111 |
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 
@@ -814,6 +815,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | LGD Gaming (BUY) | 44% | 5.00 | 5.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 60% | 5.00 | 37.4% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 58% | 5.00 | 3.6% | ⏳ pendiente | — |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 61% | 5.00 | 16.7% | ⏳ pendiente | — |
@@ -843,4 +845,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hertha BSC vs. 1. FC Magdeburg: O/U 3.5 | Under (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | SpVgg Greuther Fürth vs. 1. FC Heidenhei | Under (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Daniel Siniakov vs Niels Visker | Daniel Siniakov (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Cassis: Antoine Escoffier vs Adria Soria | Antoine Escoffier (BUY) | 95% | 5.00 | 3.0% | ✅ ganada | +0.25 |

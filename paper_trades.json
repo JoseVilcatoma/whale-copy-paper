@@ -104158,5 +104158,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788701613.7911198,
     "fills": 1
+  },
+  {
+    "timestamp": 1788702431,
+    "timestamp_added": 1788702431.6634912,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-nip-lgd-2026-09-06",
+    "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 1210.4457,
+    "whale_pct": 4.989,
+    "whale_value_at_open": 24263.0002,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "sbsigner"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788702432.1099706,
+    "fills": 2
   }
 ]
