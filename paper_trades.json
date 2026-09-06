@@ -101833,8 +101833,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101986,8 +101986,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "HongYunX"
     ],
@@ -102563,5 +102563,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788675918.82089,
     "fills": 4
+  },
+  {
+    "timestamp": 1788676765,
+    "timestamp_added": 1788676766.2629914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kumasak-borisio-2026-09-06",
+    "title": "Phan Thiet 3: Takuya Kumasaka vs Martin Borisiouk",
+    "outcome": "Martin Borisiouk",
+    "side": "BUY",
+    "whale_usd": 537.95,
+    "whale_pct": 0.679,
+    "whale_value_at_open": 79264.4449,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788676766.263002,
+    "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.6252263126756,
+  "bankroll": 369.4833374237867,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20635,6 +20635,16 @@
       "timestamp": 1788675590.1553028,
       "bankroll": 368.63,
       "event": "won: pleaseplease123 \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 6.5"
+    },
+    {
+      "timestamp": 1788676845.5886605,
+      "bankroll": 374.6,
+      "event": "won: HongYunX \u2014 Will Columbus Crew win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788676845.6888516,
+      "bankroll": 369.48,
+      "event": "lost: sbsigner \u2014 Will Columbus Crew win on 2026-09-05?"
     }
   ]
 }
