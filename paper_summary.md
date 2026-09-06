@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:42:11 (hora de Perú)
+Actualizado: 2026-09-06 16:44:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 16:42:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $85.72)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $80.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 28 | 1 | -21.56 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| wr0ngw4yb3tt0r | 18 | 21 | 17 | -31.38 USD |
+| wr0ngw4yb3tt0r | 18 | 21 | 18 | -31.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -832,6 +832,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -861,4 +862,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 95% | 5.00 | 1.0% | ✅ ganada | +0.25 |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 57% | 5.00 | 6.7% | ⏳ pendiente | — |
-| 1winstreak1 | O/U 50.5 | Under (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |

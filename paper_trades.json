@@ -106847,5 +106847,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788730850.4384131,
     "fills": 1
+  },
+  {
+    "timestamp": 1788730953,
+    "timestamp_added": 1788730953.9842563,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-washst-wash-2026-09-06-spread-home-24pt5",
+    "title": "Spread: Washington (-24.5)",
+    "outcome": "Washington State",
+    "side": "BUY",
+    "whale_usd": 2966.4900000000002,
+    "whale_pct": 1.416,
+    "whale_value_at_open": 209425.4449,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788730953.9842668,
+    "fills": 1
   }
 ]
