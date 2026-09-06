@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:17:23 (hora de Perú)
+Actualizado: 2026-09-06 04:19:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $366.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 04:17:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $181.24)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $176.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 527 | 335 | 20 | -207.83 USD |
+| ferrariChampions2026 | 527 | 335 | 21 | -207.83 USD |
 
 ## Análisis general
 
@@ -806,11 +806,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-clb-col-2026-09-05-clb | HongYunX, sbsigner |
 | cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | epl-ars-che-2026-09-06-total-2pt5 | Jsram, ferrariChampions2026 |
+| epl-eve-mun-2026-09-06-mun | ferrariChampions2026, sbsigner |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Manchester United FC win on 2026-09 | No (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
@@ -840,4 +842,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs ALKA (BO3) -  | Galorys (BUY) | 79% | 5.00 | 4.7% | ⏳ pendiente | — |
 | 1winstreak1 | UCLA vs. California | UCLA (BUY) | 94% | 5.00 | 17.8% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Deportivo Alavés vs. CA Osasuna: O/U 1.5 | Over (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
