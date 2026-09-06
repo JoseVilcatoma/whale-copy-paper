@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.6419250163919,
+  "bankroll": 369.02768177314863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20465,6 +20465,26 @@
       "timestamp": 1788659247.4501748,
       "bankroll": 382.64,
       "event": "won: Sassy-Bucket \u2014 Wyoming vs. Colorado State"
+    },
+    {
+      "timestamp": 1788660492.4010735,
+      "bankroll": 377.54,
+      "event": "lost: ferrariChampions2026 \u2014 Will Orlando City SC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788660494.2434278,
+      "bankroll": 372.44,
+      "event": "lost: kekasaur \u2014 Will Cear\u00e1 SC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788660496.722451,
+      "bankroll": 367.34,
+      "event": "lost: HongYunX \u2014 Will Orlando City SC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788660497.338534,
+      "bankroll": 369.03,
+      "event": "won: ferrariChampions2026 \u2014 Will Colorado Rapids SC win on 2026-09-05?"
     }
   ]
 }

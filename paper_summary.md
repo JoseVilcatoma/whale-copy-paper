@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 21:07:23 (hora de Perú)
+Actualizado: 2026-09-05 21:09:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $382.64
-**Retorno acumulado:** -23.47%
+**Bankroll actual:** $369.03
+**Retorno acumulado:** -26.19%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 21:07:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $187.64)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $194.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,10 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| HongYunX | 12 | 4 | 3 | +35.21 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| HongYunX | 12 | 5 | 2 | +30.11 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 4 | +26.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -67,7 +67,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| kekasaur | 11 | 10 | 1 | +2.36 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -94,6 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 517 | 328 | 16 | -214.81 USD |
+| ferrariChampions2026 | 518 | 329 | 14 | -218.23 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3899
-- **Aciertos:** 2468 (63.3%)
+- **Apuestas resueltas:** 3903
+- **Aciertos:** 2469 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,470.24
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $360.19 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,490.24
+- **ROI sobre lo apostado:** -1.31%
+- **Comisiones pagadas (taker fee):** $360.56 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,8 +147,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1985 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1165 | 69.4% | 67.8% | +1.7 pp |
+| 40-59% | 1987 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1167 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 522 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
 
@@ -816,12 +816,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 52% | 5.00 | 2.9% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 45% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Colorado Rapids SC win on 2026-09-0 | No (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Colorado Rapids SC win on 2026-09-0 | No (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | sbsigner | Will Columbus Crew win on 2026-09-05? | No (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ⏳ pendiente | — |
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
-| HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ⏳ pendiente | — |
+| HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ❌ perdida | -5.10 |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ⏳ pendiente | — |
 |  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ❌ perdida | -5.03 |
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
