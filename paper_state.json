@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.71569933745553,
+  "bankroll": 363.9886405139261,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20675,6 +20675,11 @@
       "timestamp": 1788689261.8358562,
       "bankroll": 361.72,
       "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788689631.567995,
+      "bankroll": 363.99,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Mika Brunold vs Kai Wehnelt"
     }
   ]
 }
