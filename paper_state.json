@@ -1,5 +1,5 @@
 {
-  "bankroll": 355.52716885116627,
+  "bankroll": 358.8987451223527,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20730,6 +20730,11 @@
       "timestamp": 1788693794.9720669,
       "bankroll": 355.53,
       "event": "lost: ferrariChampions2026 \u2014 Seville: Alejo Sanchez Quilez vs Alejandro Turriziani Alvarez"
+    },
+    {
+      "timestamp": 1788694101.908902,
+      "bankroll": 358.9,
+      "event": "won: zofgkt1111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
     }
   ]
 }
