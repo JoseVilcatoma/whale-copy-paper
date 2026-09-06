@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:26:46 (hora de Perú)
+Actualizado: 2026-09-06 18:28:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $372.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:26:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $137.60)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $132.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -97,7 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 24 | 12 | 2 | -4.96 USD |
+| 1winstreak1 | 24 | 12 | 3 | -4.96 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -823,6 +823,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-sd-2026-09-06 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-stl-col-2026-09-06 | , 1winstreak1, Feromont, ferrariChampions2026, pleaseplease123, wr0ngw4yb3tt0r |
+| cfb-wisc-nd-2026-09-06 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-min-cws-2026-09-06-total-8pt5 | Flaznorp, pleaseplease123, wr0ngw4yb3tt0r |
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -834,6 +835,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 215.2% | ⏳ pendiente | — |
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 74% | 5.00 | 7.3% | ⏳ pendiente | — |
@@ -863,4 +865,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ✅ ganada | +1.87 |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.6% | ✅ ganada | +1.36 |
