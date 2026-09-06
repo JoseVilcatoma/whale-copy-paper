@@ -103585,8 +103585,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 8828.074799999999,
-    "whale_pct": 4.973,
+    "whale_usd": 9359.884799999998,
+    "whale_pct": 5.272,
     "whale_value_at_open": 177524.4753,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -103597,8 +103597,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788726899.8741078,
-    "fills": 3
+    "last_fill_at": 1788727432.153139,
+    "fills": 4
   },
   {
     "timestamp": 1788694081,
@@ -103688,8 +103688,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -103712,8 +103712,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -104127,8 +104127,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104898,8 +104898,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -105656,8 +105656,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -105855,8 +105855,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -3.01,
     "overlaps_with": [
       "1winstreak1",
       "pleaseplease123"
@@ -105864,7 +105864,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788724166.5831742,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.195,
+    "closed_price": 24
   },
   {
     "timestamp": 1788724305,
@@ -106137,8 +106139,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [
       "AV23IUa",
       "wr0ngw4yb3tt0r"
@@ -106433,6 +106435,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788727198.3930883,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788727377,
+    "timestamp_added": 1788727378.1505246,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-hou-2026-09-06",
+    "title": "Arizona Diamondbacks vs. Houston Astros",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 1138.190351,
+    "whale_pct": 0.302,
+    "whale_value_at_open": 376816.9446,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788727378.1505342,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 362.68824259277426,
+  "bankroll": 358.2869149861157,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21150,6 +21150,41 @@
       "timestamp": 1788726677.46972,
       "bankroll": 362.69,
       "event": "won: 1winstreak1 \u2014 Spread: New York Mets (-1.5)"
+    },
+    {
+      "timestamp": 1788727384.908729,
+      "bankroll": 357.56,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1788727385.0088754,
+      "bankroll": 361.88,
+      "event": "won: pleaseplease123 \u2014 Boston Red Sox vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1788727385.4167516,
+      "bankroll": 365.4,
+      "event": "won: AV23IUa \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788727387.7253778,
+      "bankroll": 360.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788727391.5388582,
+      "bankroll": 361.05,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788727395.070383,
+      "bankroll": 361.3,
+      "event": "won: 1winstreak1 \u2014 Boston Red Sox vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788727469.8787034,
+      "bankroll": 358.29,
+      "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Colorado Rockies (-3.01 USD)"
     }
   ]
 }
