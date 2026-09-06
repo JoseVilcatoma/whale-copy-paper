@@ -102693,8 +102693,8 @@
     "title": "LoL: Invictus Gaming vs Team WE - Game 3 Winner",
     "outcome": "Team WE",
     "side": "BUY",
-    "whale_usd": 9491.0444,
-    "whale_pct": 73.176,
+    "whale_usd": 10491.0434,
+    "whale_pct": 80.886,
     "whale_value_at_open": 12970.2182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -102705,8 +102705,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788681629.0054283,
-    "fills": 2
+    "last_fill_at": 1788682259.8048441,
+    "fills": 3
   },
   {
     "timestamp": 1788681632,
@@ -102730,6 +102730,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788681937.5223458,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788682246,
+    "timestamp_added": 1788682246.3674152,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-t1-dk-2026-09-06-game1",
+    "title": "LoL: T1 vs Dplus KIA - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 9993.3072,
+    "whale_pct": 37.94,
+    "whale_value_at_open": 26339.7631,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788682250.6797833,
     "fills": 2
   }
 ]

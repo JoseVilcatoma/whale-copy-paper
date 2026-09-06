@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 03:09:16 (hora de Perú)
+Actualizado: 2026-09-06 03:11:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 03:09:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $254.79)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $249.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| zofgkt1111 | 10 | 8 | 3 | +8.68 USD |
+| zofgkt1111 | 10 | 8 | 4 | +8.68 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -810,8 +810,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 37.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 3 | Team WE (BUY) | 47% | 5.00 | 73.2% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 3 | Team WE (BUY) | 47% | 5.00 | 80.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Linda Nosk | Linda Noskova (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Maxim Zhukov (BUY) | 60% | 5.00 | 10.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 30.1% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 45% | 5.00 | 4.3% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 55% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Colorado Rapids SC win on 2026-09-0 | No (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ❌ perdida | -5.11 |
