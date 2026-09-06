@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:45:11 (hora de Perú)
+Actualizado: 2026-09-06 10:47:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.06
@@ -819,7 +819,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 23.9% | ⏳ pendiente | — |
-| sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 35.1% | ⏳ pendiente | — |
+| sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 43.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |
