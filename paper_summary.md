@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:13:30 (hora de Perú)
+Actualizado: 2026-09-06 16:15:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $365.64
@@ -834,7 +834,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 76% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 16.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 19.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -844,7 +844,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 8.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: FLY (-1.5) vs Shopify Reb | Shopify Rebellion (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 10.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 14.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
