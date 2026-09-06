@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:27:40 (hora de Perú)
+Actualizado: 2026-09-06 04:29:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $366.24
@@ -824,7 +824,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Arjun Kadhe vs Tsung-Hao Huang | Tsung-Hao Huang (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
 | sbsigner | Will Manchester United FC win on 2026-09 | No (BUY) | 54% | 5.00 | 13.2% | ⏳ pendiente | — |
-| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 40.6% | ⏳ pendiente | — |
+| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 41.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 11.7% | ⏳ pendiente | — |
