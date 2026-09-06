@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:30:50 (hora de Perú)
+Actualizado: 2026-09-06 18:32:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $372.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:30:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $122.60)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $112.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,10 +126,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| wr0ngw4yb3tt0r | 23 | 25 | 12 | -35.82 USD |
+| wr0ngw4yb3tt0r | 23 | 25 | 13 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 570 | 355 | 6 | -197.74 USD |
+| ferrariChampions2026 | 570 | 355 | 7 | -197.74 USD |
 
 ## Análisis general
 
@@ -835,6 +835,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Ole Miss (-6.5) | Ole Miss (BUY) | 52% | 5.00 | 7.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA River Plate (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | Yes (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 215.2% | ⏳ pendiente | — |
@@ -863,5 +865,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.5% | ❌ perdida | -5.14 |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Athletics (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
 | Flaznorp | Club León FC vs. CF América: O/U 3.5 | Under (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will SE Palmeiras win on 2026-09-06? | Yes (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ✅ ganada | +1.87 |
