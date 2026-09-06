@@ -107418,5 +107418,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788734847.0211768,
     "fills": 1
+  },
+  {
+    "timestamp": 1788735155,
+    "timestamp_added": 1788735156.2491643,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-shelton-tsitsip-2026-09-06",
+    "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "whale_usd": 1472.3999999999999,
+    "whale_pct": 0.38,
+    "whale_value_at_open": 387307.0597,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788735156.249176,
+    "fills": 1
   }
 ]
