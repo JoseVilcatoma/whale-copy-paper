@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 21:53:33 (hora de Perú)
+Actualizado: 2026-09-05 21:55:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $344.72
-**Retorno acumulado:** -31.06%
+**Bankroll actual:** $347.72
+**Retorno acumulado:** -30.46%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 21:53:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $219.72)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $237.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -121,25 +121,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| AV23IUa | 34 | 26 | 2 | -22.18 USD |
+| AV23IUa | 35 | 26 | 1 | -19.80 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | pleaseplease123 | 14 | 17 | 2 | -25.32 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 521 | 331 | 9 | -213.53 USD |
+| ferrariChampions2026 | 522 | 332 | 7 | -212.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3915
-- **Aciertos:** 2473 (63.2%)
+- **Apuestas resueltas:** 3918
+- **Aciertos:** 2475 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,550.24
-- **ROI sobre lo apostado:** -1.43%
-- **Comisiones pagadas (taker fee):** $361.93 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,565.24
+- **ROI sobre lo apostado:** -1.41%
+- **Comisiones pagadas (taker fee):** $362.26 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,8 +147,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1998 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1168 | 69.4% | 67.8% | +1.7 pp |
+| 40-59% | 2000 | 50.0% | 50.1% | -0.2 pp |
+| 60-79% | 1169 | 69.5% | 67.8% | +1.7 pp |
 | 80-94% | 522 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
 
@@ -819,7 +819,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 45% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 55% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Colorado Rapids SC win on 2026-09-0 | No (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ❌ perdida | -5.11 |
 | sbsigner | Will Columbus Crew win on 2026-09-05? | No (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ❌ perdida | -5.11 |
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
@@ -830,7 +830,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 48% | 5.00 | 2.7% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ✅ ganada | +5.73 |
 | Sassy-Bucket | Wyoming vs. Colorado State | Colorado State (BUY) | 57% | 5.00 | 1.1% | ✅ ganada | +3.66 |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky (BUY) | 51% | 5.00 | 7.6% | ⏳ pendiente | — |
 | HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ✅ ganada | +1.78 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 344.7189660114476,
+  "bankroll": 347.72221779600306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20545,6 +20545,21 @@
       "timestamp": 1788662703.7528558,
       "bankroll": 344.72,
       "event": "lost: pleaseplease123 \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788663332.8086085,
+      "bankroll": 347.1,
+      "event": "won: AV23IUa \u2014 US Open ATP: Zizou Bergs vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788663334.7549329,
+      "bankroll": 352.83,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Zizou Bergs vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788663336.3281019,
+      "bankroll": 347.72,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Zizou Bergs vs Botic van de Zandschulp"
     }
   ]
 }
