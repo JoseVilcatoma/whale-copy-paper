@@ -103153,8 +103153,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 13965.450224000004,
-    "whale_pct": 9.249,
+    "whale_usd": 14584.650224000005,
+    "whale_pct": 9.659,
     "whale_value_at_open": 150990.7292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -103165,8 +103165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788690878.1233673,
-    "fills": 21
+    "last_fill_at": 1788690977.2318769,
+    "fills": 22
   },
   {
     "timestamp": 1788687037,
@@ -103345,8 +103345,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Hugo Dellien",
     "side": "BUY",
-    "whale_usd": 34925.6581,
-    "whale_pct": 19.978,
+    "whale_usd": 38348.231078000004,
+    "whale_pct": 21.935,
     "whale_value_at_open": 174823.0679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -103357,8 +103357,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788690151.5047026,
-    "fills": 5
+    "last_fill_at": 1788690973.6547549,
+    "fills": 6
   },
   {
     "timestamp": 1788689597,
@@ -103406,6 +103406,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788690483.0066855,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788691010,
+    "timestamp_added": 1788691010.6015072,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-quilez-alvar-2026-09-06",
+    "title": "Seville: Alejo Sanchez Quilez vs Alejandro Turriziani Alvarez",
+    "outcome": "Alejo Sanchez Quilez",
+    "side": "BUY",
+    "whale_usd": 500.0,
+    "whale_pct": 0.227,
+    "whale_value_at_open": 220341.4947,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788691010.6015184,
     "fills": 1
   }
 ]
