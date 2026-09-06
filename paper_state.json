@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.2755823028132,
+  "bankroll": 376.1975317977627,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21345,6 +21345,16 @@
       "timestamp": 1788732346.9221342,
       "bankroll": 374.28,
       "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 15.5"
+    },
+    {
+      "timestamp": 1788733092.788808,
+      "bankroll": 376.15,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Independiente win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788733155.213519,
+      "bankroll": 376.2,
+      "event": "won: Flaznorp \u2014 Will CA Central C\u00f3rdoba win on 2026-09-06?"
     }
   ]
 }
