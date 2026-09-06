@@ -105771,8 +105771,8 @@
     "title": "Washington State vs. Washington: O/U 51.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 7710.5,
-    "whale_pct": 3.072,
+    "whale_usd": 28628.696077999997,
+    "whale_pct": 11.405,
     "whale_value_at_open": 251017.8505,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -105783,8 +105783,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788723885.3377047,
-    "fills": 2
+    "last_fill_at": 1788724220.4669263,
+    "fills": 3
   },
   {
     "timestamp": 1788723587,
@@ -105835,6 +105835,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788723722.543463,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788724166,
+    "timestamp_added": 1788724166.5831594,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 10800.0,
+    "whale_pct": 15.132,
+    "whale_value_at_open": 71371.5408,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788724166.5831742,
     "fills": 1
   }
 ]
