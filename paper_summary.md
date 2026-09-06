@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:16:39 (hora de Perú)
+Actualizado: 2026-09-06 18:18:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $369.92
-**Retorno acumulado:** -26.02%
+**Bankroll actual:** $372.60
+**Retorno acumulado:** -25.48%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:16:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $129.92)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $147.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,22 +43,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | zofgkt1111 | 14 | 11 | 0 | +8.96 USD |
+|  | 11 | 8 | 1 | +8.91 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| Flaznorp | 42 | 12 | 18 | +6.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| Flaznorp | 41 | 12 | 19 | +5.30 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-|  | 10 | 8 | 2 | +3.62 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -122,25 +122,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| AV23IUa | 38 | 28 | 1 | -21.56 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | wr0ngw4yb3tt0r | 23 | 25 | 12 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 569 | 354 | 6 | -198.86 USD |
+| ferrariChampions2026 | 570 | 355 | 6 | -197.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4103
-- **Aciertos:** 2595 (63.2%)
+- **Apuestas resueltas:** 4108
+- **Aciertos:** 2598 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,490.24
-- **ROI sobre lo apostado:** -1.25%
-- **Comisiones pagadas (taker fee):** $379.72 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,515.24
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $380.23 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2095 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1228 | 69.6% | 67.8% | +1.9 pp |
+| 40-59% | 2097 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1231 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 545 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 235 | 96.6% | 97.3% | -0.8 pp |
 
@@ -828,18 +828,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-min-cws-2026-09-06 | Feromont, Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-michels-etcheve-2026-09-06 | Flaznorp, ferrariChampions2026 |
+| atp-shelton-tsitsip-2026-09-06 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 74% | 5.00 | 7.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 0.5 | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | Yes (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss (BUY) | 70% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 1.5 | Under (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 11.1% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Wisconsin (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | No (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -858,8 +861,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ✅ ganada | +1.87 |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.6% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.6% | ✅ ganada | +1.36 |
 | Flaznorp | Spread: SE Palmeiras (-1.5) | Botafogo FR (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ✅ ganada | +0.05 |
-| Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
-| wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |

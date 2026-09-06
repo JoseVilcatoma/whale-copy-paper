@@ -103592,8 +103592,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104077,8 +104077,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -106060,8 +106060,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [
       "AV23IUa",
       "ferrariChampions2026"
@@ -106245,8 +106245,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [
       "",
       "AV23IUa"
@@ -106833,8 +106833,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7222.206362999999,
-    "whale_pct": 1.823,
+    "whale_usd": 7732.966363,
+    "whale_pct": 1.952,
     "whale_value_at_open": 396108.8281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -106845,8 +106845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788736303.0536397,
-    "fills": 8
+    "last_fill_at": 1788736625.6269908,
+    "fills": 9
   },
   {
     "timestamp": 1788730953,
@@ -106962,8 +106962,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "",
       "AV23IUa",
@@ -107428,8 +107428,8 @@
     "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 2965.25,
-    "whale_pct": 0.766,
+    "whale_usd": 43016.019996,
+    "whale_pct": 11.106,
     "whale_value_at_open": 387307.0597,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -107440,8 +107440,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788736534.120086,
-    "fills": 2
+    "last_fill_at": 1788736686.6424918,
+    "fills": 5
   },
   {
     "timestamp": 1788735473,
@@ -107585,6 +107585,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788736252.0628543,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788736612,
+    "timestamp_added": 1788736613.3413997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-pegula-cirstea-2026-09-06",
+    "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 6462.74,
+    "whale_pct": 4.874,
+    "whale_value_at_open": 132604.0255,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788736655.1839676,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788736640,
+    "timestamp_added": 1788736640.910868,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shelton-tsitsip-2026-09-06",
+    "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "whale_usd": 9705.489997,
+    "whale_pct": 7.319,
+    "whale_value_at_open": 132604.0255,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788736640.9108787,
     "fills": 1
   }
 ]

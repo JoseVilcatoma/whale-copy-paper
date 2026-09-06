@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.92487277422566,
+  "bankroll": 372.5974322147851,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21495,6 +21495,31 @@
       "timestamp": 1788736005.854091,
       "bankroll": 369.92,
       "event": "won: Flaznorp \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1788736622.0522444,
+      "bankroll": 364.83,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1788736622.5196736,
+      "bankroll": 359.73,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1788736625.1309533,
+      "bankroll": 365.02,
+      "event": "won:  \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1788736625.3313432,
+      "bankroll": 371.24,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1788736626.9202254,
+      "bankroll": 372.6,
+      "event": "won: Flaznorp \u2014 US Open ATP: Daniil Medvedev vs Frances Tiafoe"
     }
   ]
 }
