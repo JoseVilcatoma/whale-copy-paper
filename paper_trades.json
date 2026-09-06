@@ -104958,5 +104958,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788717376.6274772,
     "fills": 1
+  },
+  {
+    "timestamp": 1788717741,
+    "timestamp_added": 1788717742.6107965,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-nyy-sd-2026-09-06",
+    "title": "New York Yankees vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 898.7882999999999,
+    "whale_pct": 2.306,
+    "whale_value_at_open": 38976.7535,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788717742.610809,
+    "fills": 1
   }
 ]
