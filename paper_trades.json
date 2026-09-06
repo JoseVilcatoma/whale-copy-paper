@@ -106068,5 +106068,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788725261.6236918,
     "fills": 3
+  },
+  {
+    "timestamp": 1788725432,
+    "timestamp_added": 1788725432.789909,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "cfb-washst-wash-2026-09-06-total-50pt5",
+    "title": "O/U 50.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 519.999999,
+    "whale_pct": 0.77,
+    "whale_value_at_open": 67568.4074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788725432.7899218,
+    "fills": 1
   }
 ]

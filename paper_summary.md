@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:10:19 (hora de Perú)
+Actualizado: 2026-09-06 15:12:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $357.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 15:10:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $12.24)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $7.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -97,7 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 12 | 7 | 14 | -4.95 USD |
+| 1winstreak1 | 12 | 7 | 15 | -4.95 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -823,11 +823,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-sd-2026-09-06 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-stl-col-2026-09-06 | 1winstreak1, Feromont, pleaseplease123 |
+| cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | O/U 50.5 | Under (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 48% | 5.00 | 39.7% | ⏳ pendiente | — |
 |  | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 50% | 5.00 | 29.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-6.5) | Miami Marlins (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -857,4 +859,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 76% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UD Almería vs. Cádiz CF: O/U 3.5 | Under (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
-| pleaseplease123 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
