@@ -103153,8 +103153,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 11825.919124000002,
-    "whale_pct": 7.832,
+    "whale_usd": 13965.450224000004,
+    "whale_pct": 9.249,
     "whale_value_at_open": 150990.7292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -103165,8 +103165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788690280.041866,
-    "fills": 18
+    "last_fill_at": 1788690878.1233673,
+    "fills": 21
   },
   {
     "timestamp": 1788687037,
