@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 03:38:17 (hora de Perú)
+Actualizado: 2026-09-06 03:40:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 03:38:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $229.79)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $219.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| Jsram | 2 | 0 | 0 | +3.77 USD |
+| Jsram | 2 | 0 | 1 | +3.77 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -114,7 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | Talvez10 | 9 | 9 | 0 | -11.28 USD |
-| sbsigner | 2 | 4 | 0 | -12.87 USD |
+| sbsigner | 2 | 4 | 1 | -12.87 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 16 | 17 | 0 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -810,6 +810,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Manchester United FC win on 2026-09 | No (BUY) | 54% | 5.00 | 13.2% | ⏳ pendiente | — |
+| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -838,5 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 180.4% | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ❌ perdida | -5.08 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 142.7% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |
