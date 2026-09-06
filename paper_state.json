@@ -1,5 +1,5 @@
 {
-  "bankroll": 348.1193283472959,
+  "bankroll": 352.43629061144685,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20950,6 +20950,11 @@
       "timestamp": 1788713583.7870255,
       "bankroll": 348.12,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov"
+    },
+    {
+      "timestamp": 1788716677.4934893,
+      "bankroll": 352.44,
+      "event": "won: pleaseplease123 \u2014 Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5"
     }
   ]
 }
