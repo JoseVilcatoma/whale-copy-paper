@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:34:26 (hora de Perú)
+Actualizado: 2026-09-06 14:36:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $353.90
@@ -827,7 +827,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 8.7% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 34.3% | ⏳ pendiente | — |

@@ -105747,8 +105747,8 @@
     "title": "O/U 50.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 626.1244,
-    "whale_pct": 0.259,
+    "whale_usd": 3254.0106960000003,
+    "whale_pct": 1.346,
     "whale_value_at_open": 241715.9286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -105759,7 +105759,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788723253.6145873,
-    "fills": 1
+    "last_fill_at": 1788723273.2321315,
+    "fills": 2
   }
 ]
