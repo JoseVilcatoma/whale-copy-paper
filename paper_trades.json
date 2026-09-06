@@ -103143,5 +103143,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788686342.9923859,
     "fills": 1
+  },
+  {
+    "timestamp": 1788686415,
+    "timestamp_added": 1788686415.9149044,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-dk-2026-09-06",
+    "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1267.2,
+    "whale_pct": 0.839,
+    "whale_value_at_open": 150990.7292,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788686415.9149182,
+    "fills": 1
   }
 ]
