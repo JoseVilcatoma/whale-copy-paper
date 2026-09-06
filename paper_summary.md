@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 09:29:27 (hora de Perú)
+Actualizado: 2026-09-06 09:31:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $352.01
-**Retorno acumulado:** -29.60%
+**Bankroll actual:** $346.90
+**Retorno acumulado:** -30.62%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 09:29:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $102.01)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $101.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 549 | 343 | 20 | -207.81 USD |
+| ferrariChampions2026 | 549 | 344 | 19 | -212.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3974
+- **Apuestas resueltas:** 3975
 - **Aciertos:** 2512 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,845.24
-- **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $367.24 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,850.24
+- **ROI sobre lo apostado:** -1.40%
+- **Comisiones pagadas (taker fee):** $367.35 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2027 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2028 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1187 | 69.3% | 67.8% | +1.6 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -834,7 +834,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Frosinone Calcio vs. Venezia FC: O/U 3.5 | Over (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Henan FC vs. Chengdu Rongcheng FC: O/U 2 | Under (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |

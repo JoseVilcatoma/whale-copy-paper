@@ -1,5 +1,5 @@
 {
-  "bankroll": 352.0114191627447,
+  "bankroll": 346.9014191627447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20840,6 +20840,11 @@
       "timestamp": 1788704957.3270462,
       "bankroll": 352.01,
       "event": "won: ferrariChampions2026 \u2014 KBO: Doosan Bears vs. SSG Landers"
+    },
+    {
+      "timestamp": 1788705018.4568336,
+      "bankroll": 346.9,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Lorenzo Rottoli vs Lorenzo Angelini"
     }
   ]
 }
