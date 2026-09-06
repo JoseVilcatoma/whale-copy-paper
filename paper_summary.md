@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:12:36 (hora de Perú)
+Actualizado: 2026-09-06 10:14:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $345.62
@@ -819,7 +819,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | pleaseplease123 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 44% | 5.00 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
-| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 19.0% | ⏳ pendiente | — |
+| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 197.8% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 97.9% | ⏳ pendiente | — |
 | ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ⏳ pendiente | — |
