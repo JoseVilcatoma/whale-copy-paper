@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:38:44 (hora de Perú)
+Actualizado: 2026-09-06 14:40:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:38:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $15.13)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $5.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | AV23IUa | 37 | 27 | 3 | -19.98 USD |
-| wr0ngw4yb3tt0r | 9 | 13 | 24 | -21.58 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 26 | -21.58 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -820,13 +820,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-pit-2026-09-06 | 1winstreak1, Feromont, Talvez10, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-nyy-sd-2026-09-06 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
-| mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard |
+| mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-stl-col-2026-09-06 | 1winstreak1, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 51. | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 8.7% | ⏳ pendiente | — |
@@ -855,5 +857,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | San Francisco Giants vs. New York Mets | San Francisco Giants (BUY) | 41% | 5.00 | 10.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Espanyol de Barcelona vs. Sevilla FC | Under (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 1winstreak1 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 92% | 5.00 | 7.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 2.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
