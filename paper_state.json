@@ -1,5 +1,5 @@
 {
-  "bankroll": 355.498752496078,
+  "bankroll": 350.406752496078,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20830,6 +20830,11 @@
       "timestamp": 1788704095.7268386,
       "bankroll": 355.5,
       "event": "lost: ferrariChampions2026 \u2014 Tulln: Svyatoslav Gulin vs Rudolf Molleker"
+    },
+    {
+      "timestamp": 1788704585.7604392,
+      "bankroll": 350.41,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Federico Iannaccone vs Alexander Weis"
     }
   ]
 }
