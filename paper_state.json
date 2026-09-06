@@ -1,5 +1,5 @@
 {
-  "bankroll": 354.91460363377496,
+  "bankroll": 360.6491688511663,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20720,6 +20720,11 @@
       "timestamp": 1788693168.0859456,
       "bankroll": 354.91,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: JiSung Nam vs Joshua Charlton"
+    },
+    {
+      "timestamp": 1788693478.0558102,
+      "bankroll": 360.65,
+      "event": "won: ferrariChampions2026 \u2014 Kashima Antlers vs. Urawa Red Diamonds: O/U 2.5"
     }
   ]
 }
