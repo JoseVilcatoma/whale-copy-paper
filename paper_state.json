@@ -1,5 +1,5 @@
 {
-  "bankroll": 362.0628917850991,
+  "bankroll": 365.29622511843246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20905,6 +20905,11 @@
       "timestamp": 1788709229.6210117,
       "bankroll": 362.06,
       "event": "won: ferrariChampions2026 \u2014 Henan FC vs. Chengdu Rongcheng FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788709861.0264804,
+      "bankroll": 365.3,
+      "event": "won: zofgkt1111 \u2014 LoL: Ninjas in Pyjamas vs LGD Gaming - Game 4 Winner"
     }
   ]
 }

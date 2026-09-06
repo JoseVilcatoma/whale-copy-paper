@@ -104002,8 +104002,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104466,8 +104466,8 @@
     "title": "Will Arsenal FC win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 16391.589599,
-    "whale_pct": 43.442,
+    "whale_usd": 17236.097799,
+    "whale_pct": 45.681,
     "whale_value_at_open": 37731.7182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -104478,8 +104478,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788709570.5959485,
-    "fills": 14
+    "last_fill_at": 1788709843.3343275,
+    "fills": 15
   },
   {
     "timestamp": 1788709169,
@@ -104490,8 +104490,8 @@
     "title": "Will Arsenal FC vs. Chelsea FC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 9514.679685,
-    "whale_pct": 25.217,
+    "whale_usd": 11810.690284999999,
+    "whale_pct": 31.302,
     "whale_value_at_open": 37731.7182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -104502,8 +104502,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788709678.7441595,
-    "fills": 5
+    "last_fill_at": 1788709805.548221,
+    "fills": 6
   },
   {
     "timestamp": 1788709505,
@@ -104527,6 +104527,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788709505.9014099,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788709800,
+    "timestamp_added": 1788709801.3966413,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-atl-phi-2026-09-06-f5-total-4pt5",
+    "title": "Atlanta Braves vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 960.9975000000001,
+    "whale_pct": 0.766,
+    "whale_value_at_open": 125466.582,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788709801.3966546,
     "fills": 1
   }
 ]
