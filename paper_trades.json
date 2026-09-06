@@ -105067,5 +105067,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788719019.9295032,
     "fills": 1
+  },
+  {
+    "timestamp": 1788719179,
+    "timestamp_added": 1788719179.5288892,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "lal-esp-sev-2026-09-06-total-2pt5",
+    "title": "RCD Espanyol de Barcelona vs. Sevilla FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 811.2216,
+    "whale_pct": 0.428,
+    "whale_value_at_open": 189366.0086,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788719179.5289123,
+    "fills": 1
   }
 ]
