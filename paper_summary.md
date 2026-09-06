@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 22:47:56 (hora de Perú)
+Actualizado: 2026-09-05 22:49:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $342.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 22:47:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $227.61)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $222.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
-| ExplosiveNinja | 14 | 9 | 1 | +2.89 USD |
+| ExplosiveNinja | 14 | 9 | 2 | +2.89 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -804,13 +804,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-lad-2026-09-05-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 | mls-fcc-dcu-2026-09-05-fcc | ferrariChampions2026, us391 |
 | mls-clb-col-2026-09-05-clb | HongYunX, sbsigner |
+| cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 8.2% | ⏳ pendiente | — |
 |  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 243.2% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 263.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-2.5) vs MOUZ (+2.5) | MOUZ (BUY) | 80% | 5.00 | 34.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 169.9% | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -838,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ✅ ganada | +1.78 |
 | HongYunX | Will CA San Lorenzo de Almagro win on 20 | Yes (BUY) | 41% | 5.00 | 93.6% | ✅ ganada | +7.05 |
 | us391 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 39.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
