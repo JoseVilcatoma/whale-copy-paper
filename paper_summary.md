@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 05:19:09 (hora de Perú)
+Actualizado: 2026-09-06 05:21:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $364.29
@@ -813,7 +813,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Shanghai: Aoran Wang vs Yaojie Zeng | Yaojie Zeng (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien (BUY) | 62% | 5.00 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien (BUY) | 62% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ⏳ pendiente | — |

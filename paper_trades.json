@@ -103345,8 +103345,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Hugo Dellien",
     "side": "BUY",
-    "whale_usd": 8823.3369,
-    "whale_pct": 5.047,
+    "whale_usd": 9375.3369,
+    "whale_pct": 5.363,
     "whale_value_at_open": 174823.0679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -103357,8 +103357,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788689573.0041003,
-    "fills": 3
+    "last_fill_at": 1788690047.8805099,
+    "fills": 4
   },
   {
     "timestamp": 1788689597,
