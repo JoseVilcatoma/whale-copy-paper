@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 13:29:57 (hora de Perú)
+Actualizado: 2026-09-06 13:32:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $347.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 13:29:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $77.52)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $72.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 9 | 9 | 5 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 14 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 15 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -817,11 +817,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-chc-mia-2026-09-06 | 1winstreak1, Talvez10, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Texas Rangers (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 1winstreak1 | San Francisco Giants vs. New York Mets | San Francisco Giants (BUY) | 41% | 5.00 | 10.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Espanyol de Barcelona vs. Sevilla FC | Under (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -851,4 +853,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 45.7% | ❌ perdida | -5.09 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
-| pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |

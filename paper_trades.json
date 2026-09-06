@@ -105141,5 +105141,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788719392.4142063,
     "fills": 1
+  },
+  {
+    "timestamp": 1788719404,
+    "timestamp_added": 1788719404.6750803,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tb-tex-2026-09-06-total-7pt5",
+    "title": "Tampa Bay Rays vs. Texas Rangers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2450.0,
+    "whale_pct": 1.283,
+    "whale_value_at_open": 190962.2916,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788719404.6750913,
+    "fills": 1
   }
 ]
