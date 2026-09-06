@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:26:03 (hora de Perú)
+Actualizado: 2026-09-06 14:28:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $351.41
-**Retorno acumulado:** -29.72%
+**Bankroll actual:** $353.90
+**Retorno acumulado:** -29.22%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:26:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $16.41)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $23.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,9 +104,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| 1winstreak1 | 11 | 7 | 10 | -5.36 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 11 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4010
-- **Aciertos:** 2533 (63.2%)
+- **Apuestas resueltas:** 4011
+- **Aciertos:** 2534 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,025.24
-- **ROI sobre lo apostado:** -1.36%
-- **Comisiones pagadas (taker fee):** $371.04 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,030.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $371.13 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2050 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1198 | 69.3% | 67.8% | +1.5 pp |
+| 60-79% | 1199 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 532 | 85.5% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
@@ -830,7 +830,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -841,7 +841,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UD Almería vs. Cádiz CF: O/U 3.5 | Under (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 8.5 | Over (BUY) | 66% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 8.5 | Over (BUY) | 66% | 5.00 | 3.6% | ✅ ganada | +2.49 |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 23.4% | ⏳ pendiente | — |
