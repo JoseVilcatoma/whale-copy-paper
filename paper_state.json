@@ -1,5 +1,5 @@
 {
-  "bankroll": 394.8317192367663,
+  "bankroll": 391.5800343052594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20420,6 +20420,16 @@
       "timestamp": 1788653934.89505,
       "bankroll": 394.83,
       "event": "won: HongYunX \u2014 Will CA San Lorenzo de Almagro win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788654251.0568097,
+      "bankroll": 396.61,
+      "event": "won: HongYunX \u2014 Will CA Talleres win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788654253.4605637,
+      "bankroll": 391.58,
+      "event": "lost:  \u2014 Bergs vs. Zandschulp: Match O/U 36.5"
     }
   ]
 }

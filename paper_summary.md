@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 19:23:11 (hora de Perú)
+Actualizado: 2026-09-05 19:25:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $394.83
-**Retorno acumulado:** -21.03%
+**Bankroll actual:** $391.58
+**Retorno acumulado:** -21.68%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 19:23:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $159.83)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $166.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| HongYunX | 11 | 4 | 4 | +33.43 USD |
+| HongYunX | 12 | 4 | 3 | +35.21 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -40,7 +40,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
-|  | 2 | 0 | 1 | +9.02 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | zofgkt1111 | 10 | 8 | 0 | +8.68 USD |
@@ -55,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Talvez10 | 9 | 6 | 2 | +4.04 USD |
+|  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Jsram | 2 | 0 | 0 | +3.77 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -132,14 +132,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3890
-- **Aciertos:** 2464 (63.3%)
+- **Apuestas resueltas:** 3892
+- **Aciertos:** 2465 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,425.24
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $359.29 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,435.24
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $359.39 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1979 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1163 | 69.5% | 67.8% | +1.7 pp |
-| 80-94% | 521 | 85.4% | 86.6% | -1.2 pp |
+| 60-79% | 1164 | 69.5% | 67.8% | +1.7 pp |
+| 80-94% | 522 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -822,7 +822,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
 | HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ⏳ pendiente | — |
-|  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ⏳ pendiente | — |
+|  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ❌ perdida | -5.03 |
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -830,7 +830,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Wyoming vs. Colorado State | Colorado State (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky (BUY) | 51% | 5.00 | 7.6% | ⏳ pendiente | — |
-| HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ⏳ pendiente | — |
+| HongYunX | Will CA Talleres win on 2026-09-05? | No (BUY) | 73% | 5.00 | 248.4% | ✅ ganada | +1.78 |
 | HongYunX | Will CA San Lorenzo de Almagro win on 20 | Yes (BUY) | 41% | 5.00 | 93.6% | ✅ ganada | +7.05 |
 | us391 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 39.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-09-05? | No (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
