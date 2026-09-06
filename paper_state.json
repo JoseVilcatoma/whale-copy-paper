@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.2440343052594,
+  "bankroll": 375.60641892064405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20445,6 +20445,16 @@
       "timestamp": 1788656125.229068,
       "bankroll": 376.24,
       "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Cleveland Guardians: O/U 6.5"
+    },
+    {
+      "timestamp": 1788657686.710205,
+      "bankroll": 380.74,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Michael Zheng vs Arthur Gea"
+    },
+    {
+      "timestamp": 1788657686.810356,
+      "bankroll": 375.61,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Michael Zheng vs Arthur Gea"
     }
   ]
 }
