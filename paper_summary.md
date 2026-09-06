@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 05:06:48 (hora de Perú)
+Actualizado: 2026-09-06 05:08:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $366.81
-**Retorno acumulado:** -26.64%
+**Bankroll actual:** $361.72
+**Retorno acumulado:** -27.66%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 05:06:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $156.81)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $146.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Jsram | 2 | 0 | 1 | +3.77 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
-| zofgkt1111 | 10 | 9 | 4 | +3.53 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -86,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| zofgkt1111 | 10 | 10 | 3 | -1.57 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 529 | 335 | 23 | -207.26 USD |
+| ferrariChampions2026 | 529 | 335 | 25 | -207.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3940
+- **Apuestas resueltas:** 3941
 - **Aciertos:** 2490 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,675.24
-- **ROI sobre lo apostado:** -1.31%
-- **Comisiones pagadas (taker fee):** $364.46 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,680.24
+- **ROI sobre lo apostado:** -1.34%
+- **Comisiones pagadas (taker fee):** $364.56 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.52% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2016 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1171 | 69.4% | 67.8% | +1.7 pp |
+| 60-79% | 1172 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 525 | 85.3% | 86.7% | -1.3 pp |
 | 95-99% (casi seguro) | 228 | 96.5% | 97.3% | -0.9 pp |
 
@@ -812,6 +812,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -839,6 +841,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 3 | Team WE (BUY) | 47% | 5.00 | 92.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Linda Nosk | Linda Noskova (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Maxim Zhukov (BUY) | 60% | 5.00 | 10.2% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 30.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: S D Prajwal Dev vs Benjami | S D Prajwal Dev (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Takuya Kumasaka vs Martin  | Martin Borisiouk (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 30.1% | ❌ perdida | -5.10 |

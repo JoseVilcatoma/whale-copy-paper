@@ -1,5 +1,5 @@
 {
-  "bankroll": 366.81369933745555,
+  "bankroll": 361.71569933745553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20670,6 +20670,11 @@
       "timestamp": 1788689014.7747276,
       "bankroll": 366.81,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Matthias Ujvary vs Olle Wallin"
+    },
+    {
+      "timestamp": 1788689261.8358562,
+      "bankroll": 361.72,
+      "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 2 Winner"
     }
   ]
 }
