@@ -102741,8 +102741,8 @@
     "title": "LoL: T1 vs Dplus KIA - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 11793.3072,
-    "whale_pct": 44.774,
+    "whale_usd": 12303.3072,
+    "whale_pct": 46.71,
     "whale_value_at_open": 26339.7631,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -102753,8 +102753,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788682319.2498553,
-    "fills": 3
+    "last_fill_at": 1788684353.70694,
+    "fills": 4
   },
   {
     "timestamp": 1788682532,
