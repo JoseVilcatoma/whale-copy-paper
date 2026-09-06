@@ -103345,8 +103345,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Hugo Dellien",
     "side": "BUY",
-    "whale_usd": 38925.52647800001,
-    "whale_pct": 22.266,
+    "whale_usd": 44368.052342,
+    "whale_pct": 25.379,
     "whale_value_at_open": 174823.0679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -103357,8 +103357,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788692869.6672084,
-    "fills": 7
+    "last_fill_at": 1788695260.0957057,
+    "fills": 9
   },
   {
     "timestamp": 1788689597,
@@ -103537,8 +103537,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 13459.512583999998,
-    "whale_pct": 7.0,
+    "whale_usd": 14444.974983999999,
+    "whale_pct": 7.512,
     "whale_value_at_open": 192285.3377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -103549,8 +103549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788695045.9550223,
-    "fills": 6
+    "last_fill_at": 1788695247.0198848,
+    "fills": 7
   },
   {
     "timestamp": 1788693314,
