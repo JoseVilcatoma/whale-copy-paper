@@ -1,5 +1,5 @@
 {
-  "bankroll": 375.60641892064405,
+  "bankroll": 378.9779951918305,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20455,6 +20455,11 @@
       "timestamp": 1788657686.810356,
       "bankroll": 375.61,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Michael Zheng vs Arthur Gea"
+    },
+    {
+      "timestamp": 1788659119.7230923,
+      "bankroll": 378.98,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Pittsburgh Pirates (-1.5)"
     }
   ]
 }
