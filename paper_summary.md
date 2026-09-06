@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 07:00:47 (hora de Perú)
+Actualizado: 2026-09-06 07:02:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $370.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 07:00:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $150.55)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $140.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 542 | 337 | 26 | -194.38 USD |
+| ferrariChampions2026 | 542 | 337 | 28 | -194.38 USD |
 
 ## Análisis general
 
@@ -813,6 +813,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Frosinone Calcio vs. Venezia FC: O/U 3.5 | Over (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Henan FC vs. Chengdu Rongcheng FC: O/U 2 | Under (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 42% | 5.00 | 17.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Svyatoslav Gulin vs Rudolf Mollek | Rudolf Molleker (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -841,5 +843,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 48.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Yanaki  | Georgii Kravchenko (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | T1 (BUY) | 65% | 5.00 | 12.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Manchester United FC win on 2026-09 | No (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 1.2% | ✅ ganada | +0.91 |
