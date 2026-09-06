@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.51713810600023,
+  "bankroll": 354.05800135386346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20985,6 +20985,31 @@
       "timestamp": 1788718521.4074125,
       "bankroll": 347.52,
       "event": "won: ferrariChampions2026 \u2014 Bologna FC 1909 vs. US Sassuolo Calcio: O/U 2.5"
+    },
+    {
+      "timestamp": 1788720066.1640513,
+      "bankroll": 342.41,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: TS (-1.5) vs MOUZ (+1.5)"
+    },
+    {
+      "timestamp": 1788720066.4718676,
+      "bankroll": 343.61,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: TS (-2.5) vs MOUZ (+2.5)"
+    },
+    {
+      "timestamp": 1788720066.7947896,
+      "bankroll": 346.21,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs"
+    },
+    {
+      "timestamp": 1788720066.8949482,
+      "bankroll": 352.18,
+      "event": "won: ExplosiveNinja \u2014 Map Handicap: TS (-1.5) vs MOUZ (+1.5)"
+    },
+    {
+      "timestamp": 1788720067.8117719,
+      "bankroll": 354.06,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 3.5"
     }
   ]
 }
