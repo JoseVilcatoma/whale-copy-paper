@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.9458685325839,
+  "bankroll": 368.2224448037703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20800,6 +20800,16 @@
       "timestamp": 1788698708.5162783,
       "bankroll": 369.95,
       "event": "won: ferrariChampions2026 \u2014 Seville: Saba Purtseladze vs Izan Almazan Valiente"
+    },
+    {
+      "timestamp": 1788699078.203572,
+      "bankroll": 364.85,
+      "event": "lost: ferrariChampions2026 \u2014 Porto: Facundo Mena vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1788699079.0899255,
+      "bankroll": 368.22,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Facundo Mena vs Hugo Dellien"
     }
   ]
 }
