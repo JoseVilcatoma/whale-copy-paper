@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:09:01 (hora de Perú)
+Actualizado: 2026-09-06 04:11:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $371.39
@@ -813,14 +813,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Arjun Kadhe vs Tsung-Hao Huang | Tsung-Hao Huang (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
 | sbsigner | Will Manchester United FC win on 2026-09 | No (BUY) | 54% | 5.00 | 13.2% | ⏳ pendiente | — |
 | Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | Dplus KIA (BUY) | 51% | 5.00 | 19.6% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 46.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |

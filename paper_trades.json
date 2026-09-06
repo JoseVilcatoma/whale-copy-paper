@@ -102789,8 +102789,8 @@
     "title": "Game Handicap: T1 (-1.5) vs Dplus KIA (+1.5)",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 2091.285,
-    "whale_pct": 1.793,
+    "whale_usd": 5032.8236,
+    "whale_pct": 4.316,
     "whale_value_at_open": 116616.5556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -102801,8 +102801,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788682736.2053366,
-    "fills": 1
+    "last_fill_at": 1788685855.4359362,
+    "fills": 2
   },
   {
     "timestamp": 1788682805,
@@ -102957,8 +102957,8 @@
     "title": "Tulln: Mika Brunold vs Kai Wehnelt",
     "outcome": "Mika Brunold",
     "side": "BUY",
-    "whale_usd": 2845.2362119999993,
-    "whale_pct": 1.89,
+    "whale_usd": 4233.556111999999,
+    "whale_pct": 2.812,
     "whale_value_at_open": 150538.7577,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -102969,8 +102969,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788684962.4403229,
-    "fills": 1
+    "last_fill_at": 1788685814.2621148,
+    "fills": 2
   },
   {
     "timestamp": 1788685122,
