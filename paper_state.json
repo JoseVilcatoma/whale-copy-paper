@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.4370487093556,
+  "bankroll": 368.48455375986066,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20690,6 +20690,11 @@
       "timestamp": 1788690253.3611085,
       "bankroll": 368.44,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Takuya Kumasaka vs Martin Borisiouk"
+    },
+    {
+      "timestamp": 1788690383.0259743,
+      "bankroll": 368.48,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Benjamin Hassan vs Marsel Ilhan"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 05:25:27 (hora de Perú)
+Actualizado: 2026-09-06 05:27:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $368.44
-**Retorno acumulado:** -26.31%
+**Bankroll actual:** $368.48
+**Retorno acumulado:** -26.30%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 05:25:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $158.44)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $163.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,15 +128,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 532 | 335 | 24 | -200.55 USD |
+| ferrariChampions2026 | 533 | 335 | 23 | -200.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3944
-- **Aciertos:** 2493 (63.2%)
+- **Apuestas resueltas:** 3945
+- **Aciertos:** 2494 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,695.24
+- **Total apostado (suma de stakes):** $19,700.24
 - **ROI sobre lo apostado:** -1.30%
 - **Comisiones pagadas (taker fee):** $364.77 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2017 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1173 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 526 | 85.4% | 86.7% | -1.3 pp |
-| 95-99% (casi seguro) | 228 | 96.5% | 97.3% | -0.9 pp |
+| 95-99% (casi seguro) | 229 | 96.5% | 97.4% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -817,14 +817,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | sbsigner | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 48.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Yanaki  | Georgii Kravchenko (BUY) | 86% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | T1 (BUY) | 65% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester United FC win on 2026-09 | No (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -837,7 +837,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 11.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | Dplus KIA (BUY) | 51% | 5.00 | 19.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | Dplus KIA (BUY) | 51% | 5.00 | 21.6% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 46.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 3 | Team WE (BUY) | 47% | 5.00 | 92.8% | ⏳ pendiente | — |

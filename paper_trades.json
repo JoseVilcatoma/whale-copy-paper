@@ -102765,8 +102765,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 20431.889400000007,
-    "whale_pct": 19.644,
+    "whale_usd": 22471.16260000001,
+    "whale_pct": 21.604,
     "whale_value_at_open": 104013.4139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -102777,8 +102777,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788682909.1600752,
-    "fills": 27
+    "last_fill_at": 1788690431.4187782,
+    "fills": 30
   },
   {
     "timestamp": 1788682735,
@@ -103086,8 +103086,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -103103,8 +103103,8 @@
     "title": "Cassis: Manas Dhamne vs William Rejchtman Vinciguerra",
     "outcome": "Manas Dhamne",
     "side": "BUY",
-    "whale_usd": 1087.4019999999998,
-    "whale_pct": 0.743,
+    "whale_usd": 1822.4019999999998,
+    "whale_pct": 1.245,
     "whale_value_at_open": 146324.4165,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -103115,8 +103115,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788686204.1889448,
-    "fills": 1
+    "last_fill_at": 1788690399.7888062,
+    "fills": 2
   },
   {
     "timestamp": 1788686342,
@@ -103249,8 +103249,8 @@
     "title": "Shanghai: JiSung Nam vs Joshua Charlton",
     "outcome": "JiSung Nam",
     "side": "BUY",
-    "whale_usd": 1215.3807000000002,
-    "whale_pct": 0.691,
+    "whale_usd": 9406.729739999999,
+    "whale_pct": 5.35,
     "whale_value_at_open": 175817.769,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -103261,8 +103261,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788689138.642494,
-    "fills": 1
+    "last_fill_at": 1788690401.5424023,
+    "fills": 3
   },
   {
     "timestamp": 1788689198,
