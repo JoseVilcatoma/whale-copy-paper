@@ -99293,8 +99293,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101025,8 +101025,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "Talvez10"
     ],
@@ -102232,8 +102232,8 @@
     "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 10482.500300000002,
-    "whale_pct": 82.069,
+    "whale_usd": 14129.797100000002,
+    "whale_pct": 110.625,
     "whale_value_at_open": 12772.7261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -102244,8 +102244,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788662362.1734705,
-    "fills": 3
+    "last_fill_at": 1788662656.9437442,
+    "fills": 4
   },
   {
     "timestamp": 1788661760,
@@ -102256,8 +102256,8 @@
     "title": "Map Handicap: TS (-2.5) vs MOUZ (+2.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 2570.0298,
-    "whale_pct": 11.186,
+    "whale_usd": 5616.0031,
+    "whale_pct": 24.443,
     "whale_value_at_open": 22975.562,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -102268,7 +102268,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788661760.7703743,
-    "fills": 1
+    "last_fill_at": 1788662659.958878,
+    "fills": 2
   }
 ]
