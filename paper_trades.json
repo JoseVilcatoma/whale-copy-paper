@@ -102645,8 +102645,8 @@
     "title": "Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov",
     "outcome": "Maxim Zhukov",
     "side": "BUY",
-    "whale_usd": 5786.309043,
-    "whale_pct": 7.199,
+    "whale_usd": 8168.343443,
+    "whale_pct": 10.162,
     "whale_value_at_open": 80379.7163,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -102657,8 +102657,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788678967.6522334,
-    "fills": 3
+    "last_fill_at": 1788681104.2967272,
+    "fills": 4
   },
   {
     "timestamp": 1788679675,
