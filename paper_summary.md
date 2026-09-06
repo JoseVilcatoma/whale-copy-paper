@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:37:07 (hora de Perú)
+Actualizado: 2026-09-06 10:39:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $353.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 10:37:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $128.19)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $123.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -109,7 +109,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 10 | 7 | 0 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| sbsigner | 3 | 4 | 1 | -8.73 USD |
+| sbsigner | 3 | 4 | 2 | -8.73 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -817,6 +817,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 8.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -846,4 +847,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 64% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 42% | 5.00 | 17.5% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Tulln: Svyatoslav Gulin vs Rudolf Mollek | Rudolf Molleker (BUY) | 53% | 5.00 | 0.8% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Seville: Saba Purtseladze vs Izan Almaza | Izan Almazan Valiente (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
