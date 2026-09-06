@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 05:02:39 (hora de Perú)
+Actualizado: 2026-09-06 05:04:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $366.72
-**Retorno acumulado:** -26.66%
+**Bankroll actual:** $366.81
+**Retorno acumulado:** -26.64%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 05:02:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $161.72)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $166.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,15 +128,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 528 | 335 | 23 | -207.36 USD |
+| ferrariChampions2026 | 529 | 335 | 22 | -207.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3939
-- **Aciertos:** 2489 (63.2%)
+- **Apuestas resueltas:** 3940
+- **Aciertos:** 2490 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,670.24
+- **Total apostado (suma de stakes):** $19,675.24
 - **ROI sobre lo apostado:** -1.31%
 - **Comisiones pagadas (taker fee):** $364.46 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2016 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1171 | 69.4% | 67.8% | +1.7 pp |
 | 80-94% | 525 | 85.3% | 86.7% | -1.3 pp |
-| 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
+| 95-99% (casi seguro) | 228 | 96.5% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -820,7 +820,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |

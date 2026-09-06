@@ -1,5 +1,5 @@
 {
-  "bankroll": 366.71665852112903,
+  "bankroll": 366.81369933745555,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20665,6 +20665,11 @@
       "timestamp": 1788687037.5070746,
       "bankroll": 366.72,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Arjun Kadhe vs Tsung-Hao Huang"
+    },
+    {
+      "timestamp": 1788689014.7747276,
+      "bankroll": 366.81,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Matthias Ujvary vs Olle Wallin"
     }
   ]
 }
