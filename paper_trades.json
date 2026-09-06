@@ -107021,5 +107021,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788731374.531644,
     "fills": 2
+  },
+  {
+    "timestamp": 1788731492,
+    "timestamp_added": 1788731492.5839555,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-nyy-sd-2026-09-06-spread-home-3pt5",
+    "title": "Spread: San Diego Padres (-3.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 620.049999,
+    "whale_pct": 0.149,
+    "whale_value_at_open": 415728.1845,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788731492.5839653,
+    "fills": 1
   }
 ]
