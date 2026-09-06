@@ -1,5 +1,5 @@
 {
-  "bankroll": 353.90451650537864,
+  "bankroll": 360.128152869015,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21025,6 +21025,11 @@
       "timestamp": 1788722885.3967543,
       "bankroll": 353.9,
       "event": "won: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins: O/U 8.5"
+    },
+    {
+      "timestamp": 1788723512.6042318,
+      "bankroll": 360.13,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: SPARTA vs ex-Zero Tenacity (BO3) - CCT Europe Series #8 Group Stage"
     }
   ]
 }

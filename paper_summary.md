@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:36:33 (hora de Perú)
+Actualizado: 2026-09-06 14:38:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $353.90
-**Retorno acumulado:** -29.22%
+**Bankroll actual:** $360.13
+**Retorno acumulado:** -27.97%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:36:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $3.90)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $15.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 61 | 36 | 5 | +25.04 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 2 | +23.17 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 10 | 5 | 0 | +19.01 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 60 | 36 | 6 | +18.82 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4011
-- **Aciertos:** 2534 (63.2%)
-- **Cuota promedio de entrada:** 63.0%
+- **Apuestas resueltas:** 4012
+- **Aciertos:** 2535 (63.2%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,030.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $371.13 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,035.24
+- **ROI sobre lo apostado:** -1.32%
+- **Comisiones pagadas (taker fee):** $371.27 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2050 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2051 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 1199 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 532 | 85.5% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -831,13 +831,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 8.7% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 34.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 3.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 5.5% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 75% | 5.00 | 24.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |

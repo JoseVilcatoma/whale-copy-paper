@@ -104377,8 +104377,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -105487,8 +105487,8 @@
     "title": "Los Angeles Angels vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 6696.0,
-    "whale_pct": 3.225,
+    "whale_usd": 11333.9958,
+    "whale_pct": 5.46,
     "whale_value_at_open": 207596.7754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -105503,8 +105503,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722320.472706,
-    "fills": 2
+    "last_fill_at": 1788723476.5584836,
+    "fills": 4
   },
   {
     "timestamp": 1788722013,
@@ -105544,8 +105544,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 4372.119876,
-    "whale_pct": 2.058,
+    "whale_usd": 4879.812183,
+    "whale_pct": 2.297,
     "whale_value_at_open": 212421.3001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -105558,8 +105558,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788723102.819246,
-    "fills": 2
+    "last_fill_at": 1788723431.9629903,
+    "fills": 3
   },
   {
     "timestamp": 1788722367,
@@ -105649,8 +105649,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 8555.610525,
-    "whale_pct": 3.711,
+    "whale_usd": 9471.757525,
+    "whale_pct": 4.109,
     "whale_value_at_open": 230526.4158,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -105663,8 +105663,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722681.8168552,
-    "fills": 1
+    "last_fill_at": 1788723521.6485736,
+    "fills": 2
   },
   {
     "timestamp": 1788722897,
