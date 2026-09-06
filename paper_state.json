@@ -1,5 +1,5 @@
 {
-  "bankroll": 354.0409572781135,
+  "bankroll": 347.9602165373728,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20960,6 +20960,21 @@
       "timestamp": 1788716919.919202,
       "bankroll": 354.04,
       "event": "won: sbsigner \u2014 Will Arsenal FC vs. Chelsea FC end in a draw?"
+    },
+    {
+      "timestamp": 1788716982.5294137,
+      "bankroll": 358.19,
+      "event": "won: Jsram \u2014 Arsenal FC vs. Chelsea FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788716982.629615,
+      "bankroll": 353.06,
+      "event": "lost: ferrariChampions2026 \u2014 Arsenal FC vs. Chelsea FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788716986.40916,
+      "bankroll": 347.96,
+      "event": "lost: sbsigner \u2014 Will Arsenal FC win on 2026-09-06?"
     }
   ]
 }
