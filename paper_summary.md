@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:13:37 (hora de Perú)
+Actualizado: 2026-09-06 01:15:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 01:13:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $284.77)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $274.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 57 | 33 | 6 | +27.27 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 57 | 33 | 8 | +27.27 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | HongYunX | 12 | 6 | 1 | +25.00 USD |
@@ -810,10 +810,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 3.5 | Over (BUY) | 72% | 5.00 | 2.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs ALKA (BO3) -  | Galorys (BUY) | 79% | 5.00 | 4.7% | ⏳ pendiente | — |
 | 1winstreak1 | UCLA vs. California | UCLA (BUY) | 94% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. CA Osasuna: O/U 1.5 | Over (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 3.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |
 |  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ✅ ganada | +7.05 |
@@ -838,5 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 48% | 5.00 | 2.7% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ✅ ganada | +5.73 |
