@@ -102198,5 +102198,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788655450.3231528,
     "fills": 3
+  },
+  {
+    "timestamp": 1788658692,
+    "timestamp_added": 1788658693.4216328,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-oak-sea-2026-09-05",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 3187.5000000000005,
+    "whale_pct": 2.015,
+    "whale_value_at_open": 158165.1522,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788658693.4216437,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 20:36:09 (hora de Perú)
+Actualizado: 2026-09-05 20:38:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $375.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 20:36:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $175.61)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $170.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| Talvez10 | 9 | 6 | 2 | +4.04 USD |
+| Talvez10 | 9 | 6 | 3 | +4.04 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Jsram | 2 | 0 | 0 | +3.77 USD |
@@ -809,6 +809,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 142.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -838,4 +839,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 58% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Set 1 Winner: Zheng vs Gea | Gea (BUY) | 60% | 5.00 | 0.2% | ✅ ganada | +3.23 |
 | Talvez10 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 50% | 5.00 | 31.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Baylor vs. Auburn | Auburn (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
