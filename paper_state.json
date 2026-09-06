@@ -1,5 +1,5 @@
 {
-  "bankroll": 354.05800135386346,
+  "bankroll": 348.92300135386347,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21010,6 +21010,11 @@
       "timestamp": 1788720067.8117719,
       "bankroll": 354.06,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 3.5"
+    },
+    {
+      "timestamp": 1788720624.9182768,
+      "bankroll": 348.92,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5"
     }
   ]
 }

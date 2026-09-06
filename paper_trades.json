@@ -104545,8 +104545,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -105345,5 +105345,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788720479.9882288,
     "fills": 4
+  },
+  {
+    "timestamp": 1788720582,
+    "timestamp_added": 1788720583.2741497,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tb-tex-2026-09-06",
+    "title": "Tampa Bay Rays vs. Texas Rangers",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 615.45,
+    "whale_pct": 2.086,
+    "whale_value_at_open": 29498.1269,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788720583.2741618,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788720637,
+    "timestamp_added": 1788720638.100641,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-laa-pit-2026-09-06",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 551.4000000000001,
+    "whale_pct": 1.869,
+    "whale_value_at_open": 29498.1269,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788720638.1006536,
+    "fills": 1
   }
 ]

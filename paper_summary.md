@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 13:48:34 (hora de Perú)
+Actualizado: 2026-09-06 13:50:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $354.06
-**Retorno acumulado:** -29.19%
+**Bankroll actual:** $348.92
+**Retorno acumulado:** -30.22%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 13:48:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $69.06)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $58.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 6 | -7.85 USD |
+| 1winstreak1 | 10 | 7 | 8 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -118,12 +118,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 9 | 9 | 5 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 17 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | AV23IUa | 37 | 27 | 3 | -19.98 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 16 | -21.58 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4008
+- **Apuestas resueltas:** 4009
 - **Aciertos:** 2532 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,015.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $370.82 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,020.24
+- **ROI sobre lo apostado:** -1.38%
+- **Comisiones pagadas (taker fee):** $370.96 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2049 | 50.1% | 50.1% | -0.1 pp |
+| 40-59% | 2050 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1197 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 532 | 85.5% | 86.7% | -1.1 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -817,12 +817,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-chc-mia-2026-09-06 | 1winstreak1, Talvez10, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-laa-pit-2026-09-06 | 1winstreak1, Talvez10 |
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
+| mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 76% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 1winstreak1 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UD Almería vs. Cádiz CF: O/U 3.5 | Under (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 8.5 | Over (BUY) | 66% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -851,5 +855,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Houston Astros: | Over (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Talvez10 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 41% | 5.00 | 2752.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will CA Rosario Central win on 2026-09-0 | Yes (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
