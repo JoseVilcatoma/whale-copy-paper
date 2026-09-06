@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:21:42 (hora de Perú)
+Actualizado: 2026-09-06 16:23:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.55
@@ -834,7 +834,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 6.5 | Under (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 94% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 76% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 22.6% | ⏳ pendiente | — |

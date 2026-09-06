@@ -106581,8 +106581,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 980.91,
-    "whale_pct": 0.236,
+    "whale_usd": 17691.388199999998,
+    "whale_pct": 4.253,
     "whale_value_at_open": 415938.8973,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -106597,8 +106597,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728681.838788,
-    "fills": 1
+    "last_fill_at": 1788729763.5067146,
+    "fills": 2
   },
   {
     "timestamp": 1788729427,
