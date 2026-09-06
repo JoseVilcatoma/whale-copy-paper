@@ -105487,8 +105487,8 @@
     "title": "Los Angeles Angels vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 3576.0,
-    "whale_pct": 1.723,
+    "whale_usd": 6696.0,
+    "whale_pct": 3.225,
     "whale_value_at_open": 207596.7754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -105503,8 +105503,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788721816.1019905,
-    "fills": 1
+    "last_fill_at": 1788722320.472706,
+    "fills": 2
   },
   {
     "timestamp": 1788722013,
@@ -105559,6 +105559,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788722071.5226228,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788722367,
+    "timestamp_added": 1788722368.1551988,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-wisc-nd-2026-09-06",
+    "title": "Wisconsin vs. Notre Dame",
+    "outcome": "Notre Dame",
+    "side": "BUY",
+    "whale_usd": 851.0,
+    "whale_pct": 0.41,
+    "whale_value_at_open": 207794.8675,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788722368.15521,
     "fills": 1
   }
 ]
