@@ -1,5 +1,5 @@
 {
-  "bankroll": 345.6169905913161,
+  "bankroll": 335.38199059131614,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20855,6 +20855,16 @@
       "timestamp": 1788705820.9936337,
       "bankroll": 345.62,
       "event": "lost: ferrariChampions2026 \u2014 Seville: Alexander Ritschard vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1788707791.3783183,
+      "bankroll": 340.47,
+      "event": "lost: Jsram \u2014 Everton FC vs. Manchester United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788707791.688687,
+      "bankroll": 335.38,
+      "event": "lost: Jsram \u2014 Everton FC vs. Manchester United FC: O/U 3.5"
     }
   ]
 }
