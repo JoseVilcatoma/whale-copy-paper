@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 08:05:00 (hora de Perú)
+Actualizado: 2026-09-06 08:07:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 08:05:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $155.62)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $145.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 16 | 17 | 1 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| AV23IUa | 36 | 26 | 0 | -16.14 USD |
+| AV23IUa | 36 | 26 | 2 | -16.14 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -806,13 +806,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-clb-col-2026-09-05-clb | HongYunX, sbsigner |
 | cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | epl-ars-che-2026-09-06-total-2pt5 | Jsram, ferrariChampions2026 |
-| epl-eve-mun-2026-09-06-mun | ferrariChampions2026, sbsigner |
+| epl-eve-mun-2026-09-06-mun | AV23IUa, ferrariChampions2026, sbsigner |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ⏳ pendiente | — |
+| AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 517.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming - G | Ninjas in Pyjamas (BUY) | 60% | 5.00 | 20.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Heerenveen vs. AZ: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -841,5 +843,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcara | Carlos Alcaraz (BUY) | 83% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Aoran Wang vs Yaojie Zeng | Yaojie Zeng (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien (BUY) | 62% | 5.00 | 34.5% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ✅ ganada | +2.38 |
