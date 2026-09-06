@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.7874863599569,
+  "bankroll": 371.3921530266236,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20650,6 +20650,11 @@
       "timestamp": 1788677224.929643,
       "bankroll": 369.79,
       "event": "won: 1winstreak1 \u2014 UCLA vs. California"
+    },
+    {
+      "timestamp": 1788685734.8755171,
+      "bankroll": 371.39,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Jesse Delaney vs Mikalai Haliak"
     }
   ]
 }
