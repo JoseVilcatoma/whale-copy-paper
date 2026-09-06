@@ -1,5 +1,5 @@
 {
-  "bankroll": 359.43140079405634,
+  "bankroll": 354.94596601144764,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20520,6 +20520,21 @@
       "timestamp": 1788661763.547305,
       "bankroll": 359.43,
       "event": "lost: pleaseplease123 \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788662393.65349,
+      "bankroll": 365.17,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1788662395.8098404,
+      "bankroll": 360.06,
+      "event": "lost: HongYunX \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1788662396.1102645,
+      "bankroll": 354.95,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Union (-1.5)"
     }
   ]
 }

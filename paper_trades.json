@@ -101393,8 +101393,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101960,8 +101960,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -102062,8 +102062,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "HongYunX"
     ],
@@ -102232,8 +102232,8 @@
     "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 9978.4693,
-    "whale_pct": 78.123,
+    "whale_usd": 10482.500300000002,
+    "whale_pct": 82.069,
     "whale_value_at_open": 12772.7261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -102244,8 +102244,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788661762.4795775,
-    "fills": 2
+    "last_fill_at": 1788662362.1734705,
+    "fills": 3
   },
   {
     "timestamp": 1788661760,

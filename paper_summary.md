@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 21:38:54 (hora de Perú)
+Actualizado: 2026-09-05 21:41:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $359.43
-**Retorno acumulado:** -28.11%
+**Bankroll actual:** $354.95
+**Retorno acumulado:** -29.01%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 21:38:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $209.43)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $219.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| HongYunX | 12 | 5 | 2 | +30.11 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 6 | +26.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| HongYunX | 12 | 6 | 1 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 520 | 330 | 11 | -214.15 USD |
+| ferrariChampions2026 | 521 | 331 | 9 | -213.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3910
-- **Aciertos:** 2472 (63.2%)
+- **Apuestas resueltas:** 3913
+- **Aciertos:** 2473 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,525.24
-- **ROI sobre lo apostado:** -1.36%
-- **Comisiones pagadas (taker fee):** $361.35 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,540.24
+- **ROI sobre lo apostado:** -1.38%
+- **Comisiones pagadas (taker fee):** $361.70 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1993 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1996 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1168 | 69.4% | 67.8% | +1.7 pp |
 | 80-94% | 522 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
@@ -810,18 +810,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-2.5) vs MOUZ (+2.5) | MOUZ (BUY) | 80% | 5.00 | 11.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 78.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 82.1% | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 142.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 52% | 5.00 | 2.9% | ❌ perdida | -5.12 |
 | pleaseplease123 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 45% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 55% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Colorado Rapids SC win on 2026-09-0 | No (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Zizou Bergs (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | sbsigner | Will Columbus Crew win on 2026-09-05? | No (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |
-| HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ⏳ pendiente | — |
+| HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ❌ perdida | -5.11 |
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
 | HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ❌ perdida | -5.10 |
 | pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ⏳ pendiente | — |
