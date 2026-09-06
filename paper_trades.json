@@ -106514,5 +106514,35 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788728275.9730997,
     "fills": 6
+  },
+  {
+    "timestamp": 1788728418,
+    "timestamp_added": 1788728419.2892296,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 16838.79,
+    "whale_pct": 4.398,
+    "whale_value_at_open": 382902.6462,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "1winstreak1",
+      "Feromont",
+      "pleaseplease123",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788728419.2892382,
+    "fills": 1
   }
 ]
