@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:53:15 (hora de Perú)
+Actualizado: 2026-09-06 10:55:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $365.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 10:53:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $135.30)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $130.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| monkeymashingkeyboard | 12 | 9 | 2 | +2.57 USD |
+| monkeymashingkeyboard | 12 | 9 | 3 | +2.57 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -812,11 +812,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123 |
+| mlb-det-cle-2026-09-06 | monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 62% | 5.00 | 23.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 31.3% | ⏳ pendiente | — |
@@ -846,4 +848,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Frosinone Calcio vs. Venezia FC: O/U 3.5 | Over (BUY) | 41% | 5.00 | 1.0% | ✅ ganada | +7.05 |
-| ferrariChampions2026 | Henan FC vs. Chengdu Rongcheng FC: O/U 2 | Under (BUY) | 59% | 5.00 | 0.4% | ✅ ganada | +3.37 |
