@@ -103705,8 +103705,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 37277.741200000004,
-    "whale_pct": 145.192,
+    "whale_usd": 63180.5098,
+    "whale_pct": 246.08,
     "whale_value_at_open": 25674.7358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -103719,8 +103719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788696815.7854075,
-    "fills": 4
+    "last_fill_at": 1788703639.4356217,
+    "fills": 5
   },
   {
     "timestamp": 1788695303,
