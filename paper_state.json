@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.72221779600306,
+  "bankroll": 342.61221779600305,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20560,6 +20560,11 @@
       "timestamp": 1788663336.3281019,
       "bankroll": 347.72,
       "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Zizou Bergs vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788666156.1778755,
+      "bankroll": 342.61,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Inter Miami CF (-1.5)"
     }
   ]
 }
