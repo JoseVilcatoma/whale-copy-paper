@@ -103537,8 +103537,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 14444.974983999999,
-    "whale_pct": 7.512,
+    "whale_usd": 15105.403734,
+    "whale_pct": 7.856,
     "whale_value_at_open": 192285.3377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -103549,8 +103549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788695247.0198848,
-    "fills": 7
+    "last_fill_at": 1788696277.0256922,
+    "fills": 8
   },
   {
     "timestamp": 1788693314,
@@ -103705,8 +103705,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 12361.439999999999,
-    "whale_pct": 48.146,
+    "whale_usd": 22618.4712,
+    "whale_pct": 88.096,
     "whale_value_at_open": 25674.7358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -103719,8 +103719,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788694884.0273182,
-    "fills": 1
+    "last_fill_at": 1788696271.5482025,
+    "fills": 3
   },
   {
     "timestamp": 1788695303,

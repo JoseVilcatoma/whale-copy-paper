@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 07:02:53 (hora de Perú)
+Actualizado: 2026-09-06 07:05:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $370.55
@@ -819,14 +819,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Everton FC vs. Manchester United FC: O/U | Under (BUY) | 42% | 5.00 | 17.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Svyatoslav Gulin vs Rudolf Mollek | Rudolf Molleker (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Saba Purtseladze vs Izan Almaza | Izan Almazan Valiente (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
-| pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/ | Under (BUY) | 53% | 5.00 | 48.1% | ⏳ pendiente | — |
+| pleaseplease123 | Boston Red Sox vs. Baltimore Orioles: O/ | Under (BUY) | 53% | 5.00 | 88.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles: O/ | Over (BUY) | 50% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Deigo Dedura-Palomero vs Timo Ros | Deigo Dedura-Palomero (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MEGO (-1.5) vs Strael-Bora | megoshort (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Facundo Mena (BUY) | 59% | 5.00 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Facundo Mena (BUY) | 59% | 5.00 | 7.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hertha BSC vs. 1. FC Magdeburg: O/U 3.5 | Under (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | SpVgg Greuther Fürth vs. 1. FC Heidenhei | Under (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Daniel Siniakov vs Niels Visker | Daniel Siniakov (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
