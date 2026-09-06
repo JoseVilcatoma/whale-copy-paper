@@ -104442,8 +104442,8 @@
     "title": "Washington State vs. Washington",
     "outcome": "Washington",
     "side": "BUY",
-    "whale_usd": 4239.521242,
-    "whale_pct": 3.436,
+    "whale_usd": 5476.421242,
+    "whale_pct": 4.439,
     "whale_value_at_open": 123379.5462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -104454,8 +104454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722557.0741305,
-    "fills": 5
+    "last_fill_at": 1788728479.4075522,
+    "fills": 6
   },
   {
     "timestamp": 1788709127,
@@ -106238,8 +106238,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 44370.32002200001,
-    "whale_pct": 9.89,
+    "whale_usd": 45131.04802200001,
+    "whale_pct": 10.059,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106253,8 +106253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728319.0006077,
-    "fills": 12
+    "last_fill_at": 1788728488.2458138,
+    "fills": 13
   },
   {
     "timestamp": 1788726947,
@@ -106289,8 +106289,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 7274.3808,
-    "whale_pct": 1.822,
+    "whale_usd": 25291.9203,
+    "whale_pct": 6.333,
     "whale_value_at_open": 399355.5756,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -106303,8 +106303,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788727057.9268,
-    "fills": 1
+    "last_fill_at": 1788728549.3128898,
+    "fills": 4
   },
   {
     "timestamp": 1788727107,

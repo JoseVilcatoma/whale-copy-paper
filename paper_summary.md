@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:01:11 (hora de Perú)
+Actualizado: 2026-09-06 16:03:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $352.92
@@ -840,9 +840,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 51% | 5.00 | 30.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: FLY (-1.5) vs Shopify Reb | Shopify Rebellion (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 9.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 10.1% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
