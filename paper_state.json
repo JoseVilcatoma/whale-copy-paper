@@ -1,5 +1,5 @@
 {
-  "bankroll": 352.37497540611946,
+  "bankroll": 348.1193283472959,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20940,6 +20940,16 @@
       "timestamp": 1788712963.0021946,
       "bankroll": 352.37,
       "event": "won: AV23IUa \u2014 Will FC Barcelona win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788713583.4816043,
+      "bankroll": 347.27,
+      "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov"
+    },
+    {
+      "timestamp": 1788713583.7870255,
+      "bankroll": 348.12,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov"
     }
   ]
 }
