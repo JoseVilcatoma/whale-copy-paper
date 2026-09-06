@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:26:23 (hora de Perú)
+Actualizado: 2026-09-06 12:28:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $348.12
@@ -823,7 +823,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 37.6% | ⏳ pendiente | — |
 | Talvez10 | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Over (BUY) | 51% | 5.00 | 17.2% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 46% | 5.00 | 5.0% | ⏳ pendiente | — |
-| Talvez10 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
+| Talvez10 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 47% | 5.00 | 3.4% | ⏳ pendiente | — |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 219.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |

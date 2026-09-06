@@ -104769,8 +104769,8 @@
     "title": "Los Angeles Angels vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 3372.1614,
-    "whale_pct": 3.697,
+    "whale_usd": 5232.1614,
+    "whale_pct": 5.736,
     "whale_value_at_open": 91215.2381,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -104781,8 +104781,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788714912.3251014,
-    "fills": 1
+    "last_fill_at": 1788715640.033598,
+    "fills": 2
   },
   {
     "timestamp": 1788715267,
