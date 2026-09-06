@@ -106955,8 +106955,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 13769.750399999999,
-    "whale_pct": 3.364,
+    "whale_usd": 14726.750333999998,
+    "whale_pct": 3.598,
     "whale_value_at_open": 409340.2956,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -106971,8 +106971,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788734140.1644096,
-    "fills": 5
+    "last_fill_at": 1788734196.1450832,
+    "fills": 6
   },
   {
     "timestamp": 1788731330,
@@ -107239,6 +107239,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788733425.9870262,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788734207,
+    "timestamp_added": 1788734207.4609957,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-cws-2026-09-06",
+    "title": "Minnesota Twins vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 3346.8516999999997,
+    "whale_pct": 0.819,
+    "whale_value_at_open": 408866.345,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Feromont",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788734207.4610054,
     "fills": 1
   }
 ]

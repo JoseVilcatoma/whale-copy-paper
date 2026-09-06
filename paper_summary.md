@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 17:35:56 (hora de Perú)
+Actualizado: 2026-09-06 17:38:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $373.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 17:35:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $83.05)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $78.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 563 | 352 | 13 | -204.51 USD |
+| ferrariChampions2026 | 563 | 352 | 14 | -204.51 USD |
 
 ## Análisis general
 
@@ -833,6 +833,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: Both Teams | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 3.5 | Under (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -844,7 +845,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.4% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Flaznorp | Spread: SE Palmeiras (-1.5) | Botafogo FR (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ✅ ganada | +0.05 |
 | Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -862,4 +863,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 4.3% | ✅ ganada | +2.72 |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 76% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 25.2% | ⏳ pendiente | — |
