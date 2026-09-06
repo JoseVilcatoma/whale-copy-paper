@@ -102395,5 +102395,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788671666.48269,
     "fills": 1
+  },
+  {
+    "timestamp": 1788671857,
+    "timestamp_added": 1788671857.4822311,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cook-flores-2026-09-05",
+    "title": "Phan Thiet 3: Ethan Cook vs Jesse Flores",
+    "outcome": "Jesse Flores",
+    "side": "BUY",
+    "whale_usd": 5893.871697,
+    "whale_pct": 2.886,
+    "whale_value_at_open": 204231.2539,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788671898.8191092,
+    "fills": 7
   }
 ]
