@@ -1,5 +1,5 @@
 {
-  "bankroll": 348.92300135386347,
+  "bankroll": 351.41375892962105,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21015,6 +21015,11 @@
       "timestamp": 1788720624.9182768,
       "bankroll": 348.92,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies: 1st 5 Innings O/U 4.5"
+    },
+    {
+      "timestamp": 1788720686.9781106,
+      "bankroll": 351.41,
+      "event": "won: ferrariChampions2026 \u2014 Deportivo Alav\u00e9s vs. CA Osasuna: O/U 1.5"
     }
   ]
 }
