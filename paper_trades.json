@@ -104941,8 +104941,8 @@
     "title": "Chicago Cubs vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 4887.187,
-    "whale_pct": 112.889,
+    "whale_usd": 6103.086999,
+    "whale_pct": 140.975,
     "whale_value_at_open": 4329.1992,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -104956,8 +104956,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788719753.8961318,
-    "fills": 3
+    "last_fill_at": 1788720448.060779,
+    "fills": 4
   },
   {
     "timestamp": 1788717741,
@@ -105331,8 +105331,8 @@
     "title": "UD Almer\u00eda vs. C\u00e1diz CF: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1750.9926,
-    "whale_pct": 0.84,
+    "whale_usd": 2345.9426,
+    "whale_pct": 1.126,
     "whale_value_at_open": 208408.2946,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -105343,7 +105343,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788720047.2923996,
-    "fills": 3
+    "last_fill_at": 1788720479.9882288,
+    "fills": 4
   }
 ]
