@@ -102899,5 +102899,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788683996.9452367,
     "fills": 1
+  },
+  {
+    "timestamp": 1788684211,
+    "timestamp_added": 1788684211.5982826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kadhe-huang-2026-09-06",
+    "title": "Shanghai: Arjun Kadhe vs Tsung-Hao Huang",
+    "outcome": "Tsung-Hao Huang",
+    "side": "BUY",
+    "whale_usd": 10341.550799999999,
+    "whale_pct": 7.437,
+    "whale_value_at_open": 139056.2859,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788684211.5982966,
+    "fills": 1
   }
 ]
