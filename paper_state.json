@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.04985503008584,
+  "bankroll": 373.4015090167611,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21375,6 +21375,16 @@
       "timestamp": 1788734086.5521188,
       "bankroll": 373.05,
       "event": "lost: ferrariChampions2026 \u2014 Game Handicap: FLY (-1.5) vs Shopify Rebellion (+1.5)"
+    },
+    {
+      "timestamp": 1788734402.439547,
+      "bankroll": 373.35,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alex Michelsen vs Tomas Etcheverry"
+    },
+    {
+      "timestamp": 1788734403.3408165,
+      "bankroll": 373.4,
+      "event": "won: Flaznorp \u2014 US Open ATP: Alex Michelsen vs Tomas Etcheverry"
     }
   ]
 }

@@ -106616,8 +106616,8 @@
     "odds_at_bet": 94,
     "fee_usd": 0.015,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -106833,8 +106833,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3725.826363,
-    "whale_pct": 0.941,
+    "whale_usd": 4909.146363,
+    "whale_pct": 1.239,
     "whale_value_at_open": 396108.8281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -106845,8 +106845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788731984.8468285,
-    "fills": 4
+    "last_fill_at": 1788734291.3573787,
+    "fills": 5
   },
   {
     "timestamp": 1788730953,
@@ -106888,8 +106888,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -107266,6 +107266,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788734207.4610054,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788734382,
+    "timestamp_added": 1788734382.989754,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-min-cws-2026-09-06",
+    "title": "Minnesota Twins vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 744.609999,
+    "whale_pct": 0.201,
+    "whale_value_at_open": 371301.9863,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Feromont",
+      "ferrariChampions2026",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788734382.989765,
     "fills": 1
   }
 ]
