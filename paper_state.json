@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.657466859478,
+  "bankroll": 365.6385632450202,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21270,6 +21270,11 @@
       "timestamp": 1788728634.273667,
       "bankroll": 364.66,
       "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Miami Marlins: O/U 13.5"
+    },
+    {
+      "timestamp": 1788728935.6136622,
+      "bankroll": 365.64,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Tommy Paul vs Carlos Alcaraz"
     }
   ]
 }
