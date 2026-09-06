@@ -103585,8 +103585,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 4993.573799999999,
-    "whale_pct": 2.813,
+    "whale_usd": 8828.074799999999,
+    "whale_pct": 4.973,
     "whale_value_at_open": 177524.4753,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -103597,8 +103597,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788726844.198637,
-    "fills": 2
+    "last_fill_at": 1788726899.8741078,
+    "fills": 3
   },
   {
     "timestamp": 1788694081,
@@ -106051,8 +106051,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 28401.045997,
-    "whale_pct": 61.314,
+    "whale_usd": 43401.045996,
+    "whale_pct": 93.697,
     "whale_value_at_open": 46320.5771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -106066,8 +106066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788726844.0064285,
-    "fills": 4
+    "last_fill_at": 1788726899.6298711,
+    "fills": 5
   },
   {
     "timestamp": 1788725432,
@@ -106225,6 +106225,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788726791.745038,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788726908,
+    "timestamp_added": 1788726908.9638586,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-medvede-tiafoe-2026-09-06",
+    "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "whale_usd": 2997.8826,
+    "whale_pct": 0.668,
+    "whale_value_at_open": 448657.7709,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788726908.9638689,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788726947,
+    "timestamp_added": 1788726947.7382264,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-sr-fly-2026-09-06-game-handicap-home-1pt5",
+    "title": "Game Handicap: FLY (-1.5) vs Shopify Rebellion (+1.5)",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "whale_usd": 697.0809519999999,
+    "whale_pct": 0.155,
+    "whale_value_at_open": 448657.7709,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788726947.7382386,
     "fills": 1
   }
 ]
