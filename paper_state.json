@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.29278945009634,
+  "bankroll": 368.4370487093556,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20685,6 +20685,11 @@
       "timestamp": 1788689882.2743063,
       "bankroll": 364.29,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Ren Nakamura vs Hanyi Liu"
+    },
+    {
+      "timestamp": 1788690253.3611085,
+      "bankroll": 368.44,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Takuya Kumasaka vs Martin Borisiouk"
     }
   ]
 }
