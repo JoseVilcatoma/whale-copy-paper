@@ -104218,8 +104218,8 @@
     "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 844.8552000000001,
-    "whale_pct": 6.258,
+    "whale_usd": 3239.2528,
+    "whale_pct": 23.995,
     "whale_value_at_open": 13499.6704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -104233,7 +104233,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788704286.994377,
-    "fills": 1
+    "last_fill_at": 1788704456.6868474,
+    "fills": 2
   }
 ]
