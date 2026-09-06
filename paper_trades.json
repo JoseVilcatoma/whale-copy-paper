@@ -104442,8 +104442,8 @@
     "title": "Washington State vs. Washington",
     "outcome": "Washington",
     "side": "BUY",
-    "whale_usd": 65280.795263,
-    "whale_pct": 52.911,
+    "whale_usd": 74777.481263,
+    "whale_pct": 60.608,
     "whale_value_at_open": 123379.5462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -104454,8 +104454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735843.2067285,
-    "fills": 9
+    "last_fill_at": 1788736848.0148315,
+    "fills": 10
   },
   {
     "timestamp": 1788709127,
@@ -107500,8 +107500,8 @@
     "title": "Botafogo FR vs. SE Palmeiras: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 700.0,
-    "whale_pct": 0.179,
+    "whale_usd": 1372.6599609999998,
+    "whale_pct": 0.351,
     "whale_value_at_open": 390969.7334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -107512,8 +107512,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735487.9295673,
-    "fills": 1
+    "last_fill_at": 1788736913.8206167,
+    "fills": 2
   },
   {
     "timestamp": 1788736115,
