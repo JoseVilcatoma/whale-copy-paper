@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 07:21:39 (hora de Perú)
+Actualizado: 2026-09-06 07:23:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $370.43
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 07:21:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $145.43)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $140.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 544 | 338 | 27 | -194.50 USD |
+| ferrariChampions2026 | 544 | 338 | 28 | -194.50 USD |
 
 ## Análisis general
 
@@ -813,6 +813,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Frosinone Calcio vs. Venezia FC: O/U 3.5 | Over (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -842,4 +843,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ✅ ganada | +1.69 |
-| sbsigner | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 48.1% | ⏳ pendiente | — |
