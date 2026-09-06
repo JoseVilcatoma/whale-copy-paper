@@ -102611,5 +102611,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788678081.2239745,
     "fills": 1
+  },
+  {
+    "timestamp": 1788678605,
+    "timestamp_added": 1788678605.5652,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-ig1-we-2026-09-06-game2",
+    "title": "LoL: Invictus Gaming vs Team WE - Game 2 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 2700.0,
+    "whale_pct": 20.813,
+    "whale_value_at_open": 12972.5706,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788678605.5652153,
+    "fills": 1
   }
 ]

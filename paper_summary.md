@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 02:08:08 (hora de Perú)
+Actualizado: 2026-09-06 02:10:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 02:08:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $279.79)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $274.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| zofgkt1111 | 10 | 8 | 1 | +8.68 USD |
+| zofgkt1111 | 10 | 8 | 2 | +8.68 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -810,6 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 2 | Invictus Gaming (BUY) | 61% | 5.00 | 20.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: S D Prajwal Dev vs Benjami | S D Prajwal Dev (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Takuya Kumasaka vs Martin  | Martin Borisiouk (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 1 | Team WE (BUY) | 41% | 5.00 | 54.9% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ❌ perdida | -5.11 |
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
 | HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ❌ perdida | -5.10 |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ✅ ganada | +3.98 |
