@@ -102443,5 +102443,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788672779.5619211,
     "fills": 1
+  },
+  {
+    "timestamp": 1788674408,
+    "timestamp_added": 1788674408.9344125,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "cfb-ucla-cah-2026-09-05",
+    "title": "UCLA vs. California",
+    "outcome": "UCLA",
+    "side": "BUY",
+    "whale_usd": 4999.999992,
+    "whale_pct": 17.765,
+    "whale_value_at_open": 28144.8485,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788674408.9344254,
+    "fills": 1
   }
 ]
