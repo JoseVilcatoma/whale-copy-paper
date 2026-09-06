@@ -104793,8 +104793,8 @@
     "title": "San Francisco Giants vs. New York Mets: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4759.281,
-    "whale_pct": 5.004,
+    "whale_usd": 10791.67009,
+    "whale_pct": 11.347,
     "whale_value_at_open": 95101.9627,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -104805,8 +104805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788715267.847458,
-    "fills": 1
+    "last_fill_at": 1788716171.6385114,
+    "fills": 2
   },
   {
     "timestamp": 1788715343,
