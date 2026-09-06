@@ -104733,5 +104733,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788712684.639687,
     "fills": 7
+  },
+  {
+    "timestamp": 1788714151,
+    "timestamp_added": 1788714151.696088,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-atl-phi-2026-09-06-total-8pt5",
+    "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5117.9968,
+    "whale_pct": 3.365,
+    "whale_value_at_open": 152076.8724,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788714151.6961052,
+    "fills": 1
   }
 ]

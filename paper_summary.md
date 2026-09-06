@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:01:29 (hora de Perú)
+Actualizado: 2026-09-06 12:03:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $348.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 12:01:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $123.12)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $118.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 3 | 5 | 2 | -13.82 USD |
 | pleaseplease123 | 16 | 17 | 6 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 7 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 8 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -812,12 +812,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 47% | 5.00 | 3.4% | ⏳ pendiente | — |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 219.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -847,4 +849,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 62% | 5.00 | 3.1% | ⏳ pendiente | — |
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ✅ ganada | +1.28 |
 | AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 710.8% | ❌ perdida | -5.12 |
-| zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming - G | Ninjas in Pyjamas (BUY) | 60% | 5.00 | 20.5% | ✅ ganada | +3.23 |
