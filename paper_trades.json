@@ -104442,8 +104442,8 @@
     "title": "Washington State vs. Washington",
     "outcome": "Washington",
     "side": "BUY",
-    "whale_usd": 64580.504413,
-    "whale_pct": 52.343,
+    "whale_usd": 65280.795263,
+    "whale_pct": 52.911,
     "whale_value_at_open": 123379.5462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -104454,8 +104454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735484.6652951,
-    "fills": 8
+    "last_fill_at": 1788735843.2067285,
+    "fills": 9
   },
   {
     "timestamp": 1788709127,
