@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:40:52 (hora de Perú)
+Actualizado: 2026-09-06 01:42:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.48
@@ -810,7 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Takuya Kumasaka vs Martin  | Martin Borisiouk (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Takuya Kumasaka vs Martin  | Martin Borisiouk (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 1 | Team WE (BUY) | 41% | 5.00 | 54.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: IG (-2.5) vs Team WE (+2. | Team WE (BUY) | 71% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 3.5 | Over (BUY) | 72% | 5.00 | 2.3% | ⏳ pendiente | — |

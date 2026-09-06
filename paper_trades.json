@@ -102573,8 +102573,8 @@
     "title": "Phan Thiet 3: Takuya Kumasaka vs Martin Borisiouk",
     "outcome": "Martin Borisiouk",
     "side": "BUY",
-    "whale_usd": 537.95,
-    "whale_pct": 0.679,
+    "whale_usd": 1051.25,
+    "whale_pct": 1.326,
     "whale_value_at_open": 79264.4449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -102585,7 +102585,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788676766.263002,
-    "fills": 1
+    "last_fill_at": 1788676870.9109373,
+    "fills": 2
   }
 ]
