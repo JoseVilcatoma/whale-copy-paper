@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:53:34 (hora de Perú)
+Actualizado: 2026-09-06 18:55:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:53:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $71.45)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $66.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| wr0ngw4yb3tt0r | 23 | 25 | 14 | -35.82 USD |
+| wr0ngw4yb3tt0r | 23 | 25 | 15 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 570 | 355 | 9 | -197.74 USD |
@@ -832,11 +832,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shelton-tsitsip-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | wta-pegula-cirstea-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | cfb-lou-miss-2026-09-06-spread-home-6pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| cfb-lou-miss-2026-09-06-spread-home-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | Will CD Universidad de Concepción win on | No (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -866,4 +868,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 11.1% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Wisconsin (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
