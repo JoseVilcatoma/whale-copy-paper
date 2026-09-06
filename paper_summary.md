@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:15:44 (hora de Perú)
+Actualizado: 2026-09-06 01:17:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 01:15:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $274.77)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $269.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 526 | 335 | 3 | -209.43 USD |
+| ferrariChampions2026 | 526 | 335 | 4 | -209.43 USD |
 
 ## Análisis general
 
@@ -810,6 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Game Handicap: IG (-2.5) vs Team WE (+2. | Team WE (BUY) | 71% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 3.5 | Over (BUY) | 72% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs ALKA (BO3) -  | Galorys (BUY) | 79% | 5.00 | 4.7% | ⏳ pendiente | — |
 | 1winstreak1 | UCLA vs. California | UCLA (BUY) | 94% | 5.00 | 17.8% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ❌ perdida | -5.03 |
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | Inter Miami CF (BUY) | 56% | 5.00 | 1.1% | ❌ perdida | -5.11 |
