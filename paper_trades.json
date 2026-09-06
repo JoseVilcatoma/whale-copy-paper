@@ -103585,8 +103585,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 27332.0746,
-    "whale_pct": 15.396,
+    "whale_usd": 33188.3992,
+    "whale_pct": 18.695,
     "whale_value_at_open": 177524.4753,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -103597,8 +103597,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788727841.593653,
-    "fills": 9
+    "last_fill_at": 1788728756.7159622,
+    "fills": 10
   },
   {
     "timestamp": 1788694081,
@@ -106289,8 +106289,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 25291.9203,
-    "whale_pct": 6.333,
+    "whale_usd": 33541.8931,
+    "whale_pct": 8.399,
     "whale_value_at_open": 399355.5756,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -106303,8 +106303,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728549.3128898,
-    "fills": 4
+    "last_fill_at": 1788728819.7732966,
+    "fills": 5
   },
   {
     "timestamp": 1788727107,
@@ -106554,8 +106554,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 5957.7958,
-    "whale_pct": 3.084,
+    "whale_usd": 10557.789799999999,
+    "whale_pct": 5.466,
     "whale_value_at_open": 193157.5487,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -106569,8 +106569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728696.4361124,
-    "fills": 2
+    "last_fill_at": 1788728770.4267087,
+    "fills": 3
   },
   {
     "timestamp": 1788728681,
