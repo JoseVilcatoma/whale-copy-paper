@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.3783484417927,
+  "bankroll": 362.68824259277426,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21130,6 +21130,26 @@
       "timestamp": 1788726548.7877593,
       "bankroll": 360.38,
       "event": "won: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1788726671.6674087,
+      "bankroll": 363.61,
+      "event": "won: monkeymashingkeyboard \u2014 San Francisco Giants vs. New York Mets"
+    },
+    {
+      "timestamp": 1788726673.9460633,
+      "bankroll": 358.46,
+      "event": "lost: 1winstreak1 \u2014 San Francisco Giants vs. New York Mets"
+    },
+    {
+      "timestamp": 1788726674.1463926,
+      "bankroll": 361.56,
+      "event": "won: 1winstreak1 \u2014 San Francisco Giants vs. New York Mets"
+    },
+    {
+      "timestamp": 1788726677.46972,
+      "bankroll": 362.69,
+      "event": "won: 1winstreak1 \u2014 Spread: New York Mets (-1.5)"
     }
   ]
 }

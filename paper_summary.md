@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:29:14 (hora de Perú)
+Actualizado: 2026-09-06 15:31:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $360.38
-**Retorno acumulado:** -27.92%
+**Bankroll actual:** $362.69
+**Retorno acumulado:** -27.46%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 15:29:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $40.38)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $57.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,11 +37,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| monkeymashingkeyboard | 14 | 9 | 3 | +12.28 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
-| monkeymashingkeyboard | 13 | 9 | 4 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | zofgkt1111 | 14 | 11 | 0 | +8.96 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -85,7 +85,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| 1winstreak1 | 14 | 7 | 14 | -1.74 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | Jsram | 3 | 2 | 0 | -2.32 USD |
@@ -93,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| 1winstreak1 | 16 | 8 | 11 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 37 | 28 | 2 | -25.08 USD |
-| wr0ngw4yb3tt0r | 12 | 17 | 20 | -31.35 USD |
+| wr0ngw4yb3tt0r | 12 | 17 | 21 | -31.35 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4031
-- **Aciertos:** 2546 (63.2%)
+- **Apuestas resueltas:** 4035
+- **Aciertos:** 2549 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,130.24
-- **ROI sobre lo apostado:** -1.34%
-- **Comisiones pagadas (taker fee):** $373.19 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.52% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,150.24
+- **ROI sobre lo apostado:** -1.32%
+- **Comisiones pagadas (taker fee):** $373.59 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,9 +148,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2062 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1205 | 69.3% | 67.8% | +1.5 pp |
-| 80-94% | 534 | 85.6% | 86.7% | -1.1 pp |
+| 40-59% | 2063 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1207 | 69.3% | 67.7% | +1.6 pp |
+| 80-94% | 535 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -829,6 +829,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
 | 1winstreak1 | O/U 50.5 | Under (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -836,7 +837,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 50% | 5.00 | 29.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-6.5) | Miami Marlins (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Houston Astros (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 81% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 81% | 5.00 | 1.3% | ✅ ganada | +1.13 |
 |  | Will Olympique de Marseille win on 2026- | Yes (BUY) | 43% | 5.00 | 186.2% | ⏳ pendiente | — |
 |  | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 49% | 5.00 | 49.4% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | New York Mets (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
@@ -858,4 +859,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 75% | 5.00 | 24.2% | ✅ ganada | +1.60 |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 1winstreak1 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 76% | 5.00 | 1.9% | ✅ ganada | +1.52 |
