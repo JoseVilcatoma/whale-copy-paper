@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:57:03 (hora de Perú)
+Actualizado: 2026-09-06 15:59:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $352.92
@@ -831,7 +831,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 7.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -841,7 +841,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: FLY (-1.5) vs Shopify Reb | Shopify Rebellion (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 9.9% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
