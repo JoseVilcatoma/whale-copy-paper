@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 17:19:21 (hora de Perú)
+Actualizado: 2026-09-06 17:21:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $376.20
-**Retorno acumulado:** -24.76%
+**Bankroll actual:** $376.90
+**Retorno acumulado:** -24.62%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 17:19:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $86.20)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $86.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,8 +28,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 64 | 36 | 2 | +27.02 USD |
 | Feromont | 10 | 3 | 1 | +26.77 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 62 | 36 | 4 | +26.32 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 16 | 9 | 1 | +20.13 USD |
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Flaznorp | 37 | 12 | 9 | +0.90 USD |
+| Flaznorp | 37 | 12 | 10 | +0.90 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -129,17 +129,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 563 | 351 | 13 | -199.46 USD |
+| ferrariChampions2026 | 563 | 351 | 14 | -199.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4075
-- **Aciertos:** 2576 (63.2%)
+- **Apuestas resueltas:** 4077
+- **Aciertos:** 2578 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,350.24
+- **Total apostado (suma de stakes):** $20,360.24
 - **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $377.54 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $377.58 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -150,8 +150,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2084 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1221 | 69.5% | 67.7% | +1.8 pp |
-| 80-94% | 538 | 85.5% | 86.6% | -1.1 pp |
-| 95-99% (casi seguro) | 232 | 96.6% | 97.3% | -0.8 pp |
+| 80-94% | 539 | 85.5% | 86.6% | -1.1 pp |
+| 95-99% (casi seguro) | 233 | 96.6% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -826,13 +826,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-cws-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
-| mlb-min-cws-2026-09-06 | Feromont, wr0ngw4yb3tt0r |
+| mlb-min-cws-2026-09-06 | Feromont, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-michels-etcheve-2026-09-06 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 3.5 | Under (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Athletics (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Club León FC vs. CF América: O/U 3.5 | Under (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -861,5 +863,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 2.4% | ✅ ganada | +2.72 |
-| wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
-| Feromont | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 59% | 5.00 | 27.1% | ⏳ pendiente | — |

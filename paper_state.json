@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.1975317977627,
+  "bankroll": 376.8968550300859,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21355,6 +21355,16 @@
       "timestamp": 1788733155.213519,
       "bankroll": 376.2,
       "event": "won: Flaznorp \u2014 Will CA Central C\u00f3rdoba win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788733276.8538258,
+      "bankroll": 376.25,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Wanted Goons vs Without a Roof (BO3) - NSTLGA League Group Stage"
+    },
+    {
+      "timestamp": 1788733277.373555,
+      "bankroll": 376.9,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: WaR (-1.5) vs Wanted Goons (+1.5)"
     }
   ]
 }
