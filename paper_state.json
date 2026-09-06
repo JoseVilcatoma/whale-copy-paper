@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.48455375986066,
+  "bankroll": 369.26350724823277,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20695,6 +20695,11 @@
       "timestamp": 1788690383.0259743,
       "bankroll": 368.48,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Benjamin Hassan vs Marsel Ilhan"
+    },
+    {
+      "timestamp": 1788692207.232985,
+      "bankroll": 369.26,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Georgii Kravchenko vs Yanaki Milev"
     }
   ]
 }
