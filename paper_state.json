@@ -1,5 +1,5 @@
 {
-  "bankroll": 342.54358816637347,
+  "bankroll": 343.01609366087894,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20585,6 +20585,11 @@
       "timestamp": 1788669310.592022,
       "bankroll": 342.54,
       "event": "lost: Talvez10 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788670001.1261082,
+      "bankroll": 343.02,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: SportsBetExpert vs Iowa Stormboar (BO3) - NSTLGA League Group Stage"
     }
   ]
 }
