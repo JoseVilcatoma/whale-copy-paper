@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.9886405139261,
+  "bankroll": 364.29278945009634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20680,6 +20680,11 @@
       "timestamp": 1788689631.567995,
       "bankroll": 363.99,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Mika Brunold vs Kai Wehnelt"
+    },
+    {
+      "timestamp": 1788689882.2743063,
+      "bankroll": 364.29,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Ren Nakamura vs Hanyi Liu"
     }
   ]
 }
