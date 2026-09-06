@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:28:12 (hora de Perú)
+Actualizado: 2026-09-06 14:30:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $353.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:28:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $23.90)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $13.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
-| Feromont | 8 | 2 | 1 | +23.17 USD |
+| Feromont | 8 | 2 | 2 | +23.17 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 |  | 10 | 5 | 0 | +19.01 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 60 | 36 | 6 | +18.82 USD |
@@ -114,7 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| pleaseplease123 | 17 | 17 | 6 | -11.05 USD |
+| pleaseplease123 | 17 | 17 | 7 | -11.05 USD |
 | Talvez10 | 9 | 9 | 5 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -827,6 +827,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 8.7% | ⏳ pendiente | — |
+| pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 23.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -855,5 +857,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 141.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Washington (-21.5) | Washington State (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
