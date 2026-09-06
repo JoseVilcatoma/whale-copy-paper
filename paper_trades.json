@@ -104719,8 +104719,8 @@
     "title": "Will Cruzeiro EC win on 2026-09-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 37164.3265,
-    "whale_pct": 73.55,
+    "whale_usd": 41905.876500000006,
+    "whale_pct": 82.933,
     "whale_value_at_open": 50529.6518,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -104731,7 +104731,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788712198.4735265,
-    "fills": 4
+    "last_fill_at": 1788712306.5787816,
+    "fills": 5
   }
 ]
