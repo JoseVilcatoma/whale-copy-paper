@@ -103153,8 +103153,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 4360.280724,
-    "whale_pct": 2.888,
+    "whale_usd": 6068.861224,
+    "whale_pct": 4.019,
     "whale_value_at_open": 150990.7292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -103165,8 +103165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788687670.3646588,
-    "fills": 6
+    "last_fill_at": 1788689371.4589164,
+    "fills": 8
   },
   {
     "timestamp": 1788687037,
@@ -103335,5 +103335,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788689237.3790753,
     "fills": 2
+  },
+  {
+    "timestamp": 1788689448,
+    "timestamp_added": 1788689448.9558012,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mena-dellien-2026-09-06",
+    "title": "Porto: Facundo Mena vs Hugo Dellien",
+    "outcome": "Hugo Dellien",
+    "side": "BUY",
+    "whale_usd": 3544.0024,
+    "whale_pct": 2.027,
+    "whale_value_at_open": 174823.0679,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788689448.9558158,
+    "fills": 1
   }
 ]
