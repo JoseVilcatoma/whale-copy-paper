@@ -102174,5 +102174,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788650083.0035813,
     "fills": 1
+  },
+  {
+    "timestamp": 1788653653,
+    "timestamp_added": 1788653653.8550248,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-spo-iowast-2026-09-05",
+    "title": "Counter-Strike: SportsBetExpert vs Iowa Stormboar (BO3) - NSTLGA League Group Stage",
+    "outcome": "SportsBetExpert",
+    "side": "BUY",
+    "whale_usd": 4892.2766,
+    "whale_pct": 61.482,
+    "whale_value_at_open": 7957.2517,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788653653.855038,
+    "fills": 1
   }
 ]
