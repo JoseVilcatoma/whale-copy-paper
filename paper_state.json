@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.8215916850359,
+  "bankroll": 360.3783484417927,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21120,6 +21120,16 @@
       "timestamp": 1788726291.7628179,
       "bankroll": 363.82,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788726482.966414,
+      "bankroll": 358.69,
+      "event": "lost: Talvez10 \u2014 San Francisco Giants vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1788726548.7877593,
+      "bankroll": 360.38,
+      "event": "won: 1winstreak1 \u2014 Spread: San Francisco Giants (-1.5)"
     }
   ]
 }
