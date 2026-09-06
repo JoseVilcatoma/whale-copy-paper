@@ -102232,8 +102232,8 @@
     "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 20600.199500000002,
-    "whale_pct": 161.283,
+    "whale_usd": 21705.824300000004,
+    "whale_pct": 169.939,
     "whale_value_at_open": 12772.7261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -102244,8 +102244,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788665368.2447586,
-    "fills": 7
+    "last_fill_at": 1788666260.9199705,
+    "fills": 8
   },
   {
     "timestamp": 1788661760,
@@ -102270,5 +102270,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788665699.562584,
     "fills": 4
+  },
+  {
+    "timestamp": 1788666261,
+    "timestamp_added": 1788666262.4596403,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ts7-mouz-2026-09-06",
+    "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 5803.0912,
+    "whale_pct": 219.972,
+    "whale_value_at_open": 2638.1037,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788666262.4596505,
+    "fills": 1
   }
 ]
