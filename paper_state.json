@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.2224448037703,
+  "bankroll": 360.615752496078,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20810,6 +20810,21 @@
       "timestamp": 1788699079.0899255,
       "bankroll": 368.22,
       "event": "won: ferrariChampions2026 \u2014 Porto: Facundo Mena vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1788699391.6843936,
+      "bankroll": 363.1,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788699391.9687665,
+      "bankroll": 358.01,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: T1 (-1.5) vs Dplus KIA (+1.5)"
+    },
+    {
+      "timestamp": 1788699393.1448421,
+      "bankroll": 360.62,
+      "event": "won: ferrariChampions2026 \u2014 LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs"
     }
   ]
 }
