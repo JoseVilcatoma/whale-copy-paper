@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:11:28 (hora de Perú)
+Actualizado: 2026-09-06 16:13:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $365.64
@@ -847,7 +847,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 10.4% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 95% | 5.00 | 1.0% | ✅ ganada | +0.25 |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
 | 1winstreak1 | O/U 50.5 | Under (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
