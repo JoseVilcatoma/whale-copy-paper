@@ -105038,5 +105038,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788718627.5524848,
     "fills": 1
+  },
+  {
+    "timestamp": 1788719019,
+    "timestamp_added": 1788719019.929492,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-mil-cin-2026-09-06",
+    "title": "Milwaukee Brewers vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 758.797,
+    "whale_pct": 7.147,
+    "whale_value_at_open": 10616.4656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "monkeymashingkeyboard",
+      "pleaseplease123",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788719019.9295032,
+    "fills": 1
   }
 ]

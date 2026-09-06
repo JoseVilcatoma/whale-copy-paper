@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 13:21:41 (hora de Perú)
+Actualizado: 2026-09-06 13:23:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $347.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 13:21:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $97.52)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $92.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 1 | -7.85 USD |
+| 1winstreak1 | 10 | 7 | 2 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -811,7 +811,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-nip-lgd-2026-09-06 | ColinHe, sbsigner, zofgkt1111 |
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
-| mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-mil-cin-2026-09-06 | 1winstreak1, AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-bos-bal-2026-09-06 | AV23IUa, wr0ngw4yb3tt0r |
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-chc-mia-2026-09-06 | 1winstreak1, Talvez10, pleaseplease123, wr0ngw4yb3tt0r |
@@ -821,6 +821,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 92% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -850,4 +851,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 25.9% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 44% | 5.00 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
-| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 215.5% | ⏳ pendiente | — |
