@@ -102981,8 +102981,8 @@
     "title": "LoL: Invictus Gaming vs Team WE - Game 4 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 2991.7169999999996,
-    "whale_pct": 7.736,
+    "whale_usd": 5481.425976999999,
+    "whale_pct": 14.174,
     "whale_value_at_open": 38673.541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -102993,7 +102993,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788685128.0706964,
-    "fills": 2
+    "last_fill_at": 1788685301.856354,
+    "fills": 5
   }
 ]
