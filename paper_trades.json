@@ -103906,8 +103906,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104322,8 +104322,8 @@
     "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 5012.490900000001,
-    "whale_pct": 2.795,
+    "whale_usd": 6117.010900000001,
+    "whale_pct": 3.411,
     "whale_value_at_open": 179338.5721,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -104334,7 +104334,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788705429.9495654,
-    "fills": 1
+    "last_fill_at": 1788705758.581714,
+    "fills": 2
   }
 ]
