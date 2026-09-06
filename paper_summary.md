@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 06:35:47 (hora de Perú)
+Actualizado: 2026-09-06 06:37:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $359.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 06:35:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $139.15)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $134.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 537 | 337 | 28 | -202.93 USD |
+| ferrariChampions2026 | 537 | 337 | 29 | -202.93 USD |
 
 ## Análisis general
 
@@ -812,6 +812,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles: O/ | Over (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Deigo Dedura-Palomero vs Timo Ros | Deigo Dedura-Palomero (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -841,4 +842,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ✅ ganada | +5.73 |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 2.8% | ✅ ganada | +2.27 |

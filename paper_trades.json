@@ -103671,5 +103671,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788694335.0637114,
     "fills": 1
+  },
+  {
+    "timestamp": 1788694616,
+    "timestamp_added": 1788694616.8250015,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-bal-2026-09-06-total-7pt5",
+    "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1116.4013,
+    "whale_pct": 0.554,
+    "whale_value_at_open": 201382.3012,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788694616.8250115,
+    "fills": 1
   }
 ]
