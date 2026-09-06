@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:17:50 (hora de Perú)
+Actualizado: 2026-09-06 01:19:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $369.77
-**Retorno acumulado:** -26.05%
+**Bankroll actual:** $368.63
+**Retorno acumulado:** -26.27%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 01:17:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $269.77)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $278.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,30 +116,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | Talvez10 | 9 | 9 | 0 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| pleaseplease123 | 16 | 17 | 0 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | AV23IUa | 36 | 26 | 0 | -16.14 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| pleaseplease123 | 15 | 17 | 1 | -19.35 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
+| Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 526 | 335 | 4 | -209.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3931
-- **Aciertos:** 2484 (63.2%)
-- **Cuota promedio de entrada:** 63.0%
+- **Apuestas resueltas:** 3933
+- **Aciertos:** 2485 (63.2%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,630.24
+- **Total apostado (suma de stakes):** $19,640.24
 - **ROI sobre lo apostado:** -1.30%
-- **Comisiones pagadas (taker fee):** $363.72 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $363.96 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2011 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2013 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1170 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 523 | 85.3% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
@@ -836,7 +836,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Spread: Philadelphia Union (-1.5) | CF Montréal (BUY) | 57% | 5.00 | 29.5% | ❌ perdida | -5.11 |
 |  | Baylor vs. Auburn | Auburn (BUY) | 54% | 5.00 | 4.3% | 💰 vendida anticipada | +4.14 |
 | HongYunX | Will Orlando City SC win on 2026-09-05? | No (BUY) | 59% | 5.00 | 16.1% | ❌ perdida | -5.10 |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ⏳ pendiente | — |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers: O/U 6. | Over (BUY) | 55% | 5.00 | 17.9% | ✅ ganada | +3.98 |
 |  | Bergs vs. Zandschulp: Match O/U 36.5 | Under (BUY) | 87% | 5.00 | 85.9% | ❌ perdida | -5.03 |
 | HongYunX | Will Columbus Crew win on 2026-09-05? | Yes (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: fnatic vs NIP (BO3) - St | NIP (BUY) | 56% | 5.00 | 11.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.7683172217665,
+  "bankroll": 368.6252263126756,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20625,6 +20625,16 @@
       "timestamp": 1788675025.334014,
       "bankroll": 369.77,
       "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Ethan Cook vs Jesse Flores"
+    },
+    {
+      "timestamp": 1788675589.4493077,
+      "bankroll": 364.65,
+      "event": "lost: Sassy-Bucket \u2014 Western Kentucky vs. Nevada"
+    },
+    {
+      "timestamp": 1788675590.1553028,
+      "bankroll": 368.63,
+      "event": "won: pleaseplease123 \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 6.5"
     }
   ]
 }
