@@ -105967,5 +105967,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788724735.2637875,
     "fills": 1
+  },
+  {
+    "timestamp": 1788724900,
+    "timestamp_added": 1788724900.8125854,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-ari-hou-2026-09-06-spread-away-2pt5",
+    "title": "Spread: Arizona Diamondbacks (-2.5)",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 716.96,
+    "whale_pct": 1.211,
+    "whale_value_at_open": 59224.6139,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788724900.8125997,
+    "fills": 1
   }
 ]
