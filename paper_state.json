@@ -1,5 +1,5 @@
 {
-  "bankroll": 362.8546440372996,
+  "bankroll": 359.43140079405634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20510,6 +20510,16 @@
       "timestamp": 1788661444.7193701,
       "bankroll": 362.85,
       "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788661761.956386,
+      "bankroll": 364.55,
+      "event": "won: monkeymashingkeyboard \u2014 US Open WTA: Naomi Osaka vs Elise Mertens"
+    },
+    {
+      "timestamp": 1788661763.547305,
+      "bankroll": 359.43,
+      "event": "lost: pleaseplease123 \u2014 Minnesota Twins vs. Chicago White Sox"
     }
   ]
 }
