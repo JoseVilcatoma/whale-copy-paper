@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.26467011640847,
+  "bankroll": 363.8215916850359,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21110,6 +21110,16 @@
       "timestamp": 1788725852.8189638,
       "bankroll": 364.26,
       "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788726290.350687,
+      "bankroll": 368.95,
+      "event": "won: Talvez10 \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788726291.7628179,
+      "bankroll": 363.82,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 7.5"
     }
   ]
 }
