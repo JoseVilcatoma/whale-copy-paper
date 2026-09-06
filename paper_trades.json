@@ -105584,5 +105584,60 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788722368.15521,
     "fills": 1
+  },
+  {
+    "timestamp": 1788722393,
+    "timestamp_added": 1788722393.4930742,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-det-cle-2026-09-06",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 742.77,
+    "whale_pct": 1.677,
+    "whale_value_at_open": 44288.5375,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "monkeymashingkeyboard",
+      "pleaseplease123",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788722393.4930847,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788722460,
+    "timestamp_added": 1788722461.0678506,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 928.909999,
+    "whale_pct": 1.991,
+    "whale_value_at_open": 46657.9824,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788722461.0678625,
+    "fills": 1
   }
 ]

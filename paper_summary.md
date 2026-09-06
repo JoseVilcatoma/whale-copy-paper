@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:19:41 (hora de Perú)
+Actualizado: 2026-09-06 14:21:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.41
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:19:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $31.41)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $21.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 9 | -7.85 USD |
+| 1winstreak1 | 10 | 7 | 11 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -821,11 +821,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-nyy-sd-2026-09-06 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard |
+| mlb-stl-col-2026-09-06 | 1winstreak1, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -854,5 +857,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Washington (-21.5) | Washington State (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: WaR (-1.5) vs Wanted Goons | Without a Roof (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 63.7% | ⏳ pendiente | — |
-| Talvez10 | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Over (BUY) | 51% | 5.00 | 17.2% | ⏳ pendiente | — |
