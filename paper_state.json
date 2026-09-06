@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.4140044214908,
+  "bankroll": 365.85924931454537,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21295,6 +21295,16 @@
       "timestamp": 1788729985.1075902,
       "bankroll": 360.41,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1788730168.1330464,
+      "bankroll": 364.08,
+      "event": "won: wr0ngw4yb3tt0r \u2014 RCD Espanyol de Barcelona vs. Sevilla FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788730169.8653965,
+      "bankroll": 365.86,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Sevilla FC win on 2026-09-06?"
     }
   ]
 }
