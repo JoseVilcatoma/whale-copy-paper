@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.5800343052594,
+  "bankroll": 386.4500343052594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20430,6 +20430,11 @@
       "timestamp": 1788654253.4605637,
       "bankroll": 391.58,
       "event": "lost:  \u2014 Bergs vs. Zandschulp: Match O/U 36.5"
+    },
+    {
+      "timestamp": 1788655816.3482587,
+      "bankroll": 386.45,
+      "event": "lost: ferrariChampions2026 \u2014 Atlanta Braves vs. Philadelphia Phillies"
     }
   ]
 }
