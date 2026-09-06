@@ -103079,8 +103079,8 @@
     "title": "Istanbul 3: Benjamin Hassan vs Marsel Ilhan",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 963.96862,
-    "whale_pct": 0.657,
+    "whale_usd": 1921.35862,
+    "whale_pct": 1.31,
     "whale_value_at_open": 146709.2125,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -103091,8 +103091,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788686044.0074527,
-    "fills": 1
+    "last_fill_at": 1788687308.1630342,
+    "fills": 2
   },
   {
     "timestamp": 1788686203,

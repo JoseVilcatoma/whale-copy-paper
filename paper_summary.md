@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:33:55 (hora de Perú)
+Actualizado: 2026-09-06 04:35:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $366.72
@@ -816,7 +816,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | T1 (BUY) | 65% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester United FC win on 2026-09 | No (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
