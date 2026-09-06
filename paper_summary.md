@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:50:53 (hora de Perú)
+Actualizado: 2026-09-06 12:52:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $347.96
@@ -822,7 +822,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Washington (-21.5) | Washington State (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: WaR (-1.5) vs Wanted Goons | Without a Roof (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 63.7% | ⏳ pendiente | — |
 | Talvez10 | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Over (BUY) | 51% | 5.00 | 17.2% | ⏳ pendiente | — |
