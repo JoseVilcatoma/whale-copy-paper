@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.9779951918305,
+  "bankroll": 382.6419250163919,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20460,6 +20460,11 @@
       "timestamp": 1788659119.7230923,
       "bankroll": 378.98,
       "event": "won: ferrariChampions2026 \u2014 Spread: Pittsburgh Pirates (-1.5)"
+    },
+    {
+      "timestamp": 1788659247.4501748,
+      "bankroll": 382.64,
+      "event": "won: Sassy-Bucket \u2014 Wyoming vs. Colorado State"
     }
   ]
 }
