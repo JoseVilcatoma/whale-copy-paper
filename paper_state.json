@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.5535632450202,
+  "bankroll": 365.5490044214908,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21280,6 +21280,16 @@
       "timestamp": 1788729555.355533,
       "bankroll": 360.55,
       "event": "lost: 1winstreak1 \u2014 Toronto Blue Jays vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1788729864.9728703,
+      "bankroll": 362.83,
+      "event": "won: 1winstreak1 \u2014 Spread: Arizona Diamondbacks (-2.5)"
+    },
+    {
+      "timestamp": 1788729867.3628137,
+      "bankroll": 365.55,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Houston Astros"
     }
   ]
 }
