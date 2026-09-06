@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:06:31 (hora de Perú)
+Actualizado: 2026-09-06 18:08:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $367.36
-**Retorno acumulado:** -26.53%
+**Bankroll actual:** $369.92
+**Retorno acumulado:** -26.02%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:06:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $87.36)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $144.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 10 | 3 | 1 | +26.77 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
-| monkeymashingkeyboard | 16 | 9 | 1 | +20.13 USD |
+| monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
+| Flaznorp | 41 | 12 | 17 | +5.30 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -68,7 +69,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| Flaznorp | 39 | 12 | 19 | +2.15 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -97,6 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| 1winstreak1 | 24 | 12 | 2 | -4.96 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -104,7 +105,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 1winstreak1 | 23 | 12 | 3 | -5.80 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
@@ -125,22 +125,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 28 | 1 | -21.56 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| wr0ngw4yb3tt0r | 21 | 23 | 15 | -31.77 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| wr0ngw4yb3tt0r | 23 | 25 | 11 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 567 | 353 | 9 | -196.98 USD |
+| ferrariChampions2026 | 569 | 354 | 6 | -198.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4092
-- **Aciertos:** 2587 (63.2%)
+- **Apuestas resueltas:** 4103
+- **Aciertos:** 2595 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,435.24
-- **ROI sobre lo apostado:** -1.27%
-- **Comisiones pagadas (taker fee):** $378.79 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,490.24
+- **ROI sobre lo apostado:** -1.25%
+- **Comisiones pagadas (taker fee):** $379.72 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,9 +148,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2091 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1223 | 69.6% | 67.7% | +1.8 pp |
-| 80-94% | 543 | 85.3% | 86.6% | -1.4 pp |
+| 40-59% | 2095 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1228 | 69.6% | 67.8% | +1.9 pp |
+| 80-94% | 545 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 235 | 96.6% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -849,10 +849,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 3.5 | Under (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.5% | ❌ perdida | -5.14 |
-| Flaznorp | Spread: Seattle Mariners (-2.5) | Athletics (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Spread: Seattle Mariners (-2.5) | Athletics (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
 | Flaznorp | Club León FC vs. CF América: O/U 3.5 | Under (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will SE Palmeiras win on 2026-09-06? | Yes (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ✅ ganada | +1.87 |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.6% | ⏳ pendiente | — |

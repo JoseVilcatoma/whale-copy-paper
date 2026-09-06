@@ -1,5 +1,5 @@
 {
-  "bankroll": 367.3597635747246,
+  "bankroll": 369.92487277422566,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21440,6 +21440,61 @@
       "timestamp": 1788735696.2460127,
       "bankroll": 367.36,
       "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners: O/U 2.5"
+    },
+    {
+      "timestamp": 1788735999.9020078,
+      "bankroll": 371.86,
+      "event": "won: monkeymashingkeyboard \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788736000.2269115,
+      "bankroll": 366.79,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 UD Almer\u00eda vs. C\u00e1diz CF: O/U 3.5"
+    },
+    {
+      "timestamp": 1788736000.3271465,
+      "bankroll": 361.66,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788736001.9950264,
+      "bankroll": 365.33,
+      "event": "won: wr0ngw4yb3tt0r \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788736002.1505175,
+      "bankroll": 367.82,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788736002.250719,
+      "bankroll": 368.66,
+      "event": "won: 1winstreak1 \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788736002.4511166,
+      "bankroll": 371.27,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788736002.992551,
+      "bankroll": 366.12,
+      "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788736003.092773,
+      "bankroll": 366.77,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788736005.0969388,
+      "bankroll": 368.65,
+      "event": "won: Flaznorp \u2014 Spread: San Diego Padres (-3.5)"
+    },
+    {
+      "timestamp": 1788736005.854091,
+      "bankroll": 369.92,
+      "event": "won: Flaznorp \u2014 Spread: Seattle Mariners (-2.5)"
     }
   ]
 }
