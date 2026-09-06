@@ -104144,8 +104144,8 @@
     "title": "San Francisco Giants vs. New York Mets",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 1790.7679999999998,
-    "whale_pct": 37.366,
+    "whale_usd": 3713.546,
+    "whale_pct": 77.487,
     "whale_value_at_open": 4792.4572,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -104156,8 +104156,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788701613.7911198,
-    "fills": 1
+    "last_fill_at": 1788709358.7280433,
+    "fills": 2
   },
   {
     "timestamp": 1788702431,
