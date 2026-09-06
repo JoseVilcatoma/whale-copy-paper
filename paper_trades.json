@@ -103537,8 +103537,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 25324.025333999998,
-    "whale_pct": 13.17,
+    "whale_usd": 43000.379034,
+    "whale_pct": 22.363,
     "whale_value_at_open": 192285.3377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -103549,8 +103549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788696607.34536,
-    "fills": 9
+    "last_fill_at": 1788696788.4993427,
+    "fills": 11
   },
   {
     "timestamp": 1788693314,
@@ -103864,6 +103864,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788696130.2143908,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788696680,
+    "timestamp_added": 1788696680.683553,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-rottoli-angelin-2026-09-06",
+    "title": "Genoa: Lorenzo Rottoli vs Lorenzo Angelini",
+    "outcome": "Lorenzo Angelini",
+    "side": "BUY",
+    "whale_usd": 801.0255000000001,
+    "whale_pct": 0.51,
+    "whale_value_at_open": 157189.1385,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788696680.6835642,
     "fills": 1
   }
 ]
