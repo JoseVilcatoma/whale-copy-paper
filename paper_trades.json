@@ -103479,5 +103479,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788691681.7125564,
     "fills": 2
+  },
+  {
+    "timestamp": 1788692006,
+    "timestamp_added": 1788692006.5468068,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bl2-fur-hei-2026-09-06-total-3pt5",
+    "title": "SpVgg Greuther F\u00fcrth vs. 1. FC Heidenheim 1846: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1067.5964000000001,
+    "whale_pct": 0.522,
+    "whale_value_at_open": 204497.6268,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788692006.546819,
+    "fills": 1
   }
 ]
