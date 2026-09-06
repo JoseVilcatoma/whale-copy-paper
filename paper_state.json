@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.4015090167611,
+  "bankroll": 359.3837112871429,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21385,6 +21385,41 @@
       "timestamp": 1788734403.3408165,
       "bankroll": 373.4,
       "event": "won: Flaznorp \u2014 US Open ATP: Alex Michelsen vs Tomas Etcheverry"
+    },
+    {
+      "timestamp": 1788734526.0891073,
+      "bankroll": 368.27,
+      "event": "lost: pleaseplease123 \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734526.8976088,
+      "bankroll": 363.15,
+      "event": "lost: 1winstreak1 \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734528.6897225,
+      "bankroll": 358.11,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734529.0902867,
+      "bankroll": 362.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734529.1904368,
+      "bankroll": 357.67,
+      "event": "lost:  \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734529.6911461,
+      "bankroll": 359.19,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788734530.4133315,
+      "bankroll": 359.38,
+      "event": "won: 1winstreak1 \u2014 St. Louis Cardinals vs. Colorado Rockies"
     }
   ]
 }
