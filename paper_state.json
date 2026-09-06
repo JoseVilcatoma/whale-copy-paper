@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.26350724823277,
+  "bankroll": 353.9335072482328,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20700,6 +20700,21 @@
       "timestamp": 1788692207.232985,
       "bankroll": 369.26,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Georgii Kravchenko vs Yanaki Milev"
+    },
+    {
+      "timestamp": 1788692844.8692882,
+      "bankroll": 364.21,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: S D Prajwal Dev vs Benjamin O'Connell"
+    },
+    {
+      "timestamp": 1788692845.295323,
+      "bankroll": 359.08,
+      "event": "lost: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788692848.5033898,
+      "bankroll": 353.93,
+      "event": "lost:  \u2014 Shanghai: Mitsuki Wei Kang Leong vs Takeru Yuzuki"
     }
   ]
 }
