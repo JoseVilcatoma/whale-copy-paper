@@ -106238,8 +106238,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 63886.68882200001,
-    "whale_pct": 14.24,
+    "whale_usd": 66219.491422,
+    "whale_pct": 14.759,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106253,8 +106253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788729309.3084834,
-    "fills": 16
+    "last_fill_at": 1788730218.2708073,
+    "fills": 17
   },
   {
     "timestamp": 1788726947,
@@ -106496,8 +106496,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 73681.630714,
-    "whale_pct": 22.636,
+    "whale_usd": 75190.43571399999,
+    "whale_pct": 23.1,
     "whale_value_at_open": 325503.8226,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -106512,8 +106512,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788729633.8514504,
-    "fills": 9
+    "last_fill_at": 1788730261.3367047,
+    "fills": 10
   },
   {
     "timestamp": 1788728418,
@@ -106694,6 +106694,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788729909.5215626,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788730268,
+    "timestamp_added": 1788730268.696896,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "arg-cac-ind-2026-09-06-ind",
+    "title": "Will CA Independiente win on 2026-09-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 999.68,
+    "whale_pct": 0.257,
+    "whale_value_at_open": 388657.4912,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788730268.6969063,
     "fills": 1
   }
 ]

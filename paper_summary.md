@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:29:55 (hora de Perú)
+Actualizado: 2026-09-06 16:31:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $365.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 16:29:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $115.86)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $110.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 560 | 351 | 13 | -206.22 USD |
+| ferrariChampions2026 | 560 | 351 | 14 | -206.22 USD |
 
 ## Análisis general
 
@@ -831,6 +831,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CA Independiente win on 2026-09-06? | Yes (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 5.5 | Under (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 6.5 | Under (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -838,7 +839,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 76% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 22.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Houston Astros | Arizona Diamondbacks (BUY) | 64% | 5.00 | 2.4% | ✅ ganada | +2.72 |
 | wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -848,7 +849,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 10.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: FLY (-1.5) vs Shopify Reb | Shopify Rebellion (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 14.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 14.8% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -860,4 +861,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Miami Marlins (-6.5) | Miami Marlins (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Houston Astros (BUY) | 68% | 5.00 | 1.2% | ✅ ganada | +2.27 |
 | 1winstreak1 | Spread: New York Mets (-1.5) | New York Mets (BUY) | 81% | 5.00 | 1.3% | ✅ ganada | +1.13 |
-|  | Will Olympique de Marseille win on 2026- | Yes (BUY) | 43% | 5.00 | 186.2% | ⏳ pendiente | — |
