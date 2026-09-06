@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:07:20 (hora de Perú)
+Actualizado: 2026-09-06 01:09:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $360.37
-**Retorno acumulado:** -27.93%
+**Bankroll actual:** $374.90
+**Retorno acumulado:** -25.02%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 01:07:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $255.37)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $284.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,9 +31,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | HongYunX | 12 | 6 | 1 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
+|  | 10 | 4 | 0 | +24.15 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-|  | 9 | 4 | 1 | +17.10 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -117,29 +117,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 9 | 9 | 0 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| AV23IUa | 36 | 26 | 0 | -16.14 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | pleaseplease123 | 15 | 17 | 1 | -19.35 USD |
-| AV23IUa | 35 | 26 | 1 | -19.80 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 525 | 334 | 5 | -208.12 USD |
+| ferrariChampions2026 | 526 | 334 | 4 | -204.30 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3927
-- **Aciertos:** 2481 (63.2%)
+- **Apuestas resueltas:** 3930
+- **Aciertos:** 2484 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,610.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $363.23 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,625.24
+- **ROI sobre lo apostado:** -1.27%
+- **Comisiones pagadas (taker fee):** $363.59 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2007 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2010 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1170 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 523 | 85.3% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
@@ -816,7 +816,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |
-|  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ⏳ pendiente | — |
+|  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ✅ ganada | +7.05 |
 | ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 1086.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-2.5) vs MOUZ (+2.5) | MOUZ (BUY) | 80% | 5.00 | 34.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 180.4% | ⏳ pendiente | — |

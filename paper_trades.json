@@ -99145,8 +99145,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -101099,8 +101099,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -102311,8 +102311,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "AV23IUa",
       "ferrariChampions2026"
