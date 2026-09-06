@@ -1,5 +1,5 @@
 {
-  "bankroll": 359.14890301708954,
+  "bankroll": 360.0612839694705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20740,6 +20740,11 @@
       "timestamp": 1788694420.709392,
       "bankroll": 359.15,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Antoine Escoffier vs Adria Soriano Barrera"
+    },
+    {
+      "timestamp": 1788694730.4495683,
+      "bankroll": 360.06,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Manas Dhamne vs William Rejchtman Vinciguerra"
     }
   ]
 }

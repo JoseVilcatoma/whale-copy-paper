@@ -103110,8 +103110,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -103153,8 +103153,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 18216.163224000004,
-    "whale_pct": 12.064,
+    "whale_usd": 19443.403224000005,
+    "whale_pct": 12.877,
     "whale_value_at_open": 150990.7292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -103165,8 +103165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788694429.7945077,
-    "fills": 25
+    "last_fill_at": 1788694778.29422,
+    "fills": 26
   },
   {
     "timestamp": 1788687037,
@@ -103537,8 +103537,8 @@
     "title": "Porto: Facundo Mena vs Hugo Dellien",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 2318.9444,
-    "whale_pct": 1.206,
+    "whale_usd": 9881.999790999998,
+    "whale_pct": 5.139,
     "whale_value_at_open": 192285.3377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -103549,8 +103549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788693246.6258874,
-    "fills": 2
+    "last_fill_at": 1788694746.975448,
+    "fills": 4
   },
   {
     "timestamp": 1788693314,
