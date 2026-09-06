@@ -101092,8 +101092,8 @@
     "title": "US Open ATP: Jakub Mensik vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 6251.932179,
-    "whale_pct": 1.306,
+    "whale_usd": 9401.932179,
+    "whale_pct": 1.965,
     "whale_value_at_open": 478556.7023,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -101106,8 +101106,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788672030.9303234,
-    "fills": 5
+    "last_fill_at": 1788672071.9459863,
+    "fills": 6
   },
   {
     "timestamp": 1788639496,
