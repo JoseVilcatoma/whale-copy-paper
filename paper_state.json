@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.75304072622725,
+  "bankroll": 365.7383939600581,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20750,6 +20750,16 @@
       "timestamp": 1788695046.4974377,
       "bankroll": 361.75,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Togan Tokac vs Tuncay Duran"
+    },
+    {
+      "timestamp": 1788695358.1860235,
+      "bankroll": 364.13,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Oskari Paldanius vs Nicolas Tepmahc"
+    },
+    {
+      "timestamp": 1788695358.8318818,
+      "bankroll": 365.74,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Aoran Wang vs Yaojie Zeng"
     }
   ]
 }
