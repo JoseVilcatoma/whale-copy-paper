@@ -1,5 +1,5 @@
 {
-  "bankroll": 350.406752496078,
+  "bankroll": 352.0114191627447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20835,6 +20835,11 @@
       "timestamp": 1788704585.7604392,
       "bankroll": 350.41,
       "event": "lost: ferrariChampions2026 \u2014 Genoa: Federico Iannaccone vs Alexander Weis"
+    },
+    {
+      "timestamp": 1788704957.3270462,
+      "bankroll": 352.01,
+      "event": "won: ferrariChampions2026 \u2014 KBO: Doosan Bears vs. SSG Landers"
     }
   ]
 }

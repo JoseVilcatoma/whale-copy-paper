@@ -102844,8 +102844,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104245,8 +104245,8 @@
     "title": "Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12687.240800000001,
-    "whale_pct": 13.039,
+    "whale_usd": 32023.4408,
+    "whale_pct": 32.912,
     "whale_value_at_open": 97301.6191,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -104257,8 +104257,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788704508.615144,
-    "fills": 1
+    "last_fill_at": 1788704903.7765965,
+    "fills": 3
   },
   {
     "timestamp": 1788704576,
@@ -104284,6 +104284,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788704577.3000562,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788704955,
+    "timestamp_added": 1788704955.9094977,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-mil-cin-2026-09-06",
+    "title": "Milwaukee Brewers vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 955.007586,
+    "whale_pct": 18.964,
+    "whale_value_at_open": 5035.9905,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788704955.9095087,
     "fills": 1
   }
 ]

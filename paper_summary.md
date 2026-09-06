@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 09:27:21 (hora de Perú)
+Actualizado: 2026-09-06 09:29:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $350.41
-**Retorno acumulado:** -29.92%
+**Bankroll actual:** $352.01
+**Retorno acumulado:** -29.60%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 09:27:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $100.41)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $102.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| monkeymashingkeyboard | 12 | 9 | 1 | +2.57 USD |
+| monkeymashingkeyboard | 12 | 9 | 2 | +2.57 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 548 | 343 | 21 | -209.41 USD |
+| ferrariChampions2026 | 549 | 343 | 20 | -207.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3973
-- **Aciertos:** 2511 (63.2%)
+- **Apuestas resueltas:** 3974
+- **Aciertos:** 2512 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,840.24
-- **ROI sobre lo apostado:** -1.38%
-- **Comisiones pagadas (taker fee):** $367.18 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,845.24
+- **ROI sobre lo apostado:** -1.37%
+- **Comisiones pagadas (taker fee):** $367.24 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2027 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1186 | 69.3% | 67.8% | +1.5 pp |
+| 60-79% | 1187 | 69.3% | 67.8% | +1.6 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
@@ -811,14 +811,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-nip-lgd-2026-09-06 | ColinHe, sbsigner, zofgkt1111 |
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
-| mlb-mil-cin-2026-09-06 | AV23IUa, pleaseplease123 |
+| mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 19.0% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
-| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 13.0% | ⏳ pendiente | — |
+| pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 32.9% | ⏳ pendiente | — |
 | ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Spirit vs MOUZ - Map 1 W | Spirit (BUY) | 61% | 5.00 | 5.1% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | LGD Gaming (BUY) | 44% | 5.00 | 8.5% | ⏳ pendiente | — |
@@ -846,4 +847,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 1.4% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MEGO (-1.5) vs Strael-Bora | megoshort (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
