@@ -104691,8 +104691,8 @@
     "title": "Milwaukee Brewers vs. Cincinnati Reds",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 2693.8752,
-    "whale_pct": 1.919,
+    "whale_usd": 3512.0562,
+    "whale_pct": 2.502,
     "whale_value_at_open": 140372.872,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -104707,8 +104707,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788712034.6423671,
-    "fills": 1
+    "last_fill_at": 1788715067.3710475,
+    "fills": 2
   },
   {
     "timestamp": 1788712090,

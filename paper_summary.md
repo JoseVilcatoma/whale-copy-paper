@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:15:58 (hora de Perú)
+Actualizado: 2026-09-06 12:18:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $348.12
@@ -822,7 +822,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 47% | 5.00 | 3.4% | ⏳ pendiente | — |
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 219.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Houston Astros: | Over (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 41% | 5.00 | 2752.3% | ⏳ pendiente | — |
