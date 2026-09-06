@@ -106238,8 +106238,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 66726.746522,
-    "whale_pct": 14.873,
+    "whale_usd": 69726.746522,
+    "whale_pct": 15.541,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106253,8 +106253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788732465.6866214,
-    "fills": 18
+    "last_fill_at": 1788732607.3831444,
+    "fills": 19
   },
   {
     "timestamp": 1788726947,
@@ -106289,8 +106289,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 43075.4836,
-    "whale_pct": 10.786,
+    "whale_usd": 44219.0533,
+    "whale_pct": 11.073,
     "whale_value_at_open": 399355.5756,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -106303,8 +106303,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788729962.480011,
-    "fills": 7
+    "last_fill_at": 1788732586.1127992,
+    "fills": 8
   },
   {
     "timestamp": 1788727107,
