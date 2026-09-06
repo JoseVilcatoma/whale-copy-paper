@@ -106157,8 +106157,8 @@
     "title": "Athletics vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 785.2,
-    "whale_pct": 0.451,
+    "whale_usd": 3202.4040880000002,
+    "whale_pct": 1.841,
     "whale_value_at_open": 173969.3494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -106169,8 +106169,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788726600.8298101,
-    "fills": 1
+    "last_fill_at": 1788727057.9251006,
+    "fills": 2
   },
   {
     "timestamp": 1788726766,
@@ -106236,8 +106236,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 2997.8826,
-    "whale_pct": 0.668,
+    "whale_usd": 9782.540609,
+    "whale_pct": 2.18,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106251,8 +106251,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788726908.9638689,
-    "fills": 1
+    "last_fill_at": 1788727036.6285563,
+    "fills": 4
   },
   {
     "timestamp": 1788726947,
@@ -106276,6 +106276,89 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788726947.7382386,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788727057,
+    "timestamp_added": 1788727057.926792,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-06",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 7274.3808,
+    "whale_pct": 1.822,
+    "whale_value_at_open": 399355.5756,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788727057.9268,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788727107,
+    "timestamp_added": 1788727107.7776399,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 1087.9826,
+    "whale_pct": 0.641,
+    "whale_value_at_open": 169752.8916,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788727107.7776508,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788727107,
+    "timestamp_added": 1788727108.4114783,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 25000.000000000004,
+    "whale_pct": 30.726,
+    "whale_value_at_open": 81363.5074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont",
+      "pleaseplease123",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788727108.4114885,
     "fills": 1
   }
 ]
