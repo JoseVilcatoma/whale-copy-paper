@@ -1,5 +1,5 @@
 {
-  "bankroll": 352.9168479833271,
+  "bankroll": 364.657466859478,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21230,6 +21230,46 @@
       "timestamp": 1788727706.152517,
       "bankroll": 352.92,
       "event": "lost:  \u2014 Detroit Tigers vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788728629.060538,
+      "bankroll": 359.14,
+      "event": "won: pleaseplease123 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728629.3490121,
+      "bankroll": 354.01,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Juventus FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788728630.4313304,
+      "bankroll": 359.98,
+      "event": "won: Talvez10 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728631.2296286,
+      "bankroll": 365.71,
+      "event": "won: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728631.6414888,
+      "bankroll": 370.4,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728632.5701423,
+      "bankroll": 365.26,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728632.670518,
+      "bankroll": 360.16,
+      "event": "lost: 1winstreak1 \u2014 Chicago Cubs vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788728634.273667,
+      "bankroll": 364.66,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Miami Marlins: O/U 13.5"
     }
   ]
 }

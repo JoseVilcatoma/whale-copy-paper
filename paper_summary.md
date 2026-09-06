@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:03:15 (hora de Perú)
+Actualizado: 2026-09-06 16:05:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $352.92
-**Retorno acumulado:** -29.42%
+**Bankroll actual:** $364.66
+**Retorno acumulado:** -27.07%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 16:03:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $57.92)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $99.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,8 +96,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
+| 1winstreak1 | 19 | 10 | 7 | -4.16 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 18 | 9 | 9 | -4.79 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -107,6 +107,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| pleaseplease123 | 20 | 19 | 2 | -7.64 USD |
+| Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -115,8 +117,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| pleaseplease123 | 19 | 19 | 3 | -13.86 USD |
-| Talvez10 | 11 | 11 | 1 | -14.04 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
@@ -126,21 +126,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| wr0ngw4yb3tt0r | 14 | 19 | 20 | -35.74 USD |
+| wr0ngw4yb3tt0r | 16 | 21 | 17 | -36.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 558 | 350 | 12 | -204.79 USD |
+| ferrariChampions2026 | 558 | 350 | 13 | -204.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4050
-- **Aciertos:** 2558 (63.2%)
+- **Apuestas resueltas:** 4058
+- **Aciertos:** 2563 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,225.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $375.08 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,265.24
+- **ROI sobre lo apostado:** -1.29%
+- **Comisiones pagadas (taker fee):** $376.11 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2072 | 50.0% | 50.1% | -0.2 pp |
-| 60-79% | 1211 | 69.4% | 67.7% | +1.7 pp |
+| 40-59% | 2079 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1212 | 69.4% | 67.7% | +1.7 pp |
 | 80-94% | 536 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 231 | 96.5% | 97.3% | -0.8 pp |
 
@@ -821,7 +821,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-pit-2026-09-06 | 1winstreak1, Feromont, Talvez10, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-nyy-sd-2026-09-06 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard, wr0ngw4yb3tt0r |
-| mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard, wr0ngw4yb3tt0r |
+| mlb-tb-tex-2026-09-06 | 1winstreak1, ferrariChampions2026, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-stl-col-2026-09-06 | , 1winstreak1, Feromont, ferrariChampions2026, pleaseplease123, wr0ngw4yb3tt0r |
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -831,6 +831,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 76% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 88% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Athletics (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -842,7 +844,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: FLY (-1.5) vs Shopify Reb | Shopify Rebellion (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 10.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 44% | 5.00 | 10.4% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -859,5 +861,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | New York Mets (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
 | Feromont | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 15.1% | 💰 vendida anticipada | -3.01 |
 | 1winstreak1 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 66% | 5.00 | 1.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 51. | Under (BUY) | 51% | 5.00 | 11.4% | ⏳ pendiente | — |
