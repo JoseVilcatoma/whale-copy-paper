@@ -104941,8 +104941,8 @@
     "title": "Chicago Cubs vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 860.4,
-    "whale_pct": 19.874,
+    "whale_usd": 2845.46,
+    "whale_pct": 65.727,
     "whale_value_at_open": 4329.1992,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -104956,8 +104956,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788717376.6274772,
-    "fills": 1
+    "last_fill_at": 1788718185.8973143,
+    "fills": 2
   },
   {
     "timestamp": 1788717741,
