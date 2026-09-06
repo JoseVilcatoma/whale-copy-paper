@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.0612839694705,
+  "bankroll": 361.75304072622725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20745,6 +20745,11 @@
       "timestamp": 1788694730.4495683,
       "bankroll": 360.06,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Manas Dhamne vs William Rejchtman Vinciguerra"
+    },
+    {
+      "timestamp": 1788695046.4974377,
+      "bankroll": 361.75,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Togan Tokac vs Tuncay Duran"
     }
   ]
 }
