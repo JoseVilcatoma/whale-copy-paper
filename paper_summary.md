@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:18:41 (hora de Perú)
+Actualizado: 2026-09-06 10:20:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $335.38
-**Retorno acumulado:** -32.92%
+**Bankroll actual:** $338.72
+**Retorno acumulado:** -32.26%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 10:18:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $95.38)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $113.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -109,38 +109,38 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 10 | 7 | 0 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
+| sbsigner | 3 | 4 | 1 | -8.73 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | Talvez10 | 9 | 9 | 0 | -11.28 USD |
-| sbsigner | 2 | 4 | 2 | -12.87 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 16 | 17 | 5 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| AV23IUa | 36 | 26 | 5 | -16.14 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
+| AV23IUa | 36 | 27 | 4 | -21.26 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 549 | 345 | 18 | -218.02 USD |
+| ferrariChampions2026 | 550 | 345 | 17 | -213.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3979
-- **Aciertos:** 2513 (63.2%)
+- **Apuestas resueltas:** 3982
+- **Aciertos:** 2515 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,870.24
-- **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $367.80 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,885.24
+- **ROI sobre lo apostado:** -1.44%
+- **Comisiones pagadas (taker fee):** $368.15 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.41% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2031 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2034 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1188 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -831,7 +831,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 61% | 5.00 | 16.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 62% | 5.00 | 3.1% | ⏳ pendiente | — |
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ⏳ pendiente | — |
-| AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 710.8% | ⏳ pendiente | — |
+| AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 710.8% | ❌ perdida | -5.12 |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming - G | Ninjas in Pyjamas (BUY) | 60% | 5.00 | 20.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | SC Heerenveen vs. AZ: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |

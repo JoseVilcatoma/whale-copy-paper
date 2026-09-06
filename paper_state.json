@@ -1,5 +1,5 @@
 {
-  "bankroll": 335.38199059131614,
+  "bankroll": 338.7232121147264,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20865,6 +20865,21 @@
       "timestamp": 1788707791.688687,
       "bankroll": 335.38,
       "event": "lost: Jsram \u2014 Everton FC vs. Manchester United FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1788708037.0456998,
+      "bankroll": 339.53,
+      "event": "won: sbsigner \u2014 Will Manchester United FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788708037.246048,
+      "bankroll": 343.84,
+      "event": "won: ferrariChampions2026 \u2014 Will Manchester United FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788708039.7158585,
+      "bankroll": 338.72,
+      "event": "lost: AV23IUa \u2014 Will Manchester United FC win on 2026-09-06?"
     }
   ]
 }
