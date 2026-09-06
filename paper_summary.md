@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:56:27 (hora de Perú)
+Actualizado: 2026-09-06 16:58:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 16:56:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $45.72)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $40.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Flaznorp | 36 | 12 | 7 | +0.85 USD |
+| Flaznorp | 36 | 12 | 8 | +0.85 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -833,6 +833,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will SE Palmeiras win on 2026-09-06? | Yes (BUY) | 43% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -841,7 +842,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers: O/U 15 | Under (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -862,4 +863,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 46% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 |  | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 51% | 5.00 | 30.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 10.8% | ⏳ pendiente | — |
