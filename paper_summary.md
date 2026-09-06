@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 03:56:50 (hora de Perú)
+Actualizado: 2026-09-06 03:58:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 03:56:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $204.79)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $199.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| zofgkt1111 | 10 | 8 | 4 | +8.68 USD |
+| zofgkt1111 | 10 | 8 | 5 | +8.68 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -810,6 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Arjun Kadhe vs Tsung-Hao Huang | Tsung-Hao Huang (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |
 |  | US Open ATP: Jakub Mensik vs Learner Tie | Learner Tien (BUY) | 41% | 5.00 | 16.6% | ✅ ganada | +7.05 |
 | ExplosiveNinja | Counter-Strike: Spirit vs MOUZ (BO5) - B | Spirit (BUY) | 65% | 5.00 | 1477.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-2.5) vs MOUZ (+2.5) | MOUZ (BUY) | 80% | 5.00 | 34.5% | ⏳ pendiente | — |

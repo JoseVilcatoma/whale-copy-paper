@@ -102971,5 +102971,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788684962.4403229,
     "fills": 1
+  },
+  {
+    "timestamp": 1788685122,
+    "timestamp_added": 1788685122.5883942,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-ig1-we-2026-09-06-game4",
+    "title": "LoL: Invictus Gaming vs Team WE - Game 4 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 2991.7169999999996,
+    "whale_pct": 7.736,
+    "whale_value_at_open": 38673.541,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788685128.0706964,
+    "fills": 2
   }
 ]
