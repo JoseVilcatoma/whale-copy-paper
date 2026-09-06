@@ -1,5 +1,5 @@
 {
-  "bankroll": 365.7383939600581,
+  "bankroll": 370.55215541769275,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20760,6 +20760,16 @@
       "timestamp": 1788695358.8318818,
       "bankroll": 365.74,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Aoran Wang vs Yaojie Zeng"
+    },
+    {
+      "timestamp": 1788695666.2910225,
+      "bankroll": 367.71,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: IG (-2.5) vs Team WE (+2.5)"
+    },
+    {
+      "timestamp": 1788695668.4375648,
+      "bankroll": 370.55,
+      "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 4 Winner"
     }
   ]
 }
