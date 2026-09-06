@@ -102331,8 +102331,8 @@
     "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 1403.3818849999998,
-    "whale_pct": 14.726,
+    "whale_usd": 19248.769884999998,
+    "whale_pct": 201.988,
     "whale_value_at_open": 9529.6803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -102345,8 +102345,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788667164.6511939,
-    "fills": 2
+    "last_fill_at": 1788692260.3508384,
+    "fills": 3
   },
   {
     "timestamp": 1788671336,
