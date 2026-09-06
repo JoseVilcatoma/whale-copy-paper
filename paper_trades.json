@@ -102765,8 +102765,8 @@
     "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 15288.8094,
-    "whale_pct": 14.699,
+    "whale_usd": 20431.889400000007,
+    "whale_pct": 19.644,
     "whale_value_at_open": 104013.4139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -102777,8 +102777,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788682783.1105566,
-    "fills": 20
+    "last_fill_at": 1788682909.1600752,
+    "fills": 27
   },
   {
     "timestamp": 1788682735,
@@ -102802,6 +102802,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788682736.2053366,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788682805,
+    "timestamp_added": 1788682805.569532,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-reguig-zhukov-2026-09-06",
+    "title": "Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov",
+    "outcome": "Samir Hamza Reguig",
+    "side": "BUY",
+    "whale_usd": 1210.515452,
+    "whale_pct": 0.918,
+    "whale_value_at_open": 131868.5032,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788682805.5695448,
     "fills": 1
   }
 ]
