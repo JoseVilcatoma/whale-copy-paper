@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 00:31:35 (hora de Perú)
+Actualizado: 2026-09-06 00:33:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 00:31:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $265.37)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $260.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 525 | 334 | 4 | -208.12 USD |
+| ferrariChampions2026 | 525 | 334 | 5 | -208.12 USD |
 
 ## Análisis general
 
@@ -810,6 +810,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Deportivo Alavés vs. CA Osasuna: O/U 1.5 | Over (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -839,4 +840,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 48% | 5.00 | 2.7% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open ATP: Zizou Bergs vs Botic van de | Botic van de Zandschulp (BUY) | 46% | 5.00 | 1.5% | ✅ ganada | +5.73 |
 | Sassy-Bucket | Wyoming vs. Colorado State | Colorado State (BUY) | 57% | 5.00 | 1.1% | ✅ ganada | +3.66 |
-| Sassy-Bucket | Western Kentucky vs. Nevada | Western Kentucky (BUY) | 51% | 5.00 | 7.6% | ⏳ pendiente | — |

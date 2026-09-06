@@ -102419,5 +102419,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788671898.8191092,
     "fills": 7
+  },
+  {
+    "timestamp": 1788672779,
+    "timestamp_added": 1788672779.5619051,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-ala-osa-2026-09-06-total-1pt5",
+    "title": "Deportivo Alav\u00e9s vs. CA Osasuna: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 550.5500000000001,
+    "whale_pct": 0.264,
+    "whale_value_at_open": 208158.0927,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788672779.5619211,
+    "fills": 1
   }
 ]
