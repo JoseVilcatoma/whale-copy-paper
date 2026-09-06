@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.128152869015,
+  "bankroll": 355.8411017137141,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21030,6 +21030,36 @@
       "timestamp": 1788723512.6042318,
       "bankroll": 360.13,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: SPARTA vs ex-Zero Tenacity (BO3) - CCT Europe Series #8 Group Stage"
+    },
+    {
+      "timestamp": 1788724138.6511176,
+      "bankroll": 355.03,
+      "event": "lost: AV23IUa \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724139.238801,
+      "bankroll": 349.93,
+      "event": "lost: pleaseplease123 \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724139.3389666,
+      "bankroll": 356.41,
+      "event": "won: monkeymashingkeyboard \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724141.0484126,
+      "bankroll": 360.55,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724141.1485772,
+      "bankroll": 355.43,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Milwaukee Brewers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788724142.5509763,
+      "bankroll": 355.84,
+      "event": "won: 1winstreak1 \u2014 Milwaukee Brewers vs. Cincinnati Reds"
     }
   ]
 }
