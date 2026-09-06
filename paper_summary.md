@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 17:42:17 (hora de Perú)
+Actualizado: 2026-09-06 17:44:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $359.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 17:42:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $104.38)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $94.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| Flaznorp | 39 | 12 | 11 | +2.15 USD |
+| Flaznorp | 39 | 12 | 13 | +2.15 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -833,8 +833,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will CD Universidad Catolica del Ecuador | No (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Trujillanos FC win on 2026-09-06? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 60% | 5.00 | 3.8% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: Both Teams | No (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 3.5 | Under (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -851,7 +853,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ✅ ganada | +0.05 |
 | Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 1.2% | ⏳ pendiente | — |
+| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 96% | 5.00 | 1.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers: O/U 15 | Under (BUY) | 69% | 5.00 | 0.6% | ✅ ganada | +2.17 |
@@ -861,5 +863,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Athletics vs. Seattle Mariners: O/U 6.5 | Under (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 94% | 5.00 | 0.1% | ✅ ganada | +0.30 |
-| ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 64% | 5.00 | 4.3% | ✅ ganada | +2.72 |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |
