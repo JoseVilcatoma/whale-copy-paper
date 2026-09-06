@@ -102635,5 +102635,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788678627.999916,
     "fills": 3
+  },
+  {
+    "timestamp": 1788678918,
+    "timestamp_added": 1788678919.343474,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-reguig-zhukov-2026-09-06",
+    "title": "Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov",
+    "outcome": "Maxim Zhukov",
+    "side": "BUY",
+    "whale_usd": 5786.309043,
+    "whale_pct": 7.199,
+    "whale_value_at_open": 80379.7163,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788678967.6522334,
+    "fills": 3
   }
 ]
