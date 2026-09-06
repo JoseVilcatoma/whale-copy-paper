@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.20986148206885,
+  "bankroll": 351.0978614820688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20930,6 +20930,11 @@
       "timestamp": 1788712037.3399968,
       "bankroll": 356.21,
       "event": "lost: ferrariChampions2026 \u2014 SC Heerenveen vs. AZ: O/U 3.5"
+    },
+    {
+      "timestamp": 1788712653.9849522,
+      "bankroll": 351.1,
+      "event": "lost: ferrariChampions2026 \u2014 Telstar 1963 vs. SC Cambuur-Leeuwarden: O/U 3.5"
     }
   ]
 }
