@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 17:33:52 (hora de Perú)
+Actualizado: 2026-09-06 17:35:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $378.10
-**Retorno acumulado:** -24.38%
+**Bankroll actual:** $373.05
+**Retorno acumulado:** -25.39%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 17:33:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $83.10)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $83.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 563 | 351 | 14 | -199.46 USD |
+| ferrariChampions2026 | 563 | 352 | 13 | -204.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4078
+- **Apuestas resueltas:** 4079
 - **Aciertos:** 2579 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,365.24
-- **ROI sobre lo apostado:** -1.22%
-- **Comisiones pagadas (taker fee):** $377.63 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,370.24
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $377.67 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2084 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1221 | 69.5% | 67.7% | +1.8 pp |
-| 80-94% | 540 | 85.6% | 86.6% | -1.1 pp |
+| 80-94% | 541 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 233 | 96.6% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -844,7 +844,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Diego Padres (-3.5) | New York Yankees (BUY) | 72% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | CA Central Córdoba vs. CA Independiente: | Under (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 34. | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.2% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 78% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: SE Palmeiras (-1.5) | Botafogo FR (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ✅ ganada | +0.05 |
 | Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |

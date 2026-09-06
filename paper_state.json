@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.09685503008586,
+  "bankroll": 373.04985503008584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21370,6 +21370,11 @@
       "timestamp": 1788733528.9664328,
       "bankroll": 378.1,
       "event": "won: Flaznorp \u2014 CA Central C\u00f3rdoba vs. CA Independiente: O/U 1.5"
+    },
+    {
+      "timestamp": 1788734086.5521188,
+      "bankroll": 373.05,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: FLY (-1.5) vs Shopify Rebellion (+1.5)"
     }
   ]
 }
