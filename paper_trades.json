@@ -107914,8 +107914,8 @@
     "title": "Club Le\u00f3n FC vs. CF Am\u00e9rica: O/U 0.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1058.03,
-    "whale_pct": 0.657,
+    "whale_usd": 1600.75,
+    "whale_pct": 0.995,
     "whale_value_at_open": 160920.1604,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -107926,8 +107926,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788738225.0742304,
-    "fills": 1
+    "last_fill_at": 1788738606.7299826,
+    "fills": 2
   },
   {
     "timestamp": 1788738385,
@@ -107962,8 +107962,8 @@
     "title": "SC Corinthians Paulista vs. Associa\u00e7\u00e3o Chapecoense de Futebol: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 669.565217,
-    "whale_pct": 0.236,
+    "whale_usd": 1435.3352169999998,
+    "whale_pct": 0.507,
     "whale_value_at_open": 283337.2978,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -107974,8 +107974,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788738387.3769598,
-    "fills": 1
+    "last_fill_at": 1788738669.765764,
+    "fills": 2
   },
   {
     "timestamp": 1788738429,
@@ -108049,6 +108049,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788738523.208054,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788738655,
+    "timestamp_added": 1788738656.5009024,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "cfb-wisc-nd-2026-09-06-spread-home-20pt5",
+    "title": "Spread: Notre Dame (-20.5)",
+    "outcome": "Wisconsin",
+    "side": "BUY",
+    "whale_usd": 519.8512000000001,
+    "whale_pct": 1.627,
+    "whale_value_at_open": 31948.6053,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788738656.5009162,
     "fills": 1
   }
 ]
