@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:09:14 (hora de Perú)
+Actualizado: 2026-09-06 14:11:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.41
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:09:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $51.41)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $46.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | AV23IUa | 37 | 27 | 3 | -19.98 USD |
-| wr0ngw4yb3tt0r | 9 | 13 | 17 | -21.58 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 18 | -21.58 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -817,7 +817,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-chc-mia-2026-09-06 | 1winstreak1, Talvez10, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-det-cle-2026-09-06 | 1winstreak1, Talvez10, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
-| mlb-laa-pit-2026-09-06 | 1winstreak1, Feromont, Talvez10 |
+| mlb-laa-pit-2026-09-06 | 1winstreak1, Feromont, Talvez10, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard |
 
@@ -825,6 +825,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 75% | 5.00 | 24.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -854,4 +855,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 46% | 5.00 | 11.3% | ⏳ pendiente | — |
 | Talvez10 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 47% | 5.00 | 3.4% | ⏳ pendiente | — |
-| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 219.9% | ⏳ pendiente | — |

@@ -105477,5 +105477,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788721351.824694,
     "fills": 1
+  },
+  {
+    "timestamp": 1788721815,
+    "timestamp_added": 1788721816.1019785,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-laa-pit-2026-09-06",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 3576.0,
+    "whale_pct": 1.723,
+    "whale_value_at_open": 207596.7754,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont",
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788721816.1019905,
+    "fills": 1
   }
 ]
