@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 13:34:04 (hora de Perú)
+Actualizado: 2026-09-06 13:36:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $347.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 13:34:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $57.52)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $42.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 4 | -7.85 USD |
+| 1winstreak1 | 10 | 7 | 6 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -114,7 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| pleaseplease123 | 17 | 17 | 5 | -11.05 USD |
+| pleaseplease123 | 17 | 17 | 6 | -11.05 USD |
 | Talvez10 | 9 | 9 | 5 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -823,6 +823,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins: O/U 8.5 | Over (BUY) | 66% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Chicago Cubs (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 50% | 5.00 | 23.4% | ⏳ pendiente | — |
 | 1winstreak1 | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 61% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -834,7 +837,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
-| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 65.7% | ⏳ pendiente | — |
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 112.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-21.5) | Washington State (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: WaR (-1.5) vs Wanted Goons | Without a Roof (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -850,6 +853,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 41% | 5.00 | 2752.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CA Rosario Central win on 2026-09-0 | Yes (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 62% | 5.00 | 23.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
-| sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 31.3% | ✅ ganada | +1.60 |
