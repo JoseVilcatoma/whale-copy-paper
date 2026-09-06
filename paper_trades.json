@@ -107596,8 +107596,8 @@
     "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 6462.74,
-    "whale_pct": 4.874,
+    "whale_usd": 26456.097028,
+    "whale_pct": 19.951,
     "whale_value_at_open": 132604.0255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -107608,8 +107608,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788736655.1839676,
-    "fills": 2
+    "last_fill_at": 1788737012.7615297,
+    "fills": 8
   },
   {
     "timestamp": 1788736640,
@@ -107635,6 +107635,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788736640.9108787,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788737022,
+    "timestamp_added": 1788737023.20435,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mex-caz-san-2026-09-06-total-2pt5",
+    "title": "CF Cruz Azul vs. Club Santos Laguna: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 567.5,
+    "whale_pct": 0.151,
+    "whale_value_at_open": 375564.4188,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788737023.204362,
     "fills": 1
   }
 ]
