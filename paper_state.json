@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.8963172217665,
+  "bankroll": 369.7683172217665,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20620,6 +20620,11 @@
       "timestamp": 1788674961.425438,
       "bankroll": 374.9,
       "event": "won:  \u2014 US Open ATP: Jakub Mensik vs Learner Tien"
+    },
+    {
+      "timestamp": 1788675025.334014,
+      "bankroll": 369.77,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Ethan Cook vs Jesse Flores"
     }
   ]
 }

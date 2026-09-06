@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 01:09:27 (hora de Perú)
+Actualizado: 2026-09-06 01:11:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $374.90
-**Retorno acumulado:** -25.02%
+**Bankroll actual:** $369.77
+**Retorno acumulado:** -26.05%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 01:09:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $284.90)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $284.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,18 +128,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 41 | 1 | -96.50 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 526 | 334 | 4 | -204.30 USD |
+| ferrariChampions2026 | 526 | 335 | 3 | -209.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3930
+- **Apuestas resueltas:** 3931
 - **Aciertos:** 2484 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,625.24
-- **ROI sobre lo apostado:** -1.27%
-- **Comisiones pagadas (taker fee):** $363.59 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,630.24
+- **ROI sobre lo apostado:** -1.30%
+- **Comisiones pagadas (taker fee):** $363.72 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -147,7 +147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2010 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2011 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1170 | 69.4% | 67.8% | +1.6 pp |
 | 80-94% | 523 | 85.3% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 227 | 96.5% | 97.3% | -0.9 pp |
@@ -812,7 +812,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 1winstreak1 | UCLA vs. California | UCLA (BUY) | 94% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. CA Osasuna: O/U 1.5 | Over (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. US Sassuolo Calcio:  | Over (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | Spirit (BUY) | 45% | 5.00 | 14.7% | ⏳ pendiente | — |
