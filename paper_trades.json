@@ -105020,8 +105020,8 @@
     "title": "Chicago Cubs vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 614.6899999999999,
-    "whale_pct": 0.327,
+    "whale_usd": 3734.7495,
+    "whale_pct": 1.986,
     "whale_value_at_open": 188020.448,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -105036,8 +105036,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788718627.5524848,
-    "fills": 1
+    "last_fill_at": 1788721166.8482125,
+    "fills": 2
   },
   {
     "timestamp": 1788719019,
@@ -105420,6 +105420,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788720905.692385,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788721139,
+    "timestamp_added": 1788721140.1232853,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "mlb-laa-pit-2026-09-06",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 9956.796199999999,
+    "whale_pct": 24.232,
+    "whale_value_at_open": 41089.2899,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788721140.1232984,
     "fills": 1
   }
 ]
