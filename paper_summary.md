@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 05:27:29 (hora de Perú)
+Actualizado: 2026-09-06 05:29:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $368.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 05:27:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $163.48)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $158.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 533 | 335 | 23 | -200.50 USD |
+| ferrariChampions2026 | 533 | 335 | 24 | -200.50 USD |
 
 ## Análisis general
 
@@ -812,6 +812,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcara | Carlos Alcaraz (BUY) | 83% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Aoran Wang vs Yaojie Zeng | Yaojie Zeng (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien (BUY) | 62% | 5.00 | 20.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -841,4 +842,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 46.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 3 | Team WE (BUY) | 47% | 5.00 | 92.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Marta Kostyuk vs Linda Nosk | Linda Noskova (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |

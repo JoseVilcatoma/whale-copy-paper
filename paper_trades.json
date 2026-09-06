@@ -103383,5 +103383,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788689597.585351,
     "fills": 1
+  },
+  {
+    "timestamp": 1788690482,
+    "timestamp_added": 1788690483.0066724,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-paul-alcaraz-2026-09-06",
+    "title": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "whale_usd": 4625.6599989999995,
+    "whale_pct": 2.018,
+    "whale_value_at_open": 229221.1477,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788690483.0066855,
+    "fills": 1
   }
 ]
