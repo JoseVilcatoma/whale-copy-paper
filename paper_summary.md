@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:38:45 (hora de Perú)
+Actualizado: 2026-09-06 15:40:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 15:38:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $22.69)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $7.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| Feromont | 10 | 2 | 1 | +29.78 USD |
+| Feromont | 10 | 2 | 2 | +29.78 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 61 | 36 | 5 | +25.04 USD |
@@ -125,11 +125,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 37 | 28 | 2 | -25.08 USD |
-| wr0ngw4yb3tt0r | 12 | 17 | 23 | -31.35 USD |
+| wr0ngw4yb3tt0r | 12 | 17 | 24 | -31.35 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 558 | 349 | 8 | -199.67 USD |
+| ferrariChampions2026 | 558 | 349 | 9 | -199.67 USD |
 
 ## Análisis general
 
@@ -825,11 +825,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-col-2026-09-06 | , 1winstreak1, Feromont, pleaseplease123, wr0ngw4yb3tt0r |
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-oak-sea-2026-09-06 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-min-cws-2026-09-06 | Feromont, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Minnesota Twins vs. Chicago White Sox | Minnesota Twins (BUY) | 43% | 5.00 | 2.6% | ⏳ pendiente | — |
+| Feromont | Minnesota Twins vs. Chicago White Sox | Chicago White Sox (BUY) | 59% | 5.00 | 27.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | Arizona Diamondbacks (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 51% | 5.00 | 30.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 65% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -857,6 +861,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 41% | 5.00 | 34.8% | 💰 vendida anticipada | +5.01 |
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 34.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
-| 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 14.8% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
