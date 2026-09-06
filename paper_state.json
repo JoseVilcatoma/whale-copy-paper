@@ -1,5 +1,5 @@
 {
-  "bankroll": 357.2439871692031,
+  "bankroll": 364.26467011640847,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21090,6 +21090,26 @@
       "timestamp": 1788725342.8997793,
       "bankroll": 357.24,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Will CA Rosario Central win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788725849.7800455,
+      "bankroll": 360.09,
+      "event": "won: Talvez10 \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788725852.4183335,
+      "bankroll": 361.61,
+      "event": "won: 1winstreak1 \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788725852.6186764,
+      "bankroll": 363.21,
+      "event": "won: Feromont \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788725852.8189638,
+      "bankroll": 364.26,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Angels vs. Pittsburgh Pirates"
     }
   ]
 }
