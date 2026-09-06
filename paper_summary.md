@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 19:27:21 (hora de Perú)
+Actualizado: 2026-09-05 19:29:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.58
@@ -809,7 +809,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 61.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 127.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 52% | 5.00 | 2.9% | ⏳ pendiente | — |

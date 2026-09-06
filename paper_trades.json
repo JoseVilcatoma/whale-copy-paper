@@ -102184,8 +102184,8 @@
     "title": "Counter-Strike: SportsBetExpert vs Iowa Stormboar (BO3) - NSTLGA League Group Stage",
     "outcome": "SportsBetExpert",
     "side": "BUY",
-    "whale_usd": 4892.2766,
-    "whale_pct": 61.482,
+    "whale_usd": 10141.55,
+    "whale_pct": 127.45,
     "whale_value_at_open": 7957.2517,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -102196,7 +102196,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788653653.855038,
-    "fills": 1
+    "last_fill_at": 1788654555.1245003,
+    "fills": 2
   }
 ]
