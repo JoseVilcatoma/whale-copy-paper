@@ -1,5 +1,5 @@
 {
-  "bankroll": 353.1860176415723,
+  "bankroll": 362.0628917850991,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20895,6 +20895,16 @@
       "timestamp": 1788708664.6804821,
       "bankroll": 353.19,
       "event": "won: ferrariChampions2026 \u2014 SpVgg Greuther F\u00fcrth vs. 1. FC Heidenheim 1846: O/U 3.5"
+    },
+    {
+      "timestamp": 1788709228.1691275,
+      "bankroll": 358.69,
+      "event": "won: ferrariChampions2026 \u2014 Hertha BSC vs. 1. FC Magdeburg: O/U 3.5"
+    },
+    {
+      "timestamp": 1788709229.6210117,
+      "bankroll": 362.06,
+      "event": "won: ferrariChampions2026 \u2014 Henan FC vs. Chengdu Rongcheng FC: O/U 2.5"
     }
   ]
 }
