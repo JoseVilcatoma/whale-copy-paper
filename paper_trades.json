@@ -103489,8 +103489,8 @@
     "title": "SpVgg Greuther F\u00fcrth vs. 1. FC Heidenheim 1846: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1067.5964000000001,
-    "whale_pct": 0.522,
+    "whale_usd": 1922.9104000000002,
+    "whale_pct": 0.94,
     "whale_value_at_open": 204497.6268,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -103501,7 +103501,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788692006.546819,
-    "fills": 1
+    "last_fill_at": 1788692357.9713318,
+    "fills": 2
   }
 ]
