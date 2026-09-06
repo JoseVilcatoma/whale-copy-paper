@@ -1,5 +1,5 @@
 {
-  "bankroll": 343.01609366087894,
+  "bankroll": 353.8817870406699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20590,6 +20590,16 @@
       "timestamp": 1788670001.1261082,
       "bankroll": 343.02,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: SportsBetExpert vs Iowa Stormboar (BO3) - NSTLGA League Group Stage"
+    },
+    {
+      "timestamp": 1788670865.4347394,
+      "bankroll": 350.06,
+      "event": "won: ferrariChampions2026 \u2014 Will Portland Timbers win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788670865.7039614,
+      "bankroll": 353.88,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Vancouver Whitecaps FC (-1.5)"
     }
   ]
 }
