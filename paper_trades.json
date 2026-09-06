@@ -104418,8 +104418,8 @@
     "title": "Will Juventus FC win on 2026-09-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 17417.997000000003,
-    "whale_pct": 14.054,
+    "whale_usd": 18373.530700000003,
+    "whale_pct": 14.825,
     "whale_value_at_open": 123935.3766,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -104430,8 +104430,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788708750.1236398,
-    "fills": 1
+    "last_fill_at": 1788721541.4821224,
+    "fills": 2
   },
   {
     "timestamp": 1788708949,
