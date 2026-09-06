@@ -1,5 +1,5 @@
 {
-  "bankroll": 367.101360596076,
+  "bankroll": 369.9458685325839,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20795,6 +20795,11 @@
       "timestamp": 1788698585.9937768,
       "bankroll": 367.1,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Radu David Turcanu vs Egor Agafonov"
+    },
+    {
+      "timestamp": 1788698708.5162783,
+      "bankroll": 369.95,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Saba Purtseladze vs Izan Almazan Valiente"
     }
   ]
 }
