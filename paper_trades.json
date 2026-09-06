@@ -103455,5 +103455,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788691188.9772677,
     "fills": 1
+  },
+  {
+    "timestamp": 1788691447,
+    "timestamp_added": 1788691448.061939,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-siniako-visker-2026-09-06",
+    "title": "Tulln: Daniel Siniakov vs Niels Visker",
+    "outcome": "Daniel Siniakov",
+    "side": "BUY",
+    "whale_usd": 520.2,
+    "whale_pct": 0.236,
+    "whale_value_at_open": 220129.5074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788691448.061952,
+    "fills": 1
   }
 ]
