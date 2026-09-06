@@ -1,5 +1,5 @@
 {
-  "bankroll": 352.43629061144685,
+  "bankroll": 354.0409572781135,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20955,6 +20955,11 @@
       "timestamp": 1788716677.4934893,
       "bankroll": 352.44,
       "event": "won: pleaseplease123 \u2014 Milwaukee Brewers vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1788716919.919202,
+      "bankroll": 354.04,
+      "event": "won: sbsigner \u2014 Will Arsenal FC vs. Chelsea FC end in a draw?"
     }
   ]
 }
