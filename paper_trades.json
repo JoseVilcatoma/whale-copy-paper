@@ -104432,5 +104432,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788708750.1236398,
     "fills": 1
+  },
+  {
+    "timestamp": 1788708949,
+    "timestamp_added": 1788708950.2533712,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-washst-wash-2026-09-06",
+    "title": "Washington State vs. Washington",
+    "outcome": "Washington",
+    "side": "BUY",
+    "whale_usd": 1399.684542,
+    "whale_pct": 1.134,
+    "whale_value_at_open": 123379.5462,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788708950.2533863,
+    "fills": 1
   }
 ]
