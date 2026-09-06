@@ -103633,8 +103633,8 @@
     "title": "Istanbul 3: Radu David Turcanu vs Egor Agafonov",
     "outcome": "Radu David Turcanu",
     "side": "BUY",
-    "whale_usd": 1135.9893850000003,
-    "whale_pct": 0.572,
+    "whale_usd": 2804.7949850000005,
+    "whale_pct": 1.413,
     "whale_value_at_open": 198501.4558,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -103645,8 +103645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788694335.4854608,
-    "fills": 2
+    "last_fill_at": 1788694916.1748843,
+    "fills": 4
   },
   {
     "timestamp": 1788694334,
@@ -103681,8 +103681,8 @@
     "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1116.4013,
-    "whale_pct": 0.554,
+    "whale_usd": 2188.9853000000003,
+    "whale_pct": 1.087,
     "whale_value_at_open": 201382.3012,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -103693,7 +103693,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788694616.8250115,
+    "last_fill_at": 1788694884.4619157,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788694883,
+    "timestamp_added": 1788694884.0273077,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-bos-bal-2026-09-06-total-7pt5",
+    "title": "Boston Red Sox vs. Baltimore Orioles: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 12361.439999999999,
+    "whale_pct": 48.146,
+    "whale_value_at_open": 25674.7358,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788694884.0273182,
     "fills": 1
   }
 ]
