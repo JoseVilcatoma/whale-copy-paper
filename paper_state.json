@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.6491688511663,
+  "bankroll": 355.52716885116627,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20725,6 +20725,11 @@
       "timestamp": 1788693478.0558102,
       "bankroll": 360.65,
       "event": "won: ferrariChampions2026 \u2014 Kashima Antlers vs. Urawa Red Diamonds: O/U 2.5"
+    },
+    {
+      "timestamp": 1788693794.9720669,
+      "bankroll": 355.53,
+      "event": "lost: ferrariChampions2026 \u2014 Seville: Alejo Sanchez Quilez vs Alejandro Turriziani Alvarez"
     }
   ]
 }
