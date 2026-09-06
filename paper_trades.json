@@ -107596,8 +107596,8 @@
     "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 31905.489028,
-    "whale_pct": 24.061,
+    "whale_usd": 32649.969173,
+    "whale_pct": 24.622,
     "whale_value_at_open": 132604.0255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -107608,8 +107608,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788737826.8469002,
-    "fills": 9
+    "last_fill_at": 1788738224.7777011,
+    "fills": 10
   },
   {
     "timestamp": 1788736640,
@@ -107620,8 +107620,8 @@
     "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 9705.489997,
-    "whale_pct": 7.319,
+    "whale_usd": 14474.672825000001,
+    "whale_pct": 10.916,
     "whale_value_at_open": 132604.0255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -107634,8 +107634,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788736640.9108787,
-    "fills": 1
+    "last_fill_at": 1788738292.5896647,
+    "fills": 2
   },
   {
     "timestamp": 1788737022,
@@ -107890,8 +107890,8 @@
     "title": "Spread: Ole Miss (-6.5)",
     "outcome": "Louisville",
     "side": "BUY",
-    "whale_usd": 1776.3784609999998,
-    "whale_pct": 0.554,
+    "whale_usd": 4481.293661,
+    "whale_pct": 1.399,
     "whale_value_at_open": 320420.5576,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -107902,7 +107902,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788738105.9480765,
+    "last_fill_at": 1788738237.1729014,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788738224,
+    "timestamp_added": 1788738225.0742202,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lec-leo-ame-2026-09-06-total-0pt5",
+    "title": "Club Le\u00f3n FC vs. CF Am\u00e9rica: O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1058.03,
+    "whale_pct": 0.657,
+    "whale_value_at_open": 160920.1604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788738225.0742304,
     "fills": 1
   }
 ]
