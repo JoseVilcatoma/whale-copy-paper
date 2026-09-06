@@ -102232,8 +102232,8 @@
     "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 16882.0963,
-    "whale_pct": 132.173,
+    "whale_usd": 19048.411500000002,
+    "whale_pct": 149.133,
     "whale_value_at_open": 12772.7261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -102244,8 +102244,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788663619.2722752,
-    "fills": 5
+    "last_fill_at": 1788664468.686385,
+    "fills": 6
   },
   {
     "timestamp": 1788661760,
