@@ -106238,8 +106238,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 10443.634323,
-    "whale_pct": 2.328,
+    "whale_usd": 23681.158423,
+    "whale_pct": 5.278,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106253,8 +106253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788727805.788737,
-    "fills": 5
+    "last_fill_at": 1788728063.791723,
+    "fills": 7
   },
   {
     "timestamp": 1788726947,
@@ -106460,5 +106460,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788727699.9227352,
     "fills": 2
+  },
+  {
+    "timestamp": 1788728096,
+    "timestamp_added": 1788728096.7455866,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-sea-2026-09-06",
+    "title": "Athletics vs. Seattle Mariners",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 4764.0729,
+    "whale_pct": 1.452,
+    "whale_value_at_open": 328122.2425,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788728096.745597,
+    "fills": 1
   }
 ]
