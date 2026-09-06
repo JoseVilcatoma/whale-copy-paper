@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:14:38 (hora de Perú)
+Actualizado: 2026-09-06 18:16:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $369.92
@@ -839,7 +839,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 1.5 | Under (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Wisconsin (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | No (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |

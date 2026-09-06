@@ -107428,8 +107428,8 @@
     "title": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 1472.3999999999999,
-    "whale_pct": 0.38,
+    "whale_usd": 2965.25,
+    "whale_pct": 0.766,
     "whale_value_at_open": 387307.0597,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -107440,8 +107440,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735156.249176,
-    "fills": 1
+    "last_fill_at": 1788736534.120086,
+    "fills": 2
   },
   {
     "timestamp": 1788735473,
