@@ -104783,5 +104783,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788714912.3251014,
     "fills": 1
+  },
+  {
+    "timestamp": 1788715267,
+    "timestamp_added": 1788715267.847445,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-sf-nym-2026-09-06-total-8pt5",
+    "title": "San Francisco Giants vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4759.281,
+    "whale_pct": 5.004,
+    "whale_value_at_open": 95101.9627,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788715267.847458,
+    "fills": 1
   }
 ]
