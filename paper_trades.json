@@ -103496,8 +103496,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -104370,8 +104370,8 @@
     "title": "Counter-Strike: SPARTA vs ex-Zero Tenacity (BO3) - CCT Europe Series #8 Group Stage",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 3539.9274,
-    "whale_pct": 5.882,
+    "whale_usd": 7382.4254,
+    "whale_pct": 12.267,
     "whale_value_at_open": 60180.2589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -104382,8 +104382,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788707679.1780105,
-    "fills": 1
+    "last_fill_at": 1788708588.2545724,
+    "fills": 2
   },
   {
     "timestamp": 1788708492,

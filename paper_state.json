@@ -1,5 +1,5 @@
 {
-  "bankroll": 348.8690553774213,
+  "bankroll": 353.1860176415723,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20890,6 +20890,11 @@
       "timestamp": 1788708289.0148487,
       "bankroll": 348.87,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Spirit vs MOUZ - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788708664.6804821,
+      "bankroll": 353.19,
+      "event": "won: ferrariChampions2026 \u2014 SpVgg Greuther F\u00fcrth vs. 1. FC Heidenheim 1846: O/U 3.5"
     }
   ]
 }
