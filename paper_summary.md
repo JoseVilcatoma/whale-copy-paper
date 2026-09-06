@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 16:58:28 (hora de Perú)
+Actualizado: 2026-09-06 17:00:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.72
@@ -842,7 +842,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CA Central Córdoba win on 2026-09-0 | No (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alex Michelsen vs Tomas Etc | Alex Michelsen (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-24.5) | Washington State (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Will SE Palmeiras win on 2026-09-06? | No (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | St. Louis Cardinals (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Texas Rangers: O/U 15 | Under (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |

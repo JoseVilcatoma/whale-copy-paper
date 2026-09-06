@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 5319.292800000001,
-    "whale_pct": 2.56,
+    "whale_usd": 5832.652800000001,
+    "whale_pct": 2.807,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788730471.4923952,
-    "fills": 5
+    "last_fill_at": 1788731986.1270955,
+    "fills": 6
   },
   {
     "timestamp": 1788722393,
@@ -106833,8 +106833,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1954.17,
-    "whale_pct": 0.493,
+    "whale_usd": 3725.826363,
+    "whale_pct": 0.941,
     "whale_value_at_open": 396108.8281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -106845,8 +106845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788731863.4451358,
-    "fills": 2
+    "last_fill_at": 1788731984.8468285,
+    "fills": 4
   },
   {
     "timestamp": 1788730953,
