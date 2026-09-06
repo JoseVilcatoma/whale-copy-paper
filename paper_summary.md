@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 13:54:46 (hora de Perú)
+Actualizado: 2026-09-06 13:56:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.41
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 13:54:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $66.41)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $61.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | AV23IUa | 37 | 27 | 3 | -19.98 USD |
-| wr0ngw4yb3tt0r | 9 | 13 | 16 | -21.58 USD |
+| wr0ngw4yb3tt0r | 9 | 13 | 17 | -21.58 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -825,6 +825,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 76% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UD Almería vs. Cádiz CF: O/U 3.5 | Under (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -854,4 +855,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 219.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 7.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Houston Astros: | Over (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |

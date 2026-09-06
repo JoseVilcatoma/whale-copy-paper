@@ -105397,5 +105397,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788720638.1006536,
     "fills": 1
+  },
+  {
+    "timestamp": 1788720905,
+    "timestamp_added": 1788720905.6923714,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "lal-esp-sev-2026-09-06-sev",
+    "title": "Will Sevilla FC win on 2026-09-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 639.9936,
+    "whale_pct": 0.305,
+    "whale_value_at_open": 210078.9668,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788720905.692385,
+    "fills": 1
   }
 ]
