@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.7162493145454,
+  "bankroll": 374.2755823028132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21310,6 +21310,41 @@
       "timestamp": 1788730478.1057525,
       "bankroll": 360.72,
       "event": "lost:  \u2014 Will Olympique de Marseille win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788732340.6640906,
+      "bankroll": 363.56,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1788732340.9756012,
+      "bankroll": 368.44,
+      "event": "won: monkeymashingkeyboard \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788732341.7251403,
+      "bankroll": 372.25,
+      "event": "won: 1winstreak1 \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788732343.2757456,
+      "bankroll": 367.22,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788732345.6115444,
+      "bankroll": 369.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788732345.711735,
+      "bankroll": 372.11,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788732346.9221342,
+      "bankroll": 374.28,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Texas Rangers: O/U 15.5"
     }
   ]
 }
