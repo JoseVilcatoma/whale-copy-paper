@@ -106106,8 +106106,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 8499.9992,
-    "whale_pct": 3.952,
+    "whale_usd": 14434.7735,
+    "whale_pct": 6.712,
     "whale_value_at_open": 215062.8894,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -106120,8 +106120,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788725761.5074522,
-    "fills": 1
+    "last_fill_at": 1788730337.5328987,
+    "fills": 2
   },
   {
     "timestamp": 1788725851,
@@ -106718,6 +106718,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788730268.6969063,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788730426,
+    "timestamp_added": 1788730426.4489923,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-min-cws-2026-09-06-total-8pt5",
+    "title": "Minnesota Twins vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 9791.9988,
+    "whale_pct": 4.896,
+    "whale_value_at_open": 200001.4495,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788730426.4490156,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788730435,
+    "timestamp_added": 1788730436.2690744,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-tex-2026-09-06-total-15pt5",
+    "title": "Tampa Bay Rays vs. Texas Rangers: O/U 15.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2448.0,
+    "whale_pct": 0.618,
+    "whale_value_at_open": 395863.8925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788730436.269086,
     "fills": 1
   }
 ]
