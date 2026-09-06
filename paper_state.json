@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.32186148206887,
+  "bankroll": 356.20986148206885,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20925,6 +20925,11 @@
       "timestamp": 1788711416.351744,
       "bankroll": 361.32,
       "event": "lost: ColinHe \u2014 LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788712037.3399968,
+      "bankroll": 356.21,
+      "event": "lost: ferrariChampions2026 \u2014 SC Heerenveen vs. AZ: O/U 3.5"
     }
   ]
 }

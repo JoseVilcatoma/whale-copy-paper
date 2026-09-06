@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 11:26:20 (hora de Perú)
+Actualizado: 2026-09-06 11:28:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $361.32
-**Retorno acumulado:** -27.74%
+**Bankroll actual:** $356.21
+**Retorno acumulado:** -28.76%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 11:26:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $126.32)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $111.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -101,7 +101,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
-| WTSA | 0 | 1 | 0 | -5.12 USD |
+| WTSA | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Jsram | 2 | 2 | 1 | -6.46 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 3 | 5 | 2 | -13.82 USD |
 | pleaseplease123 | 16 | 17 | 6 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 5 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 7 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 554 | 345 | 13 | -193.45 USD |
+| ferrariChampions2026 | 554 | 346 | 12 | -198.56 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3991
+- **Apuestas resueltas:** 3992
 - **Aciertos:** 2522 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,930.24
-- **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $369.18 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,935.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $369.30 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,7 +148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2040 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2041 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 1191 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
@@ -811,13 +811,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-nip-lgd-2026-09-06 | ColinHe, sbsigner, zofgkt1111 |
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
-| mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123 |
+| mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| WTSA | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 55% | 5.00 | 67.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Houston Astros: | Over (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Talvez10 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 41% | 5.00 | 2752.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CA Rosario Central win on 2026-09-0 | Yes (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -845,6 +848,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will FC Barcelona win on 2026-09-06? | Yes (BUY) | 79% | 5.00 | 613.1% | ⏳ pendiente | — |
 | AV23IUa | Will Manchester United FC win on 2026-09 | Yes (BUY) | 52% | 5.00 | 710.8% | ❌ perdida | -5.12 |
 | zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming - G | Ninjas in Pyjamas (BUY) | 60% | 5.00 | 20.5% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | SC Heerenveen vs. AZ: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
