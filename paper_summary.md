@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:47:12 (hora de Perú)
+Actualizado: 2026-09-06 10:49:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.06
@@ -818,7 +818,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
-| sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 23.9% | ⏳ pendiente | — |
+| sbsigner | Will Arsenal FC vs. Chelsea FC end in a  | No (BUY) | 75% | 5.00 | 25.2% | ⏳ pendiente | — |
 | sbsigner | Will Arsenal FC win on 2026-09-06? | No (BUY) | 62% | 5.00 | 43.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
@@ -826,7 +826,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 19.2% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 44% | 5.00 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
-| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 197.8% | ⏳ pendiente | — |
+| monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 215.5% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 97.9% | ⏳ pendiente | — |
 | ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ⏳ pendiente | — |
