@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 06:31:37 (hora de Perú)
+Actualizado: 2026-09-06 06:33:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $358.90
-**Retorno acumulado:** -28.22%
+**Bankroll actual:** $359.15
+**Retorno acumulado:** -28.17%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 06:31:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $138.90)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $139.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,17 +128,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 536 | 337 | 28 | -203.18 USD |
+| ferrariChampions2026 | 537 | 337 | 28 | -202.93 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3953
-- **Aciertos:** 2498 (63.2%)
+- **Apuestas resueltas:** 3954
+- **Aciertos:** 2499 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,740.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $365.54 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $19,745.24
+- **ROI sobre lo apostado:** -1.34%
+- **Comisiones pagadas (taker fee):** $365.55 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2022 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1174 | 69.3% | 67.8% | +1.6 pp |
 | 80-94% | 528 | 85.4% | 86.7% | -1.3 pp |
-| 95-99% (casi seguro) | 229 | 96.5% | 97.4% | -0.8 pp |
+| 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -812,7 +812,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Deigo Dedura-Palomero vs Timo Ros | Deigo Dedura-Palomero (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MEGO (-1.5) vs Strael-Bora | megoshort (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -820,7 +821,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hertha BSC vs. 1. FC Magdeburg: O/U 3.5 | Under (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | SpVgg Greuther Fürth vs. 1. FC Heidenhei | Under (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Daniel Siniakov vs Niels Visker | Daniel Siniakov (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Antoine Escoffier vs Adria Soria | Antoine Escoffier (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Antoine Escoffier vs Adria Soria | Antoine Escoffier (BUY) | 95% | 5.00 | 3.0% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Seville: Alejo Sanchez Quilez vs Alejand | Alejo Sanchez Quilez (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcara | Carlos Alcaraz (BUY) | 83% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Aoran Wang vs Yaojie Zeng | Yaojie Zeng (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -832,7 +833,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | sbsigner | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 48.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Yanaki  | Georgii Kravchenko (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |
-| ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | T1 (BUY) | 65% | 5.00 | 11.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | T1 (BUY) | 65% | 5.00 | 11.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Manchester United FC win on 2026-09 | No (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
@@ -841,4 +842,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kashima Antlers vs. Urawa Red Diamonds:  | Under (BUY) | 46% | 5.00 | 1.7% | ✅ ganada | +5.73 |
 | zofgkt1111 | LoL: Invictus Gaming vs Team WE - Game 4 | Invictus Gaming (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Kai Wehnelt | Mika Brunold (BUY) | 68% | 5.00 | 2.8% | ✅ ganada | +2.27 |
-| ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ✅ ganada | +0.30 |

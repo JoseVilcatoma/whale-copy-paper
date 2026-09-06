@@ -1,5 +1,5 @@
 {
-  "bankroll": 358.8987451223527,
+  "bankroll": 359.14890301708954,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20735,6 +20735,11 @@
       "timestamp": 1788694101.908902,
       "bankroll": 358.9,
       "event": "won: zofgkt1111 \u2014 LoL: T1 vs Dplus KIA - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788694420.709392,
+      "bankroll": 359.15,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Antoine Escoffier vs Adria Soriano Barrera"
     }
   ]
 }
