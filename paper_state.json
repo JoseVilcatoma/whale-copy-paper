@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.9602165373728,
+  "bankroll": 342.8352165373728,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20975,6 +20975,11 @@
       "timestamp": 1788716986.40916,
       "bankroll": 347.96,
       "event": "lost: sbsigner \u2014 Will Arsenal FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788717292.9730244,
+      "bankroll": 342.84,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: MEGO (-1.5) vs Strael-Bora (+1.5)"
     }
   ]
 }
