@@ -1,5 +1,5 @@
 {
-  "bankroll": 365.32004552758286,
+  "bankroll": 367.101360596076,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20790,6 +20790,11 @@
       "timestamp": 1788698153.9488819,
       "bankroll": 365.32,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788698585.9937768,
+      "bankroll": 367.1,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Radu David Turcanu vs Egor Agafonov"
     }
   ]
 }
