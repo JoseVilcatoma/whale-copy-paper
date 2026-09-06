@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 10:59:24 (hora de Perú)
+Actualizado: 2026-09-06 11:01:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $365.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 10:59:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $130.30)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $125.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 16 | 17 | 6 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 9 | 12 | 3 | -16.45 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 4 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -818,6 +818,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will CA Rosario Central win on 2026-09-0 | Yes (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 62% | 5.00 | 23.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Wanted Goons vs Without  | Without a Roof (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -826,7 +827,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Washington State vs. Washington | Washington (BUY) | 95% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Juventus FC win on 2026-09-06? | Yes (BUY) | 46% | 5.00 | 14.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 61% | 5.00 | 3.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 19.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SPARTA vs ex-Zero Tenaci | SPARTA (BUY) | 44% | 5.00 | 25.9% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 44% | 5.00 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 215.5% | ⏳ pendiente | — |
@@ -847,4 +848,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Frosinone Calcio vs. Venezia FC: O/U 3.5 | Over (BUY) | 41% | 5.00 | 1.0% | ✅ ganada | +7.05 |

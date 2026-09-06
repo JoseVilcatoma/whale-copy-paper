@@ -104370,8 +104370,8 @@
     "title": "Counter-Strike: SPARTA vs ex-Zero Tenacity (BO3) - CCT Europe Series #8 Group Stage",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 11535.911,
-    "whale_pct": 19.169,
+    "whale_usd": 15607.3718,
+    "whale_pct": 25.934,
     "whale_value_at_open": 60180.2589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -104382,8 +104382,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788709507.6105545,
-    "fills": 3
+    "last_fill_at": 1788710398.1736147,
+    "fills": 4
   },
   {
     "timestamp": 1788708492,
@@ -104577,6 +104577,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788710070.0298543,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788710378,
+    "timestamp_added": 1788710378.8173573,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "arg-ros-new-2026-09-06-ros",
+    "title": "Will CA Rosario Central win on 2026-09-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 742.1687000000001,
+    "whale_pct": 0.633,
+    "whale_value_at_open": 117258.6478,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788710378.8173778,
     "fills": 1
   }
 ]
