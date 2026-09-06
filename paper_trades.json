@@ -106931,8 +106931,8 @@
     "title": "Spread: SE Palmeiras (-1.5)",
     "outcome": "Botafogo FR",
     "side": "BUY",
-    "whale_usd": 694.6700000000001,
-    "whale_pct": 0.17,
+    "whale_usd": 1514.6599959999999,
+    "whale_pct": 0.37,
     "whale_value_at_open": 409340.2956,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -106943,8 +106943,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788731266.8406985,
-    "fills": 1
+    "last_fill_at": 1788732157.1887279,
+    "fills": 2
   },
   {
     "timestamp": 1788731268,
@@ -107055,8 +107055,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 529.2966,
-    "whale_pct": 0.131,
+    "whale_usd": 1283.6165999999998,
+    "whale_pct": 0.318,
     "whale_value_at_open": 404061.6185,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -107067,7 +107067,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788731825.727514,
-    "fills": 1
+    "last_fill_at": 1788732070.8035161,
+    "fills": 2
   }
 ]
