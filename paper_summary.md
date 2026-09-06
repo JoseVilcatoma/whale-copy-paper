@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 15:31:23 (hora de Perú)
+Actualizado: 2026-09-06 15:34:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 15:31:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $57.69)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $47.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| 1winstreak1 | 16 | 8 | 11 | -2.66 USD |
+| 1winstreak1 | 16 | 8 | 12 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 37 | 28 | 2 | -25.08 USD |
-| wr0ngw4yb3tt0r | 12 | 17 | 21 | -31.35 USD |
+| wr0ngw4yb3tt0r | 12 | 17 | 22 | -31.35 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -820,20 +820,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-cru-cap-2026-09-06-cru | , WTSA |
 | mlb-laa-pit-2026-09-06 | 1winstreak1, Feromont, Talvez10, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
-| mlb-nyy-sd-2026-09-06 | monkeymashingkeyboard, wr0ngw4yb3tt0r |
+| mlb-nyy-sd-2026-09-06 | 1winstreak1, monkeymashingkeyboard, wr0ngw4yb3tt0r |
 | mlb-tb-tex-2026-09-06 | 1winstreak1, monkeymashingkeyboard, wr0ngw4yb3tt0r |
-| mlb-stl-col-2026-09-06 | 1winstreak1, Feromont, pleaseplease123 |
+| mlb-stl-col-2026-09-06 | 1winstreak1, Feromont, pleaseplease123, wr0ngw4yb3tt0r |
 | cfb-washst-wash-2026-09-06-total-50pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 85% | 5.00 | 2.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 1winstreak1 | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | San Diego Padres (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
 | 1winstreak1 | O/U 50.5 | Under (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 48% | 5.00 | 39.7% | ⏳ pendiente | — |
+|  | US Open ATP: Daniil Medvedev vs Frances  | Frances Tiafoe (BUY) | 48% | 5.00 | 61.3% | ⏳ pendiente | — |
 |  | Will Cruzeiro EC win on 2026-09-06? | Yes (BUY) | 50% | 5.00 | 29.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Miami Marlins (-6.5) | Miami Marlins (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Arizona Diamondbacks (-2.5) | Houston Astros (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -843,7 +845,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: San Francisco Giants (-1.5) | New York Mets (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
 | Feromont | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 55% | 5.00 | 15.1% | ⏳ pendiente | — |
 | 1winstreak1 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 66% | 5.00 | 1.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 51. | Under (BUY) | 51% | 5.00 | 11.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Miami Marlins: O/U 13.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -857,5 +859,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 82% | 5.00 | 5.5% | ✅ ganada | +1.05 |
 | 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
-| Feromont | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 75% | 5.00 | 24.2% | ✅ ganada | +1.60 |
-| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-06? | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |

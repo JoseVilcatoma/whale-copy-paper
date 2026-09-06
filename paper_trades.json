@@ -103585,8 +103585,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 880.1999999999999,
-    "whale_pct": 0.496,
+    "whale_usd": 4993.573799999999,
+    "whale_pct": 2.813,
     "whale_value_at_open": 177524.4753,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -103597,8 +103597,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788693461.8770752,
-    "fills": 1
+    "last_fill_at": 1788726844.198637,
+    "fills": 2
   },
   {
     "timestamp": 1788694081,
@@ -105355,8 +105355,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 615.45,
-    "whale_pct": 2.086,
+    "whale_usd": 4957.359998999999,
+    "whale_pct": 16.806,
     "whale_value_at_open": 29498.1269,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -105369,8 +105369,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788720583.2741618,
-    "fills": 1
+    "last_fill_at": 1788726776.6287916,
+    "fills": 2
   },
   {
     "timestamp": 1788720637,
@@ -105797,8 +105797,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 730.4,
-    "whale_pct": 0.289,
+    "whale_usd": 2369.172698,
+    "whale_pct": 0.938,
     "whale_value_at_open": 252527.2651,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -105812,8 +105812,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788723587.3466911,
-    "fills": 1
+    "last_fill_at": 1788726776.3560562,
+    "fills": 2
   },
   {
     "timestamp": 1788723722,
@@ -106051,8 +106051,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 18401.045998,
-    "whale_pct": 39.725,
+    "whale_usd": 28401.045997,
+    "whale_pct": 61.314,
     "whale_value_at_open": 46320.5771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -106066,8 +106066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788725261.6236918,
-    "fills": 3
+    "last_fill_at": 1788726844.0064285,
+    "fills": 4
   },
   {
     "timestamp": 1788725432,
@@ -106170,6 +106170,61 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788726600.8298101,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788726766,
+    "timestamp_added": 1788726766.4635644,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-stl-col-2026-09-06",
+    "title": "St. Louis Cardinals vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 1398.51,
+    "whale_pct": 0.802,
+    "whale_value_at_open": 174287.4657,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Feromont",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788726766.4635742,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788726791,
+    "timestamp_added": 1788726791.7450285,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-nyy-sd-2026-09-06",
+    "title": "New York Yankees vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 1519.63,
+    "whale_pct": 2.424,
+    "whale_value_at_open": 62699.6825,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788726791.745038,
     "fills": 1
   }
 ]
