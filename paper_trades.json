@@ -106238,8 +106238,8 @@
     "title": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 23681.158423,
-    "whale_pct": 5.278,
+    "whale_usd": 36561.887222000005,
+    "whale_pct": 8.149,
     "whale_value_at_open": 448657.7709,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -106253,8 +106253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788728063.791723,
-    "fills": 7
+    "last_fill_at": 1788728143.5979514,
+    "fills": 11
   },
   {
     "timestamp": 1788726947,
@@ -106486,5 +106486,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788728096.745597,
     "fills": 1
+  },
+  {
+    "timestamp": 1788728193,
+    "timestamp_added": 1788728193.8159263,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-sd-2026-09-06",
+    "title": "New York Yankees vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 25604.4016,
+    "whale_pct": 7.866,
+    "whale_value_at_open": 325503.8226,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "monkeymashingkeyboard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788728216.3424838,
+    "fills": 3
   }
 ]
