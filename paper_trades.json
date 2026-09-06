@@ -107476,8 +107476,8 @@
     "title": "Will Botafogo FR win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2350.42,
-    "whale_pct": 0.601,
+    "whale_usd": 2972.09,
+    "whale_pct": 0.76,
     "whale_value_at_open": 390969.7334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -107488,8 +107488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735683.559834,
-    "fills": 3
+    "last_fill_at": 1788735872.706366,
+    "fills": 4
   },
   {
     "timestamp": 1788735487,
