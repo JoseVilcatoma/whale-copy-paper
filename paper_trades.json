@@ -104370,8 +104370,8 @@
     "title": "Counter-Strike: SPARTA vs ex-Zero Tenacity (BO3) - CCT Europe Series #8 Group Stage",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 7382.4254,
-    "whale_pct": 12.267,
+    "whale_usd": 11535.911,
+    "whale_pct": 19.169,
     "whale_value_at_open": 60180.2589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -104382,8 +104382,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788708588.2545724,
-    "fills": 2
+    "last_fill_at": 1788709507.6105545,
+    "fills": 3
   },
   {
     "timestamp": 1788708492,
@@ -104466,8 +104466,8 @@
     "title": "Will Arsenal FC win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5318.230799999999,
-    "whale_pct": 14.095,
+    "whale_usd": 13251.480798999999,
+    "whale_pct": 35.12,
     "whale_value_at_open": 37731.7182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -104478,8 +104478,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788709249.124747,
-    "fills": 4
+    "last_fill_at": 1788709510.3164883,
+    "fills": 12
   },
   {
     "timestamp": 1788709169,
@@ -104504,5 +104504,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788709207.954458,
     "fills": 4
+  },
+  {
+    "timestamp": 1788709505,
+    "timestamp_added": 1788709505.9013965,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-wg-withou-2026-09-06",
+    "title": "Counter-Strike: Wanted Goons vs Without a Roof (BO3) - NSTLGA League Group Stage",
+    "outcome": "Without a Roof",
+    "side": "BUY",
+    "whale_usd": 780.85,
+    "whale_pct": 1.289,
+    "whale_value_at_open": 60584.4623,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788709505.9014099,
+    "fills": 1
   }
 ]
