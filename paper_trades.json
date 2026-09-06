@@ -107192,5 +107192,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788733275.0497296,
     "fills": 1
+  },
+  {
+    "timestamp": 1788733289,
+    "timestamp_added": 1788733290.1505704,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "arg-riv-riv1-2026-09-06-total-2pt5",
+    "title": "CA River Plate vs. CS Independiente Rivadavia: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 991.1299990000001,
+    "whale_pct": 0.274,
+    "whale_value_at_open": 361210.8306,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788733290.1505802,
+    "fills": 1
   }
 ]
