@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 5832.652800000001,
-    "whale_pct": 2.807,
+    "whale_usd": 7396.445676,
+    "whale_pct": 3.559,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788731986.1270955,
-    "fills": 6
+    "last_fill_at": 1788739140.7020063,
+    "fills": 7
   },
   {
     "timestamp": 1788722393,
