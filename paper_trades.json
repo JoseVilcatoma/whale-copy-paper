@@ -101142,8 +101142,8 @@
     "title": "Will Tigres de la UANL win on 2026-09-05?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 733.1814,
-    "whale_pct": 4.912,
+    "whale_usd": 1764.2214,
+    "whale_pct": 11.819,
     "whale_value_at_open": 14927.0098,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -101154,8 +101154,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788639534.319873,
-    "fills": 1
+    "last_fill_at": 1788654082.2579374,
+    "fills": 2
   },
   {
     "timestamp": 1788640167,
