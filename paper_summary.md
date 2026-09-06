@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:36:36 (hora de Perú)
+Actualizado: 2026-09-06 12:38:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $348.12
@@ -820,7 +820,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 37.6% | ⏳ pendiente | — |
+| Talvez10 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 63.7% | ⏳ pendiente | — |
 | Talvez10 | Tampa Bay Rays vs. Texas Rangers: O/U 7. | Over (BUY) | 51% | 5.00 | 17.2% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. New York Mets:  | Over (BUY) | 46% | 5.00 | 11.3% | ⏳ pendiente | — |
 | Talvez10 | Los Angeles Angels vs. Pittsburgh Pirate | Pittsburgh Pirates (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
