@@ -103503,5 +103503,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788692357.9713318,
     "fills": 2
+  },
+  {
+    "timestamp": 1788692697,
+    "timestamp_added": 1788692698.1592865,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bl2-ber-fcm-2026-09-06-total-3pt5",
+    "title": "Hertha BSC vs. 1. FC Magdeburg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2044.1710000000003,
+    "whale_pct": 0.99,
+    "whale_value_at_open": 206527.368,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788692698.1592977,
+    "fills": 1
   }
 ]
