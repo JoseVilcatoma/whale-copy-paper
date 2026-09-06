@@ -105505,5 +105505,60 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788721816.1019905,
     "fills": 1
+  },
+  {
+    "timestamp": 1788722013,
+    "timestamp_added": 1788722014.3064232,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-det-cle-2026-09-06",
+    "title": "Detroit Tigers vs. Cleveland Guardians",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1999.9979999999998,
+    "whale_pct": 0.929,
+    "whale_value_at_open": 215234.4174,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "Talvez10",
+      "monkeymashingkeyboard",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788722014.306435,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788722070,
+    "timestamp_added": 1788722071.522609,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nyy-sd-2026-09-06",
+    "title": "New York Yankees vs. San Diego Padres",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 2525.96603,
+    "whale_pct": 1.189,
+    "whale_value_at_open": 212421.3001,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788722071.5226228,
+    "fills": 1
   }
 ]
