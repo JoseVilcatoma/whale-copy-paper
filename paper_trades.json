@@ -104663,8 +104663,8 @@
     "title": "Milwaukee Brewers vs. Cincinnati Reds",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 2919.6288140000006,
-    "whale_pct": 2.08,
+    "whale_usd": 4774.463814000001,
+    "whale_pct": 3.401,
     "whale_value_at_open": 140372.872,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -104679,8 +104679,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788714445.4293754,
-    "fills": 2
+    "last_fill_at": 1788714957.1554654,
+    "fills": 3
   },
   {
     "timestamp": 1788712034,
@@ -104758,6 +104758,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788714151.6961052,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788714911,
+    "timestamp_added": 1788714912.3250818,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-laa-pit-2026-09-06",
+    "title": "Los Angeles Angels vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 3372.1614,
+    "whale_pct": 3.697,
+    "whale_value_at_open": 91215.2381,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788714912.3251014,
     "fills": 1
   }
 ]
