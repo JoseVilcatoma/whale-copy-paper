@@ -102280,8 +102280,8 @@
     "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 20850.626132999998,
-    "whale_pct": 790.364,
+    "whale_usd": 23183.342933,
+    "whale_pct": 878.788,
     "whale_value_at_open": 2638.1037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -102292,8 +102292,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788668960.5415568,
-    "fills": 6
+    "last_fill_at": 1788669865.4756775,
+    "fills": 7
   },
   {
     "timestamp": 1788666411,
