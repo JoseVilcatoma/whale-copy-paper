@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 11:15:57 (hora de Perú)
+Actualizado: 2026-09-06 11:17:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $365.30
-**Retorno acumulado:** -26.94%
+**Bankroll actual:** $361.32
+**Retorno acumulado:** -27.74%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 11:15:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $125.30)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $131.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,6 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| zofgkt1111 | 14 | 11 | 0 | +8.96 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
@@ -61,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| zofgkt1111 | 13 | 11 | 1 | +2.74 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -81,7 +81,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| ColinHe | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -101,6 +100,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
+| ColinHe | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Jsram | 2 | 2 | 1 | -6.46 USD |
@@ -109,14 +109,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 10 | 7 | 0 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| sbsigner | 3 | 4 | 3 | -8.73 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| Talvez10 | 9 | 9 | 0 | -11.28 USD |
+| Talvez10 | 9 | 9 | 1 | -11.28 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| sbsigner | 3 | 5 | 2 | -13.82 USD |
 | pleaseplease123 | 16 | 17 | 6 | -15.37 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 4 | -16.45 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3988
-- **Aciertos:** 2521 (63.2%)
+- **Apuestas resueltas:** 3991
+- **Aciertos:** 2522 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,915.24
-- **ROI sobre lo apostado:** -1.30%
-- **Comisiones pagadas (taker fee):** $368.85 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $19,930.24
+- **ROI sobre lo apostado:** -1.32%
+- **Comisiones pagadas (taker fee):** $369.18 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2038 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1190 | 69.3% | 67.8% | +1.6 pp |
+| 40-59% | 2040 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1191 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
@@ -812,12 +812,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-medvede-tiafoe-2026-09-06 | AV23IUa, ferrariChampions2026 |
 | mlb-bos-bal-2026-09-06-total-7pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123 |
-| mlb-det-cle-2026-09-06 | monkeymashingkeyboard, pleaseplease123 |
+| mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 41% | 5.00 | 2752.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CA Rosario Central win on 2026-09-0 | Yes (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 62% | 5.00 | 23.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -833,9 +834,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 215.5% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 97.9% | ⏳ pendiente | — |
-| ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ⏳ pendiente | — |
+| ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ❌ perdida | -5.11 |
 | ExplosiveNinja | Counter-Strike: Spirit vs MOUZ - Map 1 W | Spirit (BUY) | 61% | 5.00 | 5.1% | ✅ ganada | +3.10 |
-| zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | LGD Gaming (BUY) | 44% | 5.00 | 8.5% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | LGD Gaming (BUY) | 44% | 5.00 | 8.5% | ✅ ganada | +6.22 |
 | monkeymashingkeyboard | San Francisco Giants vs. New York Mets | New York Mets (BUY) | 60% | 5.00 | 77.5% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 58% | 5.00 | 3.6% | ⏳ pendiente | — |
 | AV23IUa | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 61% | 5.00 | 16.7% | ⏳ pendiente | — |
@@ -847,4 +848,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Federico Iannaccone vs Alexander  | Alexander Weis (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Telstar 1963 vs. SC Cambuur-Leeuwarden:  | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Alexander Ritschard vs Sergi Pe | Sergi Perez Contri (BUY) | 59% | 5.00 | 3.1% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Genoa: Lorenzo Rottoli vs Lorenzo Angeli | Lorenzo Angelini (BUY) | 56% | 5.00 | 0.5% | ❌ perdida | -5.11 |
