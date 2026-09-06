@@ -1,5 +1,5 @@
 {
-  "bankroll": 367.0786892968627,
+  "bankroll": 362.3389871692031,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21070,6 +21070,21 @@
       "timestamp": 1788724452.9001,
       "bankroll": 367.08,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Marta Kostyuk vs Linda Noskova"
+    },
+    {
+      "timestamp": 1788724709.434404,
+      "bankroll": 361.95,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Arizona Diamondbacks vs. Houston Astros: 1st 5 Innings O/U 4.5"
+    },
+    {
+      "timestamp": 1788724772.9924507,
+      "bankroll": 356.83,
+      "event": "lost: pleaseplease123 \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1788724774.814058,
+      "bankroll": 362.34,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 8.5"
     }
   ]
 }
