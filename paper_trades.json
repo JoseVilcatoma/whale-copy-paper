@@ -102587,5 +102587,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788676870.9109373,
     "fills": 2
+  },
+  {
+    "timestamp": 1788678080,
+    "timestamp_added": 1788678081.2239616,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dev-oconne-2026-09-06",
+    "title": "Phan Thiet 3: S D Prajwal Dev vs Benjamin O'Connell",
+    "outcome": "S D Prajwal Dev",
+    "side": "BUY",
+    "whale_usd": 1245.8600000000001,
+    "whale_pct": 1.535,
+    "whale_value_at_open": 81154.8219,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788678081.2239745,
+    "fills": 1
   }
 ]
