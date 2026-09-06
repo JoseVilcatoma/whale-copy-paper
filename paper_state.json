@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.7232121147264,
+  "bankroll": 348.8690553774213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20880,6 +20880,16 @@
       "timestamp": 1788708039.7158585,
       "bankroll": 338.72,
       "event": "lost: AV23IUa \u2014 Will Manchester United FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788708227.5961509,
+      "bankroll": 345.77,
+      "event": "won: ferrariChampions2026 \u2014 Frosinone Calcio vs. Venezia FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1788708289.0148487,
+      "bankroll": 348.87,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Spirit vs MOUZ - Map 1 Winner"
     }
   ]
 }
