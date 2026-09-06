@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 12:55:05 (hora de Perú)
+Actualizado: 2026-09-06 12:57:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $342.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 12:55:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $107.84)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $102.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 10 | 7 | 0 | -7.85 USD |
+| 1winstreak1 | 10 | 7 | 1 | -7.85 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -814,13 +814,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-cin-2026-09-06 | AV23IUa, monkeymashingkeyboard, pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-bos-bal-2026-09-06 | AV23IUa, wr0ngw4yb3tt0r |
 | mlb-atl-phi-2026-09-06-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
-| mlb-chc-mia-2026-09-06 | Talvez10, pleaseplease123 |
+| mlb-chc-mia-2026-09-06 | 1winstreak1, Talvez10, pleaseplease123 |
 | mlb-det-cle-2026-09-06 | Talvez10, monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Chicago Cubs vs. Miami Marlins | Miami Marlins (BUY) | 46% | 5.00 | 19.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington (-21.5) | Washington State (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: WaR (-1.5) vs Wanted Goons | Without a Roof (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -850,4 +851,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds | Milwaukee Brewers (BUY) | 58% | 5.00 | 7.9% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Cincinnati Reds: O | Over (BUY) | 53% | 5.00 | 97.9% | ✅ ganada | +4.32 |
 | ColinHe | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 57% | 5.00 | 24.0% | ❌ perdida | -5.11 |
-| ExplosiveNinja | Counter-Strike: Spirit vs MOUZ - Map 1 W | Spirit (BUY) | 61% | 5.00 | 5.1% | ✅ ganada | +3.10 |
