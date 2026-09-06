@@ -1,5 +1,5 @@
 {
-  "bankroll": 365.85924931454537,
+  "bankroll": 360.7162493145454,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21305,6 +21305,11 @@
       "timestamp": 1788730169.8653965,
       "bankroll": 365.86,
       "event": "won: wr0ngw4yb3tt0r \u2014 Will Sevilla FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788730478.1057525,
+      "bankroll": 360.72,
+      "event": "lost:  \u2014 Will Olympique de Marseille win on 2026-09-06?"
     }
   ]
 }

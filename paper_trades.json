@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 3695.4928000000004,
-    "whale_pct": 1.778,
+    "whale_usd": 5319.292800000001,
+    "whale_pct": 2.56,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788723059.5418677,
-    "fills": 4
+    "last_fill_at": 1788730471.4923952,
+    "fills": 5
   },
   {
     "timestamp": 1788722393,
@@ -105938,8 +105938,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -106496,8 +106496,8 @@
     "title": "New York Yankees vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 75190.43571399999,
-    "whale_pct": 23.1,
+    "whale_usd": 82141.095414,
+    "whale_pct": 25.235,
     "whale_value_at_open": 325503.8226,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -106512,8 +106512,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788730261.3367047,
-    "fills": 10
+    "last_fill_at": 1788730446.4191618,
+    "fills": 11
   },
   {
     "timestamp": 1788728418,
