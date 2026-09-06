@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 04:15:17 (hora de Perú)
+Actualizado: 2026-09-06 04:17:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $366.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 04:15:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $186.24)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $181.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 527 | 335 | 19 | -207.83 USD |
+| ferrariChampions2026 | 527 | 335 | 20 | -207.83 USD |
 
 ## Análisis general
 
@@ -811,6 +811,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cassis: Manas Dhamne vs William Rejchtma | Manas Dhamne (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Marsel Il | Benjamin Hassan (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arsenal FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 48% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Matthias Ujvary vs Olle Wallin | Olle Wallin (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -820,10 +821,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Ren Nakamura vs Hanyi Liu | Hanyi Liu (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Arjun Kadhe vs Tsung-Hao Huang | Tsung-Hao Huang (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
 | sbsigner | Will Manchester United FC win on 2026-09 | No (BUY) | 54% | 5.00 | 13.2% | ⏳ pendiente | — |
-| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 34.0% | ⏳ pendiente | — |
+| Jsram | Arsenal FC vs. Chelsea FC: O/U 2.5 | Over (BUY) | 54% | 5.00 | 40.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: Doosan Bears vs. SSG Landers | Doosan Bears (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Samir Hamza Reguig vs Maxim  | Samir Hamza Reguig (BUY) | 85% | 5.00 | 15.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Game Handicap: T1 (-1.5) vs Dplus KIA (+ | Dplus KIA (BUY) | 64% | 5.00 | 11.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: T1 vs Dplus KIA (BO5) - LCK Playoff | Dplus KIA (BUY) | 51% | 5.00 | 19.6% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: T1 vs Dplus KIA - Game 1 Winner | T1 (BUY) | 59% | 5.00 | 46.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jesse Delaney vs Mikalai Halia | Mikalai Haliak (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
@@ -840,4 +841,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | UCLA vs. California | UCLA (BUY) | 94% | 5.00 | 17.8% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Deportivo Alavés vs. CA Osasuna: O/U 1.5 | Over (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Ethan Cook vs Jesse Flores | Jesse Flores (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FOKUS vs Nemiga (BO3) -  | Nemiga (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |

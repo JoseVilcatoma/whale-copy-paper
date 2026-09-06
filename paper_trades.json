@@ -102789,8 +102789,8 @@
     "title": "Game Handicap: T1 (-1.5) vs Dplus KIA (+1.5)",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 7687.2556,
-    "whale_pct": 6.592,
+    "whale_usd": 13601.0476,
+    "whale_pct": 11.663,
     "whale_value_at_open": 116616.5556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -102801,8 +102801,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788685867.907424,
-    "fills": 3
+    "last_fill_at": 1788686143.0835583,
+    "fills": 7
   },
   {
     "timestamp": 1788682805,
@@ -102861,8 +102861,8 @@
     "title": "Arsenal FC vs. Chelsea FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 40548.177404999995,
-    "whale_pct": 34.008,
+    "whale_usd": 48405.676004999994,
+    "whale_pct": 40.598,
     "whale_value_at_open": 119231.7172,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -102873,8 +102873,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788685998.1629312,
-    "fills": 5
+    "last_fill_at": 1788686201.8519156,
+    "fills": 6
   },
   {
     "timestamp": 1788683996,
@@ -103092,6 +103092,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788686044.0074527,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788686203,
+    "timestamp_added": 1788686204.1889296,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dhamne-vincig-2026-09-06",
+    "title": "Cassis: Manas Dhamne vs William Rejchtman Vinciguerra",
+    "outcome": "Manas Dhamne",
+    "side": "BUY",
+    "whale_usd": 1087.4019999999998,
+    "whale_pct": 0.743,
+    "whale_value_at_open": 146324.4165,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788686204.1889448,
     "fills": 1
   }
 ]
