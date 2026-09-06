@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 06:11:25 (hora de Perú)
+Actualizado: 2026-09-06 06:13:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $353.93
-**Retorno acumulado:** -29.21%
+**Bankroll actual:** $354.91
+**Retorno acumulado:** -29.02%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 06:11:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $138.93)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $144.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,17 +128,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 534 | 336 | 27 | -204.77 USD |
+| ferrariChampions2026 | 535 | 336 | 26 | -203.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3949
-- **Aciertos:** 2495 (63.2%)
+- **Apuestas resueltas:** 3950
+- **Aciertos:** 2496 (63.2%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,720.24
+- **Total apostado (suma de stakes):** $19,725.24
 - **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $365.14 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $365.18 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2019 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1174 | 69.3% | 67.8% | +1.6 pp |
-| 80-94% | 527 | 85.4% | 86.7% | -1.3 pp |
+| 80-94% | 528 | 85.4% | 86.7% | -1.3 pp |
 | 95-99% (casi seguro) | 229 | 96.5% | 97.4% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -823,7 +823,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | Istanbul 3: Togan Tokac vs Tuncay Duran | Tuncay Duran (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | sbsigner | LoL: Ninjas in Pyjamas vs LGD Gaming (BO | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 48.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Georgii Kravchenko vs Yanaki  | Georgii Kravchenko (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 353.9335072482328,
+  "bankroll": 354.91460363377496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20715,6 +20715,11 @@
       "timestamp": 1788692848.5033898,
       "bankroll": 353.93,
       "event": "lost:  \u2014 Shanghai: Mitsuki Wei Kang Leong vs Takeru Yuzuki"
+    },
+    {
+      "timestamp": 1788693168.0859456,
+      "bankroll": 354.91,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: JiSung Nam vs Joshua Charlton"
     }
   ]
 }
