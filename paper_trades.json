@@ -102222,5 +102222,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788658693.4216437,
     "fills": 1
+  },
+  {
+    "timestamp": 1788660863,
+    "timestamp_added": 1788660863.641099,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ts7-mouz-2026-09-06-map-handicap-away-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 5611.1778,
+    "whale_pct": 43.931,
+    "whale_value_at_open": 12772.7261,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788660863.6411097,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-05 21:13:38 (hora de Perú)
+Actualizado: 2026-09-05 21:15:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $363.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-05 21:13:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $203.10)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $198.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | HongYunX | 12 | 5 | 2 | +30.11 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 4 | +26.80 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 56 | 33 | 5 | +26.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | Feromont | 8 | 2 | 0 | +23.17 USD |
@@ -809,6 +809,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TS (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 55% | 5.00 | 43.9% | ⏳ pendiente | — |
 | Talvez10 | Athletics vs. Seattle Mariners | Seattle Mariners (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SportsBetExpert vs Iowa  | SportsBetExpert (BUY) | 91% | 5.00 | 142.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baylor vs. Auburn | Baylor (BUY) | 43% | 5.00 | 2.9% | ❌ perdida | -5.14 |
@@ -838,4 +839,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chicago Cubs (-2.5) | Chicago Cubs (BUY) | 71% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Spread: Chicago Cubs (-3.5) | Chicago Cubs (BUY) | 58% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Set 1 Winner: Zheng vs Gea | Gea (BUY) | 60% | 5.00 | 0.2% | ✅ ganada | +3.23 |
-| Talvez10 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 50% | 5.00 | 31.6% | ❌ perdida | -5.12 |
