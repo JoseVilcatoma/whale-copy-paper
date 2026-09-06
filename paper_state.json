@@ -1,5 +1,5 @@
 {
-  "bankroll": 370.55215541769275,
+  "bankroll": 370.4300455275829,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20770,6 +20770,21 @@
       "timestamp": 1788695668.4375648,
       "bankroll": 370.55,
       "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs Team WE - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788696603.5199704,
+      "bankroll": 365.46,
+      "event": "lost: ferrariChampions2026 \u2014 Tulln: Oleg Prihodko vs Ivan Gakhov"
+    },
+    {
+      "timestamp": 1788696604.1896198,
+      "bankroll": 369.96,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Daniel Siniakov vs Niels Visker"
+    },
+    {
+      "timestamp": 1788696605.2776544,
+      "bankroll": 370.43,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Oleg Prihodko vs Ivan Gakhov"
     }
   ]
 }

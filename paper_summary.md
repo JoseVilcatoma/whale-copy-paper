@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 07:09:06 (hora de Perú)
+Actualizado: 2026-09-06 07:11:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $370.55
-**Retorno acumulado:** -25.89%
+**Bankroll actual:** $370.43
+**Retorno acumulado:** -25.91%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 07:09:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $140.55)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $155.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,17 +128,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 542 | 337 | 28 | -194.38 USD |
+| ferrariChampions2026 | 544 | 338 | 25 | -194.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3960
-- **Aciertos:** 2505 (63.3%)
+- **Apuestas resueltas:** 3963
+- **Aciertos:** 2507 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $19,775.24
+- **Total apostado (suma de stakes):** $19,790.24
 - **ROI sobre lo apostado:** -1.28%
-- **Comisiones pagadas (taker fee):** $365.97 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $366.20 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.57% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -147,9 +147,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2022 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1179 | 69.5% | 67.8% | +1.7 pp |
-| 80-94% | 529 | 85.4% | 86.7% | -1.2 pp |
+| 40-59% | 2023 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1180 | 69.4% | 67.8% | +1.6 pp |
+| 80-94% | 530 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 230 | 96.5% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -823,19 +823,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles: O/ | Over (BUY) | 50% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Deigo Dedura-Palomero vs Timo Ros | Deigo Dedura-Palomero (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu David Turcanu vs Egor A | Radu David Turcanu (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Oleg Prihodko (BUY) | 91% | 5.00 | 2.6% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | US Open ATP: Daniil Medvedev vs Frances  | Daniil Medvedev (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MEGO (-1.5) vs Strael-Bora | megoshort (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Facundo Mena (BUY) | 59% | 5.00 | 7.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Facundo Mena (BUY) | 59% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hertha BSC vs. 1. FC Magdeburg: O/U 3.5 | Under (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | SpVgg Greuther Fürth vs. 1. FC Heidenhei | Under (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Daniel Siniakov vs Niels Visker | Daniel Siniakov (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Daniel Siniakov vs Niels Visker | Daniel Siniakov (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Cassis: Antoine Escoffier vs Adria Soria | Antoine Escoffier (BUY) | 95% | 5.00 | 3.0% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Seville: Alejo Sanchez Quilez vs Alejand | Alejo Sanchez Quilez (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open ATP: Tommy Paul vs Carlos Alcara | Carlos Alcaraz (BUY) | 83% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Aoran Wang vs Yaojie Zeng | Yaojie Zeng (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Porto: Facundo Mena vs Hugo Dellien | Hugo Dellien (BUY) | 62% | 5.00 | 34.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Oleg Prihodko vs Ivan Gakhov | Ivan Gakhov (BUY) | 64% | 5.00 | 1.5% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Cassis: Oskari Paldanius vs Nicolas Tepm | Oskari Paldanius (BUY) | 67% | 5.00 | 2.1% | ✅ ganada | +2.38 |
 |  | Shanghai: Mitsuki Wei Kang Leong vs Take | Takeru Yuzuki (BUY) | 42% | 5.00 | 3.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Shanghai: JiSung Nam vs Joshua Charlton | JiSung Nam (BUY) | 83% | 5.00 | 5.3% | ✅ ganada | +0.98 |
