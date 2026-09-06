@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.02768177314863,
+  "bankroll": 363.0996440372996,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -20485,6 +20485,21 @@
       "timestamp": 1788660497.338534,
       "bankroll": 369.03,
       "event": "won: ferrariChampions2026 \u2014 Will Colorado Rapids SC win on 2026-09-05?"
+    },
+    {
+      "timestamp": 1788660807.2321773,
+      "bankroll": 373.34,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Kansas City Royals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788660810.1828291,
+      "bankroll": 368.22,
+      "event": "lost: Talvez10 \u2014 Toronto Blue Jays vs. Kansas City Royals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788660812.9803815,
+      "bankroll": 363.1,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Kansas City Royals: O/U 9.5"
     }
   ]
 }
