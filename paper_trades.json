@@ -105675,8 +105675,8 @@
     "title": "Minnesota Twins vs. Chicago White Sox: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 72630.97613200001,
-    "whale_pct": 23.798,
+    "whale_usd": 104801.28573200002,
+    "whale_pct": 34.339,
     "whale_value_at_open": 305194.0686,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -105687,8 +105687,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722967.0059257,
-    "fills": 6
+    "last_fill_at": 1788723233.7339535,
+    "fills": 13
   },
   {
     "timestamp": 1788722939,
@@ -105736,6 +105736,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788723093.949137,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788723253,
+    "timestamp_added": 1788723253.6145747,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-washst-wash-2026-09-06-total-50pt5",
+    "title": "O/U 50.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 626.1244,
+    "whale_pct": 0.259,
+    "whale_value_at_open": 241715.9286,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788723253.6145873,
     "fills": 1
   }
 ]
