@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 14:40:46 (hora de Perú)
+Actualizado: 2026-09-06 14:42:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 14:40:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $5.13)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $0.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 1winstreak1 | 11 | 7 | 10 | -5.36 USD |
+| 1winstreak1 | 11 | 7 | 11 | -5.36 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -827,6 +827,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Toronto Blue Jays vs. Kansas City Royals | Over (BUY) | 66% | 5.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Texas Rangers | Tampa Bay Rays (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington State vs. Washington: O/U 51. | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 50.5 | Under (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -835,7 +836,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 52% | 5.00 | 34.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 1winstreak1 | St. Louis Cardinals vs. Colorado Rockies | Colorado Rockies (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Cleveland Guardians | Cleveland Guardians (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Yankees vs. San Diego Padres | New York Yankees (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Cleveland Guardians | Detroit Tigers (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -856,4 +857,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Tampa Bay Rays (-1.5) | Texas Rangers (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 1winstreak1 | San Francisco Giants vs. New York Mets | San Francisco Giants (BUY) | 41% | 5.00 | 10.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Espanyol de Barcelona vs. Sevilla FC | Under (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 1winstreak1 | Milwaukee Brewers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 92% | 5.00 | 7.1% | ⏳ pendiente | — |

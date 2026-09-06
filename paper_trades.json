@@ -105594,8 +105594,8 @@
     "title": "Detroit Tigers vs. Cleveland Guardians",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 742.77,
-    "whale_pct": 1.677,
+    "whale_usd": 3192.77,
+    "whale_pct": 7.209,
     "whale_value_at_open": 44288.5375,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -105611,8 +105611,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788722393.4930847,
-    "fills": 1
+    "last_fill_at": 1788723730.126937,
+    "fills": 2
   },
   {
     "timestamp": 1788722460,
@@ -105811,6 +105811,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788723587.3466911,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788723722,
+    "timestamp_added": 1788723722.5434504,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-tor-kc-2026-09-06-total-8pt5",
+    "title": "Toronto Blue Jays vs. Kansas City Royals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 792.72,
+    "whale_pct": 1.419,
+    "whale_value_at_open": 55871.2635,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788723722.543463,
     "fills": 1
   }
 ]
