@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:55:34 (hora de Perú)
+Actualizado: 2026-09-06 18:57:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:55:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $66.45)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $61.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 23 | 25 | 15 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 570 | 355 | 9 | -197.74 USD |
+| ferrariChampions2026 | 570 | 355 | 10 | -197.74 USD |
 
 ## Análisis general
 
@@ -838,6 +838,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -867,4 +868,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 11.1% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
