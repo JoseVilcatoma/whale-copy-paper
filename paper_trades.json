@@ -106833,8 +106833,8 @@
     "title": "Will SE Palmeiras win on 2026-09-06?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6633.906362999999,
-    "whale_pct": 1.675,
+    "whale_usd": 7222.206362999999,
+    "whale_pct": 1.823,
     "whale_value_at_open": 396108.8281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -106845,8 +106845,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788735545.6760457,
-    "fills": 7
+    "last_fill_at": 1788736303.0536397,
+    "fills": 8
   },
   {
     "timestamp": 1788730953,
@@ -107561,6 +107561,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788736138.385135,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788736251,
+    "timestamp_added": 1788736252.0628436,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "bra-bot-pal-2026-09-06-total-0pt5",
+    "title": "Botafogo FR vs. SE Palmeiras: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 779.24,
+    "whale_pct": 0.243,
+    "whale_value_at_open": 320074.6253,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788736252.0628543,
     "fills": 1
   }
 ]
