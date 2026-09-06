@@ -102947,5 +102947,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788684586.784228,
     "fills": 2
+  },
+  {
+    "timestamp": 1788684962,
+    "timestamp_added": 1788684962.4403129,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-brunold-wehnelt-2026-09-06",
+    "title": "Tulln: Mika Brunold vs Kai Wehnelt",
+    "outcome": "Mika Brunold",
+    "side": "BUY",
+    "whale_usd": 2845.2362119999993,
+    "whale_pct": 1.89,
+    "whale_value_at_open": 150538.7577,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788684962.4403229,
+    "fills": 1
   }
 ]
