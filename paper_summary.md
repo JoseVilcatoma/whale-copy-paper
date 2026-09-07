@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:19:31 (hora de Perú)
+Actualizado: 2026-09-06 22:21:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $374.37
-**Retorno acumulado:** -25.13%
+**Bankroll actual:** $379.25
+**Retorno acumulado:** -24.15%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:19:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $174.37)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $174.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,6 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 7 | 6 | 2 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -94,8 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
-| 1winstreak1 | 26 | 13 | 9 | -2.84 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 6 | 6 | 3 | -2.95 USD |
+| 1winstreak1 | 26 | 13 | 10 | -2.84 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 575 | 359 | 11 | -210.70 USD |
+| ferrariChampions2026 | 575 | 359 | 12 | -210.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4172
-- **Aciertos:** 2641 (63.3%)
+- **Apuestas resueltas:** 4173
+- **Aciertos:** 2642 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,835.24
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $385.90 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,840.24
+- **ROI sobre lo apostado:** -1.19%
+- **Comisiones pagadas (taker fee):** $386.03 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2125 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2126 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1253 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 555 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
@@ -842,12 +842,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-lou-miss-2026-09-06-spread-home-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | wta-kalinsk-navarro-2026-09-06 | , ferrariChampions2026 |
 | mlb-wsh-lad-2026-09-06-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-wsh-lad-2026-09-06 | , ferrariChampions2026 |
+| mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -856,7 +858,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 64% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ✅ ganada | +4.88 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 49.5 | Over (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 45.5 | Over (BUY) | 57% | 5.00 | 6.1% | ✅ ganada | +3.66 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ⏳ pendiente | — |
@@ -876,5 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Ole Miss (-7.5) | Ole Miss (BUY) | 55% | 5.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-7.5) | Louisville (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ✅ ganada | +1.97 |
-| Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ❌ perdida | -5.09 |

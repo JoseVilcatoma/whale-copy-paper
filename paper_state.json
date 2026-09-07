@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.3734839695856,
+  "bankroll": 379.2484839695856,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21840,6 +21840,11 @@
       "timestamp": 1788750540.4483929,
       "bankroll": 374.37,
       "event": "won: Flaznorp \u2014 Will Millonarios FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788751225.8561673,
+      "bankroll": 379.25,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Wisconsin vs. Notre Dame: O/U 47.5"
     }
   ]
 }
