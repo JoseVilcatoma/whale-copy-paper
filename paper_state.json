@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.63487282352156,
+  "bankroll": 374.6823778740266,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21795,6 +21795,11 @@
       "timestamp": 1788749743.6620846,
       "bankroll": 374.63,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Wisconsin vs. Notre Dame: O/U 45.5"
+    },
+    {
+      "timestamp": 1788750046.718527,
+      "bankroll": 374.68,
+      "event": "won: Flaznorp \u2014 Will Trujillanos FC win on 2026-09-06?"
     }
   ]
 }
