@@ -112332,8 +112332,8 @@
     "title": "Will EC Vit\u00f3ria win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 67275.502456,
-    "whale_pct": 81.546,
+    "whale_usd": 67801.10245600001,
+    "whale_pct": 82.183,
     "whale_value_at_open": 82499.938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112344,8 +112344,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788819826.3363533,
-    "fills": 16
+    "last_fill_at": 1788820449.0508838,
+    "fills": 17
   },
   {
     "timestamp": 1788818918,
@@ -112404,8 +112404,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 19875.374,
-    "whale_pct": 8.981,
+    "whale_usd": 25871.134899999997,
+    "whale_pct": 11.69,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -112418,8 +112418,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788820010.5566351,
-    "fills": 7
+    "last_fill_at": 1788820455.7562296,
+    "fills": 8
   },
   {
     "timestamp": 1788819525,
