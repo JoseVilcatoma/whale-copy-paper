@@ -110757,8 +110757,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -111169,8 +111169,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [
       "totoro3miyazaki"
     ],
@@ -111850,6 +111850,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1788804459.7584863,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788804857,
+    "timestamp_added": 1788804858.2974207,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "sea-udi-laz-2026-09-07-udi",
+    "title": "Will Udinese Calcio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 20847.050000000003,
+    "whale_pct": 5.525,
+    "whale_value_at_open": 377312.2922,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788804858.2974317,
     "fills": 1
   }
 ]

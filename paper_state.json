@@ -1,5 +1,5 @@
 {
-  "bankroll": 291.49986789058806,
+  "bankroll": 295.9427512035216,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22315,6 +22315,16 @@
       "timestamp": 1788804759.5669086,
       "bankroll": 291.5,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788804875.150861,
+      "bankroll": 292.28,
+      "event": "won: totoro3miyazaki \u2014 US Open WTA: Mirra Andreeva vs Anastasia Potapova"
+    },
+    {
+      "timestamp": 1788804877.1755848,
+      "bankroll": 295.94,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Mirra Andreeva vs Anastasia Potapova"
     }
   ]
 }
