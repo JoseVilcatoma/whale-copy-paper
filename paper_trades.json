@@ -112332,8 +112332,8 @@
     "title": "Will EC Vit\u00f3ria win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 66025.501456,
-    "whale_pct": 80.031,
+    "whale_usd": 67275.502456,
+    "whale_pct": 81.546,
     "whale_value_at_open": 82499.938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112344,8 +112344,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788818929.3389473,
-    "fills": 15
+    "last_fill_at": 1788819826.3363533,
+    "fills": 16
   },
   {
     "timestamp": 1788818918,
