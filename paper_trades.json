@@ -109430,8 +109430,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Dominik Palan",
     "outcome": "Hiroki Moriya",
     "side": "BUY",
-    "whale_usd": 30169.317796999996,
-    "whale_pct": 32.932,
+    "whale_usd": 31078.739306999996,
+    "whale_pct": 33.925,
     "whale_value_at_open": 91611.3921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -109442,8 +109442,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788762865.5957148,
-    "fills": 17
+    "last_fill_at": 1788764015.909146,
+    "fills": 18
   },
   {
     "timestamp": 1788758334,
