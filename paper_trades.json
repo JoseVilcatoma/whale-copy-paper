@@ -109866,8 +109866,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 6407.1567000000005,
-    "whale_pct": 8.392,
+    "whale_usd": 30434.0022,
+    "whale_pct": 39.861,
     "whale_value_at_open": 76349.6703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -109878,8 +109878,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788767280.3478098,
-    "fills": 1
+    "last_fill_at": 1788768982.0178924,
+    "fills": 2
   },
   {
     "timestamp": 1788767961,
@@ -109951,6 +109951,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788768247.2228236,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788768954,
+    "timestamp_added": 1788768955.163054,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-leong-loof-2026-09-07",
+    "title": "Shanghai: Mitsuki Wei Kang Leong vs Thijmen Loof",
+    "outcome": "Thijmen Loof",
+    "side": "BUY",
+    "whale_usd": 986.666666,
+    "whale_pct": 0.904,
+    "whale_value_at_open": 109084.281,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788768955.163066,
     "fills": 1
   }
 ]
