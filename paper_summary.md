@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 16:29:02 (hora de Perú)
+Actualizado: 2026-09-07 16:31:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $312.58
@@ -869,7 +869,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Feromont | SMU vs. Florida State | Florida State (BUY) | 44% | 5.00 | 40.1% | ⏳ pendiente | — |
 |  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |

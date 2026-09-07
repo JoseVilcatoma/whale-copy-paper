@@ -112206,8 +112206,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 2709.0632290000003,
-    "whale_pct": 0.938,
+    "whale_usd": 4513.063229,
+    "whale_pct": 1.563,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -112220,7 +112220,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788816539.9402542,
-    "fills": 2
+    "last_fill_at": 1788816643.344308,
+    "fills": 4
   }
 ]
