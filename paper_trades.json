@@ -109468,5 +109468,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788758336.0289762,
     "fills": 2
+  },
+  {
+    "timestamp": 1788758452,
+    "timestamp_added": 1788758452.6079373,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "sea-udi-laz-2026-09-07-total-2pt5",
+    "title": "Udinese Calcio vs. SS Lazio: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 521.446666,
+    "whale_pct": 0.611,
+    "whale_value_at_open": 85327.5207,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788758452.6079514,
+    "fills": 1
   }
 ]

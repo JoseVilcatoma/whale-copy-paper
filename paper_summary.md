@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 00:19:10 (hora de Perú)
+Actualizado: 2026-09-07 00:21:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $378.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 00:19:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $268.97)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $263.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -122,7 +122,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| wr0ngw4yb3tt0r | 35 | 31 | 2 | -18.75 USD |
+| wr0ngw4yb3tt0r | 35 | 31 | 3 | -18.75 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -849,6 +849,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 19.9% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
@@ -878,4 +879,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ❌ perdida | -5.15 |
 | NordhavenCap | Deportivo Toluca FC vs. CF Monterrey: Bo | Yes (BUY) | 63% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 4.8% | ✅ ganada | +3.98 |
-| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ❌ perdida | -5.13 |
