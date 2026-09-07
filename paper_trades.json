@@ -112506,8 +112506,8 @@
     "title": "SMU vs. Florida State",
     "outcome": "Florida State",
     "side": "BUY",
-    "whale_usd": 17103.826552,
-    "whale_pct": 13.418,
+    "whale_usd": 19203.826552,
+    "whale_pct": 15.065,
     "whale_value_at_open": 127472.3099,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -112520,7 +112520,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788822055.4214797,
-    "fills": 1
+    "last_fill_at": 1788822324.0180125,
+    "fills": 2
   }
 ]

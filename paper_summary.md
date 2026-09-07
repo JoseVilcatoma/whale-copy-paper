@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 18:05:07 (hora de Perú)
+Actualizado: 2026-09-07 18:07:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.07
@@ -874,7 +874,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 13.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
