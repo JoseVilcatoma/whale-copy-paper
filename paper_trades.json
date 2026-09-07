@@ -110716,5 +110716,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788790201.8461747,
     "fills": 5
+  },
+  {
+    "timestamp": 1788790283,
+    "timestamp_added": 1788790283.8905187,
+    "username": "xabidaking",
+    "wallet": "0x3f985e3a68f88e6ed8da1a22e1a5eda81c8e0aa1",
+    "slug": "atp-brouwer-martin-2026-09-07",
+    "title": "Cassis: Gijs Brouwer vs Matteo Martineau",
+    "outcome": "Matteo Martineau",
+    "side": "BUY",
+    "whale_usd": 1847.119999,
+    "whale_pct": 60.164,
+    "whale_value_at_open": 3070.1667,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788790283.89053,
+    "fills": 1
   }
 ]
