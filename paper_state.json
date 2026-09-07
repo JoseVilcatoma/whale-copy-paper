@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.1859429989601,
+  "bankroll": 376.0989429989601,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21780,6 +21780,11 @@
       "timestamp": 1788747695.3776999,
       "bankroll": 381.19,
       "event": "won: Flaznorp \u2014 Botafogo FR vs. SE Palmeiras: O/U 1.5"
+    },
+    {
+      "timestamp": 1788749431.7924104,
+      "bankroll": 376.1,
+      "event": "lost: Flaznorp \u2014 Racing Club vs. CA Tucum\u00e1n: O/U 2.5"
     }
   ]
 }
