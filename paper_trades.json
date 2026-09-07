@@ -108268,5 +108268,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788739712.9233887,
     "fills": 1
+  },
+  {
+    "timestamp": 1788740000,
+    "timestamp_added": 1788740000.8164613,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "bra-cor1-cha-2026-09-06-cha",
+    "title": "Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-09-06?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 715.6800000000001,
+    "whale_pct": 0.247,
+    "whale_value_at_open": 289984.9655,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788740000.8164723,
+    "fills": 1
   }
 ]
