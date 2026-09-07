@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 13997.529700000001,
-    "whale_pct": 28.996,
+    "whale_usd": 19878.7927,
+    "whale_pct": 41.18,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788794118.225039,
-    "fills": 2
+    "last_fill_at": 1788795015.3601243,
+    "fills": 3
   },
   {
     "timestamp": 1788793226,
@@ -111029,6 +111029,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788794512.7357185,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788795005,
+    "timestamp_added": 1788795006.723551,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-9z-5s-2026-09-07-map-handicap-away-1pt5",
+    "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
+    "outcome": "9z",
+    "side": "BUY",
+    "whale_usd": 1445.7504,
+    "whale_pct": 2.02,
+    "whale_value_at_open": 71587.1214,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788795006.7235625,
     "fills": 1
   }
 ]
