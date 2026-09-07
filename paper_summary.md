@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 11:10:56 (hora de Perú)
+Actualizado: 2026-09-07 11:13:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 11:10:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $130.15)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $125.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | darkumbreon99 | 0 | 0 | 1 | +0.00 USD |
-| totoro3miyazaki | 0 | 0 | 1 | +0.00 USD |
+| totoro3miyazaki | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -863,6 +863,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 8.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 73.9% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
@@ -892,4 +893,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 36.9% | ❌ perdida | -5.08 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ✅ ganada | +2.38 |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ❌ perdida | -5.14 |
-| zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ✅ ganada | +1.78 |

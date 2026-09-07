@@ -111128,5 +111128,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788796672.5510042,
     "fills": 4
+  },
+  {
+    "timestamp": 1788797511,
+    "timestamp_added": 1788797512.7036884,
+    "username": "totoro3miyazaki",
+    "wallet": "0x0f6f76ced62a911bccef92f50faaff143854d977",
+    "slug": "lal-get-cel-2026-09-07-get",
+    "title": "Will Getafe CF win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 13267.0336,
+    "whale_pct": 8.611,
+    "whale_value_at_open": 154074.1167,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788797512.703699,
+    "fills": 1
   }
 ]
