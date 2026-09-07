@@ -109552,8 +109552,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 6763.7109,
-    "whale_pct": 206.733,
+    "whale_usd": 10967.8073,
+    "whale_pct": 335.232,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -109564,8 +109564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788769816.098927,
-    "fills": 4
+    "last_fill_at": 1788770714.5167572,
+    "fills": 5
   },
   {
     "timestamp": 1788759923,
@@ -110073,6 +110073,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788770201.1413622,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788770775,
+    "timestamp_added": 1788770776.2718368,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matsuok-delaney-2026-09-06",
+    "title": "Shanghai: Hayato Matsuoka vs Jake Delaney",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "whale_usd": 3867.2400000000002,
+    "whale_pct": 3.687,
+    "whale_value_at_open": 104897.7391,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788770776.2718513,
     "fills": 1
   }
 ]
