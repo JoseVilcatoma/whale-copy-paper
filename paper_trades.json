@@ -111999,5 +111999,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788809511.938678,
     "fills": 1
+  },
+  {
+    "timestamp": 1788809732,
+    "timestamp_added": 1788809732.65605,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "dota2-gl-pi-2026-09-07-game1",
+    "title": "Dota 2: GamerLegion vs  Pipsqueak+4 - Game 1 Winner",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 1495.9524490000001,
+    "whale_pct": 5.37,
+    "whale_value_at_open": 27857.9963,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788809732.6560607,
+    "fills": 1
   }
 ]
