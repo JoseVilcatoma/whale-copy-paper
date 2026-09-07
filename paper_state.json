@@ -1,5 +1,5 @@
 {
-  "bankroll": 311.12437237693115,
+  "bankroll": 322.7173766810918,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22475,6 +22475,21 @@
       "timestamp": 1788814517.117867,
       "bankroll": 311.12,
       "event": "won: 1winstreak1 \u2014 Spread: Baltimore Orioles (-4.5)"
+    },
+    {
+      "timestamp": 1788815138.5691676,
+      "bankroll": 318.17,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Udinese Calcio vs. SS Lazio: O/U 2.5"
+    },
+    {
+      "timestamp": 1788815139.1273901,
+      "bankroll": 320.44,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Udinese Calcio vs. SS Lazio: O/U 1.5"
+    },
+    {
+      "timestamp": 1788815143.8235598,
+      "bankroll": 322.72,
+      "event": "won: totoro3miyazaki \u2014 Will Udinese Calcio win on 2026-09-07?"
     }
   ]
 }
