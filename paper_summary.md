@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 13:24:11 (hora de Perú)
+Actualizado: 2026-09-07 13:26:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $295.94
@@ -875,7 +875,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 41% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 54% | 5.00 | 4.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 54% | 5.00 | 5.8% | ⏳ pendiente | — |
 | sbsigner | Will Getafe CF vs. RC Celta de Vigo end  | No (BUY) | 74% | 5.00 | 30.4% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 56% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Dali | Genaro Alberto Olivieri (BUY) | 54% | 5.00 | 5.8% | ⏳ pendiente | — |
