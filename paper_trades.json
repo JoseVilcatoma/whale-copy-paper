@@ -110476,8 +110476,8 @@
     "title": "Shanghai: Hayato Matsuoka vs Jake Delaney",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 3824.2893999999997,
-    "whale_pct": 27.773,
+    "whale_usd": 5084.2894,
+    "whale_pct": 36.924,
     "whale_value_at_open": 13769.7307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -110490,8 +110490,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788777556.261264,
-    "fills": 3
+    "last_fill_at": 1788777581.5086572,
+    "fills": 4
   },
   {
     "timestamp": 1788776681,
@@ -110539,6 +110539,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788777141.3160655,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788777608,
+    "timestamp_added": 1788777608.472414,
+    "username": "thatguythatguy",
+    "wallet": "0x31706006a0ef88b2b8f6d093efbc83b359fbc6a0",
+    "slug": "cs2-sin2-pha-2026-09-07",
+    "title": "Counter-Strike: Sinners vs Phantom (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+    "outcome": "Phantom",
+    "side": "BUY",
+    "whale_usd": 5084.337799999999,
+    "whale_pct": 35.21,
+    "whale_value_at_open": 14440.1135,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788777608.4724429,
     "fills": 1
   }
 ]
