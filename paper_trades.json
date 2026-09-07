@@ -108976,8 +108976,8 @@
     "title": "Spread: Washington Nationals (-1.5)",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 2455.05,
-    "whale_pct": 2.475,
+    "whale_usd": 4105.39074,
+    "whale_pct": 4.14,
     "whale_value_at_open": 99174.8493,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -108988,8 +108988,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788748378.7155895,
-    "fills": 2
+    "last_fill_at": 1788753659.9631474,
+    "fills": 4
   },
   {
     "timestamp": 1788748972,
