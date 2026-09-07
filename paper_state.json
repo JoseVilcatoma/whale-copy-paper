@@ -1,5 +1,5 @@
 {
-  "bankroll": 302.5316086313288,
+  "bankroll": 291.49986789058806,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22295,6 +22295,26 @@
       "timestamp": 1788803813.4321814,
       "bankroll": 302.53,
       "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Montreux: Nuria Brancaccio vs Francesca Curmi"
+    },
+    {
+      "timestamp": 1788804754.723278,
+      "bankroll": 297.48,
+      "event": "lost: darkumbreon99 \u2014 US Open WTA: Iga Swiatek vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788804754.8234775,
+      "bankroll": 292.44,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 US Open WTA: Iga Swiatek vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788804759.2663558,
+      "bankroll": 287.36,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Qinwen Zheng"
+    },
+    {
+      "timestamp": 1788804759.5669086,
+      "bankroll": 291.5,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iga Swiatek vs Qinwen Zheng"
     }
   ]
 }
