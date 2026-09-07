@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.0989429989601,
+  "bankroll": 374.63487282352156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21785,6 +21785,16 @@
       "timestamp": 1788749431.7924104,
       "bankroll": 376.1,
       "event": "lost: Flaznorp \u2014 Racing Club vs. CA Tucum\u00e1n: O/U 2.5"
+    },
+    {
+      "timestamp": 1788749740.778944,
+      "bankroll": 370.97,
+      "event": "lost: 1winstreak1 \u2014 Wisconsin vs. Notre Dame: O/U 45.5"
+    },
+    {
+      "timestamp": 1788749743.6620846,
+      "bankroll": 374.63,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Wisconsin vs. Notre Dame: O/U 45.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 21:54:45 (hora de Perú)
+Actualizado: 2026-09-06 21:56:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $376.10
-**Retorno acumulado:** -24.78%
+**Bankroll actual:** $374.63
+**Retorno acumulado:** -25.07%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 21:54:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $136.10)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $144.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| 1winstreak1 | 26 | 12 | 9 | +2.29 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -95,6 +94,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
+| 1winstreak1 | 26 | 13 | 8 | -2.84 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 6 | 6 | 3 | -2.95 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -105,7 +106,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 4 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
@@ -134,14 +134,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4161
-- **Aciertos:** 2634 (63.3%)
+- **Apuestas resueltas:** 4163
+- **Aciertos:** 2635 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,780.24
+- **Total apostado (suma de stakes):** $20,790.24
 - **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $384.92 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $385.16 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2119 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2121 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1250 | 69.5% | 67.7% | +1.8 pp |
 | 80-94% | 554 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
@@ -854,7 +854,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 49.5 | Over (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 45.5 | Over (BUY) | 57% | 5.00 | 6.1% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 45.5 | Over (BUY) | 57% | 5.00 | 6.1% | ✅ ganada | +3.66 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ⏳ pendiente | — |
 | NordhavenCap | Deportivo Toluca FC vs. CF Monterrey: Bo | Yes (BUY) | 63% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
