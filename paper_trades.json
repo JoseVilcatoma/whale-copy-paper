@@ -112332,8 +112332,8 @@
     "title": "Will EC Vit\u00f3ria win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 67801.10245600001,
-    "whale_pct": 82.183,
+    "whale_usd": 68642.849956,
+    "whale_pct": 83.204,
     "whale_value_at_open": 82499.938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112344,8 +112344,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788820449.0508838,
-    "fills": 17
+    "last_fill_at": 1788820936.0442266,
+    "fills": 18
   },
   {
     "timestamp": 1788818918,
@@ -112445,6 +112445,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788819525.7365007,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788820935,
+    "timestamp_added": 1788820936.2625277,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "bra-vit-gre-2026-09-07-vit",
+    "title": "Will EC Vit\u00f3ria win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1028.8025,
+    "whale_pct": 1.952,
+    "whale_value_at_open": 52714.3185,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "theowalcott"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788820936.262539,
     "fills": 1
   }
 ]
