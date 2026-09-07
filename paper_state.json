@@ -1,5 +1,5 @@
 {
-  "bankroll": 305.1475610122812,
+  "bankroll": 306.75222767894786,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22280,6 +22280,11 @@
       "timestamp": 1788797259.9070795,
       "bankroll": 305.15,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: mellren vs Esport BERG (BO3) - ESL Challenger League Europe Cup #6 Group D"
+    },
+    {
+      "timestamp": 1788802126.8776295,
+      "bankroll": 306.75,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Weronika Falkowska vs Elizara Yaneva"
     }
   ]
 }
