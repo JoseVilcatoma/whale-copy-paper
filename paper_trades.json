@@ -111162,8 +111162,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 13237.2649,
-    "whale_pct": 4.715,
+    "whale_usd": 13805.3926,
+    "whale_pct": 4.917,
     "whale_value_at_open": 280762.7555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -111176,8 +111176,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801165.8017411,
-    "fills": 5
+    "last_fill_at": 1788801449.5480297,
+    "fills": 6
   },
   {
     "timestamp": 1788799045,
@@ -111266,8 +111266,8 @@
     "title": "Seville: Petr Brunclik vs Alejandro Moro Canas",
     "outcome": "Petr Brunclik",
     "side": "BUY",
-    "whale_usd": 986.5169999999999,
-    "whale_pct": 0.334,
+    "whale_usd": 1862.4881999999998,
+    "whale_pct": 0.63,
     "whale_value_at_open": 295665.6645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -111278,8 +111278,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799168.674276,
-    "fills": 1
+    "last_fill_at": 1788801476.4294727,
+    "fills": 2
   },
   {
     "timestamp": 1788799179,
@@ -111500,6 +111500,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788801113.7215097,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788801492,
+    "timestamp_added": 1788801493.076605,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lal-get-cel-2026-09-07-cel",
+    "title": "Will RC Celta de Vigo win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 820.3996000000001,
+    "whale_pct": 1.141,
+    "whale_value_at_open": 71872.7109,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788801493.0766156,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788801559,
+    "timestamp_added": 1788801560.5443516,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-atl-phi-2026-09-07-total-7pt5",
+    "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 506.70029999999997,
+    "whale_pct": 0.155,
+    "whale_value_at_open": 327754.1673,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788801560.5443642,
     "fills": 1
   }
 ]
