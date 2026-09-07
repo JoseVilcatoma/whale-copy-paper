@@ -108753,8 +108753,8 @@
     "title": "US Open WTA: Anna Kalinskaya vs Emma Navarro",
     "outcome": "Emma Navarro",
     "side": "BUY",
-    "whale_usd": 2264.475913,
-    "whale_pct": 2.33,
+    "whale_usd": 3694.175913,
+    "whale_pct": 3.801,
     "whale_value_at_open": 97182.8371,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -108767,8 +108767,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788744941.1555839,
-    "fills": 1
+    "last_fill_at": 1788745803.9655755,
+    "fills": 2
   },
   {
     "timestamp": 1788745134,
@@ -108792,6 +108792,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788745135.3509223,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788745817,
+    "timestamp_added": 1788745818.0689318,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-lou-miss-2026-09-06",
+    "title": "Louisville vs. Ole Miss",
+    "outcome": "Louisville",
+    "side": "BUY",
+    "whale_usd": 22222.0,
+    "whale_pct": 44.716,
+    "whale_value_at_open": 49695.3652,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788745818.0689425,
     "fills": 1
   }
 ]

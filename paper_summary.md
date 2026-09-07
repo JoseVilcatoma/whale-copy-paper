@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:48:34 (hora de Perú)
+Actualizado: 2026-09-06 20:50:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $386.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:48:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $106.14)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $101.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 1 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
@@ -831,7 +831,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-cws-2026-09-06 | Feromont, Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-michels-etcheve-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | atp-shelton-tsitsip-2026-09-06 | Flaznorp, ferrariChampions2026 |
-| cfb-lou-miss-2026-09-06 | 1winstreak1, wr0ngw4yb3tt0r |
+| cfb-lou-miss-2026-09-06 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, 1winstreak1, wr0ngw4yb3tt0r |
 | wta-pegula-cirstea-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | cfb-lou-miss-2026-09-06-spread-home-6pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-min-cws-2026-09-06-total-5pt5 | Flaznorp, ferrariChampions2026 |
@@ -845,8 +845,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ⏳ pendiente | — |
 | NordhavenCap | Deportivo Toluca FC vs. CF Monterrey: Bo | Yes (BUY) | 63% | 5.00 | 13.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -874,4 +875,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
