@@ -1,5 +1,5 @@
 {
-  "bankroll": 295.9427512035216,
+  "bankroll": 300.0870104627809,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22325,6 +22325,11 @@
       "timestamp": 1788804877.1755848,
       "bankroll": 295.94,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Mirra Andreeva vs Anastasia Potapova"
+    },
+    {
+      "timestamp": 1788806594.0147,
+      "bankroll": 300.09,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Genaro Alberto Olivieri vs Dali Blanch"
     }
   ]
 }
