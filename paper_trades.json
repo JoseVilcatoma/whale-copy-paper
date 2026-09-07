@@ -111403,5 +111403,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788799732.8684022,
     "fills": 1
+  },
+  {
+    "timestamp": 1788799862,
+    "timestamp_added": 1788799863.436927,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "sea-cag-lec-2026-09-07-draw",
+    "title": "Will Cagliari Calcio vs. US Lecce end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4090.5376,
+    "whale_pct": 4.963,
+    "whale_value_at_open": 82418.5519,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799863.4369376,
+    "fills": 1
   }
 ]
