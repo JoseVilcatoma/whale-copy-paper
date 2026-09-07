@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:37:23 (hora de Perú)
+Actualizado: 2026-09-07 10:39:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $307.30
-**Retorno acumulado:** -38.54%
+**Bankroll actual:** $302.18
+**Retorno acumulado:** -39.56%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 10:37:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $137.30)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $137.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | darkumbreon99 | 0 | 0 | 1 | +0.00 USD |
-| xabidaking | 0 | 0 | 1 | +0.00 USD |
 | totoro3miyazaki | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -110,6 +109,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| xabidaking | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 1 | -8.07 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 4 | 3 | -8.27 USD |
@@ -139,14 +139,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4256
+- **Apuestas resueltas:** 4257
 - **Aciertos:** 2687 (63.1%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,255.24
-- **ROI sobre lo apostado:** -1.50%
-- **Comisiones pagadas (taker fee):** $393.82 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,260.24
+- **ROI sobre lo apostado:** -1.52%
+- **Comisiones pagadas (taker fee):** $393.93 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2168 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 2169 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1279 | 69.0% | 67.8% | +1.3 pp |
 | 80-94% | 565 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 244 | 96.7% | 97.3% | -0.6 pp |
@@ -875,7 +875,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 49% | 5.00 | 48.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 15.1% | ⏳ pendiente | — |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 284.6% | ⏳ pendiente | — |
-| xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ⏳ pendiente | — |
+| xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 279.3% | ⏳ pendiente | — |
 | Gambler661 | Seville: Jonas Forejtek vs Gerard Campan | Gerard Campana Lee (BUY) | 96% | 5.00 | 106.7% | ✅ ganada | +0.20 |
 | BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 221.9% | ⏳ pendiente | — |

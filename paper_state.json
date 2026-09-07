@@ -1,5 +1,5 @@
 {
-  "bankroll": 307.2950448832489,
+  "bankroll": 302.1780448832489,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22270,6 +22270,11 @@
       "timestamp": 1788793051.5364704,
       "bankroll": 307.3,
       "event": "won: Gambler661 \u2014 Seville: Jonas Forejtek vs Gerard Campana Lee"
+    },
+    {
+      "timestamp": 1788795497.7577322,
+      "bankroll": 302.18,
+      "event": "lost: xabidaking \u2014 Cassis: Gijs Brouwer vs Matteo Martineau"
     }
   ]
 }
