@@ -110174,5 +110174,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788771580.257363,
     "fills": 1
+  },
+  {
+    "timestamp": 1788771916,
+    "timestamp_added": 1788771917.0327718,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-albot-turcanu-2026-09-07",
+    "title": "Istanbul 3: Radu Albot vs Radu David Turcanu",
+    "outcome": "Radu David Turcanu",
+    "side": "BUY",
+    "whale_usd": 1047.089999,
+    "whale_pct": 0.905,
+    "whale_value_at_open": 115683.3068,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788771917.0327852,
+    "fills": 1
   }
 ]
