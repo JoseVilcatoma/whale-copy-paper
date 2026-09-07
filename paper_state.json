@@ -1,5 +1,5 @@
 {
-  "bankroll": 304.6548560514159,
+  "bankroll": 304.0105969886396,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22440,6 +22440,31 @@
       "timestamp": 1788813583.52044,
       "bankroll": 304.65,
       "event": "won: wr0ngw4yb3tt0r \u2014 New York Mets vs. Miami Marlins: O/U 14.5"
+    },
+    {
+      "timestamp": 1788813830.5640643,
+      "bankroll": 308.17,
+      "event": "won: SkyonX \u2014 Chicago Cubs vs. Milwaukee Brewers: O/U 4.5"
+    },
+    {
+      "timestamp": 1788813895.1093204,
+      "bankroll": 312.67,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Angels vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788813895.281944,
+      "bankroll": 307.55,
+      "event": "lost: BrotherObama \u2014 Cleveland Guardians vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1788813897.0994322,
+      "bankroll": 309.16,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Angels vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1788813897.199622,
+      "bankroll": 304.01,
+      "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Boston Red Sox"
     }
   ]
 }
