@@ -111511,8 +111511,8 @@
     "title": "Will RC Celta de Vigo win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1506.2514,
-    "whale_pct": 2.096,
+    "whale_usd": 2301.4047330000003,
+    "whale_pct": 3.202,
     "whale_value_at_open": 71872.7109,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -111523,8 +111523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801875.6464589,
-    "fills": 2
+    "last_fill_at": 1788802664.2183945,
+    "fills": 3
   },
   {
     "timestamp": 1788801559,
@@ -111613,8 +111613,8 @@
     "title": "Will Getafe CF vs. RC Celta de Vigo end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6444.575185,
-    "whale_pct": 8.192,
+    "whale_usd": 15278.808884999999,
+    "whale_pct": 19.421,
     "whale_value_at_open": 78669.5675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111625,7 +111625,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788802569.1899097,
-    "fills": 1
+    "last_fill_at": 1788802657.3719723,
+    "fills": 3
   }
 ]
