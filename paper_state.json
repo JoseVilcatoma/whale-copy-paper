@@ -1,5 +1,5 @@
 {
-  "bankroll": 304.18546942719587,
+  "bankroll": 307.0967115499156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22255,6 +22255,16 @@
       "timestamp": 1788792231.3860412,
       "bankroll": 304.19,
       "event": "lost: thatguythatguy \u2014 Counter-Strike: Sinners vs Phantom (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788792863.7591107,
+      "bankroll": 304.72,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Strael-Bora vs Fire Flux Esports (BO3) - CCT Europe Challengers Series Playoffs"
+    },
+    {
+      "timestamp": 1788792865.7949796,
+      "bankroll": 307.1,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FF (-1.5) vs Strael-Bora (+1.5)"
     }
   ]
 }

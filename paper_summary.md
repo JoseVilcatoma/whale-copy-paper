@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 09:54:08 (hora de Perú)
+Actualizado: 2026-09-07 09:56:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $304.19
-**Retorno acumulado:** -39.16%
+**Bankroll actual:** $307.10
+**Retorno acumulado:** -38.58%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 09:54:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $164.19)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $177.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,9 +35,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 18 | 9 | 0 | +18.71 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 66 | 40 | 4 | +14.22 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 64 | 40 | 6 | +11.31 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -139,14 +139,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4253
-- **Aciertos:** 2684 (63.1%)
+- **Apuestas resueltas:** 4255
+- **Aciertos:** 2686 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,240.24
-- **ROI sobre lo apostado:** -1.51%
-- **Comisiones pagadas (taker fee):** $393.70 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,250.24
+- **ROI sobre lo apostado:** -1.50%
+- **Comisiones pagadas (taker fee):** $393.81 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,8 +155,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2168 | 50.0% | 50.1% | -0.0 pp |
-| 60-79% | 1278 | 69.0% | 67.8% | +1.3 pp |
-| 80-94% | 564 | 85.5% | 86.7% | -1.2 pp |
+| 60-79% | 1279 | 69.0% | 67.8% | +1.3 pp |
+| 80-94% | 565 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -877,7 +877,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Genoa: Maximo Zeitune vs Giuseppe La Vel | Maximo Zeitune (BUY) | 58% | 5.00 | 20.4% | ✅ ganada | +3.52 |
 |  | Genoa: Massimo Giunta vs Oleksii Krutykh | Oleksii Krutykh (BUY) | 42% | 5.00 | 57.0% | ❌ perdida | -5.14 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 36.9% | ❌ perdida | -5.08 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ✅ ganada | +2.38 |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ❌ perdida | -5.14 |
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ✅ ganada | +1.78 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
