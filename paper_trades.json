@@ -108952,8 +108952,8 @@
     "title": "Washington Nationals vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 3713.71821,
-    "whale_pct": 3.99,
+    "whale_usd": 6443.526809999999,
+    "whale_pct": 6.923,
     "whale_value_at_open": 93079.0535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -108964,8 +108964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788747055.5827255,
-    "fills": 2
+    "last_fill_at": 1788748982.3981886,
+    "fills": 4
   },
   {
     "timestamp": 1788748377,
@@ -108989,6 +108989,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788748378.7155895,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788748972,
+    "timestamp_added": 1788748973.864352,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "mlb-wsh-lad-2026-09-06",
+    "title": "Washington Nationals vs. Los Angeles Dodgers",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 2500.0,
+    "whale_pct": 2.169,
+    "whale_value_at_open": 115240.0359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788748982.4175246,
     "fills": 2
   }
 ]
