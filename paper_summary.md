@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:13:14 (hora de Perú)
+Actualizado: 2026-09-07 04:15:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $342.29
@@ -881,6 +881,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 63% | 5.00 | 2.6% | ❌ perdida | -5.09 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 47.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 449.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 551.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ❌ perdida | -5.06 |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ❌ perdida | -5.10 |
