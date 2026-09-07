@@ -110392,5 +110392,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788774821.3889508,
     "fills": 1
+  },
+  {
+    "timestamp": 1788775748,
+    "timestamp_added": 1788775749.250629,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-al-blg-2026-09-07-game2",
+    "title": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 7999.999199999999,
+    "whale_pct": 62.778,
+    "whale_value_at_open": 12743.3605,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788775753.1190684,
+    "fills": 3
   }
 ]
