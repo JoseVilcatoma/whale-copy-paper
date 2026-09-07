@@ -111603,5 +111603,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788802070.7672303,
     "fills": 1
+  },
+  {
+    "timestamp": 1788802568,
+    "timestamp_added": 1788802569.1899006,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lal-get-cel-2026-09-07-draw",
+    "title": "Will Getafe CF vs. RC Celta de Vigo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 6444.575185,
+    "whale_pct": 8.192,
+    "whale_value_at_open": 78669.5675,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788802569.1899097,
+    "fills": 1
   }
 ]

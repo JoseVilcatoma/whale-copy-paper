@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:34:04 (hora de Perú)
+Actualizado: 2026-09-07 12:36:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $306.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 12:34:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $41.75)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $36.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -124,7 +124,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| sbsigner | 4 | 6 | 5 | -17.31 USD |
+| sbsigner | 4 | 6 | 6 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
 | wr0ngw4yb3tt0r | 36 | 32 | 7 | -18.34 USD |
@@ -865,6 +865,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Getafe CF vs. RC Celta de Vigo end  | No (BUY) | 74% | 5.00 | 8.2% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 56% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Dali | Genaro Alberto Olivieri (BUY) | 54% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -894,4 +895,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 51% | 5.00 | 156.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 78% | 5.00 | 3.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs 5star - Map 1 Winn | 9z (BUY) | 87% | 5.00 | 1.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs magic (+1.5) | magic (BUY) | 59% | 5.00 | 15.9% | ⏳ pendiente | — |
