@@ -112122,5 +112122,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788811803.9984486,
     "fills": 2
+  },
+  {
+    "timestamp": 1788814840,
+    "timestamp_added": 1788814840.714275,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-gea-zandsch-2026-09-07",
+    "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "whale_usd": 59999.999999,
+    "whale_pct": 38.054,
+    "whale_value_at_open": 157669.9934,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788814874.7534146,
+    "fills": 4
   }
 ]

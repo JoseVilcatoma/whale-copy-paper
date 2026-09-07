@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 15:59:30 (hora de Perú)
+Actualizado: 2026-09-07 16:01:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $311.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 15:59:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $131.12)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $126.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-|  | 15 | 13 | 0 | +5.19 USD |
+|  | 15 | 13 | 1 | +5.19 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -868,6 +868,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ⏳ pendiente | — |
 | SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 37.4% | ✅ ganada | +3.52 |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 59.5% | ⏳ pendiente | — |
@@ -897,4 +898,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 44% | 5.00 | 1.1% | ✅ ganada | +6.22 |
 | Talvez10 | New York Mets vs. Miami Marlins: O/U 8.5 | Over (BUY) | 49% | 5.00 | 15.5% | ✅ ganada | +5.08 |
 | sbsigner | Will Cagliari Calcio vs. US Lecce end in | No (BUY) | 68% | 5.00 | 5.0% | ✅ ganada | +2.27 |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
