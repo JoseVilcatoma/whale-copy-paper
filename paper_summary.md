@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:07:06 (hora de Perú)
+Actualizado: 2026-09-06 22:09:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $371.37
-**Retorno acumulado:** -25.73%
+**Bankroll actual:** $374.37
+**Retorno acumulado:** -25.13%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:07:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $161.37)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $179.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -114,9 +114,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
+| Flaznorp | 67 | 25 | 2 | -10.42 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| Flaznorp | 65 | 24 | 5 | -13.42 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -134,14 +134,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4169
-- **Aciertos:** 2639 (63.3%)
+- **Apuestas resueltas:** 4172
+- **Aciertos:** 2641 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,820.24
-- **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $385.55 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,835.24
+- **ROI sobre lo apostado:** -1.21%
+- **Comisiones pagadas (taker fee):** $385.90 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2122 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2125 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1253 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 555 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
@@ -877,4 +877,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ✅ ganada | +1.97 |
 | Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ❌ perdida | -5.09 |
-| Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
+| Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ✅ ganada | +4.14 |
