@@ -110774,8 +110774,8 @@
     "title": "Map Handicap: NTR (-1.5) vs CYBERSHOKE Esports (+1.5)",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 7370.625599999999,
-    "whale_pct": 15.083,
+    "whale_usd": 10022.3663,
+    "whale_pct": 20.509,
     "whale_value_at_open": 48867.7968,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -110786,8 +110786,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788794121.1186383,
-    "fills": 4
+    "last_fill_at": 1788797704.0914583,
+    "fills": 5
   },
   {
     "timestamp": 1788792437,
@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 13267.0336,
-    "whale_pct": 8.611,
+    "whale_usd": 17710.3488,
+    "whale_pct": 11.495,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,7 +111150,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788797512.703699,
-    "fills": 1
+    "last_fill_at": 1788797661.4023004,
+    "fills": 2
   }
 ]
