@@ -110798,8 +110798,8 @@
     "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 30844.710099999997,
-    "whale_pct": 47.467,
+    "whale_usd": 31411.110099999998,
+    "whale_pct": 48.338,
     "whale_value_at_open": 64982.0285,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -110810,8 +110810,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788793695.765991,
-    "fills": 4
+    "last_fill_at": 1788795112.895398,
+    "fills": 5
   },
   {
     "timestamp": 1788792437,
@@ -110992,8 +110992,8 @@
     "title": "Los Angeles Angels vs. Boston Red Sox: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 20530.8609,
-    "whale_pct": 15.035,
+    "whale_usd": 26218.8609,
+    "whale_pct": 19.201,
     "whale_value_at_open": 136549.3281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -111004,8 +111004,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788794544.104808,
-    "fills": 2
+    "last_fill_at": 1788795183.1541462,
+    "fills": 3
   },
   {
     "timestamp": 1788794512,
@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 1445.7504,
-    "whale_pct": 2.02,
+    "whale_usd": 2229.824474,
+    "whale_pct": 3.115,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,7 +111052,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795006.7235625,
-    "fills": 1
+    "last_fill_at": 1788795077.1894,
+    "fills": 2
   }
 ]
