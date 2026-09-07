@@ -109300,8 +109300,8 @@
     "title": "Will Cagliari Calcio win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1161.9692,
-    "whale_pct": 0.801,
+    "whale_usd": 2323.9384,
+    "whale_pct": 1.603,
     "whale_value_at_open": 144999.0639,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -109312,8 +109312,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788755464.3460371,
-    "fills": 1
+    "last_fill_at": 1788755569.6249588,
+    "fills": 2
   },
   {
     "timestamp": 1788755464,
@@ -109365,6 +109365,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788755509.2933917,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788755579,
+    "timestamp_added": 1788755579.623536,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-wsh-lad-2026-09-06",
+    "title": "Washington Nationals vs. Los Angeles Dodgers",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 816.3539999999999,
+    "whale_pct": 0.599,
+    "whale_value_at_open": 136209.6086,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "1winstreak1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788755579.6235461,
     "fills": 1
   }
 ]
