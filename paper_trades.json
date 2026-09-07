@@ -110774,8 +110774,8 @@
     "title": "Map Handicap: NTR (-1.5) vs CYBERSHOKE Esports (+1.5)",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 1335.6,
-    "whale_pct": 2.733,
+    "whale_usd": 3940.776,
+    "whale_pct": 8.064,
     "whale_value_at_open": 48867.7968,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -110786,7 +110786,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788790503.3429787,
-    "fills": 1
+    "last_fill_at": 1788790538.2227228,
+    "fills": 2
   }
 ]

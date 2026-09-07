@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 09:15:22 (hora de Perú)
+Actualizado: 2026-09-07 09:17:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.30
@@ -861,7 +861,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 2.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 8.1% | ⏳ pendiente | — |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 25.1% | ⏳ pendiente | — |
 | xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 279.3% | ⏳ pendiente | — |
