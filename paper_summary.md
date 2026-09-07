@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:25:49 (hora de Perú)
+Actualizado: 2026-09-06 22:27:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $379.90
-**Retorno acumulado:** -24.02%
+**Bankroll actual:** $390.33
+**Retorno acumulado:** -21.93%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:25:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $184.90)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $235.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,9 +34,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+|  | 13 | 8 | 1 | +18.87 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
-|  | 12 | 8 | 2 | +13.79 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -99,6 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| Flaznorp | 68 | 25 | 1 | -4.69 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -106,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 26 | 14 | 9 | -7.92 USD |
+| 1winstreak1 | 27 | 14 | 8 | -7.62 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -114,7 +115,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| Flaznorp | 67 | 25 | 2 | -10.42 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -125,23 +125,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| wr0ngw4yb3tt0r | 29 | 28 | 9 | -26.51 USD |
+| wr0ngw4yb3tt0r | 31 | 29 | 6 | -26.04 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 575 | 359 | 12 | -210.70 USD |
+| ferrariChampions2026 | 576 | 360 | 10 | -211.85 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4175
-- **Aciertos:** 2643 (63.3%)
+- **Apuestas resueltas:** 4183
+- **Aciertos:** 2649 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,850.24
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $386.25 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,890.24
+- **ROI sobre lo apostado:** -1.13%
+- **Comisiones pagadas (taker fee):** $387.04 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,9 +149,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2127 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2133 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1254 | 69.5% | 67.8% | +1.8 pp |
-| 80-94% | 555 | 85.2% | 86.6% | -1.4 pp |
+| 80-94% | 557 | 85.3% | 86.7% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -851,7 +851,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 7.7% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -863,15 +863,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 45.5 | Over (BUY) | 57% | 5.00 | 6.1% | ✅ ganada | +3.66 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ⏳ pendiente | — |
 | NordhavenCap | Deportivo Toluca FC vs. CF Monterrey: Bo | Yes (BUY) | 63% | 5.00 | 13.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 4.8% | ✅ ganada | +3.98 |
+| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ⏳ pendiente | — |
+|  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ✅ ganada | +5.08 |
 | 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 30.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ✅ ganada | +5.29 |
 | Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |

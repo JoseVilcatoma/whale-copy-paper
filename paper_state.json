@@ -1,5 +1,5 @@
 {
-  "bankroll": 379.90104918697693,
+  "bankroll": 390.3285696669376,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21855,6 +21855,46 @@
       "timestamp": 1788751417.9938517,
       "bankroll": 379.9,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Wisconsin vs. Notre Dame: O/U 49.5"
+    },
+    {
+      "timestamp": 1788751601.809062,
+      "bankroll": 380.21,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Wisconsin vs. Notre Dame"
+    },
+    {
+      "timestamp": 1788751602.0947099,
+      "bankroll": 375.08,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Notre Dame (-21.5)"
+    },
+    {
+      "timestamp": 1788751602.2949877,
+      "bankroll": 375.39,
+      "event": "won: 1winstreak1 \u2014 Wisconsin vs. Notre Dame"
+    },
+    {
+      "timestamp": 1788751603.84676,
+      "bankroll": 380.67,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Notre Dame (-21.5)"
+    },
+    {
+      "timestamp": 1788751604.2670724,
+      "bankroll": 385.75,
+      "event": "won:  \u2014 US Open WTA: Anna Kalinskaya vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788751604.9018219,
+      "bankroll": 380.62,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Anna Kalinskaya vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788751605.0019784,
+      "bankroll": 384.59,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Anna Kalinskaya vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788751663.0234828,
+      "bankroll": 390.33,
+      "event": "won: Flaznorp \u2014 Will CD Universidad de Concepci\u00f3n win on 2026-09-06?"
     }
   ]
 }
