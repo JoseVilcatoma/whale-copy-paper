@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 03:56:49 (hora de Perú)
+Actualizado: 2026-09-07 03:58:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $341.84
@@ -854,7 +854,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 17.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 68% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Maxime Janvier vs Oskari Paldani | Maxime Janvier (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |

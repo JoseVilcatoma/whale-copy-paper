@@ -110134,8 +110134,8 @@
     "title": "Counter-Strike: Sinners vs Phantom (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "Sinners",
     "side": "BUY",
-    "whale_usd": 1081.73,
-    "whale_pct": 3.262,
+    "whale_usd": 3281.23,
+    "whale_pct": 9.896,
     "whale_value_at_open": 33156.9946,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -110146,7 +110146,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788771276.8673427,
-    "fills": 1
+    "last_fill_at": 1788771431.469977,
+    "fills": 2
   }
 ]
