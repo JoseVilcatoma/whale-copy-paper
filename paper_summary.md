@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 09:45:59 (hora de Perú)
+Actualizado: 2026-09-07 09:48:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $304.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 09:45:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $174.19)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $164.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Talvez10 | 12 | 11 | 0 | -8.07 USD |
+| Talvez10 | 12 | 11 | 1 | -8.07 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 4 | 3 | -8.27 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
-| wr0ngw4yb3tt0r | 36 | 32 | 3 | -18.34 USD |
+| wr0ngw4yb3tt0r | 36 | 32 | 4 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -856,11 +856,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
 | atp-matsuok-delaney-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, ferrariChampions2026 |
 | cs2-sin2-pha-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, thatguythatguy |
+| mlb-atl-phi-2026-09-07-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |
+| Talvez10 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 49% | 5.00 | 26.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 8.1% | ⏳ pendiente | — |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 25.1% | ⏳ pendiente | — |
 | xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ⏳ pendiente | — |
@@ -889,5 +892,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 11.5% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 17.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 68% | 5.00 | 3.7% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Cassis: Maxime Janvier vs Oskari Paldani | Maxime Janvier (BUY) | 78% | 5.00 | 0.7% | ✅ ganada | +1.36 |
