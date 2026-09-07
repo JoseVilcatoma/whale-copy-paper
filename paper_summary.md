@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 00:08:57 (hora de Perú)
+Actualizado: 2026-09-07 00:10:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 00:08:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $257.56)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $252.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 577 | 361 | 15 | -211.89 USD |
+| ferrariChampions2026 | 577 | 361 | 16 | -211.89 USD |
 
 ## Análisis general
 
@@ -849,6 +849,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 3.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -878,4 +879,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 4.8% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ✅ ganada | +5.08 |
-| 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ❌ perdida | -5.06 |
