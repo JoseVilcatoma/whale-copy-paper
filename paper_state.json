@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.6894272915725,
+  "bankroll": 378.2355930922912,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21730,6 +21730,46 @@
       "timestamp": 1788747266.8691223,
       "bankroll": 382.69,
       "event": "lost: ferrariChampions2026 \u2014 Club Le\u00f3n FC vs. CF Am\u00e9rica: O/U 0.5"
+    },
+    {
+      "timestamp": 1788747512.8103516,
+      "bankroll": 377.55,
+      "event": "lost: Flaznorp \u2014 Botafogo FR vs. SE Palmeiras: O/U 0.5"
+    },
+    {
+      "timestamp": 1788747573.7049167,
+      "bankroll": 381.53,
+      "event": "won: Flaznorp \u2014 Will SE Palmeiras win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788747574.0433524,
+      "bankroll": 382.58,
+      "event": "won: Flaznorp \u2014 Spread: SE Palmeiras (-1.5)"
+    },
+    {
+      "timestamp": 1788747574.1435134,
+      "bankroll": 377.44,
+      "event": "lost: Flaznorp \u2014 Will SE Palmeiras win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788747574.5111022,
+      "bankroll": 377.74,
+      "event": "won: Flaznorp \u2014 Botafogo FR vs. SE Palmeiras: O/U 3.5"
+    },
+    {
+      "timestamp": 1788747574.8534923,
+      "bankroll": 379.81,
+      "event": "won: Flaznorp \u2014 Botafogo FR vs. SE Palmeiras: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788747575.4956717,
+      "bankroll": 374.72,
+      "event": "lost: Flaznorp \u2014 Will Botafogo FR vs. SE Palmeiras end in a draw?"
+    },
+    {
+      "timestamp": 1788747576.203146,
+      "bankroll": 378.24,
+      "event": "won: Flaznorp \u2014 Will Botafogo FR vs. SE Palmeiras end in a draw?"
     }
   ]
 }
