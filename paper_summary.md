@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 01:47:52 (hora de Perú)
+Actualizado: 2026-09-07 01:49:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.47
@@ -858,7 +858,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 47.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 53.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
