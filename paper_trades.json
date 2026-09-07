@@ -108769,5 +108769,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788744941.1555839,
     "fills": 1
+  },
+  {
+    "timestamp": 1788745134,
+    "timestamp_added": 1788745135.3509128,
+    "username": "NordhavenCap",
+    "wallet": "0x91feec8af2b517f024d91564ee108d707cc0c1c6",
+    "slug": "lec-tol-mon-2026-09-06-btts",
+    "title": "Deportivo Toluca FC vs. CF Monterrey: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 990.189999,
+    "whale_pct": 13.4,
+    "whale_value_at_open": 7389.379,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788745135.3509223,
+    "fills": 1
   }
 ]

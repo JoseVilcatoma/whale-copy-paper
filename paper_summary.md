@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:38:10 (hora de Perú)
+Actualizado: 2026-09-06 20:40:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:38:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $97.67)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $92.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| NordhavenCap | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -844,6 +845,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| NordhavenCap | Deportivo Toluca FC vs. CF Monterrey: Bo | Yes (BUY) | 63% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -873,4 +875,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Flaznorp | Will CD Universidad de Concepción win on | No (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
