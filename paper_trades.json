@@ -108067,8 +108067,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -108631,8 +108631,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -109052,8 +109052,8 @@
     "title": "Washington Nationals vs. Los Angeles Dodgers",
     "outcome": "Washington Nationals",
     "side": "BUY",
-    "whale_usd": 8222.547058999999,
-    "whale_pct": 7.727,
+    "whale_usd": 10571.187058999998,
+    "whale_pct": 9.934,
     "whale_value_at_open": 106410.3906,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -109066,8 +109066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788751622.49783,
-    "fills": 2
+    "last_fill_at": 1788751742.5181386,
+    "fills": 3
   },
   {
     "timestamp": 1788750610,

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:27:50 (hora de Perú)
+Actualizado: 2026-09-06 22:29:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $390.33
-**Retorno acumulado:** -21.93%
+**Bankroll actual:** $390.07
+**Retorno acumulado:** -21.99%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:27:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $235.33)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $245.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 1winstreak1 | 27 | 14 | 8 | -7.62 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -117,15 +116,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
+| 1winstreak1 | 27 | 15 | 7 | -12.76 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
+| wr0ngw4yb3tt0r | 32 | 29 | 5 | -21.16 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| wr0ngw4yb3tt0r | 31 | 29 | 6 | -26.04 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -134,13 +134,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4183
-- **Aciertos:** 2649 (63.3%)
-- **Cuota promedio de entrada:** 63.0%
+- **Apuestas resueltas:** 4185
+- **Aciertos:** 2650 (63.3%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,890.24
+- **Total apostado (suma de stakes):** $20,900.24
 - **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $387.04 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $387.30 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2133 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2135 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1254 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 557 | 85.3% | 86.7% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
@@ -851,7 +851,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 7.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 9.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -868,7 +868,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
-| wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |
 |  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ✅ ganada | +5.08 |
 | 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 30.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ✅ ganada | +5.29 |
