@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 27079.838500000005,
-    "whale_pct": 56.097,
+    "whale_usd": 29495.067100000004,
+    "whale_pct": 61.1,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798600.9635563,
-    "fills": 5
+    "last_fill_at": 1788801291.960277,
+    "fills": 6
   },
   {
     "timestamp": 1788793226,
@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 18274.521976999997,
-    "whale_pct": 25.528,
+    "whale_usd": 19449.819577,
+    "whale_pct": 27.169,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,8 +111052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788800390.6481636,
-    "fills": 11
+    "last_fill_at": 1788801287.862989,
+    "fills": 12
   },
   {
     "timestamp": 1788796118,
