@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.4485438085347,
+  "bankroll": 398.33079732966144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21600,6 +21600,16 @@
       "timestamp": 1788741189.410695,
       "bankroll": 401.45,
       "event": "won: Flaznorp \u2014 Spread: CS Independiente Rivadavia (-1.5)"
+    },
+    {
+      "timestamp": 1788742823.0897222,
+      "bankroll": 396.36,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. Chicago White Sox: O/U 5.5"
+    },
+    {
+      "timestamp": 1788742825.6525145,
+      "bankroll": 398.33,
+      "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 5.5"
     }
   ]
 }
