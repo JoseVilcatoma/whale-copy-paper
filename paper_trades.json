@@ -112642,5 +112642,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788823729.2144659,
     "fills": 1
+  },
+  {
+    "timestamp": 1788823864,
+    "timestamp_added": 1788823864.463572,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-oak-2026-09-07-spread-away-1pt5",
+    "title": "Spread: Toronto Blue Jays (-1.5)",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 6161.338099999999,
+    "whale_pct": 1.662,
+    "whale_value_at_open": 370731.8091,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788823864.4635825,
+    "fills": 1
   }
 ]
