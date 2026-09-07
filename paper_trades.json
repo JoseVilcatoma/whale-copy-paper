@@ -110798,8 +110798,8 @@
     "title": "Atlanta Braves vs. Philadelphia Phillies: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 31411.110099999998,
-    "whale_pct": 48.338,
+    "whale_usd": 43037.367699999995,
+    "whale_pct": 66.23,
     "whale_value_at_open": 64982.0285,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -110810,8 +110810,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795112.895398,
-    "fills": 5
+    "last_fill_at": 1788798673.420102,
+    "fills": 6
   },
   {
     "timestamp": 1788792437,
@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 24244.342900000003,
-    "whale_pct": 50.223,
+    "whale_usd": 27079.838500000005,
+    "whale_pct": 56.097,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788796813.575204,
-    "fills": 4
+    "last_fill_at": 1788798600.9635563,
+    "fills": 5
   },
   {
     "timestamp": 1788793226,
@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 2011.2576,
-    "whale_pct": 4.166,
+    "whale_usd": 3100.5976,
+    "whale_pct": 6.423,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788796840.750948,
-    "fills": 3
+    "last_fill_at": 1788798598.2576256,
+    "fills": 4
   },
   {
     "timestamp": 1788794107,
@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 9874.506177,
-    "whale_pct": 13.794,
+    "whale_usd": 13659.756177,
+    "whale_pct": 19.081,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,8 +111052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798017.2619534,
-    "fills": 8
+    "last_fill_at": 1788798596.6882133,
+    "fills": 9
   },
   {
     "timestamp": 1788796118,
