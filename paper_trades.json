@@ -112556,8 +112556,8 @@
     "title": "US Open WTA: Iva Jovic vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 10109.1317,
-    "whale_pct": 2.896,
+    "whale_usd": 18963.3432,
+    "whale_pct": 5.432,
     "whale_value_at_open": 349098.3,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -112568,7 +112568,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788823071.8827832,
-    "fills": 2
+    "last_fill_at": 1788823208.5899892,
+    "fills": 4
   }
 ]
