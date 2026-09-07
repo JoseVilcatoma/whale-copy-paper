@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.0385925754928,
+  "bankroll": 340.6432592421595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22110,6 +22110,11 @@
       "timestamp": 1788767259.7801943,
       "bankroll": 339.04,
       "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Hiroki Moriya vs Dominik Palan"
+    },
+    {
+      "timestamp": 1788769660.3475983,
+      "bankroll": 340.64,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Cruz Hewitt vs Constantin Bittoun Kouzmine"
     }
   ]
 }

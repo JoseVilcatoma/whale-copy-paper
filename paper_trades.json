@@ -109681,8 +109681,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -109962,8 +109962,8 @@
     "title": "Shanghai: Mitsuki Wei Kang Leong vs Thijmen Loof",
     "outcome": "Thijmen Loof",
     "side": "BUY",
-    "whale_usd": 1616.666666,
-    "whale_pct": 1.482,
+    "whale_usd": 2244.231036,
+    "whale_pct": 2.057,
     "whale_value_at_open": 109084.281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -109974,8 +109974,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788769360.9598942,
-    "fills": 2
+    "last_fill_at": 1788769635.8982296,
+    "fills": 3
   },
   {
     "timestamp": 1788769385,
