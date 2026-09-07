@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 19878.7927,
-    "whale_pct": 41.18,
+    "whale_usd": 24244.342900000003,
+    "whale_pct": 50.223,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795015.3601243,
-    "fills": 3
+    "last_fill_at": 1788796813.575204,
+    "fills": 4
   },
   {
     "timestamp": 1788793226,
