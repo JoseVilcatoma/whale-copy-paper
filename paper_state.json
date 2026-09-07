@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.5463325441055,
+  "bankroll": 313.6450538555809,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22215,6 +22215,11 @@
       "timestamp": 1788785507.7018929,
       "bankroll": 310.55,
       "event": "venta anticipada:  \u2014 Antalya 4: Lucia Bronzetti vs Irene Burillo Escorihuela (-0.99 USD)"
+    },
+    {
+      "timestamp": 1788786204.507368,
+      "bankroll": 313.65,
+      "event": "won: thatguythatguy \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)"
     }
   ]
 }
