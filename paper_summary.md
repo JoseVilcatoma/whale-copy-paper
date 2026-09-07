@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:18:36 (hora de Perú)
+Actualizado: 2026-09-07 10:20:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $307.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 10:18:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $162.30)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $152.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -120,14 +120,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| BrotherObama | 7 | 8 | 1 | -10.47 USD |
+| BrotherObama | 7 | 8 | 2 | -10.47 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
-| wr0ngw4yb3tt0r | 36 | 32 | 4 | -18.34 USD |
+| wr0ngw4yb3tt0r | 36 | 32 | 5 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -862,6 +862,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 63% | 5.00 | 21.7% | ⏳ pendiente | — |
+| BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 51% | 5.00 | 156.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 78% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs 5star - Map 1 Winn | 9z (BUY) | 87% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs magic (+1.5) | magic (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -890,5 +892,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ✅ ganada | +0.53 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 16.4% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Antalya 4: Radka Zelnickova vs Zhibek Ku | Zhibek Kulambayeva (BUY) | 71% | 5.00 | 2.6% | ✅ ganada | +1.97 |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Genoa: Gianluca Cadenasso vs Juan Martin | Gianluca Cadenasso (BUY) | 53% | 5.00 | 34.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
