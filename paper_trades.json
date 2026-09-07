@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 31115.034100000004,
-    "whale_pct": 64.456,
+    "whale_usd": 32046.475600000005,
+    "whale_pct": 66.385,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788804342.7898335,
-    "fills": 7
+    "last_fill_at": 1788807616.5547628,
+    "fills": 8
   },
   {
     "timestamp": 1788793226,
@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 15427.6947,
-    "whale_pct": 31.959,
+    "whale_usd": 16855.9488,
+    "whale_pct": 34.918,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788806711.5699456,
-    "fills": 9
+    "last_fill_at": 1788807613.5273793,
+    "fills": 10
   },
   {
     "timestamp": 1788794107,
@@ -111738,8 +111738,8 @@
     "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 7400.638835,
-    "whale_pct": 5.86,
+    "whale_usd": 8691.700635,
+    "whale_pct": 6.883,
     "whale_value_at_open": 126281.5975,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -111750,8 +111750,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788807289.476252,
-    "fills": 3
+    "last_fill_at": 1788807614.4671843,
+    "fills": 4
   },
   {
     "timestamp": 1788804035,
@@ -111885,8 +111885,8 @@
     "title": "Map Handicap: MGLZ (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 5402.6789,
-    "whale_pct": 3.321,
+    "whale_usd": 7026.7609999999995,
+    "whale_pct": 4.319,
     "whale_value_at_open": 162690.1025,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111897,8 +111897,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788806715.872924,
-    "fills": 2
+    "last_fill_at": 1788807620.682486,
+    "fills": 3
   },
   {
     "timestamp": 1788806241,
