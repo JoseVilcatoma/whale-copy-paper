@@ -1,5 +1,5 @@
 {
-  "bankroll": 304.0105969886396,
+  "bankroll": 311.12437237693115,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22465,6 +22465,16 @@
       "timestamp": 1788813897.199622,
       "bankroll": 304.01,
       "event": "lost: 1winstreak1 \u2014 Los Angeles Angels vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1788814515.4736195,
+      "bankroll": 308.15,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cleveland Guardians vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1788814517.117867,
+      "bankroll": 311.12,
+      "event": "won: 1winstreak1 \u2014 Spread: Baltimore Orioles (-4.5)"
     }
   ]
 }
