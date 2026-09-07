@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:47:51 (hora de Perú)
+Actualizado: 2026-09-07 10:49:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $302.18
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 10:47:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $137.18)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $132.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -124,7 +124,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| sbsigner | 4 | 6 | 0 | -17.31 USD |
+| sbsigner | 4 | 6 | 1 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
 | wr0ngw4yb3tt0r | 36 | 32 | 6 | -18.34 USD |
@@ -862,6 +862,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
 | BrotherObama | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 55% | 5.00 | 43.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox: O | Under (BUY) | 52% | 5.00 | 19.2% | ⏳ pendiente | — |
@@ -891,4 +892,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ✅ ganada | +1.78 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
-| ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |

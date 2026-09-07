@@ -111054,5 +111054,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788796039.2599263,
     "fills": 6
+  },
+  {
+    "timestamp": 1788796118,
+    "timestamp_added": 1788796118.9119737,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lal-elc-rso-2026-09-07-elc",
+    "title": "Will Elche CF win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4357.1729,
+    "whale_pct": 8.935,
+    "whale_value_at_open": 48763.3406,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788796118.911984,
+    "fills": 1
   }
 ]
