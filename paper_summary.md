@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 19:01:52 (hora de Perú)
+Actualizado: 2026-09-06 19:04:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.45
-**Retorno acumulado:** -23.71%
+**Bankroll actual:** $406.11
+**Retorno acumulado:** -18.78%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 19:01:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $56.45)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $121.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,6 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
+| 1winstreak1 | 25 | 12 | 7 | +0.12 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -98,7 +99,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 24 | 12 | 8 | -4.96 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -118,6 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 20 | 20 | 1 | -12.77 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| wr0ngw4yb3tt0r | 29 | 26 | 8 | -16.24 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -126,21 +127,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| wr0ngw4yb3tt0r | 23 | 25 | 15 | -35.82 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 570 | 355 | 10 | -197.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4110
-- **Aciertos:** 2600 (63.3%)
+- **Apuestas resueltas:** 4118
+- **Aciertos:** 2607 (63.3%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,525.24
-- **ROI sobre lo apostado:** -1.19%
-- **Comisiones pagadas (taker fee):** $380.47 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,565.24
+- **ROI sobre lo apostado:** -1.07%
+- **Comisiones pagadas (taker fee):** $381.36 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,10 +148,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2099 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2106 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1231 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 545 | 85.3% | 86.6% | -1.3 pp |
-| 95-99% (casi seguro) | 235 | 96.6% | 97.3% | -0.8 pp |
+| 95-99% (casi seguro) | 236 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 

@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.4513413056942,
+  "bankroll": 406.10578274022316,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21530,6 +21530,46 @@
       "timestamp": 1788737869.1729808,
       "bankroll": 381.45,
       "event": "won:  \u2014 Will Cruzeiro EC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788739428.2220855,
+      "bankroll": 381.7,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington State vs. Washington"
+    },
+    {
+      "timestamp": 1788739428.5814466,
+      "bankroll": 387.67,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Washington (-21.5)"
+    },
+    {
+      "timestamp": 1788739429.520048,
+      "bankroll": 393.18,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 50.5"
+    },
+    {
+      "timestamp": 1788739429.843552,
+      "bankroll": 397.86,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington State vs. Washington: O/U 51.5"
+    },
+    {
+      "timestamp": 1788739430.2637599,
+      "bankroll": 402.94,
+      "event": "won: 1winstreak1 \u2014 O/U 50.5"
+    },
+    {
+      "timestamp": 1788739430.8839822,
+      "bankroll": 397.81,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Washington (-24.5)"
+    },
+    {
+      "timestamp": 1788739431.4074688,
+      "bankroll": 402.13,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Washington (-24.5)"
+    },
+    {
+      "timestamp": 1788739432.3137007,
+      "bankroll": 406.11,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington State vs. Washington: O/U 34.5"
     }
   ]
 }
