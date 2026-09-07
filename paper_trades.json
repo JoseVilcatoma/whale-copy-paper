@@ -110320,5 +110320,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788773579.4398832,
     "fills": 1
+  },
+  {
+    "timestamp": 1788773670,
+    "timestamp_added": 1788773671.5495734,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sea-cag-lec-2026-09-07-total-1pt5",
+    "title": "Cagliari Calcio vs. US Lecce: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 847.3892000000001,
+    "whale_pct": 0.675,
+    "whale_value_at_open": 125473.2784,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788773671.5495849,
+    "fills": 1
   }
 ]
