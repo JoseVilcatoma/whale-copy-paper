@@ -109143,5 +109143,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788751255.1176114,
     "fills": 1
+  },
+  {
+    "timestamp": 1788752212,
+    "timestamp_added": 1788752212.4303439,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-derepas-yamanak-2026-09-06",
+    "title": "Phan Thiet 3: Timofei Derepasko vs Taiyo Yamanaka",
+    "outcome": "Timofei Derepasko",
+    "side": "BUY",
+    "whale_usd": 3137.3136000000004,
+    "whale_pct": 2.038,
+    "whale_value_at_open": 153951.2445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788752212.4303572,
+    "fills": 1
   }
 ]

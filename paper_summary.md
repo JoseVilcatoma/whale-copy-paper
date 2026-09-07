@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:36:05 (hora de Perú)
+Actualizado: 2026-09-06 22:38:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $390.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:36:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $245.07)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $240.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 576 | 360 | 10 | -211.85 USD |
+| ferrariChampions2026 | 576 | 360 | 11 | -211.85 USD |
 
 ## Análisis general
 
@@ -848,6 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -877,4 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |
 | 1winstreak1 | Spread: Ole Miss (-7.5) | Ole Miss (BUY) | 55% | 5.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-7.5) | Louisville (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
