@@ -109430,8 +109430,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Dominik Palan",
     "outcome": "Hiroki Moriya",
     "side": "BUY",
-    "whale_usd": 21195.423401999997,
-    "whale_pct": 23.136,
+    "whale_usd": 24078.097801999997,
+    "whale_pct": 26.283,
     "whale_value_at_open": 91611.3921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -109442,8 +109442,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788758501.8559327,
-    "fills": 10
+    "last_fill_at": 1788758817.9185605,
+    "fills": 12
   },
   {
     "timestamp": 1788758334,
@@ -109491,6 +109491,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788758452.6079514,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788758788,
+    "timestamp_added": 1788758789.5542262,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-moriya-palan-2026-09-06",
+    "title": "Phan Thiet 3: Hiroki Moriya vs Dominik Palan",
+    "outcome": "Dominik Palan",
+    "side": "BUY",
+    "whale_usd": 9999.999998999998,
+    "whale_pct": 24.824,
+    "whale_value_at_open": 40284.0617,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788758789.554239,
     "fills": 1
   }
 ]
