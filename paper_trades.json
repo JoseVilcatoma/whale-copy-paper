@@ -112098,5 +112098,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788810458.16999,
     "fills": 3
+  },
+  {
+    "timestamp": 1788811733,
+    "timestamp_added": 1788811733.7423353,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "sea-udi-laz-2026-09-07-laz",
+    "title": "Will SS Lazio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5163.75,
+    "whale_pct": 6.473,
+    "whale_value_at_open": 79778.3799,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788811733.7423491,
+    "fills": 1
   }
 ]
