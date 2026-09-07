@@ -111827,5 +111827,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788804430.6832778,
     "fills": 1
+  },
+  {
+    "timestamp": 1788804459,
+    "timestamp_added": 1788804459.7584743,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nym-mia-2026-09-07-total-14pt5",
+    "title": "New York Mets vs. Miami Marlins: O/U 14.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4630.152,
+    "whale_pct": 0.998,
+    "whale_value_at_open": 463948.7487,
+    "paper_stake_usd": 2.53,
+    "odds_at_bet": 49,
+    "fee_usd": 0.065,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788804459.7584863,
+    "fills": 1
   }
 ]

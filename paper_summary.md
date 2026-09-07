@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 13:07:29 (hora de Perú)
+Actualizado: 2026-09-07 13:09:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $302.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 13:07:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $2.53)
+**Capital comprometido ahora mismo:** $302.53 en 61 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 4 | 6 | 7 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 1 | -18.24 USD |
-| wr0ngw4yb3tt0r | 36 | 32 | 11 | -18.34 USD |
+| wr0ngw4yb3tt0r | 36 | 32 | 12 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -866,6 +866,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | sbsigner | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 55% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FaZe (-1.5) vs Alliance (+ | Alliance (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -895,4 +896,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 167.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 78.6% | ⏳ pendiente | — |
-| Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 11.5% | ⏳ pendiente | — |
