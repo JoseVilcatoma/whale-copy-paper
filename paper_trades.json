@@ -109228,8 +109228,8 @@
     "title": "Phan Thiet 3: Yuta Kawahashi vs Sam Ryan Ziegann",
     "outcome": "Sam Ryan Ziegann",
     "side": "BUY",
-    "whale_usd": 621.9599999999999,
-    "whale_pct": 0.414,
+    "whale_usd": 2325.7349999999997,
+    "whale_pct": 1.547,
     "whale_value_at_open": 150322.6339,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -109240,8 +109240,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788753378.13359,
-    "fills": 1
+    "last_fill_at": 1788755975.8251183,
+    "fills": 3
   },
   {
     "timestamp": 1788753404,
