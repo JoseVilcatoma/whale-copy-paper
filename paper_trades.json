@@ -109784,5 +109784,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788765330.8718307,
     "fills": 1
+  },
+  {
+    "timestamp": 1788765719,
+    "timestamp_added": 1788765719.9648805,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-osaka-rybakin-2026-09-07",
+    "title": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "whale_usd": 2932.9168419999996,
+    "whale_pct": 4.391,
+    "whale_value_at_open": 66793.7383,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788765719.9648917,
+    "fills": 1
   }
 ]
