@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.0963185040212,
+  "bankroll": 309.52019762490033,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22400,6 +22400,16 @@
       "timestamp": 1788809191.2437022,
       "bankroll": 303.1,
       "event": "lost: sbsigner \u2014 Will Getafe CF vs. RC Celta de Vigo end in a draw?"
+    },
+    {
+      "timestamp": 1788809504.7420712,
+      "bankroll": 305.7,
+      "event": "won: totoro3miyazaki \u2014 Will Getafe CF win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788809505.009797,
+      "bankroll": 309.52,
+      "event": "won: ferrariChampions2026 \u2014 Getafe CF vs. RC Celta de Vigo: O/U 1.5"
     }
   ]
 }
