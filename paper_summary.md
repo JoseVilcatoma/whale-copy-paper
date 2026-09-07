@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 03:30:08 (hora de Perú)
+Actualizado: 2026-09-07 03:32:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $340.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 03:30:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $230.64)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $220.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 1 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -82,6 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | thatguythatguy | 0 | 0 | 1 | +0.00 USD |
+| darkumbreon99 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -846,11 +847,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-ki-tamm-2026-09-06 | , ferrariChampions2026 |
 | atp-moriya-palan-2026-09-06 | , ferrariChampions2026 |
+| wta-swiatek-zhen-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, darkumbreon99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 81% | 5.00 | 96.6% | ⏳ pendiente | — |
+| darkumbreon99 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 81% | 5.00 | 11.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Tuncay Duran (BUY) | 63% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Mitsuki Wei Kang Leong vs Thij | Thijmen Loof (BUY) | 65% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Samir Hamza Reguig (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -869,7 +873,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 63% | 5.00 | 2.6% | ❌ perdida | -5.09 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 47.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 114.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 206.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ❌ perdida | -5.06 |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -879,5 +883,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Kristjan Tamm (BUY) | 62% | 5.00 | 8.1% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 89% | 5.00 | 2.3% | ✅ ganada | +0.59 |

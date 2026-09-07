@@ -109552,8 +109552,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 3728.8363,
-    "whale_pct": 113.972,
+    "whale_usd": 6763.7109,
+    "whale_pct": 206.733,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -109564,8 +109564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788764417.7907593,
-    "fills": 3
+    "last_fill_at": 1788769816.098927,
+    "fills": 4
   },
   {
     "timestamp": 1788759923,
@@ -109999,6 +109999,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788769385.928476,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788769835,
+    "timestamp_added": 1788769836.0065067,
+    "username": "darkumbreon99",
+    "wallet": "0x9913d9fced638b96e5e212b7dab6e44c5be55973",
+    "slug": "wta-swiatek-zhen-2026-09-06",
+    "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 835.2275000000001,
+    "whale_pct": 11.551,
+    "whale_value_at_open": 7230.7623,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788769836.0065184,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788769835,
+    "timestamp_added": 1788769836.7822826,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-swiatek-zhen-2026-09-06",
+    "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 7027.9822,
+    "whale_pct": 96.583,
+    "whale_value_at_open": 7276.6044,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "darkumbreon99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788769836.7822945,
     "fills": 1
   }
 ]
