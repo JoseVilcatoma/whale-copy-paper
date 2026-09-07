@@ -111511,8 +111511,8 @@
     "title": "Will RC Celta de Vigo win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2301.4047330000003,
-    "whale_pct": 3.202,
+    "whale_usd": 4159.639133000001,
+    "whale_pct": 5.788,
     "whale_value_at_open": 71872.7109,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -111523,8 +111523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788802664.2183945,
-    "fills": 3
+    "last_fill_at": 1788802745.6432426,
+    "fills": 5
   },
   {
     "timestamp": 1788801559,
@@ -111613,8 +111613,8 @@
     "title": "Will Getafe CF vs. RC Celta de Vigo end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 15278.808884999999,
-    "whale_pct": 19.421,
+    "whale_usd": 16558.823329,
+    "whale_pct": 21.049,
     "whale_value_at_open": 78669.5675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111625,7 +111625,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788802657.3719723,
-    "fills": 3
+    "last_fill_at": 1788802763.2555299,
+    "fills": 4
+  },
+  {
+    "timestamp": 1788802745,
+    "timestamp_added": 1788802745.6475806,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cle-bal-2026-09-07",
+    "title": "Cleveland Guardians vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 2622.9382,
+    "whale_pct": 0.662,
+    "whale_value_at_open": 396107.7449,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788802745.6475923,
+    "fills": 1
   }
 ]
