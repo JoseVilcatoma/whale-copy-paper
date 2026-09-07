@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 19:54:19 (hora de Perú)
+Actualizado: 2026-09-06 19:56:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.45
@@ -855,7 +855,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will Associação Chapecoense de Futebol w | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Associação Chapecoense de Futebol w | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
