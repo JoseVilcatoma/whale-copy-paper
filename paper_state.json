@@ -1,5 +1,5 @@
 {
-  "bankroll": 306.75222767894786,
+  "bankroll": 307.6646086313288,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22285,6 +22285,11 @@
       "timestamp": 1788802126.8776295,
       "bankroll": 306.75,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Weronika Falkowska vs Elizara Yaneva"
+    },
+    {
+      "timestamp": 1788802937.0948172,
+      "bankroll": 307.66,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Titouan Droguet vs Maxime Chazal"
     }
   ]
 }
