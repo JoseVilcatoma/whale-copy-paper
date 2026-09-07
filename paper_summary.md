@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 11:58:50 (hora de Perú)
+Actualizado: 2026-09-07 12:00:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -879,14 +879,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 78.6% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 22.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 25.5% | ⏳ pendiente | — |
 | BrotherObama | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 55% | 5.00 | 43.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox: O | Under (BUY) | 52% | 5.00 | 19.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 63% | 5.00 | 21.7% | ⏳ pendiente | — |
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 51% | 5.00 | 156.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 78% | 5.00 | 3.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs 5star - Map 1 Winn | 9z (BUY) | 87% | 5.00 | 1.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs magic (+1.5) | magic (BUY) | 59% | 5.00 | 10.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs magic (+1.5) | magic (BUY) | 59% | 5.00 | 15.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs 5star (BO3) - FISS | 9z (BUY) | 93% | 5.00 | 56.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Talvez10 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 49% | 5.00 | 66.2% | ⏳ pendiente | — |
