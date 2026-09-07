@@ -1,5 +1,5 @@
 {
-  "bankroll": 318.1225355573171,
+  "bankroll": 308.3064220543817,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22545,6 +22545,31 @@
       "timestamp": 1788818306.9389753,
       "bankroll": 318.12,
       "event": "won: SkyonX \u2014 US Open WTA: Naomi Osaka vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788818614.6588004,
+      "bankroll": 312.98,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788818614.9517548,
+      "bankroll": 307.83,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Francisco Cerundolo vs Alexander Blockx"
+    },
+    {
+      "timestamp": 1788818615.4452894,
+      "bankroll": 302.71,
+      "event": "lost: BrotherObama \u2014 Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788818615.8909159,
+      "bankroll": 304.49,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: NTR (-1.5) vs CYBERSHOKE Esports (+1.5)"
+    },
+    {
+      "timestamp": 1788818617.7338128,
+      "bankroll": 308.31,
+      "event": "won: sbsigner \u2014 Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
     }
   ]
 }
