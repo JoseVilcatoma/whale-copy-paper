@@ -109324,8 +109324,8 @@
     "title": "Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm",
     "outcome": "Kristjan Tamm",
     "side": "BUY",
-    "whale_usd": 7088.0109,
-    "whale_pct": 4.888,
+    "whale_usd": 11703.395515,
+    "whale_pct": 8.071,
     "whale_value_at_open": 144999.0639,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -109336,8 +109336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788755464.9684205,
-    "fills": 1
+    "last_fill_at": 1788756096.2575283,
+    "fills": 2
   },
   {
     "timestamp": 1788755508,
@@ -109393,6 +109393,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788755579.6235461,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788756095,
+    "timestamp_added": 1788756096.4820526,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-ki-tamm-2026-09-06",
+    "title": "Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm",
+    "outcome": "Dong Ju Kim",
+    "side": "BUY",
+    "whale_usd": 4999.999999,
+    "whale_pct": 6.136,
+    "whale_value_at_open": 81487.9052,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788756096.4820616,
     "fills": 1
   }
 ]
