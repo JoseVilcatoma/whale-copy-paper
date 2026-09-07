@@ -111861,8 +111861,8 @@
     "title": "Will Udinese Calcio win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 20847.050000000003,
-    "whale_pct": 5.525,
+    "whale_usd": 28291.420000000006,
+    "whale_pct": 7.498,
     "whale_value_at_open": 377312.2922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -111873,7 +111873,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788804858.2974317,
-    "fills": 1
+    "last_fill_at": 1788805122.7355013,
+    "fills": 2
   }
 ]
