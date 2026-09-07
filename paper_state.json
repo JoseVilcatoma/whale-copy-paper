@@ -1,5 +1,5 @@
 {
-  "bankroll": 311.5382733335792,
+  "bankroll": 310.5463325441055,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22210,6 +22210,11 @@
       "timestamp": 1788785260.4414933,
       "bankroll": 311.54,
       "event": "won:  \u2014 Genoa: Maximo Zeitune vs Giuseppe La Vela"
+    },
+    {
+      "timestamp": 1788785507.7018929,
+      "bankroll": 310.55,
+      "event": "venta anticipada:  \u2014 Antalya 4: Lucia Bronzetti vs Irene Burillo Escorihuela (-0.99 USD)"
     }
   ]
 }
