@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 3100.5976,
-    "whale_pct": 6.423,
+    "whale_usd": 5000.8356,
+    "whale_pct": 10.359,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798598.2576256,
-    "fills": 4
+    "last_fill_at": 1788799509.3307703,
+    "fills": 5
   },
   {
     "timestamp": 1788794107,
@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 13659.756177,
-    "whale_pct": 19.081,
+    "whale_usd": 16359.054176999998,
+    "whale_pct": 22.852,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,8 +111052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798596.6882133,
-    "fills": 9
+    "last_fill_at": 1788799507.2311075,
+    "fills": 10
   },
   {
     "timestamp": 1788796118,
@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 207526.24310000002,
-    "whale_pct": 134.692,
+    "whale_usd": 228167.6031,
+    "whale_pct": 148.09,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,8 +111150,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799292.6347706,
-    "fills": 8
+    "last_fill_at": 1788799534.9360619,
+    "fills": 9
   },
   {
     "timestamp": 1788798909,
@@ -111338,8 +111338,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 2700.789787,
-    "whale_pct": 0.884,
+    "whale_usd": 17410.408486999997,
+    "whale_pct": 5.699,
     "whale_value_at_open": 305504.3217,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111353,7 +111353,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799317.7431135,
+    "last_fill_at": 1788799543.371616,
+    "fills": 6
+  },
+  {
+    "timestamp": 1788799490,
+    "timestamp_added": 1788799491.1153016,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-valdman-lee-2026-09-07",
+    "title": "Barranquilla: Vendula Valdmannova vs Carol Young Suh Lee",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "whale_usd": 3046.9198,
+    "whale_pct": 0.908,
+    "whale_value_at_open": 335425.9759,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799491.115312,
     "fills": 1
   }
 ]
