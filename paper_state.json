@@ -1,5 +1,5 @@
 {
-  "bankroll": 307.6646086313288,
+  "bankroll": 302.5316086313288,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22290,6 +22290,11 @@
       "timestamp": 1788802937.0948172,
       "bankroll": 307.66,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Titouan Droguet vs Maxime Chazal"
+    },
+    {
+      "timestamp": 1788803813.4321814,
+      "bankroll": 302.53,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Montreux: Nuria Brancaccio vs Francesca Curmi"
     }
   ]
 }

@@ -110386,8 +110386,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -111637,8 +111637,8 @@
     "title": "Cleveland Guardians vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 9852.8454,
-    "whale_pct": 2.487,
+    "whale_usd": 16919.833899999998,
+    "whale_pct": 4.272,
     "whale_value_at_open": 396107.7449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111649,8 +111649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788803565.8527455,
-    "fills": 6
+    "last_fill_at": 1788803758.2194903,
+    "fills": 10
   },
   {
     "timestamp": 1788803344,
@@ -111688,8 +111688,8 @@
     "title": "Los Angeles Angels vs. Boston Red Sox",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 3577.9962,
-    "whale_pct": 0.871,
+    "whale_usd": 12398.795900000001,
+    "whale_pct": 3.018,
     "whale_value_at_open": 410854.1473,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -111700,7 +111700,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788803414.8233109,
-    "fills": 1
+    "last_fill_at": 1788803754.6079726,
+    "fills": 4
   }
 ]
