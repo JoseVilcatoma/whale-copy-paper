@@ -111637,8 +111637,8 @@
     "title": "Cleveland Guardians vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 2622.9382,
-    "whale_pct": 0.662,
+    "whale_usd": 9852.8454,
+    "whale_pct": 2.487,
     "whale_value_at_open": 396107.7449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111649,8 +111649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788802745.6475923,
-    "fills": 1
+    "last_fill_at": 1788803565.8527455,
+    "fills": 6
   },
   {
     "timestamp": 1788803344,
