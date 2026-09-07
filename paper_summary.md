@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 09:09:05 (hora de Perú)
+Actualizado: 2026-09-07 09:11:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.30
@@ -859,7 +859,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 38.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 279.3% | ⏳ pendiente | — |
 | Gambler661 | Seville: Jonas Forejtek vs Gerard Campan | Gerard Campana Lee (BUY) | 96% | 5.00 | 106.7% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 93.1% | ⏳ pendiente | — |
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
