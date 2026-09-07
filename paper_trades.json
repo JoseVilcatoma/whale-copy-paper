@@ -111688,8 +111688,8 @@
     "title": "Los Angeles Angels vs. Boston Red Sox",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 12398.795900000001,
-    "whale_pct": 3.018,
+    "whale_usd": 18270.5858,
+    "whale_pct": 4.447,
     "whale_value_at_open": 410854.1473,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -111700,8 +111700,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788803754.6079726,
-    "fills": 4
+    "last_fill_at": 1788804113.2599194,
+    "fills": 7
   },
   {
     "timestamp": 1788803991,
@@ -111775,6 +111775,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788804036.048623,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788804185,
+    "timestamp_added": 1788804186.0218046,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "lal-elc-rso-2026-09-07-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 8754.8094,
+    "whale_pct": 7.961,
+    "whale_value_at_open": 109967.8802,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788804186.0218146,
     "fills": 1
   }
 ]
