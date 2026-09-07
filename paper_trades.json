@@ -112380,8 +112380,8 @@
     "title": "Barranquilla: Katrina Scott vs Varvara Lepchenko",
     "outcome": "Katrina Scott",
     "side": "BUY",
-    "whale_usd": 3477.5748999999996,
-    "whale_pct": 1.571,
+    "whale_usd": 4551.395199999999,
+    "whale_pct": 2.057,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -112392,8 +112392,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788820324.2410526,
-    "fills": 3
+    "last_fill_at": 1788820751.2915297,
+    "fills": 4
   },
   {
     "timestamp": 1788818922,
