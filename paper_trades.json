@@ -112033,8 +112033,8 @@
     "title": "Washington Nationals vs. San Diego Padres: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 10834.0029,
-    "whale_pct": 25.243,
+    "whale_usd": 35664.19158,
+    "whale_pct": 83.096,
     "whale_value_at_open": 42919.1358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -112045,8 +112045,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788810280.2406816,
-    "fills": 1
+    "last_fill_at": 1788812233.4761858,
+    "fills": 2
   },
   {
     "timestamp": 1788810288,

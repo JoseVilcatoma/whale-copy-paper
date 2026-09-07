@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 15:15:46 (hora de Perú)
+Actualizado: 2026-09-07 15:17:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $304.40
@@ -871,7 +871,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ⏳ pendiente | — |
 | SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 37.4% | ⏳ pendiente | — |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 59.5% | ⏳ pendiente | — |
-| Talvez10 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 25.2% | ⏳ pendiente | — |
+| Talvez10 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 83.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: GamerLegion vs  Pipsqueak+4 - Ga | GamerLegion (BUY) | 68% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-4.5) | Cleveland Guardians (BUY) | 62% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ❌ perdida | -5.12 |
