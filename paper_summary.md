@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 19:06:09 (hora de Perú)
+Actualizado: 2026-09-06 19:08:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $406.11
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 19:06:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $121.11)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $111.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 42 | 12 | 27 | +6.66 USD |
+| Flaznorp | 42 | 12 | 29 | +6.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -838,13 +838,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Louisville vs. Ole Miss: O/U 57.5 | Under (BUY) | 67% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | Will CD Universidad de Concepción win on | No (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
+| 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 14.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-6.5) | Louisville (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | SC Corinthians Paulista vs. Associação C | Over (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -866,5 +868,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | Yes (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss (BUY) | 70% | 5.00 | 17.5% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 1.5 | Under (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
