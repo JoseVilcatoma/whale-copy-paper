@@ -110615,5 +110615,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788785254.9442925,
     "fills": 1
+  },
+  {
+    "timestamp": 1788785401,
+    "timestamp_added": 1788785401.7933016,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-bronzet-escorih-2026-09-07",
+    "title": "Antalya 4: Lucia Bronzetti vs Irene Burillo Escorihuela",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "whale_usd": 1053.0,
+    "whale_pct": 1.866,
+    "whale_value_at_open": 56433.617,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788785401.7933128,
+    "fills": 1
   }
 ]
