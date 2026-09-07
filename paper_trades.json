@@ -111152,5 +111152,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788798469.799914,
     "fills": 6
+  },
+  {
+    "timestamp": 1788798909,
+    "timestamp_added": 1788798909.8950903,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-potapov-2026-09-06",
+    "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "whale_usd": 7808.4328000000005,
+    "whale_pct": 2.781,
+    "whale_value_at_open": 280762.7555,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "totoro3miyazaki"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788798909.8950999,
+    "fills": 1
   }
 ]
