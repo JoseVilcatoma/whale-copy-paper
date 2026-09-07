@@ -109616,5 +109616,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788759983.6062703,
     "fills": 1
+  },
+  {
+    "timestamp": 1788760829,
+    "timestamp_added": 1788760829.8525627,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-nem-forzer-2026-09-07",
+    "title": "Counter-Strike: Team Nemesis vs FORZE Reload (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+    "outcome": "FORZE Reload",
+    "side": "BUY",
+    "whale_usd": 1000.18,
+    "whale_pct": 18.988,
+    "whale_value_at_open": 5267.4448,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788760829.8525777,
+    "fills": 1
   }
 ]
