@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:56:16 (hora de Perú)
+Actualizado: 2026-09-07 10:58:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $302.18
@@ -863,7 +863,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 45.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 73.9% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |

@@ -111112,8 +111112,8 @@
     "title": "Will Cagliari Calcio win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 74314.4748,
-    "whale_pct": 45.63,
+    "whale_usd": 120379.39869999999,
+    "whale_pct": 73.914,
     "whale_value_at_open": 162864.9174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -111126,7 +111126,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788796444.7026422,
-    "fills": 2
+    "last_fill_at": 1788796672.5510042,
+    "fills": 4
   }
 ]
