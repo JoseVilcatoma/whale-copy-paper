@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 23:42:09 (hora de Perú)
+Actualizado: 2026-09-06 23:44:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.31
@@ -860,10 +860,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 17.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 18.9% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 21.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 12.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 13.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 4.1% | ⏳ pendiente | — |
