@@ -103664,8 +103664,8 @@
     "odds_at_bet": 97,
     "fee_usd": 0.008,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -109576,8 +109576,8 @@
     "title": "Counter-Strike: mellren vs Esport BERG (BO3) - ESL Challenger League Europe Cup #6 Group D",
     "outcome": "mellren",
     "side": "BUY",
-    "whale_usd": 555.8076,
-    "whale_pct": 16.988,
+    "whale_usd": 1559.7612,
+    "whale_pct": 47.674,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -109588,8 +109588,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788759923.9142683,
-    "fills": 1
+    "last_fill_at": 1788761704.8662686,
+    "fills": 2
   },
   {
     "timestamp": 1788759983,
@@ -109663,6 +109663,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788760970.2045596,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788761748,
+    "timestamp_added": 1788761749.5170038,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hewitt-kouzmin-2026-09-06",
+    "title": "Phan Thiet 3: Cruz Hewitt vs Constantin Bittoun Kouzmine",
+    "outcome": "Cruz Hewitt",
+    "side": "BUY",
+    "whale_usd": 739.3488,
+    "whale_pct": 0.536,
+    "whale_value_at_open": 137859.8709,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788761749.5170176,
     "fills": 1
   }
 ]
