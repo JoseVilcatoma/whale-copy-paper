@@ -107401,8 +107401,8 @@
     "title": "Minnesota Twins vs. Chicago White Sox: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1550.989996,
-    "whale_pct": 0.406,
+    "whale_usd": 5028.229994,
+    "whale_pct": 1.316,
     "whale_value_at_open": 382034.5387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -107416,8 +107416,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788738503.1220503,
-    "fills": 2
+    "last_fill_at": 1788741303.103714,
+    "fills": 3
   },
   {
     "timestamp": 1788735155,
@@ -107524,8 +107524,8 @@
     "title": "Louisville vs. Ole Miss",
     "outcome": "Ole Miss",
     "side": "BUY",
-    "whale_usd": 106213.997997,
-    "whale_pct": 46.742,
+    "whale_usd": 111457.235397,
+    "whale_pct": 49.05,
     "whale_value_at_open": 227233.2358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -107536,8 +107536,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788740695.088949,
-    "fills": 6
+    "last_fill_at": 1788741305.5630426,
+    "fills": 10
   },
   {
     "timestamp": 1788736138,
@@ -108302,8 +108302,8 @@
     "title": "CF Cruz Azul vs. Club Santos Laguna: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 609.12,
-    "whale_pct": 0.209,
+    "whale_usd": 1165.23,
+    "whale_pct": 0.401,
     "whale_value_at_open": 290919.6137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -108314,8 +108314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788740181.101096,
-    "fills": 1
+    "last_fill_at": 1788741226.6740782,
+    "fills": 2
   },
   {
     "timestamp": 1788740836,
