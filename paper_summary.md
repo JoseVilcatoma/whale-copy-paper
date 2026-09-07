@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 05:23:07 (hora de Perú)
+Actualizado: 2026-09-07 05:25:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $339.17
-**Retorno acumulado:** -32.17%
+**Bankroll actual:** $340.02
+**Retorno acumulado:** -32.00%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 05:23:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $164.17)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $165.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 1 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-|  | 14 | 10 | 1 | +12.94 USD |
+|  | 14 | 10 | 2 | +12.94 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -132,18 +132,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 591 | 373 | 12 | -244.15 USD |
+| ferrariChampions2026 | 592 | 373 | 11 | -243.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4234
-- **Aciertos:** 2675 (63.2%)
+- **Apuestas resueltas:** 4235
+- **Aciertos:** 2676 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,145.24
-- **ROI sobre lo apostado:** -1.36%
-- **Comisiones pagadas (taker fee):** $391.88 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,150.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $391.92 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -153,7 +153,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2158 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1272 | 69.0% | 67.7% | +1.3 pp |
-| 80-94% | 561 | 85.4% | 86.6% | -1.3 pp |
+| 80-94% | 562 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -857,12 +857,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Genoa: Massimo Giunta vs Oleksii Krutykh | Oleksii Krutykh (BUY) | 42% | 5.00 | 22.8% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 19.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 16.4% | ⏳ pendiente | — |
@@ -886,4 +887,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Benjamin Hassan (BUY) | 76% | 5.00 | 6.5% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | US Open ATP: Francisco Cerundolo vs Alex | Francisco Cerundolo (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 44% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Luca Castelnuovo vs Tsung-Hao  | Luca Castelnuovo (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |

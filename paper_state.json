@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.1721652502915,
+  "bankroll": 340.016518191468,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22150,6 +22150,11 @@
       "timestamp": 1788776134.827384,
       "bankroll": 339.17,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Norbert Gombos vs Olle Wallin"
+    },
+    {
+      "timestamp": 1788776627.7713366,
+      "bankroll": 340.02,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Mika Brunold vs Matthew William Donald"
     }
   ]
 }
