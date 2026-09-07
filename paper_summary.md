@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 19:41:39 (hora de Perú)
+Actualizado: 2026-09-06 19:43:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 19:41:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $76.45)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $66.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Flaznorp | 44 | 14 | 34 | -0.41 USD |
+| Flaznorp | 44 | 14 | 35 | -0.41 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 20 | 20 | 1 | -12.77 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 29 | 26 | 9 | -16.24 USD |
+| wr0ngw4yb3tt0r | 29 | 26 | 10 | -16.24 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -841,6 +841,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-7.5) | Ole Miss (BUY) | 55% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -869,5 +871,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-6.5) | Louisville (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Tsitsipas | Shelton (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | Flaznorp | CA River Plate vs. CS Independiente Riva | Over (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
-| Flaznorp | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
