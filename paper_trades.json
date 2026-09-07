@@ -109808,5 +109808,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788765719.9648917,
     "fills": 1
+  },
+  {
+    "timestamp": 1788766060,
+    "timestamp_added": 1788766060.5415792,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerundo-blockx-2026-09-06",
+    "title": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "whale_usd": 6009.664000000001,
+    "whale_pct": 4.683,
+    "whale_value_at_open": 128330.8296,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788766060.541593,
+    "fills": 1
   }
 ]
