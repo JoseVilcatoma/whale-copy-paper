@@ -1,5 +1,5 @@
 {
-  "bankroll": 346.5080925754928,
+  "bankroll": 339.0385925754928,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22095,6 +22095,21 @@
       "timestamp": 1788764737.3453965,
       "bankroll": 346.51,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Aditya Balsekar vs Hunter Heck"
+    },
+    {
+      "timestamp": 1788767259.0539794,
+      "bankroll": 349.23,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Hiroki Moriya vs Dominik Palan"
+    },
+    {
+      "timestamp": 1788767259.479684,
+      "bankroll": 344.13,
+      "event": "lost:  \u2014 Phan Thiet 3: Hiroki Moriya vs Dominik Palan"
+    },
+    {
+      "timestamp": 1788767259.7801943,
+      "bankroll": 339.04,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Hiroki Moriya vs Dominik Palan"
     }
   ]
 }
