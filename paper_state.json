@@ -1,5 +1,5 @@
 {
-  "bankroll": 308.3064220543817,
+  "bankroll": 310.18086649882616,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22570,6 +22570,11 @@
       "timestamp": 1788818617.7338128,
       "bankroll": 308.31,
       "event": "won: sbsigner \u2014 Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788818806.39491,
+      "bankroll": 310.18,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. Detroit Tigers: O/U 9.5"
     }
   ]
 }
