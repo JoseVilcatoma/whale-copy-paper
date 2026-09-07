@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:59:05 (hora de Perú)
+Actualizado: 2026-09-07 13:01:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $302.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 12:59:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $27.53)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $12.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 18 | 9 | 0 | +18.71 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 67 | 40 | 8 | +17.19 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 67 | 40 | 10 | +17.19 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 6 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
+| 1winstreak1 | 31 | 19 | 1 | -18.24 USD |
 | wr0ngw4yb3tt0r | 36 | 32 | 10 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -860,11 +860,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-andreev-potapov-2026-09-06 | ferrariChampions2026, totoro3miyazaki |
 | mlb-atl-phi-2026-09-07-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-nym-mia-2026-09-07 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-laa-bos-2026-09-07 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FaZe (-1.5) vs Alliance (+ | Alliance (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
+| 1winstreak1 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 41% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox (BUY) | 75% | 5.00 | 3.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 54% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -892,6 +896,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 11.5% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 28.1% | ⏳ pendiente | — |
-| BrotherObama | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 55% | 5.00 | 43.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox: O | Under (BUY) | 52% | 5.00 | 25.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 63% | 5.00 | 21.7% | ⏳ pendiente | — |
