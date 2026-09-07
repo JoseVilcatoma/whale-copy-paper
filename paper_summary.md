@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:23:40 (hora de Perú)
+Actualizado: 2026-09-07 12:25:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -867,7 +867,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Dali | Genaro Alberto Olivieri (BUY) | 54% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
-| sbsigner | Will RC Celta de Vigo win on 2026-09-07? | No (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
+| sbsigner | Will RC Celta de Vigo win on 2026-09-07? | No (BUY) | 69% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins: O/U 8.5 | Over (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |

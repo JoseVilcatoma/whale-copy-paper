@@ -111511,8 +111511,8 @@
     "title": "Will RC Celta de Vigo win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 820.3996000000001,
-    "whale_pct": 1.141,
+    "whale_usd": 1506.2514,
+    "whale_pct": 2.096,
     "whale_value_at_open": 71872.7109,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -111523,8 +111523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801493.0766156,
-    "fills": 1
+    "last_fill_at": 1788801875.6464589,
+    "fills": 2
   },
   {
     "timestamp": 1788801559,
