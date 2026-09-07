@@ -109552,8 +109552,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 10967.8073,
-    "whale_pct": 335.232,
+    "whale_usd": 14705.523500000001,
+    "whale_pct": 449.475,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -109564,8 +109564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788770714.5167572,
-    "fills": 5
+    "last_fill_at": 1788771618.2436614,
+    "fills": 6
   },
   {
     "timestamp": 1788759923,
@@ -110148,5 +110148,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788771431.469977,
     "fills": 2
+  },
+  {
+    "timestamp": 1788771579,
+    "timestamp_added": 1788771580.2573502,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-osaka-rybakin-2026-09-07",
+    "title": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Naomi Osaka",
+    "side": "BUY",
+    "whale_usd": 9931.6932,
+    "whale_pct": 7.609,
+    "whale_value_at_open": 130525.1076,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788771580.257363,
+    "fills": 1
   }
 ]
