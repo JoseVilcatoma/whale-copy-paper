@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.01950321201434,
+  "bankroll": 394.98150321201433,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21620,6 +21620,11 @@
       "timestamp": 1788742886.6673422,
       "bankroll": 400.02,
       "event": "won: Flaznorp \u2014 US Open WTA: Jessica Pegula vs Sorana Cirstea"
+    },
+    {
+      "timestamp": 1788743196.1677659,
+      "bankroll": 394.98,
+      "event": "lost: Flaznorp \u2014 Will CD Universidad Catolica del Ecuador win on 2026-09-06?"
     }
   ]
 }
