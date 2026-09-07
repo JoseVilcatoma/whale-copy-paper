@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:21:35 (hora de Perú)
+Actualizado: 2026-09-07 04:23:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $342.29
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 04:21:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $202.29)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $197.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 1 | +1.93 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 2 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -854,6 +854,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Genoa: Gianluca Cadenasso vs Juan Martin | Gianluca Cadenasso (BUY) | 53% | 5.00 | 34.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu Albot vs Radu David Tur | Radu David Turcanu (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
@@ -883,4 +884,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 47.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 551.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ❌ perdida | -5.06 |
-|  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ❌ perdida | -5.10 |

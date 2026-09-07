@@ -110222,5 +110222,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788772153.3658624,
     "fills": 1
+  },
+  {
+    "timestamp": 1788773001,
+    "timestamp_added": 1788773002.321378,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-cadenas-ma-2026-09-07",
+    "title": "Genoa: Gianluca Cadenasso vs Juan Martin",
+    "outcome": "Gianluca Cadenasso",
+    "side": "BUY",
+    "whale_usd": 2825.3836,
+    "whale_pct": 34.83,
+    "whale_value_at_open": 8111.8998,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788773002.321388,
+    "fills": 1
   }
 ]
