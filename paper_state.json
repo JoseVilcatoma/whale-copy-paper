@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.2902607877719,
+  "bankroll": 382.33659889152864,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21640,6 +21640,26 @@
       "timestamp": 1788743384.6894355,
       "bankroll": 387.29,
       "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1788744137.067499,
+      "bankroll": 391.79,
+      "event": "won: pleaseplease123 \u2014 Minnesota Twins vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788744137.606252,
+      "bankroll": 386.66,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Minnesota Twins vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788744140.5794852,
+      "bankroll": 381.56,
+      "event": "lost: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788744146.4256036,
+      "bankroll": 382.34,
+      "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 8.5"
     }
   ]
 }

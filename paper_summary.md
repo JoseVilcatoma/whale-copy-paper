@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:21:24 (hora de Perú)
+Actualizado: 2026-09-06 20:23:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $387.29
-**Retorno acumulado:** -22.54%
+**Bankroll actual:** $382.34
+**Retorno acumulado:** -23.53%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:21:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $62.29)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $77.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,25 +104,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| Flaznorp | 47 | 16 | 31 | -5.21 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
+| pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
+| Flaznorp | 48 | 17 | 29 | -9.53 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| pleaseplease123 | 20 | 20 | 1 | -12.77 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| wr0ngw4yb3tt0r | 29 | 26 | 11 | -16.24 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
+| wr0ngw4yb3tt0r | 29 | 27 | 10 | -21.37 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4132
-- **Aciertos:** 2615 (63.3%)
+- **Apuestas resueltas:** 4136
+- **Aciertos:** 2617 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,635.24
-- **ROI sobre lo apostado:** -1.16%
-- **Comisiones pagadas (taker fee):** $382.32 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,655.24
+- **ROI sobre lo apostado:** -1.18%
+- **Comisiones pagadas (taker fee):** $382.70 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,9 +148,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2108 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1238 | 69.5% | 67.8% | +1.7 pp |
-| 80-94% | 548 | 85.2% | 86.6% | -1.4 pp |
+| 40-59% | 2110 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1239 | 69.4% | 67.7% | +1.7 pp |
+| 80-94% | 549 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -845,7 +845,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ⏳ pendiente | — |
 | 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 16.7% | ⏳ pendiente | — |
