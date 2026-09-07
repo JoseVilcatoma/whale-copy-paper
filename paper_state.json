@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.22089386442946,
+  "bankroll": 351.4710517591663,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22080,6 +22080,11 @@
       "timestamp": 1788761715.6958184,
       "bankroll": 351.22,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Deigo Dedura-Palomero vs Timo Rosenkranz Koenig"
+    },
+    {
+      "timestamp": 1788763352.461286,
+      "bankroll": 351.47,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Martin Borisiouk vs Ethan Cook"
     }
   ]
 }
