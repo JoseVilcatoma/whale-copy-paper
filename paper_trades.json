@@ -109552,8 +109552,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 27317.821600000003,
-    "whale_pct": 834.971,
+    "whale_usd": 29283.103100000004,
+    "whale_pct": 895.04,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -109564,8 +109564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788775215.1805396,
-    "fills": 10
+    "last_fill_at": 1788776112.281028,
+    "fills": 11
   },
   {
     "timestamp": 1788759923,
@@ -110215,8 +110215,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -110402,8 +110402,8 @@
     "title": "LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 7999.999199999999,
-    "whale_pct": 62.778,
+    "whale_usd": 9876.3606,
+    "whale_pct": 77.502,
     "whale_value_at_open": 12743.3605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -110414,8 +110414,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788775753.1190684,
-    "fills": 3
+    "last_fill_at": 1788776150.4123087,
+    "fills": 5
   },
   {
     "timestamp": 1788775879,
@@ -110442,5 +110442,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788775958.665923,
     "fills": 3
+  },
+  {
+    "timestamp": 1788776109,
+    "timestamp_added": 1788776110.811486,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-strael-ff-2026-09-07-map-handicap-home-1pt5",
+    "title": "Map Handicap: FF (-1.5) vs Strael-Bora (+1.5)",
+    "outcome": "Fire Flux Esports",
+    "side": "BUY",
+    "whale_usd": 610.5,
+    "whale_pct": 1.187,
+    "whale_value_at_open": 51453.5731,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788776110.811499,
+    "fills": 1
   }
 ]

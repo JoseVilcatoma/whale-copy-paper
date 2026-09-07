@@ -1,5 +1,5 @@
 {
-  "bankroll": 334.4902436816641,
+  "bankroll": 339.1721652502915,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22145,6 +22145,11 @@
       "timestamp": 1788774021.7691884,
       "bankroll": 334.49,
       "event": "lost: ferrariChampions2026 \u2014 Shanghai: Mitsuki Wei Kang Leong vs Thijmen Loof"
+    },
+    {
+      "timestamp": 1788776134.827384,
+      "bankroll": 339.17,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Norbert Gombos vs Olle Wallin"
     }
   ]
 }
