@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:09:11 (hora de Perú)
+Actualizado: 2026-09-07 12:11:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 12:09:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $65.15)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $60.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 595 | 375 | 15 | -249.66 USD |
+| ferrariChampions2026 | 595 | 375 | 16 | -249.66 USD |
 
 ## Análisis general
 
@@ -859,11 +859,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-sin2-pha-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, thatguythatguy |
 | wta-andreev-potapov-2026-09-06 | ferrariChampions2026, totoro3miyazaki |
 | mlb-atl-phi-2026-09-07-total-7pt5 | Talvez10, wr0ngw4yb3tt0r |
+| mlb-nym-mia-2026-09-07 | Talvez10, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins: O/U 8.5 | Over (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
 | sbsigner | Will Cagliari Calcio vs. US Lecce end in | No (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -875,7 +877,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Getafe CF vs. RC Celta de Vigo: O/U 1.5 | Over (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 8.0% | ⏳ pendiente | — |
 | sbsigner | Will Cagliari Calcio win on 2026-09-07? | No (BUY) | 57% | 5.00 | 37.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 57% | 5.00 | 4.3% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 167.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 78.6% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 11.5% | ⏳ pendiente | — |
@@ -893,4 +895,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 49% | 5.00 | 66.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 24.1% | ⏳ pendiente | — |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 284.6% | ⏳ pendiente | — |
-| xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ❌ perdida | -5.12 |

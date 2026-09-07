@@ -111162,8 +111162,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 11290.3924,
-    "whale_pct": 4.021,
+    "whale_usd": 12163.9833,
+    "whale_pct": 4.332,
     "whale_value_at_open": 280762.7555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -111176,8 +111176,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799080.8579533,
-    "fills": 3
+    "last_fill_at": 1788801063.9085479,
+    "fills": 4
   },
   {
     "timestamp": 1788799045,
@@ -111450,6 +111450,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788800929.1579475,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788801021,
+    "timestamp_added": 1788801021.8742654,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nym-mia-2026-09-07",
+    "title": "New York Mets vs. Miami Marlins",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 3750.4298240000003,
+    "whale_pct": 1.108,
+    "whale_value_at_open": 338454.8987,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788801021.8742747,
     "fills": 1
   }
 ]
