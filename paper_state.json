@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.7305178602443,
+  "bankroll": 310.3012101679366,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22230,6 +22230,16 @@
       "timestamp": 1788788433.503612,
       "bankroll": 315.73,
       "event": "won: Gambler661 \u2014 Istanbul 3: Marek Gengel vs Christian Langmo"
+    },
+    {
+      "timestamp": 1788788742.741825,
+      "bankroll": 315.42,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1788788749.8174548,
+      "bankroll": 310.3,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Shanghai: Yosuke Watanuki vs Marat Sharipov"
     }
   ]
 }
