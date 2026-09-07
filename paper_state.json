@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.6432592421595,
+  "bankroll": 341.8432592421595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22115,6 +22115,11 @@
       "timestamp": 1788769660.3475983,
       "bankroll": 340.64,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Cruz Hewitt vs Constantin Bittoun Kouzmine"
+    },
+    {
+      "timestamp": 1788770421.2686882,
+      "bankroll": 341.84,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Luca Castelnuovo vs Tsung-Hao Huang"
     }
   ]
 }
