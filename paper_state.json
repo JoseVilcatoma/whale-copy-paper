@@ -1,5 +1,5 @@
 {
-  "bankroll": 335.42207374702355,
+  "bankroll": 311.5382733335792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22165,6 +22165,51 @@
       "timestamp": 1788777937.9713254,
       "bankroll": 335.42,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Rio Noguchi vs Rigele Te"
+    },
+    {
+      "timestamp": 1788785252.6023145,
+      "bankroll": 330.27,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Nemesis vs FORZE Reload (BO3) - 1win Private Club #1: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788785255.625986,
+      "bankroll": 331.63,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Maxime Janvier vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1788785255.9353087,
+      "bankroll": 326.55,
+      "event": "lost: ferrariChampions2026 \u2014 Shanghai: Hayato Matsuoka vs Jake Delaney"
+    },
+    {
+      "timestamp": 1788785256.9839604,
+      "bankroll": 321.42,
+      "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Radu Albot vs Radu David Turcanu"
+    },
+    {
+      "timestamp": 1788785257.8320746,
+      "bankroll": 323.39,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Radka Zelnickova vs Zhibek Kulambayeva"
+    },
+    {
+      "timestamp": 1788785259.1517444,
+      "bankroll": 318.25,
+      "event": "lost:  \u2014 Cassis: Maxime Janvier vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1788785259.6890984,
+      "bankroll": 313.17,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Shanghai: Hayato Matsuoka vs Jake Delaney"
+    },
+    {
+      "timestamp": 1788785260.0837913,
+      "bankroll": 308.02,
+      "event": "lost:  \u2014 Genoa: Massimo Giunta vs Oleksii Krutykh"
+    },
+    {
+      "timestamp": 1788785260.4414933,
+      "bankroll": 311.54,
+      "event": "won:  \u2014 Genoa: Maximo Zeitune vs Giuseppe La Vela"
     }
   ]
 }
