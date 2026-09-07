@@ -1,5 +1,5 @@
 {
-  "bankroll": 321.36915624697224,
+  "bankroll": 318.1225355573171,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22525,6 +22525,26 @@
       "timestamp": 1788817732.7036383,
       "bankroll": 321.37,
       "event": "won: Sunshine.Smile \u2014 Dota 2: GamerLegion vs  Pipsqueak+4 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788818302.448428,
+      "bankroll": 316.23,
+      "event": "lost: AV23IUa \u2014 US Open WTA: Naomi Osaka vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788818303.1109688,
+      "bankroll": 319.74,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Naomi Osaka vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788818303.2111588,
+      "bankroll": 314.61,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Naomi Osaka vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788818306.9389753,
+      "bankroll": 318.12,
+      "event": "won: SkyonX \u2014 US Open WTA: Naomi Osaka vs Elena Rybakina"
     }
   ]
 }
