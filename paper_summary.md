@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 23:25:30 (hora de Perú)
+Actualizado: 2026-09-06 23:27:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.31
@@ -848,7 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 89% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Yuta Kawahashi vs Sam Ryan | Sam Ryan Ziegann (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ⏳ pendiente | — |

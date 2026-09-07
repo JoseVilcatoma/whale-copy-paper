@@ -109276,8 +109276,8 @@
     "title": "Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm",
     "outcome": "Dong Ju Kim",
     "side": "BUY",
-    "whale_usd": 999.9954,
-    "whale_pct": 0.679,
+    "whale_usd": 3460.1179999999995,
+    "whale_pct": 2.349,
     "whale_value_at_open": 147303.1718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -109288,7 +109288,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788755082.4908564,
-    "fills": 1
+    "last_fill_at": 1788755131.4599888,
+    "fills": 2
   }
 ]
