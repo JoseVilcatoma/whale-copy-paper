@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.83396750788137,
+  "bankroll": 305.992941692427,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22365,6 +22365,31 @@
       "timestamp": 1788808124.8312755,
       "bankroll": 303.83,
       "event": "lost: ferrariChampions2026 \u2014 Seville: Petr Brunclik vs Alejandro Moro Canas"
+    },
+    {
+      "timestamp": 1788808869.7603204,
+      "bankroll": 308.91,
+      "event": "won: Talvez10 \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1788808869.860545,
+      "bankroll": 303.79,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1788808871.3746035,
+      "bankroll": 306.64,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Atlanta Braves vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1788808873.8257859,
+      "bankroll": 311.13,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1788808876.2847805,
+      "bankroll": 305.99,
+      "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. Philadelphia Phillies"
     }
   ]
 }
