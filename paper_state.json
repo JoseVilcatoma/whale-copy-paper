@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.6823778740266,
+  "bankroll": 373.78400792710954,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21800,6 +21800,21 @@
       "timestamp": 1788750046.718527,
       "bankroll": 374.68,
       "event": "won: Flaznorp \u2014 Will Trujillanos FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788750234.6520712,
+      "bankroll": 369.54,
+      "event": "lost: Flaznorp \u2014 Will SC Corinthians Paulista win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788750234.7522285,
+      "bankroll": 372.51,
+      "event": "won: Flaznorp \u2014 Will SC Corinthians Paulista win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788750294.4888444,
+      "bankroll": 373.78,
+      "event": "won: Flaznorp \u2014 SC Corinthians Paulista vs. Associa\u00e7\u00e3o Chapecoense de Futebol: O/U 2.5"
     }
   ]
 }
