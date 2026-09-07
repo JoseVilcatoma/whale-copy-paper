@@ -110368,5 +110368,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788773830.8073382,
     "fills": 1
+  },
+  {
+    "timestamp": 1788774820,
+    "timestamp_added": 1788774821.3889382,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-brancac-curmi-2026-09-07",
+    "title": "Montreux: Nuria Brancaccio vs Francesca Curmi",
+    "outcome": "Francesca Curmi",
+    "side": "BUY",
+    "whale_usd": 1664.4548000000002,
+    "whale_pct": 15.107,
+    "whale_value_at_open": 11017.5299,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788774821.3889508,
+    "fills": 1
   }
 ]

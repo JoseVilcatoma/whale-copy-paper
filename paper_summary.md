@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:52:31 (hora de Perú)
+Actualizado: 2026-09-07 04:54:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $334.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 04:52:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $179.49)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $174.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 2 | +1.93 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 3 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -855,6 +855,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -884,4 +885,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs The Last Res | MOUZ NXT (BUY) | 50% | 5.00 | 94.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Aditya Balsekar (BUY) | 98% | 5.00 | 7.5% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Constantin  | Cruz Hewitt (BUY) | 75% | 5.00 | 8.1% | ✅ ganada | +1.60 |
-| thatguythatguy | Game Handicap: DNS.C (-1.5) vs Kiwoom DR | DN SOOPers Challengers (BUY) | 61% | 5.00 | 43.9% | ⏳ pendiente | — |
