@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 17710.3488,
-    "whale_pct": 11.495,
+    "whale_usd": 122792.17689999999,
+    "whale_pct": 79.697,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,7 +111150,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788797661.4023004,
-    "fills": 2
+    "last_fill_at": 1788798322.6880584,
+    "fills": 5
   }
 ]
