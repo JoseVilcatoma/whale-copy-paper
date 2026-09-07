@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 17:30:25 (hora de Perú)
+Actualizado: 2026-09-07 17:32:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.18
@@ -874,7 +874,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 9.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | theowalcott | Will EC Vitória win on 2026-09-07? | Yes (BUY) | 46% | 5.00 | 81.5% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -882,7 +882,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 29.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 30.9% | ⏳ pendiente | — |
 | Feromont | SMU vs. Florida State | Florida State (BUY) | 44% | 5.00 | 40.1% | ⏳ pendiente | — |
 |  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ❌ perdida | -5.02 |

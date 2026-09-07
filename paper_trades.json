@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 84688.02161000001,
-    "whale_pct": 29.332,
+    "whale_usd": 89303.54161000001,
+    "whale_pct": 30.931,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788820190.526182,
-    "fills": 17
+    "last_fill_at": 1788820335.9351187,
+    "fills": 20
   },
   {
     "timestamp": 1788816422,
@@ -112380,8 +112380,8 @@
     "title": "Barranquilla: Katrina Scott vs Varvara Lepchenko",
     "outcome": "Katrina Scott",
     "side": "BUY",
-    "whale_usd": 1631.5160999999998,
-    "whale_pct": 0.737,
+    "whale_usd": 3477.5748999999996,
+    "whale_pct": 1.571,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -112392,8 +112392,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788819920.340283,
-    "fills": 2
+    "last_fill_at": 1788820324.2410526,
+    "fills": 3
   },
   {
     "timestamp": 1788818922,
