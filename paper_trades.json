@@ -108667,5 +108667,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788742835.643203,
     "fills": 1
+  },
+  {
+    "timestamp": 1788743048,
+    "timestamp_added": 1788743049.1501348,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "cfb-lou-miss-2026-09-06-spread-home-5pt5",
+    "title": "Spread: Ole Miss (-5.5)",
+    "outcome": "Ole Miss",
+    "side": "BUY",
+    "whale_usd": 709.999998,
+    "whale_pct": 1.67,
+    "whale_value_at_open": 42513.1645,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788743049.150145,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:02:33 (hora de Perú)
+Actualizado: 2026-09-06 20:04:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $400.02
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:02:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $65.02)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $60.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Flaznorp | 46 | 14 | 34 | +2.40 USD |
-| 1winstreak1 | 26 | 12 | 8 | +2.29 USD |
+| 1winstreak1 | 26 | 12 | 9 | +2.29 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -843,6 +843,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
@@ -872,4 +873,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 14.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-6.5) | Louisville (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | SC Corinthians Paulista vs. Associação C | Over (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
