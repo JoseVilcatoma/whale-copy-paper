@@ -1,5 +1,5 @@
 {
-  "bankroll": 406.10578274022316,
+  "bankroll": 408.2741595518174,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21570,6 +21570,11 @@
       "timestamp": 1788739432.3137007,
       "bankroll": 406.11,
       "event": "won: wr0ngw4yb3tt0r \u2014 Washington State vs. Washington: O/U 34.5"
+    },
+    {
+      "timestamp": 1788739743.9371157,
+      "bankroll": 408.27,
+      "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-6.5)"
     }
   ]
 }
