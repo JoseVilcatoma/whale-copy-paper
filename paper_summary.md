@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 03:50:39 (hora de Perú)
+Actualizado: 2026-09-07 03:52:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $341.84
@@ -861,7 +861,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Mitsuki Wei Kang Leong vs Thij | Thijmen Loof (BUY) | 65% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Samir Hamza Reguig (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Strael-Bora vs Fire Flux | Fire Flux Esports (BUY) | 90% | 5.00 | 8.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Alex Hernandez (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Alex Hernandez (BUY) | 67% | 5.00 | 6.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 64% | 5.00 | 39.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Benjamin Hassan (BUY) | 76% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Francisco Cerundolo vs Alex | Francisco Cerundolo (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
