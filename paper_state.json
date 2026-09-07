@@ -1,5 +1,5 @@
 {
-  "bankroll": 312.5753766810918,
+  "bankroll": 317.4044583137449,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22500,6 +22500,21 @@
       "timestamp": 1788815523.4428434,
       "bankroll": 312.58,
       "event": "lost: 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 \u2014 Will SS Lazio win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788817032.6122866,
+      "bankroll": 307.45,
+      "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788817032.712473,
+      "bankroll": 312.33,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788817034.0170686,
+      "bankroll": 317.4,
+      "event": "won: 1winstreak1 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
     }
   ]
 }

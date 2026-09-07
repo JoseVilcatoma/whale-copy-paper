@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 16:35:12 (hora de Perú)
+Actualizado: 2026-09-07 16:37:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $312.58
-**Retorno acumulado:** -37.48%
+**Bankroll actual:** $317.40
+**Retorno acumulado:** -36.52%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 16:35:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $127.58)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $147.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,23 +130,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | sbsigner | 6 | 8 | 3 | -23.05 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | AV23IUa | 38 | 29 | 2 | -26.65 USD |
-| 1winstreak1 | 32 | 22 | 1 | -30.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 604 | 378 | 11 | -230.46 USD |
+| ferrariChampions2026 | 605 | 379 | 9 | -230.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4302
-- **Aciertos:** 2715 (63.1%)
+- **Apuestas resueltas:** 4305
+- **Aciertos:** 2717 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,482.77
-- **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $398.39 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,497.77
+- **ROI sobre lo apostado:** -1.43%
+- **Comisiones pagadas (taker fee):** $398.76 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2195 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2198 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1293 | 69.1% | 67.8% | +1.4 pp |
 | 80-94% | 570 | 85.1% | 86.6% | -1.6 pp |
 | 95-99% (casi seguro) | 244 | 96.7% | 97.3% | -0.6 pp |
@@ -873,7 +873,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 4.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 5.9% | ⏳ pendiente | — |
 | Feromont | SMU vs. Florida State | Florida State (BUY) | 44% | 5.00 | 40.1% | ⏳ pendiente | — |
 |  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ❌ perdida | -5.02 |
@@ -883,7 +883,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | Dota 2: GamerLegion vs  Pipsqueak+4 - Ga | GamerLegion (BUY) | 68% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-4.5) | Cleveland Guardians (BUY) | 62% | 5.00 | 7.2% | ✅ ganada | +2.97 |
 | 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ❌ perdida | -5.12 |
-| 1winstreak1 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 49% | 5.00 | 27.0% | ⏳ pendiente | — |
+| 1winstreak1 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 49% | 5.00 | 27.0% | ✅ ganada | +5.08 |
 | 1winstreak1 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 44% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 4.3% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 32.3% | ✅ ganada | +2.27 |
