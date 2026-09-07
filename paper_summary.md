@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 08:09:56 (hora de Perú)
+Actualizado: 2026-09-07 08:11:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $313.65
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 08:09:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $178.65)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $173.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| BrotherObama | 7 | 8 | 0 | -10.47 USD |
+| BrotherObama | 7 | 8 | 1 | -10.47 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -848,6 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-ki-tamm-2026-09-06 | , ferrariChampions2026 |
 | atp-moriya-palan-2026-09-06 | , ferrariChampions2026 |
+| cs2-ntr-cs1-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama |
 | wta-osaka-rybakin-2026-09-07 | AV23IUa, ferrariChampions2026 |
 | wta-swiatek-zhen-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, darkumbreon99 |
 | atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
@@ -858,6 +859,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 50.1% | ⏳ pendiente | — |
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
 | Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Yosuke Watanuki vs Marat Shari | Yosuke Watanuki (BUY) | 53% | 5.00 | 10.2% | ⏳ pendiente | — |
@@ -887,4 +889,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Tuncay Duran (BUY) | 63% | 5.00 | 3.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Shanghai: Mitsuki Wei Kang Leong vs Thij | Thijmen Loof (BUY) | 65% | 5.00 | 7.5% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Samir Hamza Reguig (BUY) | 47% | 5.00 | 1.7% | ✅ ganada | +5.51 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Strael-Bora vs Fire Flux | Fire Flux Esports (BUY) | 90% | 5.00 | 8.5% | ⏳ pendiente | — |
