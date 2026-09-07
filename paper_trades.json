@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 20319.439110000003,
-    "whale_pct": 7.038,
+    "whale_usd": 68510.37681,
+    "whale_pct": 23.729,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788819948.8815324,
-    "fills": 8
+    "last_fill_at": 1788820061.8002143,
+    "fills": 13
   },
   {
     "timestamp": 1788816422,
@@ -112404,8 +112404,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 18772.007,
-    "whale_pct": 8.482,
+    "whale_usd": 19875.374,
+    "whale_pct": 8.981,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -112418,8 +112418,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788819451.0104418,
-    "fills": 6
+    "last_fill_at": 1788820010.5566351,
+    "fills": 7
   },
   {
     "timestamp": 1788819525,
