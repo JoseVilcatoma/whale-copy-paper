@@ -110466,5 +110466,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788776110.811499,
     "fills": 1
+  },
+  {
+    "timestamp": 1788776289,
+    "timestamp_added": 1788776290.424773,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-matsuok-delaney-2026-09-06",
+    "title": "Shanghai: Hayato Matsuoka vs Jake Delaney",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "whale_usd": 2700.0,
+    "whale_pct": 19.608,
+    "whale_value_at_open": 13769.7307,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788776314.2842727,
+    "fills": 2
   }
 ]

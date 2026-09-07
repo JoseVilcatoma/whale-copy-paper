@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 05:17:01 (hora de Perú)
+Actualizado: 2026-09-07 05:19:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $339.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 05:17:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $169.17)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $164.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 3 | +1.93 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 4 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -850,12 +850,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-osaka-rybakin-2026-09-07 | AV23IUa, ferrariChampions2026 |
 | wta-swiatek-zhen-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, darkumbreon99 |
 | atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
+| atp-matsuok-delaney-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, ferrariChampions2026 |
 | cs2-sin2-pha-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 19.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ⏳ pendiente | — |
@@ -885,4 +887,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Francisco Cerundolo vs Alex | Francisco Cerundolo (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 44% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Luca Castelnuovo vs Tsung-Hao  | Luca Castelnuovo (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
-| wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 1.5 | Over (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
