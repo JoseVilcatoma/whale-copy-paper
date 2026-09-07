@@ -108820,5 +108820,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788745818.0689425,
     "fills": 1
+  },
+  {
+    "timestamp": 1788746193,
+    "timestamp_added": 1788746193.9574625,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-wisc-nd-2026-09-06-total-45pt5",
+    "title": "Wisconsin vs. Notre Dame: O/U 45.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 622.1600000000001,
+    "whale_pct": 1.001,
+    "whale_value_at_open": 62169.8667,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "1winstreak1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788746193.9574733,
+    "fills": 1
   }
 ]
