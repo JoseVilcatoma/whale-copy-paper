@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.33079732966144,
+  "bankroll": 400.01950321201434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21610,6 +21610,16 @@
       "timestamp": 1788742825.6525145,
       "bankroll": 398.33,
       "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 5.5"
+    },
+    {
+      "timestamp": 1788742885.7232544,
+      "bankroll": 399.18,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Jessica Pegula vs Sorana Cirstea"
+    },
+    {
+      "timestamp": 1788742886.6673422,
+      "bankroll": 400.02,
+      "event": "won: Flaznorp \u2014 US Open WTA: Jessica Pegula vs Sorana Cirstea"
     }
   ]
 }
