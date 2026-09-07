@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:09:08 (hora de Perú)
+Actualizado: 2026-09-06 22:11:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:09:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $179.37)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $174.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 575 | 359 | 10 | -210.70 USD |
+| ferrariChampions2026 | 575 | 359 | 11 | -210.70 USD |
 
 ## Análisis general
 
@@ -848,6 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -877,4 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ✅ ganada | +1.97 |
 | Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ❌ perdida | -5.09 |
-| Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ✅ ganada | +4.14 |
