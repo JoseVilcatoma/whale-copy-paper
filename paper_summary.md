@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 14:08:32 (hora de Perú)
+Actualizado: 2026-09-07 14:10:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $308.98
-**Retorno acumulado:** -38.20%
+**Bankroll actual:** $303.83
+**Retorno acumulado:** -39.23%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 14:08:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $257.53 en 52 posiciones abiertas (disponible para nuevas apuestas: $51.45)
+**Capital comprometido ahora mismo:** $252.53 en 51 posiciones abiertas (disponible para nuevas apuestas: $51.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,18 +135,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 601 | 377 | 11 | -239.86 USD |
+| ferrariChampions2026 | 601 | 378 | 10 | -245.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4274
+- **Apuestas resueltas:** 4275
 - **Aciertos:** 2698 (63.1%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,345.24
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $395.48 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,350.24
+- **ROI sobre lo apostado:** -1.51%
+- **Comisiones pagadas (taker fee):** $395.63 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2177 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2178 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1284 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 569 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 244 | 96.7% | 97.3% | -0.6 pp |
@@ -895,6 +895,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Qinwen Zheng (BUY) | 54% | 5.00 | 10.2% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Antalya 4: Weronika Falkowska vs Elizara | Elizara Yaneva (BUY) | 75% | 5.00 | 0.3% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet (BUY) | 84% | 5.00 | 5.5% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | Seville: Petr Brunclik vs Alejandro Moro | Petr Brunclik (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Petr Brunclik vs Alejandro Moro | Petr Brunclik (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Getafe CF vs. RC Celta de Vigo: O/U 1.5 | Over (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 8.3% | ❌ perdida | -5.08 |
