@@ -1,5 +1,5 @@
 {
-  "bankroll": 304.4031976249003,
+  "bankroll": 304.6548560514159,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22415,6 +22415,31 @@
       "timestamp": 1788811449.6433406,
       "bankroll": 304.4,
       "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Baltimore Orioles: O/U 6.5"
+    },
+    {
+      "timestamp": 1788813580.973126,
+      "bankroll": 299.29,
+      "event": "lost: Talvez10 \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788813581.6308503,
+      "bankroll": 305.52,
+      "event": "won: ferrariChampions2026 \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788813582.0735326,
+      "bankroll": 307.21,
+      "event": "won: wr0ngw4yb3tt0r \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788813583.2470975,
+      "bankroll": 302.09,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788813583.52044,
+      "bankroll": 304.65,
+      "event": "won: wr0ngw4yb3tt0r \u2014 New York Mets vs. Miami Marlins: O/U 14.5"
     }
   ]
 }
