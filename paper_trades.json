@@ -111102,5 +111102,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788796296.2332144,
     "fills": 1
+  },
+  {
+    "timestamp": 1788796351,
+    "timestamp_added": 1788796352.0538738,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "sea-cag-lec-2026-09-07-cag",
+    "title": "Will Cagliari Calcio win on 2026-09-07?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 74314.4748,
+    "whale_pct": 45.63,
+    "whale_value_at_open": 162864.9174,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788796444.7026422,
+    "fills": 2
   }
 ]

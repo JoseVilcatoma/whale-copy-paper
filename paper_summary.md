@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:52:05 (hora de Perú)
+Actualizado: 2026-09-07 10:54:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $302.18
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 10:52:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $127.18)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $122.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,7 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 4 | 6 | 1 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
-| wr0ngw4yb3tt0r | 36 | 32 | 6 | -18.34 USD |
+| wr0ngw4yb3tt0r | 36 | 32 | 7 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -849,6 +849,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-lad-2026-09-06-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
 | mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-ki-tamm-2026-09-06 | , ferrariChampions2026 |
+| sea-cag-lec-2026-09-07-cag | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-moriya-palan-2026-09-06 | , ferrariChampions2026 |
 | cs2-ntr-cs1-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama |
 | wta-osaka-rybakin-2026-09-07 | AV23IUa, ferrariChampions2026 |
@@ -862,6 +863,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 45.6% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
@@ -891,4 +893,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ✅ ganada | +2.38 |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ❌ perdida | -5.14 |
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 77.5% | ✅ ganada | +1.78 |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
