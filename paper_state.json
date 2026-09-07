@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.4044583137449,
+  "bankroll": 321.36915624697224,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22515,6 +22515,16 @@
       "timestamp": 1788817034.0170686,
       "bankroll": 317.4,
       "event": "won: 1winstreak1 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788817672.6107786,
+      "bankroll": 319.1,
+      "event": "won: sbsigner \u2014 Will Elche CF win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788817732.7036383,
+      "bankroll": 321.37,
+      "event": "won: Sunshine.Smile \u2014 Dota 2: GamerLegion vs  Pipsqueak+4 - Game 1 Winner"
     }
   ]
 }
