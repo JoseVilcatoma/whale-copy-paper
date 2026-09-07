@@ -111899,5 +111899,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788805817.9175858,
     "fills": 1
+  },
+  {
+    "timestamp": 1788806241,
+    "timestamp_added": 1788806242.1786897,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-atl-phi-2026-09-07",
+    "title": "Atlanta Braves vs. Philadelphia Phillies",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 823.039999,
+    "whale_pct": 4.533,
+    "whale_value_at_open": 18155.8341,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788806242.1787045,
+    "fills": 1
   }
 ]
