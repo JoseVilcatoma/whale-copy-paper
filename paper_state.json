@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.5772436816641,
+  "bankroll": 334.4902436816641,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22140,6 +22140,11 @@
       "timestamp": 1788773336.2877011,
       "bankroll": 339.58,
       "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Alex Hernandez vs Tuncay Duran"
+    },
+    {
+      "timestamp": 1788774021.7691884,
+      "bankroll": 334.49,
+      "event": "lost: ferrariChampions2026 \u2014 Shanghai: Mitsuki Wei Kang Leong vs Thijmen Loof"
     }
   ]
 }
