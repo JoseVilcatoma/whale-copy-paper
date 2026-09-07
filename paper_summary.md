@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 09:41:55 (hora de Perú)
+Actualizado: 2026-09-07 09:43:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $310.30
-**Retorno acumulado:** -37.94%
+**Bankroll actual:** $304.19
+**Retorno acumulado:** -39.16%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 09:41:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $165.30)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $174.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,11 +33,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 64 | 39 | 7 | +16.44 USD |
+| ExplosiveNinja | 18 | 9 | 0 | +18.71 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| ExplosiveNinja | 17 | 9 | 1 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 64 | 40 | 6 | +11.31 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -60,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
-| thatguythatguy | 1 | 0 | 1 | +3.10 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -92,6 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
+| thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | Jsram | 3 | 2 | 0 | -2.32 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
@@ -139,14 +139,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4250
-- **Aciertos:** 2683 (63.1%)
+- **Apuestas resueltas:** 4253
+- **Aciertos:** 2684 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,225.24
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $393.33 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,240.24
+- **ROI sobre lo apostado:** -1.51%
+- **Comisiones pagadas (taker fee):** $393.70 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2165 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2168 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1278 | 69.0% | 67.8% | +1.3 pp |
 | 80-94% | 564 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
@@ -870,7 +870,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
 | Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ✅ ganada | +0.30 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Yosuke Watanuki vs Marat Shari | Yosuke Watanuki (BUY) | 53% | 5.00 | 10.2% | ❌ perdida | -5.12 |
-| thatguythatguy | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 35.2% | ⏳ pendiente | — |
+| thatguythatguy | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 35.2% | ❌ perdida | -5.13 |
 |  | Genoa: Maximo Zeitune vs Giuseppe La Vel | Maximo Zeitune (BUY) | 58% | 5.00 | 20.4% | ✅ ganada | +3.52 |
 |  | Genoa: Massimo Giunta vs Oleksii Krutykh | Oleksii Krutykh (BUY) | 42% | 5.00 | 57.0% | ❌ perdida | -5.14 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 36.9% | ❌ perdida | -5.08 |
@@ -881,13 +881,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ✅ ganada | +0.53 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 16.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 16.4% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Antalya 4: Radka Zelnickova vs Zhibek Ku | Zhibek Kulambayeva (BUY) | 71% | 5.00 | 2.6% | ✅ ganada | +1.97 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Genoa: Gianluca Cadenasso vs Juan Martin | Gianluca Cadenasso (BUY) | 53% | 5.00 | 34.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Istanbul 3: Radu Albot vs Radu David Tur | Radu David Turcanu (BUY) | 48% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 11.5% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 11.5% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 17.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 68% | 5.00 | 3.7% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Cassis: Maxime Janvier vs Oskari Paldani | Maxime Janvier (BUY) | 78% | 5.00 | 0.7% | ✅ ganada | +1.36 |
