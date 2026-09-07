@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.1662546891717,
+  "bankroll": 351.0742546891717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22070,6 +22070,11 @@
       "timestamp": 1788759213.4610598,
       "bankroll": 356.17,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Timofei Derepasko vs Taiyo Yamanaka"
+    },
+    {
+      "timestamp": 1788759525.1746778,
+      "bankroll": 351.07,
+      "event": "lost: NordhavenCap \u2014 Deportivo Toluca FC vs. CF Monterrey: Both Teams to Score"
     }
   ]
 }
