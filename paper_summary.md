@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:36:11 (hora de Perú)
+Actualizado: 2026-09-07 04:38:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $339.58
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 04:36:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $184.58)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $179.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 590 | 372 | 13 | -243.74 USD |
+| ferrariChampions2026 | 590 | 372 | 14 | -243.74 USD |
 
 ## Análisis general
 
@@ -855,6 +855,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 8.1% | ⏳ pendiente | — |
@@ -884,4 +885,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Aditya Balsekar (BUY) | 98% | 5.00 | 7.5% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Constantin  | Cruz Hewitt (BUY) | 75% | 5.00 | 8.1% | ✅ ganada | +1.60 |
 | thatguythatguy | Game Handicap: DNS.C (-1.5) vs Kiwoom DR | DN SOOPers Challengers (BUY) | 61% | 5.00 | 43.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
