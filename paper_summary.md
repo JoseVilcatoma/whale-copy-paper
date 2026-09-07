@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 17:52:56 (hora de Perú)
+Actualizado: 2026-09-07 17:54:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.07
@@ -878,7 +878,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 29.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
-| theowalcott | Will EC Vitória win on 2026-09-07? | Yes (BUY) | 46% | 5.00 | 83.2% | ⏳ pendiente | — |
+| theowalcott | Will EC Vitória win on 2026-09-07? | Yes (BUY) | 46% | 5.00 | 84.3% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 78.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ✅ ganada | +1.87 |
