@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 00:41:44 (hora de Perú)
+Actualizado: 2026-09-07 00:43:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.07
@@ -850,7 +850,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 4.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 15.8% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |

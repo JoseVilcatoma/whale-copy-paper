@@ -109528,8 +109528,8 @@
     "title": "Phan Thiet 3: Aditya Balsekar vs Hunter Heck",
     "outcome": "Hunter Heck",
     "side": "BUY",
-    "whale_usd": 5837.38,
-    "whale_pct": 4.89,
+    "whale_usd": 18843.1209,
+    "whale_pct": 15.784,
     "whale_value_at_open": 119380.2572,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -109540,7 +109540,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788759677.9032218,
-    "fills": 2
+    "last_fill_at": 1788759795.3866313,
+    "fills": 8
   }
 ]
