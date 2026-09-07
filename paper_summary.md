@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:44:16 (hora de Perú)
+Actualizado: 2026-09-07 04:46:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $334.49
@@ -858,7 +858,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cagliari Calcio vs. US Lecce: O/U 1.5 | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Rio Noguchi vs Rigele Te | Rio Noguchi (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 8.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 16.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Radka Zelnickova vs Zhibek Ku | Zhibek Kulambayeva (BUY) | 71% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Genoa: Gianluca Cadenasso vs Juan Martin | Gianluca Cadenasso (BUY) | 53% | 5.00 | 34.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
