@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:07:07 (hora de Perú)
+Actualizado: 2026-09-07 12:09:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 12:07:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $70.15)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $65.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Talvez10 | 12 | 11 | 2 | -8.07 USD |
+| Talvez10 | 12 | 11 | 3 | -8.07 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 4 | 3 | -8.27 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -864,6 +864,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | New York Mets vs. Miami Marlins: O/U 8.5 | Over (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
 | sbsigner | Will Cagliari Calcio vs. US Lecce end in | No (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Vendula Valdmannova vs Car | Carol Young Suh Lee (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -893,4 +894,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 24.1% | ⏳ pendiente | — |
 | totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 284.6% | ⏳ pendiente | — |
 | xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ❌ perdida | -5.12 |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 279.3% | ⏳ pendiente | — |
