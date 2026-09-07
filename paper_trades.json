@@ -111661,8 +111661,8 @@
     "title": "New York Mets vs. Miami Marlins",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 5054.9945,
-    "whale_pct": 1.256,
+    "whale_usd": 6299.7139,
+    "whale_pct": 1.565,
     "whale_value_at_open": 402416.0498,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111676,8 +111676,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788803344.401136,
-    "fills": 1
+    "last_fill_at": 1788805257.1819942,
+    "fills": 2
   },
   {
     "timestamp": 1788803414,
@@ -111861,8 +111861,8 @@
     "title": "Will Udinese Calcio win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 28291.420000000006,
-    "whale_pct": 7.498,
+    "whale_usd": 108605.66000000002,
+    "whale_pct": 28.784,
     "whale_value_at_open": 377312.2922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -111873,7 +111873,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788805122.7355013,
-    "fills": 2
+    "last_fill_at": 1788805318.2457643,
+    "fills": 5
   }
 ]

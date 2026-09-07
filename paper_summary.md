@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 13:19:58 (hora de Perú)
+Actualizado: 2026-09-07 13:22:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $295.94
@@ -866,7 +866,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 7.5% | ⏳ pendiente | — |
+| totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 28.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | sbsigner | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 55% | 5.00 | 8.0% | ⏳ pendiente | — |
@@ -874,7 +874,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 41% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 54% | 5.00 | 4.3% | ⏳ pendiente | — |
 | sbsigner | Will Getafe CF vs. RC Celta de Vigo end  | No (BUY) | 74% | 5.00 | 30.4% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 56% | 5.00 | 4.9% | ⏳ pendiente | — |
