@@ -1,5 +1,5 @@
 {
-  "bankroll": 383.0771465898181,
+  "bankroll": 384.5960939582391,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21715,6 +21715,11 @@
       "timestamp": 1788747077.224621,
       "bankroll": 383.08,
       "event": "won: Flaznorp \u2014 Will Santa Cruz FC PE vs. Botafogo FC PB end in a draw?"
+    },
+    {
+      "timestamp": 1788747201.5660148,
+      "bankroll": 384.6,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Le\u00f3n FC win on 2026-09-06?"
     }
   ]
 }
