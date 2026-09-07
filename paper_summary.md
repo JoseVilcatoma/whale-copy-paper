@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 18:07:12 (hora de Perú)
+Actualizado: 2026-09-07 18:09:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 18:07:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $150.07)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $145.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 15 | 13 | 1 | +5.19 USD |
-| wr0ngw4yb3tt0r | 45 | 34 | 3 | +4.30 USD |
+| wr0ngw4yb3tt0r | 45 | 34 | 4 | +4.30 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -874,6 +874,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | SMU vs. Florida State: 1H Moneyline | Florida State (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -903,4 +904,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 32.3% | ✅ ganada | +2.27 |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ✅ ganada | +2.57 |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ❌ perdida | -5.12 |
-| sbsigner | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 55% | 5.00 | 8.0% | ❌ perdida | -5.11 |
