@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 10:00:13 (hora de Perú)
+Actualizado: 2026-09-07 10:02:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $307.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 10:00:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $182.30)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $172.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 18 | 9 | 0 | +18.71 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 66 | 40 | 4 | +14.22 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 66 | 40 | 6 | +14.22 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -862,14 +862,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs magic (+1.5) | magic (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs 5star (BO3) - FISS | 9z (BUY) | 93% | 5.00 | 20.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Talvez10 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 49% | 5.00 | 26.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NTR (-1.5) vs CYBERSHOKE E | CYBERSHOKE Esports (BUY) | 73% | 5.00 | 8.1% | ⏳ pendiente | — |
-| totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 182.9% | ⏳ pendiente | — |
+| totoro3miyazaki | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 86% | 5.00 | 188.7% | ⏳ pendiente | — |
 | xabidaking | Cassis: Gijs Brouwer vs Matteo Martineau | Matteo Martineau (BUY) | 53% | 5.00 | 60.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 61% | 5.00 | 279.3% | ⏳ pendiente | — |
 | Gambler661 | Seville: Jonas Forejtek vs Gerard Campan | Gerard Campana Lee (BUY) | 96% | 5.00 | 106.7% | ✅ ganada | +0.20 |
-| BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 93.1% | ⏳ pendiente | — |
+| BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 221.9% | ⏳ pendiente | — |
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
 | Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ✅ ganada | +0.30 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Yosuke Watanuki vs Marat Shari | Yosuke Watanuki (BUY) | 53% | 5.00 | 10.2% | ❌ perdida | -5.12 |
@@ -890,5 +892,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Istanbul 3: Radu Albot vs Radu David Tur | Radu David Turcanu (BUY) | 48% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 11.5% | ✅ ganada | +4.14 |
-| ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 17.1% | ⏳ pendiente | — |
