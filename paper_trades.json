@@ -110296,5 +110296,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788773416.2578113,
     "fills": 1
+  },
+  {
+    "timestamp": 1788773578,
+    "timestamp_added": 1788773579.439872,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-noguchi-te-2026-09-06",
+    "title": "Shanghai: Rio Noguchi vs Rigele Te",
+    "outcome": "Rio Noguchi",
+    "side": "BUY",
+    "whale_usd": 691.4248,
+    "whale_pct": 0.555,
+    "whale_value_at_open": 124554.3474,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788773579.4398832,
+    "fills": 1
   }
 ]
