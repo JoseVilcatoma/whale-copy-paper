@@ -109890,8 +109890,8 @@
     "title": "Istanbul 3: Alex Hernandez vs Tuncay Duran",
     "outcome": "Alex Hernandez",
     "side": "BUY",
-    "whale_usd": 611.721,
-    "whale_pct": 0.54,
+    "whale_usd": 6076.040999999999,
+    "whale_pct": 5.364,
     "whale_value_at_open": 113276.21,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -109902,8 +109902,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788767961.7807484,
-    "fills": 1
+    "last_fill_at": 1788770151.117972,
+    "fills": 3
   },
   {
     "timestamp": 1788768032,
