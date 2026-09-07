@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 1427.4618,
-    "whale_pct": 2.957,
+    "whale_usd": 2011.2576,
+    "whale_pct": 4.166,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795912.1825755,
-    "fills": 2
+    "last_fill_at": 1788796840.750948,
+    "fills": 3
   },
   {
     "timestamp": 1788794107,
