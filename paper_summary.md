@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 00:27:22 (hora de Perú)
+Actualizado: 2026-09-07 00:29:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $378.97
-**Retorno acumulado:** -24.21%
+**Bankroll actual:** $357.31
+**Retorno acumulado:** -28.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 00:27:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $258.97)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $292.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-|  | 14 | 8 | 2 | +23.19 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+|  | 14 | 9 | 1 | +18.04 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 0 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -116,13 +116,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| 1winstreak1 | 30 | 17 | 3 | -12.73 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| wr0ngw4yb3tt0r | 35 | 31 | 3 | -18.75 USD |
+| 1winstreak1 | 31 | 19 | 0 | -18.24 USD |
+| wr0ngw4yb3tt0r | 36 | 32 | 1 | -18.34 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 579 | 364 | 12 | -224.79 USD |
+| ferrariChampions2026 | 581 | 367 | 7 | -236.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4205
-- **Aciertos:** 2661 (63.3%)
+- **Apuestas resueltas:** 4216
+- **Aciertos:** 2665 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,000.24
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $389.33 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,055.24
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $390.50 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,9 +149,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2148 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1258 | 69.5% | 67.8% | +1.7 pp |
-| 80-94% | 559 | 85.3% | 86.7% | -1.3 pp |
+| 40-59% | 2154 | 50.1% | 50.1% | +0.1 pp |
+| 60-79% | 1262 | 69.3% | 67.8% | +1.6 pp |
+| 80-94% | 560 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 240 | 96.7% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -850,30 +850,30 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 24.8% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 26.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 29.1% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
-| wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ❌ perdida | -5.10 |
+| wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Kristjan Tamm (BUY) | 62% | 5.00 | 8.1% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 89% | 5.00 | 2.3% | ✅ ganada | +0.59 |
-| ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 44% | 5.00 | 1.5% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Phan Thiet 3: Yuta Kawahashi vs Sam Ryan | Sam Ryan Ziegann (BUY) | 72% | 5.00 | 1.5% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ❌ perdida | -5.14 |
-| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 35.1% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 35.1% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 21.4% | ⏳ pendiente | — |
+| 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 21.4% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 13.9% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
-|  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 64% | 5.00 | 12.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 13.9% | ❌ perdida | -5.08 |
+| 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ❌ perdida | -5.12 |
+|  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ❌ perdida | -5.15 |
+| ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 4.1% | ✅ ganada | +1.20 |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 64% | 5.00 | 12.3% | ✅ ganada | +2.72 |
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 53% | 5.00 | 1.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 52% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ✅ ganada | +4.88 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 49.5 | Over (BUY) | 46% | 5.00 | 2.7% | ✅ ganada | +5.73 |

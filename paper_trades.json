@@ -108935,8 +108935,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -108959,8 +108959,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -108983,8 +108983,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -109007,8 +109007,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -109033,8 +109033,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -109059,8 +109059,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       ""
     ],
@@ -109133,8 +109133,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [
       "",
       "ferrariChampions2026"
@@ -109184,8 +109184,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "",
       "ferrariChampions2026"
@@ -109259,8 +109259,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -109355,8 +109355,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "",
       "1winstreak1",
@@ -109383,8 +109383,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "",
       "1winstreak1",
@@ -109430,8 +109430,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Dominik Palan",
     "outcome": "Hiroki Moriya",
     "side": "BUY",
-    "whale_usd": 24078.097801999997,
-    "whale_pct": 26.283,
+    "whale_usd": 26692.530301999996,
+    "whale_pct": 29.137,
     "whale_value_at_open": 91611.3921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -109442,8 +109442,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788758817.9185605,
-    "fills": 12
+    "last_fill_at": 1788758854.4244702,
+    "fills": 13
   },
   {
     "timestamp": 1788758334,
@@ -109502,8 +109502,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Dominik Palan",
     "outcome": "Dominik Palan",
     "side": "BUY",
-    "whale_usd": 9999.999998999998,
-    "whale_pct": 24.824,
+    "whale_usd": 14999.999998,
+    "whale_pct": 37.236,
     "whale_value_at_open": 40284.0617,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -109516,7 +109516,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788758789.554239,
-    "fills": 1
+    "last_fill_at": 1788758854.5458367,
+    "fills": 2
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.97362615729475,
+  "bankroll": 357.3123455982626,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22005,6 +22005,61 @@
       "timestamp": 1788758273.1783185,
       "bankroll": 378.97,
       "event": "won:  \u2014 Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm"
+    },
+    {
+      "timestamp": 1788758901.037488,
+      "bankroll": 373.86,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788758901.137604,
+      "bankroll": 376.58,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758901.4492447,
+      "bankroll": 377.78,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1788758901.5494013,
+      "bankroll": 372.63,
+      "event": "lost:  \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758901.6495245,
+      "bankroll": 367.51,
+      "event": "lost: 1winstreak1 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788758901.7496672,
+      "bankroll": 362.44,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758902.1681333,
+      "bankroll": 357.36,
+      "event": "lost: 1winstreak1 \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758902.3684533,
+      "bankroll": 362.05,
+      "event": "won: 1winstreak1 \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758902.4685903,
+      "bankroll": 356.91,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1788758902.6689112,
+      "bankroll": 362.41,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788758902.7690876,
+      "bankroll": 357.31,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Washington Nationals vs. Los Angeles Dodgers"
     }
   ]
 }
