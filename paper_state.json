@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.8432592421595,
+  "bankroll": 342.2885571144999,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22120,6 +22120,16 @@
       "timestamp": 1788770421.2686882,
       "bankroll": 341.84,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Luca Castelnuovo vs Tsung-Hao Huang"
+    },
+    {
+      "timestamp": 1788772195.7180107,
+      "bankroll": 336.78,
+      "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Benjamin Hassan vs Samir Hamza Reguig"
+    },
+    {
+      "timestamp": 1788772196.1187055,
+      "bankroll": 342.29,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Benjamin Hassan vs Samir Hamza Reguig"
     }
   ]
 }

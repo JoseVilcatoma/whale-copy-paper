@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 04:09:07 (hora de Perú)
+Actualizado: 2026-09-07 04:11:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $341.84
-**Retorno acumulado:** -31.63%
+**Bankroll actual:** $342.29
+**Retorno acumulado:** -31.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 04:09:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $196.84)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $202.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,17 +132,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 588 | 370 | 13 | -241.48 USD |
+| ferrariChampions2026 | 589 | 371 | 12 | -241.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4228
-- **Aciertos:** 2672 (63.2%)
+- **Apuestas resueltas:** 4230
+- **Aciertos:** 2673 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,115.24
+- **Total apostado (suma de stakes):** $21,125.24
 - **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $391.31 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $391.50 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -151,8 +151,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2156 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1268 | 69.2% | 67.7% | +1.4 pp |
+| 40-59% | 2157 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1269 | 69.1% | 67.8% | +1.4 pp |
 | 80-94% | 561 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
 
@@ -854,6 +854,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Norbert Gombos vs Olle Wallin | Olle Wallin (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Radu Albot vs Radu David Tur | Radu David Turcanu (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Sinners vs Phantom (BO3) | Sinners (BUY) | 54% | 5.00 | 9.9% | ⏳ pendiente | — |
@@ -864,11 +865,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | darkumbreon99 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 81% | 5.00 | 11.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Tuncay Duran (BUY) | 63% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Mitsuki Wei Kang Leong vs Thij | Thijmen Loof (BUY) | 65% | 5.00 | 7.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Samir Hamza Reguig (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Samir Hamza Reguig (BUY) | 47% | 5.00 | 1.7% | ✅ ganada | +5.51 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Strael-Bora vs Fire Flux | Fire Flux Esports (BUY) | 90% | 5.00 | 8.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Alex Hernandez (BUY) | 67% | 5.00 | 6.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 64% | 5.00 | 39.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Benjamin Hassan (BUY) | 76% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Benjamin Hassan vs Samir Ham | Benjamin Hassan (BUY) | 76% | 5.00 | 6.5% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | US Open ATP: Francisco Cerundolo vs Alex | Francisco Cerundolo (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open WTA: Naomi Osaka vs Elena Rybaki | Naomi Osaka (BUY) | 44% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Luca Castelnuovo vs Tsung-Hao  | Luca Castelnuovo (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
@@ -883,4 +884,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 449.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ❌ perdida | -5.06 |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ❌ perdida | -5.10 |
-| wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
