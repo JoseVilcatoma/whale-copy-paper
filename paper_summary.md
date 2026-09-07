@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 02:04:38 (hora de Perú)
+Actualizado: 2026-09-07 02:06:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $351.47
-**Retorno acumulado:** -29.71%
+**Bankroll actual:** $346.51
+**Retorno acumulado:** -30.70%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 02:04:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $266.47)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $271.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,18 +131,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 584 | 368 | 7 | -236.95 USD |
+| ferrariChampions2026 | 585 | 369 | 5 | -241.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4221
-- **Aciertos:** 2668 (63.2%)
+- **Apuestas resueltas:** 4223
+- **Aciertos:** 2669 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,080.24
-- **ROI sobre lo apostado:** -1.30%
-- **Comisiones pagadas (taker fee):** $390.85 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,090.24
+- **ROI sobre lo apostado:** -1.33%
+- **Comisiones pagadas (taker fee):** $390.91 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -151,9 +151,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2156 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1263 | 69.3% | 67.7% | +1.5 pp |
+| 60-79% | 1264 | 69.2% | 67.8% | +1.5 pp |
 | 80-94% | 560 | 85.4% | 86.6% | -1.3 pp |
-| 95-99% (casi seguro) | 242 | 96.7% | 97.3% | -0.6 pp |
+| 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -852,14 +852,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs The Last Res | MOUZ NXT (BUY) | 50% | 5.00 | 94.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Aditya Balsekar (BUY) | 98% | 5.00 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Aditya Balsekar (BUY) | 98% | 5.00 | 7.5% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Constantin  | Cruz Hewitt (BUY) | 75% | 5.00 | 4.7% | ⏳ pendiente | — |
 | thatguythatguy | Game Handicap: DNS.C (-1.5) vs Kiwoom DR | DN SOOPers Challengers (BUY) | 61% | 5.00 | 43.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 47.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 44% | 5.00 | 114.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Hunter Heck (BUY) | 76% | 5.00 | 19.4% | ❌ perdida | -5.06 |
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ✅ ganada | +0.25 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 351.4710517591663,
+  "bankroll": 346.5080925754928,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22085,6 +22085,16 @@
       "timestamp": 1788763352.461286,
       "bankroll": 351.47,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Martin Borisiouk vs Ethan Cook"
+    },
+    {
+      "timestamp": 1788764736.6440783,
+      "bankroll": 346.41,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Aditya Balsekar vs Hunter Heck"
+    },
+    {
+      "timestamp": 1788764737.3453965,
+      "bankroll": 346.51,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Aditya Balsekar vs Hunter Heck"
     }
   ]
 }
