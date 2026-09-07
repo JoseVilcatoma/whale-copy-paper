@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.40103875802964,
+  "bankroll": 401.4485438085347,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21595,6 +21595,11 @@
       "timestamp": 1788741006.8035433,
       "bankroll": 401.4,
       "event": "lost: Flaznorp \u2014 CA River Plate vs. CS Independiente Rivadavia: O/U 3.5"
+    },
+    {
+      "timestamp": 1788741189.410695,
+      "bankroll": 401.45,
+      "event": "won: Flaznorp \u2014 Spread: CS Independiente Rivadavia (-1.5)"
     }
   ]
 }
