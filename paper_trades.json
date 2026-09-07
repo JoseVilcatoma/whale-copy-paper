@@ -112108,8 +112108,8 @@
     "title": "Will SS Lazio win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5163.75,
-    "whale_pct": 6.473,
+    "whale_usd": 9439.2,
+    "whale_pct": 11.832,
     "whale_value_at_open": 79778.3799,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -112120,7 +112120,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788811733.7423491,
-    "fills": 1
+    "last_fill_at": 1788811803.9984486,
+    "fills": 2
   }
 ]

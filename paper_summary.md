@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 15:09:27 (hora de Perú)
+Actualizado: 2026-09-07 15:11:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $304.40
@@ -868,7 +868,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 6.5% | ⏳ pendiente | — |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ⏳ pendiente | — |
 | SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 37.4% | ⏳ pendiente | — |
 | SkyonX | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 59.5% | ⏳ pendiente | — |
 | Talvez10 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 25.2% | ⏳ pendiente | — |
