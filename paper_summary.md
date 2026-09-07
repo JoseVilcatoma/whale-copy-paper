@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 11:40:11 (hora de Perú)
+Actualizado: 2026-09-07 11:42:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 11:40:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $95.15)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $85.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 595 | 375 | 11 | -249.66 USD |
+| ferrariChampions2026 | 595 | 375 | 13 | -249.66 USD |
 
 ## Análisis general
 
@@ -864,13 +864,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Qinwen Zheng (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Weronika Falkowska vs Elizara | Elizara Yaneva (BUY) | 75% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet (BUY) | 84% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Petr Brunclik vs Alejandro Moro | Petr Brunclik (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Getafe CF vs. RC Celta de Vigo: O/U 1.5 | Over (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 5.1% | ⏳ pendiente | — |
 | sbsigner | Will Cagliari Calcio win on 2026-09-07? | No (BUY) | 57% | 5.00 | 19.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 125.5% | ⏳ pendiente | — |
+| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 134.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 44% | 5.00 | 78.6% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
@@ -892,5 +894,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Gambler661 | Seville: Jonas Forejtek vs Gerard Campan | Gerard Campana Lee (BUY) | 96% | 5.00 | 106.7% | ✅ ganada | +0.20 |
 | BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 221.9% | ⏳ pendiente | — |
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
-| Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ✅ ganada | +0.30 |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Yosuke Watanuki vs Marat Shari | Yosuke Watanuki (BUY) | 53% | 5.00 | 10.2% | ❌ perdida | -5.12 |

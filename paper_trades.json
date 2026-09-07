@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 193381.2031,
-    "whale_pct": 125.512,
+    "whale_usd": 207526.24310000002,
+    "whale_pct": 134.692,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,8 +111150,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799016.2815957,
-    "fills": 7
+    "last_fill_at": 1788799292.6347706,
+    "fills": 8
   },
   {
     "timestamp": 1788798909,
@@ -111215,8 +111215,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 7453.261200000001,
-    "whale_pct": 2.521,
+    "whale_usd": 15030.767500000002,
+    "whale_pct": 5.084,
     "whale_value_at_open": 295665.6645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -111230,8 +111230,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799175.5369155,
-    "fills": 2
+    "last_fill_at": 1788799334.8279755,
+    "fills": 5
   },
   {
     "timestamp": 1788799166,
@@ -111304,5 +111304,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788799180.8365886,
     "fills": 2
+  },
+  {
+    "timestamp": 1788799287,
+    "timestamp_added": 1788799288.3221207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-falkows-yaneva-2026-09-07",
+    "title": "Antalya 4: Weronika Falkowska vs Elizara Yaneva",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "whale_usd": 791.6297999999999,
+    "whale_pct": 0.259,
+    "whale_value_at_open": 305504.3217,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799288.3221335,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788799317,
+    "timestamp_added": 1788799317.7431011,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-zhen-2026-09-06",
+    "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+    "outcome": "Qinwen Zheng",
+    "side": "BUY",
+    "whale_usd": 2700.789787,
+    "whale_pct": 0.884,
+    "whale_value_at_open": 305504.3217,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+      "darkumbreon99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799317.7431135,
+    "fills": 1
   }
 ]
