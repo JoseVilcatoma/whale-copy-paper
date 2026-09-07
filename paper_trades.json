@@ -111935,8 +111935,8 @@
     "title": "Arizona Diamondbacks vs. Kansas City Royals",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 672.93,
-    "whale_pct": 3.486,
+    "whale_usd": 5210.170000000001,
+    "whale_pct": 26.988,
     "whale_value_at_open": 19305.6447,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -111949,7 +111949,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788806834.7463417,
-    "fills": 1
+    "last_fill_at": 1788808321.31854,
+    "fills": 2
   }
 ]
