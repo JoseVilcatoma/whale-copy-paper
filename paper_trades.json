@@ -109078,8 +109078,8 @@
     "title": "Washington Nationals vs. Los Angeles Dodgers: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2259.52,
-    "whale_pct": 1.876,
+    "whale_usd": 3421.38,
+    "whale_pct": 2.841,
     "whale_value_at_open": 120423.6687,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -109090,7 +109090,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788750611.1879852,
-    "fills": 1
+    "last_fill_at": 1788750996.9072244,
+    "fills": 2
   }
 ]
