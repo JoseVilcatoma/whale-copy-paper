@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 17052.44681,
-    "whale_pct": 5.906,
+    "whale_usd": 18807.442310000002,
+    "whale_pct": 6.514,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788816935.1188629,
-    "fills": 6
+    "last_fill_at": 1788819500.6525257,
+    "fills": 7
   },
   {
     "timestamp": 1788816422,
@@ -112420,5 +112420,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788819451.0104418,
     "fills": 6
+  },
+  {
+    "timestamp": 1788819525,
+    "timestamp_added": 1788819525.736489,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-khachan-tien-2026-09-07",
+    "title": "US Open ATP: Karen Khachanov vs Learner Tien",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "whale_usd": 2788.724,
+    "whale_pct": 1.158,
+    "whale_value_at_open": 240785.8421,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788819525.7365007,
+    "fills": 1
   }
 ]
