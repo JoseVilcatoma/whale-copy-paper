@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 228167.6031,
-    "whale_pct": 148.09,
+    "whale_usd": 257320.6431,
+    "whale_pct": 167.011,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,8 +111150,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799534.9360619,
-    "fills": 9
+    "last_fill_at": 1788799705.28018,
+    "fills": 11
   },
   {
     "timestamp": 1788798909,
@@ -111338,8 +111338,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 17410.408486999997,
-    "whale_pct": 5.699,
+    "whale_usd": 18181.654486999996,
+    "whale_pct": 5.951,
     "whale_value_at_open": 305504.3217,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111353,8 +111353,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799543.371616,
-    "fills": 6
+    "last_fill_at": 1788799604.2203522,
+    "fills": 7
   },
   {
     "timestamp": 1788799490,
