@@ -110652,8 +110652,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 3499.9999989999997,
-    "whale_pct": 50.105,
+    "whale_usd": 6499.999997999999,
+    "whale_pct": 93.052,
     "whale_value_at_open": 6985.3397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -110666,8 +110666,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788786647.9506073,
-    "fills": 1
+    "last_fill_at": 1788789334.5181403,
+    "fills": 2
   },
   {
     "timestamp": 1788788898,
@@ -110678,8 +110678,8 @@
     "title": "Seville: Jonas Forejtek vs Gerard Campana Lee",
     "outcome": "Gerard Campana Lee",
     "side": "BUY",
-    "whale_usd": 8540.5204,
-    "whale_pct": 51.106,
+    "whale_usd": 17829.7914,
+    "whale_pct": 106.693,
     "whale_value_at_open": 16711.2462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -110690,8 +110690,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788789062.8425627,
-    "fills": 5
+    "last_fill_at": 1788789374.6524131,
+    "fills": 8
   },
   {
     "timestamp": 1788788915,
@@ -110702,8 +110702,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 3782.928,
-    "whale_pct": 14.481,
+    "whale_usd": 10109.429133,
+    "whale_pct": 38.7,
     "whale_value_at_open": 26122.4918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -110714,7 +110714,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788788915.927173,
-    "fills": 1
+    "last_fill_at": 1788789280.189162,
+    "fills": 4
   }
 ]
