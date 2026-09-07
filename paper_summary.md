@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 05:10:54 (hora de Perú)
+Actualizado: 2026-09-07 05:12:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $334.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 05:10:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $169.49)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $164.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 17 | 9 | 1 | +14.57 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-|  | 14 | 10 | 0 | +12.94 USD |
+|  | 14 | 10 | 1 | +12.94 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -849,12 +849,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-moriya-palan-2026-09-06 | , ferrariChampions2026 |
 | wta-osaka-rybakin-2026-09-07 | AV23IUa, ferrariChampions2026 |
 | wta-swiatek-zhen-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, darkumbreon99 |
+| atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
 | cs2-sin2-pha-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Anyone's Legend vs Bilibili Gaming  | Bilibili Gaming (BUY) | 73% | 5.00 | 62.8% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Montreux: Nuria Brancaccio vs Francesca  | Francesca Curmi (BUY) | 47% | 5.00 | 15.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Mika Brunold vs Matthew William D | Mika Brunold (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -884,4 +886,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Luca Castelnuovo vs Tsung-Hao  | Luca Castelnuovo (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 1.5 | Over (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ NXT vs The Last Res | MOUZ NXT (BUY) | 50% | 5.00 | 94.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Aditya Balsekar vs Hunter  | Aditya Balsekar (BUY) | 98% | 5.00 | 7.5% | ✅ ganada | +0.10 |

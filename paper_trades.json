@@ -110416,5 +110416,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788775753.1190684,
     "fills": 3
+  },
+  {
+    "timestamp": 1788775879,
+    "timestamp_added": 1788775879.638833,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-janvier-paldani-2026-09-07",
+    "title": "Cassis: Maxime Janvier vs Oskari Paldanius",
+    "outcome": "Oskari Paldanius",
+    "side": "BUY",
+    "whale_usd": 14999.999997,
+    "whale_pct": 158.242,
+    "whale_value_at_open": 9479.1667,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788775958.665923,
+    "fills": 3
   }
 ]
