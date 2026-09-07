@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 12:25:49 (hora de Perú)
+Actualizado: 2026-09-07 12:27:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -888,7 +888,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Will Elche CF win on 2026-09-07? | No (BUY) | 74% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs 5star (+1.5) | 9z (BUY) | 74% | 5.00 | 27.2% | ⏳ pendiente | — |
 | BrotherObama | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 55% | 5.00 | 43.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox: O | Under (BUY) | 52% | 5.00 | 19.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox: O | Under (BUY) | 52% | 5.00 | 25.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 63% | 5.00 | 21.7% | ⏳ pendiente | — |
 | BrotherObama | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 51% | 5.00 | 156.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 78% | 5.00 | 3.5% | ⏳ pendiente | — |

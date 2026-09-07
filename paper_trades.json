@@ -110992,8 +110992,8 @@
     "title": "Los Angeles Angels vs. Boston Red Sox: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 26218.8609,
-    "whale_pct": 19.201,
+    "whale_usd": 34647.8609,
+    "whale_pct": 25.374,
     "whale_value_at_open": 136549.3281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -111004,8 +111004,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795183.1541462,
-    "fills": 3
+    "last_fill_at": 1788802064.9276683,
+    "fills": 4
   },
   {
     "timestamp": 1788794512,
