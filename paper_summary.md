@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 13:44:12 (hora de Perú)
+Actualizado: 2026-09-07 13:46:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $300.09
@@ -868,7 +868,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 1winstreak1 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 44% | 5.00 | 4.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 32.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |

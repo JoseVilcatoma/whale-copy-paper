@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 13328.7615,
-    "whale_pct": 27.611,
+    "whale_usd": 15427.6947,
+    "whale_pct": 31.959,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788805814.219056,
-    "fills": 8
+    "last_fill_at": 1788806711.5699456,
+    "fills": 9
   },
   {
     "timestamp": 1788794107,
@@ -111885,8 +111885,8 @@
     "title": "Map Handicap: MGLZ (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 2794.2794,
-    "whale_pct": 1.718,
+    "whale_usd": 5402.6789,
+    "whale_pct": 3.321,
     "whale_value_at_open": 162690.1025,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111897,8 +111897,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788805817.9175858,
-    "fills": 1
+    "last_fill_at": 1788806715.872924,
+    "fills": 2
   },
   {
     "timestamp": 1788806241,
