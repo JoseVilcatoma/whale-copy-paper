@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:36:01 (hora de Perú)
+Actualizado: 2026-09-06 20:38:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $382.34
-**Retorno acumulado:** -23.53%
+**Bankroll actual:** $382.67
+**Retorno acumulado:** -23.47%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:36:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $67.34)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $97.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| Feromont | 11 | 3 | 0 | +30.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 64 | 36 | 2 | +27.02 USD |
-| Feromont | 10 | 3 | 1 | +26.77 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
@@ -104,13 +104,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| Flaznorp | 50 | 17 | 27 | -5.52 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
-| Flaznorp | 48 | 17 | 29 | -9.53 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -122,24 +122,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| wr0ngw4yb3tt0r | 29 | 27 | 10 | -21.37 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| wr0ngw4yb3tt0r | 29 | 28 | 9 | -26.51 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 572 | 357 | 10 | -206.86 USD |
+| ferrariChampions2026 | 573 | 358 | 8 | -208.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4136
-- **Aciertos:** 2617 (63.3%)
-- **Cuota promedio de entrada:** 63.0%
+- **Apuestas resueltas:** 4142
+- **Aciertos:** 2621 (63.3%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,655.24
+- **Total apostado (suma de stakes):** $20,685.24
 - **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $382.70 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $383.33 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -148,9 +148,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2110 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1239 | 69.4% | 67.7% | +1.7 pp |
-| 80-94% | 549 | 85.2% | 86.6% | -1.4 pp |
+| 40-59% | 2113 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1241 | 69.5% | 67.7% | +1.7 pp |
+| 80-94% | 550 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -854,7 +854,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 16.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |
 | 1winstreak1 | Spread: Ole Miss (-7.5) | Ole Miss (BUY) | 55% | 5.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-7.5) | Louisville (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.33659889152864,
+  "bankroll": 382.6666107599048,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21660,6 +21660,36 @@
       "timestamp": 1788744146.4256036,
       "bankroll": 382.34,
       "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788745019.153141,
+      "bankroll": 383.25,
+      "event": "won: Flaznorp \u2014 Spread: Chicago White Sox (-2.5)"
+    },
+    {
+      "timestamp": 1788745076.565207,
+      "bankroll": 386.62,
+      "event": "won: Feromont \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788745076.6653135,
+      "bankroll": 381.48,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788745077.854768,
+      "bankroll": 376.33,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788745078.656391,
+      "bankroll": 379.57,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788745078.7565634,
+      "bankroll": 382.67,
+      "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox"
     }
   ]
 }
