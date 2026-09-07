@@ -1,5 +1,5 @@
 {
-  "bankroll": 305.06886649882614,
+  "bankroll": 295.934706004999,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22580,6 +22580,21 @@
       "timestamp": 1788821160.1142595,
       "bankroll": 305.07,
       "event": "lost: sbsigner \u2014 Will Real Sociedad de F\u00fatbol win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788825443.4520378,
+      "bankroll": 299.94,
+      "event": "lost: Talvez10 \u2014 Washington Nationals vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1788825444.0410848,
+      "bankroll": 294.81,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1788825445.471358,
+      "bankroll": 295.93,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Washington Nationals vs. San Diego Padres"
     }
   ]
 }
