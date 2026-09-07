@@ -111338,8 +111338,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 18181.654486999996,
-    "whale_pct": 5.951,
+    "whale_usd": 22391.749357999997,
+    "whale_pct": 7.329,
     "whale_value_at_open": 305504.3217,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111353,8 +111353,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799604.2203522,
-    "fills": 7
+    "last_fill_at": 1788799743.8165584,
+    "fills": 9
   },
   {
     "timestamp": 1788799490,
@@ -111378,6 +111378,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788799491.115312,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788799731,
+    "timestamp_added": 1788799732.8683915,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-kc-2026-09-07",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 1841.745,
+    "whale_pct": 0.587,
+    "whale_value_at_open": 313523.0167,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799732.8684022,
     "fills": 1
   }
 ]
