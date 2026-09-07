@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 03:36:16 (hora de Perú)
+Actualizado: 2026-09-07 03:38:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $340.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 03:36:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $220.64)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $215.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 587 | 370 | 9 | -242.68 USD |
+| ferrariChampions2026 | 587 | 370 | 10 | -242.68 USD |
 
 ## Análisis general
 
@@ -853,6 +853,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cassis: Maxime Janvier vs Oskari Paldani | Maxime Janvier (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 81% | 5.00 | 96.6% | ⏳ pendiente | — |
 | darkumbreon99 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 81% | 5.00 | 11.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Alex Hernandez vs Tuncay Dur | Tuncay Duran (BUY) | 63% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -882,4 +883,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Kristjan Tamm (BUY) | 62% | 5.00 | 8.1% | ❌ perdida | -5.09 |
