@@ -112272,5 +112272,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788816865.3896387,
     "fills": 1
+  },
+  {
+    "timestamp": 1788817904,
+    "timestamp_added": 1788817904.558048,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-cin-lad-2026-09-07",
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 5066.64,
+    "whale_pct": 7.164,
+    "whale_value_at_open": 70722.0863,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788817904.5580606,
+    "fills": 1
   }
 ]
