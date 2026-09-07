@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:33:54 (hora de Perú)
+Actualizado: 2026-09-06 20:36:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:33:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $77.34)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $67.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 572 | 357 | 8 | -206.86 USD |
+| ferrariChampions2026 | 572 | 357 | 10 | -206.86 USD |
 
 ## Análisis general
 
@@ -838,11 +838,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-wisc-nd-2026-09-06-spread-home-20pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-min-cws-2026-09-06-total-6pt5 | Flaznorp, ferrariChampions2026 |
 | cfb-lou-miss-2026-09-06-spread-home-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| wta-kalinsk-navarro-2026-09-06 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 55% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Anna Kalinskaya vs Emma Nav | Anna Kalinskaya (BUY) | 46% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Over (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
@@ -871,5 +874,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Notre Dame (-20.5) | Wisconsin (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | Will CD Universidad de Concepción win on | No (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 14.2% | ⏳ pendiente | — |
-| 1winstreak1 | Spread: Ole Miss (-6.5) | Louisville (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |

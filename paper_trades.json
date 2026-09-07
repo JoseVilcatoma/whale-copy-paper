@@ -108717,5 +108717,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788743152.2816005,
     "fills": 1
+  },
+  {
+    "timestamp": 1788744920,
+    "timestamp_added": 1788744921.0592978,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kalinsk-navarro-2026-09-06",
+    "title": "US Open WTA: Anna Kalinskaya vs Emma Navarro",
+    "outcome": "Anna Kalinskaya",
+    "side": "BUY",
+    "whale_usd": 3137.3145000000004,
+    "whale_pct": 3.228,
+    "whale_value_at_open": 97182.8371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788744921.05933,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788744940,
+    "timestamp_added": 1788744941.1555688,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-kalinsk-navarro-2026-09-06",
+    "title": "US Open WTA: Anna Kalinskaya vs Emma Navarro",
+    "outcome": "Emma Navarro",
+    "side": "BUY",
+    "whale_usd": 2264.475913,
+    "whale_pct": 2.33,
+    "whale_value_at_open": 97182.8371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788744941.1555839,
+    "fills": 1
   }
 ]
