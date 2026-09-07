@@ -109688,5 +109688,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788761749.5170176,
     "fills": 1
+  },
+  {
+    "timestamp": 1788762247,
+    "timestamp_added": 1788762248.2834213,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-balseka-heck-2026-09-07",
+    "title": "Phan Thiet 3: Aditya Balsekar vs Hunter Heck",
+    "outcome": "Aditya Balsekar",
+    "side": "BUY",
+    "whale_usd": 9830.4,
+    "whale_pct": 7.496,
+    "whale_value_at_open": 131135.901,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788762248.283447,
+    "fills": 1
   }
 ]
