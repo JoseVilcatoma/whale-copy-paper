@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:48:28 (hora de Perú)
+Actualizado: 2026-09-06 22:50:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $390.07
@@ -848,7 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 17.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 13.6% | ⏳ pendiente | — |
