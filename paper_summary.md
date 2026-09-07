@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:54:35 (hora de Perú)
+Actualizado: 2026-09-06 22:56:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $390.07
-**Retorno acumulado:** -21.99%
+**Bankroll actual:** $390.46
+**Retorno acumulado:** -21.91%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:54:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $230.07)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $235.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,31 +116,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| 1winstreak1 | 27 | 15 | 8 | -12.76 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| wr0ngw4yb3tt0r | 33 | 29 | 4 | -15.65 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
+| 1winstreak1 | 27 | 16 | 7 | -17.87 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| wr0ngw4yb3tt0r | 32 | 29 | 5 | -21.16 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 0 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 576 | 360 | 12 | -211.85 USD |
+| ferrariChampions2026 | 576 | 360 | 13 | -211.85 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4185
-- **Aciertos:** 2650 (63.3%)
+- **Apuestas resueltas:** 4187
+- **Aciertos:** 2651 (63.3%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,900.24
+- **Total apostado (suma de stakes):** $20,910.24
 - **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $387.30 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $387.55 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2135 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2137 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1254 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 557 | 85.3% | 86.7% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
@@ -848,6 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 3: Yuta Kawahashi vs Sam Ryan | Sam Ryan Ziegann (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ⏳ pendiente | — |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 17.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -877,4 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ✅ ganada | +5.29 |
 | Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |

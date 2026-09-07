@@ -108433,8 +108433,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -108457,8 +108457,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -109218,5 +109218,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788752938.4017055,
     "fills": 5
+  },
+  {
+    "timestamp": 1788753377,
+    "timestamp_added": 1788753378.133582,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kawahas-ziegann-2026-09-06",
+    "title": "Phan Thiet 3: Yuta Kawahashi vs Sam Ryan Ziegann",
+    "outcome": "Sam Ryan Ziegann",
+    "side": "BUY",
+    "whale_usd": 621.9599999999999,
+    "whale_pct": 0.414,
+    "whale_value_at_open": 150322.6339,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788753378.13359,
+    "fills": 1
   }
 ]

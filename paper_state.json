@@ -1,5 +1,5 @@
 {
-  "bankroll": 390.0655696669376,
+  "bankroll": 390.458867539278,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21905,6 +21905,16 @@
       "timestamp": 1788751788.4699163,
       "bankroll": 390.07,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Notre Dame (-20.5)"
+    },
+    {
+      "timestamp": 1788753357.7318273,
+      "bankroll": 395.57,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Ole Miss (-7.5)"
+    },
+    {
+      "timestamp": 1788753357.8319829,
+      "bankroll": 390.46,
+      "event": "lost: 1winstreak1 \u2014 Spread: Ole Miss (-7.5)"
     }
   ]
 }
