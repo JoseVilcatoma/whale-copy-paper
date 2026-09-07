@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.18086649882616,
+  "bankroll": 305.06886649882614,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22575,6 +22575,11 @@
       "timestamp": 1788818806.39491,
       "bankroll": 310.18,
       "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1788821160.1142595,
+      "bankroll": 305.07,
+      "event": "lost: sbsigner \u2014 Will Real Sociedad de F\u00fatbol win on 2026-09-07?"
     }
   ]
 }
