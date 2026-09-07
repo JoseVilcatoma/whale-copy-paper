@@ -111162,8 +111162,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 13805.3926,
-    "whale_pct": 4.917,
+    "whale_usd": 15290.4406,
+    "whale_pct": 5.446,
     "whale_value_at_open": 280762.7555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -111176,8 +111176,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801449.5480297,
-    "fills": 6
+    "last_fill_at": 1788801690.7931817,
+    "fills": 7
   },
   {
     "timestamp": 1788799045,
@@ -111338,8 +111338,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 22391.749357999997,
-    "whale_pct": 7.329,
+    "whale_usd": 31018.042157999997,
+    "whale_pct": 10.153,
     "whale_value_at_open": 305504.3217,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111353,8 +111353,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799743.8165584,
-    "fills": 9
+    "last_fill_at": 1788801659.1265006,
+    "fills": 11
   },
   {
     "timestamp": 1788799490,
@@ -111552,5 +111552,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788801560.5443642,
     "fills": 1
+  },
+  {
+    "timestamp": 1788801649,
+    "timestamp_added": 1788801650.471388,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-olivier-blan-2026-09-07",
+    "title": "Seville: Genaro Alberto Olivieri vs Dali Blanch",
+    "outcome": "Genaro Alberto Olivieri",
+    "side": "BUY",
+    "whale_usd": 12433.073600000002,
+    "whale_pct": 3.915,
+    "whale_value_at_open": 317602.6782,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788801650.9904203,
+    "fills": 2
   }
 ]
