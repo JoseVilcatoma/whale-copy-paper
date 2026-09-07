@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.55724192060944,
+  "bankroll": 378.97362615729475,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21975,6 +21975,36 @@
       "timestamp": 1788757321.8687887,
       "bankroll": 387.56,
       "event": "won: Flaznorp \u2014 CSD Municipal vs. Deportivo San Pedro: Deportivo San Pedro O/U 0.5"
+    },
+    {
+      "timestamp": 1788758271.2025113,
+      "bankroll": 382.42,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1788758271.8777828,
+      "bankroll": 377.29,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 11.5"
+    },
+    {
+      "timestamp": 1788758272.0738528,
+      "bankroll": 379.16,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Yuta Kawahashi vs Sam Ryan Ziegann"
+    },
+    {
+      "timestamp": 1788758272.4732726,
+      "bankroll": 379.75,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm"
+    },
+    {
+      "timestamp": 1788758272.8778906,
+      "bankroll": 374.66,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm"
+    },
+    {
+      "timestamp": 1788758273.1783185,
+      "bankroll": 378.97,
+      "event": "won:  \u2014 Phan Thiet 3: Dong Ju Kim vs Kristjan Tamm"
     }
   ]
 }
