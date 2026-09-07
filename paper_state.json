@@ -1,5 +1,5 @@
 {
-  "bankroll": 386.13968258515473,
+  "bankroll": 381.29583152132494,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21700,6 +21700,16 @@
       "timestamp": 1788745393.4343824,
       "bankroll": 386.14,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Stefanos Tsitsipas"
+    },
+    {
+      "timestamp": 1788746828.6418748,
+      "bankroll": 380.99,
+      "event": "lost: Flaznorp \u2014 Will CS Cartagin\u00e9s win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788746828.8421912,
+      "bankroll": 381.3,
+      "event": "won: Flaznorp \u2014 Will CS Cartagin\u00e9s win on 2026-09-06?"
     }
   ]
 }
