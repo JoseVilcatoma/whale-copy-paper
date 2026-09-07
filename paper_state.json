@@ -1,5 +1,5 @@
 {
-  "bankroll": 309.52019762490033,
+  "bankroll": 304.4031976249003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22410,6 +22410,11 @@
       "timestamp": 1788809505.009797,
       "bankroll": 309.52,
       "event": "won: ferrariChampions2026 \u2014 Getafe CF vs. RC Celta de Vigo: O/U 1.5"
+    },
+    {
+      "timestamp": 1788811449.6433406,
+      "bankroll": 304.4,
+      "event": "lost: 1winstreak1 \u2014 Cleveland Guardians vs. Baltimore Orioles: O/U 6.5"
     }
   ]
 }

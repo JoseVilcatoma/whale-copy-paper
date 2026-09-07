@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 15:03:13 (hora de Perú)
+Actualizado: 2026-09-07 15:05:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $309.52
-**Retorno acumulado:** -38.10%
+**Bankroll actual:** $304.40
+**Retorno acumulado:** -39.12%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 15:03:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.53 en 48 posiciones abiertas (disponible para nuevas apuestas: $71.99)
+**Capital comprometido ahora mismo:** $232.53 en 47 posiciones abiertas (disponible para nuevas apuestas: $71.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,9 +129,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | sbsigner | 6 | 8 | 3 | -23.05 USD |
-| 1winstreak1 | 31 | 20 | 4 | -23.38 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 2 | -26.65 USD |
+| 1winstreak1 | 31 | 21 | 3 | -28.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -139,14 +139,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4284
+- **Apuestas resueltas:** 4285
 - **Aciertos:** 2704 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,395.24
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $396.56 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,400.24
+- **ROI sobre lo apostado:** -1.50%
+- **Comisiones pagadas (taker fee):** $396.68 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2183 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2184 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1288 | 69.0% | 67.8% | +1.3 pp |
 | 80-94% | 569 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 244 | 96.7% | 97.3% | -0.6 pp |
@@ -873,7 +873,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 25.2% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: GamerLegion vs  Pipsqueak+4 - Ga | GamerLegion (BUY) | 68% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-4.5) | Cleveland Guardians (BUY) | 62% | 5.00 | 7.2% | ⏳ pendiente | — |
-| 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ⏳ pendiente | — |
+| 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ❌ perdida | -5.12 |
 | 1winstreak1 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 49% | 5.00 | 27.0% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 44% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 4.3% | ⏳ pendiente | — |
