@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 21:09:27 (hora de Perú)
+Actualizado: 2026-09-06 21:11:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.30
-**Retorno acumulado:** -23.74%
+**Bankroll actual:** $383.08
+**Retorno acumulado:** -23.38%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 21:09:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $81.30)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $83.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,11 +106,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 4 | -6.61 USD |
+| Flaznorp | 53 | 18 | 23 | -6.81 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| Flaznorp | 52 | 18 | 24 | -8.59 USD |
 | Sunny24 | 2 | 3 | 0 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 574 | 358 | 9 | -207.08 USD |
+| ferrariChampions2026 | 574 | 358 | 10 | -207.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4146
-- **Aciertos:** 2624 (63.3%)
+- **Apuestas resueltas:** 4147
+- **Aciertos:** 2625 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,705.24
+- **Total apostado (suma de stakes):** $20,710.24
 - **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $383.62 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $383.69 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2114 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1243 | 69.5% | 67.7% | +1.8 pp |
+| 60-79% | 1244 | 69.5% | 67.8% | +1.8 pp |
 | 80-94% | 551 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
 
@@ -846,6 +846,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 64% | 5.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -875,4 +876,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Associação Chapecoense de Futebol w | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Associação Chapecoense de Futebol w | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will SC Corinthians Paulista win on 2026 | No (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
