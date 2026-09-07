@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 14:44:21 (hora de Perú)
+Actualizado: 2026-09-07 14:46:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $309.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 14:44:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.53 en 45 posiciones abiertas (disponible para nuevas apuestas: $86.99)
+**Capital comprometido ahora mismo:** $237.53 en 48 posiciones abiertas (disponible para nuevas apuestas: $71.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 7 | 0 | +2.51 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| Talvez10 | 14 | 11 | 1 | +2.09 USD |
+| Talvez10 | 14 | 11 | 2 | +2.09 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -114,7 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| Sunny24 | 2 | 3 | 0 | -8.66 USD |
+| Sunny24 | 2 | 3 | 2 | -8.66 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -852,7 +852,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sea-cag-lec-2026-09-07-cag | ferrariChampions2026, sbsigner, wr0ngw4yb3tt0r |
 | atp-moriya-palan-2026-09-06 | , ferrariChampions2026 |
 | cs2-ntr-cs1-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama, sbsigner |
-| wta-osaka-rybakin-2026-09-07 | AV23IUa, ferrariChampions2026 |
+| wta-osaka-rybakin-2026-09-07 | AV23IUa, SkyonX, ferrariChampions2026 |
 | wta-swiatek-zhen-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, darkumbreon99, ferrariChampions2026 |
 | atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
 | atp-matsuok-delaney-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, ferrariChampions2026 |
@@ -868,7 +868,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sunshine.Smile | Dota 2: GamerLegion vs  Pipsqueak+4 - Ga | GamerLegion (BUY) | 68% | 5.00 | 5.4% | ⏳ pendiente | — |
+| SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 30.0% | ⏳ pendiente | — |
+| SkyonX | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 59.5% | ⏳ pendiente | — |
+| Talvez10 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 25.2% | ⏳ pendiente | — |
+| Sunshine.Smile | Dota 2: GamerLegion vs  Pipsqueak+4 - Ga | GamerLegion (BUY) | 68% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Baltimore Orioles (-4.5) | Cleveland Guardians (BUY) | 62% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 49% | 5.00 | 27.0% | ⏳ pendiente | — |
@@ -895,6 +898,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Will Cagliari Calcio vs. US Lecce end in | No (BUY) | 68% | 5.00 | 5.0% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Vendula Valdmannova vs Car | Carol Young Suh Lee (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Qinwen Zheng (BUY) | 54% | 5.00 | 10.2% | ✅ ganada | +4.14 |
-| ferrariChampions2026 | Antalya 4: Weronika Falkowska vs Elizara | Elizara Yaneva (BUY) | 75% | 5.00 | 0.3% | ✅ ganada | +1.60 |
-| ferrariChampions2026 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet (BUY) | 84% | 5.00 | 5.5% | ✅ ganada | +0.91 |
