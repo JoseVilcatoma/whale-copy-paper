@@ -1,5 +1,5 @@
 {
-  "bankroll": 307.0967115499156,
+  "bankroll": 307.2950448832489,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22265,6 +22265,11 @@
       "timestamp": 1788792865.7949796,
       "bankroll": 307.1,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FF (-1.5) vs Strael-Bora (+1.5)"
+    },
+    {
+      "timestamp": 1788793051.5364704,
+      "bankroll": 307.3,
+      "event": "won: Gambler661 \u2014 Seville: Jonas Forejtek vs Gerard Campana Lee"
     }
   ]
 }
