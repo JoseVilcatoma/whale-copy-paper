@@ -108574,8 +108574,8 @@
     "title": "Louisville vs. Ole Miss",
     "outcome": "Ole Miss",
     "side": "BUY",
-    "whale_usd": 5859.412397,
-    "whale_pct": 16.654,
+    "whale_usd": 10859.412395,
+    "whale_pct": 30.866,
     "whale_value_at_open": 35182.6001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -108588,8 +108588,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788741922.5285947,
-    "fills": 2
+    "last_fill_at": 1788746505.1260054,
+    "fills": 3
   },
   {
     "timestamp": 1788741914,
@@ -108869,6 +108869,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788746419.0931678,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788746542,
+    "timestamp_added": 1788746543.5015514,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-wisc-nd-2026-09-06-total-47pt5",
+    "title": "Wisconsin vs. Notre Dame: O/U 47.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1088.78,
+    "whale_pct": 1.423,
+    "whale_value_at_open": 76515.6567,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788746543.5015638,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 21:00:57 (hora de Perú)
+Actualizado: 2026-09-06 21:03:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $386.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 21:00:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $91.14)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $86.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -106,7 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 3 | -6.61 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 4 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
@@ -846,6 +846,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 47.5 | Over (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 49.5 | Over (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Wisconsin vs. Notre Dame: O/U 45.5 | Over (BUY) | 57% | 5.00 | 6.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Louisville vs. Ole Miss | Louisville (BUY) | 41% | 5.00 | 44.7% | ⏳ pendiente | — |
@@ -857,7 +858,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ⏳ pendiente | — |
-| 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 16.7% | ⏳ pendiente | — |
+| 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 30.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
@@ -875,4 +876,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
 | Flaznorp | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Louisville vs. Ole Miss: O/U 57.5 | Under (BUY) | 67% | 5.00 | 4.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
