@@ -1,5 +1,5 @@
 {
-  "bankroll": 300.0870104627809,
+  "bankroll": 308.97696750788134,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22330,6 +22330,36 @@
       "timestamp": 1788806594.0147,
       "bankroll": 300.09,
       "event": "won: ferrariChampions2026 \u2014 Seville: Genaro Alberto Olivieri vs Dali Blanch"
+    },
+    {
+      "timestamp": 1788806893.2995245,
+      "bankroll": 305.59,
+      "event": "won: ferrariChampions2026 \u2014 Will Cagliari Calcio win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788806895.0899792,
+      "bankroll": 300.51,
+      "event": "lost: ferrariChampions2026 \u2014 Cagliari Calcio vs. US Lecce: O/U 1.5"
+    },
+    {
+      "timestamp": 1788806898.6259074,
+      "bankroll": 306.74,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Cagliari Calcio win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788806899.0052304,
+      "bankroll": 301.63,
+      "event": "lost: sbsigner \u2014 Will Cagliari Calcio win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788806900.0250986,
+      "bankroll": 303.9,
+      "event": "won: sbsigner \u2014 Will Cagliari Calcio vs. US Lecce end in a draw?"
+    },
+    {
+      "timestamp": 1788806900.3040025,
+      "bankroll": 308.98,
+      "event": "won: Talvez10 \u2014 New York Mets vs. Miami Marlins: O/U 8.5"
     }
   ]
 }
