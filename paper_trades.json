@@ -111188,8 +111188,8 @@
     "title": "Will Cagliari Calcio win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 11590.761944999998,
-    "whale_pct": 19.752,
+    "whale_usd": 22175.302089999997,
+    "whale_pct": 37.79,
     "whale_value_at_open": 58680.2545,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -111203,8 +111203,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799137.1870866,
-    "fills": 5
+    "last_fill_at": 1788799439.5576282,
+    "fills": 7
   },
   {
     "timestamp": 1788799139,
@@ -111215,8 +111215,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 15030.767500000002,
-    "whale_pct": 5.084,
+    "whale_usd": 23675.8162,
+    "whale_pct": 8.008,
     "whale_value_at_open": 295665.6645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -111230,8 +111230,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799334.8279755,
-    "fills": 5
+    "last_fill_at": 1788799414.3045666,
+    "fills": 9
   },
   {
     "timestamp": 1788799166,
