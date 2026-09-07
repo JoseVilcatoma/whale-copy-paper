@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 18:32:05 (hora de Perú)
+Actualizado: 2026-09-07 18:34:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.07
@@ -878,7 +878,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Washington Nationals (BUY) | 55% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff (BUY) | 73% | 5.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff (BUY) | 73% | 5.00 | 5.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | SMU vs. Florida State: 1H Moneyline | Florida State (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
