@@ -110750,8 +110750,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 99337.2539,
-    "whale_pct": 188.686,
+    "whale_usd": 135571.12649999998,
+    "whale_pct": 257.511,
     "whale_value_at_open": 52646.75,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -110762,8 +110762,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788793303.855833,
-    "fills": 4
+    "last_fill_at": 1788793451.5912724,
+    "fills": 8
   },
   {
     "timestamp": 1788790502,
