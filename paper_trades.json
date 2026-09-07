@@ -112084,8 +112084,8 @@
     "title": "Chicago Cubs vs. Milwaukee Brewers: O/U 4.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 19999.999998000003,
-    "whale_pct": 29.953,
+    "whale_usd": 24999.999997000003,
+    "whale_pct": 37.441,
     "whale_value_at_open": 66771.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -112096,7 +112096,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788810368.2314038,
-    "fills": 2
+    "last_fill_at": 1788810458.16999,
+    "fills": 3
   }
 ]
