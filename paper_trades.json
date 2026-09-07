@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 7396.445676,
-    "whale_pct": 3.559,
+    "whale_usd": 8625.017104,
+    "whale_pct": 4.151,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788739140.7020063,
-    "fills": 7
+    "last_fill_at": 1788739202.817597,
+    "fills": 8
   },
   {
     "timestamp": 1788722393,
@@ -107596,8 +107596,8 @@
     "title": "US Open WTA: Jessica Pegula vs Sorana Cirstea",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 32649.969173,
-    "whale_pct": 24.622,
+    "whale_usd": 33807.734173000004,
+    "whale_pct": 25.495,
     "whale_value_at_open": 132604.0255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -107608,8 +107608,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788738224.7777011,
-    "fills": 10
+    "last_fill_at": 1788739199.1192718,
+    "fills": 11
   },
   {
     "timestamp": 1788736640,
@@ -108148,5 +108148,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788739039.072648,
     "fills": 1
+  },
+  {
+    "timestamp": 1788739207,
+    "timestamp_added": 1788739207.5573592,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "cfb-lou-miss-2026-09-06-total-57pt5",
+    "title": "Louisville vs. Ole Miss: O/U 57.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1359.9999979999998,
+    "whale_pct": 4.731,
+    "whale_value_at_open": 28749.0418,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788739212.166545,
+    "fills": 2
   }
 ]

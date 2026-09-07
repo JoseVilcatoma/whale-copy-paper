@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 18:59:45 (hora de Perú)
+Actualizado: 2026-09-06 19:01:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 18:59:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $61.45)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $56.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -98,7 +98,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| 1winstreak1 | 24 | 12 | 7 | -4.96 USD |
+| 1winstreak1 | 24 | 12 | 8 | -4.96 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -838,6 +838,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Louisville vs. Ole Miss: O/U 57.5 | Under (BUY) | 67% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame: O/U 45.5 | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -860,11 +861,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 74% | 5.00 | 10.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 24.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 25.5% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 0.5 | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR vs. SE Palmeiras end in | Yes (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Louisville vs. Ole Miss | Ole Miss (BUY) | 70% | 5.00 | 17.5% | ⏳ pendiente | — |
 | Flaznorp | Botafogo FR vs. SE Palmeiras: O/U 1.5 | Under (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will Botafogo FR win on 2026-09-06? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Santa Cruz FC PE vs. Botafogo FC PB | No (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 73% | 5.00 | 11.1% | ⏳ pendiente | — |
