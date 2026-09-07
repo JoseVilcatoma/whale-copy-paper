@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 23:29:45 (hora de Perú)
+Actualizado: 2026-09-06 23:31:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 23:29:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $277.31)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $262.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -122,7 +122,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | sbsigner | 4 | 6 | 0 | -17.31 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| wr0ngw4yb3tt0r | 35 | 31 | 0 | -18.75 USD |
+| wr0ngw4yb3tt0r | 35 | 31 | 1 | -18.75 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 577 | 361 | 13 | -211.89 USD |
+| ferrariChampions2026 | 577 | 361 | 15 | -211.89 USD |
 
 ## Análisis general
 
@@ -842,12 +842,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-lou-miss-2026-09-06-spread-home-7pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 | wta-kalinsk-navarro-2026-09-06 | , ferrariChampions2026 |
 | mlb-wsh-lad-2026-09-06-spread-home-1pt5 | 1winstreak1, ferrariChampions2026 |
-| mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026 |
+| mlb-wsh-lad-2026-09-06 | , 1winstreak1, ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Kristjan Tamm (BUY) | 62% | 5.00 | 4.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Cagliari Calcio win on 2026-09-07? | Yes (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 89% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Yuta Kawahashi vs Sam Ryan | Sam Ryan Ziegann (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -875,6 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Ole Miss (BUY) | 75% | 5.00 | 1.7% | ❌ perdida | -5.06 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-20.5) | Notre Dame (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |
-|  | US Open WTA: Anna Kalinskaya vs Emma Nav | Emma Navarro (BUY) | 49% | 5.00 | 48.1% | ✅ ganada | +5.08 |
-| 1winstreak1 | Louisville vs. Ole Miss | Ole Miss (BUY) | 85% | 5.00 | 30.9% | ✅ ganada | +0.84 |
-| wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ✅ ganada | +5.29 |
