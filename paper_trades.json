@@ -111215,8 +111215,8 @@
     "title": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 23675.8162,
-    "whale_pct": 8.008,
+    "whale_usd": 24512.573162,
+    "whale_pct": 8.291,
     "whale_value_at_open": 295665.6645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -111230,8 +111230,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788799414.3045666,
-    "fills": 9
+    "last_fill_at": 1788801717.0099967,
+    "fills": 10
   },
   {
     "timestamp": 1788799166,
@@ -111562,8 +111562,8 @@
     "title": "Seville: Genaro Alberto Olivieri vs Dali Blanch",
     "outcome": "Genaro Alberto Olivieri",
     "side": "BUY",
-    "whale_usd": 12433.073600000002,
-    "whale_pct": 3.915,
+    "whale_usd": 18359.1155,
+    "whale_pct": 5.781,
     "whale_value_at_open": 317602.6782,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -111574,7 +111574,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801650.9904203,
-    "fills": 2
+    "last_fill_at": 1788801708.9280524,
+    "fills": 3
   }
 ]
