@@ -109832,5 +109832,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788766060.541593,
     "fills": 1
+  },
+  {
+    "timestamp": 1788766159,
+    "timestamp_added": 1788766159.5731802,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hassan-reguig-2026-09-07",
+    "title": "Istanbul 3: Benjamin Hassan vs Samir Hamza Reguig",
+    "outcome": "Benjamin Hassan",
+    "side": "BUY",
+    "whale_usd": 8772.8508,
+    "whale_pct": 6.543,
+    "whale_value_at_open": 134071.7753,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788766160.067071,
+    "fills": 2
   }
 ]
