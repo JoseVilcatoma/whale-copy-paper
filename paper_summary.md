@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 00:31:29 (hora de Perú)
+Actualizado: 2026-09-07 00:33:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $357.31
-**Retorno acumulado:** -28.54%
+**Bankroll actual:** $356.17
+**Retorno acumulado:** -28.77%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 00:31:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $292.31)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $301.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 581 | 367 | 7 | -236.21 USD |
+| ferrariChampions2026 | 582 | 368 | 5 | -237.35 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4216
-- **Aciertos:** 2665 (63.2%)
+- **Apuestas resueltas:** 4218
+- **Aciertos:** 2666 (63.2%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,055.24
+- **Total apostado (suma de stakes):** $21,065.24
 - **ROI sobre lo apostado:** -1.28%
-- **Comisiones pagadas (taker fee):** $390.50 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $390.73 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.57% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -149,7 +149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2154 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 2156 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1262 | 69.3% | 67.8% | +1.6 pp |
 | 80-94% | 560 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 240 | 96.7% | 97.3% | -0.7 pp |
@@ -853,7 +853,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 29.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 30.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
@@ -864,9 +864,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Yuta Kawahashi vs Sam Ryan | Sam Ryan Ziegann (BUY) | 72% | 5.00 | 1.5% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 45% | 5.00 | 11.3% | ❌ perdida | -5.14 |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 51% | 5.00 | 35.1% | ✅ ganada | +4.68 |
-| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Timofei Derepasko (BUY) | 55% | 5.00 | 2.4% | ✅ ganada | +3.98 |
 | 1winstreak1 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 71% | 5.00 | 21.4% | ❌ perdida | -5.07 |
-| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Timofei Derepasko vs Taiyo | Taiyo Yamanaka (BUY) | 50% | 5.00 | 2.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 47% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 13.9% | ❌ perdida | -5.08 |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ❌ perdida | -5.12 |

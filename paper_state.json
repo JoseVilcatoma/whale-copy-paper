@@ -1,5 +1,5 @@
 {
-  "bankroll": 357.3123455982626,
+  "bankroll": 356.1662546891717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22060,6 +22060,16 @@
       "timestamp": 1788758902.7690876,
       "bankroll": 357.31,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Washington Nationals vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788759213.3608835,
+      "bankroll": 352.19,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Timofei Derepasko vs Taiyo Yamanaka"
+    },
+    {
+      "timestamp": 1788759213.4610598,
+      "bankroll": 356.17,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Timofei Derepasko vs Taiyo Yamanaka"
     }
   ]
 }
