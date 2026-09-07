@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.42636892407404,
+  "bankroll": 315.7305178602443,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22225,6 +22225,11 @@
       "timestamp": 1788786844.439728,
       "bankroll": 315.43,
       "event": "won: zofgkt1111 \u2014 LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788788433.503612,
+      "bankroll": 315.73,
+      "event": "won: Gambler661 \u2014 Istanbul 3: Marek Gengel vs Christian Langmo"
     }
   ]
 }

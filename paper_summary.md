@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 08:39:29 (hora de Perú)
+Actualizado: 2026-09-07 08:41:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $315.43
-**Retorno acumulado:** -36.91%
+**Bankroll actual:** $315.73
+**Retorno acumulado:** -36.85%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 08:39:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $180.43)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $185.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,11 +78,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| Gambler661 | 1 | 0 | 0 | +0.30 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | darkumbreon99 | 0 | 0 | 1 | +0.00 USD |
-| Gambler661 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -137,13 +137,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4248
-- **Aciertos:** 2682 (63.1%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 4249
+- **Aciertos:** 2683 (63.1%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,215.24
+- **Total apostado (suma de stakes):** $21,220.24
 - **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $393.19 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $393.21 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2164 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1278 | 69.0% | 67.8% | +1.3 pp |
-| 80-94% | 563 | 85.4% | 86.6% | -1.2 pp |
+| 80-94% | 564 | 85.5% | 86.7% | -1.2 pp |
 | 95-99% (casi seguro) | 243 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -861,7 +861,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | BrotherObama | Counter-Strike: Nuclear TigeRES vs CYBER | CYBERSHOKE Esports (BUY) | 49% | 5.00 | 50.1% | ⏳ pendiente | — |
 |  | Antalya 4: Lucia Bronzetti vs Irene Buri | Lucia Bronzetti (BUY) | 76% | 5.00 | 1.9% | 💰 vendida anticipada | -0.99 |
-| Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ⏳ pendiente | — |
+| Gambler661 | Istanbul 3: Marek Gengel vs Christian La | Christian Langmo (BUY) | 94% | 5.00 | 48.9% | ✅ ganada | +0.30 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Yosuke Watanuki vs Marat Shari | Yosuke Watanuki (BUY) | 53% | 5.00 | 10.2% | ⏳ pendiente | — |
 | thatguythatguy | Counter-Strike: Sinners vs Phantom (BO3) | Phantom (BUY) | 48% | 5.00 | 35.2% | ⏳ pendiente | — |
 |  | Genoa: Maximo Zeitune vs Giuseppe La Vel | Maximo Zeitune (BUY) | 58% | 5.00 | 20.4% | ✅ ganada | +3.52 |
