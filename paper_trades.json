@@ -109552,8 +109552,8 @@
     "title": "Counter-Strike: Nuclear TigeRES vs CYBERSHOKE Esports (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
     "outcome": "CYBERSHOKE Esports",
     "side": "BUY",
-    "whale_usd": 18048.8035,
-    "whale_pct": 551.663,
+    "whale_usd": 21097.4743,
+    "whale_pct": 644.846,
     "whale_value_at_open": 3271.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -109564,8 +109564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788772516.2693086,
-    "fills": 7
+    "last_fill_at": 1788773414.5865693,
+    "fills": 8
   },
   {
     "timestamp": 1788759923,
@@ -110269,6 +110269,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788773279.47448,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788773415,
+    "timestamp_added": 1788773416.2577996,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-sin2-pha-2026-09-07",
+    "title": "Counter-Strike: Sinners vs Phantom (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+    "outcome": "Phantom",
+    "side": "BUY",
+    "whale_usd": 3721.8407,
+    "whale_pct": 8.078,
+    "whale_value_at_open": 46073.3325,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788773416.2578113,
     "fills": 1
   }
 ]
