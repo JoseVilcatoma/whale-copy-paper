@@ -1,5 +1,5 @@
 {
-  "bankroll": 384.5960939582391,
+  "bankroll": 382.6894272915725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21720,6 +21720,16 @@
       "timestamp": 1788747201.5660148,
       "bankroll": 384.6,
       "event": "won: ferrariChampions2026 \u2014 Will Club Le\u00f3n FC win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788747263.7169988,
+      "bankroll": 387.83,
+      "event": "won: Flaznorp \u2014 Club Le\u00f3n FC vs. CF Am\u00e9rica: O/U 3.5"
+    },
+    {
+      "timestamp": 1788747266.8691223,
+      "bankroll": 382.69,
+      "event": "lost: ferrariChampions2026 \u2014 Club Le\u00f3n FC vs. CF Am\u00e9rica: O/U 0.5"
     }
   ]
 }
