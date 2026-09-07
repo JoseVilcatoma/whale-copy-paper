@@ -110848,8 +110848,8 @@
     "title": "Counter-Strike: 9z vs 5star (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 29495.067100000004,
-    "whale_pct": 61.1,
+    "whale_usd": 31115.034100000004,
+    "whale_pct": 64.456,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -110860,8 +110860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801291.960277,
-    "fills": 6
+    "last_fill_at": 1788804342.7898335,
+    "fills": 7
   },
   {
     "timestamp": 1788793226,
@@ -111799,6 +111799,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788804186.0218146,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788804429,
+    "timestamp_added": 1788804430.6832676,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nym-mia-2026-09-07",
+    "title": "New York Mets vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 507.545,
+    "whale_pct": 0.109,
+    "whale_value_at_open": 463948.7487,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788804430.6832778,
     "fills": 1
   }
 ]
