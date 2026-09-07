@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 22:05:03 (hora de Perú)
+Actualizado: 2026-09-06 22:07:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $373.78
-**Retorno acumulado:** -25.24%
+**Bankroll actual:** $371.37
+**Retorno acumulado:** -25.73%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 22:05:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $158.78)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $161.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -116,7 +116,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | BrotherObama | 7 | 8 | 0 | -10.47 USD |
-| Flaznorp | 64 | 23 | 7 | -11.01 USD |
+| Flaznorp | 65 | 24 | 5 | -13.42 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 575 | 359 | 9 | -210.70 USD |
+| ferrariChampions2026 | 575 | 359 | 10 | -210.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4167
-- **Aciertos:** 2638 (63.3%)
+- **Apuestas resueltas:** 4169
+- **Aciertos:** 2639 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,810.24
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $385.45 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,820.24
+- **ROI sobre lo apostado:** -1.23%
+- **Comisiones pagadas (taker fee):** $385.55 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -150,8 +150,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2122 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1252 | 69.6% | 67.8% | +1.8 pp |
-| 80-94% | 554 | 85.4% | 86.6% | -1.2 pp |
+| 60-79% | 1253 | 69.6% | 67.8% | +1.8 pp |
+| 80-94% | 555 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 239 | 96.7% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -848,6 +848,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 70% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 41% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -877,4 +878,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ✅ ganada | +1.97 |
 | Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ❌ perdida | -5.09 |
 | Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
-| Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Under (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |

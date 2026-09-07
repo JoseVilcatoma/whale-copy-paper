@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.78400792710954,
+  "bankroll": 371.37231561941724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21815,6 +21815,16 @@
       "timestamp": 1788750294.4888444,
       "bankroll": 373.78,
       "event": "won: Flaznorp \u2014 SC Corinthians Paulista vs. Associa\u00e7\u00e3o Chapecoense de Futebol: O/U 2.5"
+    },
+    {
+      "timestamp": 1788750358.2059512,
+      "bankroll": 368.77,
+      "event": "lost: Flaznorp \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788750358.3061018,
+      "bankroll": 371.37,
+      "event": "won: Flaznorp \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-09-06?"
     }
   ]
 }
