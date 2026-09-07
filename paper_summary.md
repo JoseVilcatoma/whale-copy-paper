@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 05:27:10 (hora de Perú)
+Actualizado: 2026-09-07 05:29:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $334.89
@@ -857,7 +857,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Genoa: Massimo Giunta vs Oleksii Krutykh | Oleksii Krutykh (BUY) | 42% | 5.00 | 39.9% | ⏳ pendiente | — |
+|  | Genoa: Massimo Giunta vs Oleksii Krutykh | Oleksii Krutykh (BUY) | 42% | 5.00 | 57.0% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Shanghai: Hayato Matsuoka vs Jake Delane | Hayato Matsuoka (BUY) | 69% | 5.00 | 19.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FF (-1.5) vs Strael-Bora ( | Fire Flux Esports (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cassis: Maxime Janvier vs Oskari Paldani | Oskari Paldanius (BUY) | 43% | 5.00 | 158.2% | ⏳ pendiente | — |

@@ -110502,8 +110502,8 @@
     "title": "Genoa: Massimo Giunta vs Oleksii Krutykh",
     "outcome": "Oleksii Krutykh",
     "side": "BUY",
-    "whale_usd": 17499.999999,
-    "whale_pct": 39.872,
+    "whale_usd": 24999.999999,
+    "whale_pct": 56.96,
     "whale_value_at_open": 43890.4837,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -110514,7 +110514,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788776740.1807427,
-    "fills": 2
+    "last_fill_at": 1788776858.8481703,
+    "fills": 3
   }
 ]
