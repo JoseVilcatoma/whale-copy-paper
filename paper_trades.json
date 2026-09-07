@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 12528.5166,
-    "whale_pct": 25.953,
+    "whale_usd": 13328.7615,
+    "whale_pct": 27.611,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788804029.5167942,
-    "fills": 7
+    "last_fill_at": 1788805814.219056,
+    "fills": 8
   },
   {
     "timestamp": 1788794107,
@@ -111738,8 +111738,8 @@
     "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 3967.398,
-    "whale_pct": 3.142,
+    "whale_usd": 6805.6011,
+    "whale_pct": 5.389,
     "whale_value_at_open": 126281.5975,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -111750,8 +111750,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788804027.14767,
-    "fills": 1
+    "last_fill_at": 1788805816.3312392,
+    "fills": 2
   },
   {
     "timestamp": 1788804035,
@@ -111875,5 +111875,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788805394.7320404,
     "fills": 6
+  },
+  {
+    "timestamp": 1788805817,
+    "timestamp_added": 1788805817.9175756,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-mibr-mglz-2026-09-08-map-handicap-home-1pt5",
+    "title": "Map Handicap: MGLZ (-1.5) vs MIBR (+1.5)",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 2794.2794,
+    "whale_pct": 1.718,
+    "whale_value_at_open": 162690.1025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788805817.9175858,
+    "fills": 1
   }
 ]

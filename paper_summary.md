@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 13:28:26 (hora de Perú)
+Actualizado: 2026-09-07 13:30:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $295.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 13:28:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $277.53 en 56 posiciones abiertas (disponible para nuevas apuestas: $18.41)
+**Capital comprometido ahora mismo:** $282.53 en 57 posiciones abiertas (disponible para nuevas apuestas: $13.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 18 | 9 | 0 | +18.71 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 67 | 40 | 10 | +17.19 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 67 | 40 | 11 | +17.19 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -866,12 +866,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 1.7% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Udinese Calcio win on 2026-09-07? | No (BUY) | 68% | 5.00 | 32.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | sbsigner | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 55% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FaZe (-1.5) vs Alliance (+ | Alliance (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 46% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 1winstreak1 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 41% | 5.00 | 7.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -895,4 +896,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 8.3% | ❌ perdida | -5.08 |
 | sbsigner | Will Cagliari Calcio win on 2026-09-07? | No (BUY) | 57% | 5.00 | 37.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Mirra Andreeva vs Anastasia | Mirra Andreeva (BUY) | 57% | 5.00 | 5.4% | ✅ ganada | +3.66 |
-| totoro3miyazaki | Will Getafe CF win on 2026-09-07? | No (BUY) | 65% | 5.00 | 167.0% | ⏳ pendiente | — |
