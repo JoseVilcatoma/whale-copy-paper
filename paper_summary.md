@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 17:59:01 (hora de Perú)
+Actualizado: 2026-09-07 18:01:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 17:59:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $160.07)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $150.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 15 | 13 | 1 | +5.19 USD |
-| wr0ngw4yb3tt0r | 45 | 34 | 1 | +4.30 USD |
+| wr0ngw4yb3tt0r | 45 | 34 | 3 | +4.30 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -867,12 +867,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-bos-2026-09-07 | 1winstreak1, wr0ngw4yb3tt0r |
 | mlb-wsh-sd-2026-09-07-total-8pt5 | Talvez10, ferrariChampions2026 |
 | atp-gea-zandsch-2026-09-07 | , ferrariChampions2026 |
+| cfb-smu-flst-2026-09-07 | Feromont, wr0ngw4yb3tt0r |
 | bra-vit-gre-2026-09-07-vit | sbsigner, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 13.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 29.3% | ⏳ pendiente | — |
@@ -901,5 +904,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins: O/U 14. | Under (BUY) | 49% | 2.53 | 1.0% | ✅ ganada | +2.57 |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | Miami Marlins (BUY) | 51% | 5.00 | 0.1% | ❌ perdida | -5.12 |
 | sbsigner | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 55% | 5.00 | 8.0% | ❌ perdida | -5.11 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FaZe (-1.5) vs Alliance (+ | Alliance (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 46% | 5.00 | 6.9% | ⏳ pendiente | — |
