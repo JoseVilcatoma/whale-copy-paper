@@ -109016,5 +109016,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788748982.4175246,
     "fills": 2
+  },
+  {
+    "timestamp": 1788750098,
+    "timestamp_added": 1788750099.0607069,
+    "username": "1winstreak1",
+    "wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+    "slug": "mlb-wsh-lad-2026-09-06-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 1034.3899999999999,
+    "whale_pct": 2.236,
+    "whale_value_at_open": 46256.632,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788750099.0607207,
+    "fills": 1
   }
 ]
