@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 19:29:05 (hora de Perú)
+Actualizado: 2026-09-06 19:31:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $408.52
-**Retorno acumulado:** -18.30%
+**Bankroll actual:** $401.40
+**Retorno acumulado:** -19.72%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 19:29:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $98.52)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $96.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 42 | 12 | 34 | +6.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -83,6 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| Flaznorp | 43 | 14 | 33 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -133,14 +133,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4120
-- **Aciertos:** 2609 (63.3%)
+- **Apuestas resueltas:** 4123
+- **Aciertos:** 2610 (63.3%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,575.24
-- **ROI sobre lo apostado:** -1.06%
-- **Comisiones pagadas (taker fee):** $381.45 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,590.24
+- **ROI sobre lo apostado:** -1.09%
+- **Comisiones pagadas (taker fee):** $381.77 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2106 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1232 | 69.6% | 67.8% | +1.8 pp |
+| 40-59% | 2107 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1234 | 69.5% | 67.7% | +1.8 pp |
 | 80-94% | 545 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 237 | 96.6% | 97.3% | -0.7 pp |
 
@@ -832,12 +832,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shelton-tsitsip-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | wta-pegula-cirstea-2026-09-06 | Flaznorp, ferrariChampions2026 |
 | cfb-lou-miss-2026-09-06-spread-home-6pt5 | 1winstreak1, wr0ngw4yb3tt0r |
+| mlb-min-cws-2026-09-06-total-5pt5 | Flaznorp, ferrariChampions2026 |
 | cfb-lou-miss-2026-09-06-spread-home-5pt5 | 1winstreak1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Associação Chapecoense de Futebol w | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -854,11 +857,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1winstreak1 | Spread: Ole Miss (-5.5) | Louisville (BUY) | 51% | 5.00 | 14.2% | ⏳ pendiente | — |
 | 1winstreak1 | Spread: Ole Miss (-6.5) | Louisville (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | SC Corinthians Paulista vs. Associação C | Over (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | CA River Plate vs. CS Independiente Riva | Under (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Club León FC vs. CF América: O/U 0.5 | Under (BUY) | 44% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-6.5) | Louisville (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Shelton vs Tsitsipas | Shelton (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| Flaznorp | CA River Plate vs. CS Independiente Riva | Over (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | CA River Plate vs. CS Independiente Riva | Over (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
 | Flaznorp | US Open WTA: Jessica Pegula vs Sorana Ci | Jessica Pegula (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-6.5) | Ole Miss (BUY) | 52% | 5.00 | 7.1% | ⏳ pendiente | — |
@@ -866,5 +869,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | Yes (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 1winstreak1 | Wisconsin vs. Notre Dame | Notre Dame (BUY) | 94% | 5.00 | 215.2% | ⏳ pendiente | — |
 | Flaznorp | Will CS Cartaginés win on 2026-09-06? | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | CF Cruz Azul vs. Club Santos Laguna: O/U | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Stefanos Tsi | Ben Shelton (BUY) | 74% | 5.00 | 13.1% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 408.5243174465542,
+  "bankroll": 401.40103875802964,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21580,6 +21580,21 @@
       "timestamp": 1788740561.1244266,
       "bankroll": 408.52,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Shelton vs Tsitsipas"
+    },
+    {
+      "timestamp": 1788741001.3799367,
+      "bankroll": 403.43,
+      "event": "lost: Flaznorp \u2014 CA River Plate vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1788741006.0178757,
+      "bankroll": 406.53,
+      "event": "won: Flaznorp \u2014 CA River Plate vs. CS Independiente Rivadavia: O/U 2.5"
+    },
+    {
+      "timestamp": 1788741006.8035433,
+      "bankroll": 401.4,
+      "event": "lost: Flaznorp \u2014 CA River Plate vs. CS Independiente Rivadavia: O/U 3.5"
     }
   ]
 }
