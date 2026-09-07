@@ -107435,8 +107435,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -107627,8 +107627,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "Flaznorp"
     ],

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:42:17 (hora de Perú)
+Actualizado: 2026-09-06 20:44:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $382.67
-**Retorno acumulado:** -23.47%
+**Bankroll actual:** $386.14
+**Retorno acumulado:** -22.77%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:42:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $92.67)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $106.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -98,6 +98,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
+| Flaznorp | 51 | 17 | 26 | -3.74 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -105,7 +106,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| Flaznorp | 50 | 17 | 27 | -5.52 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
@@ -130,18 +130,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 573 | 358 | 8 | -208.77 USD |
+| ferrariChampions2026 | 574 | 358 | 7 | -207.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4142
-- **Aciertos:** 2621 (63.3%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 4144
+- **Aciertos:** 2623 (63.3%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,685.24
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $383.33 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,695.24
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $383.46 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -150,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2113 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1241 | 69.5% | 67.7% | +1.7 pp |
+| 60-79% | 1243 | 69.5% | 67.7% | +1.8 pp |
 | 80-94% | 550 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
 

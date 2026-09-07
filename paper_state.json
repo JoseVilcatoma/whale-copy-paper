@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.6666107599048,
+  "bankroll": 386.13968258515473,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21690,6 +21690,16 @@
       "timestamp": 1788745078.7565634,
       "bankroll": 382.67,
       "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1788745392.7333436,
+      "bankroll": 384.45,
+      "event": "won: Flaznorp \u2014 US Open ATP: Ben Shelton vs Stefanos Tsitsipas"
+    },
+    {
+      "timestamp": 1788745393.4343824,
+      "bankroll": 386.14,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Stefanos Tsitsipas"
     }
   ]
 }
