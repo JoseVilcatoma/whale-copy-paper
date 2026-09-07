@@ -1,5 +1,5 @@
 {
-  "bankroll": 305.992941692427,
+  "bankroll": 303.0963185040212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22390,6 +22390,16 @@
       "timestamp": 1788808876.2847805,
       "bankroll": 305.99,
       "event": "lost: 1winstreak1 \u2014 Atlanta Braves vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1788809190.8876545,
+      "bankroll": 308.16,
+      "event": "won: sbsigner \u2014 Will RC Celta de Vigo win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788809191.2437022,
+      "bankroll": 303.1,
+      "event": "lost: sbsigner \u2014 Will Getafe CF vs. RC Celta de Vigo end in a draw?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 14:26:08 (hora de Perú)
+Actualizado: 2026-09-07 14:28:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $305.99
-**Retorno acumulado:** -38.80%
+**Bankroll actual:** $303.10
+**Retorno acumulado:** -39.38%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 14:26:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.53 en 46 posiciones abiertas (disponible para nuevas apuestas: $78.46)
+**Capital comprometido ahora mismo:** $222.53 en 45 posiciones abiertas (disponible para nuevas apuestas: $80.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,9 +127,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 6 | 1 | -18.45 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
-| sbsigner | 5 | 7 | 5 | -20.15 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| 1winstreak1 | 31 | 20 | 2 | -23.38 USD |
+| sbsigner | 6 | 8 | 3 | -23.05 USD |
+| 1winstreak1 | 31 | 20 | 3 | -23.38 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | AV23IUa | 38 | 29 | 2 | -26.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -139,14 +139,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4280
-- **Aciertos:** 2701 (63.1%)
+- **Apuestas resueltas:** 4282
+- **Aciertos:** 2702 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,375.24
-- **ROI sobre lo apostado:** -1.49%
-- **Comisiones pagadas (taker fee):** $396.22 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,385.24
+- **ROI sobre lo apostado:** -1.51%
+- **Comisiones pagadas (taker fee):** $396.37 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,7 +155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2182 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1285 | 69.0% | 67.8% | +1.3 pp |
+| 60-79% | 1287 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 569 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 244 | 96.7% | 97.3% | -0.6 pp |
 
@@ -868,6 +868,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | Cleveland Guardians vs. Baltimore Oriole | Under (BUY) | 53% | 5.00 | 6.0% | ⏳ pendiente | — |
 | 1winstreak1 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 49% | 5.00 | 27.0% | ⏳ pendiente | — |
 | 1winstreak1 | Atlanta Braves vs. Philadelphia Phillies | Atlanta Braves (BUY) | 44% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MGLZ (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 74% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -881,11 +882,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Angels vs. Boston Red Sox | Boston Red Sox (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | New York Mets vs. Miami Marlins | New York Mets (BUY) | 74% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 54% | 5.00 | 5.8% | ⏳ pendiente | — |
-| sbsigner | Will Getafe CF vs. RC Celta de Vigo end  | No (BUY) | 74% | 5.00 | 30.4% | ⏳ pendiente | — |
+| sbsigner | Will Getafe CF vs. RC Celta de Vigo end  | No (BUY) | 74% | 5.00 | 30.4% | ❌ perdida | -5.07 |
 | sbsigner | Counter-Strike: Nuclear TigeRES vs CYBER | Nuclear TigeRES (BUY) | 56% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Dali | Genaro Alberto Olivieri (BUY) | 54% | 5.00 | 5.8% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Atlanta Braves vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 0.2% | ✅ ganada | +4.50 |
-| sbsigner | Will RC Celta de Vigo win on 2026-09-07? | No (BUY) | 69% | 5.00 | 9.5% | ⏳ pendiente | — |
+| sbsigner | Will RC Celta de Vigo win on 2026-09-07? | No (BUY) | 69% | 5.00 | 9.5% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Talvez10 | New York Mets vs. Miami Marlins: O/U 8.5 | Over (BUY) | 49% | 5.00 | 15.5% | ✅ ganada | +5.08 |
@@ -897,4 +898,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Maxime Chazal | Titouan Droguet (BUY) | 84% | 5.00 | 5.5% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Seville: Petr Brunclik vs Alejandro Moro | Petr Brunclik (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Getafe CF vs. RC Celta de Vigo: O/U 1.5 | Over (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Iga Swiatek vs Qinwen Zheng | Iga Swiatek (BUY) | 67% | 5.00 | 8.3% | ❌ perdida | -5.08 |
