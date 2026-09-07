@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 8625.017104,
-    "whale_pct": 4.151,
+    "whale_usd": 13515.749304,
+    "whale_pct": 6.504,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788739202.817597,
-    "fills": 8
+    "last_fill_at": 1788740663.363473,
+    "fills": 9
   },
   {
     "timestamp": 1788722393,
@@ -107524,8 +107524,8 @@
     "title": "Louisville vs. Ole Miss",
     "outcome": "Ole Miss",
     "side": "BUY",
-    "whale_usd": 86802.23329199999,
-    "whale_pct": 38.2,
+    "whale_usd": 106213.997997,
+    "whale_pct": 46.742,
     "whale_value_at_open": 227233.2358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -107536,8 +107536,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788739830.6804636,
-    "fills": 5
+    "last_fill_at": 1788740695.088949,
+    "fills": 6
   },
   {
     "timestamp": 1788736138,
