@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.3510023932195,
+  "bankroll": 387.3070840258726,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21960,6 +21960,16 @@
       "timestamp": 1788753606.3074522,
       "bankroll": 387.35,
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Louisville vs. Ole Miss"
+    },
+    {
+      "timestamp": 1788755060.640675,
+      "bankroll": 392.43,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788755060.8409455,
+      "bankroll": 387.31,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 8.5"
     }
   ]
 }
