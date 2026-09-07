@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 2229.824474,
-    "whale_pct": 3.115,
+    "whale_usd": 3053.778177,
+    "whale_pct": 4.266,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,7 +111052,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795077.1894,
-    "fills": 2
+    "last_fill_at": 1788795293.523891,
+    "fills": 3
   }
 ]
