@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 19449.819577,
-    "whale_pct": 27.169,
+    "whale_usd": 20119.007077,
+    "whale_pct": 28.104,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,8 +111052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788801287.862989,
-    "fills": 12
+    "last_fill_at": 1788803107.7402549,
+    "fills": 13
   },
   {
     "timestamp": 1788796118,
@@ -111613,8 +111613,8 @@
     "title": "Will Getafe CF vs. RC Celta de Vigo end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 16558.823329,
-    "whale_pct": 21.049,
+    "whale_usd": 23921.318629,
+    "whale_pct": 30.407,
     "whale_value_at_open": 78669.5675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111625,8 +111625,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788802763.2555299,
-    "fills": 4
+    "last_fill_at": 1788803078.709679,
+    "fills": 5
   },
   {
     "timestamp": 1788802745,
