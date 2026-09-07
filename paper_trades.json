@@ -105570,8 +105570,8 @@
     "title": "Wisconsin vs. Notre Dame",
     "outcome": "Notre Dame",
     "side": "BUY",
-    "whale_usd": 13515.749304,
-    "whale_pct": 6.504,
+    "whale_usd": 14113.946904,
+    "whale_pct": 6.792,
     "whale_value_at_open": 207794.8675,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -105582,8 +105582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788740663.363473,
-    "fills": 9
+    "last_fill_at": 1788740854.9723892,
+    "fills": 10
   },
   {
     "timestamp": 1788722393,
@@ -108316,5 +108316,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788740181.101096,
     "fills": 1
+  },
+  {
+    "timestamp": 1788740836,
+    "timestamp_added": 1788740836.4918704,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "col1-dep-mif-2026-09-06-mif",
+    "title": "Will Millonarios FC win on 2026-09-06?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1208.569998,
+    "whale_pct": 0.397,
+    "whale_value_at_open": 304528.8638,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788740837.1185946,
+    "fills": 2
   }
 ]
