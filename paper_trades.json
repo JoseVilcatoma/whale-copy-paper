@@ -107524,8 +107524,8 @@
     "title": "Louisville vs. Ole Miss",
     "outcome": "Ole Miss",
     "side": "BUY",
-    "whale_usd": 111457.235397,
-    "whale_pct": 49.05,
+    "whale_usd": 112499.233397,
+    "whale_pct": 49.508,
     "whale_value_at_open": 227233.2358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -107536,8 +107536,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788741305.5630426,
-    "fills": 10
+    "last_fill_at": 1788743636.0632634,
+    "fills": 11
   },
   {
     "timestamp": 1788736138,
