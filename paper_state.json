@@ -1,5 +1,5 @@
 {
-  "bankroll": 394.98150321201433,
+  "bankroll": 387.2902607877719,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21625,6 +21625,21 @@
       "timestamp": 1788743196.1677659,
       "bankroll": 394.98,
       "event": "lost: Flaznorp \u2014 Will CD Universidad Catolica del Ecuador win on 2026-09-06?"
+    },
+    {
+      "timestamp": 1788743383.261708,
+      "bankroll": 389.92,
+      "event": "lost: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1788743384.1830492,
+      "bankroll": 384.8,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. Chicago White Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1788743384.6894355,
+      "bankroll": 387.29,
+      "event": "won: Flaznorp \u2014 Minnesota Twins vs. Chicago White Sox: O/U 6.5"
     }
   ]
 }

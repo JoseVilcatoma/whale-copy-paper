@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-06 20:08:50 (hora de Perú)
+Actualizado: 2026-09-06 20:10:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $394.98
-**Retorno acumulado:** -21.00%
+**Bankroll actual:** $387.29
+**Retorno acumulado:** -22.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-06 20:08:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $54.98)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $62.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| Flaznorp | 46 | 15 | 33 | -2.64 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
@@ -105,6 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| Flaznorp | 47 | 16 | 31 | -5.21 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Talvez10 | 12 | 11 | 0 | -8.07 USD |
@@ -129,18 +129,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 572 | 356 | 9 | -201.74 USD |
+| ferrariChampions2026 | 572 | 357 | 8 | -206.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4129
-- **Aciertos:** 2614 (63.3%)
+- **Apuestas resueltas:** 4132
+- **Aciertos:** 2615 (63.3%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $20,620.24
-- **ROI sobre lo apostado:** -1.12%
-- **Comisiones pagadas (taker fee):** $382.05 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $20,635.24
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $382.32 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -148,8 +148,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2107 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1236 | 69.5% | 67.7% | +1.7 pp |
+| 40-59% | 2108 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1238 | 69.5% | 67.8% | +1.7 pp |
 | 80-94% | 548 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 238 | 96.6% | 97.3% | -0.7 pp |
 
@@ -852,10 +852,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Notre Dame (-21.5) | Notre Dame (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | CSD Municipal vs. Deportivo San Pedro: D | Under (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago White Sox (-2.5) | Chicago White Sox (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ⏳ pendiente | — |
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |
 | 1winstreak1 | Spread: Ole Miss (-7.5) | Ole Miss (BUY) | 55% | 5.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ole Miss (-7.5) | Louisville (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Over (BUY) | 71% | 5.00 | 0.5% | ✅ ganada | +1.97 |
 | Flaznorp | Racing Club vs. CA Tucumán: O/U 2.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Millonarios FC win on 2026-09-06? | No (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -863,7 +863,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Associação Chapecoense de Futebol w | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Associação Chapecoense de Futebol w | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will SC Corinthians Paulista win on 2026 | No (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Minnesota Twins vs. Chicago White Sox: O | Under (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
 | Flaznorp | Will SC Corinthians Paulista win on 2026 | Yes (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 1winstreak1 | Louisville vs. Ole Miss: O/U 57.5 | Under (BUY) | 67% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club León FC win on 2026-09-06? | Yes (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
