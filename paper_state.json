@@ -1,5 +1,5 @@
 {
-  "bankroll": 408.2741595518174,
+  "bankroll": 408.5243174465542,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21575,6 +21575,11 @@
       "timestamp": 1788739743.9371157,
       "bankroll": 408.27,
       "event": "won: 1winstreak1 \u2014 Spread: Miami Marlins (-6.5)"
+    },
+    {
+      "timestamp": 1788740561.1244266,
+      "bankroll": 408.52,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Shelton vs Tsitsipas"
     }
   ]
 }
