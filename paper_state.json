@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.3070840258726,
+  "bankroll": 387.55724192060944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21970,6 +21970,11 @@
       "timestamp": 1788755060.8409455,
       "bankroll": 387.31,
       "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788757321.8687887,
+      "bankroll": 387.56,
+      "event": "won: Flaznorp \u2014 CSD Municipal vs. Deportivo San Pedro: Deportivo San Pedro O/U 0.5"
     }
   ]
 }
