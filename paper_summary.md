@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 01:10:17 (hora de Perú)
+Actualizado: 2026-09-07 01:12:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.07
@@ -860,7 +860,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 60% | 5.00 | 37.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Udinese Calcio vs. SS Lazio: O/U 2.5 | Over (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Martin Borisiouk vs Ethan  | Martin Borisiouk (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 31.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Hiroki Moriya (BUY) | 64% | 5.00 | 32.3% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Dong Ju Kim vs Kristjan Ta | Dong Ju Kim (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Washington Nationals (BUY) | 61% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
