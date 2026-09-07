@@ -109194,5 +109194,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788752684.272965,
     "fills": 1
+  },
+  {
+    "timestamp": 1788752892,
+    "timestamp_added": 1788752893.3288763,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-lad-2026-09-06-total-11pt5",
+    "title": "Washington Nationals vs. Los Angeles Dodgers: O/U 11.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4714.285714,
+    "whale_pct": 3.614,
+    "whale_value_at_open": 130458.5857,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788752893.3288867,
+    "fills": 1
   }
 ]
