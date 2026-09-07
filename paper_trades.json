@@ -107775,8 +107775,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -107897,8 +107897,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -107993,8 +107993,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -108019,8 +108019,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -108115,8 +108115,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "1winstreak1"
     ],
@@ -108684,8 +108684,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -109052,8 +109052,8 @@
     "title": "Washington Nationals vs. Los Angeles Dodgers",
     "outcome": "Washington Nationals",
     "side": "BUY",
-    "whale_usd": 11633.687058999998,
-    "whale_pct": 10.933,
+    "whale_usd": 12143.837058999998,
+    "whale_pct": 11.412,
     "whale_value_at_open": 106410.3906,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -109066,8 +109066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788752156.771995,
-    "fills": 4
+    "last_fill_at": 1788753510.2497725,
+    "fills": 5
   },
   {
     "timestamp": 1788750610,
@@ -109241,6 +109241,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788753378.13359,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788753404,
+    "timestamp_added": 1788753405.0330389,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-lad-2026-09-06-spread-away-1pt5",
+    "title": "Spread: Washington Nationals (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 2182.68,
+    "whale_pct": 1.452,
+    "whale_value_at_open": 150322.6339,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788753405.0330503,
     "fills": 1
   }
 ]

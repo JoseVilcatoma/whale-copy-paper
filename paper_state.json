@@ -1,5 +1,5 @@
 {
-  "bankroll": 390.458867539278,
+  "bankroll": 389.58679230918597,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -21915,6 +21915,36 @@
       "timestamp": 1788753357.8319829,
       "bankroll": 390.46,
       "event": "lost: 1winstreak1 \u2014 Spread: Ole Miss (-7.5)"
+    },
+    {
+      "timestamp": 1788753481.412063,
+      "bankroll": 385.34,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Ole Miss (-6.5)"
+    },
+    {
+      "timestamp": 1788753481.512231,
+      "bankroll": 390.41,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Ole Miss (-6.5)"
+    },
+    {
+      "timestamp": 1788753481.6124187,
+      "bankroll": 395.1,
+      "event": "won: 1winstreak1 \u2014 Spread: Ole Miss (-6.5)"
+    },
+    {
+      "timestamp": 1788753481.930684,
+      "bankroll": 399.78,
+      "event": "won: 1winstreak1 \u2014 Spread: Ole Miss (-5.5)"
+    },
+    {
+      "timestamp": 1788753482.0308056,
+      "bankroll": 394.65,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Ole Miss (-5.5)"
+    },
+    {
+      "timestamp": 1788753482.33134,
+      "bankroll": 389.59,
+      "event": "lost: 1winstreak1 \u2014 Spread: Ole Miss (-5.5)"
     }
   ]
 }
