@@ -110476,8 +110476,8 @@
     "title": "Shanghai: Hayato Matsuoka vs Jake Delaney",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 2700.0,
-    "whale_pct": 19.608,
+    "whale_usd": 3824.2893999999997,
+    "whale_pct": 27.773,
     "whale_value_at_open": 13769.7307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -110490,8 +110490,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788776314.2842727,
-    "fills": 2
+    "last_fill_at": 1788777556.261264,
+    "fills": 3
   },
   {
     "timestamp": 1788776681,
