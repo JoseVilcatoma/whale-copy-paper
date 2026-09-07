@@ -109640,5 +109640,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788760829.8525777,
     "fills": 1
+  },
+  {
+    "timestamp": 1788760969,
+    "timestamp_added": 1788760970.2045445,
+    "username": "thatguythatguy",
+    "wallet": "0x31706006a0ef88b2b8f6d093efbc83b359fbc6a0",
+    "slug": "lol-drxc-dnsc-2026-09-07-game-handicap-home-1pt5",
+    "title": "Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
+    "outcome": "DN SOOPers Challengers",
+    "side": "BUY",
+    "whale_usd": 1663.26,
+    "whale_pct": 43.919,
+    "whale_value_at_open": 3787.1427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788760970.2045596,
+    "fills": 1
   }
 ]

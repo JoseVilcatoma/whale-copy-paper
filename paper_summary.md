@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 01:02:14 (hora de Perú)
+Actualizado: 2026-09-07 01:04:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $351.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 01:02:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $276.07)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $271.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| thatguythatguy | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -850,6 +851,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| thatguythatguy | Game Handicap: DNS.C (-1.5) vs Kiwoom DR | DN SOOPers Challengers (BUY) | 61% | 5.00 | 43.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs FORZE Re | FORZE Reload (BUY) | 41% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Dominik P | Dominik Palan (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: mellren vs Esport BERG ( | mellren (BUY) | 62% | 5.00 | 17.0% | ⏳ pendiente | — |
@@ -879,4 +881,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Washington Nationals (-1.5) | Los Angeles Dodgers (BUY) | 80% | 5.00 | 4.1% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Los Angeles Dodgers (BUY) | 64% | 5.00 | 12.3% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Washington Nationals (BUY) | 53% | 5.00 | 1.3% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Washington Nationals vs. Los Angeles Dod | Under (BUY) | 52% | 5.00 | 1.4% | ❌ perdida | -5.12 |
