@@ -108830,8 +108830,8 @@
     "title": "Wisconsin vs. Notre Dame: O/U 45.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 622.1600000000001,
-    "whale_pct": 1.001,
+    "whale_usd": 3813.91,
+    "whale_pct": 6.135,
     "whale_value_at_open": 62169.8667,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -108844,7 +108844,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788746193.9574733,
-    "fills": 1
+    "last_fill_at": 1788746246.0076807,
+    "fills": 2
   }
 ]
