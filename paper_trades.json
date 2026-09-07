@@ -111112,8 +111112,8 @@
     "title": "Will Cagliari Calcio win on 2026-09-07?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 120379.39869999999,
-    "whale_pct": 73.914,
+    "whale_usd": 123350.39749999999,
+    "whale_pct": 75.738,
     "whale_value_at_open": 162864.9174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -111126,8 +111126,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788796672.5510042,
-    "fills": 4
+    "last_fill_at": 1788799046.9772434,
+    "fills": 5
   },
   {
     "timestamp": 1788797511,
@@ -111138,8 +111138,8 @@
     "title": "Will Getafe CF win on 2026-09-07?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 148791.5569,
-    "whale_pct": 96.571,
+    "whale_usd": 193381.2031,
+    "whale_pct": 125.512,
     "whale_value_at_open": 154074.1167,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -111150,8 +111150,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798469.799914,
-    "fills": 6
+    "last_fill_at": 1788799016.2815957,
+    "fills": 7
   },
   {
     "timestamp": 1788798909,
@@ -111162,8 +111162,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 7808.4328000000005,
-    "whale_pct": 2.781,
+    "whale_usd": 11290.3924,
+    "whale_pct": 4.021,
     "whale_value_at_open": 280762.7555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -111176,7 +111176,34 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788798909.8950999,
+    "last_fill_at": 1788799080.8579533,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788799045,
+    "timestamp_added": 1788799045.9687655,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "sea-cag-lec-2026-09-07-cag",
+    "title": "Will Cagliari Calcio win on 2026-09-07?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3950.9736000000007,
+    "whale_pct": 6.733,
+    "whale_value_at_open": 58680.2545,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788799045.9687767,
     "fills": 1
   }
 ]
