@@ -109962,8 +109962,8 @@
     "title": "Shanghai: Mitsuki Wei Kang Leong vs Thijmen Loof",
     "outcome": "Thijmen Loof",
     "side": "BUY",
-    "whale_usd": 7383.772826,
-    "whale_pct": 6.769,
+    "whale_usd": 8165.792826000001,
+    "whale_pct": 7.486,
     "whale_value_at_open": 109084.281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -109974,8 +109974,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788770550.9013913,
-    "fills": 4
+    "last_fill_at": 1788771237.9832273,
+    "fills": 5
   },
   {
     "timestamp": 1788769385,
@@ -110097,6 +110097,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788770776.2718513,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788771164,
+    "timestamp_added": 1788771165.1184597,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-osaka-rybakin-2026-09-07",
+    "title": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "whale_usd": 19012.269999,
+    "whale_pct": 17.14,
+    "whale_value_at_open": 110923.8038,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788771165.118471,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788771276,
+    "timestamp_added": 1788771276.8673236,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-sin2-pha-2026-09-07",
+    "title": "Counter-Strike: Sinners vs Phantom (BO3) - 1win Private Club #1: Closed Qualifier Playoffs",
+    "outcome": "Sinners",
+    "side": "BUY",
+    "whale_usd": 1081.73,
+    "whale_pct": 3.262,
+    "whale_value_at_open": 33156.9946,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788771276.8673427,
     "fills": 1
   }
 ]
