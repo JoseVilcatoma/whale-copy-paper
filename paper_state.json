@@ -1,5 +1,5 @@
 {
-  "bankroll": 313.6450538555809,
+  "bankroll": 315.42636892407404,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22220,6 +22220,11 @@
       "timestamp": 1788786204.507368,
       "bankroll": 313.65,
       "event": "won: thatguythatguy \u2014 Game Handicap: DNS.C (-1.5) vs Kiwoom DRX Challengers (+1.5)"
+    },
+    {
+      "timestamp": 1788786844.439728,
+      "bankroll": 315.43,
+      "event": "won: zofgkt1111 \u2014 LoL: Anyone's Legend vs Bilibili Gaming - Game 2 Winner"
     }
   ]
 }
