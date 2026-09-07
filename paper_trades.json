@@ -110872,8 +110872,8 @@
     "title": "Map Handicap: LGC (-1.5) vs magic (+1.5)",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 773.43,
-    "whale_pct": 1.602,
+    "whale_usd": 1427.4618,
+    "whale_pct": 2.957,
     "whale_value_at_open": 48273.512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -110884,8 +110884,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788793227.3891263,
-    "fills": 1
+    "last_fill_at": 1788795912.1825755,
+    "fills": 2
   },
   {
     "timestamp": 1788794107,
@@ -110920,8 +110920,8 @@
     "title": "Games Total: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1361.3884,
-    "whale_pct": 2.253,
+    "whale_usd": 2085.2689,
+    "whale_pct": 3.45,
     "whale_value_at_open": 60435.1362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -110932,8 +110932,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788794112.6275127,
-    "fills": 1
+    "last_fill_at": 1788795917.9610798,
+    "fills": 2
   },
   {
     "timestamp": 1788794390,
@@ -111040,8 +111040,8 @@
     "title": "Map Handicap: 9z (-1.5) vs 5star (+1.5)",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 3053.778177,
-    "whale_pct": 4.266,
+    "whale_usd": 5373.678177,
+    "whale_pct": 7.506,
     "whale_value_at_open": 71587.1214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -111052,7 +111052,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788795293.523891,
-    "fills": 3
+    "last_fill_at": 1788795908.8778088,
+    "fills": 5
   }
 ]
