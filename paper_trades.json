@@ -110678,8 +110678,8 @@
     "title": "Seville: Jonas Forejtek vs Gerard Campana Lee",
     "outcome": "Gerard Campana Lee",
     "side": "BUY",
-    "whale_usd": 4665.727599999999,
-    "whale_pct": 27.92,
+    "whale_usd": 8540.5204,
+    "whale_pct": 51.106,
     "whale_value_at_open": 16711.2462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -110690,8 +110690,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788788900.2826035,
-    "fills": 2
+    "last_fill_at": 1788789062.8425627,
+    "fills": 5
   },
   {
     "timestamp": 1788788915,
