@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:45:00 (hora de Perú)
+Actualizado: 2026-09-07 22:47:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $300.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 22:45:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $85.20)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $70.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
-| Wiretransferxyz | 8 | 4 | 2 | +3.20 USD |
+| Wiretransferxyz | 8 | 4 | 3 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 |  | 16 | 14 | 1 | +2.90 USD |
@@ -135,8 +135,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 617 | 387 | 17 | -223.93 USD |
+|  | 62 | 51 | 1 | -114.47 USD |
+| ferrariChampions2026 | 617 | 387 | 18 | -223.93 USD |
 
 ## Análisis general
 
@@ -873,11 +873,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-smu-flst-2026-09-07 | , Feromont, martingaleking, wr0ngw4yb3tt0r |
 | bra-vit-gre-2026-09-07-vit | sbsigner, theowalcott |
 | mlb-stl-sf-2026-09-07 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
+| Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 25.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
 | SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ⏳ pendiente | — |
@@ -905,6 +909,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 48% | 5.00 | 2.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Nao Hibino vs Maria Torres | Nao Hibino (BUY) | 97% | 5.00 | 7.2% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Athletics (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
