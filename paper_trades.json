@@ -115426,8 +115426,8 @@
     "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 59562.15440000001,
-    "whale_pct": 39.78,
+    "whale_usd": 130020.62640000001,
+    "whale_pct": 86.838,
     "whale_value_at_open": 149727.9894,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -115440,7 +115440,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788891427.1406822,
-    "fills": 1
+    "last_fill_at": 1788891571.0077512,
+    "fills": 2
   }
 ]
