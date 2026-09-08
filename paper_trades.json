@@ -113884,5 +113884,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788849627.1430852,
     "fills": 1
+  },
+  {
+    "timestamp": 1788849719,
+    "timestamp_added": 1788849719.9458084,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "ucl-por-mnc-2026-09-08-mnc",
+    "title": "Will Manchester City FC win on 2026-09-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1861.969999,
+    "whale_pct": 3.466,
+    "whale_value_at_open": 53720.0816,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788849719.945817,
+    "fills": 1
   }
 ]
