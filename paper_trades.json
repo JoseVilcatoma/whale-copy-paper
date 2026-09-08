@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 25484.367430000002,
-    "whale_pct": 13.865,
+    "whale_usd": 28798.737230000002,
+    "whale_pct": 15.668,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788833057.59442,
-    "fills": 7
+    "last_fill_at": 1788834437.4071279,
+    "fills": 8
   },
   {
     "timestamp": 1788832016,
