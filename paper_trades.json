@@ -112798,8 +112798,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 97562.11310000002,
-    "whale_pct": 40.756,
+    "whale_usd": 103162.11310000002,
+    "whale_pct": 43.095,
     "whale_value_at_open": 239380.7024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -112813,8 +112813,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788833202.804342,
-    "fills": 10
+    "last_fill_at": 1788833251.2304525,
+    "fills": 11
   },
   {
     "timestamp": 1788829404,
