@@ -1,5 +1,5 @@
 {
-  "bankroll": 271.45774029178256,
+  "bankroll": 273.0068776702958,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22865,6 +22865,21 @@
       "timestamp": 1788845378.6643267,
       "bankroll": 271.46,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: 9z (-1.5) vs 5star (+1.5)"
+    },
+    {
+      "timestamp": 1788847913.2728627,
+      "bankroll": 272.58,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Florent Bax vs Maximus Jones"
+    },
+    {
+      "timestamp": 1788847914.1708088,
+      "bankroll": 278.09,
+      "event": "won:  \u2014 Phan Thiet 3: Florent Bax vs Maximus Jones"
+    },
+    {
+      "timestamp": 1788847914.9107237,
+      "bankroll": 273.01,
+      "event": "lost:  \u2014 Phan Thiet 3: Florent Bax vs Maximus Jones"
     }
   ]
 }
