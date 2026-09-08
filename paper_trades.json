@@ -112430,8 +112430,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 2788.724,
-    "whale_pct": 1.158,
+    "whale_usd": 6293.770867,
+    "whale_pct": 2.614,
     "whale_value_at_open": 240785.8421,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -112444,8 +112444,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788819525.7365007,
-    "fills": 1
+    "last_fill_at": 1788825570.9596758,
+    "fills": 2
   },
   {
     "timestamp": 1788820935,
