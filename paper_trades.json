@@ -112163,8 +112163,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -112513,8 +112513,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "Feromont"
     ],
@@ -112880,8 +112880,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "Feromont",
       "wr0ngw4yb3tt0r"
@@ -113057,8 +113057,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [
       "",
       "Feromont",
@@ -113650,8 +113650,8 @@
     "title": "Counter-Strike: Legacy vs magic (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 8151.080400000001,
-    "whale_pct": 26.22,
+    "whale_usd": 11557.840400000001,
+    "whale_pct": 37.179,
     "whale_value_at_open": 31087.2394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -113662,8 +113662,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788843400.9337325,
-    "fills": 2
+    "last_fill_at": 1788843889.4232833,
+    "fills": 3
   },
   {
     "timestamp": 1788843474,
