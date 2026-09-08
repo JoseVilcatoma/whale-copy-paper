@@ -112798,8 +112798,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 89091.024,
-    "whale_pct": 37.217,
+    "whale_usd": 93118.08410000001,
+    "whale_pct": 38.9,
     "whale_value_at_open": 239380.7024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -112813,8 +112813,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829916.7969224,
-    "fills": 7
+    "last_fill_at": 1788832484.9034877,
+    "fills": 8
   },
   {
     "timestamp": 1788829404,
@@ -112951,8 +112951,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 38015.799704,
-    "whale_pct": 11.515,
+    "whale_usd": 39466.984703999995,
+    "whale_pct": 11.955,
     "whale_value_at_open": 330133.3552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -112966,8 +112966,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832148.094068,
-    "fills": 13
+    "last_fill_at": 1788832492.0577285,
+    "fills": 15
   },
   {
     "timestamp": 1788831018,
@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 11733.642660000001,
-    "whale_pct": 6.384,
+    "whale_usd": 12375.047080000002,
+    "whale_pct": 6.733,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832454.6894753,
-    "fills": 5
+    "last_fill_at": 1788832480.367403,
+    "fills": 6
   },
   {
     "timestamp": 1788832016,
