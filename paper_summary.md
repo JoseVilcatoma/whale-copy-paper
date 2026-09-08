@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 05:41:17 (hora de Perú)
+Actualizado: 2026-09-08 05:42:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $258.88
-**Retorno acumulado:** -48.22%
+**Bankroll actual:** $261.16
+**Retorno acumulado:** -47.77%
 **Peor caída desde un máximo (drawdown):** 58.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 05:41:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $118.88)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $126.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,19 +138,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 69 | 57 | 6 | -129.20 USD |
+|  | 70 | 57 | 5 | -126.93 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4402
-- **Aciertos:** 2773 (63.0%)
+- **Apuestas resueltas:** 4403
+- **Aciertos:** 2774 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,982.77
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $408.11 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,987.77
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $408.19 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2253 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1320 | 69.1% | 67.8% | +1.3 pp |
+| 60-79% | 1321 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 582 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
@@ -907,7 +907,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Cassis: Mae Malige vs Sascha Gueymard-Wa | Sascha Gueymard-Wayenburg (BUY) | 76% | 5.00 | 2.2% | ✅ ganada | +1.52 |
 |  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ✅ ganada | +3.82 |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Kenta Miyoshi (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
-|  | Tulln: Daniel Siniakov vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
+|  | Tulln: Daniel Siniakov vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 68% | 5.00 | 1.0% | ✅ ganada | +2.27 |
 | sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 |  | Cassis: Lenny Couturier vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 30.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 258.8841683001609,
+  "bankroll": 261.1571094766315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23015,6 +23015,11 @@
       "timestamp": 1788863964.2177644,
       "bankroll": 258.88,
       "event": "won:  \u2014 Shanghai: Elias Ymer vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1788864155.0662258,
+      "bankroll": 261.16,
+      "event": "won:  \u2014 Tulln: Daniel Siniakov vs Vitaliy Sachko"
     }
   ]
 }
