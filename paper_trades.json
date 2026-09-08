@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 28798.737230000002,
-    "whale_pct": 15.668,
+    "whale_usd": 33675.442478000004,
+    "whale_pct": 18.321,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788834437.4071279,
-    "fills": 8
+    "last_fill_at": 1788836461.048474,
+    "fills": 9
   },
   {
     "timestamp": 1788832016,
@@ -113191,6 +113191,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788835625.1855457,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788836385,
+    "timestamp_added": 1788836386.415664,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-mglz-2026-09-08",
+    "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 11083.324799999999,
+    "whale_pct": 153.406,
+    "whale_value_at_open": 7224.8098,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788836386.4156718,
     "fills": 1
   }
 ]
