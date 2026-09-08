@@ -113570,8 +113570,8 @@
     "title": "Map Handicap: FaZe (-1.5) vs Alliance (+1.5)",
     "outcome": "FaZe",
     "side": "BUY",
-    "whale_usd": 2505.5455,
-    "whale_pct": 8.912,
+    "whale_usd": 4014.31743,
+    "whale_pct": 14.278,
     "whale_value_at_open": 28115.7605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -113585,8 +113585,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788845038.9300919,
-    "fills": 2
+    "last_fill_at": 1788846692.8691647,
+    "fills": 3
   },
   {
     "timestamp": 1788842654,
