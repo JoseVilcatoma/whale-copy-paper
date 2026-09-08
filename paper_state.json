@@ -1,5 +1,5 @@
 {
-  "bankroll": 273.39429029004384,
+  "bankroll": 266.7019799452163,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22905,6 +22905,21 @@
       "timestamp": 1788855167.2855651,
       "bankroll": 273.39,
       "event": "won: hurrican \u2014 Counter-Strike: MIBR vs TheMongolz - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788856283.0621054,
+      "bankroll": 268.31,
+      "event": "lost:  \u2014 Phan Thiet 3: Moise Kouame vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1788856284.3458552,
+      "bankroll": 263.19,
+      "event": "lost:  \u2014 Phan Thiet 3: Moise Kouame vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1788856284.9468412,
+      "bankroll": 266.7,
+      "event": "won:  \u2014 Phan Thiet 3: Moise Kouame vs Kenta Miyoshi"
     }
   ]
 }
