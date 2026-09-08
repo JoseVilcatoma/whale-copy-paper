@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 05:28:55 (hora de Perú)
+Actualizado: 2026-09-08 05:31:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $256.97
-**Retorno acumulado:** -48.61%
-**Peor caída desde un máximo (drawdown):** 57.86%
+**Bankroll actual:** $254.01
+**Retorno acumulado:** -49.20%
+**Peor caída desde un máximo (drawdown):** 58.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 05:28:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $106.97)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $109.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -103,7 +103,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| five5120 | 1 | 1 | 1 | -3.60 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Flaznorp | 69 | 25 | 0 | -4.44 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -115,6 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
+| five5120 | 1 | 2 | 0 | -6.56 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -897,7 +897,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ⏳ pendiente | — |
 |  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ❌ perdida | -5.15 |
-| five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | ⏳ pendiente | — |
+| five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | 💰 vendida anticipada | -2.96 |
 |  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ✅ ganada | +2.97 |
 |  | Counter-Strike: Alliance vs FaZe (BO3) - | Alliance (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 61.7% | ✅ ganada | +0.30 |

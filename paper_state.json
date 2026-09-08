@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.9658905223831,
+  "bankroll": 254.0091683001609,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23005,6 +23005,11 @@
       "timestamp": 1788863141.2960303,
       "bankroll": 256.97,
       "event": "won: hurrican \u2014 LoL: T1 Academy vs KT Rolster Challengers - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788863404.0243902,
+      "bankroll": 254.01,
+      "event": "venta anticipada: five5120 \u2014 Games Total: O/U 3.5 (-2.96 USD)"
     }
   ]
 }
