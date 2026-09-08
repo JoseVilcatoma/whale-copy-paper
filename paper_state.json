@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.9202017634985,
+  "bankroll": 227.79020176349852,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23230,6 +23230,11 @@
       "timestamp": 1788896727.0144506,
       "bankroll": 232.92,
       "event": "won:  \u2014 Genoa: Lorenzo Sonego vs Francesco Passaro"
+    },
+    {
+      "timestamp": 1788897538.4906385,
+      "bankroll": 227.79,
+      "event": "lost:  \u2014 Al Hazem SC vs. Al Taawoun Saudi Club: O/U 2.5"
     }
   ]
 }

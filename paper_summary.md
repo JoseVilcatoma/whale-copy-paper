@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 14:57:58 (hora de Perú)
+Actualizado: 2026-09-08 15:00:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $232.92
-**Retorno acumulado:** -53.42%
+**Bankroll actual:** $227.79
+**Retorno acumulado:** -54.44%
 **Peor caída desde un máximo (drawdown):** 63.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 14:57:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $92.92)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $87.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Gambler661 | 3 | 0 | 1 | +0.64 USD |
+| Gambler661 | 3 | 0 | 2 | +0.64 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
@@ -141,19 +141,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 15 | 1 | -50.08 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 73 | 58 | 2 | -126.19 USD |
+|  | 73 | 59 | 1 | -131.32 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4443
+- **Apuestas resueltas:** 4444
 - **Aciertos:** 2796 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,187.77
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $412.07 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,192.77
+- **ROI sobre lo apostado:** -1.76%
+- **Comisiones pagadas (taker fee):** $412.20 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2273 | 49.9% | 50.1% | -0.1 pp |
+| 40-59% | 2274 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1335 | 68.9% | 67.8% | +1.1 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
@@ -899,6 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 29.1% | ⏳ pendiente | — |
 | Gambler661 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 69% | 5.00 | 21.1% | ⏳ pendiente | — |
 | Antblack | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 50% | 5.00 | 32.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -924,8 +925,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
 | Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ✅ ganada | +2.84 |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 52% | 5.00 | 32.7% | ⏳ pendiente | — |
-|  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
+|  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | sbsigner | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 46% | 5.00 | 105.3% | ❌ perdida | -5.13 |
 |  | Genoa: Maximo Zeitune vs Alvaro Guillen  | Maximo Zeitune (BUY) | 51% | 5.00 | 22.0% | ✅ ganada | +4.68 |
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 47% | 5.00 | 9.4% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
