@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 09:48:43 (hora de Perú)
+Actualizado: 2026-09-08 09:50:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.38
@@ -909,7 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike:  Phantom Academy vs Misa |  Phantom Academy (BUY) | 60% | 5.00 | 3.0% | ⏳ pendiente | — |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | LGD Gaming (BUY) | 42% | 5.00 | 20.2% | 💰 vendida anticipada | -4.58 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 120.4% | 💰 vendida anticipada | +0.98 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 174.9% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 217.8% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ✅ ganada | +2.38 |
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ✅ ganada | +4.88 |
 | GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ✅ ganada | +2.72 |
