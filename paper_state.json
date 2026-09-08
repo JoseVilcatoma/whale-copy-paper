@@ -1,5 +1,5 @@
 {
-  "bankroll": 254.0091683001609,
+  "bankroll": 258.8841683001609,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23010,6 +23010,11 @@
       "timestamp": 1788863404.0243902,
       "bankroll": 254.01,
       "event": "venta anticipada: five5120 \u2014 Games Total: O/U 3.5 (-2.96 USD)"
+    },
+    {
+      "timestamp": 1788863964.2177644,
+      "bankroll": 258.88,
+      "event": "won:  \u2014 Shanghai: Elias Ymer vs Pavel Kotov"
     }
   ]
 }
