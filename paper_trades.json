@@ -112900,8 +112900,8 @@
     "title": "Spread: Los Angeles Dodgers (-1.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 23420.700531000002,
-    "whale_pct": 9.304,
+    "whale_usd": 31309.510531,
+    "whale_pct": 12.438,
     "whale_value_at_open": 251733.9707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -112912,8 +112912,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832178.7764606,
-    "fills": 6
+    "last_fill_at": 1788832265.104493,
+    "fills": 7
   },
   {
     "timestamp": 1788829967,
@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 3314.94539,
-    "whale_pct": 1.803,
+    "whale_usd": 10596.444160000001,
+    "whale_pct": 5.765,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788831994.2089396,
-    "fills": 1
+    "last_fill_at": 1788832333.2254183,
+    "fills": 4
   },
   {
     "timestamp": 1788832016,
