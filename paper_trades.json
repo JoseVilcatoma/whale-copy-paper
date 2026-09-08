@@ -112900,8 +112900,8 @@
     "title": "Spread: Los Angeles Dodgers (-1.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 8355.759131,
-    "whale_pct": 3.319,
+    "whale_usd": 23420.700531000002,
+    "whale_pct": 9.304,
     "whale_value_at_open": 251733.9707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -112912,8 +112912,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829977.819086,
-    "fills": 3
+    "last_fill_at": 1788832178.7764606,
+    "fills": 6
   },
   {
     "timestamp": 1788829967,
@@ -112951,8 +112951,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 37008.312304,
-    "whale_pct": 11.21,
+    "whale_usd": 38015.799704,
+    "whale_pct": 11.515,
     "whale_value_at_open": 330133.3552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -112966,8 +112966,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788831624.9251618,
-    "fills": 12
+    "last_fill_at": 1788832148.094068,
+    "fills": 13
   },
   {
     "timestamp": 1788831018,
