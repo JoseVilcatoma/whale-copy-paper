@@ -113462,5 +113462,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788839600.2619243,
     "fills": 1
+  },
+  {
+    "timestamp": 1788840789,
+    "timestamp_added": 1788840790.212834,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-alkaya-torre-2026-09-07",
+    "title": "Istanbul 3: Mert Alkaya vs Tiago Torres",
+    "outcome": "Tiago Torres",
+    "side": "BUY",
+    "whale_usd": 1092.937,
+    "whale_pct": 0.641,
+    "whale_value_at_open": 170469.7742,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788840790.2128415,
+    "fills": 1
   }
 ]
