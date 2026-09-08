@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:49:10 (hora de Perú)
+Actualizado: 2026-09-07 22:51:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $300.20
@@ -894,7 +894,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 63% | 5.00 | 18.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ⏳ pendiente | — |
-| martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 101.1% | ⏳ pendiente | — |
+| martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 412.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 67.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
