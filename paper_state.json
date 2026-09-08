@@ -1,5 +1,5 @@
 {
-  "bankroll": 286.3505239247319,
+  "bankroll": 286.5451905913986,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22810,6 +22810,16 @@
       "timestamp": 1788843795.9105878,
       "bankroll": 286.35,
       "event": "won: martingaleking \u2014 SMU vs. Florida State"
+    },
+    {
+      "timestamp": 1788844740.5952792,
+      "bankroll": 291.64,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1788844741.713282,
+      "bankroll": 286.55,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-2.5)"
     }
   ]
 }

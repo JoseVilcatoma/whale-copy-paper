@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 00:17:22 (hora de Perú)
+Actualizado: 2026-09-08 00:19:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $286.35
-**Retorno acumulado:** -42.73%
+**Bankroll actual:** $286.55
+**Retorno acumulado:** -42.69%
 **Peor caída desde un máximo (drawdown):** 53.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 00:17:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $111.35)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $121.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,18 +136,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 63 | 51 | 5 | -114.42 USD |
-| ferrariChampions2026 | 622 | 393 | 8 | -241.57 USD |
+| ferrariChampions2026 | 623 | 394 | 6 | -241.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4364
-- **Aciertos:** 2750 (63.0%)
+- **Apuestas resueltas:** 4366
+- **Aciertos:** 2751 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,792.77
+- **Total apostado (suma de stakes):** $21,802.77
 - **ROI sobre lo apostado:** -1.55%
-- **Comisiones pagadas (taker fee):** $404.97 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $405.19 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,8 +155,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2238 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1306 | 69.3% | 67.8% | +1.5 pp |
+| 40-59% | 2239 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1307 | 69.2% | 67.8% | +1.5 pp |
 | 80-94% | 573 | 85.2% | 86.6% | -1.5 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
@@ -891,7 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 4.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 14.9% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 15.9% | ⏳ pendiente | — |
 | SkyonX | Counter-Strike: Legacy vs magic - Map 2  | Legacy (BUY) | 78% | 5.00 | 26.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Mert Alkaya vs Tiago Torres | Tiago Torres (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -899,7 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 65.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ❌ perdida | -5.09 |
 | SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 2.9% | ⏳ pendiente | — |
