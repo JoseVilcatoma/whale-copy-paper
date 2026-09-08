@@ -114880,5 +114880,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788870458.8739693,
     "fills": 2
+  },
+  {
+    "timestamp": 1788871292,
+    "timestamp_added": 1788871293.058757,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-oz-denchev-2026-09-08",
+    "title": "Antalya 4: Ipek Oz vs Rositsa Dencheva",
+    "outcome": "Rositsa Dencheva",
+    "side": "BUY",
+    "whale_usd": 28226.5365,
+    "whale_pct": 655.763,
+    "whale_value_at_open": 4304.3786,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788871337.8644004,
+    "fills": 2
   }
 ]
