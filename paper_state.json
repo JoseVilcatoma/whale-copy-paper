@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.41096990575053,
+  "bankroll": 227.26596990575052,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23195,6 +23195,11 @@
       "timestamp": 1788893651.8118591,
       "bankroll": 232.41,
       "event": "lost: sbsigner \u2014 Will AEK win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788893712.7540524,
+      "bankroll": 227.27,
+      "event": "lost: Sunshine.Smile \u2014 Dota 2: Natus Vincere vs Klim Sani4 - Game 1 Winner"
     }
   ]
 }
