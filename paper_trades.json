@@ -113128,8 +113128,8 @@
     "title": "Toronto Blue Jays vs. Athletics",
     "outcome": "Toronto Blue Jays",
     "side": "BUY",
-    "whale_usd": 22560.405789,
-    "whale_pct": 13.459,
+    "whale_usd": 30361.575789000002,
+    "whale_pct": 18.113,
     "whale_value_at_open": 167620.523,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -113140,8 +113140,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788835701.9040895,
-    "fills": 7
+    "last_fill_at": 1788835743.345222,
+    "fills": 9
   },
   {
     "timestamp": 1788835163,
