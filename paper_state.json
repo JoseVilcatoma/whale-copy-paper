@@ -1,5 +1,5 @@
 {
-  "bankroll": 220.97653509683184,
+  "bankroll": 222.95723620921873,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23245,6 +23245,31 @@
       "timestamp": 1788901869.0464928,
       "bankroll": 220.98,
       "event": "lost: Gambler661 \u2014 Barranquilla: Leolia Jeanjean vs Carolina M. Alves"
+    },
+    {
+      "timestamp": 1788902187.1538234,
+      "bankroll": 215.84,
+      "event": "lost: sbsigner \u2014 Will BV Borussia 09 Dortmund win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902188.0258188,
+      "bankroll": 210.7,
+      "event": "lost: gambamaster \u2014 Will BV Borussia 09 Dortmund win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902188.125994,
+      "bankroll": 214.37,
+      "event": "won: gambamaster \u2014 Will BV Borussia 09 Dortmund win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902188.702656,
+      "bankroll": 217.88,
+      "event": "won:  \u2014 Will BV Borussia 09 Dortmund win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902188.970832,
+      "bankroll": 222.96,
+      "event": "won: Antblack \u2014 Real Madrid CF vs. FC Internazionale Milano: 1st Half O/U 1.5"
     }
   ]
 }
