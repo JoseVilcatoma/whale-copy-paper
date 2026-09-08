@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 21:04:50 (hora de Perú)
+Actualizado: 2026-09-07 21:06:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $315.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 21:04:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $100.34)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $95.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 614 | 383 | 15 | -221.33 USD |
+| ferrariChampions2026 | 614 | 383 | 16 | -221.33 USD |
 
 ## Análisis general
 
@@ -877,6 +877,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
 | martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 101.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 13.9% | ⏳ pendiente | — |
@@ -888,7 +889,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | SMU vs. Florida State: O/U 54.5 | Under (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 38.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 40.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -906,4 +907,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 21.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 38.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 2.1% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
