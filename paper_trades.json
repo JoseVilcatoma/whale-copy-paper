@@ -115698,5 +115698,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788897973.1239364,
     "fills": 5
+  },
+  {
+    "timestamp": 1788898175,
+    "timestamp_added": 1788898176.227993,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-pit-cws-2026-09-08-total-8pt5",
+    "title": "Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 15051.3208,
+    "whale_pct": 21.764,
+    "whale_value_at_open": 69156.7114,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788898176.7510397,
+    "fills": 3
   }
 ]
