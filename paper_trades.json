@@ -114537,8 +114537,8 @@
     "title": "Spread: New York Yankees (-2.5)",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 7063.164699999999,
-    "whale_pct": 104.945,
+    "whale_usd": 11774.566899999998,
+    "whale_pct": 174.948,
     "whale_value_at_open": 6730.3208,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -114549,8 +114549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788878775.8066978,
-    "fills": 4
+    "last_fill_at": 1788878875.101129,
+    "fills": 6
   },
   {
     "timestamp": 1788859563,
@@ -114947,8 +114947,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -114978,5 +114978,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788878464.6977046,
     "fills": 1
+  },
+  {
+    "timestamp": 1788878808,
+    "timestamp_added": 1788878809.0765662,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-zeitune-meza-2026-09-08",
+    "title": "Genoa: Maximo Zeitune vs Alvaro Guillen Meza",
+    "outcome": "Maximo Zeitune",
+    "side": "BUY",
+    "whale_usd": 25158.8145,
+    "whale_pct": 22.004,
+    "whale_value_at_open": 114339.5378,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788878901.2708752,
+    "fills": 2
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.09869526285746,
+  "bankroll": 256.3758091869081,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23110,6 +23110,11 @@
       "timestamp": 1788877715.7704844,
       "bankroll": 255.1,
       "event": "won: UpTheBlues \u2014 Will FC Seoul win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788878855.864733,
+      "bankroll": 256.38,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: GamerLegion vs FURIA - Map 2 Winner"
     }
   ]
 }
