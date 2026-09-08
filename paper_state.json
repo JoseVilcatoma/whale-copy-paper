@@ -1,5 +1,5 @@
 {
-  "bankroll": 254.83835402106988,
+  "bankroll": 249.71335402106988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23160,6 +23160,11 @@
       "timestamp": 1788883729.6065001,
       "bankroll": 254.84,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FURIA (-1.5) vs GamerLegion (+1.5)"
+    },
+    {
+      "timestamp": 1788889697.9909906,
+      "bankroll": 249.71,
+      "event": "lost: Wiretransferxyz \u2014 Map Handicap: K27 (-1.5) vs largadosypelados (+1.5)"
     }
   ]
 }
