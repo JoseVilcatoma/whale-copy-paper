@@ -1,5 +1,5 @@
 {
-  "bankroll": 231.81156539986216,
+  "bankroll": 226.69656539986215,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23220,6 +23220,11 @@
       "timestamp": 1788894090.0689142,
       "bankroll": 231.81,
       "event": "won: sbsigner \u2014 Will Club Brugge KV win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788895720.7576413,
+      "bankroll": 226.7,
+      "event": "lost:  \u2014 Seville: Jaume Munar vs Oriol Roca Batalla"
     }
   ]
 }
