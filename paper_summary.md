@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 16:57:22 (hora de Perú)
+Actualizado: 2026-09-08 16:59:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 16:57:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $100.91)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $95.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 74 | 59 | 0 | -127.80 USD |
-| ferrariChampions2026 | 625 | 397 | 4 | -254.74 USD |
+| ferrariChampions2026 | 625 | 397 | 5 | -254.74 USD |
 
 ## Análisis general
 
@@ -900,6 +900,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Independiente Santa Fe vs. CR Vasco da G | Under (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -929,4 +930,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ❌ perdida | -5.14 |
 |  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ❌ perdida | -5.12 |
 | sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 436.6% | ❌ perdida | -5.13 |
-| ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 261.0% | ❌ perdida | -5.08 |

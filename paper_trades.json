@@ -115903,5 +115903,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788904365.9794207,
     "fills": 1
+  },
+  {
+    "timestamp": 1788904712,
+    "timestamp_added": 1788904712.828122,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-san1-vas-2026-09-08-total-1pt5",
+    "title": "Independiente Santa Fe vs. CR Vasco da Gama: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2864.6643,
+    "whale_pct": 1.182,
+    "whale_value_at_open": 242270.8936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788904712.8281367,
+    "fills": 1
   }
 ]
