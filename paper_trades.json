@@ -113276,8 +113276,8 @@
     "title": "Phan Thiet 3: Florent Bax vs Maximus Jones",
     "outcome": "Maximus Jones",
     "side": "BUY",
-    "whale_usd": 6560.653458,
-    "whale_pct": 3.94,
+    "whale_usd": 15862.653458,
+    "whale_pct": 9.526,
     "whale_value_at_open": 166517.2752,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -113288,8 +113288,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788838312.774429,
-    "fills": 2
+    "last_fill_at": 1788839313.7491806,
+    "fills": 3
   },
   {
     "timestamp": 1788838424,
