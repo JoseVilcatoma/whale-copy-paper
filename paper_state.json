@@ -1,5 +1,5 @@
 {
-  "bankroll": 230.8770432610305,
+  "bankroll": 233.72155119753845,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23305,6 +23305,11 @@
       "timestamp": 1788907550.8832808,
       "bankroll": 230.88,
       "event": "won: wr0ngw4yb3tt0r \u2014 Wrexham AFC vs. Burnley FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788908172.7501044,
+      "bankroll": 233.72,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Bolton Wanderers FC vs. West Ham United FC: O/U 2.5"
     }
   ]
 }
