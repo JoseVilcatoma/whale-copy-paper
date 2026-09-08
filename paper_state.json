@@ -1,5 +1,5 @@
 {
-  "bankroll": 275.91047985660873,
+  "bankroll": 279.72905128518016,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22950,6 +22950,11 @@
       "timestamp": 1788860142.1148388,
       "bankroll": 275.91,
       "event": "won: sbsigner \u2014 Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788861206.2040179,
+      "bankroll": 279.73,
+      "event": "won:  \u2014 Shanghai: Jie Cui vs Fajing Sun"
     }
   ]
 }
