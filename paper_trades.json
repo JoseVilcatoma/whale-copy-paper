@@ -114578,5 +114578,29 @@
     "fills": 5,
     "fee_total_usd": 0.043,
     "closed_price": 100
+  },
+  {
+    "timestamp": 1788862422,
+    "timestamp_added": 1788862423.5470896,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-ig1-lgd-2026-09-08-game2",
+    "title": "LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 694.9131,
+    "whale_pct": 20.229,
+    "whale_value_at_open": 3435.1527,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788862423.5471017,
+    "fills": 1
   }
 ]

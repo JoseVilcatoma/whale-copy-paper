@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 05:12:15 (hora de Perú)
+Actualizado: 2026-09-08 05:14:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $273.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 05:12:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $98.47)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $93.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-| five5120 | 1 | 0 | 1 | +0.98 USD |
+| five5120 | 1 | 0 | 2 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | hurrican | 1 | 0 | 1 | +0.71 USD |
 | Gambler661 | 2 | 0 | 0 | +0.50 USD |
@@ -889,6 +889,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | LGD Gaming (BUY) | 42% | 5.00 | 20.2% | ⏳ pendiente | — |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 120.4% | 💰 vendida anticipada | +0.98 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 10.9% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ⏳ pendiente | — |
@@ -918,4 +919,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 58% | 5.00 | 40.8% | ⏳ pendiente | — |
 |  | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.5% | ⏳ pendiente | — |
 |  | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 60% | 5.00 | 4.8% | ⏳ pendiente | — |
-| UpTheBlues | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
