@@ -112724,8 +112724,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 7959.5945,
-    "whale_pct": 2.421,
+    "whale_usd": 9441.8945,
+    "whale_pct": 2.872,
     "whale_value_at_open": 328744.8614,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -112736,8 +112736,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788827951.6380527,
-    "fills": 2
+    "last_fill_at": 1788837455.1929088,
+    "fills": 3
   },
   {
     "timestamp": 1788827473,
@@ -113176,8 +113176,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 3139.9248,
-    "whale_pct": 1.729,
+    "whale_usd": 4104.2076,
+    "whale_pct": 2.26,
     "whale_value_at_open": 181624.6722,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -113190,8 +113190,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788835625.1855457,
-    "fills": 1
+    "last_fill_at": 1788837454.4017313,
+    "fills": 2
   },
   {
     "timestamp": 1788836385,
