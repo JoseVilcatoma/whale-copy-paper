@@ -114805,5 +114805,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788868620.1084116,
     "fills": 1
+  },
+  {
+    "timestamp": 1788869320,
+    "timestamp_added": 1788869320.978021,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-martine-forti-2026-09-08",
+    "title": "Genoa: Pedro Martinez vs Francesco Forti",
+    "outcome": "Francesco Forti",
+    "side": "BUY",
+    "whale_usd": 10000.0,
+    "whale_pct": 12.536,
+    "whale_value_at_open": 79770.3213,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788869320.9780343,
+    "fills": 1
   }
 ]
