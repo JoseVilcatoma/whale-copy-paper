@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 06:07:27 (hora de Perú)
+Actualizado: 2026-09-08 06:09:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $249.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 06:07:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $124.33)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $119.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -114,7 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
-| five5120 | 1 | 2 | 0 | -6.56 USD |
+| five5120 | 1 | 2 | 1 | -6.56 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -884,11 +884,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-gl1-furia-2026-09-08-map-handicap-home-1pt5 | , 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
 | lol-ig1-lgd-2026-09-08-game1 | GoodGuy26, Sunshine.Smile, five5120 |
+| lol-ig1-lgd-2026-09-08-game3 | five5120, zofgkt1111 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 45.7% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs GamerLegio | GamerLegion (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -918,4 +920,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ❌ perdida | -5.07 |
 | hurrican | Counter-Strike: MIBR vs TheMongolz - Map | MIBR (BUY) | 87% | 5.00 | 66.2% | ✅ ganada | +0.71 |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 49% | 5.00 | 4.2% | ❌ perdida | -5.13 |
-| hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 425.0% | ✅ ganada | +1.52 |
