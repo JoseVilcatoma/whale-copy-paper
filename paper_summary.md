@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 05:01:52 (hora de Perú)
+Actualizado: 2026-09-08 05:03:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $274.58
-**Retorno acumulado:** -45.08%
+**Bankroll actual:** $269.52
+**Retorno acumulado:** -46.10%
 **Peor caída desde un máximo (drawdown):** 56.59%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 05:01:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $84.58)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $84.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,19 +138,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 68 | 54 | 10 | -116.98 USD |
+|  | 68 | 55 | 9 | -122.05 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4394
+- **Apuestas resueltas:** 4395
 - **Aciertos:** 2769 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,942.77
-- **ROI sobre lo apostado:** -1.60%
-- **Comisiones pagadas (taker fee):** $407.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,947.77
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $407.54 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2251 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1315 | 69.1% | 67.8% | +1.3 pp |
+| 60-79% | 1316 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 581 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
@@ -910,7 +910,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 |  | Cassis: Lenny Couturier vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 30.2% | ⏳ pendiente | — |
-|  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
+|  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ❌ perdida | -5.07 |
 | hurrican | Counter-Strike: MIBR vs TheMongolz - Map | MIBR (BUY) | 87% | 5.00 | 66.2% | ✅ ganada | +0.71 |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 49% | 5.00 | 4.2% | ❌ perdida | -5.13 |
 | hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 425.0% | ⏳ pendiente | — |

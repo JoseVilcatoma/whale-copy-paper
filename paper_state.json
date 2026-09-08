@@ -1,5 +1,5 @@
 {
-  "bankroll": 274.58105128518014,
+  "bankroll": 269.51605128518014,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22960,6 +22960,11 @@
       "timestamp": 1788861395.059747,
       "bankroll": 274.58,
       "event": "lost:  \u2014 Istanbul 3: Jay Dylan Friend vs Michele Ribecai"
+    },
+    {
+      "timestamp": 1788861830.811407,
+      "bankroll": 269.52,
+      "event": "lost:  \u2014 Antalya 4: Eva Bennemann vs Katarzyna Kawa"
     }
   ]
 }
