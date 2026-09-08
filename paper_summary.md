@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 09:52:47 (hora de Perú)
+Actualizado: 2026-09-08 09:54:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $256.38
-**Retorno acumulado:** -48.72%
+**Bankroll actual:** $262.60
+**Retorno acumulado:** -47.48%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 09:52:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $136.38)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $147.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
+|  | 20 | 17 | 1 | +5.77 USD |
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -85,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-|  | 19 | 17 | 2 | -0.45 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4421
-- **Aciertos:** 2786 (63.0%)
+- **Apuestas resueltas:** 4422
+- **Aciertos:** 2787 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,077.77
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $409.71 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,082.77
+- **ROI sobre lo apostado:** -1.61%
+- **Comisiones pagadas (taker fee):** $409.85 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -158,7 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2260 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2261 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1328 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 583 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
@@ -895,7 +895,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
 | Gambler661 | Tulln: Alex Molcan vs Joao Lucas Da Silv | Alex Molcan (BUY) | 68% | 5.00 | 19.6% | 💰 vendida anticipada | +0.14 |
-|  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ⏳ pendiente | — |
+|  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ✅ ganada | +6.22 |
 | sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ✅ ganada | +0.84 |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ❌ perdida | -5.14 |

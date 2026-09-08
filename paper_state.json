@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.3758091869081,
+  "bankroll": 262.5994455505445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23115,6 +23115,11 @@
       "timestamp": 1788878855.864733,
       "bankroll": 256.38,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: GamerLegion vs FURIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788879176.1431768,
+      "bankroll": 262.6,
+      "event": "won:  \u2014 Antalya 4: Ipek Oz vs Rositsa Dencheva"
     }
   ]
 }
