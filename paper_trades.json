@@ -113640,5 +113640,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788842809.8295426,
     "fills": 6
+  },
+  {
+    "timestamp": 1788843400,
+    "timestamp_added": 1788843400.4939463,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-lgc-mgc-2026-09-07",
+    "title": "Counter-Strike: Legacy vs magic (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 8151.080400000001,
+    "whale_pct": 26.22,
+    "whale_value_at_open": 31087.2394,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788843400.9337325,
+    "fills": 2
   }
 ]
