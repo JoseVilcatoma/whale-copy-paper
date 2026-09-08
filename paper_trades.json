@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 94454.512753,
-    "whale_pct": 51.387,
+    "whale_usd": 112360.61141700001,
+    "whale_pct": 61.129,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788836929.1022797,
-    "fills": 14
+    "last_fill_at": 1788837245.47151,
+    "fills": 16
   },
   {
     "timestamp": 1788832016,
@@ -113078,8 +113078,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 14762.616574000001,
-    "whale_pct": 8.31,
+    "whale_usd": 16304.856574000001,
+    "whale_pct": 9.178,
     "whale_value_at_open": 177658.3045,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -113092,8 +113092,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788837016.6088204,
-    "fills": 9
+    "last_fill_at": 1788837239.6855597,
+    "fills": 10
   },
   {
     "timestamp": 1788833184,
@@ -113218,5 +113218,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788836386.4156718,
     "fills": 1
+  },
+  {
+    "timestamp": 1788837248,
+    "timestamp_added": 1788837248.721378,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-purcell-pacheco-2026-09-06",
+    "title": "Phan Thiet 3: Max Purcell vs Rodrigo Pacheco",
+    "outcome": "Max Purcell",
+    "side": "BUY",
+    "whale_usd": 5813.7451,
+    "whale_pct": 3.87,
+    "whale_value_at_open": 150236.7939,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788837249.1431816,
+    "fills": 2
   }
 ]
