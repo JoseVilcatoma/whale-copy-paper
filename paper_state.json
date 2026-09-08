@@ -1,5 +1,5 @@
 {
-  "bankroll": 253.0454253233027,
+  "bankroll": 255.56177369423003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23085,6 +23085,21 @@
       "timestamp": 1788875003.3140466,
       "bankroll": 253.05,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: PARIVISION vs TYLOO (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788875820.6025472,
+      "bankroll": 253.3,
+      "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788875821.0825057,
+      "bankroll": 255.36,
+      "event": "won: zofgkt1111 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788875821.1827013,
+      "bankroll": 255.56,
+      "event": "won: five5120 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner"
     }
   ]
 }
