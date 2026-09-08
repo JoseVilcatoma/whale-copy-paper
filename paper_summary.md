@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:42:54 (hora de Perú)
+Actualizado: 2026-09-07 22:45:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $300.20
@@ -884,14 +884,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 81% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Max Purcell vs Rodrigo Pac | Max Purcell (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 153.4% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 168.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 9.5 | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 63% | 5.00 | 18.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ⏳ pendiente | — |
 | martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 101.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 63.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 67.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 14.2% | ⏳ pendiente | — |
