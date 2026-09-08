@@ -113788,5 +113788,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788844904.476795,
     "fills": 1
+  },
+  {
+    "timestamp": 1788846177,
+    "timestamp_added": 1788846178.513021,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-kouame-miyoshi-2026-09-06",
+    "title": "Phan Thiet 3: Moise Kouame vs Kenta Miyoshi",
+    "outcome": "Moise Kouame",
+    "side": "BUY",
+    "whale_usd": 567.559999,
+    "whale_pct": 0.764,
+    "whale_value_at_open": 74260.9404,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788846178.5130308,
+    "fills": 1
   }
 ]
