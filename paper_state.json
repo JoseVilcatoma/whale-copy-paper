@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.72155119753845,
+  "bankroll": 214.48360584234717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23310,6 +23310,41 @@
       "timestamp": 1788908172.7501044,
       "bankroll": 233.72,
       "event": "won: wr0ngw4yb3tt0r \u2014 Bolton Wanderers FC vs. West Ham United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788911030.801132,
+      "bankroll": 236.82,
+      "event": "won: martingaleking \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911031.2003856,
+      "bankroll": 231.68,
+      "event": "lost:  \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911032.179875,
+      "bankroll": 226.56,
+      "event": "lost: Antblack \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911032.2800393,
+      "bankroll": 221.48,
+      "event": "lost: Gambler661 \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911033.4178383,
+      "bankroll": 224.71,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911033.5180218,
+      "bankroll": 219.6,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911034.6829407,
+      "bankroll": 214.48,
+      "event": "lost:  \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 18:42:24 (hora de Perú)
+Actualizado: 2026-09-08 18:44:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.72
-**Retorno acumulado:** -53.26%
+**Bankroll actual:** $214.48
+**Retorno acumulado:** -57.10%
 **Peor caída desde un máximo (drawdown):** 65.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 18:42:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $58.72)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $74.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,12 +36,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 52 | 36 | 1 | +16.72 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-|  | 23 | 18 | 3 | +15.07 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+|  | 23 | 19 | 2 | +9.93 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -54,10 +54,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| martingaleking | 2 | 0 | 0 | +5.94 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Antblack | 1 | 0 | 1 | +5.08 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -65,7 +65,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| martingaleking | 1 | 0 | 1 | +2.84 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -86,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| Antblack | 1 | 1 | 0 | -0.04 USD |
 | mimi121 | 0 | 1 | 1 | -0.36 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -102,7 +102,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| Gambler661 | 4 | 1 | 1 | -3.31 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -120,6 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 21 | 20 | 2 | -8.27 USD |
+| Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 2 | 0 | -10.13 USD |
@@ -141,19 +141,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 74 | 59 | 5 | -127.80 USD |
-| ferrariChampions2026 | 625 | 397 | 7 | -254.74 USD |
+|  | 74 | 60 | 4 | -132.91 USD |
+| ferrariChampions2026 | 626 | 398 | 5 | -256.63 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4458
-- **Aciertos:** 2805 (62.9%)
+- **Apuestas resueltas:** 4465
+- **Aciertos:** 2807 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,262.77
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $413.71 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,297.77
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $414.48 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,8 +161,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2284 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1338 | 68.8% | 67.8% | +1.1 pp |
+| 40-59% | 2288 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1341 | 68.8% | 67.8% | +1.1 pp |
 | 80-94% | 586 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
@@ -911,22 +911,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: magic vs FaZe (BO3) - FI | FaZe (BUY) | 60% | 5.00 | 589.0% | ⏳ pendiente | — |
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
-|  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
+|  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TYLOO (-1.5) vs GamerLegio | GamerLegion (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Cadence Brace vs Sara Sorr | Sara Sorribes Tormo (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Independiente Santa Fe vs. CR Vasco da G | Under (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 8.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.6% | ❌ perdida | -5.12 |
+| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 8.0% | ✅ ganada | +3.23 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion (BO | GamerLegion (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs BIG (+1.5) | G2 (BUY) | 43% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BIG vs G2 (BO3) - FISSUR | G2 (BUY) | 73% | 5.00 | 10.1% | ⏳ pendiente | — |
 | Gambler661 | Genoa: Stefano Napolitano vs Stefano Tra | Stefano Travaglia (BUY) | 81% | 5.00 | 50.8% | ✅ ganada | +1.13 |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 50% | 5.00 | 21.8% | ⏳ pendiente | — |
 | Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 55.5% | ❌ perdida | -5.08 |
-| Gambler661 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 69% | 5.00 | 21.1% | ⏳ pendiente | — |
-| Antblack | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 50% | 5.00 | 32.7% | ⏳ pendiente | — |
+| Gambler661 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 69% | 5.00 | 21.1% | ❌ perdida | -5.08 |
+| Antblack | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 50% | 5.00 | 32.7% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Antblack | Real Madrid CF vs. FC Internazionale Mil | Over (BUY) | 49% | 5.00 | 347.2% | ✅ ganada | +5.08 |
 |  | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 58% | 5.00 | 38.5% | ✅ ganada | +3.52 |
