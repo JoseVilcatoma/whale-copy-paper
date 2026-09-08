@@ -1,5 +1,5 @@
 {
-  "bankroll": 262.5994455505445,
+  "bankroll": 267.28136711917193,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23120,6 +23120,11 @@
       "timestamp": 1788879176.1431768,
       "bankroll": 262.6,
       "event": "won:  \u2014 Antalya 4: Ipek Oz vs Rositsa Dencheva"
+    },
+    {
+      "timestamp": 1788881955.426282,
+      "bankroll": 267.28,
+      "event": "won:  \u2014 Genoa: Maximo Zeitune vs Alvaro Guillen Meza"
     }
   ]
 }
