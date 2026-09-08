@@ -114066,8 +114066,8 @@
     "title": "Bolton Wanderers FC vs. West Ham United FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4504.9758,
-    "whale_pct": 20.896,
+    "whale_usd": 6515.5738,
+    "whale_pct": 30.222,
     "whale_value_at_open": 21558.936,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -114078,7 +114078,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788852894.1039436,
-    "fills": 2
+    "last_fill_at": 1788853021.2033696,
+    "fills": 3
   }
 ]
