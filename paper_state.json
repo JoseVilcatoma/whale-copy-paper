@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.56177369423003,
+  "bankroll": 250.41677369423002,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23100,6 +23100,11 @@
       "timestamp": 1788875821.1827013,
       "bankroll": 255.56,
       "event": "won: five5120 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788877215.78393,
+      "bankroll": 250.42,
+      "event": "lost:  \u2014 Genoa: Pedro Martinez vs Francesco Forti"
     }
   ]
 }
