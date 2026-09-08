@@ -116148,5 +116148,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788907510.7126935,
     "fills": 1
+  },
+  {
+    "timestamp": 1788907982,
+    "timestamp_added": 1788907983.1970842,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-brace-tormo-2026-09-08",
+    "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
+    "outcome": "Cadence Brace",
+    "side": "BUY",
+    "whale_usd": 20000.0,
+    "whale_pct": 23.347,
+    "whale_value_at_open": 85665.4568,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788907995.7942553,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 17:51:18 (hora de Perú)
+Actualizado: 2026-09-08 17:53:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $230.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 17:51:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $70.88)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $65.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-|  | 23 | 18 | 1 | +15.07 USD |
+|  | 23 | 18 | 2 | +15.07 USD |
 | wr0ngw4yb3tt0r | 51 | 36 | 2 | +13.88 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -895,11 +895,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-tiafoe-michels-2026-09-08 | , Antblack, Gambler661, ferrariChampions2026, martingaleking |
 | ucl-bvb-vil-2026-09-08-bvb | , gambamaster, sbsigner |
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mimi121 |
+| wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 23.3% | ⏳ pendiente | — |
 |  | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 5star vs TheMongolz (BO3 | TheMongolz (BUY) | 93% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -929,4 +931,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 101.4% | ✅ ganada | +6.22 |
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 45% | 5.00 | 1888.3% | ⏳ pendiente | — |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 57% | 5.00 | 86.8% | ✅ ganada | +3.66 |
-| gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.5% | ❌ perdida | -5.14 |
