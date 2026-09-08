@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 20:21:22 (hora de Perú)
+Actualizado: 2026-09-07 20:23:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 20:21:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $110.04)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $105.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 611 | 383 | 14 | -226.63 USD |
+| ferrariChampions2026 | 611 | 383 | 15 | -226.63 USD |
 
 ## Análisis general
 
@@ -875,6 +875,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -904,4 +905,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 78.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 9.2% | ⏳ pendiente | — |
