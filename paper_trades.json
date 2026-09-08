@@ -114461,8 +114461,8 @@
     "title": "LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 8855.407533,
-    "whale_pct": 72.144,
+    "whale_usd": 10514.184333,
+    "whale_pct": 85.657,
     "whale_value_at_open": 12274.7032,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -114475,8 +114475,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788858990.8457506,
-    "fills": 3
+    "last_fill_at": 1788859103.4572732,
+    "fills": 4
   },
   {
     "timestamp": 1788859011,
@@ -114501,5 +114501,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788859012.029584,
     "fills": 1
+  },
+  {
+    "timestamp": 1788859178,
+    "timestamp_added": 1788859178.679375,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "dota2-pr1-huliga-2026-09-08-game1",
+    "title": "Dota 2: Power Rangers vs HULIGANI - Game 1 Winner",
+    "outcome": "HULIGANI",
+    "side": "BUY",
+    "whale_usd": 2192.9934000000003,
+    "whale_pct": 15.366,
+    "whale_value_at_open": 14271.5553,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788859179.104521,
+    "fills": 2
   }
 ]
