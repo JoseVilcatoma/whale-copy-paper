@@ -115605,8 +115605,8 @@
     "title": "Counter-Strike: 9z vs MIBR - Map 2 Winner",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 4948.803,
-    "whale_pct": 4.466,
+    "whale_usd": 5466.978,
+    "whale_pct": 4.933,
     "whale_value_at_open": 110819.5573,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -115617,8 +115617,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788894980.8380783,
-    "fills": 2
+    "last_fill_at": 1788895938.6053698,
+    "fills": 3
   },
   {
     "timestamp": 1788894848,
@@ -115646,5 +115646,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788894849.411671,
     "fills": 1
+  },
+  {
+    "timestamp": 1788895932,
+    "timestamp_added": 1788895933.6812153,
+    "username": "Gambler661",
+    "wallet": "0x441909510a0b18a7df9f5ea588314a53d5bcfcf4",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "whale_usd": 3518.9609000000005,
+    "whale_pct": 21.106,
+    "whale_value_at_open": 16672.8378,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Antblack",
+      "martingaleking"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788895970.6765022,
+    "fills": 3
   }
 ]

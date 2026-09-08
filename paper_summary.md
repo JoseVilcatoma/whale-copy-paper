@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 14:31:22 (hora de Perú)
+Actualizado: 2026-09-08 14:33:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 14:31:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $86.70)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $81.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Gambler661 | 3 | 0 | 0 | +0.64 USD |
+| Gambler661 | 3 | 0 | 1 | +0.64 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
@@ -891,7 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-ig1-lgd-2026-09-08-game3 | five5120, zofgkt1111 |
 | cs2-g2-ast10-2026-09-08 | ExplosiveNinja, sbsigner |
 | ucl-bru-ast-2026-09-08-bru | Jsram, sbsigner |
-| atp-tiafoe-michels-2026-09-08 | , Antblack, martingaleking |
+| atp-tiafoe-michels-2026-09-08 | , Antblack, Gambler661, martingaleking |
 | ucl-bvb-vil-2026-09-08-bvb | , gambamaster, sbsigner |
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mimi121 |
 
@@ -899,8 +899,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Gambler661 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 69% | 5.00 | 21.1% | ⏳ pendiente | — |
 | Antblack | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 50% | 5.00 | 32.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 4.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Antblack | Real Madrid CF vs. FC Internazionale Mil | Over (BUY) | 49% | 5.00 | 347.2% | ⏳ pendiente | — |
 |  | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 58% | 5.00 | 38.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 8.1% | ⏳ pendiente | — |
@@ -928,4 +929,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Genoa: Maximo Zeitune vs Alvaro Guillen  | Maximo Zeitune (BUY) | 51% | 5.00 | 22.0% | ✅ ganada | +4.68 |
 | pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 47% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
-| Gambler661 | Tulln: Alex Molcan vs Joao Lucas Da Silv | Alex Molcan (BUY) | 68% | 5.00 | 19.6% | 💰 vendida anticipada | +0.14 |
