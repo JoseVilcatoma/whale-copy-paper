@@ -1,5 +1,5 @@
 {
-  "bankroll": 291.31866940561196,
+  "bankroll": 292.03279584239357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22765,6 +22765,11 @@
       "timestamp": 1788841406.6391764,
       "bankroll": 291.32,
       "event": "won:  \u2014 US Open ATP: Alexander Zverev vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1788841717.380921,
+      "bankroll": 292.03,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: 9z vs 5star - Map 1 Winner"
     }
   ]
 }
