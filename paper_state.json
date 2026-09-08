@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.28496899380895,
+  "bankroll": 305.14696899380897,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22670,6 +22670,11 @@
       "timestamp": 1788834836.4445188,
       "bankroll": 310.28,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Arthur Gea vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788836711.822894,
+      "bankroll": 305.15,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 SMU vs. Florida State: 1H Moneyline"
     }
   ]
 }

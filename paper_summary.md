@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:03:11 (hora de Perú)
+Actualizado: 2026-09-07 22:05:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $310.28
-**Retorno acumulado:** -37.94%
+**Bankroll actual:** $305.15
+**Retorno acumulado:** -38.97%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 22:03:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $105.28)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $105.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
-| wr0ngw4yb3tt0r | 46 | 34 | 5 | +5.43 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -80,6 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | Gambler661 | 2 | 0 | 0 | +0.50 USD |
+| wr0ngw4yb3tt0r | 46 | 35 | 4 | +0.29 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -140,14 +140,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4336
+- **Apuestas resueltas:** 4337
 - **Aciertos:** 2735 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,652.77
-- **ROI sobre lo apostado:** -1.45%
-- **Comisiones pagadas (taker fee):** $402.09 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,657.77
+- **ROI sobre lo apostado:** -1.48%
+- **Comisiones pagadas (taker fee):** $402.23 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.38% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,7 +155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2219 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2220 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1301 | 69.2% | 67.8% | +1.4 pp |
 | 80-94% | 571 | 85.1% | 86.6% | -1.5 pp |
 | 95-99% (casi seguro) | 245 | 96.7% | 97.3% | -0.6 pp |
@@ -905,6 +905,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | Washington Nationals (BUY) | 55% | 5.00 | 1.2% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 44% | 5.00 | 1.3% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff (BUY) | 73% | 5.00 | 8.3% | ✅ ganada | +1.78 |
-| wr0ngw4yb3tt0r | SMU vs. Florida State: 1H Moneyline | Florida State (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | SMU vs. Florida State: 1H Moneyline | Florida State (BUY) | 45% | 5.00 | 1.1% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
