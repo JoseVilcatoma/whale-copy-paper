@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 07:25:42 (hora de Perú)
+Actualizado: 2026-09-08 07:27:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $257.16
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 07:25:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $117.16)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $112.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| sbsigner | 9 | 12 | 0 | -37.65 USD |
+| sbsigner | 9 | 12 | 1 | -37.65 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 71 | 57 | 4 | -121.85 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
@@ -880,7 +880,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
 | mlb-tor-oak-2026-09-07 | , SkyonX, ferrariChampions2026 |
 | atp-bax-jon-2026-09-06 | , ferrariChampions2026 |
-| cs2-gl1-furia-2026-09-08 | , ExplosiveNinja |
+| cs2-gl1-furia-2026-09-08 | , ExplosiveNinja, sbsigner |
 | ucl-por-mnc-2026-09-08-mnc | , UpTheBlues |
 | cs2-gl1-furia-2026-09-08-map-handicap-home-1pt5 | , 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
@@ -891,6 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ⏳ pendiente | — |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Burnley FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 7.3% | ⏳ pendiente | — |
@@ -920,4 +921,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ✅ ganada | +3.82 |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Kenta Miyoshi (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
 |  | Tulln: Daniel Siniakov vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 68% | 5.00 | 1.0% | ✅ ganada | +2.27 |
-| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ❌ perdida | -5.12 |

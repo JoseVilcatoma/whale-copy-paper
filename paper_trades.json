@@ -114853,5 +114853,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788869776.0752647,
     "fills": 2
+  },
+  {
+    "timestamp": 1788870381,
+    "timestamp_added": 1788870382.1231515,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-gl1-furia-2026-09-08",
+    "title": "Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 3110.5238,
+    "whale_pct": 4.075,
+    "whale_value_at_open": 76326.8327,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788870458.8739693,
+    "fills": 2
   }
 ]
