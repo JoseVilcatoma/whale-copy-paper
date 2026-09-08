@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 12:59:04 (hora de Perú)
+Actualizado: 2026-09-08 13:01:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $249.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 12:59:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $124.71)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $104.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
+| totoro3miyazaki | 3 | 0 | 2 | +5.66 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -86,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| mimi121 | 0 | 0 | 2 | +0.00 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -893,6 +894,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
+| mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 195.3% | ⏳ pendiente | — |
+| totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
+| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ⏳ pendiente | — |
 | sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ⏳ pendiente | — |
 |  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ⏳ pendiente | — |
@@ -919,7 +924,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ✅ ganada | +0.25 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs GamerLegio | GamerLegion (BUY) | 43% | 5.00 | 3.2% | ✅ ganada | +6.48 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike:  Phantom Academy vs Misa |  Phantom Academy (BUY) | 60% | 5.00 | 3.0% | ⏳ pendiente | — |
-| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | LGD Gaming (BUY) | 42% | 5.00 | 20.2% | 💰 vendida anticipada | -4.58 |
-| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 120.4% | 💰 vendida anticipada | +0.98 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 217.8% | ⏳ pendiente | — |
