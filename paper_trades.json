@@ -114566,8 +114566,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.98,
     "overlaps_with": [
       "GoodGuy26",
       "Sunshine.Smile"
@@ -114575,6 +114575,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788859630.9023526,
-    "fills": 5
+    "fills": 5,
+    "fee_total_usd": 0.043,
+    "closed_price": 100
   }
 ]

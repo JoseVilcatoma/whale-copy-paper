@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.51605128518014,
+  "bankroll": 270.4971476707223,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22965,6 +22965,11 @@
       "timestamp": 1788861830.811407,
       "bankroll": 269.52,
       "event": "lost:  \u2014 Antalya 4: Eva Bennemann vs Katarzyna Kawa"
+    },
+    {
+      "timestamp": 1788861890.6132226,
+      "bankroll": 270.5,
+      "event": "venta anticipada: five5120 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner (+0.98 USD)"
     }
   ]
 }
