@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.71335402106988,
+  "bankroll": 243.0120436762423,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23165,6 +23165,21 @@
       "timestamp": 1788889697.9909906,
       "bankroll": 249.71,
       "event": "lost: Wiretransferxyz \u2014 Map Handicap: K27 (-1.5) vs largadosypelados (+1.5)"
+    },
+    {
+      "timestamp": 1788890964.2261453,
+      "bankroll": 253.23,
+      "event": "won: Wiretransferxyz \u2014 Map Handicap: G2 (-1.5) vs Astralis (+1.5)"
+    },
+    {
+      "timestamp": 1788890967.980924,
+      "bankroll": 248.09,
+      "event": "lost: sbsigner \u2014 Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788890969.837409,
+      "bankroll": 243.01,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A"
     }
   ]
 }
