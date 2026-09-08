@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 02:18:31 (hora de Perú)
+Actualizado: 2026-09-08 02:20:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 02:18:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $124.00)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $119.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| hurrican | 0 | 0 | 1 | +0.00 USD |
+| hurrican | 0 | 0 | 2 | +0.00 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -885,6 +885,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| hurrican | Counter-Strike: MIBR vs TheMongolz - Map | MIBR (BUY) | 87% | 5.00 | 66.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 425.0% | ⏳ pendiente | — |
 |  | Shanghai: Luca Castelnuovo vs Chun-Hsin  | Chun-Hsin Tseng (BUY) | 85% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -914,4 +915,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ❌ perdida | -5.09 |
 | SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 81% | 5.00 | 9.5% | ✅ ganada | +1.13 |

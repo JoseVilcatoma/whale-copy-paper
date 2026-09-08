@@ -114008,5 +114008,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788851909.9884052,
     "fills": 3
+  },
+  {
+    "timestamp": 1788852013,
+    "timestamp_added": 1788852013.5435073,
+    "username": "hurrican",
+    "wallet": "0x8718865882e085b764825b637788043c16185040",
+    "slug": "cs2-mibr-mglz-2026-09-08-game2",
+    "title": "Counter-Strike: MIBR vs TheMongolz - Map 2 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 11861.920001,
+    "whale_pct": 66.247,
+    "whale_value_at_open": 17905.5809,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788852017.680199,
+    "fills": 2
   }
 ]
