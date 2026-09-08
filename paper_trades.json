@@ -113202,8 +113202,8 @@
     "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 17456.3088,
-    "whale_pct": 241.616,
+    "whale_usd": 23408.3088,
+    "whale_pct": 323.999,
     "whale_value_at_open": 7224.8098,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -113216,8 +113216,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788844527.9876995,
-    "fills": 6
+    "last_fill_at": 1788845001.236407,
+    "fills": 8
   },
   {
     "timestamp": 1788837248,
@@ -113763,6 +113763,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788844425.2925506,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788844903,
+    "timestamp_added": 1788844904.4767826,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "kor-uls-seo-2026-09-08-seo",
+    "title": "Will FC Seoul win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 953.32,
+    "whale_pct": 1.447,
+    "whale_value_at_open": 65873.0533,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788844904.476795,
     "fills": 1
   }
 ]
