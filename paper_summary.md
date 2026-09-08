@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:50:54 (hora de Perú)
+Actualizado: 2026-09-08 11:52:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $254.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 11:50:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $139.84)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $134.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-|  | 21 | 17 | 0 | +10.45 USD |
+|  | 21 | 17 | 1 | +10.45 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -893,7 +893,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 295.4% | ⏳ pendiente | — |
+|  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ⏳ pendiente | — |
+| sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 304.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 161.9% | ⏳ pendiente | — |
 | sbsigner | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 62% | 5.00 | 54.1% | ⏳ pendiente | — |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
@@ -922,4 +923,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 217.8% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ✅ ganada | +2.38 |
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ✅ ganada | +4.88 |
-| GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ✅ ganada | +2.72 |
