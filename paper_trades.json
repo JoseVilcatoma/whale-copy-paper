@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 33675.442478000004,
-    "whale_pct": 18.321,
+    "whale_usd": 94454.512753,
+    "whale_pct": 51.387,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788836461.048474,
-    "fills": 9
+    "last_fill_at": 1788836929.1022797,
+    "fills": 14
   },
   {
     "timestamp": 1788832016,
@@ -113078,8 +113078,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 9322.553296,
-    "whale_pct": 5.247,
+    "whale_usd": 13250.906774000001,
+    "whale_pct": 7.459,
     "whale_value_at_open": 177658.3045,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -113092,8 +113092,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788836836.3839948,
-    "fills": 6
+    "last_fill_at": 1788836861.5858014,
+    "fills": 8
   },
   {
     "timestamp": 1788833184,
