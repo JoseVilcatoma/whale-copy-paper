@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 03:28:24 (hora de Perú)
+Actualizado: 2026-09-08 03:30:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $273.39
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 03:28:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $93.39)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $88.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 66 | 53 | 10 | -116.94 USD |
+|  | 66 | 53 | 11 | -116.94 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
 
 ## Análisis general
@@ -885,6 +885,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Tulln: Zdenek Kolar vs Olle Wallin | Olle Wallin (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
 |  | Cassis: Mae Malige vs Sascha Gueymard-Wa | Sascha Gueymard-Wayenburg (BUY) | 76% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ⏳ pendiente | — |
@@ -914,4 +915,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 46% | 5.00 | 2.7% | ❌ perdida | -5.13 |
 | ExplosiveNinja | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 21.9% | ⏳ pendiente | — |
 | UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 15.9% | ✅ ganada | +5.51 |
