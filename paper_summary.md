@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 23:57:00 (hora de Perú)
+Actualizado: 2026-09-07 23:59:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $296.53
-**Retorno acumulado:** -40.69%
+**Bankroll actual:** $290.42
+**Retorno acumulado:** -41.92%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 23:57:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $106.53)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $110.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 18 | 9 | 3 | +18.71 USD |
+| ExplosiveNinja | 18 | 9 | 4 | +18.71 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 69 | 41 | 8 | +14.54 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -43,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
+| wr0ngw4yb3tt0r | 49 | 35 | 1 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
@@ -56,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| wr0ngw4yb3tt0r | 48 | 35 | 2 | +4.91 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -89,7 +89,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| Sunny24 | 4 | 3 | 3 | -1.62 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -113,6 +112,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
+| Sunny24 | 4 | 4 | 2 | -6.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | pleaseplease123 | 21 | 20 | 0 | -8.27 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -136,18 +136,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 63 | 51 | 3 | -114.42 USD |
-| ferrariChampions2026 | 622 | 392 | 9 | -236.45 USD |
+| ferrariChampions2026 | 622 | 393 | 8 | -241.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4357
-- **Aciertos:** 2747 (63.0%)
+- **Apuestas resueltas:** 4360
+- **Aciertos:** 2748 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,757.77
-- **ROI sobre lo apostado:** -1.51%
-- **Comisiones pagadas (taker fee):** $404.12 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,772.77
+- **ROI sobre lo apostado:** -1.54%
+- **Comisiones pagadas (taker fee):** $404.49 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,7 +155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2232 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2235 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1305 | 69.3% | 67.8% | +1.5 pp |
 | 80-94% | 573 | 85.2% | 86.6% | -1.5 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
@@ -871,6 +871,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-sd-2026-09-07-total-8pt5 | Talvez10, ferrariChampions2026 |
 | atp-gea-zandsch-2026-09-07 | , ferrariChampions2026 |
 | cfb-smu-flst-2026-09-07 | , Feromont, martingaleking, wr0ngw4yb3tt0r |
+| cs2-all-faze-2026-09-08 | ExplosiveNinja, sbsigner |
 | bra-vit-gre-2026-09-07-vit | sbsigner, theowalcott |
 | mlb-stl-sf-2026-09-07 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
@@ -881,6 +882,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 40.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs magic (BO3) -  | Legacy (BUY) | 94% | 5.00 | 26.2% | ⏳ pendiente | — |
 | SkyonX | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 50% | 5.00 | 25.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -895,13 +897,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 65.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
-| SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ⏳ pendiente | — |
+| SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Max Purcell vs Rodrigo Pac | Max Purcell (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 197.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 9.5 | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 9.5 | Under (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 63% | 5.00 | 18.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ✅ ganada | +1.05 |
@@ -910,4 +912,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 14.2% | ❌ perdida | -5.13 |
-|  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ❌ perdida | -5.13 |

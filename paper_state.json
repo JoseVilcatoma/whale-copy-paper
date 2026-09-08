@@ -1,5 +1,5 @@
 {
-  "bankroll": 296.5281804577782,
+  "bankroll": 290.4174397170375,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22775,6 +22775,21 @@
       "timestamp": 1788843172.0725825,
       "bankroll": 296.53,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Max Purcell vs Rodrigo Pacheco"
+    },
+    {
+      "timestamp": 1788843480.0355058,
+      "bankroll": 300.67,
+      "event": "won: wr0ngw4yb3tt0r \u2014 SMU vs. Florida State: O/U 54.5"
+    },
+    {
+      "timestamp": 1788843480.8590417,
+      "bankroll": 295.55,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1788843481.338138,
+      "bankroll": 290.42,
+      "event": "lost: SkyonX \u2014 SMU vs. Florida State: O/U 51.5"
     }
   ]
 }
