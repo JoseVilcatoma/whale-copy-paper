@@ -113520,8 +113520,8 @@
     "title": "Phan Thiet 3: Florent Bax vs Maximus Jones",
     "outcome": "Maximus Jones",
     "side": "BUY",
-    "whale_usd": 5317.76,
-    "whale_pct": 9.481,
+    "whale_usd": 8348.26,
+    "whale_pct": 14.884,
     "whale_value_at_open": 56088.1453,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -113534,8 +113534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788844020.3654058,
-    "fills": 4
+    "last_fill_at": 1788844301.9482772,
+    "fills": 6
   },
   {
     "timestamp": 1788842378,
@@ -113713,6 +113713,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788843978.048774,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788844274,
+    "timestamp_added": 1788844275.0192673,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "ucl-bru-ast-2026-09-08-total-2pt5",
+    "title": "Club Brugge KV vs. Aston Villa FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 549.23,
+    "whale_pct": 0.848,
+    "whale_value_at_open": 64757.5862,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788844275.0192754,
     "fills": 1
   }
 ]
