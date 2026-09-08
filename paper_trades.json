@@ -112206,8 +112206,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 39230.244483,
-    "whale_pct": 13.588,
+    "whale_usd": 40053.962312,
+    "whale_pct": 13.873,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -112220,8 +112220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788831844.622484,
-    "fills": 13
+    "last_fill_at": 1788832462.5366197,
+    "fills": 14
   },
   {
     "timestamp": 1788816680,
@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 10596.444160000001,
-    "whale_pct": 5.765,
+    "whale_usd": 11733.642660000001,
+    "whale_pct": 6.384,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832333.2254183,
-    "fills": 4
+    "last_fill_at": 1788832454.6894753,
+    "fills": 5
   },
   {
     "timestamp": 1788832016,
