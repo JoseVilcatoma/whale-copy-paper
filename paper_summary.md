@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 17:05:47 (hora de Perú)
+Actualizado: 2026-09-08 17:07:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 17:05:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $80.91)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $75.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -141,7 +141,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 74 | 59 | 0 | -127.80 USD |
+|  | 74 | 59 | 1 | -127.80 USD |
 | ferrariChampions2026 | 625 | 397 | 7 | -254.74 USD |
 
 ## Análisis general
@@ -900,6 +900,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TYLOO (-1.5) vs GamerLegio | GamerLegion (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Cadence Brace vs Sara Sorr | Sara Sorribes Tormo (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -929,4 +930,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 207.9% | 💰 vendida anticipada | -0.36 |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ❌ perdida | -5.07 |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ❌ perdida | -5.14 |
-| Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ❌ perdida | -5.14 |

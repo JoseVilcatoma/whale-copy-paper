@@ -115999,5 +115999,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788904877.4642649,
     "fills": 1
+  },
+  {
+    "timestamp": 1788905273,
+    "timestamp_added": 1788905274.0585425,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "whale_usd": 1691.2800000000002,
+    "whale_pct": 2.406,
+    "whale_value_at_open": 70286.12,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Antblack",
+      "Gambler661",
+      "ferrariChampions2026",
+      "martingaleking"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788905274.0585556,
+    "fills": 1
   }
 ]
