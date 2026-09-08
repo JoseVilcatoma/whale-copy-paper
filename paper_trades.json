@@ -114355,5 +114355,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788857540.2587636,
     "fills": 1
+  },
+  {
+    "timestamp": 1788857660,
+    "timestamp_added": 1788857660.9018414,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-callejo-simakin-2026-09-06",
+    "title": "Phan Thiet 3: Sergio Callejon vs Ilia Simakin",
+    "outcome": "Ilia Simakin",
+    "side": "BUY",
+    "whale_usd": 1341.259999,
+    "whale_pct": 2.042,
+    "whale_value_at_open": 65693.5186,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788857660.901853,
+    "fills": 1
   }
 ]

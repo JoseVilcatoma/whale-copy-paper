@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 03:53:24 (hora de Perú)
+Actualizado: 2026-09-08 03:55:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $266.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 03:53:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $81.70)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $76.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 67 | 54 | 10 | -118.50 USD |
+|  | 67 | 54 | 11 | -118.50 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
 
 ## Análisis general
@@ -886,6 +886,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: Alliance vs FaZe (BO3) - | Alliance (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 61.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 59% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -915,4 +916,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Benjamin O'Connell vs Blak | Blake Ellis (BUY) | 82% | 5.00 | 5.2% | ✅ ganada | +1.05 |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 40.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs magic (BO3) -  | Legacy (BUY) | 94% | 5.00 | 37.2% | ✅ ganada | +0.30 |
-| SkyonX | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 50% | 5.00 | 25.1% | ❌ perdida | -5.12 |
