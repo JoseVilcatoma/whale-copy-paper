@@ -1,5 +1,5 @@
 {
-  "bankroll": 292.52314400450643,
+  "bankroll": 296.807446406389,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22710,6 +22710,36 @@
       "timestamp": 1788840089.7773266,
       "bankroll": 292.52,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788840461.9633193,
+      "bankroll": 295.62,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788840464.2502315,
+      "bankroll": 298.47,
+      "event": "won: Talvez10 \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788840464.7955425,
+      "bankroll": 304.2,
+      "event": "won: theowalcott \u2014 Will EC Vit\u00f3ria win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788840464.8957062,
+      "bankroll": 299.09,
+      "event": "lost: sbsigner \u2014 Will EC Vit\u00f3ria win on 2026-09-07?"
+    },
+    {
+      "timestamp": 1788840465.3358247,
+      "bankroll": 301.94,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788840465.7363882,
+      "bankroll": 296.81,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
     }
   ]
 }
