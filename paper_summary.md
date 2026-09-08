@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 18:26:32 (hora de Perú)
+Actualizado: 2026-09-08 18:30:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 18:26:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $63.72)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $58.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -141,7 +141,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 74 | 59 | 4 | -127.80 USD |
+|  | 74 | 59 | 5 | -127.80 USD |
 | ferrariChampions2026 | 625 | 397 | 7 | -254.74 USD |
 
 ## Análisis general
@@ -895,12 +895,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-tiafoe-michels-2026-09-08 | , Antblack, Gambler661, ferrariChampions2026, martingaleking |
 | ucl-bvb-vil-2026-09-08-bvb | , gambamaster, sbsigner |
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mimi121 |
+| cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 117.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 52.5% | ⏳ pendiente | — |
@@ -930,4 +932,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 58% | 5.00 | 38.5% | ✅ ganada | +3.52 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 70% | 5.00 | 17.4% | ⏳ pendiente | — |
-|  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 101.4% | ✅ ganada | +6.22 |

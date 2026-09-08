@@ -116222,5 +116222,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788909127.4984765,
     "fills": 6
+  },
+  {
+    "timestamp": 1788910206,
+    "timestamp_added": 1788910207.1620934,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-lgc-all-2026-09-09",
+    "title": "Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 598.8399999999999,
+    "whale_pct": 0.539,
+    "whale_value_at_open": 111155.304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "mimi121"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788910207.1621084,
+    "fills": 1
   }
 ]
