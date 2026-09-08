@@ -1,5 +1,5 @@
 {
-  "bankroll": 268.3866637997546,
+  "bankroll": 260.55194315396204,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22980,6 +22980,21 @@
       "timestamp": 1788862766.32624,
       "bankroll": 268.39,
       "event": "lost:  \u2014 Tulln: Zdenek Kolar vs Olle Wallin"
+    },
+    {
+      "timestamp": 1788863035.4409552,
+      "bankroll": 263.81,
+      "event": "venta anticipada: five5120 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner (-4.58 USD)"
+    },
+    {
+      "timestamp": 1788863080.2907999,
+      "bankroll": 258.77,
+      "event": "lost:  \u2014 Shanghai: Luca Castelnuovo vs Chun-Hsin Tseng"
+    },
+    {
+      "timestamp": 1788863080.9180799,
+      "bankroll": 260.55,
+      "event": "won: Sunshine.Smile \u2014 LoL: T1 Academy vs KT Rolster Challengers - Game 4 Winner"
     }
   ]
 }
