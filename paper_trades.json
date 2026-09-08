@@ -116052,5 +116052,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788906170.8831267,
     "fills": 1
+  },
+  {
+    "timestamp": 1788906307,
+    "timestamp_added": 1788906307.7920618,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mgc-faze-2026-09-08",
+    "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 17287.0,
+    "whale_pct": 565.471,
+    "whale_value_at_open": 3057.0954,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788906307.7920718,
+    "fills": 1
   }
 ]
