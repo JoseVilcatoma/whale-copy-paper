@@ -114940,8 +114940,8 @@
     "title": "Counter-Strike: GamerLegion vs FURIA - Map 2 Winner",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 8746.410918,
-    "whale_pct": 25.737,
+    "whale_usd": 9521.030918,
+    "whale_pct": 28.017,
     "whale_value_at_open": 33983.4933,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -114952,7 +114952,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788872570.4937444,
-    "fills": 3
+    "last_fill_at": 1788872581.3733685,
+    "fills": 4
   }
 ]
