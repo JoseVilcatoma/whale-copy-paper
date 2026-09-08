@@ -115723,5 +115723,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788898176.7510397,
     "fills": 3
+  },
+  {
+    "timestamp": 1788899967,
+    "timestamp_added": 1788899968.3235254,
+    "username": "Gambler661",
+    "wallet": "0x441909510a0b18a7df9f5ea588314a53d5bcfcf4",
+    "slug": "atp-napolit-travagl-2026-09-07",
+    "title": "Genoa: Stefano Napolitano vs Stefano Travaglia",
+    "outcome": "Stefano Travaglia",
+    "side": "BUY",
+    "whale_usd": 11532.7728,
+    "whale_pct": 50.758,
+    "whale_value_at_open": 22720.8887,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788900030.382862,
+    "fills": 3
   }
 ]
