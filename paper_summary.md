@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 16:59:28 (hora de Perú)
+Actualizado: 2026-09-08 17:01:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 16:59:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $95.91)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $80.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 6 | +26.83 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 7 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 74 | 59 | 0 | -127.80 USD |
-| ferrariChampions2026 | 625 | 397 | 5 | -254.74 USD |
+| ferrariChampions2026 | 625 | 397 | 7 | -254.74 USD |
 
 ## Análisis general
 
@@ -900,13 +900,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TYLOO (-1.5) vs GamerLegio | GamerLegion (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Cadence Brace vs Sara Sorr | Sara Sorribes Tormo (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Independiente Santa Fe vs. CR Vasco da G | Under (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion (BO | GamerLegion (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs BIG (+1.5) | G2 (BUY) | 43% | 5.00 | 2.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BIG vs G2 (BO3) - FISSUR | G2 (BUY) | 73% | 5.00 | 6.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BIG vs G2 (BO3) - FISSUR | G2 (BUY) | 73% | 5.00 | 8.5% | ⏳ pendiente | — |
 | Gambler661 | Genoa: Stefano Napolitano vs Stefano Tra | Stefano Travaglia (BUY) | 81% | 5.00 | 50.8% | ✅ ganada | +1.13 |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 50% | 5.00 | 21.8% | ⏳ pendiente | — |
 | Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 55.5% | ❌ perdida | -5.08 |
@@ -927,6 +930,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ❌ perdida | -5.07 |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ❌ perdida | -5.14 |
 | Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ❌ perdida | -5.14 |
-| sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ❌ perdida | -5.14 |
-|  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ❌ perdida | -5.12 |
-| sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 436.6% | ❌ perdida | -5.13 |
