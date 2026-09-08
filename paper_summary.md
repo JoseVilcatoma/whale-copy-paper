@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:24:03 (hora de Perú)
+Actualizado: 2026-09-07 22:26:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $305.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 22:24:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $100.15)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $95.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 616 | 385 | 16 | -218.99 USD |
+| ferrariChampions2026 | 616 | 385 | 17 | -218.99 USD |
 
 ## Análisis general
 
@@ -878,6 +878,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Max Purcell vs Rodrigo Pac | Max Purcell (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 153.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -886,7 +887,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ⏳ pendiente | — |
 | martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 101.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 61.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 63.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 14.2% | ⏳ pendiente | — |
@@ -907,4 +908,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 44% | 5.00 | 1.3% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | US Open WTA: Iva Jovic vs Coco Gauff | Coco Gauff (BUY) | 73% | 5.00 | 8.3% | ✅ ganada | +1.78 |
 | wr0ngw4yb3tt0r | SMU vs. Florida State: 1H Moneyline | Florida State (BUY) | 45% | 5.00 | 1.1% | ❌ perdida | -5.14 |
-| wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
