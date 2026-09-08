@@ -114681,5 +114681,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788864392.5000849,
     "fills": 1
+  },
+  {
+    "timestamp": 1788865390,
+    "timestamp_added": 1788865390.6603885,
+    "username": "zofgkt1111",
+    "wallet": "0xce29c0049a9abc3ce97ccca91bae0a480d073b0d",
+    "slug": "lol-ig1-lgd-2026-09-08-game3",
+    "title": "LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 9999.997499999998,
+    "whale_pct": 34.876,
+    "whale_value_at_open": 28673.0593,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788865400.2840116,
+    "fills": 2
   }
 ]
