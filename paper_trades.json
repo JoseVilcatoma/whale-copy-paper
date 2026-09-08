@@ -113128,8 +113128,8 @@
     "title": "Toronto Blue Jays vs. Athletics",
     "outcome": "Toronto Blue Jays",
     "side": "BUY",
-    "whale_usd": 7931.385789,
-    "whale_pct": 4.732,
+    "whale_usd": 22560.405789,
+    "whale_pct": 13.459,
     "whale_value_at_open": 167620.523,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -113140,8 +113140,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788835169.582617,
-    "fills": 3
+    "last_fill_at": 1788835701.9040895,
+    "fills": 7
   },
   {
     "timestamp": 1788835163,
@@ -113165,6 +113165,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788835163.4946458,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788835624,
+    "timestamp_added": 1788835625.185538,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-sf-2026-09-07",
+    "title": "St. Louis Cardinals vs. San Francisco Giants",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 3139.9248,
+    "whale_pct": 1.729,
+    "whale_value_at_open": 181624.6722,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788835625.1855457,
     "fills": 1
   }
 ]
