@@ -115480,8 +115480,8 @@
     "title": "Genoa: Lorenzo Sonego vs Francesco Passaro",
     "outcome": "Francesco Passaro",
     "side": "BUY",
-    "whale_usd": 36250.2327,
-    "whale_pct": 75.425,
+    "whale_usd": 48750.2327,
+    "whale_pct": 101.433,
     "whale_value_at_open": 48061.5329,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -115492,7 +115492,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788892790.159023,
-    "fills": 2
+    "last_fill_at": 1788892802.8434567,
+    "fills": 3
   }
 ]

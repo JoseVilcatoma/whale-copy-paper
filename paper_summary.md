@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 13:39:57 (hora de Perú)
+Actualizado: 2026-09-08 13:41:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.55
@@ -897,7 +897,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 75.4% | ⏳ pendiente | — |
+|  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 101.4% | ⏳ pendiente | — |
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 45% | 5.00 | 1122.8% | ⏳ pendiente | — |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 57% | 5.00 | 86.8% | ⏳ pendiente | — |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
