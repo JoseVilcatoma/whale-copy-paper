@@ -115504,8 +115504,8 @@
     "title": "Map Handicap: 9z (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 10682.176967,
-    "whale_pct": 10.297,
+    "whale_usd": 13466.484567,
+    "whale_pct": 12.981,
     "whale_value_at_open": 103738.1297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -115516,8 +115516,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788894982.1537237,
-    "fills": 4
+    "last_fill_at": 1788895877.5322056,
+    "fills": 5
   },
   {
     "timestamp": 1788893172,
