@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.1535673316212,
+  "bankroll": 252.20107238212623,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23075,6 +23075,11 @@
       "timestamp": 1788873296.1586692,
       "bankroll": 252.15,
       "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Mert Alkaya vs Tiago Torres"
+    },
+    {
+      "timestamp": 1788874247.8733497,
+      "bankroll": 252.2,
+      "event": "won:  \u2014 Cassis: Lenny Couturier vs Mark Lajal"
     }
   ]
 }
