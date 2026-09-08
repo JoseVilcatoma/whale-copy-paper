@@ -1,5 +1,5 @@
 {
-  "bankroll": 273.0068776702958,
+  "bankroll": 267.9518776702958,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22880,6 +22880,11 @@
       "timestamp": 1788847914.9107237,
       "bankroll": 273.01,
       "event": "lost:  \u2014 Phan Thiet 3: Florent Bax vs Maximus Jones"
+    },
+    {
+      "timestamp": 1788848864.868985,
+      "bankroll": 267.95,
+      "event": "lost: SkyonX \u2014 Counter-Strike: Legacy vs magic - Map 2 Winner"
     }
   ]
 }
