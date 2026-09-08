@@ -114964,8 +114964,8 @@
     "title": "New York Mets vs. Miami Marlins",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 2197.7731780000004,
-    "whale_pct": 6.778,
+    "whale_usd": 3049.62503,
+    "whale_pct": 9.405,
     "whale_value_at_open": 32424.7634,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -114976,8 +114976,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788886698.7583587,
-    "fills": 2
+    "last_fill_at": 1788896006.4515722,
+    "fills": 3
   },
   {
     "timestamp": 1788878808,

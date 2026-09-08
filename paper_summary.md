@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 14:33:23 (hora de Perú)
+Actualizado: 2026-09-08 14:35:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.70
@@ -927,5 +927,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 46% | 5.00 | 105.3% | ❌ perdida | -5.13 |
 |  | Genoa: Maximo Zeitune vs Alvaro Guillen  | Maximo Zeitune (BUY) | 51% | 5.00 | 22.0% | ✅ ganada | +4.68 |
-| pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 47% | 5.00 | 6.8% | ⏳ pendiente | — |
+| pleaseplease123 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 47% | 5.00 | 9.4% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
