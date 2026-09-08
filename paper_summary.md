@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 19:54:42 (hora de Perú)
+Actualizado: 2026-09-07 19:56:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 19:54:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $140.04)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $135.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 611 | 383 | 12 | -226.63 USD |
+| ferrariChampions2026 | 611 | 383 | 13 | -226.63 USD |
 
 ## Análisis general
 
@@ -858,7 +858,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-janvier-paldani-2026-09-07 | , ferrariChampions2026 |
 | atp-matsuok-delaney-2026-09-06 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, ferrariChampions2026 |
 | cs2-sin2-pha-2026-09-07 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, thatguythatguy |
-| mlb-cin-lad-2026-09-07 | Talvez10, wr0ngw4yb3tt0r |
+| mlb-cin-lad-2026-09-07 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-andreev-potapov-2026-09-06 | ferrariChampions2026, totoro3miyazaki |
 | mlb-atl-phi-2026-09-07-total-7pt5 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-atl-phi-2026-09-07 | 1winstreak1, wr0ngw4yb3tt0r |
@@ -875,10 +875,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 10.7% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Nao Hibino vs Maria Torres | Nao Hibino (BUY) | 97% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-1.5) | Athletics (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Under (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
@@ -889,7 +890,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 7.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 34.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 2.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
@@ -904,4 +905,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ❌ perdida | -5.02 |
 | SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 37.4% | ✅ ganada | +3.52 |
-| SkyonX | US Open WTA: Naomi Osaka vs Elena Rybaki | Elena Rybakina (BUY) | 58% | 5.00 | 59.5% | ✅ ganada | +3.52 |
