@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 21:17:24 (hora de Perú)
+Actualizado: 2026-09-07 21:19:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $307.07
@@ -884,7 +884,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 13.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 13.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 14.2% | ⏳ pendiente | — |
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 15.0% | ⏳ pendiente | — |
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
