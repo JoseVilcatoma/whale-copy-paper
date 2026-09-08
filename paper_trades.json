@@ -113520,8 +113520,8 @@
     "title": "Phan Thiet 3: Florent Bax vs Maximus Jones",
     "outcome": "Maximus Jones",
     "side": "BUY",
-    "whale_usd": 4013.6900000000005,
-    "whale_pct": 7.156,
+    "whale_usd": 5317.76,
+    "whale_pct": 9.481,
     "whale_value_at_open": 56088.1453,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -113534,8 +113534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788842484.4777656,
-    "fills": 3
+    "last_fill_at": 1788844020.3654058,
+    "fills": 4
   },
   {
     "timestamp": 1788842378,
@@ -113689,6 +113689,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788843475.295118,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788843977,
+    "timestamp_added": 1788843978.048765,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-oconne-ellis-2026-09-08",
+    "title": "Phan Thiet 3: Benjamin O'Connell vs Blake Ellis",
+    "outcome": "Blake Ellis",
+    "side": "BUY",
+    "whale_usd": 678.4720000000001,
+    "whale_pct": 1.142,
+    "whale_value_at_open": 59401.5092,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788843978.048774,
     "fills": 1
   }
 ]
