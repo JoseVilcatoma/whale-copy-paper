@@ -114829,5 +114829,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788869320.9780343,
     "fills": 1
+  },
+  {
+    "timestamp": 1788869656,
+    "timestamp_added": 1788869657.361754,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-prv-tyloo-2026-09-08",
+    "title": "Counter-Strike: PARIVISION vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "PARIVISION",
+    "side": "BUY",
+    "whale_usd": 5165.471799999999,
+    "whale_pct": 22.878,
+    "whale_value_at_open": 22578.212,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788869657.3617675,
+    "fills": 1
   }
 ]
