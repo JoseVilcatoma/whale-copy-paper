@@ -1,5 +1,5 @@
 {
-  "bankroll": 296.807446406389,
+  "bankroll": 291.69744640638896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22740,6 +22740,11 @@
       "timestamp": 1788840465.7363882,
       "bankroll": 296.81,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788840526.6236432,
+      "bankroll": 291.7,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
