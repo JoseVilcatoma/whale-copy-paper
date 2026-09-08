@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 04:24:27 (hora de Perú)
+Actualizado: 2026-09-08 04:26:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $266.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 04:24:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $41.70)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $36.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| five5120 | 0 | 0 | 1 | +0.00 USD |
+| five5120 | 0 | 0 | 2 | +0.00 USD |
 | GoodGuy26 | 0 | 0 | 1 | +0.00 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -883,12 +883,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-por-mnc-2026-09-08-mnc | , UpTheBlues |
 | cs2-gl1-furia-2026-09-08-map-handicap-home-1pt5 | , ExplosiveNinja |
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
-| lol-ig1-lgd-2026-09-08-game1 | GoodGuy26, Sunshine.Smile |
+| lol-ig1-lgd-2026-09-08-game1 | GoodGuy26, Sunshine.Smile, five5120 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 85.5% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 10.9% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ⏳ pendiente | — |
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ⏳ pendiente | — |
@@ -918,4 +919,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.5% | ⏳ pendiente | — |
 |  | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 60% | 5.00 | 4.8% | ⏳ pendiente | — |
 | UpTheBlues | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
-|  | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
