@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 04:14:11 (hora de Perú)
+Actualizado: 2026-09-08 04:16:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $266.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 04:14:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $71.70)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $61.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| Sunshine.Smile | 9 | 4 | 2 | +11.26 USD |
+| Sunshine.Smile | 9 | 4 | 3 | +11.26 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-|  | 17 | 15 | 1 | +1.14 USD |
+|  | 17 | 15 | 2 | +1.14 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -887,6 +887,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 197.5% | ⏳ pendiente | — |
+|  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ⏳ pendiente | — |
 | five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: Alliance vs FaZe (BO3) - | Alliance (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -915,5 +917,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will FC Seoul win on 2026-09-08? | No (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Florent Bax vs Maximus Jon | Florent Bax (BUY) | 67% | 5.00 | 1.3% | ❌ perdida | -5.08 |
 | UpTheBlues | Club Brugge KV vs. Aston Villa FC: O/U 2 | Over (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Benjamin O'Connell vs Blak | Blake Ellis (BUY) | 82% | 5.00 | 5.2% | ✅ ganada | +1.05 |
-| ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 40.2% | ⏳ pendiente | — |
