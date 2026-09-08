@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 06:33:54 (hora de Perú)
+Actualizado: 2026-09-08 06:35:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $249.33
-**Retorno acumulado:** -50.13%
+**Bankroll actual:** $251.71
+**Retorno acumulado:** -49.66%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 06:33:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $114.33)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $121.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 2 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| Sunshine.Smile | 11 | 5 | 1 | +10.31 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| Sunshine.Smile | 10 | 5 | 2 | +7.93 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4409
-- **Aciertos:** 2776 (63.0%)
+- **Apuestas resueltas:** 4410
+- **Aciertos:** 2777 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,017.77
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $408.84 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,022.77
+- **ROI sobre lo apostado:** -1.67%
+- **Comisiones pagadas (taker fee):** $408.92 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2257 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1323 | 69.0% | 67.8% | +1.2 pp |
+| 60-79% | 1324 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 582 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
@@ -900,7 +900,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | LGD Gaming (BUY) | 42% | 5.00 | 20.2% | 💰 vendida anticipada | -4.58 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 120.4% | 💰 vendida anticipada | +0.98 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 10.9% | ⏳ pendiente | — |
-| Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ⏳ pendiente | — |
+| Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ✅ ganada | +2.38 |
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ✅ ganada | +4.88 |
 | GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ⏳ pendiente | — |

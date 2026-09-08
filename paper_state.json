@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.332880764457,
+  "bankroll": 251.7135673316212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23050,6 +23050,11 @@
       "timestamp": 1788864509.6281967,
       "bankroll": 249.33,
       "event": "won:  \u2014 Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788867307.752931,
+      "bankroll": 251.71,
+      "event": "won: Sunshine.Smile \u2014 Dota 2: Power Rangers vs HULIGANI - Game 1 Winner"
     }
   ]
 }
