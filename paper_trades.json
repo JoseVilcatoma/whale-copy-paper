@@ -114559,8 +114559,8 @@
     "title": "LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 7957.2842,
-    "whale_pct": 85.527,
+    "whale_usd": 11200.6898,
+    "whale_pct": 120.388,
     "whale_value_at_open": 9303.8001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -114574,7 +114574,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788859571.7406564,
-    "fills": 4
+    "last_fill_at": 1788859630.9023526,
+    "fills": 5
   }
 ]
