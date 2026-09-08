@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 23:34:34 (hora de Perú)
+Actualizado: 2026-09-07 23:36:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $292.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 23:34:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $127.03)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $122.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 63 | 51 | 1 | -114.42 USD |
+|  | 63 | 51 | 2 | -114.42 USD |
 | ferrariChampions2026 | 621 | 392 | 10 | -240.95 USD |
 
 ## Análisis general
@@ -875,11 +875,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-sf-2026-09-07 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
 | mlb-tor-oak-2026-09-07 | , ferrariChampions2026 |
+| atp-bax-jon-2026-09-06 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 5.6% | ⏳ pendiente | — |
 | SkyonX | Counter-Strike: Legacy vs magic - Map 2  | Legacy (BUY) | 78% | 5.00 | 26.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Mert Alkaya vs Tiago Torres | Tiago Torres (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -909,4 +911,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 76% | 5.00 | 2.0% | ✅ ganada | +1.52 |
 | wr0ngw4yb3tt0r | SMU vs. Florida State: O/U 54.5 | Under (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 48.4% | ✅ ganada | +2.84 |
-| Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 6.7% | ⏳ pendiente | — |

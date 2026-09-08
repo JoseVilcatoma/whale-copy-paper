@@ -113510,5 +113510,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788842015.7287726,
     "fills": 1
+  },
+  {
+    "timestamp": 1788842073,
+    "timestamp_added": 1788842074.184063,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-bax-jon-2026-09-06",
+    "title": "Phan Thiet 3: Florent Bax vs Maximus Jones",
+    "outcome": "Maximus Jones",
+    "side": "BUY",
+    "whale_usd": 3113.2700000000004,
+    "whale_pct": 5.551,
+    "whale_value_at_open": 56088.1453,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788842114.5267234,
+    "fills": 2
   }
 ]
