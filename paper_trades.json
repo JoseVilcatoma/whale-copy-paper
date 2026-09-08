@@ -113613,5 +113613,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788842655.1759837,
     "fills": 1
+  },
+  {
+    "timestamp": 1788842756,
+    "timestamp_added": 1788842756.9055035,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-tor-oak-2026-09-07",
+    "title": "Toronto Blue Jays vs. Athletics",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 20845.1182,
+    "whale_pct": 25.067,
+    "whale_value_at_open": 83157.666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788842809.8295426,
+    "fills": 6
   }
 ]

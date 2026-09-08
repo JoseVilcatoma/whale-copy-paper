@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 23:44:48 (hora de Perú)
+Actualizado: 2026-09-07 23:46:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $292.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 23:44:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $107.03)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $102.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| Sunny24 | 4 | 3 | 2 | -1.62 USD |
+| Sunny24 | 4 | 3 | 3 | -1.62 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -874,13 +874,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-vit-gre-2026-09-07-vit | sbsigner, theowalcott |
 | mlb-stl-sf-2026-09-07 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
-| mlb-tor-oak-2026-09-07 | , ferrariChampions2026 |
+| mlb-tor-oak-2026-09-07 | , SkyonX, ferrariChampions2026 |
 | atp-bax-jon-2026-09-06 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SkyonX | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 50% | 5.00 | 25.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 4.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
@@ -910,4 +911,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 14.2% | ❌ perdida | -5.13 |
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 15.0% | ❌ perdida | -5.11 |
-|  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |

@@ -8,55 +8,55 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1788772089.2348206,
-    "roi_pct": 676.59,
+    "roi_pct": 676.73,
     "short_term_pct": 100.0
   },
   "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
     "username": "ExplosiveNinja",
     "added_at": 1788801798.5589626,
-    "roi_pct": 813.27,
+    "roi_pct": 713.68,
     "short_term_pct": 100.0
   },
   "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
     "username": "Wiretransferxyz",
     "added_at": 1788818881.7117405,
-    "roi_pct": 115.62,
+    "roi_pct": 117.78,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1788836300.382671,
-    "roi_pct": 156.68,
+    "roi_pct": 136.8,
     "short_term_pct": 100.0
   },
   "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814": {
     "username": "sbsigner",
     "added_at": 1788837227.5765772,
-    "roi_pct": 247.67,
+    "roi_pct": 248.3,
     "short_term_pct": 100.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1788840012.2046187,
-    "roi_pct": 129.45,
+    "roi_pct": 114.28,
     "short_term_pct": 100.0
   },
   "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0": {
     "username": "",
     "added_at": 1788840012.204621,
-    "roi_pct": 81.02,
+    "roi_pct": 83.16,
     "short_term_pct": 100.0
   },
   "0x208927449ac85131e4f34d0c499bfae71a24712e": {
     "username": "SkyonX",
     "added_at": 1788840938.105976,
-    "roi_pct": 70.14,
+    "roi_pct": 61.03,
     "short_term_pct": 100.0
   },
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
-    "username": "BrotherObama",
-    "added_at": 1788841865.3158228,
-    "roi_pct": 2359.37,
+  "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
+    "username": "pleaseplease123",
+    "added_at": 1788842792.0353105,
+    "roi_pct": 78.27,
     "short_term_pct": 100.0
   }
 }
