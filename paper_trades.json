@@ -113235,8 +113235,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113597,8 +113597,8 @@
     "title": "Toronto Blue Jays vs. Athletics",
     "outcome": "Toronto Blue Jays",
     "side": "BUY",
-    "whale_usd": 727.92,
-    "whale_pct": 1.147,
+    "whale_usd": 1699.2599999999998,
+    "whale_pct": 2.676,
     "whale_value_at_open": 63489.2581,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -113611,8 +113611,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788842655.1759837,
-    "fills": 1
+    "last_fill_at": 1788843275.3427722,
+    "fills": 2
   },
   {
     "timestamp": 1788842756,
