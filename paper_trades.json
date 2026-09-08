@@ -114715,8 +114715,8 @@
     "title": "LoL: Invictus Gaming vs LGD Gaming - Game 3 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 9244.478599999999,
-    "whale_pct": 45.736,
+    "whale_usd": 11815.7958,
+    "whale_pct": 58.457,
     "whale_value_at_open": 20212.895,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -114729,7 +114729,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788865686.839421,
+    "last_fill_at": 1788865870.5335739,
+    "fills": 4
+  },
+  {
+    "timestamp": 1788865808,
+    "timestamp_added": 1788865809.130235,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-gl1-furia-2026-09-08",
+    "title": "Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 21000.0,
+    "whale_pct": 137.179,
+    "whale_value_at_open": 15308.4833,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788865809.1302438,
     "fills": 1
   }
 ]

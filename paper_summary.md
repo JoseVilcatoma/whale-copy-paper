@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 06:09:37 (hora de Perú)
+Actualizado: 2026-09-08 06:11:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $249.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 06:09:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $119.33)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $114.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| ExplosiveNinja | 20 | 11 | 1 | +13.88 USD |
+| ExplosiveNinja | 20 | 11 | 2 | +13.88 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -880,6 +880,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
 | mlb-tor-oak-2026-09-07 | , SkyonX, ferrariChampions2026 |
 | atp-bax-jon-2026-09-06 | , ferrariChampions2026 |
+| cs2-gl1-furia-2026-09-08 | , ExplosiveNinja |
 | ucl-por-mnc-2026-09-08-mnc | , UpTheBlues |
 | cs2-gl1-furia-2026-09-08-map-handicap-home-1pt5 | , 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
@@ -890,7 +891,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 45.7% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 137.2% | ⏳ pendiente | — |
+| five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs GamerLegio | GamerLegion (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -919,4 +921,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 30.2% | ⏳ pendiente | — |
 |  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ❌ perdida | -5.07 |
 | hurrican | Counter-Strike: MIBR vs TheMongolz - Map | MIBR (BUY) | 87% | 5.00 | 66.2% | ✅ ganada | +0.71 |
-|  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 49% | 5.00 | 4.2% | ❌ perdida | -5.13 |
