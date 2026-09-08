@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.78261551956356,
+  "bankroll": 220.9084550257364,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23290,6 +23290,11 @@
       "timestamp": 1788902501.8393366,
       "bankroll": 219.78,
       "event": "lost: totoro3miyazaki \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788903759.606058,
+      "bankroll": 220.91,
+      "event": "won: Gambler661 \u2014 Genoa: Stefano Napolitano vs Stefano Travaglia"
     }
   ]
 }
