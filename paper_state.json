@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.33604123374107,
+  "bankroll": 307.0701631849606,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22635,6 +22635,26 @@
       "timestamp": 1788831704.913705,
       "bankroll": 315.34,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Nao Hibino vs Maria Torres"
+    },
+    {
+      "timestamp": 1788833582.2515426,
+      "bankroll": 310.25,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Karen Khachanov vs Learner Tien"
+    },
+    {
+      "timestamp": 1788833586.129603,
+      "bankroll": 305.15,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Karen Khachanov vs Learner Tien"
+    },
+    {
+      "timestamp": 1788833586.2298179,
+      "bankroll": 312.2,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Karen Khachanov vs Learner Tien"
+    },
+    {
+      "timestamp": 1788833588.1340945,
+      "bankroll": 307.07,
+      "event": "lost:  \u2014 US Open ATP: Karen Khachanov vs Learner Tien"
     }
   ]
 }

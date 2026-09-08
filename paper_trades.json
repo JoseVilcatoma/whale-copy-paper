@@ -109874,8 +109874,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -112411,8 +112411,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -112437,8 +112437,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "AV23IUa"
     ],
@@ -112900,8 +112900,8 @@
     "title": "Spread: Los Angeles Dodgers (-1.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 31309.510531,
-    "whale_pct": 12.438,
+    "whale_usd": 37820.910531,
+    "whale_pct": 15.024,
     "whale_value_at_open": 251733.9707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -112912,8 +112912,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832265.104493,
-    "fills": 7
+    "last_fill_at": 1788833591.7197177,
+    "fills": 8
   },
   {
     "timestamp": 1788829967,
@@ -112931,8 +112931,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "AV23IUa",
       "ferrariChampions2026"
@@ -113117,6 +113117,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788833185.1689413,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788833562,
+    "timestamp_added": 1788833562.9300573,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-oak-2026-09-07",
+    "title": "Toronto Blue Jays vs. Athletics",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 4533.4462,
+    "whale_pct": 2.705,
+    "whale_value_at_open": 167620.523,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788833571.8418663,
     "fills": 2
   }
 ]
