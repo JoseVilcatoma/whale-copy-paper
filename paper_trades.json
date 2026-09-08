@@ -114328,5 +114328,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788857288.9908009,
     "fills": 20
+  },
+  {
+    "timestamp": 1788857539,
+    "timestamp_added": 1788857540.2587523,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-all-faze-2026-09-08",
+    "title": "Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "Alliance",
+    "side": "BUY",
+    "whale_usd": 565.45,
+    "whale_pct": 0.872,
+    "whale_value_at_open": 64871.1351,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ExplosiveNinja",
+      "sbsigner"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788857540.2587636,
+    "fills": 1
   }
 ]
