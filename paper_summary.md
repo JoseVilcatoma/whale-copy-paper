@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:53:16 (hora de Perú)
+Actualizado: 2026-09-07 22:55:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $300.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 22:53:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $70.20)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $65.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 62 | 51 | 1 | -114.47 USD |
+|  | 62 | 51 | 2 | -114.47 USD |
 | ferrariChampions2026 | 617 | 387 | 18 | -223.93 USD |
 
 ## Análisis general
@@ -874,11 +874,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-vit-gre-2026-09-07-vit | sbsigner, theowalcott |
 | mlb-stl-sf-2026-09-07 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-zverev-darderi-2026-09-07 | , ferrariChampions2026 |
+| mlb-tor-oak-2026-09-07 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 25.3% | ⏳ pendiente | — |
@@ -908,4 +910,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 48% | 5.00 | 2.9% | ✅ ganada | +5.29 |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
