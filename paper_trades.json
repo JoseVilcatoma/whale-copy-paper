@@ -115050,5 +115050,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788880109.8629572,
     "fills": 1
+  },
+  {
+    "timestamp": 1788881630,
+    "timestamp_added": 1788881630.880707,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-chc-mil-2026-09-08-spread-home-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 10867.998,
+    "whale_pct": 32.725,
+    "whale_value_at_open": 33209.7744,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788881630.8807197,
+    "fills": 1
   }
 ]
