@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 16:20:30 (hora de Perú)
+Actualizado: 2026-09-08 16:22:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $222.96
-**Retorno acumulado:** -55.41%
+**Bankroll actual:** $219.78
+**Retorno acumulado:** -56.04%
 **Peor caída desde un máximo (drawdown):** 65.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 16:20:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $92.96)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $109.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| totoro3miyazaki | 3 | 0 | 2 | +5.66 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Antblack | 1 | 0 | 1 | +5.08 USD |
@@ -108,6 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | Flaznorp | 69 | 25 | 0 | -4.44 USD |
 | Gambler661 | 3 | 1 | 2 | -4.44 USD |
+| totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -126,9 +126,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| UpTheBlues | 4 | 5 | 1 | -15.93 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -141,19 +141,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 73 | 59 | 1 | -131.32 USD |
+|  | 74 | 59 | 0 | -127.80 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4450
-- **Aciertos:** 2799 (62.9%)
+- **Apuestas resueltas:** 4454
+- **Aciertos:** 2801 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,222.77
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $412.90 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,242.77
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $413.32 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,8 +161,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2279 | 49.9% | 50.1% | -0.1 pp |
-| 60-79% | 1336 | 68.9% | 67.8% | +1.1 pp |
+| 40-59% | 2282 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1337 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
@@ -919,8 +919,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
 | mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
 | mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 207.9% | 💰 vendida anticipada | -0.36 |
-| totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
-| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ⏳ pendiente | — |
+| totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ❌ perdida | -5.07 |
+| totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ❌ perdida | -5.14 |
 | Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ❌ perdida | -5.14 |
 | sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ❌ perdida | -5.14 |
 |  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ❌ perdida | -5.12 |

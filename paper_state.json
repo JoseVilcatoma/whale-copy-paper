@@ -1,5 +1,5 @@
 {
-  "bankroll": 222.95723620921873,
+  "bankroll": 219.78261551956356,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23270,6 +23270,26 @@
       "timestamp": 1788902188.970832,
       "bankroll": 222.96,
       "event": "won: Antblack \u2014 Real Madrid CF vs. FC Internazionale Milano: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1788902500.2415812,
+      "bankroll": 226.47,
+      "event": "won: UpTheBlues \u2014 Will Manchester City FC win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902500.3416662,
+      "bankroll": 229.99,
+      "event": "won:  \u2014 Will Manchester City FC win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902501.6875446,
+      "bankroll": 224.85,
+      "event": "lost: totoro3miyazaki \u2014 Will Lille OSC win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788902501.8393366,
+      "bankroll": 219.78,
+      "event": "lost: totoro3miyazaki \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-08?"
     }
   ]
 }
