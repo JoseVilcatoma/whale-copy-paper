@@ -114379,5 +114379,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788857660.901853,
     "fills": 1
+  },
+  {
+    "timestamp": 1788858845,
+    "timestamp_added": 1788858846.513609,
+    "username": "five5120",
+    "wallet": "0xc1c7bb8761105f6d33fc8d71dec31b5688a0f0a7",
+    "slug": "lol-ig1-lgd-2026-09-08-total-games-3pt5",
+    "title": "Games Total: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3799.9999980000002,
+    "whale_pct": 65.011,
+    "whale_value_at_open": 5845.1405,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788858846.5136204,
+    "fills": 1
   }
 ]
