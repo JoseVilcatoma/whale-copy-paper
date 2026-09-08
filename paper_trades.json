@@ -113078,8 +113078,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 13250.906774000001,
-    "whale_pct": 7.459,
+    "whale_usd": 14762.616574000001,
+    "whale_pct": 8.31,
     "whale_value_at_open": 177658.3045,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -113092,8 +113092,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788836861.5858014,
-    "fills": 8
+    "last_fill_at": 1788837016.6088204,
+    "fills": 9
   },
   {
     "timestamp": 1788833184,
