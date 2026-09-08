@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 02:14:23 (hora de Perú)
+Actualizado: 2026-09-08 02:16:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.95
@@ -885,7 +885,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 42.7% | ⏳ pendiente | — |
+| hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 425.0% | ⏳ pendiente | — |
 |  | Shanghai: Luca Castelnuovo vs Chun-Hsin  | Chun-Hsin Tseng (BUY) | 85% | 5.00 | 7.4% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 58% | 5.00 | 40.8% | ⏳ pendiente | — |
 |  | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.5% | ⏳ pendiente | — |
