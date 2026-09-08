@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.28151071880376,
+  "bankroll": 310.03651071880375,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22610,6 +22610,16 @@
       "timestamp": 1788826065.090441,
       "bankroll": 310.28,
       "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. San Diego Padres: O/U 6.5"
+    },
+    {
+      "timestamp": 1788826381.0265858,
+      "bankroll": 315.16,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Katrina Scott vs Varvara Lepchenko"
+    },
+    {
+      "timestamp": 1788826381.1267343,
+      "bankroll": 310.04,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Katrina Scott vs Varvara Lepchenko"
     }
   ]
 }
