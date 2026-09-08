@@ -112206,8 +112206,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 26036.615783,
-    "whale_pct": 9.018,
+    "whale_usd": 26678.273283000002,
+    "whale_pct": 9.24,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -112220,8 +112220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829394.3983116,
-    "fills": 10
+    "last_fill_at": 1788829841.8520823,
+    "fills": 11
   },
   {
     "timestamp": 1788816680,
@@ -112430,8 +112430,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 34118.834091,
-    "whale_pct": 14.17,
+    "whale_usd": 39158.834091,
+    "whale_pct": 16.263,
     "whale_value_at_open": 240785.8421,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -112444,8 +112444,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829733.8425899,
-    "fills": 14
+    "last_fill_at": 1788829795.555289,
+    "fills": 15
   },
   {
     "timestamp": 1788820935,
@@ -112798,8 +112798,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 28099.392,
-    "whale_pct": 11.738,
+    "whale_usd": 53751.3898,
+    "whale_pct": 22.454,
     "whale_value_at_open": 239380.7024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -112813,8 +112813,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829433.9067643,
-    "fills": 3
+    "last_fill_at": 1788829804.5354924,
+    "fills": 6
   },
   {
     "timestamp": 1788829404,
@@ -112862,6 +112862,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788829486.346532,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788829803,
+    "timestamp_added": 1788829804.0939925,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "cfb-smu-flst-2026-09-07",
+    "title": "SMU vs. Florida State",
+    "outcome": "SMU",
+    "side": "BUY",
+    "whale_usd": 25999.999999,
+    "whale_pct": 11.14,
+    "whale_value_at_open": 233403.4355,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Feromont",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788829828.4998064,
     "fills": 2
   }
 ]
