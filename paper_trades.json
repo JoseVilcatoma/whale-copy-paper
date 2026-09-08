@@ -115848,5 +115848,60 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788904122.774642,
     "fills": 1
+  },
+  {
+    "timestamp": 1788904325,
+    "timestamp_added": 1788904325.499846,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tiafoe-michels-2026-09-08",
+    "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+    "outcome": "Alex Michelsen",
+    "side": "BUY",
+    "whale_usd": 521.0,
+    "whale_pct": 0.219,
+    "whale_value_at_open": 237465.4454,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Antblack",
+      "Gambler661",
+      "martingaleking"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788904325.4998596,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788904365,
+    "timestamp_added": 1788904365.9794087,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-chc-mil-2026-09-08-spread-home-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 5559.07,
+    "whale_pct": 2.341,
+    "whale_value_at_open": 237465.4454,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788904365.9794207,
+    "fills": 1
   }
 ]
