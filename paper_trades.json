@@ -113934,5 +113934,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788850631.692407,
     "fills": 1
+  },
+  {
+    "timestamp": 1788851511,
+    "timestamp_added": 1788851511.7070274,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-casteln-tseng-2026-09-08",
+    "title": "Shanghai: Luca Castelnuovo vs Chun-Hsin Tseng",
+    "outcome": "Chun-Hsin Tseng",
+    "side": "BUY",
+    "whale_usd": 4408.120000000001,
+    "whale_pct": 7.403,
+    "whale_value_at_open": 59547.7613,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788851511.7070413,
+    "fills": 1
   }
 ]
