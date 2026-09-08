@@ -114890,8 +114890,8 @@
     "title": "Antalya 4: Ipek Oz vs Rositsa Dencheva",
     "outcome": "Rositsa Dencheva",
     "side": "BUY",
-    "whale_usd": 28226.5365,
-    "whale_pct": 655.763,
+    "whale_usd": 47277.4918,
+    "whale_pct": 1098.358,
     "whale_value_at_open": 4304.3786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -114902,7 +114902,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788871337.8644004,
-    "fills": 2
+    "last_fill_at": 1788871408.1228056,
+    "fills": 4
   }
 ]

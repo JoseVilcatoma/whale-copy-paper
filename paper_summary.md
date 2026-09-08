@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 07:42:35 (hora de Perú)
+Actualizado: 2026-09-08 07:44:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $257.16
@@ -891,7 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 655.8% | ⏳ pendiente | — |
+|  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ⏳ pendiente | — |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ⏳ pendiente | — |
