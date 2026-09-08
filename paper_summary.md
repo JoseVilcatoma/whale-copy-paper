@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 01:55:57 (hora de Perú)
+Actualizado: 2026-09-08 01:58:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 01:55:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $137.95)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $132.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| Sunshine.Smile | 9 | 4 | 0 | +11.26 USD |
+| Sunshine.Smile | 9 | 4 | 1 | +11.26 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -883,6 +883,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 58% | 5.00 | 40.8% | ⏳ pendiente | — |
 |  | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.5% | ⏳ pendiente | — |
 |  | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 60% | 5.00 | 4.8% | ⏳ pendiente | — |
 | UpTheBlues | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -912,4 +913,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 2.9% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Phan Thiet 3: Max Purcell vs Rodrigo Pac | Max Purcell (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 324.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ❌ perdida | -5.13 |

@@ -113910,5 +113910,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788849719.945817,
     "fills": 1
+  },
+  {
+    "timestamp": 1788850631,
+    "timestamp_added": 1788850631.6923966,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "lol-t1a-ktc-2026-09-08-game3",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 3 Winner",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "whale_usd": 6490.669,
+    "whale_pct": 40.842,
+    "whale_value_at_open": 15892.0132,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788850631.692407,
+    "fills": 1
   }
 ]
