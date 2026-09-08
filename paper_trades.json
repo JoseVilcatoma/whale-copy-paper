@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 96491.52661000003,
-    "whale_pct": 33.42,
+    "whale_usd": 98126.89701000003,
+    "whale_pct": 33.987,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788826019.8566616,
-    "fills": 24
+    "last_fill_at": 1788827714.6876147,
+    "fills": 26
   },
   {
     "timestamp": 1788816422,
@@ -112556,8 +112556,8 @@
     "title": "US Open WTA: Iva Jovic vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 21115.273934,
-    "whale_pct": 6.049,
+    "whale_usd": 24602.853513000002,
+    "whale_pct": 7.048,
     "whale_value_at_open": 349098.3,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -112568,8 +112568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788827396.9810455,
-    "fills": 7
+    "last_fill_at": 1788827742.8193982,
+    "fills": 8
   },
   {
     "timestamp": 1788823533,
