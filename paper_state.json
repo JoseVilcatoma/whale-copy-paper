@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.00443864590557,
+  "bankroll": 269.3085875820758,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22890,6 +22890,11 @@
       "timestamp": 1788851904.602835,
       "bankroll": 269.0,
       "event": "won:  \u2014 Phan Thiet 3: Benjamin O'Connell vs Blake Ellis"
+    },
+    {
+      "timestamp": 1788853978.921676,
+      "bankroll": 269.31,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Legacy vs magic (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
