@@ -1,5 +1,5 @@
 {
-  "bankroll": 268.22092731363733,
+  "bankroll": 275.91047985660873,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22925,6 +22925,31 @@
       "timestamp": 1788859768.4499667,
       "bankroll": 268.22,
       "event": "won:  \u2014 Cassis: Mae Malige vs Sascha Gueymard-Wayenburg"
+    },
+    {
+      "timestamp": 1788860138.129403,
+      "bankroll": 273.96,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788860138.6338818,
+      "bankroll": 275.65,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: MGLZ (-1.5) vs MIBR (+1.5)"
+    },
+    {
+      "timestamp": 1788860139.3307362,
+      "bankroll": 280.72,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788860141.513703,
+      "bankroll": 275.61,
+      "event": "lost: sbsigner \u2014 Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788860142.1148388,
+      "bankroll": 275.91,
+      "event": "won: sbsigner \u2014 Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 04:34:46 (hora de Perú)
+Actualizado: 2026-09-08 04:36:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $268.22
-**Retorno acumulado:** -46.36%
+**Bankroll actual:** $275.91
+**Retorno acumulado:** -44.82%
 **Peor caída desde un máximo (drawdown):** 56.59%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 04:34:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $43.22)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $75.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,14 +27,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 75 | 41 | 2 | +28.74 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 73 | 41 | 4 | +21.32 USD |
+| ExplosiveNinja | 20 | 9 | 3 | +24.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 19 | 9 | 4 | +19.01 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -134,7 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
-| sbsigner | 8 | 10 | 3 | -27.76 USD |
+| sbsigner | 9 | 11 | 1 | -32.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4387
-- **Aciertos:** 2764 (63.0%)
+- **Apuestas resueltas:** 4392
+- **Aciertos:** 2768 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,907.77
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $406.76 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,932.77
+- **ROI sobre lo apostado:** -1.59%
+- **Comisiones pagadas (taker fee):** $407.22 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -158,9 +158,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2246 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1314 | 69.1% | 67.8% | +1.3 pp |
-| 80-94% | 580 | 85.3% | 86.6% | -1.3 pp |
+| 40-59% | 2249 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1315 | 69.1% | 67.8% | +1.3 pp |
+| 80-94% | 581 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -899,7 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: Alliance vs FaZe (BO3) - | Alliance (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 61.7% | ⏳ pendiente | — |
+| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 61.7% | ✅ ganada | +0.30 |
 | ExplosiveNinja | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 59% | 5.00 | 6.6% | ⏳ pendiente | — |
 |  | Tulln: Zdenek Kolar vs Olle Wallin | Olle Wallin (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
@@ -907,7 +907,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Kenta Miyoshi (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
 |  | Tulln: Daniel Siniakov vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
-| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ⏳ pendiente | — |
+| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 |  | Cassis: Lenny Couturier vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 30.2% | ⏳ pendiente | — |
 |  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
