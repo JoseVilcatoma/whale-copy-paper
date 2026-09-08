@@ -114904,5 +114904,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788871408.1228056,
     "fills": 4
+  },
+  {
+    "timestamp": 1788872079,
+    "timestamp_added": 1788872080.0440867,
+    "username": "Gambler661",
+    "wallet": "0x441909510a0b18a7df9f5ea588314a53d5bcfcf4",
+    "slug": "atp-molcan-silv-2026-09-07",
+    "title": "Tulln: Alex Molcan vs Joao Lucas Da Silva",
+    "outcome": "Alex Molcan",
+    "side": "BUY",
+    "whale_usd": 3350.5516340000004,
+    "whale_pct": 19.59,
+    "whale_value_at_open": 17103.1265,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788872080.4751415,
+    "fills": 2
   }
 ]
