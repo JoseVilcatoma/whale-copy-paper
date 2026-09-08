@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 00:58:22 (hora de Perú)
+Actualizado: 2026-09-08 01:00:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $271.46
@@ -886,7 +886,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will FC Seoul win on 2026-09-08? | No (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Florent Bax vs Maximus Jon | Florent Bax (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Club Brugge KV vs. Aston Villa FC: O/U 2 | Over (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Benjamin O'Connell vs Blak | Blake Ellis (BUY) | 82% | 5.00 | 1.1% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Benjamin O'Connell vs Blak | Blake Ellis (BUY) | 82% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 40.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs magic (BO3) -  | Legacy (BUY) | 94% | 5.00 | 37.2% | ⏳ pendiente | — |
 | SkyonX | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 50% | 5.00 | 25.1% | ❌ perdida | -5.12 |
