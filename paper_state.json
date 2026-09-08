@@ -1,5 +1,5 @@
 {
-  "bankroll": 273.4666637997546,
+  "bankroll": 268.3866637997546,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22975,6 +22975,11 @@
       "timestamp": 1788862329.7601972,
       "bankroll": 273.47,
       "event": "won:  \u2014 Phan Thiet 3: Sergio Callejon vs Ilia Simakin"
+    },
+    {
+      "timestamp": 1788862766.32624,
+      "bankroll": 268.39,
+      "event": "lost:  \u2014 Tulln: Zdenek Kolar vs Olle Wallin"
     }
   ]
 }
