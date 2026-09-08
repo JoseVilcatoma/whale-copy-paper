@@ -112978,8 +112978,8 @@
     "title": "Map Handicap: G2 (-1.5) vs Astralis (+1.5)",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 1170.6432,
-    "whale_pct": 5.684,
+    "whale_usd": 3307.2140999999997,
+    "whale_pct": 16.057,
     "whale_value_at_open": 20597.1986,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -112990,8 +112990,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788831019.0989814,
-    "fills": 1
+    "last_fill_at": 1788845427.4163513,
+    "fills": 2
   },
   {
     "timestamp": 1788831470,
