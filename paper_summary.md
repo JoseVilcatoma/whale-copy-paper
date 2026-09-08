@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 03:45:03 (hora de Perú)
+Actualizado: 2026-09-08 03:47:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $266.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 03:45:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $96.70)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $86.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 73 | 41 | 4 | +21.32 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 19 | 9 | 3 | +19.01 USD |
+| ExplosiveNinja | 19 | 9 | 4 | +19.01 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
-| sbsigner | 8 | 10 | 2 | -27.76 USD |
+| sbsigner | 8 | 10 | 3 | -27.76 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -879,12 +879,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tor-oak-2026-09-07 | , SkyonX, ferrariChampions2026 |
 | atp-bax-jon-2026-09-06 | , ferrariChampions2026 |
 | ucl-por-mnc-2026-09-08-mnc | , UpTheBlues |
+| cs2-gl1-furia-2026-09-08-map-handicap-home-1pt5 | , ExplosiveNinja |
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ExplosiveNinja | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 59% | 5.00 | 5.7% | ⏳ pendiente | — |
 |  | Tulln: Zdenek Kolar vs Olle Wallin | Olle Wallin (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
 |  | Cassis: Mae Malige vs Sascha Gueymard-Wa | Sascha Gueymard-Wayenburg (BUY) | 76% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -913,5 +916,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Legacy vs magic (BO3) -  | Legacy (BUY) | 94% | 5.00 | 37.2% | ✅ ganada | +0.30 |
 | SkyonX | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 50% | 5.00 | 25.1% | ❌ perdida | -5.12 |
 |  | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 46% | 5.00 | 2.7% | ❌ perdida | -5.13 |
-| ExplosiveNinja | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 21.9% | ⏳ pendiente | — |
-| UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
