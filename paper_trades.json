@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 116136.85051700001,
-    "whale_pct": 63.183,
+    "whale_usd": 117016.50867500002,
+    "whale_pct": 63.662,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788837916.6187108,
-    "fills": 18
+    "last_fill_at": 1788838918.3340378,
+    "fills": 19
   },
   {
     "timestamp": 1788832016,
@@ -113338,5 +113338,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788838532.6000924,
     "fills": 2
+  },
+  {
+    "timestamp": 1788838893,
+    "timestamp_added": 1788838894.0213852,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tor-oak-2026-09-07-total-8pt5",
+    "title": "Toronto Blue Jays vs. Athletics: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1395.4926,
+    "whale_pct": 0.844,
+    "whale_value_at_open": 165342.6215,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788838894.0214012,
+    "fills": 1
   }
 ]
