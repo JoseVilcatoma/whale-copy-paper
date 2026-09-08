@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 13:15:24 (hora de Perú)
+Actualizado: 2026-09-08 13:17:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 13:15:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $102.91)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $97.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | mimi121 | 0 | 0 | 2 | +0.00 USD |
-| gambamaster | 0 | 0 | 1 | +0.00 USD |
+| gambamaster | 0 | 0 | 2 | +0.00 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -896,8 +896,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 8.2% | ⏳ pendiente | — |
+| gambamaster | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 57% | 5.00 | 39.8% | ⏳ pendiente | — |
+| gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
 | mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
 | mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 207.9% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
@@ -925,4 +926,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ❌ perdida | -5.08 |
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 256.6% | ✅ ganada | +0.78 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ✅ ganada | +0.20 |
-| zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |

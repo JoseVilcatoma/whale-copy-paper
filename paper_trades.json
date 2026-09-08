@@ -115376,8 +115376,8 @@
     "title": "Watford FC vs. Preston North End FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4332.102623000001,
-    "whale_pct": 8.153,
+    "whale_usd": 5439.5072230000005,
+    "whale_pct": 10.237,
     "whale_value_at_open": 53137.5431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -115388,8 +115388,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788891063.206069,
-    "fills": 2
+    "last_fill_at": 1788891336.9954352,
+    "fills": 3
   },
   {
     "timestamp": 1788891264,
@@ -115400,8 +115400,8 @@
     "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4526.315789999999,
-    "whale_pct": 3.12,
+    "whale_usd": 5083.217389999999,
+    "whale_pct": 3.504,
     "whale_value_at_open": 145070.2154,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -115414,7 +115414,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788891318.629924,
-    "fills": 2
+    "last_fill_at": 1788891365.9380777,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788891426,
+    "timestamp_added": 1788891427.1406689,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "ucl-bvb-vil-2026-09-08-bvb",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 59562.15440000001,
+    "whale_pct": 39.78,
+    "whale_value_at_open": 149727.9894,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "sbsigner"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788891427.1406822,
+    "fills": 1
   }
 ]
