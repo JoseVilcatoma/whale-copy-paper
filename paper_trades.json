@@ -113486,5 +113486,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788840790.2128415,
     "fills": 1
+  },
+  {
+    "timestamp": 1788842015,
+    "timestamp_added": 1788842015.7287645,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cs2-lgc-mgc-2026-09-07-game2",
+    "title": "Counter-Strike: Legacy vs magic - Map 2 Winner",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 16804.999997999996,
+    "whale_pct": 26.093,
+    "whale_value_at_open": 64404.9239,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788842015.7287726,
+    "fills": 1
   }
 ]

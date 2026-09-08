@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 23:32:33 (hora de Perú)
+Actualizado: 2026-09-07 23:34:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $292.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 23:32:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $132.03)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $127.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| Sunny24 | 4 | 3 | 1 | -1.62 USD |
+| Sunny24 | 4 | 3 | 2 | -1.62 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -880,6 +880,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SkyonX | Counter-Strike: Legacy vs magic - Map 2  | Legacy (BUY) | 78% | 5.00 | 26.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Mert Alkaya vs Tiago Torres | Tiago Torres (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
@@ -909,4 +910,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | SMU vs. Florida State: O/U 54.5 | Under (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 48.4% | ✅ ganada | +2.84 |
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 6.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ❌ perdida | -5.12 |
