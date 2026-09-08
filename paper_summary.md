@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 10:45:59 (hora de Perú)
+Actualizado: 2026-09-08 10:48:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $267.28
-**Retorno acumulado:** -46.54%
+**Bankroll actual:** $263.64
+**Retorno acumulado:** -47.27%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 10:45:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $142.28)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $153.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,8 +34,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| ExplosiveNinja | 23 | 11 | 1 | +16.78 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| ExplosiveNinja | 22 | 11 | 2 | +16.00 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Sunshine.Smile | 12 | 5 | 0 | +13.03 USD |
@@ -136,21 +136,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| sbsigner | 9 | 12 | 2 | -37.65 USD |
+| sbsigner | 9 | 13 | 1 | -42.78 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 72 | 57 | 4 | -121.80 USD |
+|  | 73 | 57 | 3 | -121.09 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4423
-- **Aciertos:** 2788 (63.0%)
+- **Apuestas resueltas:** 4426
+- **Aciertos:** 2790 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,087.77
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $409.97 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,102.77
+- **ROI sobre lo apostado:** -1.61%
+- **Comisiones pagadas (taker fee):** $410.17 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -158,9 +158,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2262 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2263 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1328 | 69.1% | 67.8% | +1.3 pp |
-| 80-94% | 583 | 85.2% | 86.6% | -1.4 pp |
+| 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -899,12 +899,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
 | Gambler661 | Tulln: Alex Molcan vs Joao Lucas Da Silv | Alex Molcan (BUY) | 68% | 5.00 | 19.6% | 💰 vendida anticipada | +0.14 |
 |  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ✅ ganada | +6.22 |
-| sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
+| sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ❌ perdida | -5.13 |
 | ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ✅ ganada | +0.84 |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Burnley FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 7.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 256.6% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 256.6% | ✅ ganada | +0.78 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ✅ ganada | +0.20 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ✅ ganada | +0.25 |

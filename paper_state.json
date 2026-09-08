@@ -1,5 +1,5 @@
 {
-  "bankroll": 267.28136711917193,
+  "bankroll": 263.6414470443257,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23125,6 +23125,21 @@
       "timestamp": 1788881955.426282,
       "bankroll": 267.28,
       "event": "won:  \u2014 Genoa: Maximo Zeitune vs Alvaro Guillen Meza"
+    },
+    {
+      "timestamp": 1788882464.8153932,
+      "bankroll": 268.0,
+      "event": "won:  \u2014 Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788882466.3611488,
+      "bankroll": 268.77,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788882466.8631382,
+      "bankroll": 263.64,
+      "event": "lost: sbsigner \u2014 Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }

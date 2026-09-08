@@ -113829,8 +113829,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -114748,8 +114748,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [
       ""
     ],
@@ -114870,8 +114870,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "",
       "ExplosiveNinja"
