@@ -1,5 +1,5 @@
 {
-  "bankroll": 305.14696899380897,
+  "bankroll": 300.1996356604756,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22675,6 +22675,21 @@
       "timestamp": 1788836711.822894,
       "bankroll": 305.15,
       "event": "lost: wr0ngw4yb3tt0r \u2014 SMU vs. Florida State: 1H Moneyline"
+    },
+    {
+      "timestamp": 1788838718.2928257,
+      "bankroll": 310.43,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1788838718.3929741,
+      "bankroll": 305.31,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1788838719.4744089,
+      "bankroll": 300.2,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers: O/U 7.5"
     }
   ]
 }
