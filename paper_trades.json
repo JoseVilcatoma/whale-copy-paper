@@ -112856,8 +112856,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113085,8 +113085,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -113183,8 +113183,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -113252,8 +113252,8 @@
     "title": "Toronto Blue Jays vs. Athletics",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 647.8149999999999,
-    "whale_pct": 0.371,
+    "whale_usd": 5112.775,
+    "whale_pct": 2.931,
     "whale_value_at_open": 174459.6448,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -113264,8 +113264,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788837948.7437706,
-    "fills": 1
+    "last_fill_at": 1788840029.9806664,
+    "fills": 2
   },
   {
     "timestamp": 1788838312,
@@ -113372,8 +113372,8 @@
     "title": "Map Handicap: K27 (-1.5) vs largadosypelados (+1.5)",
     "outcome": "largadosypelados",
     "side": "BUY",
-    "whale_usd": 5370.724553,
-    "whale_pct": 25.324,
+    "whale_usd": 11789.734353,
+    "whale_pct": 55.59,
     "whale_value_at_open": 21208.1868,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -113384,8 +113384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788839112.8025033,
-    "fills": 2
+    "last_fill_at": 1788840019.5362048,
+    "fills": 4
   },
   {
     "timestamp": 1788839110,

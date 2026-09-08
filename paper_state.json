@@ -1,5 +1,5 @@
 {
-  "bankroll": 295.0796356604756,
+  "bankroll": 292.52314400450643,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22695,6 +22695,21 @@
       "timestamp": 1788839839.553914,
       "bankroll": 295.08,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1788840088.2336118,
+      "bankroll": 296.6,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788840089.0805023,
+      "bankroll": 297.65,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788840089.7773266,
+      "bankroll": 292.52,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants"
     }
   ]
 }

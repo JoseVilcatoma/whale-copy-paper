@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 22:59:34 (hora de Perú)
+Actualizado: 2026-09-07 23:01:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $295.08
-**Retorno acumulado:** -40.98%
+**Bankroll actual:** $292.52
+**Retorno acumulado:** -41.50%
 **Peor caída desde un máximo (drawdown):** 52.60%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 22:59:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $65.08)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $77.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,6 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
+| wr0ngw4yb3tt0r | 47 | 35 | 3 | +1.81 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -79,7 +80,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | Gambler661 | 2 | 0 | 0 | +0.50 USD |
-| wr0ngw4yb3tt0r | 46 | 35 | 4 | +0.29 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -136,18 +136,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 62 | 51 | 2 | -114.47 USD |
-| ferrariChampions2026 | 617 | 388 | 17 | -229.05 USD |
+| ferrariChampions2026 | 618 | 389 | 15 | -233.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4341
-- **Aciertos:** 2736 (63.0%)
+- **Apuestas resueltas:** 4344
+- **Aciertos:** 2738 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,677.77
-- **ROI sobre lo apostado:** -1.52%
-- **Comisiones pagadas (taker fee):** $402.71 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,692.77
+- **ROI sobre lo apostado:** -1.53%
+- **Comisiones pagadas (taker fee):** $402.95 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -155,9 +155,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2224 | 50.0% | 50.1% | -0.0 pp |
-| 60-79% | 1301 | 69.2% | 67.8% | +1.4 pp |
-| 80-94% | 571 | 85.1% | 86.6% | -1.5 pp |
+| 40-59% | 2225 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1302 | 69.2% | 67.8% | +1.4 pp |
+| 80-94% | 572 | 85.1% | 86.6% | -1.5 pp |
 | 95-99% (casi seguro) | 245 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -883,19 +883,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 25.3% | ⏳ pendiente | — |
+| Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 55.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
 | SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 85% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Max Purcell vs Rodrigo Pac | Max Purcell (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 49% | 5.00 | 168.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 9.5 | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 63% | 5.00 | 18.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ✅ ganada | +1.05 |
 | martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 412.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 67.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
@@ -904,7 +904,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 15.0% | ⏳ pendiente | — |
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 76% | 5.00 | 2.0% | ✅ ganada | +1.52 |
 | wr0ngw4yb3tt0r | SMU vs. Florida State: O/U 54.5 | Under (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 48.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 6.7% | ⏳ pendiente | — |
