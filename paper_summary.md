@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 17:30:54 (hora de Perú)
+Actualizado: 2026-09-08 17:32:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 17:30:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $65.91)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $60.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 7 | +26.83 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 8 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -900,6 +900,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: magic vs FaZe (BO3) - FI | FaZe (BUY) | 60% | 5.00 | 565.5% | ⏳ pendiente | — |
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -929,4 +930,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.5% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
 | mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
-| mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 207.9% | 💰 vendida anticipada | -0.36 |
