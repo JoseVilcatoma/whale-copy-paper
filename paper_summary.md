@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 15:59:30 (hora de Perú)
+Actualizado: 2026-09-08 16:01:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.06
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 15:59:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $81.06)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $76.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 3 | +26.83 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 4 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -899,6 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BIG vs G2 (BO3) - FISSUR | G2 (BUY) | 73% | 5.00 | 2.9% | ⏳ pendiente | — |
 | Gambler661 | Genoa: Stefano Napolitano vs Stefano Tra | Stefano Travaglia (BUY) | 81% | 5.00 | 50.8% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 50% | 5.00 | 21.8% | ⏳ pendiente | — |
 | Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 55.5% | ⏳ pendiente | — |
@@ -928,4 +929,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ✅ ganada | +2.84 |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 52% | 5.00 | 32.7% | ⏳ pendiente | — |
 |  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ❌ perdida | -5.13 |
-| sbsigner | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 46% | 5.00 | 105.3% | ❌ perdida | -5.13 |
