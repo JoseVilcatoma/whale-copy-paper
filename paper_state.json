@@ -1,5 +1,5 @@
 {
-  "bankroll": 286.5451905913986,
+  "bankroll": 268.0513830387479,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22820,6 +22820,36 @@
       "timestamp": 1788844741.713282,
       "bankroll": 286.55,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1788845059.5713441,
+      "bankroll": 281.45,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics"
+    },
+    {
+      "timestamp": 1788845059.771766,
+      "bankroll": 282.3,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics"
+    },
+    {
+      "timestamp": 1788845060.5132716,
+      "bankroll": 277.19,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-3.5)"
+    },
+    {
+      "timestamp": 1788845060.6134613,
+      "bankroll": 278.31,
+      "event": "won:  \u2014 Toronto Blue Jays vs. Athletics"
+    },
+    {
+      "timestamp": 1788845061.402109,
+      "bankroll": 273.18,
+      "event": "lost:  \u2014 Toronto Blue Jays vs. Athletics"
+    },
+    {
+      "timestamp": 1788845061.5022938,
+      "bankroll": 268.05,
+      "event": "lost: SkyonX \u2014 Toronto Blue Jays vs. Athletics"
     }
   ]
 }

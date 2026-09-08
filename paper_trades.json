@@ -113135,8 +113135,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113259,8 +113259,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113403,8 +113403,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113453,8 +113453,8 @@
     "odds_at_bet": 81,
     "fee_usd": 0.047,
     "odds_ballena": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.13,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -113570,8 +113570,8 @@
     "title": "Map Handicap: FaZe (-1.5) vs Alliance (+1.5)",
     "outcome": "FaZe",
     "side": "BUY",
-    "whale_usd": 1290.0,
-    "whale_pct": 4.588,
+    "whale_usd": 2505.5455,
+    "whale_pct": 8.912,
     "whale_value_at_open": 28115.7605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -113585,8 +113585,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788842615.2171898,
-    "fills": 1
+    "last_fill_at": 1788845038.9300919,
+    "fills": 2
   },
   {
     "timestamp": 1788842654,
@@ -113604,8 +113604,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -113630,8 +113630,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "",
       "ferrariChampions2026"
