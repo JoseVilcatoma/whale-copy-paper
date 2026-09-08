@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 02:43:11 (hora de Perú)
+Actualizado: 2026-09-08 02:45:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 02:43:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $104.00)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $99.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
-| sbsigner | 8 | 10 | 1 | -27.76 USD |
+| sbsigner | 8 | 10 | 2 | -27.76 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -867,7 +867,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nym-mia-2026-09-07 | Talvez10, ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-ari-kc-2026-09-07 | 1winstreak1, ferrariChampions2026 |
 | mlb-laa-bos-2026-09-07 | 1winstreak1, wr0ngw4yb3tt0r |
-| cs2-mibr-mglz-2026-09-08 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
+| cs2-mibr-mglz-2026-09-08 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, sbsigner |
 | cs2-all-faze-2026-09-08-map-handicap-home-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, Wiretransferxyz |
 | mlb-wsh-sd-2026-09-07-total-8pt5 | Talvez10, ferrariChampions2026 |
 | atp-gea-zandsch-2026-09-07 | , ferrariChampions2026 |
@@ -885,6 +885,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Cassis: Lenny Couturier vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 30.2% | ⏳ pendiente | — |
 |  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -914,4 +915,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ✅ ganada | +1.13 |
 |  | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ❌ perdida | -5.11 |
-| Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 65.9% | ⏳ pendiente | — |

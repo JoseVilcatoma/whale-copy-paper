@@ -114104,5 +114104,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788853039.002771,
     "fills": 3
+  },
+  {
+    "timestamp": 1788853475,
+    "timestamp_added": 1788853475.6119654,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "cs2-mibr-mglz-2026-09-08",
+    "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "TheMongolz",
+    "side": "BUY",
+    "whale_usd": 1067.7576000000001,
+    "whale_pct": 2.009,
+    "whale_value_at_open": 53159.7908,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788853475.6119761,
+    "fills": 1
   }
 ]
