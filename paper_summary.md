@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:26:47 (hora de Perú)
+Actualizado: 2026-09-08 11:28:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $254.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 11:26:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $159.84)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $154.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| martingaleking | 1 | 0 | 0 | +2.84 USD |
+| martingaleking | 1 | 0 | 1 | +2.84 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -891,6 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
 | Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 52% | 5.00 | 32.7% | ⏳ pendiente | — |
 |  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -920,4 +921,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ✅ ganada | +2.72 |
 |  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ❌ perdida | -5.15 |
 | five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | 💰 vendida anticipada | -2.96 |
-|  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ✅ ganada | +2.97 |
