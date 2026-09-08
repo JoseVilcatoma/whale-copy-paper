@@ -1,5 +1,5 @@
 {
-  "bankroll": 257.2985673316212,
+  "bankroll": 252.1535673316212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23070,6 +23070,11 @@
       "timestamp": 1788872385.8735516,
       "bankroll": 257.3,
       "event": "venta anticipada: Gambler661 \u2014 Tulln: Alex Molcan vs Joao Lucas Da Silva (+0.14 USD)"
+    },
+    {
+      "timestamp": 1788873296.1586692,
+      "bankroll": 252.15,
+      "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Mert Alkaya vs Tiago Torres"
     }
   ]
 }
