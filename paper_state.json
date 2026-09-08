@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.1894020584833,
+  "bankroll": 315.33604123374107,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22630,6 +22630,11 @@
       "timestamp": 1788830769.4626558,
       "bankroll": 315.19,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Iva Jovic vs Coco Gauff"
+    },
+    {
+      "timestamp": 1788831704.913705,
+      "bankroll": 315.34,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Nao Hibino vs Maria Torres"
     }
   ]
 }
