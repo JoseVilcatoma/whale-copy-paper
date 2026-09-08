@@ -115158,8 +115158,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 6816.565799999999,
-    "whale_pct": 100.767,
+    "whale_usd": 10955.076388999998,
+    "whale_pct": 161.944,
     "whale_value_at_open": 6764.7122,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -115172,7 +115172,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788885969.5358777,
-    "fills": 2
+    "last_fill_at": 1788886119.9600587,
+    "fills": 4
   }
 ]

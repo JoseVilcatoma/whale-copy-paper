@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:46:53 (hora de Perú)
+Actualizado: 2026-09-08 11:48:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $254.84
@@ -893,7 +893,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 100.8% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 161.9% | ⏳ pendiente | — |
 | sbsigner | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 62% | 5.00 | 54.1% | ⏳ pendiente | — |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
 | Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ⏳ pendiente | — |
