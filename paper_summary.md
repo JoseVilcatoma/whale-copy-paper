@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 13:52:18 (hora de Perú)
+Actualizado: 2026-09-08 13:54:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $237.55
-**Retorno acumulado:** -52.49%
-**Peor caída desde un máximo (drawdown):** 60.82%
+**Bankroll actual:** $232.41
+**Retorno acumulado:** -53.52%
+**Peor caída desde un máximo (drawdown):** 61.66%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 13:52:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $72.55)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $72.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -139,21 +139,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| sbsigner | 9 | 14 | 3 | -47.91 USD |
+| sbsigner | 9 | 15 | 2 | -53.05 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 73 | 58 | 2 | -126.19 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4435
-- **Aciertos:** 2792 (63.0%)
+- **Apuestas resueltas:** 4436
+- **Aciertos:** 2792 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,147.77
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $411.15 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,152.77
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $411.29 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2268 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2269 | 49.9% | 50.1% | -0.1 pp |
 | 60-79% | 1332 | 68.9% | 67.8% | +1.1 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ⏳ pendiente | — |
-| sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ⏳ pendiente | — |
+| sbsigner | Will AEK win on 2026-09-08? | No (BUY) | 44% | 5.00 | 9.6% | ❌ perdida | -5.14 |
 |  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ⏳ pendiente | — |
 | sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 436.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 261.0% | ❌ perdida | -5.08 |

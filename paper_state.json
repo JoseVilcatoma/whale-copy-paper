@@ -1,5 +1,5 @@
 {
-  "bankroll": 237.55096990575052,
+  "bankroll": 232.41096990575053,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23190,6 +23190,11 @@
       "timestamp": 1788892318.1851926,
       "bankroll": 237.55,
       "event": "venta anticipada: mimi121 \u2014 Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A (-0.36 USD)"
+    },
+    {
+      "timestamp": 1788893651.8118591,
+      "bankroll": 232.41,
+      "event": "lost: sbsigner \u2014 Will AEK win on 2026-09-08?"
     }
   ]
 }
