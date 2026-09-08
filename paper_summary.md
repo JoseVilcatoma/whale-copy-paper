@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:30:51 (hora de Perú)
+Actualizado: 2026-09-08 11:32:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $254.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 11:30:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $154.84)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $149.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| sbsigner | 9 | 13 | 1 | -42.78 USD |
+| sbsigner | 9 | 13 | 2 | -42.78 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 73 | 58 | 2 | -126.19 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
@@ -886,11 +886,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
 | lol-ig1-lgd-2026-09-08-game1 | GoodGuy26, Sunshine.Smile, five5120 |
 | lol-ig1-lgd-2026-09-08-game3 | five5120, zofgkt1111 |
+| ucl-bru-ast-2026-09-08-bru | Jsram, sbsigner |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 62% | 5.00 | 54.1% | ⏳ pendiente | — |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
 | Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 52% | 5.00 | 32.7% | ⏳ pendiente | — |
@@ -920,4 +922,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ✅ ganada | +2.72 |
 | Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ✅ ganada | +2.72 |
 |  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ❌ perdida | -5.15 |
-| five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | 💰 vendida anticipada | -2.96 |
