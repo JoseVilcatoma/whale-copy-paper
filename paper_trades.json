@@ -114537,8 +114537,8 @@
     "title": "Spread: New York Yankees (-2.5)",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 3696.9024999999997,
-    "whale_pct": 54.929,
+    "whale_usd": 7063.164699999999,
+    "whale_pct": 104.945,
     "whale_value_at_open": 6730.3208,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -114549,8 +114549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788871859.99128,
-    "fills": 3
+    "last_fill_at": 1788878775.8066978,
+    "fills": 4
   },
   {
     "timestamp": 1788859563,
