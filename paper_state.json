@@ -1,5 +1,5 @@
 {
-  "bankroll": 307.0701631849606,
+  "bankroll": 310.28496899380895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22655,6 +22655,21 @@
       "timestamp": 1788833588.1340945,
       "bankroll": 307.07,
       "event": "lost:  \u2014 US Open ATP: Karen Khachanov vs Learner Tien"
+    },
+    {
+      "timestamp": 1788834835.955695,
+      "bankroll": 309.91,
+      "event": "won:  \u2014 US Open ATP: Arthur Gea vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788834836.3443708,
+      "bankroll": 304.78,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Arthur Gea vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1788834836.4445188,
+      "bankroll": 310.28,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Arthur Gea vs Botic van de Zandschulp"
     }
   ]
 }
