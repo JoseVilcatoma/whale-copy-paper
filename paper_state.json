@@ -1,5 +1,5 @@
 {
-  "bankroll": 260.55194315396204,
+  "bankroll": 256.9658905223831,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22995,6 +22995,16 @@
       "timestamp": 1788863080.9180799,
       "bankroll": 260.55,
       "event": "won: Sunshine.Smile \u2014 LoL: T1 Academy vs KT Rolster Challengers - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788863141.19583,
+      "bankroll": 255.45,
+      "event": "lost: Sunshine.Smile \u2014 LoL: T1 Academy vs KT Rolster Challengers - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788863141.2960303,
+      "bankroll": 256.97,
+      "event": "won: hurrican \u2014 LoL: T1 Academy vs KT Rolster Challengers - Game 3 Winner"
     }
   ]
 }
