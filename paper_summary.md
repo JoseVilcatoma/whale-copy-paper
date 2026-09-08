@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:08:35 (hora de Perú)
+Actualizado: 2026-09-08 11:10:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $258.56
-**Retorno acumulado:** -48.29%
+**Bankroll actual:** $254.84
+**Retorno acumulado:** -49.03%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 11:08:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $148.56)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $159.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,22 +23,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 42 | 2 | +33.66 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 76 | 42 | 3 | +27.18 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 23 | 11 | 1 | +16.78 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Sunshine.Smile | 12 | 5 | 0 | +13.03 USD |
+| ExplosiveNinja | 23 | 12 | 0 | +11.68 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -138,19 +138,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 9 | 13 | 1 | -42.78 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 73 | 57 | 3 | -121.09 USD |
+|  | 73 | 58 | 2 | -126.19 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4427
-- **Aciertos:** 2790 (63.0%)
+- **Apuestas resueltas:** 4430
+- **Aciertos:** 2791 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,107.77
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $410.26 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,122.77
+- **ROI sobre lo apostado:** -1.65%
+- **Comisiones pagadas (taker fee):** $410.60 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -158,8 +158,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2263 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1329 | 69.1% | 67.8% | +1.3 pp |
+| 40-59% | 2265 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1330 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
@@ -909,7 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ✅ ganada | +0.20 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ✅ ganada | +0.25 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs GamerLegio | GamerLegion (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs GamerLegio | GamerLegion (BUY) | 43% | 5.00 | 3.2% | ✅ ganada | +6.48 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike:  Phantom Academy vs Misa |  Phantom Academy (BUY) | 60% | 5.00 | 3.0% | ⏳ pendiente | — |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | LGD Gaming (BUY) | 42% | 5.00 | 20.2% | 💰 vendida anticipada | -4.58 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 83% | 5.00 | 120.4% | 💰 vendida anticipada | +0.98 |
