@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.3085875820758,
+  "bankroll": 272.68016385326223,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22895,6 +22895,11 @@
       "timestamp": 1788853978.921676,
       "bankroll": 269.31,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Legacy vs magic (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788854227.2851958,
+      "bankroll": 272.68,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: LGC (-1.5) vs magic (+1.5)"
     }
   ]
 }
