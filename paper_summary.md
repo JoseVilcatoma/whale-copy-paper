@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 11:02:30 (hora de Perú)
+Actualizado: 2026-09-08 11:04:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $263.64
-**Retorno acumulado:** -47.27%
+**Bankroll actual:** $258.56
+**Retorno acumulado:** -48.29%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 11:02:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $148.64)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $148.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,10 +24,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 76 | 41 | 4 | +32.26 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 76 | 42 | 3 | +27.18 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4426
+- **Apuestas resueltas:** 4427
 - **Aciertos:** 2790 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,102.77
-- **ROI sobre lo apostado:** -1.61%
-- **Comisiones pagadas (taker fee):** $410.17 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,107.77
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $410.26 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2263 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1328 | 69.1% | 67.8% | +1.3 pp |
+| 60-79% | 1329 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
@@ -904,7 +904,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ✅ ganada | +0.84 |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Burnley FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 7.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ❌ perdida | -5.08 |
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 256.6% | ✅ ganada | +0.78 |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ✅ ganada | +0.20 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |

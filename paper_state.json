@@ -1,5 +1,5 @@
 {
-  "bankroll": 263.6414470443257,
+  "bankroll": 258.5564470443257,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23140,6 +23140,11 @@
       "timestamp": 1788882466.8631382,
       "bankroll": 263.64,
       "event": "lost: sbsigner \u2014 Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788883411.255402,
+      "bankroll": 258.56,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Astralis - Map 1 Winner"
     }
   ]
 }
