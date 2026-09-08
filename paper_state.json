@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.7135673316212,
+  "bankroll": 257.1585673316212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23055,6 +23055,16 @@
       "timestamp": 1788867307.752931,
       "bankroll": 251.71,
       "event": "won: Sunshine.Smile \u2014 Dota 2: Power Rangers vs HULIGANI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788869833.0835054,
+      "bankroll": 254.44,
+      "event": "won: Sunshine.Smile \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788869833.1836426,
+      "bankroll": 257.16,
+      "event": "won: GoodGuy26 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner"
     }
   ]
 }

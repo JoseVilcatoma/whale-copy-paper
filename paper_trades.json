@@ -114446,8 +114446,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -114470,8 +114470,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "Sunshine.Smile"
     ],
@@ -114839,8 +114839,8 @@
     "title": "Counter-Strike: PARIVISION vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "PARIVISION",
     "side": "BUY",
-    "whale_usd": 5165.471799999999,
-    "whale_pct": 22.878,
+    "whale_usd": 9315.4718,
+    "whale_pct": 41.259,
     "whale_value_at_open": 22578.212,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -114851,7 +114851,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788869657.3617675,
-    "fills": 1
+    "last_fill_at": 1788869776.0752647,
+    "fills": 2
   }
 ]

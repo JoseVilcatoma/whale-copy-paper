@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 07:15:09 (hora de Perú)
+Actualizado: 2026-09-08 07:17:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $251.71
-**Retorno acumulado:** -49.66%
+**Bankroll actual:** $257.16
+**Retorno acumulado:** -48.57%
 **Peor caída desde un máximo (drawdown):** 59.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 07:15:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $101.71)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $117.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,11 +37,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ExplosiveNinja | 20 | 11 | 3 | +13.88 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| Sunshine.Smile | 12 | 5 | 0 | +13.03 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 2 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Sunshine.Smile | 11 | 5 | 1 | +10.31 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -67,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | martingaleking | 1 | 0 | 0 | +2.84 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
+| GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 7 | 1 | +2.51 USD |
@@ -85,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| GoodGuy26 | 0 | 0 | 1 | +0.00 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4410
-- **Aciertos:** 2777 (63.0%)
+- **Apuestas resueltas:** 4412
+- **Aciertos:** 2779 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,022.77
-- **ROI sobre lo apostado:** -1.67%
-- **Comisiones pagadas (taker fee):** $408.92 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,032.77
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $409.10 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2257 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1324 | 69.0% | 67.8% | +1.2 pp |
+| 60-79% | 1326 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 582 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
 
@@ -891,7 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 22.9% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: PARIVISION vs TYLOO (BO3 | PARIVISION (BUY) | 85% | 5.00 | 41.3% | ⏳ pendiente | — |
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Burnley FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 7.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -906,8 +906,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 48% | 5.00 | 47.2% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Power Rangers vs HULIGANI - Game | HULIGANI (BUY) | 67% | 5.00 | 23.9% | ✅ ganada | +2.38 |
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ✅ ganada | +4.88 |
-| GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ⏳ pendiente | — |
-| Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ⏳ pendiente | — |
+| GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ✅ ganada | +2.72 |
+| Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ✅ ganada | +2.72 |
 |  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ❌ perdida | -5.15 |
 | five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | 💰 vendida anticipada | -2.96 |
 |  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ✅ ganada | +2.97 |
