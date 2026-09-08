@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.41677369423002,
+  "bankroll": 255.09869526285746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23105,6 +23105,11 @@
       "timestamp": 1788877215.78393,
       "bankroll": 250.42,
       "event": "lost:  \u2014 Genoa: Pedro Martinez vs Francesco Forti"
+    },
+    {
+      "timestamp": 1788877715.7704844,
+      "bankroll": 255.1,
+      "event": "won: UpTheBlues \u2014 Will FC Seoul win on 2026-09-08?"
     }
   ]
 }
