@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 20:29:35 (hora de Perú)
+Actualizado: 2026-09-07 20:31:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $315.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 20:29:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $120.19)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $115.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
-| Wiretransferxyz | 8 | 4 | 1 | +3.20 USD |
+| Wiretransferxyz | 8 | 4 | 2 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -875,7 +875,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 8.8% | ⏳ pendiente | — |
+| Wiretransferxyz | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 9.9% | ⏳ pendiente | — |
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -904,4 +905,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 78.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ✅ ganada | +1.87 |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
