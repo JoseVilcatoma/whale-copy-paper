@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 19:36:17 (hora de Perú)
+Actualizado: 2026-09-07 19:38:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.04
@@ -887,7 +887,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | SMU vs. Florida State | Florida State (BUY) | 43% | 5.00 | 15.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 32.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 2.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
