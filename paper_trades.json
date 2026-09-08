@@ -114080,5 +114080,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788853021.2033696,
     "fills": 3
+  },
+  {
+    "timestamp": 1788853023,
+    "timestamp_added": 1788853024.0187736,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-couturi-lajal-2026-09-07",
+    "title": "Cassis: Lenny Couturier vs Mark Lajal",
+    "outcome": "Mark Lajal",
+    "side": "BUY",
+    "whale_usd": 3980.44312,
+    "whale_pct": 6.298,
+    "whale_value_at_open": 63200.8831,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788853039.002771,
+    "fills": 3
   }
 ]
