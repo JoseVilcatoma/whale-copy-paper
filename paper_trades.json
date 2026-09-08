@@ -116158,8 +116158,8 @@
     "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
     "outcome": "Cadence Brace",
     "side": "BUY",
-    "whale_usd": 30000.0,
-    "whale_pct": 35.02,
+    "whale_usd": 35000.0,
+    "whale_pct": 40.857,
     "whale_value_at_open": 85665.4568,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -116172,8 +116172,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788908024.6295962,
-    "fills": 4
+    "last_fill_at": 1788908444.5516026,
+    "fills": 5
   },
   {
     "timestamp": 1788908291,
