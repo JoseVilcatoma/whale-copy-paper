@@ -1,5 +1,5 @@
 {
-  "bankroll": 296.1928310217736,
+  "bankroll": 291.31866940561196,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22750,6 +22750,21 @@
       "timestamp": 1788841022.490989,
       "bankroll": 296.19,
       "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics: O/U 7.5"
+    },
+    {
+      "timestamp": 1788841404.9792593,
+      "bankroll": 296.39,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1788841406.3387246,
+      "bankroll": 291.27,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1788841406.6391764,
+      "bankroll": 291.32,
+      "event": "won:  \u2014 US Open ATP: Alexander Zverev vs Luciano Darderi"
     }
   ]
 }
