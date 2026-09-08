@@ -113372,8 +113372,8 @@
     "title": "Map Handicap: K27 (-1.5) vs largadosypelados (+1.5)",
     "outcome": "largadosypelados",
     "side": "BUY",
-    "whale_usd": 11789.734353,
-    "whale_pct": 55.59,
+    "whale_usd": 13975.991853,
+    "whale_pct": 65.899,
     "whale_value_at_open": 21208.1868,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -113384,8 +113384,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788840019.5362048,
-    "fills": 4
+    "last_fill_at": 1788840938.4943192,
+    "fills": 5
   },
   {
     "timestamp": 1788839110,
