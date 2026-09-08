@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 13:01:07 (hora de Perú)
+Actualizado: 2026-09-08 13:03:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $249.71
@@ -895,7 +895,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
-| mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 195.3% | ⏳ pendiente | — |
+| mimi121 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 61% | 5.00 | 207.9% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Real Betis Balompié win on 2026-09- | No (BUY) | 73% | 5.00 | 97.6% | ⏳ pendiente | — |
 | totoro3miyazaki | Will Lille OSC win on 2026-09-08? | Yes (BUY) | 45% | 5.00 | 53.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Natus Vincere vs Klim Sani4 - Ga | Klim Sani4 (BUY) | 42% | 5.00 | 23.6% | ⏳ pendiente | — |

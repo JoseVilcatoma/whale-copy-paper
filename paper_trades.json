@@ -115328,8 +115328,8 @@
     "title": "Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "9z",
     "side": "BUY",
-    "whale_usd": 14223.249000000002,
-    "whale_pct": 195.277,
+    "whale_usd": 15146.319000000001,
+    "whale_pct": 207.95,
     "whale_value_at_open": 7283.64,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -115340,8 +115340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788890432.813125,
-    "fills": 6
+    "last_fill_at": 1788890487.314872,
+    "fills": 7
   },
   {
     "timestamp": 1788890434,
