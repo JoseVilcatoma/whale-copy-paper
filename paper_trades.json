@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 99830.47941000003,
-    "whale_pct": 34.577,
+    "whale_usd": 103988.00871000002,
+    "whale_pct": 36.017,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788828055.152104,
-    "fills": 27
+    "last_fill_at": 1788828356.7511687,
+    "fills": 30
   },
   {
     "timestamp": 1788816422,
@@ -112761,6 +112761,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788827473.5280154,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788828320,
+    "timestamp_added": 1788828320.9932652,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-all-faze-2026-09-08-map-handicap-home-1pt5",
+    "title": "Map Handicap: FaZe (-1.5) vs Alliance (+1.5)",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 579.3690999999999,
+    "whale_pct": 3.056,
+    "whale_value_at_open": 18959.1987,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788828320.9932752,
     "fills": 1
   }
 ]
