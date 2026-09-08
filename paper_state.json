@@ -1,5 +1,5 @@
 {
-  "bankroll": 257.1585673316212,
+  "bankroll": 257.2985673316212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23065,6 +23065,11 @@
       "timestamp": 1788869833.1836426,
       "bankroll": 257.16,
       "event": "won: GoodGuy26 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788872385.8735516,
+      "bankroll": 257.3,
+      "event": "venta anticipada: Gambler661 \u2014 Tulln: Alex Molcan vs Joao Lucas Da Silva (+0.14 USD)"
     }
   ]
 }
