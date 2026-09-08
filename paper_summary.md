@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 09:21:39 (hora de Perú)
+Actualizado: 2026-09-08 09:23:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.42
@@ -899,7 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Genoa: Pedro Martinez vs Francesco Forti | Francesco Forti (BUY) | 42% | 5.00 | 12.5% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Burnley FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 7.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 137.2% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 86% | 5.00 | 256.6% | ⏳ pendiente | — |
 | five5120 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 96% | 5.00 | 58.5% | ✅ ganada | +0.20 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 70% | 5.00 | 34.9% | ✅ ganada | +2.07 |
 | zofgkt1111 | LoL: Invictus Gaming vs LGD Gaming (BO5) | Invictus Gaming (BUY) | 95% | 5.00 | 51.4% | ✅ ganada | +0.25 |

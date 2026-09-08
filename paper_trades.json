@@ -114741,8 +114741,8 @@
     "title": "Counter-Strike: GamerLegion vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 21000.0,
-    "whale_pct": 137.179,
+    "whale_usd": 39274.2186,
+    "whale_pct": 256.552,
     "whale_value_at_open": 15308.4833,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -114755,8 +114755,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788865809.1302438,
-    "fills": 1
+    "last_fill_at": 1788877345.0302002,
+    "fills": 2
   },
   {
     "timestamp": 1788867938,
