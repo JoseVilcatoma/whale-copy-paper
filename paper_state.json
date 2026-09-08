@@ -1,5 +1,5 @@
 {
-  "bankroll": 266.7019799452163,
+  "bankroll": 268.22092731363733,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22920,6 +22920,11 @@
       "timestamp": 1788856284.9468412,
       "bankroll": 266.7,
       "event": "won:  \u2014 Phan Thiet 3: Moise Kouame vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1788859768.4499667,
+      "bankroll": 268.22,
+      "event": "won:  \u2014 Cassis: Mae Malige vs Sascha Gueymard-Wayenburg"
     }
   ]
 }
