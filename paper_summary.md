@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 15:06:10 (hora de Perú)
+Actualizado: 2026-09-08 15:08:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $227.79
@@ -899,7 +899,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 52.1% | ⏳ pendiente | — |
+| Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 55.5% | ⏳ pendiente | — |
 | Gambler661 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 69% | 5.00 | 21.1% | ⏳ pendiente | — |
 | Antblack | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 50% | 5.00 | 32.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 4.9% | ⏳ pendiente | — |
