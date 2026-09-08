@@ -1,5 +1,5 @@
 {
-  "bankroll": 272.68016385326223,
+  "bankroll": 273.39429029004384,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22900,6 +22900,11 @@
       "timestamp": 1788854227.2851958,
       "bankroll": 272.68,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: LGC (-1.5) vs magic (+1.5)"
+    },
+    {
+      "timestamp": 1788855167.2855651,
+      "bankroll": 273.39,
+      "event": "won: hurrican \u2014 Counter-Strike: MIBR vs TheMongolz - Map 2 Winner"
     }
   ]
 }
