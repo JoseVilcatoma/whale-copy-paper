@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.20107238212623,
+  "bankroll": 253.0454253233027,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23080,6 +23080,11 @@
       "timestamp": 1788874247.8733497,
       "bankroll": 252.2,
       "event": "won:  \u2014 Cassis: Lenny Couturier vs Mark Lajal"
+    },
+    {
+      "timestamp": 1788875003.3140466,
+      "bankroll": 253.05,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: PARIVISION vs TYLOO (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
