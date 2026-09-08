@@ -114781,5 +114781,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788867939.0564039,
     "fills": 1
+  },
+  {
+    "timestamp": 1788868619,
+    "timestamp_added": 1788868620.1083965,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "elc-wre-bur-2026-09-08-total-2pt5",
+    "title": "Wrexham AFC vs. Burnley FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2236.5,
+    "whale_pct": 7.307,
+    "whale_value_at_open": 30607.7556,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788868620.1084116,
+    "fills": 1
   }
 ]
