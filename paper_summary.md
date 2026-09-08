@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 16:55:16 (hora de Perú)
+Actualizado: 2026-09-08 16:57:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.91
@@ -901,7 +901,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion (BO | GamerLegion (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs BIG (+1.5) | G2 (BUY) | 43% | 5.00 | 2.2% | ⏳ pendiente | — |

@@ -115858,8 +115858,8 @@
     "title": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
     "outcome": "Alex Michelsen",
     "side": "BUY",
-    "whale_usd": 521.0,
-    "whale_pct": 0.219,
+    "whale_usd": 1423.3693389999999,
+    "whale_pct": 0.599,
     "whale_value_at_open": 237465.4454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -115875,8 +115875,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788904325.4998596,
-    "fills": 1
+    "last_fill_at": 1788904604.5203025,
+    "fills": 2
   },
   {
     "timestamp": 1788904365,
