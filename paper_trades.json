@@ -115684,8 +115684,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Carolina M. Alves",
     "outcome": "Carolina M. Alves",
     "side": "BUY",
-    "whale_usd": 6500.0,
-    "whale_pct": 29.108,
+    "whale_usd": 11628.810079,
+    "whale_pct": 52.076,
     "whale_value_at_open": 22330.4608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -115696,7 +115696,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788897574.4012942,
-    "fills": 2
+    "last_fill_at": 1788897968.7332664,
+    "fills": 4
   }
 ]
