@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 20:02:52 (hora de Perú)
+Actualizado: 2026-09-07 20:04:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-07 20:02:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $135.04)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $125.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
-| wr0ngw4yb3tt0r | 46 | 34 | 3 | +5.43 USD |
+| wr0ngw4yb3tt0r | 46 | 34 | 5 | +5.43 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 |  | 15 | 13 | 1 | +5.19 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -875,7 +875,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 10.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | SMU vs. Florida State: O/U 54.5 | Under (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 11.7% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -899,9 +901,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 63% | 5.00 | 78.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Detroit Tigers: O/U  | Under (BUY) | 72% | 5.00 | 0.2% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 9.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Arthur Gea vs Botic van de  | Arthur Gea (BUY) | 46% | 5.00 | 37.2% | ⏳ pendiente | — |
 | Feromont | SMU vs. Florida State | Florida State (BUY) | 44% | 5.00 | 40.1% | ⏳ pendiente | — |
 |  | US Open ATP: Arthur Gea vs Botic van de  | Botic van de Zandschulp (BUY) | 63% | 5.00 | 38.1% | ⏳ pendiente | — |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will SS Lazio win on 2026-09-07? | No (BUY) | 92% | 5.00 | 11.8% | ❌ perdida | -5.02 |
-| SkyonX | Chicago Cubs vs. Milwaukee Brewers: O/U  | Over (BUY) | 58% | 5.00 | 37.4% | ✅ ganada | +3.52 |
