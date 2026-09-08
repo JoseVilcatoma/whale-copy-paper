@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.69656539986215,
+  "bankroll": 232.9202017634985,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23225,6 +23225,11 @@
       "timestamp": 1788895720.7576413,
       "bankroll": 226.7,
       "event": "lost:  \u2014 Seville: Jaume Munar vs Oriol Roca Batalla"
+    },
+    {
+      "timestamp": 1788896727.0144506,
+      "bankroll": 232.92,
+      "event": "won:  \u2014 Genoa: Lorenzo Sonego vs Francesco Passaro"
     }
   ]
 }
