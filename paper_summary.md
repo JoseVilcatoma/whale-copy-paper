@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 23:40:42 (hora de Perú)
+Actualizado: 2026-09-07 23:42:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $292.03
@@ -882,7 +882,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 5.6% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | SkyonX | Counter-Strike: Legacy vs magic - Map 2  | Legacy (BUY) | 78% | 5.00 | 26.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Mert Alkaya vs Tiago Torres | Tiago Torres (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics | Athletics (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
