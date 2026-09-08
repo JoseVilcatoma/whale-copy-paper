@@ -112404,8 +112404,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 83981.34617699997,
-    "whale_pct": 37.948,
+    "whale_usd": 84535.48217699997,
+    "whale_pct": 38.198,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -112418,8 +112418,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829896.0849195,
-    "fills": 24
+    "last_fill_at": 1788830897.0648458,
+    "fills": 25
   },
   {
     "timestamp": 1788819525,
@@ -112951,8 +112951,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 1200.0,
-    "whale_pct": 0.363,
+    "whale_usd": 29120.9983,
+    "whale_pct": 8.821,
     "whale_value_at_open": 330133.3552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -112966,7 +112966,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788830556.010759,
-    "fills": 1
+    "last_fill_at": 1788830968.47423,
+    "fills": 8
   }
 ]

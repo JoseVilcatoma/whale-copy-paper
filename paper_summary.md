@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-07 20:27:30 (hora de Perú)
+Actualizado: 2026-09-07 20:29:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $315.19
@@ -875,7 +875,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers | Cincinnati Reds (BUY) | 49% | 5.00 | 8.8% | ⏳ pendiente | — |
 |  | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 49% | 5.00 | 10.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Cincinnati Reds (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | SMU vs. Florida State | SMU (BUY) | 59% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -897,7 +897,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Washington Nationals vs. San Diego Padre | San Diego Padres (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | sbsigner | Will EC Vitória win on 2026-09-07? | No (BUY) | 56% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Karen Khachanov (BUY) | 41% | 5.00 | 21.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 37.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Learner  | Learner Tien (BUY) | 62% | 5.00 | 38.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Katrina Scott (BUY) | 52% | 5.00 | 2.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Barranquilla: Katrina Scott vs Varvara L | Varvara Lepchenko (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
 | theowalcott | Will EC Vitória win on 2026-09-07? | Yes (BUY) | 46% | 5.00 | 84.3% | ⏳ pendiente | — |
