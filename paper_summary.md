@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 03:07:42 (hora de Perú)
+Actualizado: 2026-09-08 03:09:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $272.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 03:07:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $92.68)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $87.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| Sunshine.Smile | 9 | 4 | 1 | +11.26 USD |
+| Sunshine.Smile | 9 | 4 | 2 | +11.26 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | zofgkt1111 | 15 | 11 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -885,8 +885,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
 |  | Cassis: Mae Malige vs Sascha Gueymard-Wa | Sascha Gueymard-Wayenburg (BUY) | 76% | 5.00 | 2.2% | ⏳ pendiente | — |
-|  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 76.2% | ⏳ pendiente | — |
+|  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Kenta Miyoshi (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | Tulln: Daniel Siniakov vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | TheMongolz (BUY) | 53% | 5.00 | 11.0% | ⏳ pendiente | — |
@@ -914,4 +915,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Map Handicap: FaZe (-1.5) vs Alliance (+ | FaZe (BUY) | 44% | 5.00 | 21.9% | ⏳ pendiente | — |
 | UpTheBlues | Will Aston Villa FC win on 2026-09-08? | No (BUY) | 65% | 5.00 | 8.8% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Florent Bax vs Maximus Jon | Maximus Jones (BUY) | 47% | 5.00 | 15.9% | ✅ ganada | +5.51 |
-| SkyonX | Counter-Strike: Legacy vs magic - Map 2  | Legacy (BUY) | 78% | 5.00 | 26.1% | ❌ perdida | -5.05 |

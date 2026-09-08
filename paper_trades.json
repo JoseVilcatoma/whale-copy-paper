@@ -114189,8 +114189,8 @@
     "title": "Shanghai: Jie Cui vs Fajing Sun",
     "outcome": "Jie Cui",
     "side": "BUY",
-    "whale_usd": 20000.0,
-    "whale_pct": 76.22,
+    "whale_usd": 28000.0,
+    "whale_pct": 106.708,
     "whale_value_at_open": 26239.9281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -114201,8 +114201,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788854483.9499788,
-    "fills": 1
+    "last_fill_at": 1788854961.054176,
+    "fills": 2
   },
   {
     "timestamp": 1788854487,
@@ -114226,6 +114226,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788854488.371205,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788854954,
+    "timestamp_added": 1788854955.3432536,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "lol-t1a-ktc-2026-09-08-game4",
+    "title": "LoL: T1 Academy vs KT Rolster Challengers - Game 4 Winner",
+    "outcome": "T1 Academy",
+    "side": "BUY",
+    "whale_usd": 2244.5424,
+    "whale_pct": 13.898,
+    "whale_value_at_open": 16150.6534,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788854955.3432648,
     "fills": 1
   }
 ]
