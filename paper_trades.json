@@ -114623,8 +114623,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -115389,6 +115389,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788891063.206069,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788891264,
+    "timestamp_added": 1788891264.9879446,
+    "username": "gambamaster",
+    "wallet": "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de",
+    "slug": "ucl-bvb-vil-2026-09-08-bvb",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 4526.315789999999,
+    "whale_pct": 3.12,
+    "whale_value_at_open": 145070.2154,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "sbsigner"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788891318.629924,
     "fills": 2
   }
 ]
