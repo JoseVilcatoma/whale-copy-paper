@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 08:00:52 (hora de Perú)
+Actualizado: 2026-09-08 08:02:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $257.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 08:00:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $107.30)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $102.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| ExplosiveNinja | 20 | 11 | 3 | +13.88 USD |
+| ExplosiveNinja | 20 | 11 | 4 | +13.88 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Sunshine.Smile | 12 | 5 | 0 | +13.03 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -891,6 +891,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 25.7% | ⏳ pendiente | — |
 | Gambler661 | Tulln: Alex Molcan vs Joao Lucas Da Silv | Alex Molcan (BUY) | 68% | 5.00 | 19.6% | 💰 vendida anticipada | +0.14 |
 |  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -920,4 +921,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Tulln: Zdenek Kolar vs Olle Wallin | Olle Wallin (BUY) | 68% | 5.00 | 0.7% | ❌ perdida | -5.08 |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ✅ ganada | +1.78 |
 |  | Cassis: Mae Malige vs Sascha Gueymard-Wa | Sascha Gueymard-Wayenburg (BUY) | 76% | 5.00 | 2.2% | ✅ ganada | +1.52 |
-|  | Shanghai: Jie Cui vs Fajing Sun | Jie Cui (BUY) | 56% | 5.00 | 106.7% | ✅ ganada | +3.82 |

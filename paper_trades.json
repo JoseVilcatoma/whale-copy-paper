@@ -114930,5 +114930,29 @@
     "fills": 2,
     "fee_total_usd": 0.154,
     "closed_price": 72
+  },
+  {
+    "timestamp": 1788872506,
+    "timestamp_added": 1788872506.8884199,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-gl1-furia-2026-09-08-game2",
+    "title": "Counter-Strike: GamerLegion vs FURIA - Map 2 Winner",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 8746.410918,
+    "whale_pct": 25.737,
+    "whale_value_at_open": 33983.4933,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788872570.4937444,
+    "fills": 3
   }
 ]
