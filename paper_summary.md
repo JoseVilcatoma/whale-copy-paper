@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 02:32:53 (hora de Perú)
+Actualizado: 2026-09-08 02:34:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 02:32:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $119.00)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $109.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
-| wr0ngw4yb3tt0r | 49 | 36 | 0 | +3.91 USD |
+| wr0ngw4yb3tt0r | 49 | 36 | 1 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | Wiretransferxyz | 8 | 4 | 3 | +3.20 USD |
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 66 | 53 | 5 | -116.94 USD |
+|  | 66 | 53 | 6 | -116.94 USD |
 | ferrariChampions2026 | 625 | 396 | 2 | -249.60 USD |
 
 ## Análisis general
@@ -885,6 +885,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Bolton Wanderers FC vs. West Ham United  | Over (BUY) | 63% | 5.00 | 20.9% | ⏳ pendiente | — |
+|  | Antalya 4: Eva Bennemann vs Katarzyna Ka | Katarzyna Kawa (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | hurrican | Counter-Strike: MIBR vs TheMongolz - Map | MIBR (BUY) | 87% | 5.00 | 66.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | hurrican | LoL: T1 Academy vs KT Rolster Challenger | KT Rolster Challengers (BUY) | 76% | 5.00 | 425.0% | ⏳ pendiente | — |
@@ -913,5 +915,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Athletics (-3.5) | Athletics (BUY) | 55% | 5.00 | 1.0% | ❌ perdida | -5.11 |
 | Wiretransferxyz | Map Handicap: K27 (-1.5) vs largadosypel | largadosypelados (BUY) | 50% | 5.00 | 65.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 52% | 5.00 | 0.8% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Spread: Athletics (-2.5) | Athletics (BUY) | 63% | 5.00 | 3.9% | ❌ perdida | -5.09 |
-| SkyonX | SMU vs. Florida State: O/U 51.5 | Over (BUY) | 47% | 5.00 | 37.6% | ❌ perdida | -5.13 |
