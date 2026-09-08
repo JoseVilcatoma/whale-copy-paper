@@ -1,5 +1,5 @@
 {
-  "bankroll": 279.72905128518016,
+  "bankroll": 274.58105128518014,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22955,6 +22955,11 @@
       "timestamp": 1788861206.2040179,
       "bankroll": 279.73,
       "event": "won:  \u2014 Shanghai: Jie Cui vs Fajing Sun"
+    },
+    {
+      "timestamp": 1788861395.059747,
+      "bankroll": 274.58,
+      "event": "lost:  \u2014 Istanbul 3: Jay Dylan Friend vs Michele Ribecai"
     }
   ]
 }

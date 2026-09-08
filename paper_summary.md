@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 04:55:39 (hora de Perú)
+Actualizado: 2026-09-08 04:57:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $279.73
-**Retorno acumulado:** -44.05%
+**Bankroll actual:** $274.58
+**Retorno acumulado:** -45.08%
 **Peor caída desde un máximo (drawdown):** 56.59%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 04:55:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $84.73)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $84.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | totoro3miyazaki | 3 | 0 | 0 | +5.66 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-|  | 18 | 15 | 2 | +4.96 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | wr0ngw4yb3tt0r | 49 | 36 | 1 | +3.91 USD |
@@ -88,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | five5120 | 0 | 0 | 2 | +0.00 USD |
 | GoodGuy26 | 0 | 0 | 1 | +0.00 USD |
+|  | 18 | 16 | 1 | -0.19 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
@@ -143,14 +143,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4393
+- **Apuestas resueltas:** 4394
 - **Aciertos:** 2769 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $21,937.77
-- **ROI sobre lo apostado:** -1.57%
-- **Comisiones pagadas (taker fee):** $407.33 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $21,942.77
+- **ROI sobre lo apostado:** -1.60%
+- **Comisiones pagadas (taker fee):** $407.48 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -158,7 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2250 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2251 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1315 | 69.1% | 67.8% | +1.3 pp |
 | 80-94% | 581 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 247 | 96.8% | 97.3% | -0.6 pp |
@@ -895,7 +895,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Elias Ymer vs Pavel Kotov | Pavel Kotov (BUY) | 50% | 5.00 | 7.7% | ⏳ pendiente | — |
 | GoodGuy26 | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 85.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Invictus Gaming vs LGD Gaming - Gam | Invictus Gaming (BUY) | 64% | 5.00 | 217.4% | ⏳ pendiente | — |
-|  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ⏳ pendiente | — |
+|  | Istanbul 3: Jay Dylan Friend vs Michele  | Michele Ribecai (BUY) | 41% | 5.00 | 4.9% | ❌ perdida | -5.15 |
 | five5120 | Games Total: O/U 3.5 | Over (BUY) | 81% | 5.00 | 65.0% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Sergio Callejon vs Ilia Si | Ilia Simakin (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: Alliance vs FaZe (BO3) - | Alliance (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
