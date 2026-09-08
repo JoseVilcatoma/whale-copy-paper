@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 00:13:17 (hora de Perú)
+Actualizado: 2026-09-08 00:15:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $286.35
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 00:13:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $116.35)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $111.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 63 | 51 | 4 | -114.42 USD |
+|  | 63 | 51 | 5 | -114.42 USD |
 | ferrariChampions2026 | 622 | 393 | 8 | -241.57 USD |
 
 ## Análisis general
@@ -882,6 +882,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Phan Thiet 3: Florent Bax vs Maximus Jon | Florent Bax (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Club Brugge KV vs. Aston Villa FC: O/U 2 | Over (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Benjamin O'Connell vs Blak | Blake Ellis (BUY) | 82% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Alliance vs FaZe (BO3) - | FaZe (BUY) | 73% | 5.00 | 40.2% | ⏳ pendiente | — |
@@ -911,4 +912,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 82% | 5.00 | 9.2% | ✅ ganada | +1.05 |
 | martingaleking | SMU vs. Florida State | SMU (BUY) | 63% | 5.00 | 412.7% | ✅ ganada | +2.84 |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Luciano | Alexander Zverev (BUY) | 96% | 5.00 | 67.1% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
