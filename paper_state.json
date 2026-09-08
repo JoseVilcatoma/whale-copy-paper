@@ -1,5 +1,5 @@
 {
-  "bankroll": 261.1571094766315,
+  "bankroll": 249.332880764457,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23020,6 +23020,36 @@
       "timestamp": 1788864155.0662258,
       "bankroll": 261.16,
       "event": "won:  \u2014 Tulln: Daniel Siniakov vs Vitaliy Sachko"
+    },
+    {
+      "timestamp": 1788864505.3077087,
+      "bankroll": 264.67,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FaZe (-1.5) vs Alliance (+1.5)"
+    },
+    {
+      "timestamp": 1788864505.4980097,
+      "bankroll": 259.6,
+      "event": "lost: sbsigner \u2014 Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788864505.5981543,
+      "bankroll": 254.46,
+      "event": "lost: Wiretransferxyz \u2014 Map Handicap: FaZe (-1.5) vs Alliance (+1.5)"
+    },
+    {
+      "timestamp": 1788864507.0482628,
+      "bankroll": 249.32,
+      "event": "lost: ExplosiveNinja \u2014 Map Handicap: FaZe (-1.5) vs Alliance (+1.5)"
+    },
+    {
+      "timestamp": 1788864507.1484108,
+      "bankroll": 244.26,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788864509.6281967,
+      "bankroll": 249.33,
+      "event": "won:  \u2014 Counter-Strike: Alliance vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
