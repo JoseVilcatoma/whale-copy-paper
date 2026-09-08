@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 18:44:26 (hora de Perú)
+Actualizado: 2026-09-08 18:46:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $214.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 18:44:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $74.48)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $69.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -141,7 +141,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 74 | 60 | 4 | -132.91 USD |
+|  | 74 | 60 | 5 | -132.91 USD |
 | ferrariChampions2026 | 626 | 398 | 5 | -256.63 USD |
 
 ## Análisis general
@@ -902,6 +902,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Barranquilla: Emiliana Arango vs Maria P | Emiliana Arango (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 117.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -931,4 +932,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Antblack | Real Madrid CF vs. FC Internazionale Mil | Over (BUY) | 49% | 5.00 | 347.2% | ✅ ganada | +5.08 |
 |  | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 58% | 5.00 | 38.5% | ✅ ganada | +3.52 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 70% | 5.00 | 17.4% | ⏳ pendiente | — |

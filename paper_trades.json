@@ -116248,5 +116248,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788910207.1621084,
     "fills": 1
+  },
+  {
+    "timestamp": 1788911076,
+    "timestamp_added": 1788911077.165515,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-arango-pe-2026-09-08",
+    "title": "Barranquilla: Emiliana Arango vs Maria Paulina Perez",
+    "outcome": "Emiliana Arango",
+    "side": "BUY",
+    "whale_usd": 996.309968,
+    "whale_pct": 0.881,
+    "whale_value_at_open": 113034.9364,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788911077.1655316,
+    "fills": 1
   }
 ]
