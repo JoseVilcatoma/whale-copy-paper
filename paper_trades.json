@@ -112206,8 +112206,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 49821.062312,
-    "whale_pct": 17.256,
+    "whale_usd": 55371.746698,
+    "whale_pct": 19.178,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -112220,8 +112220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832691.521907,
-    "fills": 15
+    "last_fill_at": 1788832753.6698036,
+    "fills": 18
   },
   {
     "timestamp": 1788816680,
@@ -112951,8 +112951,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 39466.984703999995,
-    "whale_pct": 11.955,
+    "whale_usd": 44445.519204,
+    "whale_pct": 13.463,
     "whale_value_at_open": 330133.3552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -112966,8 +112966,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832492.0577285,
-    "fills": 15
+    "last_fill_at": 1788832813.1170359,
+    "fills": 17
   },
   {
     "timestamp": 1788831018,
