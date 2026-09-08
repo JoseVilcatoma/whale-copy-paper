@@ -1,5 +1,5 @@
 {
-  "bankroll": 291.69744640638896,
+  "bankroll": 296.1928310217736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22745,6 +22745,11 @@
       "timestamp": 1788840526.6236432,
       "bankroll": 291.7,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788841022.490989,
+      "bankroll": 296.19,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Athletics: O/U 7.5"
     }
   ]
 }
