@@ -116158,8 +116158,8 @@
     "title": "Barranquilla: Cadence Brace vs Sara Sorribes Tormo",
     "outcome": "Cadence Brace",
     "side": "BUY",
-    "whale_usd": 45000.0,
-    "whale_pct": 52.53,
+    "whale_usd": 65000.0,
+    "whale_pct": 75.877,
     "whale_value_at_open": 85665.4568,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -116172,8 +116172,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788909959.6712685,
-    "fills": 6
+    "last_fill_at": 1788911482.3114088,
+    "fills": 7
   },
   {
     "timestamp": 1788908291,
@@ -116295,6 +116295,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788911365.827443,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788911471,
+    "timestamp_added": 1788911471.7720726,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "mls-mim-clt-2026-09-09-mim",
+    "title": "Will CF Montr\u00e9al win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 597.1048999999999,
+    "whale_pct": 0.42,
+    "whale_value_at_open": 142002.6666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788911471.7720885,
     "fills": 1
   }
 ]
