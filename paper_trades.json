@@ -115074,5 +115074,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788881630.8807197,
     "fills": 1
+  },
+  {
+    "timestamp": 1788883266,
+    "timestamp_added": 1788883267.200747,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ucl-bru-ast-2026-09-08-bru",
+    "title": "Will Club Brugge KV win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 104882.80840000001,
+    "whale_pct": 76.625,
+    "whale_value_at_open": 136878.3335,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788883267.2007594,
+    "fills": 1
   }
 ]
