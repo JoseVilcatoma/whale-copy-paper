@@ -116028,5 +116028,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788905274.0585556,
     "fills": 1
+  },
+  {
+    "timestamp": 1788906170,
+    "timestamp_added": 1788906170.8831153,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lib-flu-cp-2026-09-08-total-2pt5",
+    "title": "Fluminense FC vs. CA Platense: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 677.0100000000001,
+    "whale_pct": 1.066,
+    "whale_value_at_open": 63497.4135,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788906170.8831267,
+    "fills": 1
   }
 ]
