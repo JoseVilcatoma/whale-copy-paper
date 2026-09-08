@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.26596990575052,
+  "bankroll": 231.81156539986216,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23200,6 +23200,26 @@
       "timestamp": 1788893712.7540524,
       "bankroll": 227.27,
       "event": "lost: Sunshine.Smile \u2014 Dota 2: Natus Vincere vs Klim Sani4 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788894085.6175582,
+      "bankroll": 222.18,
+      "event": "lost: UpTheBlues \u2014 Will Aston Villa FC win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788894086.0707395,
+      "bankroll": 226.0,
+      "event": "won: UpTheBlues \u2014 Club Brugge KV vs. Aston Villa FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788894089.5459697,
+      "bankroll": 228.84,
+      "event": "won: Jsram \u2014 Will Club Brugge KV win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788894090.0689142,
+      "bankroll": 231.81,
+      "event": "won: sbsigner \u2014 Will Club Brugge KV win on 2026-09-08?"
     }
   ]
 }

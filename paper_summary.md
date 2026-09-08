@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 14:00:33 (hora de Perú)
+Actualizado: 2026-09-08 14:02:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $227.27
-**Retorno acumulado:** -54.55%
-**Peor caída desde un máximo (drawdown):** 62.51%
+**Bankroll actual:** $231.81
+**Retorno acumulado:** -53.64%
+**Peor caída desde un máximo (drawdown):** 63.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 14:00:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $72.27)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $91.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 43 | 3 | +28.56 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 43 | 4 | +28.56 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -83,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | Gambler661 | 3 | 0 | 0 | +0.64 USD |
+| Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -96,7 +97,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
-| Jsram | 3 | 2 | 1 | -2.32 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 6 | 6 | 0 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -127,8 +127,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| UpTheBlues | 3 | 4 | 3 | -14.66 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| UpTheBlues | 4 | 5 | 1 | -15.93 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -139,21 +139,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 7 | 11 | 0 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| sbsigner | 9 | 15 | 2 | -53.05 USD |
+| sbsigner | 10 | 15 | 1 | -50.08 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 73 | 58 | 2 | -126.19 USD |
 | ferrariChampions2026 | 625 | 397 | 1 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4437
-- **Aciertos:** 2792 (62.9%)
+- **Apuestas resueltas:** 4441
+- **Aciertos:** 2795 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,157.77
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $411.43 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,177.77
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $411.82 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,8 +161,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2270 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1332 | 68.9% | 67.8% | +1.1 pp |
+| 40-59% | 2271 | 49.9% | 50.1% | -0.1 pp |
+| 60-79% | 1335 | 68.9% | 67.8% | +1.1 pp |
 | 80-94% | 585 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
 
@@ -899,10 +899,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Antblack | Real Madrid CF vs. FC Internazionale Mil | Over (BUY) | 49% | 5.00 | 174.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR - Map 2 Winne | MIBR (BUY) | 46% | 5.00 | 2.6% | ⏳ pendiente | — |
+| Antblack | Real Madrid CF vs. FC Internazionale Mil | Over (BUY) | 49% | 5.00 | 347.2% | ⏳ pendiente | — |
 |  | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 58% | 5.00 | 38.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 70% | 5.00 | 2.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 6.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 70% | 5.00 | 5.1% | ⏳ pendiente | — |
 |  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 101.4% | ⏳ pendiente | — |
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 45% | 5.00 | 1122.8% | ⏳ pendiente | — |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 57% | 5.00 | 86.8% | ⏳ pendiente | — |
@@ -917,9 +918,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Seville: Jaume Munar vs Oriol Roca Batal | Oriol Roca Batalla (BUY) | 54% | 5.00 | 44.7% | ⏳ pendiente | — |
 | sbsigner | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 46% | 5.00 | 436.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 67% | 5.00 | 261.0% | ❌ perdida | -5.08 |
-| sbsigner | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 62% | 5.00 | 54.1% | ⏳ pendiente | — |
+| sbsigner | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 62% | 5.00 | 54.1% | ✅ ganada | +2.97 |
 | martingaleking | US Open ATP: Frances Tiafoe vs Alex Mich | Frances Tiafoe (BUY) | 61% | 5.00 | 266.3% | ⏳ pendiente | — |
-| Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ⏳ pendiente | — |
+| Jsram | Will Club Brugge KV win on 2026-09-08? | No (BUY) | 63% | 5.00 | 76.6% | ✅ ganada | +2.84 |
 | wr0ngw4yb3tt0r | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 52% | 5.00 | 32.7% | ⏳ pendiente | — |
 |  | Al Hazem SC vs. Al Taawoun Saudi Club: O | Over (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | sbsigner | Counter-Strike: G2 vs Astralis (BO3) - F | G2 (BUY) | 46% | 5.00 | 105.3% | ❌ perdida | -5.13 |
@@ -928,4 +929,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: GamerLegion vs FURIA - M | FURIA (BUY) | 79% | 5.00 | 112.0% | ✅ ganada | +1.28 |
 | Gambler661 | Tulln: Alex Molcan vs Joao Lucas Da Silv | Alex Molcan (BUY) | 68% | 5.00 | 19.6% | 💰 vendida anticipada | +0.14 |
 |  | Antalya 4: Ipek Oz vs Rositsa Dencheva | Rositsa Dencheva (BUY) | 44% | 5.00 | 1098.4% | ✅ ganada | +6.22 |
-| sbsigner | Counter-Strike: GamerLegion vs FURIA (BO | GamerLegion (BUY) | 47% | 5.00 | 4.1% | ❌ perdida | -5.13 |
