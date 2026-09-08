@@ -1,5 +1,5 @@
 {
-  "bankroll": 214.48360584234717,
+  "bankroll": 209.37860584234718,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23345,6 +23345,11 @@
       "timestamp": 1788911034.6829407,
       "bankroll": 214.48,
       "event": "lost:  \u2014 US Open ATP: Frances Tiafoe vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788911353.8312964,
+      "bankroll": 209.38,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Ena Koike vs Nadia Podoroska"
     }
   ]
 }
