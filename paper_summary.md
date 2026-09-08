@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 01:29:13 (hora de Perú)
+Actualizado: 2026-09-08 01:31:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 01:29:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $152.95)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $147.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 6 | 1 | -18.45 USD |
-| UpTheBlues | 2 | 4 | 3 | -19.34 USD |
+| UpTheBlues | 2 | 4 | 4 | -19.34 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -882,6 +882,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Manchester City FC win on 2026-09-0 | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
 |  | Counter-Strike: GamerLegion vs FURIA (BO | FURIA (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Moise Kouame vs Kenta Miyo | Moise Kouame (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | UpTheBlues | Will FC Seoul win on 2026-09-08? | No (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -911,4 +912,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | St. Louis Cardinals (BUY) | 49% | 5.00 | 2.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 9.5 | Under (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Toronto Blue Jays vs. Athletics | Toronto Blue Jays (BUY) | 63% | 5.00 | 18.1% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Toronto Blue Jays vs. Athletics: O/U 7.5 | Over (BUY) | 52% | 5.00 | 2.6% | ✅ ganada | +4.50 |
