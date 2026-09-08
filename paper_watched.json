@@ -8,55 +8,55 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1788772089.2348206,
-    "roi_pct": 676.87,
-    "short_term_pct": 100.0
-  },
-  "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
-    "username": "ExplosiveNinja",
-    "added_at": 1788801798.5589626,
-    "roi_pct": 236.73,
+    "roi_pct": 679.45,
     "short_term_pct": 100.0
   },
   "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
     "username": "Wiretransferxyz",
     "added_at": 1788818881.7117405,
-    "roi_pct": 103.76,
+    "roi_pct": 106.02,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1788836300.382671,
-    "roi_pct": 113.53,
-    "short_term_pct": 80.0
+    "roi_pct": 173.66,
+    "short_term_pct": 100.0
   },
   "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814": {
     "username": "sbsigner",
     "added_at": 1788837227.5765772,
-    "roi_pct": 236.57,
+    "roi_pct": 241.66,
     "short_term_pct": 100.0
   },
   "0xd3b034d7bfb2473fb252d0414646d9786bac329e": {
     "username": "Sunshine.Smile",
     "added_at": 1788844129.4131758,
-    "roi_pct": 267.29,
+    "roi_pct": 306.87,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1788845056.44484,
-    "roi_pct": 2381.78,
+    "roi_pct": 2409.26,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1788845056.4448562,
-    "roi_pct": 514.12,
+    "roi_pct": 520.05,
     "short_term_pct": 100.0
   },
-  "0x8718865882e085b764825b637788043c16185040": {
-    "username": "hurrican",
-    "added_at": 1788845983.503809,
-    "roi_pct": 701.8,
+  "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0": {
+    "username": "",
+    "added_at": 1788848768.7434585,
+    "roi_pct": 98.05,
+    "short_term_pct": 100.0
+  },
+  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
+    "username": "UpTheBlues",
+    "added_at": 1788848768.7434602,
+    "roi_pct": 87.43,
     "short_term_pct": 100.0
   }
 }
