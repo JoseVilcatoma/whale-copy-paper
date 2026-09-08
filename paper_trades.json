@@ -115757,8 +115757,8 @@
     "title": "Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 3761.3591999999994,
-    "whale_pct": 2.912,
+    "whale_usd": 6572.253599999999,
+    "whale_pct": 5.088,
     "whale_value_at_open": 129167.1983,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -115769,8 +115769,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788901294.9572127,
-    "fills": 1
+    "last_fill_at": 1788903074.3997695,
+    "fills": 2
   },
   {
     "timestamp": 1788901298,
