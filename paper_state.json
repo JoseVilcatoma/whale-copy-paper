@@ -1,5 +1,5 @@
 {
-  "bankroll": 220.9084550257364,
+  "bankroll": 226.19512169240306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23295,6 +23295,11 @@
       "timestamp": 1788903759.606058,
       "bankroll": 220.91,
       "event": "won: Gambler661 \u2014 Genoa: Stefano Napolitano vs Stefano Travaglia"
+    },
+    {
+      "timestamp": 1788907232.4124134,
+      "bankroll": 226.2,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Watford FC vs. Preston North End FC: O/U 2.5"
     }
   ]
 }

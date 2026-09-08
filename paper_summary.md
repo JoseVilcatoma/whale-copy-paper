@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 17:39:05 (hora de Perú)
+Actualizado: 2026-09-08 17:41:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $220.91
-**Retorno acumulado:** -55.82%
+**Bankroll actual:** $226.20
+**Retorno acumulado:** -54.76%
 **Peor caída desde un máximo (drawdown):** 65.24%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 17:39:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $60.91)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $66.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,13 +41,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| wr0ngw4yb3tt0r | 50 | 36 | 3 | +9.20 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| ExplosiveNinja | 23 | 13 | 1 | +6.60 USD |
+| ExplosiveNinja | 23 | 13 | 2 | +6.60 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -59,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Antblack | 1 | 0 | 1 | +5.08 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
-| wr0ngw4yb3tt0r | 49 | 36 | 4 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -146,14 +146,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4455
-- **Aciertos:** 2802 (62.9%)
+- **Apuestas resueltas:** 4456
+- **Aciertos:** 2803 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,247.77
-- **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $413.37 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,252.77
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $413.50 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2282 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2283 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1337 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 586 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
@@ -900,6 +900,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: 5star vs TheMongolz (BO3 | TheMongolz (BUY) | 93% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: magic vs FaZe (BO3) - FI | FaZe (BUY) | 60% | 5.00 | 565.5% | ⏳ pendiente | — |
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -928,5 +929,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 45% | 5.00 | 1888.3% | ⏳ pendiente | — |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 57% | 5.00 | 86.8% | ✅ ganada | +3.66 |
 | gambamaster | Will BV Borussia 09 Dortmund win on 2026 | No (BUY) | 44% | 5.00 | 3.5% | ❌ perdida | -5.14 |
-| wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
-| mimi121 | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 74% | 5.00 | 242.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Watford FC vs. Preston North End FC: O/U | Over (BUY) | 48% | 5.00 | 10.2% | ✅ ganada | +5.29 |
