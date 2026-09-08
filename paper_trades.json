@@ -116198,5 +116198,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788908291.890429,
     "fills": 1
+  },
+  {
+    "timestamp": 1788908978,
+    "timestamp_added": 1788908979.3067188,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "mlb-min-det-2026-09-08",
+    "title": "Minnesota Twins vs. Detroit Tigers",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 10000.0,
+    "whale_pct": 23.419,
+    "whale_value_at_open": 42700.0666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788908979.3067307,
+    "fills": 1
   }
 ]

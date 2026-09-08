@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 18:07:45 (hora de Perú)
+Actualizado: 2026-09-08 18:09:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 18:07:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $68.72)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $63.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 52 | 36 | 1 | +16.72 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-|  | 23 | 18 | 2 | +15.07 USD |
+|  | 23 | 18 | 3 | +15.07 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -901,6 +901,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 23.4% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 40.9% | ⏳ pendiente | — |
 |  | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -930,4 +931,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs MIBR (BO3) - FISSU | MIBR (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: 9z (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 70% | 5.00 | 17.4% | ⏳ pendiente | — |
 |  | Genoa: Lorenzo Sonego vs Francesco Passa | Francesco Passaro (BUY) | 44% | 5.00 | 101.4% | ✅ ganada | +6.22 |
-|  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 45% | 5.00 | 1888.3% | ⏳ pendiente | — |
