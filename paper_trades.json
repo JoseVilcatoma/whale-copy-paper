@@ -113026,8 +113026,8 @@
     "title": "US Open ATP: Alexander Zverev vs Luciano Darderi",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 12375.047080000002,
-    "whale_pct": 6.733,
+    "whale_usd": 25484.367430000002,
+    "whale_pct": 13.865,
     "whale_value_at_open": 183809.5898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -113038,8 +113038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788832480.367403,
-    "fills": 6
+    "last_fill_at": 1788833057.59442,
+    "fills": 7
   },
   {
     "timestamp": 1788832016,
@@ -113067,6 +113067,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788832016.919391,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788833014,
+    "timestamp_added": 1788833014.3894935,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-sf-2026-09-07",
+    "title": "St. Louis Cardinals vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 1006.0,
+    "whale_pct": 0.566,
+    "whale_value_at_open": 177658.3045,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788833014.389502,
     "fills": 1
   }
 ]
