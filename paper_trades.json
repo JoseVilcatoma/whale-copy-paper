@@ -115148,5 +115148,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788885089.714574,
     "fills": 1
+  },
+  {
+    "timestamp": 1788885896,
+    "timestamp_added": 1788885896.8763344,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-g2-ast10-2026-09-08",
+    "title": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 6816.565799999999,
+    "whale_pct": 100.767,
+    "whale_value_at_open": 6764.7122,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "sbsigner"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788885969.5358777,
+    "fills": 2
   }
 ]
