@@ -113290,5 +113290,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788838312.774429,
     "fills": 2
+  },
+  {
+    "timestamp": 1788838424,
+    "timestamp_added": 1788838424.9451122,
+    "username": "SkyonX",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "cfb-smu-flst-2026-09-07-total-51pt5",
+    "title": "SMU vs. Florida State: O/U 51.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 10432.630000000001,
+    "whale_pct": 27.165,
+    "whale_value_at_open": 38404.5145,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788838463.6698165,
+    "fills": 3
   }
 ]
