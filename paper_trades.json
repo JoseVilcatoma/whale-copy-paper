@@ -113560,5 +113560,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788842378.9396026,
     "fills": 2
+  },
+  {
+    "timestamp": 1788842614,
+    "timestamp_added": 1788842615.2171788,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-all-faze-2026-09-08-map-handicap-home-1pt5",
+    "title": "Map Handicap: FaZe (-1.5) vs Alliance (+1.5)",
+    "outcome": "FaZe",
+    "side": "BUY",
+    "whale_usd": 1290.0,
+    "whale_pct": 4.588,
+    "whale_value_at_open": 28115.7605,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "Wiretransferxyz"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788842615.2171898,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788842654,
+    "timestamp_added": 1788842655.1759715,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-tor-oak-2026-09-07",
+    "title": "Toronto Blue Jays vs. Athletics",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 727.92,
+    "whale_pct": 1.147,
+    "whale_value_at_open": 63489.2581,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788842655.1759837,
+    "fills": 1
   }
 ]
