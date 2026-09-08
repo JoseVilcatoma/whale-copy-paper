@@ -114285,8 +114285,8 @@
     "title": "Map Handicap: FURIA (-1.5) vs GamerLegion (+1.5)",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 4596.7436,
-    "whale_pct": 5.668,
+    "whale_usd": 5386.7558,
+    "whale_pct": 6.643,
     "whale_value_at_open": 81094.9767,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -114299,8 +114299,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788857140.178904,
-    "fills": 2
+    "last_fill_at": 1788858040.0421016,
+    "fills": 3
   },
   {
     "timestamp": 1788857226,
