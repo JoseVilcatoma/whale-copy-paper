@@ -1,5 +1,5 @@
 {
-  "bankroll": 270.4971476707223,
+  "bankroll": 273.4666637997546,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -22970,6 +22970,11 @@
       "timestamp": 1788861890.6132226,
       "bankroll": 270.5,
       "event": "venta anticipada: five5120 \u2014 LoL: Invictus Gaming vs LGD Gaming - Game 1 Winner (+0.98 USD)"
+    },
+    {
+      "timestamp": 1788862329.7601972,
+      "bankroll": 273.47,
+      "event": "won:  \u2014 Phan Thiet 3: Sergio Callejon vs Ilia Simakin"
     }
   ]
 }
