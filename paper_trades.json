@@ -114311,8 +114311,8 @@
     "title": "Counter-Strike: MIBR vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 2048.2604,
-    "whale_pct": 3.61,
+    "whale_usd": 35028.124623,
+    "whale_pct": 61.744,
     "whale_value_at_open": 56730.761,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -114326,7 +114326,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788857226.9235482,
-    "fills": 1
+    "last_fill_at": 1788857288.9908009,
+    "fills": 20
   }
 ]

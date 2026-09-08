@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 03:47:08 (hora de Perú)
+Actualizado: 2026-09-08 03:49:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $266.70
@@ -886,7 +886,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 3.6% | ⏳ pendiente | — |
+| sbsigner | Counter-Strike: MIBR vs TheMongolz (BO3) | MIBR (BUY) | 94% | 5.00 | 61.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: FURIA (-1.5) vs GamerLegio | FURIA (BUY) | 59% | 5.00 | 5.7% | ⏳ pendiente | — |
 |  | Tulln: Zdenek Kolar vs Olle Wallin | Olle Wallin (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: T1 Academy vs KT Rolster Challenger | T1 Academy (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
