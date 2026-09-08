@@ -115504,8 +115504,8 @@
     "title": "Map Handicap: 9z (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 13466.484567,
-    "whale_pct": 12.981,
+    "whale_usd": 15450.820967,
+    "whale_pct": 14.894,
     "whale_value_at_open": 103738.1297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -115516,8 +115516,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788895877.5322056,
-    "fills": 5
+    "last_fill_at": 1788896782.7375066,
+    "fills": 6
   },
   {
     "timestamp": 1788893172,
@@ -115528,8 +115528,8 @@
     "title": "Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 8405.2755,
-    "whale_pct": 8.102,
+    "whale_usd": 9398.1756,
+    "whale_pct": 9.06,
     "whale_value_at_open": 103738.1297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -115542,8 +115542,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788894977.9718869,
-    "fills": 3
+    "last_fill_at": 1788896778.5253944,
+    "fills": 4
   },
   {
     "timestamp": 1788893276,
