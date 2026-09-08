@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.79020176349852,
+  "bankroll": 226.06153509683185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23235,6 +23235,11 @@
       "timestamp": 1788897538.4906385,
       "bankroll": 227.79,
       "event": "lost:  \u2014 Al Hazem SC vs. Al Taawoun Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1788899417.936148,
+      "bankroll": 226.06,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Chicken Coop Esports vs Villainous (BO3) - NSTLGA League Group Stage"
     }
   ]
 }

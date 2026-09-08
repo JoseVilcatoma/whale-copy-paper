@@ -101174,13 +101174,14 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -1.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788645562.2293117,
-    "fills": 3
+    "fills": 3,
+    "closed_price": 50
   },
   {
     "timestamp": 1788640308,
