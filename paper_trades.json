@@ -115174,5 +115174,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788886119.9600587,
     "fills": 4
+  },
+  {
+    "timestamp": 1788886148,
+    "timestamp_added": 1788886149.9407823,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "ucl-bvb-vil-2026-09-08-bvb",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-09-08?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 28595.461499999998,
+    "whale_pct": 295.381,
+    "whale_value_at_open": 9680.874,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788886192.0243196,
+    "fills": 3
   }
 ]
