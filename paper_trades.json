@@ -112132,8 +112132,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 59999.999999,
-    "whale_pct": 38.054,
+    "whale_usd": 105337.216999,
+    "whale_pct": 66.809,
     "whale_value_at_open": 157669.9934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -112144,8 +112144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788814874.7534146,
-    "fills": 4
+    "last_fill_at": 1788829917.01696,
+    "fills": 5
   },
   {
     "timestamp": 1788816384,
@@ -112180,8 +112180,8 @@
     "title": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
     "outcome": "Arthur Gea",
     "side": "BUY",
-    "whale_usd": 107514.12191000003,
-    "whale_pct": 37.238,
+    "whale_usd": 110869.00291000004,
+    "whale_pct": 38.4,
     "whale_value_at_open": 288721.0737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -112194,8 +112194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788828699.01555,
-    "fills": 32
+    "last_fill_at": 1788829916.7981184,
+    "fills": 34
   },
   {
     "timestamp": 1788816422,
@@ -112404,8 +112404,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Learner Tien",
     "side": "BUY",
-    "whale_usd": 77283.90617699997,
-    "whale_pct": 34.921,
+    "whale_usd": 83981.34617699997,
+    "whale_pct": 37.948,
     "whale_value_at_open": 221307.9515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -112418,8 +112418,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788828425.0226593,
-    "fills": 23
+    "last_fill_at": 1788829896.0849195,
+    "fills": 24
   },
   {
     "timestamp": 1788819525,
@@ -112430,8 +112430,8 @@
     "title": "US Open ATP: Karen Khachanov vs Learner Tien",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 39158.834091,
-    "whale_pct": 16.263,
+    "whale_usd": 46414.394090999995,
+    "whale_pct": 19.276,
     "whale_value_at_open": 240785.8421,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -112444,8 +112444,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829795.555289,
-    "fills": 15
+    "last_fill_at": 1788829968.379836,
+    "fills": 16
   },
   {
     "timestamp": 1788820935,
@@ -112798,8 +112798,8 @@
     "title": "Cincinnati Reds vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 53751.3898,
-    "whale_pct": 22.454,
+    "whale_usd": 89091.024,
+    "whale_pct": 37.217,
     "whale_value_at_open": 239380.7024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -112813,8 +112813,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788829804.5354924,
-    "fills": 6
+    "last_fill_at": 1788829916.7969224,
+    "fills": 7
   },
   {
     "timestamp": 1788829404,
@@ -112890,5 +112890,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788829828.4998064,
     "fills": 2
+  },
+  {
+    "timestamp": 1788829889,
+    "timestamp_added": 1788829889.6715274,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-lad-2026-09-07-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 8355.759131,
+    "whale_pct": 3.319,
+    "whale_value_at_open": 251733.9707,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788829977.819086,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788829967,
+    "timestamp_added": 1788829967.8788698,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-khachan-tien-2026-09-07",
+    "title": "US Open ATP: Karen Khachanov vs Learner Tien",
+    "outcome": "Learner Tien",
+    "side": "BUY",
+    "whale_usd": 25000.000000000004,
+    "whale_pct": 10.508,
+    "whale_value_at_open": 237907.4445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788829967.8788846,
+    "fills": 1
   }
 ]
