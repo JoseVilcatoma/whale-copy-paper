@@ -112556,8 +112556,8 @@
     "title": "US Open WTA: Iva Jovic vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 24602.853513000002,
-    "whale_pct": 7.048,
+    "whale_usd": 29025.933513000004,
+    "whale_pct": 8.315,
     "whale_value_at_open": 349098.3,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -112568,8 +112568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788827742.8193982,
-    "fills": 8
+    "last_fill_at": 1788828021.8549445,
+    "fills": 9
   },
   {
     "timestamp": 1788823533,
@@ -112724,8 +112724,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1959.5945000000002,
-    "whale_pct": 0.596,
+    "whale_usd": 7959.5945,
+    "whale_pct": 2.421,
     "whale_value_at_open": 328744.8614,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -112736,8 +112736,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788827435.7910795,
-    "fills": 1
+    "last_fill_at": 1788827951.6380527,
+    "fills": 2
   },
   {
     "timestamp": 1788827473,
