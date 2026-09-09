@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.6978224127783,
+  "bankroll": 227.24445230050574,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23575,6 +23575,41 @@
       "timestamp": 1788939635.3909369,
       "bankroll": 242.7,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788941162.8040345,
+      "bankroll": 237.62,
+      "event": "lost: martingaleking \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941163.156609,
+      "bankroll": 232.55,
+      "event": "lost:  \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941163.813736,
+      "bankroll": 227.49,
+      "event": "lost:  \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941163.9139218,
+      "bankroll": 222.42,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941164.014109,
+      "bankroll": 217.35,
+      "event": "lost: Flaznorp \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941164.1143007,
+      "bankroll": 224.4,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941164.8789067,
+      "bankroll": 227.24,
+      "event": "won: Flaznorp \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
     }
   ]
 }
