@@ -1,5 +1,5 @@
 {
-  "bankroll": 244.66673083451252,
+  "bankroll": 239.56173083451253,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23490,6 +23490,11 @@
       "timestamp": 1788924016.2949731,
       "bankroll": 244.67,
       "event": "won:  \u2014 US Open WTA: Jessica Pegula vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788924703.7142694,
+      "bankroll": 239.56,
+      "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
     }
   ]
 }
