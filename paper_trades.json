@@ -119666,5 +119666,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788985389.6322105,
     "fills": 1
+  },
+  {
+    "timestamp": 1788986011,
+    "timestamp_added": 1788986011.759924,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "ucl-liv-atm-2026-09-09-total-3pt5",
+    "title": "Liverpool FC vs. Club Atl\u00e9tico de Madrid: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 10000.0,
+    "whale_pct": 71.469,
+    "whale_value_at_open": 13991.9852,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788986074.1023993,
+    "fills": 2
   }
 ]

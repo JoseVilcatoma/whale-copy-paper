@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 15:32:46 (hora de Perú)
+Actualizado: 2026-09-09 15:34:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 15:32:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.46 en 37 posiciones abiertas (disponible para nuevas apuestas: $39.77)
+**Capital comprometido ahora mismo:** $185.46 en 38 posiciones abiertas (disponible para nuevas apuestas: $34.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChayEhc | 0 | 0 | 1 | +0.00 USD |
 | tyutgbhnm | 0 | 0 | 1 | +0.00 USD |
 | bands1 | 0 | 0 | 1 | +0.00 USD |
-| Antblack | 1 | 1 | 1 | -0.04 USD |
+| Antblack | 1 | 1 | 2 | -0.04 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-sd-2026-09-08 | , Flaznorp |
 | atp-shelton-alcaraz-2026-09-08 | , Flaznorp, ferrariChampions2026, martingaleking |
 | ucl-fcb-fey-2026-09-09-total-4pt5 | Flaznorp, ferrariChampions2026 |
+| ucl-liv-atm-2026-09-09-total-3pt5 | Antblack, Flaznorp |
 | atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
 | atp-hipfl-barrena-2026-09-09 | , ferrariChampions2026 |
 | wta-escorih-bulgaru-2026-09-09 | , Noprajsk, ferrariChampions2026 |
@@ -922,6 +923,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Antblack | Liverpool FC vs. Club Atlético de Madrid | Over (BUY) | 53% | 5.00 | 71.5% | ⏳ pendiente | — |
 | bands1 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
 | tyutgbhnm | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 47% | 5.00 | 11.8% | ⏳ pendiente | — |
 | Antblack | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 41% | 5.00 | 57.4% | ⏳ pendiente | — |
@@ -951,4 +953,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 2.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 81.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
