@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 02:27:33 (hora de Perú)
+Actualizado: 2026-09-09 02:29:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $247.80
@@ -915,7 +915,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs 1WIN  | 1WIN (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
@@ -923,7 +923,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 39.8% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 16.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 39.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 40.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
