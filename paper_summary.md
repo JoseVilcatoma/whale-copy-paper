@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 00:00:43 (hora de Perú)
+Actualizado: 2026-09-09 00:02:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.09
@@ -912,7 +912,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 6.1% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 6.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -925,7 +925,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ❌ perdida | -5.15 |
-| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 20.2% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 24.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ✅ ganada | +4.32 |
 | Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ✅ ganada | +2.72 |
 |  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |

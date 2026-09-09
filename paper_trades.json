@@ -117162,8 +117162,8 @@
     "title": "Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "BetBoom Team",
     "side": "BUY",
-    "whale_usd": 16395.5948,
-    "whale_pct": 20.235,
+    "whale_usd": 19775.105999999996,
+    "whale_pct": 24.405,
     "whale_value_at_open": 81027.8632,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -117174,8 +117174,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788929187.3037474,
-    "fills": 12
+    "last_fill_at": 1788930158.7628672,
+    "fills": 14
   },
   {
     "timestamp": 1788924700,
@@ -117476,8 +117476,8 @@
     "title": "Will Arsenal FC win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6994.659277,
-    "whale_pct": 6.935,
+    "whale_usd": 7689.574530999999,
+    "whale_pct": 7.624,
     "whale_value_at_open": 100861.8454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -117488,8 +117488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788929945.5395072,
-    "fills": 4
+    "last_fill_at": 1788930097.91443,
+    "fills": 5
   },
   {
     "timestamp": 1788928694,
