@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 07:18:25 (hora de Perú)
+Actualizado: 2026-09-09 07:20:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $255.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 07:18:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $217.27 en 44 posiciones abiertas (disponible para nuevas apuestas: $37.98)
+**Capital comprometido ahora mismo:** $222.27 en 45 posiciones abiertas (disponible para nuevas apuestas: $32.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 3 | -128.83 USD |
-| ferrariChampions2026 | 646 | 405 | 9 | -226.98 USD |
+| ferrariChampions2026 | 646 | 405 | 10 | -226.98 USD |
 
 ## Análisis general
 
@@ -913,6 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -942,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |
 | Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 52% | 5.00 | 9.5% | ⏳ pendiente | — |
