@@ -117234,8 +117234,8 @@
     "title": "Spread: Los Angeles Dodgers (-2.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 810.8100000000001,
-    "whale_pct": 0.276,
+    "whale_usd": 1577.68,
+    "whale_pct": 0.537,
     "whale_value_at_open": 293956.7981,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -117246,8 +117246,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788924834.188263,
-    "fills": 1
+    "last_fill_at": 1788925457.4842975,
+    "fills": 2
   },
   {
     "timestamp": 1788924898,
@@ -117320,5 +117320,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788925275.814861,
     "fills": 1
+  },
+  {
+    "timestamp": 1788925434,
+    "timestamp_added": 1788925435.1822374,
+    "username": "martingaleking",
+    "wallet": "0x52f5efdfb8759d4b9be1fbe63f80401474445e8a",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "whale_usd": 26136.682055,
+    "whale_pct": 94.017,
+    "whale_value_at_open": 27799.9845,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788925495.4372544,
+    "fills": 5
   }
 ]
