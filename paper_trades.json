@@ -119074,8 +119074,8 @@
     "title": "Counter-Strike: PARIVISION vs FURIA - Map 2 Winner",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 542.2682,
-    "whale_pct": 3.76,
+    "whale_usd": 2675.4562,
+    "whale_pct": 18.549,
     "whale_value_at_open": 14423.7023,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -119088,7 +119088,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788964997.4067447,
-    "fills": 1
+    "last_fill_at": 1788965323.4712873,
+    "fills": 2
   }
 ]

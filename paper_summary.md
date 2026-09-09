@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 09:47:34 (hora de Perú)
+Actualizado: 2026-09-09 09:49:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $245.98
@@ -914,7 +914,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 60% | 5.00 | 3.8% | ⏳ pendiente | — |
+| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 60% | 5.00 | 18.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks: 1H O/U 21.5 | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 950.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 2.9% | ⏳ pendiente | — |
