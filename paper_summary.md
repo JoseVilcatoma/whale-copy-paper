@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:52:41 (hora de Perú)
+Actualizado: 2026-09-09 17:54:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $227.35
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 17:52:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $182.47 en 37 posiciones abiertas (disponible para nuevas apuestas: $44.88)
+**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $19.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 56 | 38 | 3 | +24.15 USD |
+| wr0ngw4yb3tt0r | 56 | 38 | 6 | +24.15 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | pleaseplease123 | 26 | 20 | 1 | +15.98 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| theowalcott | 6 | 4 | 1 | +5.29 USD |
+| theowalcott | 6 | 4 | 2 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 86 | 66 | 3 | -134.85 USD |
+|  | 86 | 66 | 4 | -134.85 USD |
 | ferrariChampions2026 | 659 | 414 | 15 | -246.39 USD |
 
 ## Análisis general
@@ -923,12 +923,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-andreev-gauff-2026-09-08 | Antblack, Noprajsk, tyutgbhnm |
 | wta-jeanjea-pareja-2026-09-09 | , Antblack, ferrariChampions2026 |
 | wta-quevedo-tormo-2026-09-09 | , ferrariChampions2026 |
+| mls-phi-fcc-2026-09-09-spread-home-1pt5 | , theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 367.2% | ⏳ pendiente | — |
+|  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
+| theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 391.0% | ⏳ pendiente | — |
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -953,8 +959,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ✅ ganada | +0.71 |
 | Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ❌ perdida | -5.15 |
 | Antblack | Liverpool FC vs. Club Atlético de Madrid | Over (BUY) | 53% | 5.00 | 71.5% | ❌ perdida | -5.12 |
-| bands1 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.2% | ⏳ pendiente | — |
-| tyutgbhnm | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 47% | 5.00 | 11.8% | ❌ perdida | -5.13 |
-| Antblack | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 41% | 5.00 | 57.4% | ❌ perdida | -5.15 |
-| ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 35.8% | ✅ ganada | +4.50 |
-| Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | 💰 vendida anticipada | +1.04 |
