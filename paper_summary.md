@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:51:31 (hora de Perú)
+Actualizado: 2026-09-09 06:53:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 06:51:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.19 en 45 posiciones abiertas (disponible para nuevas apuestas: $27.98)
+**Capital comprometido ahora mismo:** $227.19 en 46 posiciones abiertas (disponible para nuevas apuestas: $22.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 3 | -128.83 USD |
-| ferrariChampions2026 | 643 | 405 | 8 | -235.42 USD |
+| ferrariChampions2026 | 643 | 405 | 9 | -235.42 USD |
 
 ## Análisis general
 
@@ -907,11 +907,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shelton-alcaraz-2026-09-08 | , Flaznorp, ferrariChampions2026, martingaleking |
 | ucl-fcb-fey-2026-09-09-total-4pt5 | Flaznorp, ferrariChampions2026 |
 | atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
+| atp-hipfl-barrena-2026-09-09 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ⏳ pendiente | — |
 |  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 7.0% | ⏳ pendiente | — |
 |  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Elena Micic vs Xinyu Gao | Xinyu Gao (BUY) | 64% | 4.92 | 0.3% | ⏳ pendiente | — |
@@ -941,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Guiyang: Jiaqi Wang vs Yujia Huang | Yujia Huang (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
-| Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |

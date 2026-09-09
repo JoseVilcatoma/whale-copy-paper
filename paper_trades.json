@@ -118480,5 +118480,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788953537.8703122,
     "fills": 7
+  },
+  {
+    "timestamp": 1788954793,
+    "timestamp_added": 1788954794.2898607,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hipfl-barrena-2026-09-09",
+    "title": "Tulln: Nico Hipfl vs Alex Barrena",
+    "outcome": "Alex Barrena",
+    "side": "BUY",
+    "whale_usd": 25452.109984,
+    "whale_pct": 11.243,
+    "whale_value_at_open": 226388.4491,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788954794.289874,
+    "fills": 1
   }
 ]
