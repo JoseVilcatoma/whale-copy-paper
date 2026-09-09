@@ -116866,8 +116866,8 @@
     "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 541.0275,
-    "whale_pct": 0.18,
+    "whale_usd": 1477.0131000000001,
+    "whale_pct": 0.492,
     "whale_value_at_open": 300483.2536,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -116881,8 +116881,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788919174.6165376,
-    "fills": 1
+    "last_fill_at": 1788919715.7726514,
+    "fills": 2
   },
   {
     "timestamp": 1788919276,
@@ -116906,6 +116906,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788919276.4118536,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788919745,
+    "timestamp_added": 1788919745.740707,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-pegula-navarro-2026-09-08",
+    "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 3195.189998,
+    "whale_pct": 8.523,
+    "whale_value_at_open": 37489.5976,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788919745.7407222,
     "fills": 1
   }
 ]
