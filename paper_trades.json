@@ -117476,8 +117476,8 @@
     "title": "Will Arsenal FC win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 9022.907863999999,
-    "whale_pct": 8.946,
+    "whale_usd": 117633.755864,
+    "whale_pct": 116.629,
     "whale_value_at_open": 100861.8454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -117488,8 +117488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788965489.2116847,
-    "fills": 7
+    "last_fill_at": 1788968827.3989186,
+    "fills": 9
   },
   {
     "timestamp": 1788928694,
@@ -118712,8 +118712,8 @@
     "title": "Spread: Arsenal FC (-1.5)",
     "outcome": "SSC Napoli",
     "side": "BUY",
-    "whale_usd": 2307.321178,
-    "whale_pct": 1.298,
+    "whale_usd": 18798.003531000002,
+    "whale_pct": 10.574,
     "whale_value_at_open": 177780.8863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -118724,8 +118724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788964960.5155435,
-    "fills": 3
+    "last_fill_at": 1788968827.3348913,
+    "fills": 4
   },
   {
     "timestamp": 1788958971,
