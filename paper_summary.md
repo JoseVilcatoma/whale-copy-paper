@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 13:24:05 (hora de Perú)
+Actualizado: 2026-09-09 13:26:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $222.00
@@ -917,7 +917,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 72.8% | ⏳ pendiente | — |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 78.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Qinwen Zheng (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Reus: Nahia Berecoechea vs Francesca | Francesca Pace (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Alliance vs TYLOO (BO3)  | Alliance (BUY) | 47% | 2.66 | 1.1% | ⏳ pendiente | — |
