@@ -120524,8 +120524,8 @@
     "title": "Will Santos FC win on 2026-09-09?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1200.8,
-    "whale_pct": 0.321,
+    "whale_usd": 12293.559981999999,
+    "whale_pct": 3.285,
     "whale_value_at_open": 374266.3231,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -120536,8 +120536,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788996215.8284893,
-    "fills": 1
+    "last_fill_at": 1788996556.138277,
+    "fills": 2
   },
   {
     "timestamp": 1788996339,
@@ -120585,6 +120585,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788996500.1941435,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788996575,
+    "timestamp_added": 1788996575.8298767,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "sud-san-cam-2026-09-09-cam",
+    "title": "Will CA Mineiro win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1654.9998940000003,
+    "whale_pct": 0.437,
+    "whale_value_at_open": 378744.2355,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788996575.8298883,
     "fills": 1
   }
 ]
