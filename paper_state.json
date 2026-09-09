@@ -1,5 +1,5 @@
 {
-  "bankroll": 213.41762791241803,
+  "bankroll": 219.4528696049832,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23385,6 +23385,16 @@
       "timestamp": 1788917609.4875882,
       "bankroll": 213.42,
       "event": "won:  \u2014 Minnesota Twins vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1788918230.63445,
+      "bankroll": 218.92,
+      "event": "won: pleaseplease123 \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788918237.566895,
+      "bankroll": 219.45,
+      "event": "won: ferrariChampions2026 \u2014 New York Mets vs. Miami Marlins"
     }
   ]
 }
