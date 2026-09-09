@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:56:03 (hora de Perú)
+Actualizado: 2026-09-09 03:58:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.92
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 9.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | 💰 vendida anticipada | +0.65 |
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
