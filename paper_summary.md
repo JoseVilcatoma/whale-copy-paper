@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:31:14 (hora de Perú)
+Actualizado: 2026-09-09 03:33:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:31:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $207.80 en 42 posiciones abiertas (disponible para nuevas apuestas: $24.47)
+**Capital comprometido ahora mismo:** $217.80 en 44 posiciones abiertas (disponible para nuevas apuestas: $14.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
+| Noprajsk | 0 | 0 | 1 | +0.00 USD |
 | Antblack | 1 | 1 | 0 | -0.04 USD |
 | mimi121 | 0 | 1 | 1 | -0.36 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -143,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 81 | 64 | 5 | -132.47 USD |
-| ferrariChampions2026 | 639 | 404 | 2 | -241.95 USD |
+| ferrariChampions2026 | 639 | 404 | 3 | -241.95 USD |
 
 ## Análisis general
 
@@ -909,6 +910,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | Yes (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -937,5 +940,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Sara Saito vs Xinxin Yao | Xinxin Yao (BUY) | 64% | 5.00 | 4.8% | ✅ ganada | +2.72 |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 45% | 5.00 | 4.9% | ✅ ganada | +5.97 |
-| martingaleking | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 70% | 5.00 | 94.0% | ❌ perdida | -5.08 |
-| Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
