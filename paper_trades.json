@@ -118918,5 +118918,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788961463.957845,
     "fills": 1
+  },
+  {
+    "timestamp": 1788961828,
+    "timestamp_added": 1788961828.4775598,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-kc-2026-09-09",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 1166.3700000000001,
+    "whale_pct": 0.523,
+    "whale_value_at_open": 223118.341,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788961828.4775708,
+    "fills": 1
   }
 ]
