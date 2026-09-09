@@ -117526,8 +117526,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 50769.08478599999,
-    "whale_pct": 26.178,
+    "whale_usd": 53787.78878599999,
+    "whale_pct": 27.735,
     "whale_value_at_open": 193935.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117541,8 +117541,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788936355.4507442,
-    "fills": 14
+    "last_fill_at": 1788937421.823195,
+    "fills": 15
   },
   {
     "timestamp": 1788928737,
@@ -117581,8 +117581,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 51115.51807800001,
-    "whale_pct": 34.191,
+    "whale_usd": 52126.90417800001,
+    "whale_pct": 34.867,
     "whale_value_at_open": 149501.9873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -117597,8 +117597,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788937333.1520112,
-    "fills": 27
+    "last_fill_at": 1788937468.2222123,
+    "fills": 28
   },
   {
     "timestamp": 1788930492,
@@ -117788,8 +117788,8 @@
     "title": "Spread: Paris Saint-Germain FC (-3.5)",
     "outcome": "\u0160K Slovan Bratislava",
     "side": "BUY",
-    "whale_usd": 1788.48,
-    "whale_pct": 0.765,
+    "whale_usd": 4950.719999999999,
+    "whale_pct": 2.118,
     "whale_value_at_open": 233724.4029,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -117800,8 +117800,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788934727.0237331,
-    "fills": 3
+    "last_fill_at": 1788937428.0067148,
+    "fills": 4
   },
   {
     "timestamp": 1788935220,
@@ -117875,6 +117875,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788936423.03581,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788937437,
+    "timestamp_added": 1788937438.4794707,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-spo-gal-2026-09-09-spo",
+    "title": "Will Sporting CP win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1574.66,
+    "whale_pct": 0.608,
+    "whale_value_at_open": 259186.151,
+    "paper_stake_usd": 2.8,
+    "odds_at_bet": 45,
+    "fee_usd": 0.077,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788937438.4794817,
     "fills": 1
   }
 ]
