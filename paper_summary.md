@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 07:51:55 (hora de Perú)
+Actualizado: 2026-09-09 07:54:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.45
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
+|  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |

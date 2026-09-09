@@ -118686,8 +118686,8 @@
     "title": "M25 Plaisir + H: Stefan Seifert vs Antoine Walch",
     "outcome": "Antoine Walch",
     "side": "BUY",
-    "whale_usd": 1661.26,
-    "whale_pct": 2.847,
+    "whale_usd": 5189.072,
+    "whale_pct": 8.893,
     "whale_value_at_open": 58352.4047,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -118698,7 +118698,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788958046.9852693,
-    "fills": 1
+    "last_fill_at": 1788958374.0357604,
+    "fills": 3
   }
 ]
