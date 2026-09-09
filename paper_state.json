@@ -1,5 +1,5 @@
 {
-  "bankroll": 209.37860584234718,
+  "bankroll": 213.8739904577318,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23350,6 +23350,11 @@
       "timestamp": 1788911353.8312964,
       "bankroll": 209.38,
       "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Ena Koike vs Nadia Podoroska"
+    },
+    {
+      "timestamp": 1788914487.666239,
+      "bankroll": 213.87,
+      "event": "won: ferrariChampions2026 \u2014 New York Mets vs. Miami Marlins: O/U 10.5"
     }
   ]
 }
