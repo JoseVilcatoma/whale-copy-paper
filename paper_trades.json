@@ -117581,8 +117581,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 22504.583409000003,
-    "whale_pct": 15.053,
+    "whale_usd": 26657.374678000004,
+    "whale_pct": 17.831,
     "whale_value_at_open": 149501.9873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -117597,8 +117597,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788931897.0491629,
-    "fills": 15
+    "last_fill_at": 1788932063.3786402,
+    "fills": 16
   },
   {
     "timestamp": 1788930492,
@@ -117646,6 +117646,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788931612.6467428,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788932112,
+    "timestamp_added": 1788932112.8028188,
+    "username": "RevengeRange",
+    "wallet": "0xafd492974cd531aae7786210438ae46b42047e61",
+    "slug": "cs2-9z-mibr-2026-09-09",
+    "title": "Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "9z",
+    "side": "BUY",
+    "whale_usd": 2052.0,
+    "whale_pct": 17.206,
+    "whale_value_at_open": 11926.1513,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "mimi121"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788932112.8028326,
     "fills": 1
   }
 ]

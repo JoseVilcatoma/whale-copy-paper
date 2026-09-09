@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 00:33:29 (hora de Perú)
+Actualizado: 2026-09-09 00:35:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $252.81
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 00:33:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $47.81)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $42.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| TheMafiaa | 2 | 0 | 0 | +8.46 USD |
+| TheMafiaa | 2 | 0 | 1 | +8.46 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | ExplosiveNinja | 23 | 13 | 5 | +6.60 USD |
@@ -896,7 +896,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-bru-ast-2026-09-08-bru | Jsram, sbsigner |
 | atp-tiafoe-michels-2026-09-08 | , Antblack, Gambler661, ferrariChampions2026, martingaleking |
 | ucl-bvb-vil-2026-09-08-bvb | , gambamaster, sbsigner |
-| cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mimi121 |
+| cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, RevengeRange, mimi121 |
 | cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
@@ -908,9 +908,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 15.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 17.8% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 9.3% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
@@ -937,4 +938,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
 | Flaznorp | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | Flaznorp | Will São Paulo FC win on 2026-09-08? | No (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ✅ ganada | +1.28 |
