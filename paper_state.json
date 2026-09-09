@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.3904916372131,
+  "bankroll": 255.48549163721307,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23810,6 +23810,16 @@
       "timestamp": 1788964005.8896415,
       "bankroll": 259.39,
       "event": "won: 1l2ihj34li12u34 \u2014 Will Jeju SK FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1788964124.598176,
+      "bankroll": 254.29,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz"
+    },
+    {
+      "timestamp": 1788964125.3996518,
+      "bankroll": 255.49,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz"
     }
   ]
 }
