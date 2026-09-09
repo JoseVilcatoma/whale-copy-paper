@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:57:05 (hora de Perú)
+Actualizado: 2026-09-09 11:59:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:57:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.80 en 45 posiciones abiertas (disponible para nuevas apuestas: $12.66)
+**Capital comprometido ahora mismo:** $227.80 en 46 posiciones abiertas (disponible para nuevas apuestas: $7.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| pleaseplease123 | 23 | 20 | 3 | +2.12 USD |
+| pleaseplease123 | 23 | 20 | 4 | +2.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -917,10 +917,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| pleaseplease123 | Washington Nationals vs. San Diego Padre | Over (BUY) | 51% | 5.00 | 29.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 49% | 5.00 | 4.3% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 19.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 4.0% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
@@ -934,7 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 950.9% | 💰 vendida anticipada | +0.41 |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 2.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 73.5% | ⏳ pendiente | — |
+| pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 81.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ❌ perdida | -5.11 |
@@ -946,4 +947,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 3.5% | ✅ ganada | +2.38 |
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 10.6% | ⏳ pendiente | — |
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
