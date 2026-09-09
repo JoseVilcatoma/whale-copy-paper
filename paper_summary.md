@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 21:16:17 (hora de Perú)
+Actualizado: 2026-09-08 21:18:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $220.18
-**Retorno acumulado:** -55.96%
+**Bankroll actual:** $221.29
+**Retorno acumulado:** -55.74%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 21:16:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $15.80)
+**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $16.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Flaznorp | 69 | 25 | 3 | -4.44 USD |
+| Flaznorp | 69 | 25 | 5 | -4.44 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -143,17 +143,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 76 | 62 | 5 | -138.94 USD |
-| ferrariChampions2026 | 631 | 399 | 11 | -248.85 USD |
+| ferrariChampions2026 | 632 | 400 | 9 | -247.75 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4480
-- **Aciertos:** 2817 (62.9%)
+- **Apuestas resueltas:** 4482
+- **Aciertos:** 2818 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,372.26
+- **Total apostado (suma de stakes):** $22,382.26
 - **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $415.91 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $416.17 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -162,7 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2299 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2301 | 49.9% | 50.1% | -0.1 pp |
 | 60-79% | 1341 | 68.8% | 67.8% | +1.1 pp |
 | 80-94% | 589 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 251 | 96.8% | 97.3% | -0.5 pp |
@@ -906,6 +906,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Flaznorp | Will São Paulo FC win on 2026-09-08? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: NIP vs Sinners (BO3) - P | NIP (BUY) | 63% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -916,12 +918,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ✅ ganada | +0.53 |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 64.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. São Paulo FC: O/U 2. | Under (BUY) | 68% | 4.38 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 7.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 |  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 89% | 5.00 | 0.9% | ✅ ganada | +0.59 |
@@ -934,5 +936,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will CF Montréal win on 2026-09-09? | No (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Orlando City SC win on 2026-09-09? | No (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Barranquilla: Emiliana Arango vs Maria P | Emiliana Arango (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
-|  | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 235.0% | ✅ ganada | +3.82 |
