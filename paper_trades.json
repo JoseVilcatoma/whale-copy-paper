@@ -119159,8 +119159,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -119848,8 +119848,8 @@
     "title": "Genoa: Valerio Aboian vs Andrea Pellegrino",
     "outcome": "Valerio Aboian",
     "side": "BUY",
-    "whale_usd": 1663.1075329999999,
-    "whale_pct": 0.479,
+    "whale_usd": 3332.581917,
+    "whale_pct": 0.96,
     "whale_value_at_open": 347029.5468,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -119860,8 +119860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788989784.8824747,
-    "fills": 2
+    "last_fill_at": 1788990496.2000632,
+    "fills": 3
   },
   {
     "timestamp": 1788989797,
@@ -119910,5 +119910,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788990392.7595031,
     "fills": 2
+  },
+  {
+    "timestamp": 1788990488,
+    "timestamp_added": 1788990488.3522382,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jeanjea-pareja-2026-09-09",
+    "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
+    "outcome": "Leolia Jeanjean",
+    "side": "BUY",
+    "whale_usd": 2128.94,
+    "whale_pct": 0.562,
+    "whale_value_at_open": 379016.1155,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Antblack"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788990488.3522532,
+    "fills": 1
   }
 ]
