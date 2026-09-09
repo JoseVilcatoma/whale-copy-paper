@@ -1,5 +1,5 @@
 {
-  "bankroll": 240.18640738973613,
+  "bankroll": 238.09280203856557,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23850,6 +23850,21 @@
       "timestamp": 1788966548.0321548,
       "bankroll": 240.19,
       "event": "lost: ferrariChampions2026 \u2014 W50 Evora: Iveta Dapkute vs Kylie Collins"
+    },
+    {
+      "timestamp": 1788967416.85789,
+      "bankroll": 242.79,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Gabi Boitan vs Harold Mayot"
+    },
+    {
+      "timestamp": 1788967417.158463,
+      "bankroll": 237.69,
+      "event": "lost: ferrariChampions2026 \u2014 Istanbul 3: Gabi Boitan vs Harold Mayot"
+    },
+    {
+      "timestamp": 1788967431.9468336,
+      "bankroll": 238.09,
+      "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: PARIVISION vs FURIA - Map 2 Winner (+0.41 USD)"
     }
   ]
 }
