@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.1663319733475,
+  "bankroll": 259.3904916372131,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23800,6 +23800,16 @@
       "timestamp": 1788963506.2070677,
       "bankroll": 252.17,
       "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner (+2.84 USD)"
+    },
+    {
+      "timestamp": 1788964005.455577,
+      "bankroll": 254.71,
+      "event": "won: ferrariChampions2026 \u2014 Pohang Steelers FC vs. Gimcheon Sangmu FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788964005.8896415,
+      "bankroll": 259.39,
+      "event": "won: 1l2ihj34li12u34 \u2014 Will Jeju SK FC win on 2026-09-09?"
     }
   ]
 }
