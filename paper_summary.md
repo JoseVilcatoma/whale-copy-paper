@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 19:32:09 (hora de Perú)
+Actualizado: 2026-09-08 19:34:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $209.38
@@ -904,7 +904,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | CA Boca Juniors vs. São Paulo FC: O/U 2. | Under (BUY) | 68% | 4.38 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
