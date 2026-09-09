@@ -119692,5 +119692,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788986074.1023993,
     "fills": 2
+  },
+  {
+    "timestamp": 1788986183,
+    "timestamp_added": 1788986183.9712515,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "atp-brancac-ruiz-2026-09-09",
+    "title": "Seville: Raul Brancaccio vs Pablo Llamas Ruiz",
+    "outcome": "Pablo Llamas Ruiz",
+    "side": "BUY",
+    "whale_usd": 10000.0,
+    "whale_pct": 66.589,
+    "whale_value_at_open": 15017.5829,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788986183.9712632,
+    "fills": 1
   }
 ]
