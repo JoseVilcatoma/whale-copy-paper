@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.4528696049832,
+  "bankroll": 224.7177652278788,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23395,6 +23395,21 @@
       "timestamp": 1788918237.566895,
       "bankroll": 219.45,
       "event": "won: ferrariChampions2026 \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1788919174.1518176,
+      "bankroll": 225.68,
+      "event": "won: ferrariChampions2026 \u2014 Independiente Santa Fe vs. CR Vasco da Gama: O/U 1.5"
+    },
+    {
+      "timestamp": 1788919174.7537198,
+      "bankroll": 229.82,
+      "event": "won:  \u2014 Fluminense FC vs. CA Platense: O/U 2.5"
+    },
+    {
+      "timestamp": 1788919175.9297638,
+      "bankroll": 224.72,
+      "event": "lost:  \u2014 Houston Astros vs. Philadelphia Phillies"
     }
   ]
 }
