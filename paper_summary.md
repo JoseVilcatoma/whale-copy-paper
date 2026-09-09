@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 10:12:21 (hora de Perú)
+Actualizado: 2026-09-09 10:14:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 10:12:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.70 en 46 posiciones abiertas (disponible para nuevas apuestas: $12.49)
+**Capital comprometido ahora mismo:** $232.70 en 47 posiciones abiertas (disponible para nuevas apuestas: $7.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-|  | 27 | 24 | 0 | +2.58 USD |
+|  | 27 | 24 | 1 | +2.58 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -908,6 +908,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-fcb-fey-2026-09-09-total-4pt5 | Flaznorp, ferrariChampions2026 |
 | atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
 | atp-hipfl-barrena-2026-09-09 | , ferrariChampions2026 |
+| wta-escorih-bulgaru-2026-09-09 | , ferrariChampions2026 |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
 
@@ -915,6 +916,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 52% | 5.00 | 5.6% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -932,7 +934,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | 💰 vendida anticipada | +2.84 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 3.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -944,4 +946,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ✅ ganada | +0.15 |
 |  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 8.3% | ✅ ganada | +6.76 |
-|  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ❌ perdida | -5.14 |

@@ -118736,8 +118736,8 @@
     "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
     "outcome": "Irene Burillo Escorihuela",
     "side": "BUY",
-    "whale_usd": 4527.042261,
-    "whale_pct": 2.629,
+    "whale_usd": 6087.875994999999,
+    "whale_pct": 3.535,
     "whale_value_at_open": 172199.5439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -118748,8 +118748,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788966015.2229416,
-    "fills": 3
+    "last_fill_at": 1788966778.7666667,
+    "fills": 4
   },
   {
     "timestamp": 1788959059,
@@ -119163,6 +119163,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788966618.4350238,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788966777,
+    "timestamp_added": 1788966778.3132267,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-escorih-bulgaru-2026-09-09",
+    "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+    "outcome": "Miriam Bulgaru",
+    "side": "BUY",
+    "whale_usd": 6400.000000000001,
+    "whale_pct": 188.924,
+    "whale_value_at_open": 3387.6068,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788966778.3132386,
     "fills": 1
   }
 ]
