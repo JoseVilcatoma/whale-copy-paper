@@ -117599,5 +117599,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788929830.4118814,
     "fills": 2
+  },
+  {
+    "timestamp": 1788930492,
+    "timestamp_added": 1788930493.4622428,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-b8-33-2026-09-09",
+    "title": "Counter-Strike: B8 vs BET-M 33 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 5558.5277,
+    "whale_pct": 6.419,
+    "whale_value_at_open": 86588.5811,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788930493.4622567,
+    "fills": 1
   }
 ]
