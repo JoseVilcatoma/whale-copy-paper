@@ -1,5 +1,5 @@
 {
-  "bankroll": 235.46470644389714,
+  "bankroll": 232.02046834865908,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23900,6 +23900,21 @@
       "timestamp": 1788970724.6545906,
       "bankroll": 235.46,
       "event": "won:  \u2014 M25 Gijon: Tristan McCormick vs Xavi Palomar"
+    },
+    {
+      "timestamp": 1788975561.3966284,
+      "bankroll": 230.35,
+      "event": "lost: ferrariChampions2026 \u2014 Montreux: Nuria Brancaccio vs Dalma Galfi"
+    },
+    {
+      "timestamp": 1788975561.49683,
+      "bankroll": 225.26,
+      "event": "lost:  \u2014 Montreux: Nuria Brancaccio vs Dalma Galfi"
+    },
+    {
+      "timestamp": 1788975562.6921792,
+      "bankroll": 232.02,
+      "event": "won:  \u2014 Montreux: Nuria Brancaccio vs Dalma Galfi"
     }
   ]
 }
