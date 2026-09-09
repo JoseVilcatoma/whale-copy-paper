@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 05:14:00 (hora de Perú)
+Actualizado: 2026-09-09 05:16:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 05:14:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $233.82 en 48 posiciones abiertas (disponible para nuevas apuestas: $6.35)
+**Capital comprometido ahora mismo:** $238.82 en 49 posiciones abiertas (disponible para nuevas apuestas: $1.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 82 | 64 | 5 | -131.11 USD |
-| ferrariChampions2026 | 641 | 404 | 7 | -237.67 USD |
+| ferrariChampions2026 | 641 | 404 | 8 | -237.67 USD |
 
 ## Análisis general
 
@@ -912,8 +912,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 7.9% | ⏳ pendiente | — |
-|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 19.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Lina Gjorcheska (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 12.8% | ⏳ pendiente | — |
+|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 12.3% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
@@ -941,4 +942,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs 1WIN  | 1WIN (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ❌ perdida | -5.11 |
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |

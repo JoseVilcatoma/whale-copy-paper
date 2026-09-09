@@ -118296,8 +118296,8 @@
     "title": "Cassis: Mathys Erhard vs Daniil Glinka",
     "outcome": "Mathys Erhard",
     "side": "BUY",
-    "whale_usd": 25704.104799999997,
-    "whale_pct": 19.225,
+    "whale_usd": 41448.1841,
+    "whale_pct": 31.001,
     "whale_value_at_open": 133701.3727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -118308,8 +118308,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788948195.367984,
-    "fills": 3
+    "last_fill_at": 1788948905.1489935,
+    "fills": 4
   },
   {
     "timestamp": 1788948118,
@@ -118320,8 +118320,8 @@
     "title": "Cassis: Mathys Erhard vs Daniil Glinka",
     "outcome": "Daniil Glinka",
     "side": "BUY",
-    "whale_usd": 10470.422218,
-    "whale_pct": 7.902,
+    "whale_usd": 16946.971353,
+    "whale_pct": 12.789,
     "whale_value_at_open": 132510.6946,
     "paper_stake_usd": 3.23,
     "odds_at_bet": 52,
@@ -118334,7 +118334,31 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788948199.3182344,
-    "fills": 4
+    "last_fill_at": 1788948909.0162795,
+    "fills": 7
+  },
+  {
+    "timestamp": 1788948933,
+    "timestamp_added": 1788948934.4845848,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-gjorche-zantede-2026-09-09",
+    "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
+    "outcome": "Lina Gjorcheska",
+    "side": "BUY",
+    "whale_usd": 4881.823799999999,
+    "whale_pct": 2.981,
+    "whale_value_at_open": 163739.6665,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788948934.484598,
+    "fills": 1
   }
 ]
