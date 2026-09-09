@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:08:11 (hora de Perú)
+Actualizado: 2026-09-09 03:10:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $227.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:08:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.80 en 43 posiciones abiertas (disponible para nuevas apuestas: $14.44)
+**Capital comprometido ahora mismo:** $217.80 en 44 posiciones abiertas (disponible para nuevas apuestas: $9.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| Flaznorp | 78 | 28 | 10 | -1.46 USD |
+| Flaznorp | 78 | 28 | 11 | -1.46 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 52% | 5.00 | 8.3% | ⏳ pendiente | — |
@@ -938,4 +939,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ❌ perdida | -5.15 |

@@ -117924,5 +117924,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788941281.3105633,
     "fills": 1
+  },
+  {
+    "timestamp": 1788941340,
+    "timestamp_added": 1788941341.179026,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-noguchi-jasika-2026-09-09",
+    "title": "Shanghai: Rio Noguchi vs Omar Jasika",
+    "outcome": "Omar Jasika",
+    "side": "BUY",
+    "whale_usd": 2949.2174999999997,
+    "whale_pct": 1.137,
+    "whale_value_at_open": 259324.7779,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788941341.1790404,
+    "fills": 1
   }
 ]
