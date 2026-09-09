@@ -119798,8 +119798,8 @@
     "title": "Dota 2: MOUZ vs Klim Sani4 - Game 1 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 2779.036962,
-    "whale_pct": 30.265,
+    "whale_usd": 4651.83395,
+    "whale_pct": 50.661,
     "whale_value_at_open": 9182.3553,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -119810,7 +119810,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788987971.4338248,
-    "fills": 3
+    "last_fill_at": 1788988101.2806232,
+    "fills": 5
   }
 ]
