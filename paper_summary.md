@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 20:24:12 (hora de Perú)
+Actualizado: 2026-09-08 20:26:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $214.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 20:24:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $208.87 en 42 posiciones abiertas (disponible para nuevas apuestas: $5.84)
+**Capital comprometido ahora mismo:** $213.87 en 43 posiciones abiertas (disponible para nuevas apuestas: $0.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 75 | 60 | 5 | -132.86 USD |
-| ferrariChampions2026 | 628 | 399 | 13 | -256.19 USD |
+| ferrariChampions2026 | 628 | 399 | 14 | -256.19 USD |
 
 ## Análisis general
 
@@ -900,11 +900,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
+| wta-pegula-navarro-2026-09-08 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 21.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -934,4 +936,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: magic vs FaZe (BO3) - FI | FaZe (BUY) | 60% | 5.00 | 611.6% | ⏳ pendiente | — |
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
-|  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
