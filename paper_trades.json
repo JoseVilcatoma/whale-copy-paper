@@ -117426,8 +117426,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 952.2575999999999,
-    "whale_pct": 2.061,
+    "whale_usd": 2932.3275999999996,
+    "whale_pct": 6.346,
     "whale_value_at_open": 46210.2716,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -117440,8 +117440,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788925758.1374638,
-    "fills": 1
+    "last_fill_at": 1788933762.6688612,
+    "fills": 2
   },
   {
     "timestamp": 1788926045,
@@ -117553,8 +117553,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 4126.24,
-    "whale_pct": 1.826,
+    "whale_usd": 6604.32,
+    "whale_pct": 2.922,
     "whale_value_at_open": 226018.3544,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117569,8 +117569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788931688.9087512,
-    "fills": 4
+    "last_fill_at": 1788933764.4136786,
+    "fills": 6
   },
   {
     "timestamp": 1788929795,
