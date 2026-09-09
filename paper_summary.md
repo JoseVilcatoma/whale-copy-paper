@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 21:10:06 (hora de Perú)
+Actualizado: 2026-09-08 21:12:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.31
@@ -909,7 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: NIP vs Sinners (BO3) - P | NIP (BUY) | 63% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |

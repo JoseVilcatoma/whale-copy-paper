@@ -116062,8 +116062,8 @@
     "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "FaZe",
     "side": "BUY",
-    "whale_usd": 21057.085611,
-    "whale_pct": 688.794,
+    "whale_usd": 22042.328051,
+    "whale_pct": 721.022,
     "whale_value_at_open": 3057.0954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -116074,8 +116074,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788918291.8585358,
-    "fills": 4
+    "last_fill_at": 1788919910.8654583,
+    "fills": 5
   },
   {
     "timestamp": 1788906674,
@@ -116842,8 +116842,8 @@
     "title": "Will CA Boca Juniors win on 2026-09-08?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 511.409997,
-    "whale_pct": 0.151,
+    "whale_usd": 1579.729997,
+    "whale_pct": 0.467,
     "whale_value_at_open": 338008.5074,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -116854,8 +116854,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788919070.9961677,
-    "fills": 1
+    "last_fill_at": 1788919893.0579307,
+    "fills": 2
   },
   {
     "timestamp": 1788919174,
