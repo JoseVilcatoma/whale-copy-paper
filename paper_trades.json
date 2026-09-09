@@ -116062,8 +116062,8 @@
     "title": "Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "FaZe",
     "side": "BUY",
-    "whale_usd": 22042.328051,
-    "whale_pct": 721.022,
+    "whale_usd": 24107.328051,
+    "whale_pct": 788.57,
     "whale_value_at_open": 3057.0954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -116074,8 +116074,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788919910.8654583,
-    "fills": 5
+    "last_fill_at": 1788922196.4165597,
+    "fills": 6
   },
   {
     "timestamp": 1788906674,
