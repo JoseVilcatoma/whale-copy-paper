@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.48549163721307,
+  "bankroll": 251.12444512558517,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23820,6 +23820,16 @@
       "timestamp": 1788964125.3996518,
       "bankroll": 255.49,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz"
+    },
+    {
+      "timestamp": 1788964621.5753806,
+      "bankroll": 256.26,
+      "event": "won: Flaznorp \u2014 W35 Reus: Caijsa Wilda Hennemann vs Isabella Maria Serban"
+    },
+    {
+      "timestamp": 1788964622.4603999,
+      "bankroll": 251.12,
+      "event": "lost: 1l2ihj34li12u34 \u2014 Gangwon FC vs. Jeonbuk Hyundai Motors FC: O/U 2.5"
     }
   ]
 }
