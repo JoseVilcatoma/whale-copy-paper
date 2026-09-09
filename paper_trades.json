@@ -118360,5 +118360,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788949092.1608248,
     "fills": 2
+  },
+  {
+    "timestamp": 1788949698,
+    "timestamp_added": 1788949698.8154314,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sharipo-daniel-2026-09-08",
+    "title": "Shanghai: Marat Sharipov vs Taro Daniel",
+    "outcome": "Marat Sharipov",
+    "side": "BUY",
+    "whale_usd": 2865.2091,
+    "whale_pct": 1.623,
+    "whale_value_at_open": 176488.7848,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788949698.8154442,
+    "fills": 1
   }
 ]
