@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:59:40 (hora de Perú)
+Actualizado: 2026-09-09 07:01:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $253.10
-**Retorno acumulado:** -49.38%
+**Bankroll actual:** $249.74
+**Retorno acumulado:** -50.05%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 06:59:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.27 en 45 posiciones abiertas (disponible para nuevas apuestas: $30.83)
+**Capital comprometido ahora mismo:** $217.27 en 44 posiciones abiertas (disponible para nuevas apuestas: $32.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 81 | 44 | 8 | +45.93 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 45 | 6 | +42.57 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -145,18 +145,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 3 | -128.83 USD |
-| ferrariChampions2026 | 645 | 405 | 8 | -232.49 USD |
+| ferrariChampions2026 | 645 | 405 | 9 | -232.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4540
-- **Aciertos:** 2859 (63.0%)
+- **Apuestas resueltas:** 4542
+- **Aciertos:** 2860 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,668.11
-- **ROI sobre lo apostado:** -1.61%
-- **Comisiones pagadas (taker fee):** $421.20 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,678.11
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $421.41 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -164,8 +164,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2326 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1364 | 68.8% | 67.8% | +1.0 pp |
+| 40-59% | 2327 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1365 | 68.9% | 67.8% | +1.1 pp |
 | 80-94% | 596 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 254 | 96.9% | 97.3% | -0.5 pp |
 
@@ -913,6 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ⏳ pendiente | — |
 |  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 7.0% | ⏳ pendiente | — |
@@ -942,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 52% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Jiaqi Wang vs Yujia Huang | Yujia Huang (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
-| Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |

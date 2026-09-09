@@ -1,5 +1,5 @@
 {
-  "bankroll": 253.10306324231436,
+  "bankroll": 249.7413783108075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23725,6 +23725,16 @@
       "timestamp": 1788954994.279505,
       "bankroll": 253.1,
       "event": "won: ferrariChampions2026 \u2014 W50 Evora: Elena Micic vs Xinyu Gao"
+    },
+    {
+      "timestamp": 1788955297.4188602,
+      "bankroll": 254.88,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BIG vs G2 (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788955297.679194,
+      "bankroll": 249.74,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: G2 (-1.5) vs BIG (+1.5)"
     }
   ]
 }
