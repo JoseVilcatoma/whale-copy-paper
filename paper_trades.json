@@ -118660,8 +118660,8 @@
     "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3257.44,
-    "whale_pct": 1.301,
+    "whale_usd": 5138.4373,
+    "whale_pct": 2.052,
     "whale_value_at_open": 250379.763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -118674,7 +118674,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788956855.9422264,
-    "fills": 1
+    "last_fill_at": 1788957163.4514437,
+    "fills": 2
   }
 ]
