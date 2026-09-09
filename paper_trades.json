@@ -118523,8 +118523,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -119100,8 +119100,8 @@
     "title": "Montreux: Nuria Brancaccio vs Dalma Galfi",
     "outcome": "Nuria Brancaccio",
     "side": "BUY",
-    "whale_usd": 1971.0152,
-    "whale_pct": 0.822,
+    "whale_usd": 4281.2352,
+    "whale_pct": 1.786,
     "whale_value_at_open": 239773.939,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -119112,8 +119112,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788966399.7273781,
-    "fills": 2
+    "last_fill_at": 1788966529.5042417,
+    "fills": 3
   },
   {
     "timestamp": 1788966457,
@@ -119139,6 +119139,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788966457.8749738,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788966617,
+    "timestamp_added": 1788966618.4350126,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-min-det-2026-09-09-total-8pt5",
+    "title": "Minnesota Twins vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5046.9549,
+    "whale_pct": 5.552,
+    "whale_value_at_open": 90907.6701,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788966618.4350238,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 245.21940738973612,
+  "bankroll": 240.18640738973613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23845,6 +23845,11 @@
       "timestamp": 1788965557.1167765,
       "bankroll": 245.22,
       "event": "lost: ferrariChampions2026 \u2014 Map Handicap: BB (-1.5) vs Astralis (+1.5)"
+    },
+    {
+      "timestamp": 1788966548.0321548,
+      "bankroll": 240.19,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Evora: Iveta Dapkute vs Kylie Collins"
     }
   ]
 }
