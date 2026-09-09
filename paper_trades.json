@@ -118384,5 +118384,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788949698.8154442,
     "fills": 1
+  },
+  {
+    "timestamp": 1788949884,
+    "timestamp_added": 1788949885.394427,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-moelle-soto-2026-09-09",
+    "title": "Tulln: Marvin Moeller vs Matias Soto",
+    "outcome": "Matias Soto",
+    "side": "BUY",
+    "whale_usd": 685.5563999999999,
+    "whale_pct": 0.384,
+    "whale_value_at_open": 178745.7835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788949885.3944418,
+    "fills": 1
   }
 ]
