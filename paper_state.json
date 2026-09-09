@@ -1,5 +1,5 @@
 {
-  "bankroll": 215.15500460080915,
+  "bankroll": 220.2310862334622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23990,6 +23990,11 @@
       "timestamp": 1788983980.6888504,
       "bankroll": 215.16,
       "event": "won:  \u2014 Spread: France (-1.5)"
+    },
+    {
+      "timestamp": 1788984601.8509817,
+      "bankroll": 220.23,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Inner Circle Esports vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }

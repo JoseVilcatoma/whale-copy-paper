@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 15:08:05 (hora de Perú)
+Actualizado: 2026-09-09 15:10:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $215.16
-**Retorno acumulado:** -56.97%
+**Bankroll actual:** $220.23
+**Retorno acumulado:** -55.95%
 **Peor caída desde un máximo (drawdown):** 66.38%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 15:08:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.46 en 36 posiciones abiertas (disponible para nuevas apuestas: $39.70)
+**Capital comprometido ahora mismo:** $170.46 en 35 posiciones abiertas (disponible para nuevas apuestas: $49.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | Noprajsk | 6 | 1 | 0 | +8.56 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| ExplosiveNinja | 28 | 16 | 0 | +8.07 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -61,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
-| ExplosiveNinja | 27 | 16 | 1 | +2.99 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -150,14 +150,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4588
-- **Aciertos:** 2884 (62.9%)
+- **Apuestas resueltas:** 4589
+- **Aciertos:** 2885 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,907.58
-- **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $425.75 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,912.58
+- **ROI sobre lo apostado:** -1.77%
+- **Comisiones pagadas (taker fee):** $425.88 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -165,7 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2349 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2350 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1380 | 68.6% | 67.8% | +0.9 pp |
 | 80-94% | 602 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
@@ -933,7 +933,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 53.1% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 17.5% | ✅ ganada | +2.38 |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ✅ ganada | +5.08 |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
 |  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ✅ ganada | +6.48 |
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ❌ perdida | -5.13 |
