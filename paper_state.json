@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.81125246320343,
+  "bankroll": 211.49107477624776,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23950,6 +23950,41 @@
       "timestamp": 1788979082.626199,
       "bankroll": 219.81,
       "event": "venta anticipada: Noprajsk \u2014 US Open WTA: Mirra Andreeva vs Coco Gauff (+1.04 USD)"
+    },
+    {
+      "timestamp": 1788980248.6906018,
+      "bankroll": 214.69,
+      "event": "lost: Flaznorp \u2014 FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5"
+    },
+    {
+      "timestamp": 1788980249.9560637,
+      "bankroll": 209.56,
+      "event": "lost: Flaznorp \u2014 FC Barcelona vs. Feyenoord Rotterdam: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788980250.0562658,
+      "bankroll": 204.44,
+      "event": "lost: ferrariChampions2026 \u2014 FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5"
+    },
+    {
+      "timestamp": 1788980250.726542,
+      "bankroll": 208.94,
+      "event": "won: Flaznorp \u2014 FC Barcelona vs. Feyenoord Rotterdam: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788980251.0459404,
+      "bankroll": 203.84,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FC Barcelona (-3.5)"
+    },
+    {
+      "timestamp": 1788980251.3913074,
+      "bankroll": 206.81,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FC Barcelona (-2.5)"
+    },
+    {
+      "timestamp": 1788980251.4914653,
+      "bankroll": 211.49,
+      "event": "won: ferrariChampions2026 \u2014 FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5"
     }
   ]
 }

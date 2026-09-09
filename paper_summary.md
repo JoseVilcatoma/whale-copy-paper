@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 13:55:29 (hora de Perú)
+Actualizado: 2026-09-09 13:57:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $219.81
-**Retorno acumulado:** -56.04%
-**Peor caída desde un máximo (drawdown):** 65.46%
+**Bankroll actual:** $211.49
+**Retorno acumulado:** -57.70%
+**Peor caída desde un máximo (drawdown):** 66.38%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 13:55:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.46 en 43 posiciones abiertas (disponible para nuevas apuestas: $9.35)
+**Capital comprometido ahora mismo:** $175.46 en 36 posiciones abiertas (disponible para nuevas apuestas: $36.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-| Flaznorp | 81 | 28 | 10 | +0.94 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -112,6 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
+| Flaznorp | 82 | 30 | 7 | -4.80 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -146,18 +146,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 65 | 3 | -133.92 USD |
-| ferrariChampions2026 | 655 | 412 | 7 | -250.57 USD |
+| ferrariChampions2026 | 657 | 414 | 3 | -253.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4580
-- **Aciertos:** 2880 (62.9%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 4587
+- **Aciertos:** 2883 (62.9%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,867.58
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $424.84 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,902.58
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $425.64 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -165,8 +165,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2343 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1378 | 68.7% | 67.8% | +0.9 pp |
+| 40-59% | 2348 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1380 | 68.6% | 67.8% | +0.9 pp |
 | 80-94% | 602 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
