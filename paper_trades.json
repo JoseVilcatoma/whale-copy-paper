@@ -115887,8 +115887,8 @@
     "title": "Spread: Milwaukee Brewers (-1.5)",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 5559.07,
-    "whale_pct": 2.341,
+    "whale_usd": 11301.07,
+    "whale_pct": 4.759,
     "whale_value_at_open": 237465.4454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -115901,8 +115901,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788904365.9794207,
-    "fills": 1
+    "last_fill_at": 1788913373.4994438,
+    "fills": 2
   },
   {
     "timestamp": 1788904712,

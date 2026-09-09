@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 19:21:46 (hora de Perú)
+Actualizado: 2026-09-08 19:23:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $209.38
@@ -932,4 +932,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Barranquilla: Cadence Brace vs Sara Sorr | Sara Sorribes Tormo (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Independiente Santa Fe vs. CR Vasco da G | Under (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 54% | 5.00 | 4.8% | ⏳ pendiente | — |
