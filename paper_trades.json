@@ -117553,8 +117553,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 9142.632623,
-    "whale_pct": 4.045,
+    "whale_usd": 10514.792623,
+    "whale_pct": 4.652,
     "whale_value_at_open": 226018.3544,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117569,8 +117569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788934521.0555105,
-    "fills": 8
+    "last_fill_at": 1788934679.8246677,
+    "fills": 9
   },
   {
     "timestamp": 1788929795,
@@ -117778,5 +117778,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788933539.4013114,
     "fills": 1
+  },
+  {
+    "timestamp": 1788934685,
+    "timestamp_added": 1788934686.1130354,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-psg-sba-2026-09-09-spread-home-3pt5",
+    "title": "Spread: Paris Saint-Germain FC (-3.5)",
+    "outcome": "\u0160K Slovan Bratislava",
+    "side": "BUY",
+    "whale_usd": 1788.48,
+    "whale_pct": 0.765,
+    "whale_value_at_open": 233724.4029,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788934727.0237331,
+    "fills": 3
   }
 ]
