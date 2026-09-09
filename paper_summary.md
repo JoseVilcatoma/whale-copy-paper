@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:27:44 (hora de Perú)
+Actualizado: 2026-09-09 06:29:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $246.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 06:27:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.42 en 48 posiciones abiertas (disponible para nuevas apuestas: $11.49)
+**Capital comprometido ahora mismo:** $240.42 en 49 posiciones abiertas (disponible para nuevas apuestas: $6.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-|  | 26 | 21 | 2 | +11.22 USD |
+|  | 26 | 21 | 3 | +11.22 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -912,6 +912,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Elena Micic vs Xinyu Gao | Xinyu Gao (BUY) | 64% | 4.92 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Marvin Moeller vs Matias Soto | Matias Soto (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -941,4 +942,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 4.6% | ✅ ganada | +2.84 |

@@ -118456,5 +118456,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788953155.6716452,
     "fills": 1
+  },
+  {
+    "timestamp": 1788953305,
+    "timestamp_added": 1788953306.349469,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "itf-figl1-nagel1-2026-09-09",
+    "title": "M25 Rabat: Maximilian Figl vs Arthur Nagel",
+    "outcome": "Maximilian Figl",
+    "side": "BUY",
+    "whale_usd": 3724.4851000000003,
+    "whale_pct": 4.844,
+    "whale_value_at_open": 76890.2113,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788953363.2247229,
+    "fills": 5
   }
 ]
