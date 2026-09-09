@@ -118408,5 +118408,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788949885.3944418,
     "fills": 1
+  },
+  {
+    "timestamp": 1788950072,
+    "timestamp_added": 1788950073.3998773,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-micic1-gao1-2026-09-09",
+    "title": "W50 Evora: Elena Micic vs Xinyu Gao",
+    "outcome": "Xinyu Gao",
+    "side": "BUY",
+    "whale_usd": 615.51,
+    "whale_pct": 0.337,
+    "whale_value_at_open": 182616.3057,
+    "paper_stake_usd": 4.92,
+    "odds_at_bet": 64,
+    "fee_usd": 0.089,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788950073.3998914,
+    "fills": 1
   }
 ]
