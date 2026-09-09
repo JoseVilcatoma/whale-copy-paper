@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 23:58:42 (hora de Perú)
+Actualizado: 2026-09-09 00:00:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $244.65
-**Retorno acumulado:** -51.07%
+**Bankroll actual:** $250.09
+**Retorno acumulado:** -49.98%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 23:58:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $34.65)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $50.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| Flaznorp | 77 | 27 | 5 | +0.77 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
@@ -108,7 +109,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 75 | 27 | 7 | -4.67 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -147,14 +147,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4506
-- **Aciertos:** 2836 (62.9%)
+- **Apuestas resueltas:** 4508
+- **Aciertos:** 2838 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,501.64
-- **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $418.42 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,511.64
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $418.60 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -163,7 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2316 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1346 | 68.9% | 67.8% | +1.2 pp |
+| 60-79% | 1348 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 592 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 252 | 96.8% | 97.3% | -0.5 pp |
 
@@ -912,7 +912,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 6.1% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 3.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -922,12 +922,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ❌ perdida | -5.15 |
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 20.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ✅ ganada | +4.32 |
-| Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ✅ ganada | +2.72 |
 |  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 88% | 5.00 | 2.4% | ❌ perdida | -5.03 |
 | Flaznorp | Spread: Chicago Cubs (-2.5) | Milwaukee Brewers (BUY) | 53% | 5.00 | 0.4% | ✅ ganada | +4.32 |

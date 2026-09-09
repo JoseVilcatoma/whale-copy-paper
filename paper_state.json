@@ -1,5 +1,5 @@
 {
-  "bankroll": 244.6473224127783,
+  "bankroll": 250.0923224127783,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23550,6 +23550,16 @@
       "timestamp": 1788928804.4352367,
       "bankroll": 244.65,
       "event": "won:  \u2014 Phan Thiet 3: Enzo Aguiard vs Khumoun Sultanov"
+    },
+    {
+      "timestamp": 1788930004.662573,
+      "bankroll": 247.37,
+      "event": "won: Flaznorp \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1788930005.608049,
+      "bankroll": 250.09,
+      "event": "won: Flaznorp \u2014 Spread: Los Angeles Dodgers (-2.5)"
     }
   ]
 }
