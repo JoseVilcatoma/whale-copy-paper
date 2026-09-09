@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.1744053475775,
+  "bankroll": 253.10306324231436,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23715,6 +23715,16 @@
       "timestamp": 1788954041.2909274,
       "bankroll": 250.17,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Mathys Erhard vs Daniil Glinka"
+    },
+    {
+      "timestamp": 1788954993.705022,
+      "bankroll": 250.42,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Marat Sharipov vs Taro Daniel"
+    },
+    {
+      "timestamp": 1788954994.279505,
+      "bankroll": 253.1,
+      "event": "won: ferrariChampions2026 \u2014 W50 Evora: Elena Micic vs Xinyu Gao"
     }
   ]
 }
