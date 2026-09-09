@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:30:50 (hora de Perú)
+Actualizado: 2026-09-09 16:32:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $198.73
@@ -924,7 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 102.9% | ⏳ pendiente | — |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 112.6% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ✅ ganada | +0.59 |
