@@ -116744,8 +116744,8 @@
     "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 77583.180876,
-    "whale_pct": 23.094,
+    "whale_usd": 96527.55532099999,
+    "whale_pct": 28.733,
     "whale_value_at_open": 335941.9849,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -116758,8 +116758,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788917507.602849,
-    "fills": 12
+    "last_fill_at": 1788921659.671301,
+    "fills": 24
   },
   {
     "timestamp": 1788918636,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 21:39:04 (hora de Perú)
+Actualizado: 2026-09-08 21:41:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.29
@@ -918,7 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 23.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 28.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
