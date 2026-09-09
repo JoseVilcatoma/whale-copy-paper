@@ -1,5 +1,5 @@
 {
-  "bankroll": 222.2183347024449,
+  "bankroll": 203.8536968459194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24030,6 +24030,41 @@
       "timestamp": 1788988382.8613954,
       "bankroll": 222.22,
       "event": "won: rabbitfoot1 \u2014 SSC Napoli vs. Arsenal FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788988684.4576576,
+      "bankroll": 217.07,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Arsenal FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1788988685.0091226,
+      "bankroll": 214.2,
+      "event": "lost: Flaznorp \u2014 Will Sporting CP win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1788988688.2706087,
+      "bankroll": 218.69,
+      "event": "won: ChayEhc \u2014 SSC Napoli vs. Arsenal FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788988688.4200995,
+      "bankroll": 213.54,
+      "event": "lost: Antblack \u2014 US Open WTA: Mirra Andreeva vs Coco Gauff"
+    },
+    {
+      "timestamp": 1788988688.520302,
+      "bankroll": 208.41,
+      "event": "lost: tyutgbhnm \u2014 US Open WTA: Mirra Andreeva vs Coco Gauff"
+    },
+    {
+      "timestamp": 1788988688.9650636,
+      "bankroll": 203.26,
+      "event": "lost: Antblack \u2014 Seville: Raul Brancaccio vs Pablo Llamas Ruiz"
+    },
+    {
+      "timestamp": 1788988689.2517624,
+      "bankroll": 203.85,
+      "event": "won: rabbitfoot1 \u2014 Sporting CP vs. Galatasaray SK: O/U 4.5"
     }
   ]
 }
