@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 19:00:48 (hora de Perú)
+Actualizado: 2026-09-08 19:02:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $209.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 19:00:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $39.38)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $24.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 8 | +26.83 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 9 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 74 | 60 | 5 | -132.91 USD |
-| ferrariChampions2026 | 626 | 399 | 5 | -261.74 USD |
+| ferrariChampions2026 | 626 | 399 | 7 | -261.74 USD |
 
 ## Análisis general
 
@@ -903,7 +903,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Mets vs. Miami Marlins: O/U 10. | Over (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs PARIVISION | PARIVISION (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers: O/U  | Under (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Mets vs. Miami Marlins: O/U 10. | Over (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Zzzz87 | Will Toronto FC win on 2026-09-09? | No (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Zzzz87 | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Zzzz87 | Will D.C. United SC win on 2026-09-09? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -930,6 +933,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion (BO | GamerLegion (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs BIG (+1.5) | G2 (BUY) | 43% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BIG vs G2 (BO3) - FISSUR | G2 (BUY) | 73% | 5.00 | 10.1% | ⏳ pendiente | — |
-| Gambler661 | Genoa: Stefano Napolitano vs Stefano Tra | Stefano Travaglia (BUY) | 81% | 5.00 | 50.8% | ✅ ganada | +1.13 |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 50% | 5.00 | 21.8% | ⏳ pendiente | — |
-| Gambler661 | Barranquilla: Leolia Jeanjean vs Carolin | Carolina M. Alves (BUY) | 66% | 5.00 | 55.5% | ❌ perdida | -5.08 |
