@@ -117674,5 +117674,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788932112.8028326,
     "fills": 1
+  },
+  {
+    "timestamp": 1788932163,
+    "timestamp_added": 1788932164.3847635,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ntr-1win-2026-09-09",
+    "title": "Counter-Strike: Nuclear TigeRES vs 1WIN (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 814.4675,
+    "whale_pct": 0.788,
+    "whale_value_at_open": 103337.0631,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788932164.384776,
+    "fills": 1
   }
 ]
