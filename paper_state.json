@@ -1,5 +1,5 @@
 {
-  "bankroll": 247.55924073992844,
+  "bankroll": 246.90500264469034,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23685,6 +23685,16 @@
       "timestamp": 1788951939.7355385,
       "bankroll": 247.56,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Nuclear TigeRES vs 1WIN (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788953197.9323332,
+      "bankroll": 252.05,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi"
+    },
+    {
+      "timestamp": 1788953198.4523413,
+      "bankroll": 246.91,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi"
     }
   ]
 }
