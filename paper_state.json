@@ -1,5 +1,5 @@
 {
-  "bankroll": 211.49107477624776,
+  "bankroll": 215.15500460080915,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23985,6 +23985,11 @@
       "timestamp": 1788980251.4914653,
       "bankroll": 211.49,
       "event": "won: ferrariChampions2026 \u2014 FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5"
+    },
+    {
+      "timestamp": 1788983980.6888504,
+      "bankroll": 215.16,
+      "event": "won:  \u2014 Spread: France (-1.5)"
     }
   ]
 }
