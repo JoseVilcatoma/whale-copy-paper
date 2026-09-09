@@ -118262,5 +118262,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788947365.5454721,
     "fills": 2
+  },
+  {
+    "timestamp": 1788947450,
+    "timestamp_added": 1788947451.2571418,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-gjorche-zantede-2026-09-09",
+    "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
+    "outcome": "Aurora Zantedeschi",
+    "side": "BUY",
+    "whale_usd": 4765.593999999999,
+    "whale_pct": 3.269,
+    "whale_value_at_open": 145785.38,
+    "paper_stake_usd": 3.32,
+    "odds_at_bet": 42,
+    "fee_usd": 0.096,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788947451.257153,
+    "fills": 1
   }
 ]
