@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:01:39 (hora de Perú)
+Actualizado: 2026-09-09 16:04:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:01:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.46 en 41 posiciones abiertas (disponible para nuevas apuestas: $19.77)
+**Capital comprometido ahora mismo:** $205.46 en 42 posiciones abiertas (disponible para nuevas apuestas: $14.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tyutgbhnm | 0 | 0 | 1 | +0.00 USD |
 | bands1 | 0 | 0 | 1 | +0.00 USD |
 | rabbitfoot1 | 0 | 0 | 2 | +0.00 USD |
-| Antblack | 1 | 1 | 3 | -0.04 USD |
+| Antblack | 1 | 1 | 4 | -0.04 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -924,6 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ⏳ pendiente | — |
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ⏳ pendiente | — |
 | Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ⏳ pendiente | — |
@@ -953,4 +954,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 53% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 60% | 5.00 | 18.5% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks: 1H O/U 21.5 | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 950.9% | 💰 vendida anticipada | +0.41 |

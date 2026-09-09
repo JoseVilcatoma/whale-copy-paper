@@ -119764,5 +119764,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788987229.270229,
     "fills": 1
+  },
+  {
+    "timestamp": 1788987790,
+    "timestamp_added": 1788987790.3847473,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "wta-jeanjea-pareja-2026-09-09",
+    "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
+    "outcome": "Leolia Jeanjean",
+    "side": "BUY",
+    "whale_usd": 8726.409999999998,
+    "whale_pct": 14.253,
+    "whale_value_at_open": 61226.2472,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788987790.38476,
+    "fills": 1
   }
 ]
