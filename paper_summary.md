@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:16:41 (hora de Perú)
+Actualizado: 2026-09-09 03:18:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:16:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $192.80 en 39 posiciones abiertas (disponible para nuevas apuestas: $39.47)
+**Capital comprometido ahora mismo:** $197.80 en 40 posiciones abiertas (disponible para nuevas apuestas: $34.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 81 | 64 | 4 | -132.47 USD |
+|  | 81 | 64 | 5 | -132.47 USD |
 | ferrariChampions2026 | 639 | 404 | 2 | -241.95 USD |
 
 ## Análisis general
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -938,4 +939,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
