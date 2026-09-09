@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.24667618314794,
+  "bankroll": 250.44864869173898,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23740,6 +23740,21 @@
       "timestamp": 1788955620.0640533,
       "bankroll": 255.25,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Marvin Moeller vs Matias Soto"
+    },
+    {
+      "timestamp": 1788957813.228272,
+      "bankroll": 250.1,
+      "event": "lost:  \u2014 Tulln: Nico Hipfl vs Alex Barrena"
+    },
+    {
+      "timestamp": 1788957813.5876975,
+      "bankroll": 250.25,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Nico Hipfl vs Alex Barrena"
+    },
+    {
+      "timestamp": 1788957813.934122,
+      "bankroll": 250.45,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Francesco Maestrelli vs Alafia Ayeni"
     }
   ]
 }
