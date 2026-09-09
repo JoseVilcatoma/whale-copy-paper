@@ -1,5 +1,5 @@
 {
-  "bankroll": 246.90500264469034,
+  "bankroll": 250.1744053475775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23695,6 +23695,26 @@
       "timestamp": 1788953198.4523413,
       "bankroll": 246.91,
       "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi"
+    },
+    {
+      "timestamp": 1788954032.8117754,
+      "bankroll": 251.98,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: TYLOO vs GamerLegion - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788954038.9937003,
+      "bankroll": 252.4,
+      "event": "won:  \u2014 LoL: DN SOOPers Challengers vs Nongshim Esports Academy - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788954041.1907976,
+      "bankroll": 247.27,
+      "event": "lost:  \u2014 Cassis: Mathys Erhard vs Daniil Glinka"
+    },
+    {
+      "timestamp": 1788954041.2909274,
+      "bankroll": 250.17,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Mathys Erhard vs Daniil Glinka"
     }
   ]
 }

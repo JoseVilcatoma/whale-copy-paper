@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:39:14 (hora de Perú)
+Actualizado: 2026-09-09 06:41:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $246.91
-**Retorno acumulado:** -50.62%
+**Bankroll actual:** $250.17
+**Retorno acumulado:** -49.97%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 06:39:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.42 en 49 posiciones abiertas (disponible para nuevas apuestas: $6.49)
+**Capital comprometido ahora mismo:** $222.19 en 45 posiciones abiertas (disponible para nuevas apuestas: $27.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 80 | 44 | 9 | +40.85 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 81 | 44 | 8 | +45.93 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -39,7 +39,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-|  | 26 | 21 | 3 | +11.22 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -52,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+|  | 26 | 22 | 2 | +6.10 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -144,19 +144,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 83 | 64 | 4 | -129.24 USD |
-| ferrariChampions2026 | 642 | 405 | 9 | -238.32 USD |
+|  | 84 | 64 | 3 | -128.83 USD |
+| ferrariChampions2026 | 643 | 405 | 8 | -235.42 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4534
-- **Aciertos:** 2854 (62.9%)
+- **Apuestas resueltas:** 4538
+- **Aciertos:** 2857 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,639.96
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $420.75 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,658.19
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $421.10 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -164,9 +164,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2323 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2326 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1363 | 68.8% | 67.8% | +1.0 pp |
-| 80-94% | 595 | 85.2% | 86.6% | -1.4 pp |
+| 80-94% | 596 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 253 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -918,8 +918,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Marvin Moeller vs Matias Soto | Matias Soto (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Marat Sharipov vs Taro Daniel | Marat Sharipov (BUY) | 95% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Lina Gjorcheska (BUY) | 43% | 5.00 | 4.6% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 12.8% | ⏳ pendiente | — |
-|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 12.8% | ✅ ganada | +2.90 |
+|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 18.5% | ✅ ganada | +4.49 |
 | 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
@@ -933,7 +933,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | Yes (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
-|  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ⏳ pendiente | — |
+|  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ✅ ganada | +0.41 |
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |
 | Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
