@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:14:29 (hora de Perú)
+Actualizado: 2026-09-09 03:16:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $228.44
-**Retorno acumulado:** -54.31%
+**Bankroll actual:** $232.27
+**Retorno acumulado:** -53.55%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:14:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.80 en 43 posiciones abiertas (disponible para nuevas apuestas: $15.64)
+**Capital comprometido ahora mismo:** $192.80 en 39 posiciones abiertas (disponible para nuevas apuestas: $39.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,12 +23,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 80 | 44 | 9 | +40.85 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 12 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -45,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| TheMafiaa | 2 | 0 | 1 | +8.46 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -60,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
+| TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -105,7 +105,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| ExplosiveNinja | 23 | 15 | 5 | -3.52 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -122,6 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
+| ExplosiveNinja | 23 | 16 | 4 | -8.62 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 2 | 0 | -10.13 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -142,19 +142,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 81 | 64 | 3 | -132.47 USD |
+|  | 81 | 64 | 4 | -132.47 USD |
 | ferrariChampions2026 | 639 | 404 | 2 | -241.95 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4519
-- **Aciertos:** 2842 (62.9%)
+- **Apuestas resueltas:** 4524
+- **Aciertos:** 2845 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,566.64
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $419.44 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,591.64
+- **ROI sobre lo apostado:** -1.70%
+- **Comisiones pagadas (taker fee):** $420.00 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -162,8 +162,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2317 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1356 | 68.7% | 67.8% | +0.9 pp |
+| 40-59% | 2320 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1358 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 594 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 252 | 96.8% | 97.3% | -0.5 pp |
 
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
@@ -918,9 +919,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 4.6% | ✅ ganada | +2.84 |
-| ExplosiveNinja | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs 1WIN  | 1WIN (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
+| RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ❌ perdida | -5.11 |
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 39.8% | ✅ ganada | +7.05 |
@@ -938,4 +939,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
-| Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
