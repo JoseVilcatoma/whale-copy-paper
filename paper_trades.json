@@ -120661,5 +120661,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788996979.479499,
     "fills": 1
+  },
+  {
+    "timestamp": 1788997379,
+    "timestamp_added": 1788997379.7812648,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-hou-rsl-2026-09-09-total-2pt5",
+    "title": "Houston Dynamo vs. Real Salt Lake: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1278.612,
+    "whale_pct": 0.688,
+    "whale_value_at_open": 185903.9193,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788997379.7812784,
+    "fills": 1
   }
 ]
