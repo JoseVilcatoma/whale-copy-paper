@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.81482241277828,
+  "bankroll": 247.7978224127783,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23565,6 +23565,11 @@
       "timestamp": 1788931882.3266408,
       "bankroll": 252.81,
       "event": "won:  \u2014 W50 Guiyang: Sara Saito vs Xinxin Yao"
+    },
+    {
+      "timestamp": 1788932816.7763252,
+      "bankroll": 247.8,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: 5star vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
     }
   ]
 }
