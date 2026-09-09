@@ -1,5 +1,5 @@
 {
-  "bankroll": 247.7978224127783,
+  "bankroll": 242.6978224127783,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23570,6 +23570,11 @@
       "timestamp": 1788932816.7763252,
       "bankroll": 247.8,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: 5star vs TheMongolz (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788939635.3909369,
+      "bankroll": 242.7,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: magic vs FaZe (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
