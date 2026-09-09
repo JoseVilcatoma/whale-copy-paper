@@ -117090,8 +117090,8 @@
     "title": "Will Ljungskile SK win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2617.2039999999997,
-    "whale_pct": 6.386,
+    "whale_usd": 5395.984,
+    "whale_pct": 13.166,
     "whale_value_at_open": 40983.7519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -117102,8 +117102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788943834.6627252,
-    "fills": 2
+    "last_fill_at": 1788943930.3795178,
+    "fills": 3
   },
   {
     "timestamp": 1788924108,
@@ -118104,8 +118104,8 @@
     "title": "Shanghai: Pavel Kotov vs Jake Delaney",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 7716.937333999999,
-    "whale_pct": 7.863,
+    "whale_usd": 8900.937333999998,
+    "whale_pct": 9.07,
     "whale_value_at_open": 98136.5676,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -118116,8 +118116,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788943856.9568036,
-    "fills": 4
+    "last_fill_at": 1788943985.6082366,
+    "fills": 5
   },
   {
     "timestamp": 1788943219,
@@ -118166,5 +118166,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788943331.340487,
     "fills": 1
+  },
+  {
+    "timestamp": 1788943918,
+    "timestamp_added": 1788943919.205353,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-lgc-all-2026-09-09-game2",
+    "title": "Counter-Strike: Legacy vs Alliance - Map 2 Winner",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 1726.989999,
+    "whale_pct": 2.5,
+    "whale_value_at_open": 69090.9027,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788943940.6499467,
+    "fills": 2
   }
 ]
