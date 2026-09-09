@@ -119657,8 +119657,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "Noprajsk"
     ],
@@ -119829,8 +119829,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "bands1"
     ],
@@ -120001,8 +120001,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [
       "Noprajsk",
       "bands1"
@@ -120127,8 +120127,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -120513,6 +120513,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788995732.619656,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788996215,
+    "timestamp_added": 1788996215.828477,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "sud-san-cam-2026-09-09-san",
+    "title": "Will Santos FC win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1200.8,
+    "whale_pct": 0.321,
+    "whale_value_at_open": 374266.3231,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788996215.8284893,
     "fills": 1
   }
 ]

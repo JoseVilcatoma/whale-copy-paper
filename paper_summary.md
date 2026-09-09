@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:19:57 (hora de Perú)
+Actualizado: 2026-09-09 18:24:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $232.86
-**Retorno acumulado:** -53.43%
+**Bankroll actual:** $234.36
+**Retorno acumulado:** -53.13%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:19:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $20.39)
+**Capital comprometido ahora mismo:** $197.47 en 40 posiciones abiertas (disponible para nuevas apuestas: $36.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,12 +40,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 51 | 2 | +11.96 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| Noprajsk | 7 | 1 | 0 | +11.28 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 |  | 29 | 25 | 0 | +10.69 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Noprajsk | 6 | 1 | 1 | +8.56 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | ExplosiveNinja | 28 | 16 | 0 | +8.07 USD |
 | Sunshine.Smile | 12 | 6 | 1 | +7.89 USD |
@@ -69,6 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
+| bands1 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
@@ -91,7 +92,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
-| bands1 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -124,7 +124,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 86 | 33 | 0 | -6.97 USD |
+| Flaznorp | 86 | 33 | 1 | -6.97 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -149,18 +149,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 86 | 66 | 6 | -134.85 USD |
-| ferrariChampions2026 | 660 | 414 | 14 | -239.63 USD |
+| ferrariChampions2026 | 661 | 415 | 12 | -243.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4617
-- **Aciertos:** 2903 (62.9%)
+- **Apuestas resueltas:** 4621
+- **Aciertos:** 2906 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,050.38
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $428.74 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,070.38
+- **ROI sobre lo apostado:** -1.69%
+- **Comisiones pagadas (taker fee):** $429.11 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,9 +168,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2369 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1384 | 68.6% | 67.8% | +0.9 pp |
-| 80-94% | 607 | 85.3% | 86.6% | -1.3 pp |
+| 40-59% | 2370 | 50.0% | 50.1% | -0.0 pp |
+| 60-79% | 1386 | 68.7% | 67.8% | +0.9 pp |
+| 80-94% | 608 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -930,6 +930,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -945,18 +946,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
-| ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 |  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 9.1% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Kayla Day (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ✅ ganada | +5.97 |
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ⏳ pendiente | — |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ✅ ganada | +2.72 |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
-| Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |

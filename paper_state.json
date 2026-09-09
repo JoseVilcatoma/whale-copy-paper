@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.8588400054685,
+  "bankroll": 234.3638400054685,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24135,6 +24135,26 @@
       "timestamp": 1788995612.3407702,
       "bankroll": 232.86,
       "event": "won: ferrariChampions2026 \u2014 Spread: Chelsea FC (-1.5)"
+    },
+    {
+      "timestamp": 1788996128.8587604,
+      "bankroll": 235.58,
+      "event": "won: bands1 \u2014 US Open ATP: Karen Khachanov vs Alexander Blockx"
+    },
+    {
+      "timestamp": 1788996129.2510512,
+      "bankroll": 238.3,
+      "event": "won: Noprajsk \u2014 US Open ATP: Karen Khachanov vs Alexander Blockx"
+    },
+    {
+      "timestamp": 1788996129.8448002,
+      "bankroll": 239.5,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Karen Khachanov vs Alexander Blockx"
+    },
+    {
+      "timestamp": 1788996130.5461245,
+      "bankroll": 234.36,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. San Diego Padres: O/U 11.5"
     }
   ]
 }
