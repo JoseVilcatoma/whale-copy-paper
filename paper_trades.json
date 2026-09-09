@@ -118602,5 +118602,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788956335.3704035,
     "fills": 1
+  },
+  {
+    "timestamp": 1788956543,
+    "timestamp_added": 1788956544.0338264,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-bb3-ast10-2026-09-09-game1",
+    "title": "Counter-Strike: BetBoom Team vs Astralis - Map 1 Winner",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "whale_usd": 559.17,
+    "whale_pct": 0.523,
+    "whale_value_at_open": 106892.2377,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788956544.0338373,
+    "fills": 1
   }
 ]
