@@ -120069,8 +120069,8 @@
     "title": "Barranquilla: Emiliana Arango vs Carol Young Suh Lee",
     "outcome": "Carol Young Suh Lee",
     "side": "BUY",
-    "whale_usd": 5293.8306,
-    "whale_pct": 1.32,
+    "whale_usd": 5991.977267,
+    "whale_pct": 1.495,
     "whale_value_at_open": 400906.5677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -120081,8 +120081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788991461.8784025,
-    "fills": 2
+    "last_fill_at": 1788997777.2005389,
+    "fills": 3
   },
   {
     "timestamp": 1788991424,
@@ -120695,8 +120695,8 @@
     "title": "Pittsburgh Pirates vs. Chicago White Sox",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 520.5600000000001,
-    "whale_pct": 0.273,
+    "whale_usd": 9011.5507,
+    "whale_pct": 4.728,
     "whale_value_at_open": 190587.9939,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -120707,8 +120707,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788997562.879655,
-    "fills": 1
+    "last_fill_at": 1788997818.9283319,
+    "fills": 7
   },
   {
     "timestamp": 1788997562,

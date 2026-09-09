@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:48:36 (hora de Perú)
+Actualizado: 2026-09-09 18:50:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.88
@@ -933,7 +933,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -958,6 +958,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 |  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
