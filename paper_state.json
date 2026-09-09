@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.26551102439055,
+  "bankroll": 232.91732920620873,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23640,6 +23640,11 @@
       "timestamp": 1788941794.9783556,
       "bankroll": 232.27,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788943900.2705722,
+      "bankroll": 232.92,
+      "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: HOTU vs Wildcard - Map 1 Winner (+0.65 USD)"
     }
   ]
 }

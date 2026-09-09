@@ -117090,8 +117090,8 @@
     "title": "Will Ljungskile SK win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 860.0640000000001,
-    "whale_pct": 2.099,
+    "whale_usd": 2617.2039999999997,
+    "whale_pct": 6.386,
     "whale_value_at_open": 40983.7519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -117102,8 +117102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788923809.6553223,
-    "fills": 1
+    "last_fill_at": 1788943834.6627252,
+    "fills": 2
   },
   {
     "timestamp": 1788924108,
@@ -118061,13 +118061,15 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788942779.963234,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.03,
+    "closed_price": 100
   },
   {
     "timestamp": 1788942794,
@@ -118102,8 +118104,8 @@
     "title": "Shanghai: Pavel Kotov vs Jake Delaney",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 5867.603999999999,
-    "whale_pct": 5.979,
+    "whale_usd": 7716.937333999999,
+    "whale_pct": 7.863,
     "whale_value_at_open": 98136.5676,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -118114,8 +118116,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788943788.5692835,
-    "fills": 2
+    "last_fill_at": 1788943856.9568036,
+    "fills": 4
   },
   {
     "timestamp": 1788943219,

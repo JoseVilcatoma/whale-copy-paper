@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:49:51 (hora de Perú)
+Actualizado: 2026-09-09 03:51:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $232.27
-**Retorno acumulado:** -53.55%
+**Bankroll actual:** $232.92
+**Retorno acumulado:** -53.42%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:49:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.27 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $227.27 en 46 posiciones abiertas (disponible para nuevas apuestas: $5.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,12 +80,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
+| Noprajsk | 1 | 0 | 0 | +0.65 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
-| Noprajsk | 0 | 0 | 1 | +0.00 USD |
 | Antblack | 1 | 1 | 0 | -0.04 USD |
 | mimi121 | 0 | 1 | 1 | -0.36 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -912,9 +912,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 6.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 7.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | 💰 vendida anticipada | +0.65 |
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | Yes (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
