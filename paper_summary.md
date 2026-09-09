@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:04:24 (hora de Perú)
+Actualizado: 2026-09-09 16:06:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:04:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.46 en 42 posiciones abiertas (disponible para nuevas apuestas: $14.77)
+**Capital comprometido ahora mismo:** $210.46 en 43 posiciones abiertas (disponible para nuevas apuestas: $9.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 6 | 1 | 0 | +8.56 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | ExplosiveNinja | 28 | 16 | 0 | +8.07 USD |
-| Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
+| Sunshine.Smile | 12 | 6 | 1 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -924,6 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 30.3% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ⏳ pendiente | — |
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ⏳ pendiente | — |
@@ -953,4 +954,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 53% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 60% | 5.00 | 18.5% | ✅ ganada | +3.23 |
-| wr0ngw4yb3tt0r | Patriots vs. Seahawks: 1H O/U 21.5 | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
