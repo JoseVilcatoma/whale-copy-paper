@@ -118104,8 +118104,8 @@
     "title": "Shanghai: Pavel Kotov vs Jake Delaney",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 18438.487333999998,
-    "whale_pct": 18.789,
+    "whale_usd": 34072.772377999994,
+    "whale_pct": 34.72,
     "whale_value_at_open": 98136.5676,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -118116,8 +118116,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788944252.223887,
-    "fills": 7
+    "last_fill_at": 1788944356.1468441,
+    "fills": 10
   },
   {
     "timestamp": 1788943219,
