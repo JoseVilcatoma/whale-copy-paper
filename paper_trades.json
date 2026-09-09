@@ -117581,8 +117581,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 31705.479178,
-    "whale_pct": 21.207,
+    "whale_usd": 46083.510878,
+    "whale_pct": 30.825,
     "whale_value_at_open": 149501.9873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -117597,8 +117597,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788935947.1875734,
-    "fills": 18
+    "last_fill_at": 1788936504.9781647,
+    "fills": 23
   },
   {
     "timestamp": 1788930492,
@@ -117850,5 +117850,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788935742.041715,
     "fills": 2
+  },
+  {
+    "timestamp": 1788936422,
+    "timestamp_added": 1788936423.0357993,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fcb-fey-2026-09-09-total-4pt5",
+    "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 10424.630000000001,
+    "whale_pct": 8.288,
+    "whale_value_at_open": 125783.652,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788936423.03581,
+    "fills": 1
   }
 ]
