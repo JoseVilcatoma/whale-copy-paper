@@ -1,5 +1,5 @@
 {
-  "bankroll": 216.15037911960508,
+  "bankroll": 224.79002299424894,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23435,6 +23435,16 @@
       "timestamp": 1788921971.5603254,
       "bankroll": 216.15,
       "event": "lost: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Chicago White Sox: O/U 13.5"
+    },
+    {
+      "timestamp": 1788923512.7509217,
+      "bankroll": 220.65,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1788923514.9385483,
+      "bankroll": 224.79,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-1.5)"
     }
   ]
 }

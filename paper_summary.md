@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:10:00 (hora de Perú)
+Actualizado: 2026-09-08 22:12:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $216.15
-**Retorno acumulado:** -56.77%
+**Bankroll actual:** $224.79
+**Retorno acumulado:** -55.04%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:10:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.38 en 43 posiciones abiertas (disponible para nuevas apuestas: $1.77)
+**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $20.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 53 | 36 | 0 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 52 | 36 | 1 | +16.72 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -143,18 +143,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 76 | 62 | 5 | -138.94 USD |
-| ferrariChampions2026 | 632 | 401 | 8 | -252.88 USD |
+| ferrariChampions2026 | 633 | 401 | 7 | -248.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4483
-- **Aciertos:** 2818 (62.9%)
+- **Apuestas resueltas:** 4485
+- **Aciertos:** 2820 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,387.26
-- **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $416.30 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,397.26
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $416.54 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -162,7 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2302 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2304 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1341 | 68.8% | 67.8% | +1.1 pp |
 | 80-94% | 589 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 251 | 96.8% | 97.3% | -0.5 pp |
