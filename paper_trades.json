@@ -118798,5 +118798,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788959497.0610862,
     "fills": 13
+  },
+  {
+    "timestamp": 1788959606,
+    "timestamp_added": 1788959606.6907673,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "efl-cfc-lee-2026-09-09-spread-home-1pt5",
+    "title": "Spread: Chelsea FC (-1.5)",
+    "outcome": "Chelsea FC",
+    "side": "BUY",
+    "whale_usd": 900.3641,
+    "whale_pct": 0.495,
+    "whale_value_at_open": 182025.8639,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788959606.6907783,
+    "fills": 1
   }
 ]
