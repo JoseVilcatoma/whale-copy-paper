@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:47:50 (hora de Perú)
+Actualizado: 2026-09-09 03:49:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.27
@@ -911,8 +911,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
