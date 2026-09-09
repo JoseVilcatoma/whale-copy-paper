@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 19:42:33 (hora de Perú)
+Actualizado: 2026-09-08 19:44:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $213.87
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 19:42:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $209.38 en 42 posiciones abiertas (disponible para nuevas apuestas: $4.49)
+**Capital comprometido ahora mismo:** $213.87 en 43 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 74 | 60 | 6 | -132.91 USD |
-| ferrariChampions2026 | 627 | 399 | 10 | -257.24 USD |
+| ferrariChampions2026 | 627 | 399 | 11 | -257.24 USD |
 
 ## Análisis general
 
@@ -890,6 +890,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1a-ktc-2026-09-08-game3 | Sunshine.Smile, hurrican |
 | lol-ig1-lgd-2026-09-08-game1 | GoodGuy26, Sunshine.Smile, five5120 |
 | lol-ig1-lgd-2026-09-08-game3 | five5120, zofgkt1111 |
+| mlb-nym-mia-2026-09-08 | ferrariChampions2026, pleaseplease123 |
 | cs2-g2-ast10-2026-09-08 | ExplosiveNinja, sbsigner |
 | mlb-chc-mil-2026-09-08-spread-home-1pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | ucl-bru-ast-2026-09-08-bru | Jsram, sbsigner |
@@ -903,7 +904,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 27.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ⏳ pendiente | — |
+|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 30.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. São Paulo FC: O/U 2. | Under (BUY) | 68% | 4.38 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -932,4 +934,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TYLOO (-1.5) vs GamerLegio | GamerLegion (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Barranquilla: Cadence Brace vs Sara Sorr | Sara Sorribes Tormo (BUY) | 82% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Independiente Santa Fe vs. CR Vasco da G | Under (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |

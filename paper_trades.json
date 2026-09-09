@@ -116618,8 +116618,8 @@
     "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 39999.999999,
-    "whale_pct": 27.156,
+    "whale_usd": 44949.999998,
+    "whale_pct": 30.517,
     "whale_value_at_open": 147295.2739,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -116630,7 +116630,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788914516.8501465,
+    "last_fill_at": 1788914596.211913,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788914621,
+    "timestamp_added": 1788914621.7589524,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nym-mia-2026-09-08",
+    "title": "New York Mets vs. Miami Marlins",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 11663.997297,
+    "whale_pct": 3.083,
+    "whale_value_at_open": 378381.495,
+    "paper_stake_usd": 4.49,
+    "odds_at_bet": 89,
+    "fee_usd": 0.025,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788914673.6364362,
     "fills": 2
   }
 ]
