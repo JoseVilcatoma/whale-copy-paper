@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:58:04 (hora de Perú)
+Actualizado: 2026-09-09 09:00:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $249.32
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 08:58:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.27 en 48 posiciones abiertas (disponible para nuevas apuestas: $12.05)
+**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $7.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| pleaseplease123 | 23 | 20 | 0 | +2.12 USD |
+| pleaseplease123 | 23 | 20 | 1 | +2.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -913,6 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -942,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 18.5% | ✅ ganada | +4.49 |
 | 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
-| 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
