@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 05:01:41 (hora de Perú)
+Actualizado: 2026-09-09 05:03:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $238.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 05:01:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.59 en 47 posiciones abiertas (disponible para nuevas apuestas: $8.23)
+**Capital comprometido ahora mismo:** $238.82 en 49 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-|  | 26 | 21 | 0 | +11.22 USD |
+|  | 26 | 21 | 1 | +11.22 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 81 | 64 | 6 | -132.47 USD |
-| ferrariChampions2026 | 641 | 404 | 6 | -237.67 USD |
+| ferrariChampions2026 | 641 | 404 | 7 | -237.67 USD |
 
 ## Análisis general
 
@@ -906,11 +906,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-sd-2026-09-08 | , Flaznorp |
 | atp-shelton-alcaraz-2026-09-08 | , Flaznorp, ferrariChampions2026, martingaleking |
 | ucl-fcb-fey-2026-09-09-total-4pt5 | Flaznorp, ferrariChampions2026 |
+| atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 7.9% | ⏳ pendiente | — |
+|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 19.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 3.3% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
@@ -939,5 +942,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ❌ perdida | -5.11 |
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 39.8% | ✅ ganada | +7.05 |
-| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 16.5% | ❌ perdida | -5.07 |
