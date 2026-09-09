@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 09:16:34 (hora de Perú)
+Actualizado: 2026-09-09 09:18:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $249.32
-**Retorno acumulado:** -50.14%
+**Bankroll actual:** $252.17
+**Retorno acumulado:** -49.57%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 09:16:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $247.27 en 50 posiciones abiertas (disponible para nuevas apuestas: $2.05)
+**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $9.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,6 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 |  | 27 | 23 | 1 | +7.72 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| Noprajsk | 3 | 0 | 0 | +7.01 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -56,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| Noprajsk | 2 | 0 | 1 | +4.17 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -914,14 +914,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 11.2% | ⏳ pendiente | — |
+| pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 13.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | 💰 vendida anticipada | +2.84 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 1.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |

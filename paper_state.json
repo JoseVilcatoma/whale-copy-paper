@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.32182403683956,
+  "bankroll": 252.1663319733475,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23795,6 +23795,11 @@
       "timestamp": 1788961533.1510801,
       "bankroll": 249.32,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: B8 vs BET-M 33 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788963506.2070677,
+      "bankroll": 252.17,
+      "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner (+2.84 USD)"
     }
   ]
 }
