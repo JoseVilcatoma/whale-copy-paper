@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:45:23 (hora de Perú)
+Actualizado: 2026-09-08 22:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:45:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.38 en 43 posiciones abiertas (disponible para nuevas apuestas: $25.18)
+**Capital comprometido ahora mismo:** $219.38 en 44 posiciones abiertas (disponible para nuevas apuestas: $20.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-|  | 25 | 20 | 0 | +10.31 USD |
+|  | 25 | 20 | 1 | +10.31 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -907,6 +907,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 45% | 5.00 | 4.9% | ⏳ pendiente | — |
 | martingaleking | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 70% | 5.00 | 94.0% | ⏳ pendiente | — |
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -936,4 +937,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ✅ ganada | +0.53 |
-|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 77.6% | ✅ ganada | +1.69 |
