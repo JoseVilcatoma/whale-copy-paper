@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 09:22:42 (hora de Perú)
+Actualizado: 2026-09-09 09:24:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $252.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 09:22:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $9.90)
+**Capital comprometido ahora mismo:** $252.17 en 51 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 53 | 36 | 4 | +21.22 USD |
+| wr0ngw4yb3tt0r | 53 | 36 | 5 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 |  | 27 | 23 | 1 | +7.72 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Noprajsk | 3 | 0 | 0 | +7.01 USD |
+| Noprajsk | 3 | 0 | 1 | +7.01 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -913,6 +913,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 31.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -941,5 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Marat Sharipov vs Taro Daniel | Marat Sharipov (BUY) | 95% | 5.00 | 1.6% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Lina Gjorcheska (BUY) | 43% | 5.00 | 4.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 12.8% | ✅ ganada | +2.90 |
-|  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 18.5% | ✅ ganada | +4.49 |
