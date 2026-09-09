@@ -118466,8 +118466,8 @@
     "title": "M25 Rabat: Maximilian Figl vs Arthur Nagel",
     "outcome": "Maximilian Figl",
     "side": "BUY",
-    "whale_usd": 5367.7358,
-    "whale_pct": 6.981,
+    "whale_usd": 6358.108,
+    "whale_pct": 8.269,
     "whale_value_at_open": 76890.2113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -118478,8 +118478,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788953537.8703122,
-    "fills": 7
+    "last_fill_at": 1788957491.0294702,
+    "fills": 8
   },
   {
     "timestamp": 1788954793,

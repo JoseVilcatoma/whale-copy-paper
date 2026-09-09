@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 07:37:17 (hora de Perú)
+Actualizado: 2026-09-09 07:39:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $255.25
@@ -921,7 +921,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ⏳ pendiente | — |
-|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 7.0% | ⏳ pendiente | — |
+|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 8.3% | ⏳ pendiente | — |
 |  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Elena Micic vs Xinyu Gao | Xinyu Gao (BUY) | 64% | 4.92 | 0.3% | ✅ ganada | +2.68 |
 | ferrariChampions2026 | Tulln: Marvin Moeller vs Matias Soto | Matias Soto (BUY) | 47% | 5.00 | 0.4% | ✅ ganada | +5.51 |
