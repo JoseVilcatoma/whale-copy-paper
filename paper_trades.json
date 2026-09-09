@@ -119487,5 +119487,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788975707.0719965,
     "fills": 2
+  },
+  {
+    "timestamp": 1788975756,
+    "timestamp_added": 1788975756.637379,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zhen-rybakin-2026-09-08",
+    "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
+    "outcome": "Qinwen Zheng",
+    "side": "BUY",
+    "whale_usd": 10563.725586,
+    "whale_pct": 3.784,
+    "whale_value_at_open": 279203.5468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788975787.1893845,
+    "fills": 3
   }
 ]
