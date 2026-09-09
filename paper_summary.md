@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:44:34 (hora de Perú)
+Actualizado: 2026-09-09 18:46:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:44:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.47 en 45 posiciones abiertas (disponible para nuevas apuestas: $15.41)
+**Capital comprometido ahora mismo:** $237.47 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 86 | 66 | 6 | -134.85 USD |
-| ferrariChampions2026 | 662 | 415 | 14 | -240.05 USD |
+| ferrariChampions2026 | 662 | 415 | 17 | -240.05 USD |
 
 ## Análisis general
 
@@ -918,6 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-sf-2026-09-09-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
+| mlb-col-nyy-2026-09-09-total-9pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-stl-sf-2026-09-09 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-khachan-blockx-2026-09-09 | Noprajsk, bands1, ferrariChampions2026 |
 | wta-andreev-gauff-2026-09-08 | Antblack, Noprajsk, tyutgbhnm |
@@ -930,6 +931,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -957,6 +961,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 9.1% | ✅ ganada | +1.20 |
-| ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Kayla Day (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ✅ ganada | +3.52 |
