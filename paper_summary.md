@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:22:41 (hora de Perú)
+Actualizado: 2026-09-09 16:24:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $203.85
-**Retorno acumulado:** -59.23%
-**Peor caída desde un máximo (drawdown):** 66.47%
+**Bankroll actual:** $198.73
+**Retorno acumulado:** -60.25%
+**Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:22:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $147.66 en 30 posiciones abiertas (disponible para nuevas apuestas: $56.19)
+**Capital comprometido ahora mismo:** $142.66 en 29 posiciones abiertas (disponible para nuevas apuestas: $56.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,19 +148,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 85 | 65 | 2 | -130.26 USD |
+|  | 85 | 66 | 1 | -135.38 USD |
 | ferrariChampions2026 | 657 | 414 | 3 | -253.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4603
+- **Apuestas resueltas:** 4604
 - **Aciertos:** 2892 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,980.38
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $427.28 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,985.38
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $427.40 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2359 | 49.9% | 50.1% | -0.1 pp |
+| 40-59% | 2360 | 49.9% | 50.1% | -0.1 pp |
 | 60-79% | 1382 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 605 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
@@ -924,7 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 90.0% | ⏳ pendiente | — |
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 90.2% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ✅ ganada | +0.59 |

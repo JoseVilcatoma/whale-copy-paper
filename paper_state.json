@@ -1,5 +1,5 @@
 {
-  "bankroll": 203.8536968459194,
+  "bankroll": 198.73369684591938,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24065,6 +24065,11 @@
       "timestamp": 1788988689.2517624,
       "bankroll": 203.85,
       "event": "won: rabbitfoot1 \u2014 Sporting CP vs. Galatasaray SK: O/U 4.5"
+    },
+    {
+      "timestamp": 1788989000.9040647,
+      "bankroll": 198.73,
+      "event": "lost:  \u2014 Will Ljungskile SK win on 2026-09-09?"
     }
   ]
 }
