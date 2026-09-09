@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 14:22:33 (hora de Perú)
+Actualizado: 2026-09-09 14:24:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $211.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 14:22:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.46 en 36 posiciones abiertas (disponible para nuevas apuestas: $36.03)
+**Capital comprometido ahora mismo:** $180.46 en 37 posiciones abiertas (disponible para nuevas apuestas: $31.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
 | ChayEhc | 0 | 0 | 1 | +0.00 USD |
-| Antblack | 1 | 1 | 0 | -0.04 USD |
+| Antblack | 1 | 1 | 1 | -0.04 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -913,11 +913,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-sf-2026-09-09-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
+| wta-andreev-gauff-2026-09-08 | Antblack, Noprajsk |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Antblack | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 41% | 5.00 | 57.4% | ⏳ pendiente | — |
 | ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 35.8% | ⏳ pendiente | — |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | 💰 vendida anticipada | +1.04 |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 78.4% | 💰 vendida anticipada | -0.49 |
@@ -947,4 +949,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 13.3% | ✅ ganada | +1.20 |

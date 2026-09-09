@@ -119587,5 +119587,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788979967.40425,
     "fills": 2
+  },
+  {
+    "timestamp": 1788981816,
+    "timestamp_added": 1788981817.3591397,
+    "username": "Antblack",
+    "wallet": "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a",
+    "slug": "wta-andreev-gauff-2026-09-08",
+    "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "whale_usd": 9000.0,
+    "whale_pct": 57.412,
+    "whale_value_at_open": 15676.2074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Noprajsk"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788981817.3591502,
+    "fills": 1
   }
 ]
