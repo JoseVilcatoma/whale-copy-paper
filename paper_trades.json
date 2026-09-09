@@ -118626,5 +118626,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788956544.0338373,
     "fills": 1
+  },
+  {
+    "timestamp": 1788956611,
+    "timestamp_added": 1788956611.8046165,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-martine-zeitune-2026-09-09",
+    "title": "Genoa: Pedro Martinez vs Maximo Zeitune",
+    "outcome": "Pedro Martinez",
+    "side": "BUY",
+    "whale_usd": 2288.097,
+    "whale_pct": 0.908,
+    "whale_value_at_open": 251960.9878,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788956611.8046277,
+    "fills": 1
   }
 ]
