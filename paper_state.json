@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.5106093743001,
+  "bankroll": 218.7742959414643,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23935,6 +23935,16 @@
       "timestamp": 1788978445.463565,
       "bankroll": 221.51,
       "event": "venta anticipada: Noprajsk \u2014 US Open ATP: Karen Khachanov vs Alexander Blockx (-0.49 USD)"
+    },
+    {
+      "timestamp": 1788978687.0291512,
+      "bankroll": 223.89,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788978687.7795486,
+      "bankroll": 218.77,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Elena Rybakina"
     }
   ]
 }
