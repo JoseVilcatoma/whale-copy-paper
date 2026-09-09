@@ -117296,5 +117296,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788925239.164618,
     "fills": 1
+  },
+  {
+    "timestamp": 1788925275,
+    "timestamp_added": 1788925275.8148463,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-stl-sf-2026-09-08-spread-home-2pt5",
+    "title": "Spread: San Francisco Giants (-2.5)",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 724.299996,
+    "whale_pct": 0.241,
+    "whale_value_at_open": 300352.1774,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788925275.814861,
+    "fills": 1
   }
 ]
