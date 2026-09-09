@@ -117526,8 +117526,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 33983.7765,
-    "whale_pct": 17.523,
+    "whale_usd": 37864.758986,
+    "whale_pct": 19.524,
     "whale_value_at_open": 193935.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117541,8 +117541,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788934913.5085084,
-    "fills": 9
+    "last_fill_at": 1788935206.3427398,
+    "fills": 10
   },
   {
     "timestamp": 1788928737,
@@ -117553,8 +117553,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 10514.792623,
-    "whale_pct": 4.652,
+    "whale_usd": 31420.759223,
+    "whale_pct": 13.902,
     "whale_value_at_open": 226018.3544,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117569,8 +117569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788934679.8246677,
-    "fills": 9
+    "last_fill_at": 1788935256.0855956,
+    "fills": 13
   },
   {
     "timestamp": 1788929795,
@@ -117802,5 +117802,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788934727.0237331,
     "fills": 3
+  },
+  {
+    "timestamp": 1788935220,
+    "timestamp_added": 1788935220.8652098,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-fcb-fey-2026-09-09-btts",
+    "title": "FC Barcelona vs. Feyenoord Rotterdam: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 597.8,
+    "whale_pct": 0.25,
+    "whale_value_at_open": 238891.1052,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788935220.8652203,
+    "fills": 1
   }
 ]
