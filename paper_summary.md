@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:57:51 (hora de Perú)
+Actualizado: 2026-09-08 22:59:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.56
@@ -917,7 +917,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
