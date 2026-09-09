@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:11:33 (hora de Perú)
+Actualizado: 2026-09-09 18:13:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $226.10
-**Retorno acumulado:** -54.78%
+**Bankroll actual:** $232.86
+**Retorno acumulado:** -53.43%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:11:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $13.63)
+**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $25.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,18 +149,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 86 | 66 | 5 | -134.85 USD |
-| ferrariChampions2026 | 659 | 414 | 15 | -246.39 USD |
+| ferrariChampions2026 | 660 | 414 | 14 | -239.63 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4616
-- **Aciertos:** 2902 (62.9%)
+- **Apuestas resueltas:** 4617
+- **Aciertos:** 2903 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,045.38
-- **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $428.59 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,050.38
+- **ROI sobre lo apostado:** -1.70%
+- **Comisiones pagadas (taker fee):** $428.74 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2368 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 2369 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1384 | 68.6% | 67.8% | +0.9 pp |
 | 80-94% | 607 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
@@ -945,7 +945,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 16.9% | ⏳ pendiente | — |
+|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |

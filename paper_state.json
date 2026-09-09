@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.09907810070658,
+  "bankroll": 232.8588400054685,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24130,6 +24130,11 @@
       "timestamp": 1788994668.2699964,
       "bankroll": 226.1,
       "event": "won: wr0ngw4yb3tt0r \u2014 Will Queens Park Rangers FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1788995612.3407702,
+      "bankroll": 232.86,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chelsea FC (-1.5)"
     }
   ]
 }
