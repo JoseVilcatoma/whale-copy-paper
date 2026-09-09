@@ -118238,5 +118238,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788946876.954475,
     "fills": 1
+  },
+  {
+    "timestamp": 1788947363,
+    "timestamp_added": 1788947363.752695,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "kor-gwo-jeo-2026-09-09-total-2pt5",
+    "title": "Gangwon FC vs. Jeonbuk Hyundai Motors FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 6384.330400000001,
+    "whale_pct": 24.459,
+    "whale_value_at_open": 26101.721,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788947365.5454721,
+    "fills": 2
   }
 ]

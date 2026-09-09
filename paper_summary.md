@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 04:47:21 (hora de Perú)
+Actualizado: 2026-09-09 04:49:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 04:47:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.27 en 46 posiciones abiertas (disponible para nuevas apuestas: $8.32)
+**Capital comprometido ahora mismo:** $232.27 en 47 posiciones abiertas (disponible para nuevas apuestas: $3.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 80 | 28 | 11 | +0.16 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
-| 1l2ihj34li12u34 | 0 | 0 | 1 | +0.00 USD |
+| 1l2ihj34li12u34 | 0 | 0 | 2 | +0.00 USD |
 | Antblack | 1 | 1 | 0 | -0.04 USD |
 | mimi121 | 0 | 1 | 1 | -0.36 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -911,6 +911,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-2.5) | FC Barcelona (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
 |  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -940,4 +941,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 39.8% | ✅ ganada | +7.05 |
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 16.5% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 40.6% | ❌ perdida | -5.07 |
-|  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ❌ perdida | -5.06 |
