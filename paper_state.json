@@ -1,5 +1,5 @@
 {
-  "bankroll": 235.69141292277513,
+  "bankroll": 244.66673083451252,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23470,6 +23470,26 @@
       "timestamp": 1788923707.3842015,
       "bankroll": 235.69,
       "event": "won: Flaznorp \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1788924015.4933722,
+      "bankroll": 237.38,
+      "event": "won:  \u2014 US Open WTA: Jessica Pegula vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788924015.5935218,
+      "bankroll": 240.9,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Jessica Pegula vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788924016.0945973,
+      "bankroll": 243.39,
+      "event": "won: Flaznorp \u2014 US Open WTA: Jessica Pegula vs Emma Navarro"
+    },
+    {
+      "timestamp": 1788924016.2949731,
+      "bankroll": 244.67,
+      "event": "won:  \u2014 US Open WTA: Jessica Pegula vs Emma Navarro"
     }
   ]
 }
