@@ -116992,8 +116992,8 @@
     "title": "Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
     "outcome": "ShindeN",
     "side": "BUY",
-    "whale_usd": 14578.9011,
-    "whale_pct": 8.495,
+    "whale_usd": 17551.334199999998,
+    "whale_pct": 10.227,
     "whale_value_at_open": 171610.0918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -117004,8 +117004,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788922876.3580132,
-    "fills": 4
+    "last_fill_at": 1788923810.3428574,
+    "fills": 5
   },
   {
     "timestamp": 1788920388,
@@ -117079,6 +117079,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788923606.7719421,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788923808,
+    "timestamp_added": 1788923809.655307,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "swe2-lsk-nor-2026-09-09-lsk",
+    "title": "Will Ljungskile SK win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 860.0640000000001,
+    "whale_pct": 2.099,
+    "whale_value_at_open": 40983.7519,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788923809.6553223,
     "fills": 1
   }
 ]

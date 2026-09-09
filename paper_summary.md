@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:16:17 (hora de Perú)
+Actualizado: 2026-09-08 22:18:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:16:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $184.38 en 37 posiciones abiertas (disponible para nuevas apuestas: $51.31)
+**Capital comprometido ahora mismo:** $189.38 en 38 posiciones abiertas (disponible para nuevas apuestas: $46.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 77 | 62 | 5 | -135.57 USD |
+|  | 77 | 62 | 6 | -135.57 USD |
 | ferrariChampions2026 | 635 | 402 | 4 | -245.53 USD |
 
 ## Análisis general
@@ -907,10 +907,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 88% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago Cubs (-2.5) | Milwaukee Brewers (BUY) | 53% | 5.00 | 0.4% | ✅ ganada | +4.32 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs BET-M 33 (+1. | BET-M 33 (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 8.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 10.2% | ⏳ pendiente | — |
 | Flaznorp | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Will São Paulo FC win on 2026-09-08? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ⏳ pendiente | — |
@@ -936,4 +937,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers: O/U  | Under (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins: O/U 10. | Over (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | Zzzz87 | Will Toronto FC win on 2026-09-09? | No (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Zzzz87 | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
