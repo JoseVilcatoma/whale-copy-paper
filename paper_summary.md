@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 21:59:36 (hora de Perú)
+Actualizado: 2026-09-08 22:01:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $216.15
@@ -908,7 +908,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Spread: Chicago Cubs (-2.5) | Milwaukee Brewers (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs BET-M 33 (+1. | BET-M 33 (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 6.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 8.5% | ⏳ pendiente | — |
 | Flaznorp | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Will São Paulo FC win on 2026-09-08? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ⏳ pendiente | — |
