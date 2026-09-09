@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.09280203856557,
+  "bankroll": 241.32613537189889,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23865,6 +23865,11 @@
       "timestamp": 1788967431.9468336,
       "bankroll": 238.09,
       "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: PARIVISION vs FURIA - Map 2 Winner (+0.41 USD)"
+    },
+    {
+      "timestamp": 1788967540.1090338,
+      "bankroll": 241.33,
+      "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: PARIVISION vs FURIA - Map 2 Winner"
     }
   ]
 }

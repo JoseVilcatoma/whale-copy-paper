@@ -119083,8 +119083,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [
       "Noprajsk"
     ],
@@ -119226,8 +119226,8 @@
     "title": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
     "outcome": "Irene Burillo Escorihuela",
     "side": "BUY",
-    "whale_usd": 97053.9393,
-    "whale_pct": 44.205,
+    "whale_usd": 228755.3993,
+    "whale_pct": 104.191,
     "whale_value_at_open": 219554.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -119241,8 +119241,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788967472.7406814,
-    "fills": 6
+    "last_fill_at": 1788967519.440781,
+    "fills": 14
   },
   {
     "timestamp": 1788967454,
