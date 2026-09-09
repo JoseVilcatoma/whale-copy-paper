@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:41:34 (hora de Perú)
+Actualizado: 2026-09-09 03:43:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:41:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.80 en 46 posiciones abiertas (disponible para nuevas apuestas: $4.47)
+**Capital comprometido ahora mismo:** $232.27 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 81 | 64 | 5 | -132.47 USD |
-| ferrariChampions2026 | 639 | 404 | 5 | -241.95 USD |
+| ferrariChampions2026 | 639 | 404 | 6 | -241.95 USD |
 
 ## Análisis general
 
@@ -910,6 +910,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
@@ -939,4 +940,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 18.0% | ❌ perdida | -5.07 |
-| Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |

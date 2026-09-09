@@ -118140,5 +118140,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788943219.5922678,
     "fills": 1
+  },
+  {
+    "timestamp": 1788943330,
+    "timestamp_added": 1788943331.340474,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-poh-san-2026-09-09-total-2pt5",
+    "title": "Pohang Steelers FC vs. Gimcheon Sangmu FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1195.98,
+    "whale_pct": 1.161,
+    "whale_value_at_open": 102988.4313,
+    "paper_stake_usd": 4.47,
+    "odds_at_bet": 63,
+    "fee_usd": 0.083,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788943331.340487,
+    "fills": 1
   }
 ]
