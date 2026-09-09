@@ -118961,8 +118961,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -119382,8 +119382,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "pleaseplease123"
     ],
@@ -119970,8 +119970,8 @@
     "title": "Barranquilla: Kayla Day vs Elsa Jacquemot",
     "outcome": "Kayla Day",
     "side": "BUY",
-    "whale_usd": 5394.4865,
-    "whale_pct": 1.312,
+    "whale_usd": 6108.2984,
+    "whale_pct": 1.485,
     "whale_value_at_open": 411269.8069,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -119982,8 +119982,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788991007.84761,
-    "fills": 1
+    "last_fill_at": 1788992754.8522997,
+    "fills": 2
   },
   {
     "timestamp": 1788991059,
@@ -120187,5 +120187,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788992678.5598152,
     "fills": 2
+  },
+  {
+    "timestamp": 1788992792,
+    "timestamp_added": 1788992792.7148826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-quevedo-tormo-2026-09-09",
+    "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
+    "outcome": "Sara Sorribes Tormo",
+    "side": "BUY",
+    "whale_usd": 2963.9619,
+    "whale_pct": 1.009,
+    "whale_value_at_open": 293831.6228,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788992792.714894,
+    "fills": 1
   }
 ]
