@@ -120486,5 +120486,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788995041.241241,
     "fills": 1
+  },
+  {
+    "timestamp": 1788995732,
+    "timestamp_added": 1788995732.6196446,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mls-phi-fcc-2026-09-09-phi",
+    "title": "Will Philadelphia Union win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3792.04,
+    "whale_pct": 2.791,
+    "whale_value_at_open": 135851.303,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Zzzz87",
+      "theowalcott",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788995732.619656,
+    "fills": 1
   }
 ]
