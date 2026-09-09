@@ -117016,8 +117016,8 @@
     "title": "Map Handicap: B8 (-1.5) vs BET-M 33 (+1.5)",
     "outcome": "BET-M 33",
     "side": "BUY",
-    "whale_usd": 664.8292690000001,
-    "whale_pct": 0.376,
+    "whale_usd": 1329.6585380000001,
+    "whale_pct": 0.752,
     "whale_value_at_open": 176818.3337,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -117028,7 +117028,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788920389.208908,
-    "fills": 1
+    "last_fill_at": 1788920449.3264174,
+    "fills": 2
   }
 ]
