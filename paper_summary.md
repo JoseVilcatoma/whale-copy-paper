@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:32:00 (hora de Perú)
+Actualizado: 2026-09-09 06:34:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $246.91
@@ -912,8 +912,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
-|  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 12.9% | ⏳ pendiente | — |
+|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 7.0% | ⏳ pendiente | — |
+|  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Evora: Elena Micic vs Xinyu Gao | Xinyu Gao (BUY) | 64% | 4.92 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Marvin Moeller vs Matias Soto | Matias Soto (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Marat Sharipov vs Taro Daniel | Marat Sharipov (BUY) | 95% | 5.00 | 1.6% | ⏳ pendiente | — |

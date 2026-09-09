@@ -118442,8 +118442,8 @@
     "title": "Tulln: Nico Hipfl vs Alex Barrena",
     "outcome": "Nico Hipfl",
     "side": "BUY",
-    "whale_usd": 10000.0,
-    "whale_pct": 12.861,
+    "whale_usd": 22000.0,
+    "whale_pct": 28.295,
     "whale_value_at_open": 77752.1865,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -118454,8 +118454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788953155.6716452,
-    "fills": 1
+    "last_fill_at": 1788953586.2800996,
+    "fills": 2
   },
   {
     "timestamp": 1788953305,
@@ -118466,8 +118466,8 @@
     "title": "M25 Rabat: Maximilian Figl vs Arthur Nagel",
     "outcome": "Maximilian Figl",
     "side": "BUY",
-    "whale_usd": 3724.4851000000003,
-    "whale_pct": 4.844,
+    "whale_usd": 5367.7358,
+    "whale_pct": 6.981,
     "whale_value_at_open": 76890.2113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -118478,7 +118478,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788953363.2247229,
-    "fills": 5
+    "last_fill_at": 1788953537.8703122,
+    "fills": 7
   }
 ]
