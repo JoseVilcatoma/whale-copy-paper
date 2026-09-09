@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:48:27 (hora de Perú)
+Actualizado: 2026-09-09 17:50:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $215.11
-**Retorno acumulado:** -56.98%
+**Bankroll actual:** $215.64
+**Retorno acumulado:** -56.87%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 17:48:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $192.47 en 39 posiciones abiertas (disponible para nuevas apuestas: $22.64)
+**Capital comprometido ahora mismo:** $187.47 en 38 posiciones abiertas (disponible para nuevas apuestas: $28.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,18 +148,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 85 | 66 | 4 | -135.38 USD |
+|  | 86 | 66 | 3 | -134.85 USD |
 | ferrariChampions2026 | 658 | 414 | 16 | -252.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4611
-- **Aciertos:** 2898 (62.8%)
+- **Apuestas resueltas:** 4612
+- **Aciertos:** 2899 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,020.38
+- **Total apostado (suma de stakes):** $23,025.38
 - **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $428.12 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $428.15 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2365 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1383 | 68.7% | 67.8% | +0.9 pp |
-| 80-94% | 606 | 85.3% | 86.6% | -1.3 pp |
+| 80-94% | 607 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -942,7 +942,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
-|  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ⏳ pendiente | — |
+|  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
