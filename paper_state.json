@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.44864869173898,
+  "bankroll": 240.25864869173898,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23755,6 +23755,16 @@
       "timestamp": 1788957813.934122,
       "bankroll": 250.45,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Francesco Maestrelli vs Alafia Ayeni"
+    },
+    {
+      "timestamp": 1788958742.9814303,
+      "bankroll": 245.32,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: TYLOO vs GamerLegion (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788958743.2442052,
+      "bankroll": 240.26,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: TYLOO (-1.5) vs GamerLegion (+1.5)"
     }
   ]
 }
