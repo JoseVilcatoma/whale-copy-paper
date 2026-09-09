@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:16:44 (hora de Perú)
+Actualizado: 2026-09-09 11:18:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $228.98
-**Retorno acumulado:** -54.20%
+**Bankroll actual:** $235.46
+**Retorno acumulado:** -52.91%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:16:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $202.80 en 41 posiciones abiertas (disponible para nuevas apuestas: $26.18)
+**Capital comprometido ahora mismo:** $197.80 en 40 posiciones abiertas (disponible para nuevas apuestas: $37.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
+|  | 28 | 25 | 0 | +3.93 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
@@ -101,7 +102,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-|  | 27 | 25 | 1 | -2.55 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 0 | -2.62 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
@@ -149,14 +149,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4571
-- **Aciertos:** 2876 (62.9%)
+- **Apuestas resueltas:** 4572
+- **Aciertos:** 2877 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,822.58
-- **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $423.92 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,827.58
+- **ROI sobre lo apostado:** -1.70%
+- **Comisiones pagadas (taker fee):** $424.06 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -164,7 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2338 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 2339 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1375 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 602 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 256 | 96.9% | 97.3% | -0.4 pp |
@@ -918,7 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
-|  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ⏳ pendiente | — |
+|  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ✅ ganada | +6.48 |
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ❌ perdida | -5.13 |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 52% | 5.00 | 5.6% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |

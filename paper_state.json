@@ -1,5 +1,5 @@
 {
-  "bankroll": 228.97979946715296,
+  "bankroll": 235.46470644389714,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23895,6 +23895,11 @@
       "timestamp": 1788970163.8221743,
       "bankroll": 228.98,
       "event": "won: Noprajsk \u2014 Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru"
+    },
+    {
+      "timestamp": 1788970724.6545906,
+      "bankroll": 235.46,
+      "event": "won:  \u2014 M25 Gijon: Tristan McCormick vs Xavi Palomar"
     }
   ]
 }
