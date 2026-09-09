@@ -118856,8 +118856,8 @@
     "title": "Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz",
     "outcome": "Alevtina Ibragimova",
     "side": "BUY",
-    "whale_usd": 16864.976082,
-    "whale_pct": 8.911,
+    "whale_usd": 25148.439582000003,
+    "whale_pct": 13.287,
     "whale_value_at_open": 189266.3898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -118868,8 +118868,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788960999.466311,
-    "fills": 3
+    "last_fill_at": 1788961357.3267336,
+    "fills": 4
   },
   {
     "timestamp": 1788960980,

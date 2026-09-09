@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:41:33 (hora de Perú)
+Actualizado: 2026-09-09 08:43:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $252.15
@@ -914,7 +914,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 8.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 13.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | ⏳ pendiente | — |
