@@ -119301,8 +119301,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 7721.805883,
-    "whale_pct": 2.838,
+    "whale_usd": 9106.407883,
+    "whale_pct": 3.347,
     "whale_value_at_open": 272072.0232,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -119313,8 +119313,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788972468.9963558,
-    "fills": 1
+    "last_fill_at": 1788972942.892807,
+    "fills": 2
   },
   {
     "timestamp": 1788972539,
@@ -119351,8 +119351,8 @@
     "title": "St. Louis Cardinals vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 15325.2912,
-    "whale_pct": 3.521,
+    "whale_usd": 18925.291199999996,
+    "whale_pct": 4.348,
     "whale_value_at_open": 435246.4303,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -119363,8 +119363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788972807.0093052,
-    "fills": 1
+    "last_fill_at": 1788972974.9669404,
+    "fills": 3
   },
   {
     "timestamp": 1788972894,
