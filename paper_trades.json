@@ -118619,13 +118619,15 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788956544.0338373,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.105,
+    "closed_price": 100
   },
   {
     "timestamp": 1788956611,

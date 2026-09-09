@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:04:31 (hora de Perú)
+Actualizado: 2026-09-09 08:06:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $240.26
-**Retorno acumulado:** -51.95%
+**Bankroll actual:** $243.77
+**Retorno acumulado:** -51.25%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 08:04:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.27 en 47 posiciones abiertas (disponible para nuevas apuestas: $7.99)
+**Capital comprometido ahora mismo:** $227.27 en 46 posiciones abiertas (disponible para nuevas apuestas: $16.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 6 | 4 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| Noprajsk | 2 | 0 | 0 | +4.17 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -81,7 +82,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 26 | 23 | 2 | +0.96 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
-| Noprajsk | 1 | 0 | 1 | +0.65 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
@@ -919,7 +919,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | 💰 vendida anticipada | +3.52 |
 | ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
