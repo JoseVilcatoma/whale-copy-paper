@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:28:43 (hora de Perú)
+Actualizado: 2026-09-08 22:30:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $244.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:28:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $179.38 en 36 posiciones abiertas (disponible para nuevas apuestas: $65.29)
+**Capital comprometido ahora mismo:** $184.38 en 37 posiciones abiertas (disponible para nuevas apuestas: $60.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| ExplosiveNinja | 23 | 13 | 2 | +6.60 USD |
+| ExplosiveNinja | 23 | 13 | 3 | +6.60 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -907,6 +907,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -936,4 +937,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 46% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 89% | 5.00 | 0.9% | ✅ ganada | +0.59 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs PARIVISION | PARIVISION (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers: O/U  | Under (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
