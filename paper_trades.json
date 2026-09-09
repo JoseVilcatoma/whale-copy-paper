@@ -118588,8 +118588,8 @@
     "title": "Antalya 4: Alevtina Ibragimova vs Leyre Romero Gormaz",
     "outcome": "Leyre Romero Gormaz",
     "side": "BUY",
-    "whale_usd": 1725.9714000000001,
-    "whale_pct": 0.694,
+    "whale_usd": 4515.5826,
+    "whale_pct": 1.815,
     "whale_value_at_open": 248789.7723,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -118600,8 +118600,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788957236.4365952,
-    "fills": 2
+    "last_fill_at": 1788959320.253841,
+    "fills": 3
   },
   {
     "timestamp": 1788956543,
@@ -118784,8 +118784,8 @@
     "title": "Counter-Strike: BetBoom Team vs Astralis - Map 2 Winner",
     "outcome": "BetBoom Team",
     "side": "BUY",
-    "whale_usd": 37111.9423,
-    "whale_pct": 80.714,
+    "whale_usd": 63349.741299999994,
+    "whale_pct": 137.779,
     "whale_value_at_open": 45979.3601,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -118796,7 +118796,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788959317.011277,
-    "fills": 3
+    "last_fill_at": 1788959410.5271695,
+    "fills": 10
   }
 ]

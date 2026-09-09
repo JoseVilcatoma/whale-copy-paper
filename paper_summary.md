@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:08:39 (hora de Perú)
+Actualizado: 2026-09-09 08:10:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.77
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 80.7% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 137.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -921,7 +921,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | 💰 vendida anticipada | +3.52 |
-| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
