@@ -117526,8 +117526,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 37864.758986,
-    "whale_pct": 19.524,
+    "whale_usd": 46210.539785999994,
+    "whale_pct": 23.828,
     "whale_value_at_open": 193935.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117541,8 +117541,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788935206.3427398,
-    "fills": 10
+    "last_fill_at": 1788935771.7255855,
+    "fills": 13
   },
   {
     "timestamp": 1788928737,
@@ -117553,8 +117553,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Carlos Alcaraz",
     "side": "BUY",
-    "whale_usd": 31420.759223,
-    "whale_pct": 13.902,
+    "whale_usd": 32956.759223,
+    "whale_pct": 14.581,
     "whale_value_at_open": 226018.3544,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -117569,8 +117569,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788935256.0855956,
-    "fills": 13
+    "last_fill_at": 1788935769.1193438,
+    "fills": 14
   },
   {
     "timestamp": 1788929795,
@@ -117826,5 +117826,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788935220.8652203,
     "fills": 1
+  },
+  {
+    "timestamp": 1788935739,
+    "timestamp_added": 1788935740.2296865,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-wang5-huang2-2026-09-09",
+    "title": "W50 Guiyang: Jiaqi Wang vs Yujia Huang",
+    "outcome": "Yujia Huang",
+    "side": "BUY",
+    "whale_usd": 1592.132599,
+    "whale_pct": 1.226,
+    "whale_value_at_open": 129863.9459,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788935742.041715,
+    "fills": 2
   }
 ]

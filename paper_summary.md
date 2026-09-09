@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 01:34:22 (hora de Perú)
+Actualizado: 2026-09-09 01:36:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $247.80
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 01:34:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $12.80)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $7.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 81 | 63 | 4 | -127.40 USD |
-| ferrariChampions2026 | 637 | 403 | 3 | -245.13 USD |
+| ferrariChampions2026 | 637 | 403 | 4 | -245.13 USD |
 
 ## Análisis general
 
@@ -908,6 +908,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Guiyang: Jiaqi Wang vs Yujia Huang | Yujia Huang (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -918,8 +919,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 17.8% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 13.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 19.5% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 14.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 23.8% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
@@ -937,4 +938,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 32.9% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ✅ ganada | +4.32 |
 | Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ✅ ganada | +2.72 |
-|  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
