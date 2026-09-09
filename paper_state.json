@@ -1,5 +1,5 @@
 {
-  "bankroll": 209.79155143334157,
+  "bankroll": 209.8390564838466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23365,6 +23365,11 @@
       "timestamp": 1788915110.0831099,
       "bankroll": 209.79,
       "event": "lost:  \u2014 Barranquilla: Cadence Brace vs Sara Sorribes Tormo"
+    },
+    {
+      "timestamp": 1788916729.088453,
+      "bankroll": 209.84,
+      "event": "won:  \u2014 Barranquilla: Emiliana Arango vs Maria Paulina Perez"
     }
   ]
 }

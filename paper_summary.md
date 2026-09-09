@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 20:17:55 (hora de Perú)
+Actualizado: 2026-09-08 20:20:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $209.79
-**Retorno acumulado:** -58.04%
+**Bankroll actual:** $209.84
+**Retorno acumulado:** -58.03%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 20:17:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $208.87 en 42 posiciones abiertas (disponible para nuevas apuestas: $0.92)
+**Capital comprometido ahora mismo:** $208.87 en 42 posiciones abiertas (disponible para nuevas apuestas: $0.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,18 +142,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 74 | 60 | 6 | -132.91 USD |
-| ferrariChampions2026 | 628 | 399 | 11 | -256.19 USD |
+|  | 75 | 60 | 5 | -132.86 USD |
+| ferrariChampions2026 | 628 | 399 | 12 | -256.19 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4469
-- **Aciertos:** 2809 (62.9%)
+- **Apuestas resueltas:** 4470
+- **Aciertos:** 2810 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,317.77
+- **Total apostado (suma de stakes):** $22,322.77
 - **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $414.88 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $414.89 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -165,7 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2291 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1341 | 68.8% | 67.8% | +1.1 pp |
 | 80-94% | 587 | 85.3% | 86.6% | -1.3 pp |
-| 95-99% (casi seguro) | 250 | 96.8% | 97.3% | -0.5 pp |
+| 95-99% (casi seguro) | 251 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -899,11 +899,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mimi121 |
 | cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
+| mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ⏳ pendiente | — |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 30.5% | ⏳ pendiente | — |
@@ -921,7 +923,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will D.C. United SC win on 2026-09-09? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Zzzz87 | Will CF Montréal win on 2026-09-09? | No (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Orlando City SC win on 2026-09-09? | No (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Barranquilla: Emiliana Arango vs Maria P | Emiliana Arango (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
+|  | Barranquilla: Emiliana Arango vs Maria P | Emiliana Arango (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
 |  | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 235.0% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -933,4 +935,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | US Open ATP: Frances Tiafoe vs Alex Mich | Alex Michelsen (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: TYLOO (-1.5) vs GamerLegio | GamerLegion (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Ena Koike vs Nadia Podoros | Ena Koike (BUY) | 58% | 5.00 | 1.6% | ❌ perdida | -5.11 |
