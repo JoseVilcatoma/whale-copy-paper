@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 04:39:13 (hora de Perú)
+Actualizado: 2026-09-09 04:41:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $234.44
-**Retorno acumulado:** -53.11%
+**Bankroll actual:** $234.53
+**Retorno acumulado:** -53.09%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 04:39:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.27 en 47 posiciones abiertas (disponible para nuevas apuestas: $2.17)
+**Capital comprometido ahora mismo:** $227.27 en 46 posiciones abiertas (disponible para nuevas apuestas: $7.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Jsram | 4 | 2 | 0 | +0.52 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
-| Flaznorp | 79 | 28 | 12 | +0.06 USD |
+| Flaznorp | 80 | 28 | 11 | +0.16 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
 | Antblack | 1 | 1 | 0 | -0.04 USD |
@@ -148,11 +148,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4525
-- **Aciertos:** 2846 (62.9%)
+- **Apuestas resueltas:** 4526
+- **Aciertos:** 2847 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,596.64
+- **Total apostado (suma de stakes):** $22,601.64
 - **ROI sobre lo apostado:** -1.69%
 - **Comisiones pagadas (taker fee):** $420.06 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
@@ -166,7 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2320 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1359 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 594 | 85.2% | 86.6% | -1.4 pp |
-| 95-99% (casi seguro) | 252 | 96.8% | 97.3% | -0.5 pp |
+| 95-99% (casi seguro) | 253 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -922,7 +922,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |
-| Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | Shanghai: Linang Xiao vs Alexis Galarnea | Alexis Galarneau (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
 | Flaznorp | Will Sporting CP win on 2026-09-09? | No (BUY) | 45% | 2.80 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 52% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Jiaqi Wang vs Yujia Huang | Yujia Huang (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
