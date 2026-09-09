@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.7341002516733,
+  "bankroll": 252.14888286036896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23780,6 +23780,11 @@
       "timestamp": 1788960608.9238684,
       "bankroll": 251.73,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Heroic vs BESTIA (BO3) - Thunderpick World Championship Closed Qualifier Group A"
+    },
+    {
+      "timestamp": 1788961282.2454503,
+      "bankroll": 252.15,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Pedro Martinez vs Maximo Zeitune"
     }
   ]
 }
