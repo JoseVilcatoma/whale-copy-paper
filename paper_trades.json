@@ -120035,5 +120035,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788991071.695743,
     "fills": 1
+  },
+  {
+    "timestamp": 1788991296,
+    "timestamp_added": 1788991297.0724003,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-pal-lqu-2026-09-09-pal",
+    "title": "Will SE Palmeiras win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2333.22,
+    "whale_pct": 0.54,
+    "whale_value_at_open": 431834.3294,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788991297.072413,
+    "fills": 1
   }
 ]
