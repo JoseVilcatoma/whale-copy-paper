@@ -118190,5 +118190,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788944071.1087615,
     "fills": 4
+  },
+  {
+    "timestamp": 1788945242,
+    "timestamp_added": 1788945243.4440825,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fcb-fey-2026-09-09-spread-home-2pt5",
+    "title": "Spread: FC Barcelona (-2.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "whale_usd": 5059.6023000000005,
+    "whale_pct": 2.883,
+    "whale_value_at_open": 175515.7421,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788945243.444094,
+    "fills": 1
   }
 ]
