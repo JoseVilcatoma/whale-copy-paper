@@ -119267,5 +119267,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788967454.677453,
     "fills": 1
+  },
+  {
+    "timestamp": 1788972276,
+    "timestamp_added": 1788972277.4984512,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-col-nyy-2026-09-09-total-9pt5",
+    "title": "Colorado Rockies vs. New York Yankees: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2146.96,
+    "whale_pct": 1.213,
+    "whale_value_at_open": 177006.6025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788972277.4984663,
+    "fills": 1
   }
 ]

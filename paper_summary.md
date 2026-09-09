@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:43:51 (hora de Perú)
+Actualizado: 2026-09-09 11:45:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:43:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $197.80 en 40 posiciones abiertas (disponible para nuevas apuestas: $37.66)
+**Capital comprometido ahora mismo:** $202.80 en 41 posiciones abiertas (disponible para nuevas apuestas: $32.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| pleaseplease123 | 23 | 20 | 2 | +2.12 USD |
+| pleaseplease123 | 23 | 20 | 3 | +2.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -916,6 +916,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
 |  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ✅ ganada | +6.48 |
@@ -945,4 +946,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | 💰 vendida anticipada | +3.52 |
 | ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 1.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
