@@ -120093,8 +120093,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 14970.1608,
-    "whale_pct": 11.23,
+    "whale_usd": 17228.4608,
+    "whale_pct": 12.925,
     "whale_value_at_open": 133300.1958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -120108,8 +120108,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992369.34046,
-    "fills": 7
+    "last_fill_at": 1788992678.5578997,
+    "fills": 8
   },
   {
     "timestamp": 1788992030,
@@ -120170,8 +120170,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
     "outcome": "Julieta Pareja",
     "side": "BUY",
-    "whale_usd": 5927.934,
-    "whale_pct": 1.562,
+    "whale_usd": 8688.078445,
+    "whale_pct": 2.289,
     "whale_value_at_open": 379515.6174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -120185,7 +120185,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992331.854073,
-    "fills": 1
+    "last_fill_at": 1788992678.5598152,
+    "fills": 2
   }
 ]

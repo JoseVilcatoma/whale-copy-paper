@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:23:23 (hora de Perú)
+Actualizado: 2026-09-09 17:25:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $207.91
@@ -926,10 +926,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 11.2% | ⏳ pendiente | — |
+|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
