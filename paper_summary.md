@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:14:57 (hora de Perú)
+Actualizado: 2026-09-09 08:16:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 08:14:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.27 en 48 posiciones abiertas (disponible para nuevas apuestas: $6.50)
+**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $1.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 53 | 36 | 2 | +21.22 USD |
+| wr0ngw4yb3tt0r | 53 | 36 | 3 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -913,6 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
@@ -942,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 45.6% | ✅ ganada | +1.05 |
