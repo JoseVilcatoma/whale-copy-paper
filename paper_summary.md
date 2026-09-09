@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:24:15 (hora de Perú)
+Actualizado: 2026-09-09 18:26:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $234.36
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:24:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $197.47 en 40 posiciones abiertas (disponible para nuevas apuestas: $36.89)
+**Capital comprometido ahora mismo:** $202.47 en 41 posiciones abiertas (disponible para nuevas apuestas: $31.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| wr0ngw4yb3tt0r | 57 | 38 | 7 | +27.97 USD |
+| wr0ngw4yb3tt0r | 57 | 38 | 8 | +27.97 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -930,6 +930,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -959,4 +960,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ✅ ganada | +5.97 |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ✅ ganada | +2.72 |
-| Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |

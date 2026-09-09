@@ -120538,5 +120538,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788996215.8284893,
     "fills": 1
+  },
+  {
+    "timestamp": 1788996339,
+    "timestamp_added": 1788996339.4569921,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-phi-2026-09-09",
+    "title": "Houston Astros vs. Philadelphia Phillies",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 571.069,
+    "whale_pct": 0.191,
+    "whale_value_at_open": 298876.9129,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788996339.4570074,
+    "fills": 1
   }
 ]
