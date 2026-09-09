@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:12:05 (hora de Perú)
+Actualizado: 2026-09-08 22:14:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $224.79
-**Retorno acumulado:** -55.04%
+**Bankroll actual:** $231.37
+**Retorno acumulado:** -53.73%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:12:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $20.41)
+**Capital comprometido ahora mismo:** $189.38 en 38 posiciones abiertas (disponible para nuevas apuestas: $41.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,19 +142,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 76 | 62 | 5 | -138.94 USD |
-| ferrariChampions2026 | 633 | 401 | 7 | -248.74 USD |
+|  | 77 | 62 | 5 | -135.57 USD |
+| ferrariChampions2026 | 635 | 402 | 4 | -245.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4485
-- **Aciertos:** 2820 (62.9%)
+- **Apuestas resueltas:** 4489
+- **Aciertos:** 2823 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,397.26
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $416.54 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,417.26
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $417.00 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -162,7 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2304 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2308 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1341 | 68.8% | 67.8% | +1.1 pp |
 | 80-94% | 589 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 251 | 96.8% | 97.3% | -0.5 pp |
@@ -901,11 +901,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
 | wta-pegula-navarro-2026-09-08 | , Flaznorp, ferrariChampions2026 |
+| mlb-wsh-sd-2026-09-08 | , Flaznorp |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Washington Nationals vs. San Diego Padre | Washington Nationals (BUY) | 88% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chicago Cubs (-2.5) | Milwaukee Brewers (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs BET-M 33 (+1. | BET-M 33 (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 48% | 5.00 | 8.5% | ⏳ pendiente | — |
@@ -919,20 +921,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 28.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ❌ perdida | -5.13 |
+| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ✅ ganada | +0.53 |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 77.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. São Paulo FC: O/U 2. | Under (BUY) | 68% | 4.38 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 14.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ❌ perdida | -5.12 |
-|  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
+|  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 59% | 5.00 | 1.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Over (BUY) | 46% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 89% | 5.00 | 0.9% | ✅ ganada | +0.59 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FURIA (-1.5) vs PARIVISION | PARIVISION (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers: O/U  | Under (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers: O/U  | Under (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins: O/U 10. | Over (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | Zzzz87 | Will Toronto FC win on 2026-09-09? | No (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Zzzz87 | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Zzzz87 | Will D.C. United SC win on 2026-09-09? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |

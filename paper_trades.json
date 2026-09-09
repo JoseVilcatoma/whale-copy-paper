@@ -116433,8 +116433,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -116529,8 +116529,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -116699,8 +116699,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [
       ""
     ],
@@ -116725,8 +116725,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       ""
     ],
@@ -117053,6 +117053,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788920573.641834,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788923606,
+    "timestamp_added": 1788923606.7719276,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-wsh-sd-2026-09-08",
+    "title": "Washington Nationals vs. San Diego Padres",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 990.0900000000001,
+    "whale_pct": 2.354,
+    "whale_value_at_open": 42059.7806,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788923606.7719421,
     "fills": 1
   }
 ]

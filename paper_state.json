@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.79002299424894,
+  "bankroll": 231.3744506586242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23445,6 +23445,26 @@
       "timestamp": 1788923514.9385483,
       "bankroll": 224.79,
       "event": "won: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1788923579.0037396,
+      "bankroll": 228.16,
+      "event": "won:  \u2014 Chicago Cubs vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1788923579.4043248,
+      "bankroll": 231.83,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1788923579.5044637,
+      "bankroll": 226.69,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1788923643.3144236,
+      "bankroll": 231.37,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Milwaukee Brewers: O/U 8.5"
     }
   ]
 }
