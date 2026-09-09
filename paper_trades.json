@@ -119822,8 +119822,8 @@
     "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
     "outcome": "Karen Khachanov",
     "side": "BUY",
-    "whale_usd": 339595.87889100006,
-    "whale_pct": 90.244,
+    "whale_usd": 340580.62619100005,
+    "whale_pct": 90.505,
     "whale_value_at_open": 376309.6032,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -119836,7 +119836,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788989045.5006568,
-    "fills": 20
+    "last_fill_at": 1788989131.1155143,
+    "fills": 21
   }
 ]
