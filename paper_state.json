@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.7743383469114,
+  "bankroll": 250.53410025167332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23770,6 +23770,11 @@
       "timestamp": 1788959117.7957487,
       "bankroll": 243.77,
       "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: BetBoom Team vs Astralis - Map 1 Winner (+3.52 USD)"
+    },
+    {
+      "timestamp": 1788960306.5752873,
+      "bankroll": 250.53,
+      "event": "won:  \u2014 M25 Rabat: Maximilian Figl vs Arthur Nagel"
     }
   ]
 }

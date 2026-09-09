@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:23:07 (hora de Perú)
+Actualizado: 2026-09-09 08:25:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $243.77
-**Retorno acumulado:** -51.25%
+**Bankroll actual:** $250.53
+**Retorno acumulado:** -49.89%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 08:23:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $1.50)
+**Capital comprometido ahora mismo:** $237.27 en 48 posiciones abiertas (disponible para nuevas apuestas: $13.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,6 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
+|  | 27 | 23 | 1 | +7.72 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -79,7 +80,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-|  | 26 | 23 | 2 | +0.96 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | Jsram | 4 | 2 | 0 | +0.52 USD |
@@ -149,14 +149,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4548
-- **Aciertos:** 2863 (63.0%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 4549
+- **Aciertos:** 2864 (63.0%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,708.11
-- **ROI sobre lo apostado:** -1.66%
-- **Comisiones pagadas (taker fee):** $421.89 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,713.11
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $422.04 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -164,7 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2330 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2331 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1366 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 596 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 256 | 96.9% | 97.3% | -0.4 pp |
@@ -928,7 +928,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ✅ ganada | +0.15 |
-|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 8.3% | ⏳ pendiente | — |
+|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 8.3% | ✅ ganada | +6.76 |
 |  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | W50 Evora: Elena Micic vs Xinyu Gao | Xinyu Gao (BUY) | 64% | 4.92 | 0.3% | ✅ ganada | +2.68 |
 | ferrariChampions2026 | Tulln: Marvin Moeller vs Matias Soto | Matias Soto (BUY) | 47% | 5.00 | 0.4% | ✅ ganada | +5.51 |
