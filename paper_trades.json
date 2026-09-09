@@ -119920,8 +119920,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 10369.193443,
-    "whale_pct": 2.736,
+    "whale_usd": 12569.585443,
+    "whale_pct": 3.316,
     "whale_value_at_open": 379016.1155,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -119934,8 +119934,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992141.6262753,
-    "fills": 4
+    "last_fill_at": 1788992261.312454,
+    "fills": 5
   },
   {
     "timestamp": 1788990897,
@@ -120093,8 +120093,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 6402.5707999999995,
-    "whale_pct": 4.803,
+    "whale_usd": 13975.9008,
+    "whale_pct": 10.485,
     "whale_value_at_open": 133300.1958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -120108,8 +120108,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992170.6478922,
-    "fills": 4
+    "last_fill_at": 1788992332.5327876,
+    "fills": 6
   },
   {
     "timestamp": 1788992030,
@@ -120159,6 +120159,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788992044.483295,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788992331,
+    "timestamp_added": 1788992331.8540595,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jeanjea-pareja-2026-09-09",
+    "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
+    "outcome": "Julieta Pareja",
+    "side": "BUY",
+    "whale_usd": 5927.934,
+    "whale_pct": 1.562,
+    "whale_value_at_open": 379515.6174,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Antblack"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788992331.854073,
     "fills": 1
   }
 ]
