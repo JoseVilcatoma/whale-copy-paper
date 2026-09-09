@@ -119301,8 +119301,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 40151.562083000004,
-    "whale_pct": 14.758,
+    "whale_usd": 43518.551378000004,
+    "whale_pct": 15.995,
     "whale_value_at_open": 272072.0232,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -119313,8 +119313,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788974361.7388968,
-    "fills": 7
+    "last_fill_at": 1788974377.385494,
+    "fills": 8
   },
   {
     "timestamp": 1788972539,
