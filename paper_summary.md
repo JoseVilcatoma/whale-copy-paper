@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 21:37:02 (hora de Perú)
+Actualizado: 2026-09-08 21:39:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.29
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will São Paulo FC win on 2026-09-08? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: NIP vs Sinners (BO3) - P | NIP (BUY) | 63% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
