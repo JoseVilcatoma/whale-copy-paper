@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.14888286036896,
+  "bankroll": 249.32182403683956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23785,6 +23785,16 @@
       "timestamp": 1788961282.2454503,
       "bankroll": 252.15,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Pedro Martinez vs Maximo Zeitune"
+    },
+    {
+      "timestamp": 1788961530.6368313,
+      "bankroll": 247.05,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: B8 (-1.5) vs BET-M 33 (+1.5)"
+    },
+    {
+      "timestamp": 1788961533.1510801,
+      "bankroll": 249.32,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: B8 vs BET-M 33 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }
