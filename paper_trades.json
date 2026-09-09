@@ -117698,5 +117698,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788932164.384776,
     "fills": 1
+  },
+  {
+    "timestamp": 1788932283,
+    "timestamp_added": 1788932284.1012871,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-9z-mibr-2026-09-09",
+    "title": "Counter-Strike: 9z vs MIBR (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "9z",
+    "side": "BUY",
+    "whale_usd": 985.3118,
+    "whale_pct": 0.642,
+    "whale_value_at_open": 153494.1264,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "RevengeRange",
+      "mimi121"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788932284.1012998,
+    "fills": 1
   }
 ]
