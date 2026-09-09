@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 09:28:56 (hora de Perú)
+Actualizado: 2026-09-09 09:30:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $255.49
@@ -914,7 +914,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks: 1H O/U 21.5 | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 150.4% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 950.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 18.8% | ⏳ pendiente | — |
@@ -927,7 +927,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | 💰 vendida anticipada | +2.84 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 1.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |

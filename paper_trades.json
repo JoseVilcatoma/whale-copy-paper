@@ -118712,8 +118712,8 @@
     "title": "Spread: Arsenal FC (-1.5)",
     "outcome": "SSC Napoli",
     "side": "BUY",
-    "whale_usd": 582.352942,
-    "whale_pct": 0.328,
+    "whale_usd": 1336.732942,
+    "whale_pct": 0.752,
     "whale_value_at_open": 177780.8863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -118724,8 +118724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788958737.0980926,
-    "fills": 1
+    "last_fill_at": 1788964157.0128982,
+    "fills": 2
   },
   {
     "timestamp": 1788958971,
@@ -119026,8 +119026,8 @@
     "title": "Counter-Strike: PARIVISION vs FURIA - Map 2 Winner",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 27661.257,
-    "whale_pct": 150.449,
+    "whale_usd": 174834.801,
+    "whale_pct": 950.922,
     "whale_value_at_open": 18385.812,
     "paper_stake_usd": 4.9,
     "odds_at_bet": 92,
@@ -119038,8 +119038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788964133.6742272,
-    "fills": 9
+    "last_fill_at": 1788964226.0096664,
+    "fills": 29
   },
   {
     "timestamp": 1788964085,
