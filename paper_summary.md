@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 15:59:39 (hora de Perú)
+Actualizado: 2026-09-09 16:01:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.23
@@ -928,7 +928,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ⏳ pendiente | — |
 | Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ⏳ pendiente | — |
 | Antblack | Liverpool FC vs. Club Atlético de Madrid | Over (BUY) | 53% | 5.00 | 71.5% | ⏳ pendiente | — |
-| bands1 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
+| bands1 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.2% | ⏳ pendiente | — |
 | tyutgbhnm | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 47% | 5.00 | 11.8% | ⏳ pendiente | — |
 | Antblack | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 41% | 5.00 | 57.4% | ⏳ pendiente | — |
 | ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 35.8% | ⏳ pendiente | — |
