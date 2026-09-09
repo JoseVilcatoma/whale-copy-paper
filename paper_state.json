@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.72629554914417,
+  "bankroll": 234.35724903751625,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23530,6 +23530,16 @@
       "timestamp": 1788928488.4443185,
       "bankroll": 238.73,
       "event": "won:  \u2014 Toronto Blue Jays vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1788928674.488203,
+      "bankroll": 239.51,
+      "event": "won: Flaznorp \u2014 Spread: San Francisco Giants (-2.5)"
+    },
+    {
+      "timestamp": 1788928738.8131313,
+      "bankroll": 234.36,
+      "event": "lost: Flaznorp \u2014 St. Louis Cardinals vs. San Francisco Giants: O/U 4.5"
     }
   ]
 }
