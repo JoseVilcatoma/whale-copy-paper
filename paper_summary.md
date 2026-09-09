@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 23:02:00 (hora de Perú)
+Actualizado: 2026-09-08 23:04:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.56
@@ -920,7 +920,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 7.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
