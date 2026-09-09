@@ -116505,8 +116505,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -116570,8 +116570,8 @@
     "title": "Arizona Diamondbacks vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 38524.05108799999,
-    "whale_pct": 11.379,
+    "whale_usd": 49544.35268799999,
+    "whale_pct": 14.635,
     "whale_value_at_open": 338539.0847,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -116582,8 +116582,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788921887.4163816,
-    "fills": 9
+    "last_fill_at": 1788921918.907937,
+    "fills": 13
   },
   {
     "timestamp": 1788912748,
@@ -116992,8 +116992,8 @@
     "title": "Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
     "outcome": "ShindeN",
     "side": "BUY",
-    "whale_usd": 7900.358699999999,
-    "whale_pct": 4.604,
+    "whale_usd": 11783.352299999999,
+    "whale_pct": 6.866,
     "whale_value_at_open": 171610.0918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -117004,8 +117004,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788921096.2318578,
-    "fills": 2
+    "last_fill_at": 1788921979.2513838,
+    "fills": 3
   },
   {
     "timestamp": 1788920388,
