@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.81921169989943,
+  "bankroll": 240.17446811015583,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23665,6 +23665,11 @@
       "timestamp": 1788948029.8193183,
       "bankroll": 238.82,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Zdenek Kolar vs Martin Krumich"
+    },
+    {
+      "timestamp": 1788948829.5736141,
+      "bankroll": 240.17,
+      "event": "won:  \u2014 Counter-Strike: Legacy vs Alliance - Map 2 Winner"
     }
   ]
 }

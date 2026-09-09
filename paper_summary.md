@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 05:11:57 (hora de Perú)
+Actualizado: 2026-09-09 05:14:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $238.82
-**Retorno acumulado:** -52.24%
+**Bankroll actual:** $240.17
+**Retorno acumulado:** -51.97%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 05:11:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $238.82 en 49 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $233.82 en 48 posiciones abiertas (disponible para nuevas apuestas: $6.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,19 +144,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 81 | 64 | 6 | -132.47 USD |
+|  | 82 | 64 | 5 | -131.11 USD |
 | ferrariChampions2026 | 641 | 404 | 7 | -237.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4528
-- **Aciertos:** 2849 (62.9%)
+- **Apuestas resueltas:** 4529
+- **Aciertos:** 2850 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,611.64
+- **Total apostado (suma de stakes):** $22,616.64
 - **ROI sobre lo apostado:** -1.67%
-- **Comisiones pagadas (taker fee):** $420.21 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $420.26 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -165,7 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2320 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1360 | 68.8% | 67.8% | +1.0 pp |
+| 60-79% | 1361 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 595 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 253 | 96.8% | 97.3% | -0.5 pp |
 
@@ -914,11 +914,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 7.9% | ⏳ pendiente | — |
 |  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 19.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 12.3% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Gangwon FC vs. Jeonbuk Hyundai Motors FC | Over (BUY) | 44% | 5.00 | 24.5% | ⏳ pendiente | — |
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-2.5) | FC Barcelona (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
-|  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ⏳ pendiente | — |
+|  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 45.6% | ✅ ganada | +1.05 |
