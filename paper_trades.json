@@ -119563,5 +119563,29 @@
     "fills": 29,
     "fee_total_usd": 0.267,
     "closed_price": 58
+  },
+  {
+    "timestamp": 1788979785,
+    "timestamp_added": 1788979785.8559153,
+    "username": "ChayEhc",
+    "wallet": "0xa9bb7b5ef3d2e8ddb498ac251a4ec144e089701b",
+    "slug": "ucl-nap-ars-2026-09-09-total-2pt5",
+    "title": "SSC Napoli vs. Arsenal FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 508.7097,
+    "whale_pct": 8.799,
+    "whale_value_at_open": 5781.3615,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788979785.855926,
+    "fills": 1
   }
 ]
