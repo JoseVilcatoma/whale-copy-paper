@@ -120093,8 +120093,8 @@
     "title": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 17228.4608,
-    "whale_pct": 12.925,
+    "whale_usd": 22579.8008,
+    "whale_pct": 16.939,
     "whale_value_at_open": 133300.1958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -120108,8 +120108,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992678.5578997,
-    "fills": 8
+    "last_fill_at": 1788994881.9874904,
+    "fills": 9
   },
   {
     "timestamp": 1788992030,
@@ -120435,6 +120435,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788994716.9748898,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788994986,
+    "timestamp_added": 1788994987.3192227,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-zverev-zandsch-2026-09-09",
+    "title": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 6987.499997,
+    "whale_pct": 5.381,
+    "whale_value_at_open": 129862.5102,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788994987.3192348,
     "fills": 1
   }
 ]

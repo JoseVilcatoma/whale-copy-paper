@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:01:02 (hora de Perú)
+Actualizado: 2026-09-09 18:03:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:01:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $202.47 en 41 posiciones abiertas (disponible para nuevas apuestas: $23.63)
+**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $18.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 86 | 66 | 4 | -134.85 USD |
+|  | 86 | 66 | 5 | -134.85 USD |
 | ferrariChampions2026 | 659 | 414 | 15 | -246.39 USD |
 
 ## Análisis general
@@ -922,6 +922,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-khachan-blockx-2026-09-09 | Noprajsk, bands1, ferrariChampions2026 |
 | wta-andreev-gauff-2026-09-08 | Antblack, Noprajsk, tyutgbhnm |
 | wta-jeanjea-pareja-2026-09-09 | , Antblack, ferrariChampions2026 |
+| atp-zverev-zandsch-2026-09-09 | , ferrariChampions2026 |
 | wta-quevedo-tormo-2026-09-09 | , ferrariChampions2026 |
 | mls-phi-fcc-2026-09-09-spread-home-1pt5 | , theowalcott |
 
@@ -929,6 +930,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
@@ -942,7 +944,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 12.9% | ⏳ pendiente | — |
+|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 16.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -958,4 +960,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ✅ ganada | +0.59 |
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ✅ ganada | +0.71 |
-| Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ❌ perdida | -5.15 |
