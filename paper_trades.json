@@ -117442,5 +117442,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788925758.1374638,
     "fills": 1
+  },
+  {
+    "timestamp": 1788926045,
+    "timestamp_added": 1788926045.9089878,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-hero-bst-2026-09-09",
+    "title": "Counter-Strike: Heroic vs BESTIA (BO3) - Thunderpick World Championship Closed Qualifier Group A",
+    "outcome": "Heroic",
+    "side": "BUY",
+    "whale_usd": 9904.0578,
+    "whale_pct": 12.55,
+    "whale_value_at_open": 78917.2109,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788926047.5039139,
+    "fills": 2
   }
 ]

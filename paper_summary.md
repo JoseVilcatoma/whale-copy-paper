@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:53:45 (hora de Perú)
+Actualizado: 2026-09-08 22:55:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:53:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $234.38 en 47 posiciones abiertas (disponible para nuevas apuestas: $5.18)
+**Capital comprometido ahora mismo:** $239.38 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| ExplosiveNinja | 23 | 13 | 3 | +6.60 USD |
+| ExplosiveNinja | 23 | 13 | 4 | +6.60 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -908,6 +908,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Sara Saito vs Xinxin Yao | Xinxin Yao (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -937,4 +938,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 28.7% | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ❌ perdida | -5.13 |
