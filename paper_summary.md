@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:56:53 (hora de Perú)
+Actualizado: 2026-09-09 17:58:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $227.35
-**Retorno acumulado:** -54.53%
+**Bankroll actual:** $226.10
+**Retorno acumulado:** -54.78%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 17:56:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $19.88)
+**Capital comprometido ahora mismo:** $202.47 en 41 posiciones abiertas (disponible para nuevas apuestas: $23.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,12 +27,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| wr0ngw4yb3tt0r | 57 | 38 | 6 | +27.97 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 56 | 38 | 6 | +24.15 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | pleaseplease123 | 26 | 20 | 1 | +15.98 USD |
@@ -100,7 +100,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| Flaznorp | 86 | 32 | 1 | -1.90 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -125,6 +124,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| Flaznorp | 86 | 33 | 0 | -6.97 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -153,14 +153,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4614
-- **Aciertos:** 2901 (62.9%)
+- **Apuestas resueltas:** 4616
+- **Aciertos:** 2902 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,035.38
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $428.42 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,045.38
+- **ROI sobre lo apostado:** -1.73%
+- **Comisiones pagadas (taker fee):** $428.59 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,8 +168,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2367 | 50.0% | 50.1% | -0.0 pp |
-| 60-79% | 1383 | 68.7% | 67.8% | +0.9 pp |
+| 40-59% | 2368 | 50.0% | 50.1% | -0.0 pp |
+| 60-79% | 1384 | 68.6% | 67.8% | +0.9 pp |
 | 80-94% | 607 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
@@ -905,7 +905,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, RevengeRange, mimi121 |
 | cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
-| mls-phi-fcc-2026-09-09-phi | Zzzz87, theowalcott |
+| mls-phi-fcc-2026-09-09-phi | Zzzz87, theowalcott, wr0ngw4yb3tt0r |
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
 | wta-pegula-navarro-2026-09-08 | , Flaznorp, ferrariChampions2026 |
 | mlb-wsh-sd-2026-09-08 | , Flaznorp |
@@ -929,6 +929,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -958,4 +959,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ✅ ganada | +0.59 |
 | rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 164.2% | ✅ ganada | +0.71 |
 | Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ❌ perdida | -5.15 |
-| Antblack | Liverpool FC vs. Club Atlético de Madrid | Over (BUY) | 53% | 5.00 | 71.5% | ❌ perdida | -5.12 |

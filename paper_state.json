@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.34550667213514,
+  "bankroll": 226.09907810070658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24120,6 +24120,16 @@
       "timestamp": 1788994354.8063152,
       "bankroll": 227.35,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Valerio Aboian vs Andrea Pellegrino"
+    },
+    {
+      "timestamp": 1788994667.44335,
+      "bankroll": 222.28,
+      "event": "lost: Flaznorp \u2014 Charlton Athletic FC vs. Queens Park Rangers FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788994668.2699964,
+      "bankroll": 226.1,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Queens Park Rangers FC win on 2026-09-09?"
     }
   ]
 }
