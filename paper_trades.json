@@ -119100,8 +119100,8 @@
     "title": "Montreux: Nuria Brancaccio vs Dalma Galfi",
     "outcome": "Nuria Brancaccio",
     "side": "BUY",
-    "whale_usd": 992.6852,
-    "whale_pct": 0.414,
+    "whale_usd": 1971.0152,
+    "whale_pct": 0.822,
     "whale_value_at_open": 239773.939,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -119112,7 +119112,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788965952.092341,
+    "last_fill_at": 1788966399.7273781,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788966457,
+    "timestamp_added": 1788966457.8749614,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-brancac-galfi-2026-09-09",
+    "title": "Montreux: Nuria Brancaccio vs Dalma Galfi",
+    "outcome": "Nuria Brancaccio",
+    "side": "BUY",
+    "whale_usd": 666.48,
+    "whale_pct": 0.539,
+    "whale_value_at_open": 123748.268,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788966457.8749738,
     "fills": 1
   }
 ]
