@@ -1,5 +1,5 @@
 {
-  "bankroll": 220.2310862334622,
+  "bankroll": 222.2183347024449,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23995,6 +23995,41 @@
       "timestamp": 1788984601.8509817,
       "bankroll": 220.23,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: Inner Circle Esports vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788988375.5192573,
+      "bankroll": 220.54,
+      "event": "won: Flaznorp \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)"
+    },
+    {
+      "timestamp": 1788988375.8294356,
+      "bankroll": 226.27,
+      "event": "won: Flaznorp \u2014 Paris Saint-Germain FC vs. \u0160K Slovan Bratislava: O/U 4.5"
+    },
+    {
+      "timestamp": 1788988376.6722097,
+      "bankroll": 229.37,
+      "event": "won: Flaznorp \u2014 Liverpool FC vs. Club Atl\u00e9tico de Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1788988377.296109,
+      "bankroll": 224.24,
+      "event": "lost: Flaznorp \u2014 Spread: Paris Saint-Germain FC (-3.5)"
+    },
+    {
+      "timestamp": 1788988377.8757482,
+      "bankroll": 226.62,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Arsenal FC (-1.5)"
+    },
+    {
+      "timestamp": 1788988382.2551985,
+      "bankroll": 221.5,
+      "event": "lost: Antblack \u2014 Liverpool FC vs. Club Atl\u00e9tico de Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1788988382.8613954,
+      "bankroll": 222.22,
+      "event": "won: rabbitfoot1 \u2014 SSC Napoli vs. Arsenal FC: O/U 1.5"
     }
   ]
 }
