@@ -120197,8 +120197,8 @@
     "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
     "outcome": "Sara Sorribes Tormo",
     "side": "BUY",
-    "whale_usd": 14350.587143,
-    "whale_pct": 4.884,
+    "whale_usd": 16105.006643,
+    "whale_pct": 5.481,
     "whale_value_at_open": 293831.6228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -120209,8 +120209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788996858.6116893,
-    "fills": 4
+    "last_fill_at": 1788997610.6127453,
+    "fills": 5
   },
   {
     "timestamp": 1788992964,
