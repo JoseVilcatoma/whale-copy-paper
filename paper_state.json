@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.7177652278788,
+  "bankroll": 225.3087427559687,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23410,6 +23410,11 @@
       "timestamp": 1788919175.9297638,
       "bankroll": 224.72,
       "event": "lost:  \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1788919489.2727988,
+      "bankroll": 225.31,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Angels vs. Boston Red Sox"
     }
   ]
 }
