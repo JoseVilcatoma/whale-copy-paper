@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:53:03 (hora de Perú)
+Actualizado: 2026-09-09 11:55:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:53:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.80 en 43 posiciones abiertas (disponible para nuevas apuestas: $22.66)
+**Capital comprometido ahora mismo:** $222.80 en 45 posiciones abiertas (disponible para nuevas apuestas: $12.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 49 | 2 | +22.18 USD |
-| wr0ngw4yb3tt0r | 53 | 36 | 6 | +21.22 USD |
+| wr0ngw4yb3tt0r | 53 | 36 | 8 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
 | atp-hipfl-barrena-2026-09-09 | , ferrariChampions2026 |
 | wta-escorih-bulgaru-2026-09-09 | , Noprajsk, ferrariChampions2026 |
+| mlb-stl-sf-2026-09-09-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
 
@@ -916,6 +917,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 2.8% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -944,5 +947,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 10.6% | ⏳ pendiente | — |
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
-| Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | 💰 vendida anticipada | +3.52 |
