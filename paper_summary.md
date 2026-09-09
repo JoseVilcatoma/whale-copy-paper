@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:46:23 (hora de Perú)
+Actualizado: 2026-09-09 17:48:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $207.47
-**Retorno acumulado:** -58.51%
+**Bankroll actual:** $215.11
+**Retorno acumulado:** -56.98%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 17:46:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $192.47 en 39 posiciones abiertas (disponible para nuevas apuestas: $22.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,9 +33,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| wr0ngw4yb3tt0r | 55 | 38 | 4 | +18.42 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | pleaseplease123 | 26 | 20 | 1 | +15.98 USD |
-| wr0ngw4yb3tt0r | 54 | 38 | 5 | +13.34 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 51 | 2 | +11.96 USD |
@@ -100,6 +100,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
+| Flaznorp | 86 | 32 | 1 | -1.90 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -110,7 +111,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
-| Flaznorp | 85 | 32 | 2 | -3.68 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -149,18 +149,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 85 | 66 | 4 | -135.38 USD |
-| ferrariChampions2026 | 657 | 414 | 17 | -253.14 USD |
+| ferrariChampions2026 | 658 | 414 | 16 | -252.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4608
-- **Aciertos:** 2895 (62.8%)
+- **Apuestas resueltas:** 4611
+- **Aciertos:** 2898 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,005.38
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $427.89 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,020.38
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $428.12 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,9 +168,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2364 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1382 | 68.7% | 67.8% | +0.9 pp |
-| 80-94% | 605 | 85.3% | 86.6% | -1.3 pp |
+| 40-59% | 2365 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1383 | 68.7% | 67.8% | +0.9 pp |
+| 80-94% | 606 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -931,7 +931,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 12.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |

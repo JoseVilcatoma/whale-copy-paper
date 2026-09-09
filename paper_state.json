@@ -1,5 +1,5 @@
 {
-  "bankroll": 207.4709245985589,
+  "bankroll": 215.10727478807718,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24090,6 +24090,21 @@
       "timestamp": 1788992785.5161402,
       "bankroll": 207.47,
       "event": "lost: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1788994037.9236147,
+      "bankroll": 209.25,
+      "event": "won: Flaznorp \u2014 Will Derby County FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1788994040.0478857,
+      "bankroll": 214.33,
+      "event": "won: wr0ngw4yb3tt0r \u2014 St. Louis Cardinals vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788994042.7248209,
+      "bankroll": 215.11,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. San Francisco Giants"
     }
   ]
 }
