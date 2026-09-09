@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:10:47 (hora de Perú)
+Actualizado: 2026-09-09 17:12:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $203.23
@@ -929,7 +929,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 7.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Kayla Day (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
