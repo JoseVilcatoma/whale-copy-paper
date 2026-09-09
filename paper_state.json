@@ -1,5 +1,5 @@
 {
-  "bankroll": 245.98444512558518,
+  "bankroll": 245.21940738973612,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23835,6 +23835,16 @@
       "timestamp": 1788964867.1775038,
       "bankroll": 245.98,
       "event": "lost:  \u2014 M25 Plaisir + H: Stefan Seifert vs Antoine Walch"
+    },
+    {
+      "timestamp": 1788965552.743378,
+      "bankroll": 250.3,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1788965557.1167765,
+      "bankroll": 245.22,
+      "event": "lost: ferrariChampions2026 \u2014 Map Handicap: BB (-1.5) vs Astralis (+1.5)"
     }
   ]
 }

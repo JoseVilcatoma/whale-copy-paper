@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 09:51:37 (hora de Perú)
+Actualizado: 2026-09-09 09:53:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $245.98
-**Retorno acumulado:** -50.80%
+**Bankroll actual:** $245.22
+**Retorno acumulado:** -50.96%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 09:51:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.70 en 46 posiciones abiertas (disponible para nuevas apuestas: $18.28)
+**Capital comprometido ahora mismo:** $217.70 en 44 posiciones abiertas (disponible para nuevas apuestas: $27.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
+| ExplosiveNinja | 27 | 16 | 0 | +2.99 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -94,7 +95,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| ExplosiveNinja | 26 | 16 | 1 | -1.33 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -145,17 +145,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 3 | -128.83 USD |
-| ferrariChampions2026 | 651 | 406 | 13 | -227.59 USD |
+| ferrariChampions2026 | 651 | 407 | 12 | -232.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4560
-- **Aciertos:** 2871 (63.0%)
+- **Apuestas resueltas:** 4562
+- **Aciertos:** 2872 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,767.58
+- **Total apostado (suma de stakes):** $22,777.58
 - **ROI sobre lo apostado:** -1.66%
-- **Comisiones pagadas (taker fee):** $422.96 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $423.16 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -164,8 +164,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2335 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1369 | 68.8% | 67.8% | +1.0 pp |
+| 40-59% | 2336 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1370 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 600 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 256 | 96.9% | 97.3% | -0.4 pp |
 
@@ -935,7 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Maximo Zeitune | Pedro Martinez (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 58% | 5.00 | 0.5% | 💰 vendida anticipada | +3.52 |
 | ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Leyre Romero Gormaz (BUY) | 58% | 5.00 | 1.8% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Map Handicap: BB (-1.5) vs Astralis (+1. | Astralis (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ✅ ganada | +0.15 |
