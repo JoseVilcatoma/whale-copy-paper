@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 22:47:30 (hora de Perú)
+Actualizado: 2026-09-08 22:49:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 22:47:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $219.38 en 44 posiciones abiertas (disponible para nuevas apuestas: $20.18)
+**Capital comprometido ahora mismo:** $234.38 en 47 posiciones abiertas (disponible para nuevas apuestas: $5.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| Flaznorp | 71 | 25 | 11 | +2.37 USD |
+| Flaznorp | 71 | 25 | 12 | +2.37 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | pleaseplease123 | 23 | 20 | 0 | +2.12 USD |
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 78 | 62 | 6 | -134.29 USD |
+|  | 78 | 62 | 8 | -134.29 USD |
 | ferrariChampions2026 | 636 | 403 | 2 | -247.12 USD |
 
 ## Análisis general
@@ -902,11 +902,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
 | wta-pegula-navarro-2026-09-08 | , Flaznorp, ferrariChampions2026 |
 | mlb-wsh-sd-2026-09-08 | , Flaznorp |
+| atp-shelton-alcaraz-2026-09-08 | , martingaleking |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
+| Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
+|  | W50 Guiyang: Sara Saito vs Xinxin Yao | Xinxin Yao (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 45% | 5.00 | 4.9% | ⏳ pendiente | — |
 | martingaleking | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 70% | 5.00 | 94.0% | ⏳ pendiente | — |
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -934,6 +938,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 28.7% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Chicago Cubs (BUY) | 47% | 5.00 | 1.1% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
-| ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ✅ ganada | +0.53 |
