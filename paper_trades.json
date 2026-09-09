@@ -118272,8 +118272,8 @@
     "title": "Antalya 4: Lina Gjorcheska vs Aurora Zantedeschi",
     "outcome": "Aurora Zantedeschi",
     "side": "BUY",
-    "whale_usd": 17900.0303,
-    "whale_pct": 12.278,
+    "whale_usd": 26966.2823,
+    "whale_pct": 18.497,
     "whale_value_at_open": 145785.38,
     "paper_stake_usd": 3.32,
     "odds_at_bet": 42,
@@ -118284,8 +118284,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788948718.0858462,
-    "fills": 3
+    "last_fill_at": 1788950204.9106178,
+    "fills": 4
   },
   {
     "timestamp": 1788948118,
