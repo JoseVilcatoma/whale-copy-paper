@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:54:04 (hora de Perú)
+Actualizado: 2026-09-09 16:56:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $203.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:54:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $157.66 en 32 posiciones abiertas (disponible para nuevas apuestas: $45.57)
+**Capital comprometido ahora mismo:** $162.66 en 33 posiciones abiertas (disponible para nuevas apuestas: $40.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 85 | 66 | 2 | -135.38 USD |
-| ferrariChampions2026 | 657 | 414 | 6 | -253.14 USD |
+| ferrariChampions2026 | 657 | 414 | 7 | -253.14 USD |
 
 ## Análisis general
 
@@ -925,6 +925,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -954,4 +955,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ✅ ganada | +5.08 |
 | Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
-|  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ✅ ganada | +6.48 |
