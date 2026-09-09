@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:59:07 (hora de Perú)
+Actualizado: 2026-09-09 12:01:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:59:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.80 en 46 posiciones abiertas (disponible para nuevas apuestas: $7.66)
+**Capital comprometido ahora mismo:** $235.46 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 49 | 2 | +22.18 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 49 | 4 | +22.18 USD |
 | wr0ngw4yb3tt0r | 53 | 36 | 8 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -917,10 +917,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| pleaseplease123 | Washington Nationals vs. San Diego Padre | Over (BUY) | 51% | 5.00 | 29.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Alliance vs TYLOO (BO3)  | Alliance (BUY) | 47% | 2.66 | 0.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs G2 (BO3) - FISSURE | G2 (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
+| pleaseplease123 | Washington Nationals vs. San Diego Padre | Over (BUY) | 51% | 5.00 | 30.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 49% | 5.00 | 4.3% | ⏳ pendiente | — |
-|  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 19.9% | ⏳ pendiente | — |
+|  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 53.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 4.0% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
@@ -945,5 +947,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | 💰 vendida anticipada | +2.84 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ✅ ganada | +2.61 |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 3.5% | ✅ ganada | +2.38 |
-| wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 10.6% | ⏳ pendiente | — |
-|  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ❌ perdida | -5.14 |
