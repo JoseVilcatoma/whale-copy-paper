@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 03:20:47 (hora de Perú)
+Actualizado: 2026-09-09 03:22:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 03:20:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $197.80 en 40 posiciones abiertas (disponible para nuevas apuestas: $34.47)
+**Capital comprometido ahora mismo:** $202.80 en 41 posiciones abiertas (disponible para nuevas apuestas: $29.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| Flaznorp | 78 | 28 | 11 | -1.46 USD |
+| Flaznorp | 78 | 28 | 12 | -1.46 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -909,6 +909,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | Yes (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: France (-1.5) | Ecuador (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | LoL: DN SOOPers Challengers vs Nongshim  | Nongshim Esports Academy (BUY) | 92% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Rio Noguchi vs Omar Jasika | Omar Jasika (BUY) | 76% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -938,4 +939,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | martingaleking | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 70% | 5.00 | 94.0% | ❌ perdida | -5.08 |
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | Flaznorp | Charlton Athletic FC vs. Queens Park Ran | Over (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Paris Saint-Germain FC vs. ŠK Slovan Bra | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |

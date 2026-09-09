@@ -117996,5 +117996,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788941906.4827952,
     "fills": 1
+  },
+  {
+    "timestamp": 1788942133,
+    "timestamp_added": 1788942134.1855402,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-fcb-fey-2026-09-09-btts",
+    "title": "FC Barcelona vs. Feyenoord Rotterdam: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1466.1499999999999,
+    "whale_pct": 0.555,
+    "whale_value_at_open": 263954.6563,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788942134.1855516,
+    "fills": 1
   }
 ]
