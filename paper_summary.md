@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 13:17:52 (hora de Perú)
+Actualizado: 2026-09-09 13:19:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $221.80
-**Retorno acumulado:** -55.64%
+**Bankroll actual:** $222.00
+**Retorno acumulado:** -55.60%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 13:17:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.46 en 45 posiciones abiertas (disponible para nuevas apuestas: $1.34)
+**Capital comprometido ahora mismo:** $215.46 en 44 posiciones abiertas (disponible para nuevas apuestas: $6.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,17 +145,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 65 | 3 | -133.92 USD |
-| ferrariChampions2026 | 653 | 411 | 10 | -248.03 USD |
+| ferrariChampions2026 | 654 | 411 | 9 | -247.83 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4577
-- **Aciertos:** 2878 (62.9%)
-- **Cuota promedio de entrada:** 62.8%
+- **Apuestas resueltas:** 4578
+- **Aciertos:** 2879 (62.9%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,852.58
+- **Total apostado (suma de stakes):** $22,857.58
 - **ROI sobre lo apostado:** -1.76%
-- **Comisiones pagadas (taker fee):** $424.63 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $424.64 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -167,7 +167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2342 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1377 | 68.6% | 67.8% | +0.9 pp |
 | 80-94% | 602 | 85.2% | 86.6% | -1.4 pp |
-| 95-99% (casi seguro) | 256 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -918,7 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Qinwen Zheng (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | W35 Reus: Nahia Berecoechea vs Francesca | Francesca Pace (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | W35 Reus: Nahia Berecoechea vs Francesca | Francesca Pace (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Alliance vs TYLOO (BO3)  | Alliance (BUY) | 47% | 2.66 | 1.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs G2 (BO3) - FISSURE | G2 (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. San Diego Padre | Over (BUY) | 51% | 5.00 | 30.2% | ⏳ pendiente | — |
