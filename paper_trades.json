@@ -117754,5 +117754,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788933066.0373378,
     "fills": 3
+  },
+  {
+    "timestamp": 1788933539,
+    "timestamp_added": 1788933539.4012985,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "elc-der-wba-2026-09-09-der",
+    "title": "Will Derby County FC win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 574.7799980000001,
+    "whale_pct": 0.243,
+    "whale_value_at_open": 236195.0604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788933539.4013114,
+    "fills": 1
   }
 ]
