@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.9968016819924,
+  "bankroll": 221.5106093743001,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23930,6 +23930,11 @@
       "timestamp": 1788977929.0831048,
       "bankroll": 222.0,
       "event": "won: ferrariChampions2026 \u2014 W35 Reus: Nahia Berecoechea vs Francesca Pace"
+    },
+    {
+      "timestamp": 1788978445.463565,
+      "bankroll": 221.51,
+      "event": "venta anticipada: Noprajsk \u2014 US Open ATP: Karen Khachanov vs Alexander Blockx (-0.49 USD)"
     }
   ]
 }
