@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 13:51:17 (hora de Perú)
+Actualizado: 2026-09-09 13:53:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.81
@@ -918,7 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 8.8% | ⏳ pendiente | — |
+| ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 35.8% | ⏳ pendiente | — |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | 💰 vendida anticipada | +1.04 |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 78.4% | 💰 vendida anticipada | -0.49 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Qinwen Zheng (BUY) | 53% | 5.00 | 3.8% | ❌ perdida | -5.12 |

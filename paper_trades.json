@@ -119573,8 +119573,8 @@
     "title": "SSC Napoli vs. Arsenal FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 508.7097,
-    "whale_pct": 8.799,
+    "whale_usd": 2069.93419,
+    "whale_pct": 35.804,
     "whale_value_at_open": 5781.3615,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -119585,7 +119585,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788979785.855926,
-    "fills": 1
+    "last_fill_at": 1788979967.40425,
+    "fills": 2
   }
 ]
