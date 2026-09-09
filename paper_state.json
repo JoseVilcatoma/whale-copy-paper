@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.12444512558517,
+  "bankroll": 245.98444512558518,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23830,6 +23830,11 @@
       "timestamp": 1788964622.4603999,
       "bankroll": 251.12,
       "event": "lost: 1l2ihj34li12u34 \u2014 Gangwon FC vs. Jeonbuk Hyundai Motors FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788964867.1775038,
+      "bankroll": 245.98,
+      "event": "lost:  \u2014 M25 Plaisir + H: Stefan Seifert vs Antoine Walch"
     }
   ]
 }
