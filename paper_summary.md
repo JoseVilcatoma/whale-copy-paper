@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:58:56 (hora de Perú)
+Actualizado: 2026-09-09 18:01:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.10
@@ -933,7 +933,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 391.0% | ⏳ pendiente | — |
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |

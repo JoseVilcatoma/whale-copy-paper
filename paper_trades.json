@@ -120321,8 +120321,8 @@
     "title": "Will Nashville SC win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4940.563334,
-    "whale_pct": 1.803,
+    "whale_usd": 5455.363334000001,
+    "whale_pct": 1.991,
     "whale_value_at_open": 273966.9506,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -120333,8 +120333,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788994389.1256208,
-    "fills": 1
+    "last_fill_at": 1788994777.5892425,
+    "fills": 2
   },
   {
     "timestamp": 1788994428,
