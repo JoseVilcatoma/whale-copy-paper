@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.2261353718989,
+  "bankroll": 228.97979946715296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23875,6 +23875,26 @@
       "timestamp": 1788967720.1888475,
       "bankroll": 236.23,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FURIA (-1.5) vs PARIVISION (+1.5)"
+    },
+    {
+      "timestamp": 1788970162.0559523,
+      "bankroll": 238.61,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru"
+    },
+    {
+      "timestamp": 1788970162.5231586,
+      "bankroll": 233.52,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru"
+    },
+    {
+      "timestamp": 1788970163.621784,
+      "bankroll": 228.39,
+      "event": "lost:  \u2014 Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru"
+    },
+    {
+      "timestamp": 1788970163.8221743,
+      "bankroll": 228.98,
+      "event": "won: Noprajsk \u2014 Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru"
     }
   ]
 }

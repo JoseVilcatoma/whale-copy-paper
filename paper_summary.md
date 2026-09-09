@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 11:08:27 (hora de Perú)
+Actualizado: 2026-09-09 11:10:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.23
-**Retorno acumulado:** -52.75%
+**Bankroll actual:** $228.98
+**Retorno acumulado:** -54.20%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 11:08:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.80 en 45 posiciones abiertas (disponible para nuevas apuestas: $13.43)
+**Capital comprometido ahora mismo:** $202.80 en 41 posiciones abiertas (disponible para nuevas apuestas: $26.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,9 +44,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| Noprajsk | 5 | 0 | 0 | +8.01 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Noprajsk | 4 | 0 | 1 | +7.42 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -68,7 +68,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-|  | 27 | 24 | 2 | +2.58 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -102,6 +101,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+|  | 27 | 25 | 1 | -2.55 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 0 | -2.62 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
@@ -145,18 +145,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 4 | -128.83 USD |
-| ferrariChampions2026 | 652 | 409 | 10 | -240.20 USD |
+| ferrariChampions2026 | 653 | 410 | 8 | -242.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4567
-- **Aciertos:** 2874 (62.9%)
+- **Apuestas resueltas:** 4571
+- **Aciertos:** 2876 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,802.58
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $423.59 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,822.58
+- **ROI sobre lo apostado:** -1.73%
+- **Comisiones pagadas (taker fee):** $423.92 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -164,9 +164,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2337 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1373 | 68.8% | 67.8% | +1.0 pp |
-| 80-94% | 601 | 85.2% | 86.6% | -1.4 pp |
+| 40-59% | 2338 | 50.0% | 50.1% | -0.0 pp |
+| 60-79% | 1375 | 68.7% | 67.8% | +0.9 pp |
+| 80-94% | 602 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 256 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -917,9 +917,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ⏳ pendiente | — |
-| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ⏳ pendiente | — |
+| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
 |  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ⏳ pendiente | — |
-|  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ⏳ pendiente | — |
+|  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ❌ perdida | -5.13 |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 52% | 5.00 | 5.6% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -930,14 +930,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | pleaseplease123 | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 51% | 5.00 | 59.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Arizona Diamondbacks (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 64% | 5.00 | 3.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 13.3% | ✅ ganada | +1.20 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | 💰 vendida anticipada | +2.84 |
 | ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Harold Mayot (BUY) | 65% | 5.00 | 3.5% | ✅ ganada | +2.61 |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 67% | 5.00 | 3.5% | ✅ ganada | +2.38 |
 | wr0ngw4yb3tt0r | Spread: Arsenal FC (-1.5) | SSC Napoli (BUY) | 67% | 5.00 | 10.6% | ⏳ pendiente | — |
 |  | M25 Plaisir + H: Stefan Seifert vs Antoi | Antoine Walch (BUY) | 44% | 5.00 | 8.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | FC Barcelona vs. Feyenoord Rotterdam: O/ | Over (BUY) | 51% | 5.00 | 2.1% | ⏳ pendiente | — |
