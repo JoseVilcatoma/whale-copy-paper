@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.89046834865908,
+  "bankroll": 221.79846834865907,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23920,6 +23920,11 @@
       "timestamp": 1788976804.738205,
       "bankroll": 226.89,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788977118.1691468,
+      "bankroll": 221.8,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: NIP vs Sinners (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }
