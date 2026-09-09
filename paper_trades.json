@@ -118966,5 +118966,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788962381.4766772,
     "fills": 1
+  },
+  {
+    "timestamp": 1788962486,
+    "timestamp_added": 1788962487.1591022,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "elc-cha-qpr-2026-09-09-qpr",
+    "title": "Will Queens Park Rangers FC win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1294.997,
+    "whale_pct": 0.678,
+    "whale_value_at_open": 190966.0926,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788962487.1591136,
+    "fills": 1
   }
 ]
