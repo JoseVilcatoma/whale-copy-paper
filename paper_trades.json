@@ -117162,8 +117162,8 @@
     "title": "Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "BetBoom Team",
     "side": "BUY",
-    "whale_usd": 19775.105999999996,
-    "whale_pct": 24.405,
+    "whale_usd": 22433.262799999997,
+    "whale_pct": 27.686,
     "whale_value_at_open": 81027.8632,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -117174,8 +117174,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788930158.7628672,
-    "fills": 14
+    "last_fill_at": 1788930985.5454953,
+    "fills": 15
   },
   {
     "timestamp": 1788924700,
