@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:56:12 (hora de Perú)
+Actualizado: 2026-09-09 16:58:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $203.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:56:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $162.66 en 33 posiciones abiertas (disponible para nuevas apuestas: $40.57)
+**Capital comprometido ahora mismo:** $177.66 en 36 posiciones abiertas (disponible para nuevas apuestas: $25.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 85 | 66 | 2 | -135.38 USD |
-| ferrariChampions2026 | 657 | 414 | 7 | -253.14 USD |
+| ferrariChampions2026 | 657 | 414 | 10 | -253.14 USD |
 
 ## Análisis general
 
@@ -917,7 +917,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-sf-2026-09-09-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
-| atp-khachan-blockx-2026-09-09 | Noprajsk, bands1 |
+| atp-khachan-blockx-2026-09-09 | Noprajsk, bands1, ferrariChampions2026 |
 | wta-andreev-gauff-2026-09-08 | Antblack, Noprajsk, tyutgbhnm |
 | wta-jeanjea-pareja-2026-09-09 | Antblack, ferrariChampions2026 |
 
@@ -925,11 +925,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 80% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Kayla Day (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
@@ -952,6 +955,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 49% | 5.00 | 4.3% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Dalma Galfi (BUY) | 42% | 5.00 | 53.1% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Elena Rybakina (BUY) | 67% | 5.00 | 17.5% | ✅ ganada | +2.38 |
-| pleaseplease123 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Inner Circle Esports vs  | Nemiga (BUY) | 49% | 5.00 | 34.6% | ✅ ganada | +5.08 |
-| Noprajsk | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 89% | 5.00 | 104.2% | ✅ ganada | +0.59 |
