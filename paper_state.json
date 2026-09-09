@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.53331739095634,
+  "bankroll": 235.5858783665661,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23655,6 +23655,11 @@
       "timestamp": 1788946863.4728491,
       "bankroll": 234.53,
       "event": "won: Flaznorp \u2014 Shanghai: Linang Xiao vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1788947235.6346664,
+      "bankroll": 235.59,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Pavel Kotov vs Jake Delaney"
     }
   ]
 }
