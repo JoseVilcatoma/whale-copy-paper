@@ -1,5 +1,5 @@
 {
-  "bankroll": 241.32613537189889,
+  "bankroll": 236.2261353718989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23870,6 +23870,11 @@
       "timestamp": 1788967540.1090338,
       "bankroll": 241.33,
       "event": "won: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Counter-Strike: PARIVISION vs FURIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788967720.1888475,
+      "bankroll": 236.23,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FURIA (-1.5) vs PARIVISION (+1.5)"
     }
   ]
 }
