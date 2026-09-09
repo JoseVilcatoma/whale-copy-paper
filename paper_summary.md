@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 15:49:21 (hora de Perú)
+Actualizado: 2026-09-09 15:51:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $220.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 15:49:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.46 en 39 posiciones abiertas (disponible para nuevas apuestas: $29.77)
+**Capital comprometido ahora mismo:** $195.46 en 40 posiciones abiertas (disponible para nuevas apuestas: $24.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChayEhc | 0 | 0 | 1 | +0.00 USD |
 | tyutgbhnm | 0 | 0 | 1 | +0.00 USD |
 | bands1 | 0 | 0 | 1 | +0.00 USD |
+| rabbitfoot1 | 0 | 0 | 1 | +0.00 USD |
 | Antblack | 1 | 1 | 3 | -0.04 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -923,6 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| rabbitfoot1 | SSC Napoli vs. Arsenal FC: O/U 1.5 | Under (BUY) | 87% | 5.00 | 56.6% | ⏳ pendiente | — |
 | Antblack | Seville: Raul Brancaccio vs Pablo Llamas | Pablo Llamas Ruiz (BUY) | 41% | 5.00 | 66.6% | ⏳ pendiente | — |
 | Antblack | Liverpool FC vs. Club Atlético de Madrid | Over (BUY) | 53% | 5.00 | 71.5% | ⏳ pendiente | — |
 | bands1 | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
@@ -952,4 +954,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks: 1H O/U 21.5 | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 92% | 4.90 | 950.9% | 💰 vendida anticipada | +0.41 |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Atlanta Braves: O/U 8 | Over (BUY) | 47% | 5.00 | 2.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Queens Park Rangers FC win on 2026- | No (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
