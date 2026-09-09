@@ -115716,8 +115716,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -116707,6 +116707,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788916799.5580459,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788917021,
+    "timestamp_added": 1788917021.8447626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-chc-mil-2026-09-08",
+    "title": "Chicago Cubs vs. Milwaukee Brewers",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 3571.8264000000004,
+    "whale_pct": 1.083,
+    "whale_value_at_open": 329673.8298,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788917021.844777,
     "fills": 1
   }
 ]

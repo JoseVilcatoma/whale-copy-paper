@@ -1,5 +1,5 @@
 {
-  "bankroll": 209.8390564838466,
+  "bankroll": 214.7140564838466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23370,6 +23370,11 @@
       "timestamp": 1788916729.088453,
       "bankroll": 209.84,
       "event": "won:  \u2014 Barranquilla: Emiliana Arango vs Maria Paulina Perez"
+    },
+    {
+      "timestamp": 1788916981.907136,
+      "bankroll": 214.71,
+      "event": "won: pleaseplease123 \u2014 Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5"
     }
   ]
 }
