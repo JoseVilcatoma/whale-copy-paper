@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 02:09:13 (hora de Perú)
+Actualizado: 2026-09-09 02:11:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $247.80
@@ -915,7 +915,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | No (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Paris Saint-Germain FC (-3.5) | ŠK Slovan Bratislava (BUY) | 49% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | Will Derby County FC win on 2026-09-09? | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 1.9% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 63% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs 1WIN  | 1WIN (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RevengeRange | Counter-Strike: 9z vs MIBR (BO3) - FISSU | 9z (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
