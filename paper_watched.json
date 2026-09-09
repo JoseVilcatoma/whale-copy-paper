@@ -8,25 +8,13 @@
   "0x5ad7346a9f6b4a1ad852ec8e0716d446527cae48": {
     "username": "tyutgbhnm",
     "added_at": 1788942778.3440142,
-    "roi_pct": 776.35,
-    "short_term_pct": 100.0
-  },
-  "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
-    "username": "bands1",
-    "added_at": 1788950757.0702198,
-    "roi_pct": 598.55,
+    "roi_pct": 854.99,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1788966789.5020921,
     "roi_pct": 684.25,
-    "short_term_pct": 100.0
-  },
-  "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
-    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
-    "added_at": 1788966789.5020943,
-    "roi_pct": 465.19,
     "short_term_pct": 100.0
   },
   "0xa9bb7b5ef3d2e8ddb498ac251a4ec144e089701b": {
@@ -38,25 +26,37 @@
   "0x9c68e5a4b3004bf6ac9d6735a33ffb5f983a247a": {
     "username": "Antblack",
     "added_at": 1788978978.1279247,
-    "roi_pct": 990.2,
+    "roi_pct": 778.72,
     "short_term_pct": 100.0
   },
   "0xd3b034d7bfb2473fb252d0414646d9786bac329e": {
     "username": "Sunshine.Smile",
     "added_at": 1788984553.083206,
-    "roi_pct": 1176.06,
+    "roi_pct": 959.68,
     "short_term_pct": 100.0
   },
   "0x31e5d54aded22aa7cd80dbe9e33102abe2504879": {
     "username": "Noprajsk",
     "added_at": 1788985483.7094827,
-    "roi_pct": 686.54,
+    "roi_pct": 4805.75,
     "short_term_pct": 100.0
   },
   "0x10a6fadcbacd66330862206f6199b197e3ad4d8b": {
     "username": "rabbitfoot1",
     "added_at": 1788985483.7094872,
-    "roi_pct": 482.77,
+    "roi_pct": 2318.22,
+    "short_term_pct": 100.0
+  },
+  "0x9ee8bbc36d378af72e5f6b8e2ea2eb67c05a89de": {
+    "username": "gambamaster",
+    "added_at": 1788986414.1960523,
+    "roi_pct": 1329.5,
+    "short_term_pct": 100.0
+  },
+  "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136": {
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "added_at": 1788986414.1960638,
+    "roi_pct": 750.35,
     "short_term_pct": 100.0
   }
 }
