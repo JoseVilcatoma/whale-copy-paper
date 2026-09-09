@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 19:34:09 (hora de Perú)
+Actualizado: 2026-09-08 19:36:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $209.38
@@ -923,7 +923,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 75.9% | ⏳ pendiente | — |
 |  | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: 5star vs TheMongolz (BO3 | TheMongolz (BUY) | 93% | 5.00 | 9.7% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: 5star vs TheMongolz (BO3 | TheMongolz (BUY) | 93% | 5.00 | 125.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: magic vs FaZe (BO3) - FI | FaZe (BUY) | 60% | 5.00 | 611.6% | ⏳ pendiente | — |
 |  | Fluminense FC vs. CA Platense: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
