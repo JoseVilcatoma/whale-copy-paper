@@ -117860,8 +117860,8 @@
     "title": "FC Barcelona vs. Feyenoord Rotterdam: O/U 4.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 10424.630000000001,
-    "whale_pct": 8.288,
+    "whale_usd": 11977.95,
+    "whale_pct": 9.523,
     "whale_value_at_open": 125783.652,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -117874,8 +117874,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788936423.03581,
-    "fills": 1
+    "last_fill_at": 1788956287.5200021,
+    "fills": 2
   },
   {
     "timestamp": 1788937437,
@@ -118516,8 +118516,8 @@
     "title": "W50 Evora: Iveta Dapkute vs Kylie Collins",
     "outcome": "Kylie Collins",
     "side": "BUY",
-    "whale_usd": 6972.8892,
-    "whale_pct": 2.746,
+    "whale_usd": 7884.3438,
+    "whale_pct": 3.105,
     "whale_value_at_open": 253933.5754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -118528,8 +118528,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788955492.0478969,
-    "fills": 6
+    "last_fill_at": 1788956192.8264644,
+    "fills": 7
   },
   {
     "timestamp": 1788955296,
