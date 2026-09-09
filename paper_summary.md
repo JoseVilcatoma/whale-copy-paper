@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 00:29:18 (hora de Perú)
+Actualizado: 2026-09-09 00:31:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $250.09
-**Retorno acumulado:** -49.98%
+**Bankroll actual:** $252.81
+**Retorno acumulado:** -49.44%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 00:29:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $40.09)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $47.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,19 +142,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 80 | 63 | 5 | -130.12 USD |
+|  | 81 | 63 | 4 | -127.40 USD |
 | ferrariChampions2026 | 637 | 403 | 3 | -245.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4508
-- **Aciertos:** 2838 (63.0%)
+- **Apuestas resueltas:** 4509
+- **Aciertos:** 2839 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,511.64
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $418.60 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,516.64
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $418.69 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -163,7 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2316 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1348 | 69.0% | 67.8% | +1.2 pp |
+| 60-79% | 1349 | 69.0% | 67.8% | +1.2 pp |
 | 80-94% | 592 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 252 | 96.8% | 97.3% | -0.5 pp |
 
@@ -910,7 +910,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Liverpool FC vs. Club Atlético de Madrid | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: B8 vs BET-M 33 (BO3) - P | B8 (BUY) | 68% | 5.00 | 6.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 12.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Ben Shelton (BUY) | 41% | 5.00 | 14.2% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 72% | 5.00 | 9.3% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 75% | 5.00 | 29.8% | ⏳ pendiente | — |
@@ -918,7 +918,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | W50 Guiyang: Sara Saito vs Xinxin Yao | Xinxin Yao (BUY) | 64% | 5.00 | 4.8% | ⏳ pendiente | — |
+|  | W50 Guiyang: Sara Saito vs Xinxin Yao | Xinxin Yao (BUY) | 64% | 5.00 | 4.8% | ✅ ganada | +2.72 |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 45% | 5.00 | 4.9% | ✅ ganada | +5.97 |
 | martingaleking | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 70% | 5.00 | 94.0% | ⏳ pendiente | — |
 | Flaznorp | Spread: San Francisco Giants (-2.5) | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
@@ -927,7 +927,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Los Angeles Dodgers (-2.5) | Cincinnati Reds (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | Flaznorp | Spread: Club Atlético de Madrid (-1.5) | Liverpool FC (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | St. Louis Cardinals vs. San Francisco Gi | Over (BUY) | 41% | 5.00 | 0.8% | ❌ perdida | -5.15 |
-| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 27.7% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Enzo Aguiard vs Khumoun Su | Enzo Aguiard (BUY) | 53% | 5.00 | 2.6% | ✅ ganada | +4.32 |
 | Flaznorp | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 64% | 5.00 | 0.4% | ✅ ganada | +2.72 |
 |  | Will Ljungskile SK win on 2026-09-09? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.0923224127783,
+  "bankroll": 252.81482241277828,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23560,6 +23560,11 @@
       "timestamp": 1788930005.608049,
       "bankroll": 250.09,
       "event": "won: Flaznorp \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1788931882.3266408,
+      "bankroll": 252.81,
+      "event": "won:  \u2014 W50 Guiyang: Sara Saito vs Xinxin Yao"
     }
   ]
 }

@@ -117162,8 +117162,8 @@
     "title": "Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "BetBoom Team",
     "side": "BUY",
-    "whale_usd": 22433.262799999997,
-    "whale_pct": 27.686,
+    "whale_usd": 25100.301199999998,
+    "whale_pct": 30.977,
     "whale_value_at_open": 81027.8632,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -117174,8 +117174,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788930985.5454953,
-    "fills": 15
+    "last_fill_at": 1788931883.4056787,
+    "fills": 16
   },
   {
     "timestamp": 1788924700,
@@ -117385,8 +117385,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -117581,8 +117581,8 @@
     "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
     "outcome": "Ben Shelton",
     "side": "BUY",
-    "whale_usd": 18795.091160000004,
-    "whale_pct": 12.572,
+    "whale_usd": 21290.537409000004,
+    "whale_pct": 14.241,
     "whale_value_at_open": 149501.9873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -117597,8 +117597,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788931360.1151826,
-    "fills": 13
+    "last_fill_at": 1788931772.543448,
+    "fills": 14
   },
   {
     "timestamp": 1788930492,
