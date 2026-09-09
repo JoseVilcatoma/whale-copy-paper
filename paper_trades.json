@@ -118080,8 +118080,8 @@
     "title": "Tulln: Zdenek Kolar vs Martin Krumich",
     "outcome": "Zdenek Kolar",
     "side": "BUY",
-    "whale_usd": 14584.134440000002,
-    "whale_pct": 15.931,
+    "whale_usd": 16198.568580000001,
+    "whale_pct": 17.695,
     "whale_value_at_open": 91542.9724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -118092,8 +118092,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788945788.748295,
-    "fills": 3
+    "last_fill_at": 1788945976.0319319,
+    "fills": 4
   },
   {
     "timestamp": 1788943201,
