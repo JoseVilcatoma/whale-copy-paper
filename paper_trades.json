@@ -119848,8 +119848,8 @@
     "title": "Genoa: Valerio Aboian vs Andrea Pellegrino",
     "outcome": "Valerio Aboian",
     "side": "BUY",
-    "whale_usd": 3332.581917,
-    "whale_pct": 0.96,
+    "whale_usd": 7591.041117000001,
+    "whale_pct": 2.187,
     "whale_value_at_open": 347029.5468,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -119860,8 +119860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788990496.2000632,
-    "fills": 3
+    "last_fill_at": 1788990710.5561817,
+    "fills": 4
   },
   {
     "timestamp": 1788989797,
