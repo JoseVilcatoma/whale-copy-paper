@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 10:20:34 (hora de Perú)
+Actualizado: 2026-09-09 10:22:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 10:20:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.70 en 47 posiciones abiertas (disponible para nuevas apuestas: $7.49)
+**Capital comprometido ahora mismo:** $237.70 en 48 posiciones abiertas (disponible para nuevas apuestas: $2.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-|  | 27 | 24 | 1 | +2.58 USD |
+|  | 27 | 24 | 2 | +2.58 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -916,6 +916,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | M25 Gijon: Tristan McCormick vs Xavi Pal | Xavi Palomar (BUY) | 43% | 5.00 | 22.8% | ⏳ pendiente | — |
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Miriam Bulgaru (BUY) | 49% | 5.00 | 188.9% | ⏳ pendiente | — |
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 52% | 5.00 | 5.6% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -945,4 +946,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Alaf | Francesco Maestrelli (BUY) | 96% | 5.00 | 5.0% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 3.1% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ✅ ganada | +0.15 |
-|  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 8.3% | ✅ ganada | +6.76 |
