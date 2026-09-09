@@ -120462,5 +120462,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788994987.3192348,
     "fills": 1
+  },
+  {
+    "timestamp": 1788995040,
+    "timestamp_added": 1788995041.2412286,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-nym-mia-2026-09-09-spread-away-2pt5",
+    "title": "Spread: New York Mets (-2.5)",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 550.0,
+    "whale_pct": 0.185,
+    "whale_value_at_open": 297358.5234,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788995041.241241,
+    "fills": 1
   }
 ]
