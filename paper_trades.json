@@ -118176,8 +118176,8 @@
     "title": "Counter-Strike: Legacy vs Alliance - Map 2 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 1726.989999,
-    "whale_pct": 2.5,
+    "whale_usd": 3422.439997,
+    "whale_pct": 4.954,
     "whale_value_at_open": 69090.9027,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -118188,7 +118188,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788943940.6499467,
-    "fills": 2
+    "last_fill_at": 1788944071.1087615,
+    "fills": 4
   }
 ]
