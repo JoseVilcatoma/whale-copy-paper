@@ -116618,8 +116618,8 @@
     "title": "US Open WTA: Jessica Pegula vs Emma Navarro",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 94249.999996,
-    "whale_pct": 63.987,
+    "whale_usd": 114249.99999499999,
+    "whale_pct": 77.565,
     "whale_value_at_open": 147295.2739,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -116630,8 +116630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788919292.719078,
-    "fills": 6
+    "last_fill_at": 1788920590.0466022,
+    "fills": 7
   },
   {
     "timestamp": 1788914621,
@@ -117030,5 +117030,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788920449.3264174,
     "fills": 2
+  },
+  {
+    "timestamp": 1788920573,
+    "timestamp_added": 1788920573.6418195,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-chc-mil-2026-09-08-spread-away-2pt5",
+    "title": "Spread: Chicago Cubs (-2.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 1144.71,
+    "whale_pct": 0.408,
+    "whale_value_at_open": 280406.801,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788920573.641834,
+    "fills": 1
   }
 ]
