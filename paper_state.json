@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.740669311357,
+  "bankroll": 247.55924073992844,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23680,6 +23680,11 @@
       "timestamp": 1788949501.7295299,
       "bankroll": 243.74,
       "event": "won:  \u2014 Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788951939.7355385,
+      "bankroll": 247.56,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Nuclear TigeRES vs 1WIN (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }
