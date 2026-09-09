@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 12:13:29 (hora de Perú)
+Actualizado: 2026-09-09 12:15:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $235.46
@@ -917,8 +917,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Alliance vs TYLOO (BO3)  | Alliance (BUY) | 47% | 2.66 | 0.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs G2 (BO3) - FISSURE | G2 (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Alliance vs TYLOO (BO3)  | Alliance (BUY) | 47% | 2.66 | 1.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 9z vs G2 (BO3) - FISSURE | G2 (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | pleaseplease123 | Washington Nationals vs. San Diego Padre | Over (BUY) | 51% | 5.00 | 30.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 49% | 5.00 | 4.3% | ⏳ pendiente | — |

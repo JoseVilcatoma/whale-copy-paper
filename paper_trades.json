@@ -119425,8 +119425,8 @@
     "title": "Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 1113.4566,
-    "whale_pct": 0.676,
+    "whale_usd": 1907.667,
+    "whale_pct": 1.158,
     "whale_value_at_open": 164719.2385,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -119437,8 +119437,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788973202.9257107,
-    "fills": 1
+    "last_fill_at": 1788974095.185771,
+    "fills": 2
   },
   {
     "timestamp": 1788973204,
@@ -119449,8 +119449,8 @@
     "title": "Counter-Strike: Alliance vs TYLOO (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "Alliance",
     "side": "BUY",
-    "whale_usd": 1047.535,
-    "whale_pct": 0.636,
+    "whale_usd": 1786.6446,
+    "whale_pct": 1.085,
     "whale_value_at_open": 164719.2385,
     "paper_stake_usd": 2.66,
     "odds_at_bet": 47,
@@ -119461,7 +119461,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788973205.0599327,
-    "fills": 1
+    "last_fill_at": 1788974099.6351705,
+    "fills": 2
   }
 ]
