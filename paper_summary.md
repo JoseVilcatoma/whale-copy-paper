@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 20:59:44 (hora de Perú)
+Actualizado: 2026-09-08 21:01:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 20:59:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $20.34)
+**Capital comprometido ahora mismo:** $209.38 en 42 posiciones abiertas (disponible para nuevas apuestas: $15.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 9 | +26.83 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 77 | 44 | 10 | +26.83 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -906,6 +906,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: NIP vs Sinners (BO3) - P | NIP (BUY) | 63% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -916,7 +917,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Miami Marlins | New York Mets (BUY) | 89% | 4.49 | 3.1% | ✅ ganada | +0.53 |
-|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 50.4% | ⏳ pendiente | — |
+|  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 74% | 5.00 | 64.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Boca Juniors vs. São Paulo FC: O/U 2. | Under (BUY) | 68% | 4.38 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -935,4 +936,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Legacy vs Alliance (BO3) | Legacy (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Minnesota Twins vs. Detroit Tigers | Minnesota Twins (BUY) | 56% | 5.00 | 235.0% | ✅ ganada | +3.82 |
 |  | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
-|  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 75.9% | ❌ perdida | -5.13 |
