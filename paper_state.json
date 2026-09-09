@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.91732920620873,
+  "bankroll": 234.4362765746298,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23645,6 +23645,11 @@
       "timestamp": 1788943900.2705722,
       "bankroll": 232.92,
       "event": "venta anticipada: Noprajsk \u2014 Counter-Strike: HOTU vs Wildcard - Map 1 Winner (+0.65 USD)"
+    },
+    {
+      "timestamp": 1788945083.2537346,
+      "bankroll": 234.44,
+      "event": "won: Flaznorp \u2014 Shanghai: Rio Noguchi vs Omar Jasika"
     }
   ]
 }
