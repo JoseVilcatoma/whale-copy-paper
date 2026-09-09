@@ -1,5 +1,5 @@
 {
-  "bankroll": 214.7140564838466,
+  "bankroll": 213.41762791241803,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23375,6 +23375,16 @@
       "timestamp": 1788916981.907136,
       "bankroll": 214.71,
       "event": "won: pleaseplease123 \u2014 Pittsburgh Pirates vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788917609.166436,
+      "bankroll": 209.6,
+      "event": "lost:  \u2014 Minnesota Twins vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788917609.4875882,
+      "bankroll": 213.42,
+      "event": "won:  \u2014 Minnesota Twins vs. Detroit Tigers"
     }
   ]
 }
