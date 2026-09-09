@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.3638400054685,
+  "bankroll": 237.8795296606409,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24155,6 +24155,11 @@
       "timestamp": 1788996130.5461245,
       "bankroll": 234.36,
       "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. San Diego Padres: O/U 11.5"
+    },
+    {
+      "timestamp": 1788996441.2733283,
+      "bankroll": 237.88,
+      "event": "won: ferrariChampions2026 \u2014 Spread: San Diego Padres (-3.5)"
     }
   ]
 }
