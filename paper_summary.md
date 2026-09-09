@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 08:35:25 (hora de Perú)
+Actualizado: 2026-09-09 08:37:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $251.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 08:35:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.27 en 48 posiciones abiertas (disponible para nuevas apuestas: $14.46)
+**Capital comprometido ahora mismo:** $242.27 en 49 posiciones abiertas (disponible para nuevas apuestas: $9.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 84 | 64 | 3 | -128.83 USD |
-| ferrariChampions2026 | 648 | 405 | 14 | -226.63 USD |
+| ferrariChampions2026 | 648 | 405 | 15 | -226.63 USD |
 
 ## Análisis general
 
@@ -913,7 +913,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 8.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Gabi Boitan vs Harold Mayot | Gabi Boitan (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Alevtina Ibragimova vs Leyre  | Alevtina Ibragimova (BUY) | 80% | 5.00 | 8.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chelsea FC (-1.5) | Chelsea FC (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: BetBoom Team vs Astralis | BetBoom Team (BUY) | 63% | 5.00 | 181.3% | ⏳ pendiente | — |
@@ -942,4 +943,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 1l2ihj34li12u34 | Will Jeju SK FC win on 2026-09-09? | Yes (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-2.5) | FC Barcelona (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
 |  | Counter-Strike: Legacy vs Alliance - Map | Legacy (BUY) | 78% | 5.00 | 5.0% | ✅ ganada | +1.36 |
-| ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
