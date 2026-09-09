@@ -118516,8 +118516,8 @@
     "title": "W50 Evora: Iveta Dapkute vs Kylie Collins",
     "outcome": "Kylie Collins",
     "side": "BUY",
-    "whale_usd": 2860.0499999999997,
-    "whale_pct": 1.126,
+    "whale_usd": 6218.169199999999,
+    "whale_pct": 2.449,
     "whale_value_at_open": 253933.5754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -118528,7 +118528,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788955055.057514,
-    "fills": 2
+    "last_fill_at": 1788955177.008629,
+    "fills": 5
   }
 ]

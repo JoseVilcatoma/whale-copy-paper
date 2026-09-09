@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 06:57:39 (hora de Perú)
+Actualizado: 2026-09-09 06:59:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $253.10
@@ -913,7 +913,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Evora: Iveta Dapkute vs Kylie Collin | Kylie Collins (BUY) | 87% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Nico Hipfl vs Alex Barrena | Alex Barrena (BUY) | 97% | 5.00 | 11.2% | ⏳ pendiente | — |
 |  | M25 Rabat: Maximilian Figl vs Arthur Nag | Maximilian Figl (BUY) | 42% | 5.00 | 7.0% | ⏳ pendiente | — |
 |  | Tulln: Nico Hipfl vs Alex Barrena | Nico Hipfl (BUY) | 43% | 5.00 | 28.3% | ⏳ pendiente | — |
