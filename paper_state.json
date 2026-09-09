@@ -1,5 +1,5 @@
 {
-  "bankroll": 218.7742959414643,
+  "bankroll": 219.81125246320343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23945,6 +23945,11 @@
       "timestamp": 1788978687.7795486,
       "bankroll": 218.77,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Qinwen Zheng vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1788979082.626199,
+      "bankroll": 219.81,
+      "event": "venta anticipada: Noprajsk \u2014 US Open WTA: Mirra Andreeva vs Coco Gauff (+1.04 USD)"
     }
   ]
 }

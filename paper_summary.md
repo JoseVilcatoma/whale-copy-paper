@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 13:36:44 (hora de Perú)
+Actualizado: 2026-09-09 13:38:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $218.77
-**Retorno acumulado:** -56.25%
+**Bankroll actual:** $219.81
+**Retorno acumulado:** -56.04%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 13:36:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.46 en 43 posiciones abiertas (disponible para nuevas apuestas: $8.31)
+**Capital comprometido ahora mismo:** $205.46 en 42 posiciones abiertas (disponible para nuevas apuestas: $14.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,10 +44,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| Noprajsk | 6 | 1 | 0 | +8.56 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | Sunshine.Smile | 12 | 6 | 0 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Noprajsk | 5 | 1 | 1 | +7.52 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -917,7 +917,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | ⏳ pendiente | — |
+| Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | 💰 vendida anticipada | +1.04 |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 78.4% | 💰 vendida anticipada | -0.49 |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Elena Rybak | Qinwen Zheng (BUY) | 53% | 5.00 | 3.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W35 Reus: Nahia Berecoechea vs Francesca | Francesca Pace (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
