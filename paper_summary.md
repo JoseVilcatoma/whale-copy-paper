@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 23:32:51 (hora de Perú)
+Actualizado: 2026-09-08 23:34:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.14
-**Retorno acumulado:** -53.37%
+**Bankroll actual:** $238.73
+**Retorno acumulado:** -52.25%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 23:32:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $18.14)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $28.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 53 | 36 | 0 | +21.22 USD |
+| wr0ngw4yb3tt0r | 53 | 36 | 1 | +21.22 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -87,11 +87,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Zzzz87 | 0 | 0 | 5 | +0.00 USD |
 | Antblack | 1 | 1 | 0 | -0.04 USD |
+| Flaznorp | 74 | 26 | 8 | -0.30 USD |
 | mimi121 | 0 | 1 | 1 | -0.36 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| Flaznorp | 73 | 26 | 9 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -142,19 +142,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 78 | 63 | 7 | -139.32 USD |
+|  | 79 | 63 | 6 | -134.44 USD |
 | ferrariChampions2026 | 637 | 403 | 1 | -245.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4500
-- **Aciertos:** 2831 (62.9%)
+- **Apuestas resueltas:** 4502
+- **Aciertos:** 2833 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,471.64
-- **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $417.82 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,481.64
+- **ROI sobre lo apostado:** -1.68%
+- **Comisiones pagadas (taker fee):** $417.98 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -162,9 +162,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2312 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2313 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1346 | 68.9% | 67.8% | +1.2 pp |
-| 80-94% | 590 | 85.3% | 86.6% | -1.4 pp |
+| 80-94% | 591 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 252 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -908,6 +908,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Arsenal FC win on 2026-09-09? | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Heroic vs BESTIA (BO3) - | Heroic (BUY) | 80% | 5.00 | 12.6% | ⏳ pendiente | — |
 |  | US Open ATP: Ben Shelton vs Carlos Alcar | Carlos Alcaraz (BUY) | 73% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: O/ | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -933,8 +934,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 79% | 5.00 | 8.5% | ✅ ganada | +1.28 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: NIP vs Sinners (BO3) - P | NIP (BUY) | 63% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 66% | 5.00 | 0.7% | ✅ ganada | +2.49 |
-| Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Will CA Boca Juniors win on 2026-09-08? | Yes (BUY) | 87% | 5.00 | 0.5% | ✅ ganada | +0.71 |
 | Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ✅ ganada | +1.69 |
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
-|  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 28.7% | ✅ ganada | +3.52 |
+|  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ✅ ganada | +4.88 |

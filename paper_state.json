@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.13716911236256,
+  "bankroll": 238.72629554914417,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23520,6 +23520,16 @@
       "timestamp": 1788928364.477699,
       "bankroll": 233.14,
       "event": "lost:  \u2014 Washington Nationals vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1788928426.1847708,
+      "bankroll": 233.85,
+      "event": "won: Flaznorp \u2014 Will CA Boca Juniors win on 2026-09-08?"
+    },
+    {
+      "timestamp": 1788928488.4443185,
+      "bankroll": 238.73,
+      "event": "won:  \u2014 Toronto Blue Jays vs. Athletics: O/U 8.5"
     }
   ]
 }
