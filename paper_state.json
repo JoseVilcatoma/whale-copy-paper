@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.53410025167332,
+  "bankroll": 251.7341002516733,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23775,6 +23775,11 @@
       "timestamp": 1788960306.5752873,
       "bankroll": 250.53,
       "event": "won:  \u2014 M25 Rabat: Maximilian Figl vs Arthur Nagel"
+    },
+    {
+      "timestamp": 1788960608.9238684,
+      "bankroll": 251.73,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Heroic vs BESTIA (BO3) - Thunderpick World Championship Closed Qualifier Group A"
     }
   ]
 }
