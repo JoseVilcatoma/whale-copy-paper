@@ -119463,5 +119463,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788974099.6351705,
     "fills": 2
+  },
+  {
+    "timestamp": 1788975704,
+    "timestamp_added": 1788975704.9223716,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-bereco1-pace1-2026-09-09",
+    "title": "W35 Reus: Nahia Berecoechea vs Francesca Pace",
+    "outcome": "Francesca Pace",
+    "side": "BUY",
+    "whale_usd": 3003.904,
+    "whale_pct": 1.076,
+    "whale_value_at_open": 279203.5468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788975707.0719965,
+    "fills": 2
   }
 ]
