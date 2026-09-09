@@ -1,5 +1,5 @@
 {
-  "bankroll": 240.17446811015583,
+  "bankroll": 243.740669311357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23670,6 +23670,16 @@
       "timestamp": 1788948829.5736141,
       "bankroll": 240.17,
       "event": "won:  \u2014 Counter-Strike: Legacy vs Alliance - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788949500.2537582,
+      "bankroll": 241.87,
+      "event": "won: mimi121 \u2014 Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1788949501.7295299,
+      "bankroll": 243.74,
+      "event": "won:  \u2014 Counter-Strike: Legacy vs Alliance (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
