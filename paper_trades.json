@@ -119547,8 +119547,8 @@
     "title": "US Open WTA: Mirra Andreeva vs Coco Gauff",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 191773.07874,
-    "whale_pct": 182.424,
+    "whale_usd": 207132.82874,
+    "whale_pct": 197.035,
     "whale_value_at_open": 105125.0627,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -119559,7 +119559,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788978493.6776457,
-    "fills": 26
+    "last_fill_at": 1788978589.4711478,
+    "fills": 29
   }
 ]
