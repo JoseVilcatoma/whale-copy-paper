@@ -1,5 +1,5 @@
 {
-  "bankroll": 203.229081461304,
+  "bankroll": 207.91100302993144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24075,6 +24075,11 @@
       "timestamp": 1788990590.5346131,
       "bankroll": 203.23,
       "event": "won: pleaseplease123 \u2014 Minnesota Twins vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788992155.354593,
+      "bankroll": 207.91,
+      "event": "won: pleaseplease123 \u2014 Washington Nationals vs. San Diego Padres: O/U 8.5"
     }
   ]
 }
