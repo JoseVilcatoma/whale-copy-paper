@@ -118676,5 +118676,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788957163.4514437,
     "fills": 2
+  },
+  {
+    "timestamp": 1788958046,
+    "timestamp_added": 1788958046.985259,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "itf-seifer1-walch1-2026-09-09",
+    "title": "M25 Plaisir + H: Stefan Seifert vs Antoine Walch",
+    "outcome": "Antoine Walch",
+    "side": "BUY",
+    "whale_usd": 1661.26,
+    "whale_pct": 2.847,
+    "whale_value_at_open": 58352.4047,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788958046.9852693,
+    "fills": 1
   }
 ]
