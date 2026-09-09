@@ -116784,5 +116784,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788918637.2496676,
     "fills": 1
+  },
+  {
+    "timestamp": 1788918855,
+    "timestamp_added": 1788918856.1387322,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lib-pal-lqu-2026-09-09-spread-home-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "LDU de Quito",
+    "side": "BUY",
+    "whale_usd": 544.16,
+    "whale_pct": 1.128,
+    "whale_value_at_open": 48236.9282,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788918856.1387436,
+    "fills": 1
   }
 ]
