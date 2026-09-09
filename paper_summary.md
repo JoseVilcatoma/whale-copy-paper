@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:32:20 (hora de Perú)
+Actualizado: 2026-09-09 18:34:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:32:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $30.41)
+**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $25.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 86 | 66 | 6 | -134.85 USD |
-| ferrariChampions2026 | 662 | 415 | 12 | -240.05 USD |
+| ferrariChampions2026 | 662 | 415 | 13 | -240.05 USD |
 
 ## Análisis general
 
@@ -930,6 +930,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -941,12 +942,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 391.0% | ⏳ pendiente | — |
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
@@ -959,4 +960,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
-|  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ✅ ganada | +0.53 |

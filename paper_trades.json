@@ -120197,8 +120197,8 @@
     "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
     "outcome": "Sara Sorribes Tormo",
     "side": "BUY",
-    "whale_usd": 2963.9619,
-    "whale_pct": 1.009,
+    "whale_usd": 14350.587143,
+    "whale_pct": 4.884,
     "whale_value_at_open": 293831.6228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -120209,8 +120209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788992792.714894,
-    "fills": 1
+    "last_fill_at": 1788996858.6116893,
+    "fills": 4
   },
   {
     "timestamp": 1788992964,
@@ -120321,8 +120321,8 @@
     "title": "Will Nashville SC win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5455.363334000001,
-    "whale_pct": 1.991,
+    "whale_usd": 8523.148641,
+    "whale_pct": 3.111,
     "whale_value_at_open": 273966.9506,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -120333,8 +120333,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788994777.5892425,
-    "fills": 2
+    "last_fill_at": 1788996856.242657,
+    "fills": 3
   },
   {
     "timestamp": 1788994428,
@@ -120609,6 +120609,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788996575.8298883,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788996837,
+    "timestamp_added": 1788996837.9538536,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-day-jacquem-2026-09-09",
+    "title": "Barranquilla: Kayla Day vs Elsa Jacquemot",
+    "outcome": "Elsa Jacquemot",
+    "side": "BUY",
+    "whale_usd": 1171.5700000000002,
+    "whale_pct": 0.666,
+    "whale_value_at_open": 175785.5036,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788996837.953866,
     "fills": 1
   }
 ]
