@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.24445230050574,
+  "bankroll": 228.44445230050573,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23610,6 +23610,11 @@
       "timestamp": 1788941164.8789067,
       "bankroll": 227.24,
       "event": "won: Flaznorp \u2014 US Open ATP: Ben Shelton vs Carlos Alcaraz"
+    },
+    {
+      "timestamp": 1788941599.3581622,
+      "bankroll": 228.44,
+      "event": "won: ferrariChampions2026 \u2014 W50 Guiyang: Jiaqi Wang vs Yujia Huang"
     }
   ]
 }
