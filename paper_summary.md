@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-08 20:55:32 (hora de Perú)
+Actualizado: 2026-09-08 20:57:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-08 20:55:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.38 en 41 posiciones abiertas (disponible para nuevas apuestas: $15.07)
+**Capital comprometido ahora mismo:** $209.38 en 42 posiciones abiertas (disponible para nuevas apuestas: $10.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Flaznorp | 69 | 25 | 0 | -4.44 USD |
+| Flaznorp | 69 | 25 | 1 | -4.44 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -906,6 +906,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: CA Boca Juniors (-1.5) | São Paulo FC (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Spread: SE Palmeiras (-1.5) | LDU de Quito (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Toronto Blue Jays vs. Athletics: O/U 8.5 | Under (BUY) | 50% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jessica Pegula vs Emma Nava | Jessica Pegula (BUY) | 58% | 5.00 | 23.1% | ⏳ pendiente | — |
@@ -935,4 +936,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Barranquilla: Cadence Brace vs Sara Sorr | Cadence Brace (BUY) | 46% | 5.00 | 75.9% | ❌ perdida | -5.13 |
 |  | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 5star vs TheMongolz (BO3 | TheMongolz (BUY) | 93% | 5.00 | 125.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: TYLOO vs GamerLegion - M | TYLOO (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |

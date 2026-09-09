@@ -116808,5 +116808,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788918856.1387436,
     "fills": 1
+  },
+  {
+    "timestamp": 1788918983,
+    "timestamp_added": 1788918983.795159,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "sud-boc-sao-2026-09-08-spread-home-1pt5",
+    "title": "Spread: CA Boca Juniors (-1.5)",
+    "outcome": "S\u00e3o Paulo FC",
+    "side": "BUY",
+    "whale_usd": 526.33,
+    "whale_pct": 0.144,
+    "whale_value_at_open": 364881.1991,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788918983.7951708,
+    "fills": 1
   }
 ]
