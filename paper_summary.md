@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 16:18:34 (hora de Perú)
+Actualizado: 2026-09-09 16:20:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $203.85
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 16:18:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $142.66 en 29 posiciones abiertas (disponible para nuevas apuestas: $61.19)
+**Capital comprometido ahora mismo:** $147.66 en 30 posiciones abiertas (disponible para nuevas apuestas: $56.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Noprajsk | 6 | 1 | 0 | +8.56 USD |
+| Noprajsk | 6 | 1 | 1 | +8.56 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | ExplosiveNinja | 28 | 16 | 0 | +8.07 USD |
 | Sunshine.Smile | 12 | 6 | 1 | +7.89 USD |
@@ -924,6 +924,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 56.9% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
 | rabbitfoot1 | Sporting CP vs. Galatasaray SK: O/U 4.5 | Under (BUY) | 89% | 5.00 | 36.9% | ✅ ganada | +0.59 |
@@ -953,4 +954,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Minnesota Twins vs. Detroit Tigers: O/U  | Over (BUY) | 52% | 5.00 | 5.6% | ⏳ pendiente | — |
 |  | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 65% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Montreux: Nuria Brancaccio vs Dalma Galf | Nuria Brancaccio (BUY) | 53% | 5.00 | 1.8% | ❌ perdida | -5.12 |
-| 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Counter-Strike: PARIVISION vs FURIA - Ma | FURIA (BUY) | 60% | 5.00 | 18.5% | ✅ ganada | +3.23 |

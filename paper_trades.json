@@ -119812,5 +119812,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788988101.2806232,
     "fills": 5
+  },
+  {
+    "timestamp": 1788988766,
+    "timestamp_added": 1788988766.6159055,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "atp-khachan-blockx-2026-09-09",
+    "title": "US Open ATP: Karen Khachanov vs Alexander Blockx",
+    "outcome": "Karen Khachanov",
+    "side": "BUY",
+    "whale_usd": 214037.763593,
+    "whale_pct": 56.878,
+    "whale_value_at_open": 376309.6032,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "bands1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788988837.7831964,
+    "fills": 8
   }
 ]
