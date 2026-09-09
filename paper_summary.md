@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 17:50:33 (hora de Perú)
+Actualizado: 2026-09-09 17:52:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $215.64
-**Retorno acumulado:** -56.87%
+**Bankroll actual:** $227.35
+**Retorno acumulado:** -54.53%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 17:50:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $187.47 en 38 posiciones abiertas (disponible para nuevas apuestas: $28.17)
+**Capital comprometido ahora mismo:** $182.47 en 37 posiciones abiertas (disponible para nuevas apuestas: $44.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,8 +32,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 56 | 38 | 3 | +24.15 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 55 | 38 | 4 | +18.42 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | pleaseplease123 | 26 | 20 | 1 | +15.98 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| theowalcott | 6 | 4 | 0 | +5.29 USD |
+| theowalcott | 6 | 4 | 1 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -149,18 +149,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 86 | 66 | 3 | -134.85 USD |
-| ferrariChampions2026 | 658 | 414 | 16 | -252.36 USD |
+| ferrariChampions2026 | 659 | 414 | 15 | -246.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4612
-- **Aciertos:** 2899 (62.9%)
+- **Apuestas resueltas:** 4614
+- **Aciertos:** 2901 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,025.38
-- **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $428.15 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,035.38
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $428.42 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2365 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2367 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1383 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 607 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
@@ -905,6 +905,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-9z-mibr-2026-09-09 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja, RevengeRange, mimi121 |
 | cs2-lgc-all-2026-09-09 | , mimi121 |
 | wta-brace-tormo-2026-09-08 | , ferrariChampions2026 |
+| mls-phi-fcc-2026-09-09-phi | Zzzz87, theowalcott |
 | mlb-chc-mil-2026-09-08 | , ferrariChampions2026 |
 | wta-pegula-navarro-2026-09-08 | , Flaznorp, ferrariChampions2026 |
 | mlb-wsh-sd-2026-09-08 | , Flaznorp |
@@ -927,6 +928,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 367.2% | ⏳ pendiente | — |
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -943,7 +945,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 90% | 5.00 | 0.7% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Valerio Aboian vs Andrea Pellegri | Valerio Aboian (BUY) | 45% | 5.00 | 6.7% | ✅ ganada | +5.97 |
 | Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 64% | 5.00 | 119.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: MOUZ vs Klim Sani4 - Game 1 Winn | MOUZ (BUY) | 45% | 5.00 | 50.7% | ⏳ pendiente | — |
 | Antblack | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 44% | 5.00 | 14.3% | ⏳ pendiente | — |
@@ -956,4 +958,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Antblack | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 41% | 5.00 | 57.4% | ❌ perdida | -5.15 |
 | ChayEhc | SSC Napoli vs. Arsenal FC: O/U 2.5 | Under (BUY) | 52% | 5.00 | 35.8% | ✅ ganada | +4.50 |
 | Noprajsk | US Open WTA: Mirra Andreeva vs Coco Gauf | Mirra Andreeva (BUY) | 46% | 5.00 | 197.0% | 💰 vendida anticipada | +1.04 |
-| Noprajsk | US Open ATP: Karen Khachanov vs Alexande | Karen Khachanov (BUY) | 65% | 5.00 | 78.4% | 💰 vendida anticipada | -0.49 |

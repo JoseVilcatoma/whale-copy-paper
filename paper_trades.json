@@ -118841,8 +118841,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -119855,8 +119855,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -120261,5 +120261,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788992996.488287,
     "fills": 1
+  },
+  {
+    "timestamp": 1788994234,
+    "timestamp_added": 1788994234.3742974,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-phi-fcc-2026-09-09-phi",
+    "title": "Will Philadelphia Union win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 141876.928652,
+    "whale_pct": 367.238,
+    "whale_value_at_open": 38633.507,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Zzzz87"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788994360.5633144,
+    "fills": 20
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 215.63783034363274,
+  "bankroll": 227.34550667213514,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24110,6 +24110,16 @@
       "timestamp": 1788994226.4407718,
       "bankroll": 215.64,
       "event": "won:  \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1788994352.2032843,
+      "bankroll": 221.37,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1788994354.8063152,
+      "bankroll": 227.35,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Valerio Aboian vs Andrea Pellegrino"
     }
   ]
 }
