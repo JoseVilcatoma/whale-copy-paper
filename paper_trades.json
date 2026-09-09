@@ -117162,8 +117162,8 @@
     "title": "Counter-Strike: BetBoom Team vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
     "outcome": "BetBoom Team",
     "side": "BUY",
-    "whale_usd": 8545.6124,
-    "whale_pct": 10.547,
+    "whale_usd": 9643.5716,
+    "whale_pct": 11.902,
     "whale_value_at_open": 81027.8632,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -117174,8 +117174,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788927382.20822,
-    "fills": 6
+    "last_fill_at": 1788927392.3142633,
+    "fills": 7
   },
   {
     "timestamp": 1788924700,
@@ -117378,8 +117378,8 @@
     "title": "W50 Guiyang: Sara Saito vs Xinxin Yao",
     "outcome": "Xinxin Yao",
     "side": "BUY",
-    "whale_usd": 554.6786,
-    "whale_pct": 1.206,
+    "whale_usd": 2206.8785999999996,
+    "whale_pct": 4.797,
     "whale_value_at_open": 46001.0955,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -117390,8 +117390,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788925662.2215903,
-    "fills": 1
+    "last_fill_at": 1788927460.190896,
+    "fills": 2
   },
   {
     "timestamp": 1788925669,
