@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 05:18:05 (hora de Perú)
+Actualizado: 2026-09-09 05:20:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.17
@@ -912,7 +912,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Lina Gjorcheska (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Lina Gjorcheska (BUY) | 43% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Mathys Erhard vs Daniil Glinka | Daniil Glinka (BUY) | 52% | 3.23 | 12.8% | ⏳ pendiente | — |
 |  | Cassis: Mathys Erhard vs Daniil Glinka | Mathys Erhard (BUY) | 50% | 5.00 | 31.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Lina Gjorcheska vs Aurora Zan | Aurora Zantedeschi (BUY) | 42% | 3.32 | 12.3% | ⏳ pendiente | — |
