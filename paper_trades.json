@@ -118020,5 +118020,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788942134.1855516,
     "fills": 1
+  },
+  {
+    "timestamp": 1788942286,
+    "timestamp_added": 1788942287.2969751,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-hennem1-serban1-2026-09-09",
+    "title": "W35 Reus: Caijsa Wilda Hennemann vs Isabella Maria Serban",
+    "outcome": "Caijsa Wilda Hennemann",
+    "side": "BUY",
+    "whale_usd": 827.4,
+    "whale_pct": 0.311,
+    "whale_value_at_open": 266420.928,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788942287.296987,
+    "fills": 1
   }
 ]
