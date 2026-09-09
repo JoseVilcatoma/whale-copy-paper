@@ -118214,5 +118214,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788945243.444094,
     "fills": 1
+  },
+  {
+    "timestamp": 1788946876,
+    "timestamp_added": 1788946876.954461,
+    "username": "1l2ihj34li12u34",
+    "wallet": "0xb52e8b3afd9f0f0d502a5a76494b42816d67285c",
+    "slug": "kor-gwa-jej-2026-09-09-jej",
+    "title": "Will Jeju SK FC win on 2026-09-09?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1560.33,
+    "whale_pct": 16.154,
+    "whale_value_at_open": 9659.0473,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788946876.954475,
+    "fills": 1
   }
 ]
