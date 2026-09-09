@@ -120524,8 +120524,8 @@
     "title": "Will Santos FC win on 2026-09-09?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12293.559981999999,
-    "whale_pct": 3.285,
+    "whale_usd": 13830.589982,
+    "whale_pct": 3.695,
     "whale_value_at_open": 374266.3231,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -120536,8 +120536,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788996556.138277,
-    "fills": 2
+    "last_fill_at": 1788996959.7860684,
+    "fills": 3
   },
   {
     "timestamp": 1788996339,
@@ -120633,6 +120633,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788996837.953866,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788996979,
+    "timestamp_added": 1788996979.4794865,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mls-phi-fcc-2026-09-09-spread-home-1pt5",
+    "title": "Spread: Philadelphia Union (-1.5)",
+    "outcome": "FC Cincinnati",
+    "side": "BUY",
+    "whale_usd": 950.903,
+    "whale_pct": 0.235,
+    "whale_value_at_open": 404395.7504,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "theowalcott"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788996979.479499,
     "fills": 1
   }
 ]

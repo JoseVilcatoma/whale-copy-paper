@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:34:24 (hora de Perú)
+Actualizado: 2026-09-09 18:36:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:34:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $25.41)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $20.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -124,7 +124,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Flaznorp | 86 | 33 | 2 | -6.97 USD |
+| Flaznorp | 86 | 33 | 3 | -6.97 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -924,17 +924,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-jeanjea-pareja-2026-09-09 | , Antblack, ferrariChampions2026 |
 | atp-zverev-zandsch-2026-09-09 | , ferrariChampions2026 |
 | wta-quevedo-tormo-2026-09-09 | , ferrariChampions2026 |
-| mls-phi-fcc-2026-09-09-spread-home-1pt5 | , theowalcott |
+| mls-phi-fcc-2026-09-09-spread-home-1pt5 | , Flaznorp, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.3% | ⏳ pendiente | — |
+| Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.7% | ⏳ pendiente | — |
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -959,4 +960,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Kayla Day (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 58% | 5.00 | 1.3% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 67% | 5.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 7.6% | ⏳ pendiente | — |
