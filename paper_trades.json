@@ -117934,8 +117934,8 @@
     "title": "Shanghai: Rio Noguchi vs Omar Jasika",
     "outcome": "Omar Jasika",
     "side": "BUY",
-    "whale_usd": 2949.2174999999997,
-    "whale_pct": 1.137,
+    "whale_usd": 4135.7175,
+    "whale_pct": 1.595,
     "whale_value_at_open": 259324.7779,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -117946,8 +117946,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788941341.1790404,
-    "fills": 1
+    "last_fill_at": 1788942381.9411833,
+    "fills": 2
   },
   {
     "timestamp": 1788941691,
@@ -118030,8 +118030,8 @@
     "title": "W35 Reus: Caijsa Wilda Hennemann vs Isabella Maria Serban",
     "outcome": "Caijsa Wilda Hennemann",
     "side": "BUY",
-    "whale_usd": 827.4,
-    "whale_pct": 0.311,
+    "whale_usd": 1629.6,
+    "whale_pct": 0.612,
     "whale_value_at_open": 266420.928,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -118042,7 +118042,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788942287.296987,
-    "fills": 1
+    "last_fill_at": 1788942322.1878223,
+    "fills": 2
   }
 ]
