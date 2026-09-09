@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 18:52:39 (hora de Perú)
+Actualizado: 2026-09-09 18:54:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $237.88
-**Retorno acumulado:** -52.42%
+**Bankroll actual:** $243.53
+**Retorno acumulado:** -51.29%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 18:52:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.47 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.41)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $26.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,6 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 86 | 33 | 3 | -6.97 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
+| Antblack | 2 | 4 | 0 | -9.24 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 2 | 0 | -10.13 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -134,7 +135,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Antblack | 1 | 4 | 1 | -15.46 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -148,19 +148,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 86 | 66 | 6 | -134.85 USD |
-| ferrariChampions2026 | 662 | 415 | 17 | -240.05 USD |
+|  | 87 | 66 | 5 | -132.68 USD |
+| ferrariChampions2026 | 663 | 416 | 15 | -242.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4622
-- **Aciertos:** 2907 (62.9%)
+- **Apuestas resueltas:** 4626
+- **Aciertos:** 2910 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,075.38
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $429.21 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,095.38
+- **ROI sobre lo apostado:** -1.65%
+- **Comisiones pagadas (taker fee):** $429.63 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -168,8 +168,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2371 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1386 | 68.7% | 67.8% | +0.9 pp |
+| 40-59% | 2373 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1388 | 68.7% | 67.8% | +1.0 pp |
 | 80-94% | 608 | 85.4% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
 
@@ -954,10 +954,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Leolia Jeanjean vs Julieta | Julieta Pareja (BUY) | 52% | 5.00 | 2.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | St. Louis Cardinals vs. San Francisco Gi | San Francisco Giants (BUY) | 86% | 5.00 | 0.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
-|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ⏳ pendiente | — |
+|  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 237.8795296606409,
+  "bankroll": 243.53222940303567,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24160,6 +24160,26 @@
       "timestamp": 1788996441.2733283,
       "bankroll": 237.88,
       "event": "won: ferrariChampions2026 \u2014 Spread: San Diego Padres (-3.5)"
+    },
+    {
+      "timestamp": 1788998014.5221508,
+      "bankroll": 244.1,
+      "event": "won: Antblack \u2014 Barranquilla: Leolia Jeanjean vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1788998015.0103326,
+      "bankroll": 246.48,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Leolia Jeanjean vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1788998016.2523344,
+      "bankroll": 248.65,
+      "event": "won:  \u2014 Barranquilla: Leolia Jeanjean vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1788998016.3524823,
+      "bankroll": 243.53,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Leolia Jeanjean vs Julieta Pareja"
     }
   ]
 }
