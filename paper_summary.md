@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 04:59:39 (hora de Perú)
+Actualizado: 2026-09-09 05:01:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $235.59
-**Retorno acumulado:** -52.88%
+**Bankroll actual:** $238.82
+**Retorno acumulado:** -52.24%
 **Peor caída desde un máximo (drawdown):** 65.46%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 04:59:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.59 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $230.59 en 47 posiciones abiertas (disponible para nuevas apuestas: $8.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,18 +145,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 81 | 64 | 6 | -132.47 USD |
-| ferrariChampions2026 | 640 | 404 | 7 | -240.90 USD |
+| ferrariChampions2026 | 641 | 404 | 6 | -237.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4527
-- **Aciertos:** 2848 (62.9%)
+- **Apuestas resueltas:** 4528
+- **Aciertos:** 2849 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $22,606.64
-- **ROI sobre lo apostado:** -1.69%
-- **Comisiones pagadas (taker fee):** $420.11 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $22,611.64
+- **ROI sobre lo apostado:** -1.67%
+- **Comisiones pagadas (taker fee):** $420.21 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -165,7 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2320 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1359 | 68.7% | 67.8% | +0.9 pp |
+| 60-79% | 1360 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 595 | 85.2% | 86.6% | -1.4 pp |
 | 95-99% (casi seguro) | 253 | 96.8% | 97.3% | -0.5 pp |
 
@@ -919,7 +919,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Pohang Steelers FC vs. Gimcheon Sangmu F | Under (BUY) | 63% | 4.47 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Barcelona (-3.5) | Feyenoord Rotterdam (BUY) | 60% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Pavel Kotov vs Jake Delaney | Pavel Kotov (BUY) | 82% | 5.00 | 45.6% | ✅ ganada | +1.05 |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 17.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Zdenek Kolar vs Martin Krumich | Zdenek Kolar (BUY) | 60% | 5.00 | 17.7% | ✅ ganada | +3.23 |
 | Noprajsk | Counter-Strike: HOTU vs Wildcard - Map 1 | HOTU (BUY) | 88% | 5.00 | 5.2% | 💰 vendida anticipada | +0.65 |
 | Flaznorp | W35 Reus: Caijsa Wilda Hennemann vs Isab | Caijsa Wilda Hennemann (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | FC Barcelona vs. Feyenoord Rotterdam: Bo | Yes (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |

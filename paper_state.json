@@ -1,5 +1,5 @@
 {
-  "bankroll": 235.5858783665661,
+  "bankroll": 238.81921169989943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -23660,6 +23660,11 @@
       "timestamp": 1788947235.6346664,
       "bankroll": 235.59,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Pavel Kotov vs Jake Delaney"
+    },
+    {
+      "timestamp": 1788948029.8193183,
+      "bankroll": 238.82,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Zdenek Kolar vs Martin Krumich"
     }
   ]
 }
