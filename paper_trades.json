@@ -117272,5 +117272,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788924899.387031,
     "fills": 1
+  },
+  {
+    "timestamp": 1788925238,
+    "timestamp_added": 1788925239.1645973,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "elc-cha-qpr-2026-09-09-total-1pt5",
+    "title": "Charlton Athletic FC vs. Queens Park Rangers FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 586.92,
+    "whale_pct": 0.195,
+    "whale_value_at_open": 301130.4575,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788925239.164618,
+    "fills": 1
   }
 ]
