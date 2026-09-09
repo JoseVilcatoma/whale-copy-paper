@@ -120211,5 +120211,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788992792.714894,
     "fills": 1
+  },
+  {
+    "timestamp": 1788992964,
+    "timestamp_added": 1788992964.813214,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-quevedo-tormo-2026-09-09",
+    "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "whale_usd": 3215.644286,
+    "whale_pct": 1.08,
+    "whale_value_at_open": 297614.3355,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788992964.8132274,
+    "fills": 1
   }
 ]
