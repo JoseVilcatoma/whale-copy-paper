@@ -119886,5 +119886,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788989797.5683913,
     "fills": 1
+  },
+  {
+    "timestamp": 1788990379,
+    "timestamp_added": 1788990379.7755978,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zverev-zandsch-2026-09-09",
+    "title": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 26360.824895,
+    "whale_pct": 7.555,
+    "whale_value_at_open": 348901.7573,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788990392.7595031,
+    "fills": 2
   }
 ]
