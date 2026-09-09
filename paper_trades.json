@@ -117571,5 +117571,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788928737.716022,
     "fills": 1
+  },
+  {
+    "timestamp": 1788929795,
+    "timestamp_added": 1788929796.0362937,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shelton-alcaraz-2026-09-08",
+    "title": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "whale_usd": 1484.156,
+    "whale_pct": 0.993,
+    "whale_value_at_open": 149501.9873,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Flaznorp",
+      "martingaleking"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788929796.0363061,
+    "fills": 1
   }
 ]
