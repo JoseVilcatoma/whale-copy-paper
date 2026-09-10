@@ -121355,5 +121355,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789010838.6545453,
     "fills": 1
+  },
+  {
+    "timestamp": 1789011190,
+    "timestamp_added": 1789011190.5813925,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ast10-5s-2026-09-10",
+    "title": "Counter-Strike: Astralis vs 5star (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "whale_usd": 1001.0,
+    "whale_pct": 0.965,
+    "whale_value_at_open": 103760.8296,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789011190.5814073,
+    "fills": 1
   }
 ]
