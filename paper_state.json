@@ -1,5 +1,5 @@
 {
-  "bankroll": 215.36390046394862,
+  "bankroll": 216.27628141632957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24735,6 +24735,11 @@
       "timestamp": 1789054220.0189688,
       "bankroll": 215.36,
       "event": "won: Flaznorp \u2014 M25 Gijon: Xavi Palomar vs Anas Mazdrashki"
+    },
+    {
+      "timestamp": 1789055715.1863346,
+      "bankroll": 216.28,
+      "event": "won:  \u2014 Counter-Strike: G2 vs 5star - Map 2 Winner"
     }
   ]
 }
