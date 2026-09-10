@@ -124850,8 +124850,8 @@
     "title": "Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 1643.2630479999998,
-    "whale_pct": 1.18,
+    "whale_usd": 10134.623048000001,
+    "whale_pct": 7.277,
     "whale_value_at_open": 139274.8256,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -124864,8 +124864,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789079609.661273,
-    "fills": 2
+    "last_fill_at": 1789080112.0526774,
+    "fills": 3
   },
   {
     "timestamp": 1789079209,
@@ -124889,6 +124889,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789079209.9089472,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789080052,
+    "timestamp_added": 1789080052.893936,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bun-uni-s04-2026-09-11-total-3pt5",
+    "title": "1. FC Union Berlin vs. FC Schalke 04: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1034.0001,
+    "whale_pct": 1.031,
+    "whale_value_at_open": 100286.9943,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789080052.8939435,
     "fills": 1
   }
 ]
