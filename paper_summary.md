@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 01:07:41 (hora de Perú)
+Actualizado: 2026-09-10 01:09:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $217.55
-**Retorno acumulado:** -56.49%
+**Bankroll actual:** $223.53
+**Retorno acumulado:** -55.29%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 01:07:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.60 en 14 posiciones abiertas (disponible para nuevas apuestas: $147.95)
+**Capital comprometido ahora mismo:** $69.60 en 14 posiciones abiertas (disponible para nuevas apuestas: $153.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+|  | 30 | 25 | 0 | +16.66 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 83 | 51 | 1 | +14.89 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -43,7 +44,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 7 | 1 | 0 | +11.28 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
-|  | 29 | 25 | 1 | +10.69 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 679 | 428 | 3 | -259.36 USD |
+| ferrariChampions2026 | 679 | 428 | 4 | -259.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4694
-- **Aciertos:** 2950 (62.8%)
+- **Apuestas resueltas:** 4695
+- **Aciertos:** 2951 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,432.23
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $435.94 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,437.23
+- **ROI sobre lo apostado:** -1.71%
+- **Comisiones pagadas (taker fee):** $436.08 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2408 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 2409 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1410 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
@@ -940,13 +940,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Koki Matsuda (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: AS Roma (-2.5) | Fenerbahçe SK (BUY) | 91% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: AS Roma O/U 1 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 94% | 5.00 | 15.5% | ⏳ pendiente | — |
 |  | SK Slavia Praha vs. Racing Club de Lens: | Over (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
+|  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ✅ ganada | +5.97 |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ✅ ganada | +5.29 |
@@ -969,4 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 2.5% | ✅ ganada | +2.97 |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ✅ ganada | +3.52 |
-| vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ✅ ganada | +3.82 |

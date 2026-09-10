@@ -1,5 +1,5 @@
 {
-  "bankroll": 217.55287466429178,
+  "bankroll": 223.5259857754029,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24520,6 +24520,11 @@
       "timestamp": 1789019892.7317035,
       "bankroll": 217.55,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Alliance vs TYLOO (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1789020520.0270524,
+      "bankroll": 223.53,
+      "event": "won:  \u2014 M15 Bali: Hayden Jones vs M Rifqi Fitriadi"
     }
   ]
 }
