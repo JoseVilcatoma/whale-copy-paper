@@ -123559,8 +123559,8 @@
     "title": "Texas Rangers vs. Seattle Mariners: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4115.2228000000005,
-    "whale_pct": 1.993,
+    "whale_usd": 6985.087200000001,
+    "whale_pct": 3.383,
     "whale_value_at_open": 206451.6332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -123571,8 +123571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058155.3578136,
-    "fills": 1
+    "last_fill_at": 1789074832.6001475,
+    "fills": 3
   },
   {
     "timestamp": 1789058351,
@@ -123777,8 +123777,8 @@
     "title": "Texas Rangers vs. Seattle Mariners",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 57320.894799999995,
-    "whale_pct": 23.363,
+    "whale_usd": 58017.894799999995,
+    "whale_pct": 23.647,
     "whale_value_at_open": 245350.6895,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -123789,8 +123789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789072915.0582693,
-    "fills": 12
+    "last_fill_at": 1789074777.8041954,
+    "fills": 13
   },
   {
     "timestamp": 1789063461,
@@ -124618,6 +124618,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789074608.9714148,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789074807,
+    "timestamp_added": 1789074808.5319817,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-cws-2026-09-10",
+    "title": "Pittsburgh Pirates vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 5355.135,
+    "whale_pct": 2.666,
+    "whale_value_at_open": 200887.9936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789074808.5319905,
     "fills": 1
   }
 ]
