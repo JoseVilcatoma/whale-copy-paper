@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:03:17 (hora de Perú)
+Actualizado: 2026-09-10 14:05:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $236.46
@@ -965,10 +965,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 7.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 10.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 13.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 24.2% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | Jsram | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 55% | 5.00 | 2.7% | ✅ ganada | +3.98 |
