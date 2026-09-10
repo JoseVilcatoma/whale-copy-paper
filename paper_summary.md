@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 20:59:28 (hora de Perú)
+Actualizado: 2026-09-09 21:01:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.36
-**Retorno acumulado:** -52.73%
+**Bankroll actual:** $236.40
+**Retorno acumulado:** -52.72%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 20:59:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $196.64 en 40 posiciones abiertas (disponible para nuevas apuestas: $39.72)
+**Capital comprometido ahora mismo:** $191.64 en 39 posiciones abiertas (disponible para nuevas apuestas: $44.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
-| Flaznorp | 87 | 33 | 2 | -5.61 USD |
+| Flaznorp | 88 | 33 | 1 | -5.56 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
@@ -154,12 +154,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4643
-- **Aciertos:** 2920 (62.9%)
+- **Apuestas resueltas:** 4644
+- **Aciertos:** 2921 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,180.19
-- **ROI sobre lo apostado:** -1.68%
+- **Total apostado (suma de stakes):** $23,185.19
+- **ROI sobre lo apostado:** -1.67%
 - **Comisiones pagadas (taker fee):** $431.29 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2383 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1393 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 609 | 85.4% | 86.6% | -1.2 pp |
-| 95-99% (casi seguro) | 258 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 259 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -954,7 +954,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
-| Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.7% | ✅ ganada | +1.36 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.35521418854447,
+  "bankroll": 236.4027192390495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24265,6 +24265,11 @@
       "timestamp": 1789005501.9892905,
       "bankroll": 236.36,
       "event": "won: Flaznorp \u2014 Will Santos FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005622.8030477,
+      "bankroll": 236.4,
+      "event": "won: Flaznorp \u2014 Will CA Mineiro win on 2026-09-09?"
     }
   ]
 }
