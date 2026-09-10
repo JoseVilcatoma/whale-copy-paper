@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.7868347414466,
+  "bankroll": 241.1675213086108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24560,6 +24560,11 @@
       "timestamp": 1789033340.6654882,
       "bankroll": 238.79,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Max Basing vs Mert Alkaya"
+    },
+    {
+      "timestamp": 1789036560.4441042,
+      "bankroll": 241.17,
+      "event": "won: Noprajsk \u2014 Counter-Strike: Legacy vs FURIA - Map 1 Winner"
     }
   ]
 }

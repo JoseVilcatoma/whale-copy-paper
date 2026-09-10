@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 05:35:26 (hora de Perú)
+Actualizado: 2026-09-10 05:37:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $238.79
-**Retorno acumulado:** -52.24%
+**Bankroll actual:** $241.17
+**Retorno acumulado:** -51.77%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 05:35:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $104.19)
+**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $106.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,10 +39,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | ExplosiveNinja | 29 | 16 | 1 | +14.29 USD |
+| Noprajsk | 8 | 1 | 1 | +13.66 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| Noprajsk | 7 | 1 | 2 | +11.28 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 683 | 428 | 13 | -251.70 USD |
+| ferrariChampions2026 | 683 | 428 | 14 | -251.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4701
-- **Aciertos:** 2957 (62.9%)
+- **Apuestas resueltas:** 4702
+- **Aciertos:** 2958 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,467.23
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $436.55 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,472.23
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $436.63 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2411 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1413 | 68.5% | 67.8% | +0.7 pp |
+| 60-79% | 1414 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 617 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
@@ -941,6 +941,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 97% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Rositsa Dencheva (BUY) | 47% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 81% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -948,7 +949,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 67% | 5.00 | 118.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Francesca Jones (BUY) | 64% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Billy Harris (BUY) | 70% | 5.00 | 4.0% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ✅ ganada | +2.38 |
 | vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
@@ -970,4 +971,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ✅ ganada | +5.97 |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
-| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
