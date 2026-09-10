@@ -122439,8 +122439,8 @@
     "title": "Cassis: Sascha Gueymard-Wayenburg vs Mark Lajal",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 16708.104845,
-    "whale_pct": 7.304,
+    "whale_usd": 21316.159445,
+    "whale_pct": 9.319,
     "whale_value_at_open": 228749.7803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -122451,8 +122451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789047113.1698358,
-    "fills": 4
+    "last_fill_at": 1789047336.2114146,
+    "fills": 5
   },
   {
     "timestamp": 1789043995,
@@ -122511,8 +122511,8 @@
     "title": "Antalya 4: Maria Lourdes Carle vs Eva Vedder",
     "outcome": "Maria Lourdes Carle",
     "side": "BUY",
-    "whale_usd": 4625.394789,
-    "whale_pct": 2.036,
+    "whale_usd": 15455.525623000001,
+    "whale_pct": 6.804,
     "whale_value_at_open": 227165.6299,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -122523,8 +122523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789046515.6474752,
-    "fills": 4
+    "last_fill_at": 1789047324.4047778,
+    "fills": 5
   },
   {
     "timestamp": 1789045021,
@@ -122792,6 +122792,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789047301.3193505,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789047385,
+    "timestamp_added": 1789047385.8527129,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-silv-monteir-2026-09-10",
+    "title": "Tulln: Joao Lucas Da Silva vs Thiago Monteiro",
+    "outcome": "Joao Lucas Da Silva",
+    "side": "BUY",
+    "whale_usd": 1128.39,
+    "whale_pct": 0.832,
+    "whale_value_at_open": 135543.5849,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789047385.852722,
     "fills": 1
   }
 ]
