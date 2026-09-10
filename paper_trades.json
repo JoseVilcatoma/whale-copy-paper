@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 30143.925777,
-    "whale_pct": 16.508,
+    "whale_usd": 30753.603479,
+    "whale_pct": 16.842,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789055243.6062126,
-    "fills": 9
+    "last_fill_at": 1789056253.3628962,
+    "fills": 10
   },
   {
     "timestamp": 1789050037,
@@ -123461,8 +123461,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 23500.0,
-    "whale_pct": 459172.708,
+    "whale_usd": 28100.0,
+    "whale_pct": 549053.323,
     "whale_value_at_open": 5.1179,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -123475,7 +123475,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789055932.5402625,
-    "fills": 1
+    "last_fill_at": 1789056311.8541427,
+    "fills": 4
   }
 ]
