@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:48:33 (hora de Perú)
+Actualizado: 2026-09-09 22:50:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $214.23
-**Retorno acumulado:** -57.15%
+**Bankroll actual:** $224.39
+**Retorno acumulado:** -55.12%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 22:48:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $117.26 en 24 posiciones abiertas (disponible para nuevas apuestas: $96.97)
+**Capital comprometido ahora mismo:** $107.26 en 22 posiciones abiertas (disponible para nuevas apuestas: $117.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 64 | 41 | 2 | +38.26 USD |
+| wr0ngw4yb3tt0r | 65 | 41 | 1 | +43.55 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 93 | 68 | 5 | -129.86 USD |
-| ferrariChampions2026 | 674 | 425 | 9 | -263.27 USD |
+| ferrariChampions2026 | 675 | 425 | 8 | -258.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4676
-- **Aciertos:** 2939 (62.9%)
+- **Apuestas resueltas:** 4678
+- **Aciertos:** 2941 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,344.57
-- **ROI sobre lo apostado:** -1.76%
-- **Comisiones pagadas (taker fee):** $434.18 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,354.57
+- **ROI sobre lo apostado:** -1.71%
+- **Comisiones pagadas (taker fee):** $434.44 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2397 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2399 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1405 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 614 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
@@ -947,7 +947,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 17.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ❌ perdida | -5.10 |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
