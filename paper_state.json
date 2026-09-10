@@ -1,5 +1,5 @@
 {
-  "bankroll": 237.6100421024711,
+  "bankroll": 243.11533997481155,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25110,6 +25110,11 @@
       "timestamp": 1789079016.8527024,
       "bankroll": 237.61,
       "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1789081406.778172,
+      "bankroll": 243.12,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners: O/U 8.5"
     }
   ]
 }
