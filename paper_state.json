@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.60328429150562,
+  "bankroll": 227.10858216384605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24450,6 +24450,11 @@
       "timestamp": 1789014850.5253808,
       "bankroll": 221.6,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Nadia Podoroska vs Anna Blinkova"
+    },
+    {
+      "timestamp": 1789015483.9220247,
+      "bankroll": 227.11,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP (Doubles): Bolelli/Vavassori vs Harrison/Skupski"
     }
   ]
 }
