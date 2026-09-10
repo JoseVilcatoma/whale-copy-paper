@@ -123657,8 +123657,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 59098.59478000001,
-    "whale_pct": 24.215,
+    "whale_usd": 67325.79478000001,
+    "whale_pct": 27.586,
     "whale_value_at_open": 244054.6294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -123669,8 +123669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067106.894124,
-    "fills": 19
+    "last_fill_at": 1789067820.8970408,
+    "fills": 24
   },
   {
     "timestamp": 1789062296,
@@ -124091,5 +124091,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789067664.0667691,
     "fills": 3
+  },
+  {
+    "timestamp": 1789067790,
+    "timestamp_added": 1789067791.4732177,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "ucl-mnu-sf-2026-09-10-btts",
+    "title": "Manchester United FC vs. Sabah FK: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2060.5299990000003,
+    "whale_pct": 4.222,
+    "whale_value_at_open": 48805.5252,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789067811.7389338,
+    "fills": 2
   }
 ]
