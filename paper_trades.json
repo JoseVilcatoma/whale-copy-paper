@@ -122221,8 +122221,8 @@
     "title": "Cassis: Moez Echargui vs Billy Harris",
     "outcome": "Moez Echargui",
     "side": "BUY",
-    "whale_usd": 13378.235305999999,
-    "whale_pct": 11.164,
+    "whale_usd": 18031.035305999998,
+    "whale_pct": 15.047,
     "whale_value_at_open": 119832.9208,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -122233,8 +122233,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789037777.8416219,
-    "fills": 4
+    "last_fill_at": 1789038575.0050888,
+    "fills": 5
   },
   {
     "timestamp": 1789038059,

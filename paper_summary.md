@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 06:08:28 (hora de Perú)
+Actualizado: 2026-09-10 06:10:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $231.07
@@ -944,7 +944,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - M | MIBR (BUY) | 46% | 5.00 | 939.6% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team (BO | MIBR (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 11.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 15.0% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 97% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Rositsa Dencheva (BUY) | 47% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 81% | 5.00 | 5.5% | ⏳ pendiente | — |
