@@ -121133,5 +121133,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789006658.7720664,
     "fills": 1
+  },
+  {
+    "timestamp": 1789006897,
+    "timestamp_added": 1789006898.0016384,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-prv-mgc-2026-09-10",
+    "title": "Counter-Strike: PARIVISION vs magic (BO3) - FISSURE PLAYGROUND Group B",
+    "outcome": "magic",
+    "side": "BUY",
+    "whale_usd": 5647.499600000001,
+    "whale_pct": 9.345,
+    "whale_value_at_open": 60435.6836,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789006898.461656,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:20:12 (hora de Perú)
+Actualizado: 2026-09-09 21:22:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $216.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 21:20:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $136.64 en 28 posiciones abiertas (disponible para nuevas apuestas: $79.55)
+**Capital comprometido ahora mismo:** $141.64 en 29 posiciones abiertas (disponible para nuevas apuestas: $74.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| ExplosiveNinja | 28 | 16 | 0 | +8.07 USD |
+| ExplosiveNinja | 28 | 16 | 1 | +8.07 USD |
 | Sunshine.Smile | 12 | 6 | 1 | +7.89 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -936,6 +936,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 9.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -965,4 +966,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
-|  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ❌ perdida | -5.11 |
