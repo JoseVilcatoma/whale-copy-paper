@@ -122905,8 +122905,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 67567.8352,
-    "whale_pct": 30.947,
+    "whale_usd": 68934.489746,
+    "whale_pct": 31.573,
     "whale_value_at_open": 218333.9521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -122917,8 +122917,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789062131.8634002,
-    "fills": 17
+    "last_fill_at": 1789062326.1953595,
+    "fills": 18
   },
   {
     "timestamp": 1789049477,
@@ -123671,5 +123671,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789061220.333404,
     "fills": 2
+  },
+  {
+    "timestamp": 1789062296,
+    "timestamp_added": 1789062296.4471014,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fen-rom-2026-09-10-fen",
+    "title": "Will Fenerbah\u00e7e SK win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 532.0902,
+    "whale_pct": 0.227,
+    "whale_value_at_open": 234581.5077,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789062296.4471147,
+    "fills": 1
   }
 ]

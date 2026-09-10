@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 12:43:56 (hora de Perú)
+Actualizado: 2026-09-10 12:46:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $234.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 12:43:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $198.25 en 40 posiciones abiertas (disponible para nuevas apuestas: $36.73)
+**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $31.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 699 | 437 | 17 | -255.34 USD |
+| ferrariChampions2026 | 699 | 437 | 18 | -255.34 USD |
 
 ## Análisis general
 
@@ -949,6 +949,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -978,4 +979,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 25.3% | ✅ ganada | +1.69 |
-|  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
