@@ -122038,5 +122038,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789032253.156778,
     "fills": 5
+  },
+  {
+    "timestamp": 1789032552,
+    "timestamp_added": 1789032553.314239,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-echargu-harris-2026-09-09",
+    "title": "Cassis: Moez Echargui vs Billy Harris",
+    "outcome": "Billy Harris",
+    "side": "BUY",
+    "whale_usd": 4013.0399999999995,
+    "whale_pct": 2.325,
+    "whale_value_at_open": 172597.5067,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789032553.3142507,
+    "fills": 1
   }
 ]
