@@ -124370,5 +124370,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789070192.9694576,
     "fills": 6
+  },
+  {
+    "timestamp": 1789070682,
+    "timestamp_added": 1789070682.4170828,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-sea-2026-09-10-spread-home-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 7384.889999999999,
+    "whale_pct": 3.347,
+    "whale_value_at_open": 220661.4504,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789070682.4170926,
+    "fills": 1
   }
 ]
