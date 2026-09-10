@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 09:52:45 (hora de Perú)
+Actualizado: 2026-09-10 09:54:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $223.50
-**Retorno acumulado:** -55.30%
+**Bankroll actual:** $218.35
+**Retorno acumulado:** -56.33%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 09:52:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $13.90)
+**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $13.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,7 +96,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
-| Noprajsk | 8 | 4 | 1 | -1.71 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -124,6 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -154,14 +154,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4730
+- **Apuestas resueltas:** 4731
 - **Aciertos:** 2975 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,612.23
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $438.89 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,617.23
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $439.04 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2421 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 2422 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1423 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 624 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 262 | 96.9% | 97.3% | -0.4 pp |
@@ -948,7 +948,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -963,14 +963,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
-|  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 290.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 14.9% | ⏳ pendiente | — |
+|  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 392.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 17.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 120.9% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 120.9% | ❌ perdida | -5.15 |
 |  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ✅ ganada | +0.15 |
 |  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ✅ ganada | +0.30 |

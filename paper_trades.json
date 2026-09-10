@@ -122714,8 +122714,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -122855,8 +122855,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Stefano Travaglia",
     "side": "BUY",
-    "whale_usd": 31467.765684,
-    "whale_pct": 14.874,
+    "whale_usd": 37632.725684000005,
+    "whale_pct": 17.788,
     "whale_value_at_open": 211566.7181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -122867,8 +122867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789051611.7334142,
-    "fills": 13
+    "last_fill_at": 1789051977.3421628,
+    "fills": 14
   },
   {
     "timestamp": 1789048830,
@@ -122879,8 +122879,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Enrico Dalla Valle",
     "side": "BUY",
-    "whale_usd": 28696.136099000003,
-    "whale_pct": 290.842,
+    "whale_usd": 38696.136099,
+    "whale_pct": 392.195,
     "whale_value_at_open": 9866.5554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -122893,8 +122893,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789049488.5515985,
-    "fills": 3
+    "last_fill_at": 1789051977.058391,
+    "fills": 4
   },
   {
     "timestamp": 1789049068,
@@ -123243,8 +123243,8 @@
     "title": "Dubai United FC vs. Shabab Al Ahli Dubai: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3051.793998,
-    "whale_pct": 0.747,
+    "whale_usd": 6259.3751680000005,
+    "whale_pct": 1.531,
     "whale_value_at_open": 408708.8304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -123255,8 +123255,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789051934.9158611,
-    "fills": 2
+    "last_fill_at": 1789052084.50229,
+    "fills": 7
   },
   {
     "timestamp": 1789051953,

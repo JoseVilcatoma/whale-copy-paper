@@ -1,5 +1,5 @@
 {
-  "bankroll": 223.5001344890597,
+  "bankroll": 218.3521344890597,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24705,6 +24705,11 @@
       "timestamp": 1789051520.5006073,
       "bankroll": 223.5,
       "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Ane Mintegi Del Olmo vs Alicia Herrero Linana"
+    },
+    {
+      "timestamp": 1789052084.7398915,
+      "bankroll": 218.35,
+      "event": "lost: Noprajsk \u2014 Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B"
     }
   ]
 }
