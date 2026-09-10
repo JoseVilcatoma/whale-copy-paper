@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 13:04:48 (hora de Perú)
+Actualizado: 2026-09-10 13:06:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 13:04:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $213.25 en 43 posiciones abiertas (disponible para nuevas apuestas: $25.94)
+**Capital comprometido ahora mismo:** $218.25 en 44 posiciones abiertas (disponible para nuevas apuestas: $20.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 699 | 437 | 23 | -255.34 USD |
+| ferrariChampions2026 | 699 | 437 | 24 | -255.34 USD |
 
 ## Análisis general
 
@@ -949,6 +949,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -978,4 +979,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ✅ ganada | +1.97 |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ✅ ganada | +2.17 |
-|  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
