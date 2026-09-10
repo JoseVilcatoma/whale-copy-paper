@@ -123729,8 +123729,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Max Alcala Gurri",
     "side": "BUY",
-    "whale_usd": 8572.3072,
-    "whale_pct": 3.565,
+    "whale_usd": 9937.497372,
+    "whale_pct": 4.133,
     "whale_value_at_open": 240447.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -123741,8 +123741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789063412.0839658,
-    "fills": 2
+    "last_fill_at": 1789063756.110425,
+    "fills": 3
   },
   {
     "timestamp": 1789063057,
@@ -123838,6 +123838,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789063570.1319954,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789063763,
+    "timestamp_added": 1789063763.5093517,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-trevisa-marista-2026-09-10",
+    "title": "Montreux: Martina Trevisan vs Guiomar Maristany",
+    "outcome": "Martina Trevisan",
+    "side": "BUY",
+    "whale_usd": 983.4594000000001,
+    "whale_pct": 0.382,
+    "whale_value_at_open": 257556.6925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789063763.5093644,
     "fills": 1
   }
 ]
