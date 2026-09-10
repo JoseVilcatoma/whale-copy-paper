@@ -1,5 +1,5 @@
 {
-  "bankroll": 220.17339360896074,
+  "bankroll": 223.99196503753217,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24340,6 +24340,11 @@
       "timestamp": 1789007384.9154572,
       "bankroll": 220.17,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Emiliana Arango vs Carol Young Suh Lee"
+    },
+    {
+      "timestamp": 1789008013.8998282,
+      "bankroll": 223.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: New York Mets (-2.5)"
     }
   ]
 }
