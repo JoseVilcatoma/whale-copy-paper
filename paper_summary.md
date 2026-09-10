@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 09:50:44 (hora de Perú)
+Actualizado: 2026-09-10 09:52:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $223.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 09:50:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $18.90)
+**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $13.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 97 | 71 | 10 | -138.75 USD |
-| ferrariChampions2026 | 695 | 435 | 18 | -255.64 USD |
+| ferrariChampions2026 | 695 | 435 | 19 | -255.64 USD |
 
 ## Análisis general
 
@@ -935,6 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-shi1-huang2-2026-09-10 | , ferrariChampions2026 |
 | atp-miyoshi-peliwo-2026-09-08 | , ferrariChampions2026 |
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
+| ucl-slp-rcl-2026-09-10-total-2pt5 | , ferrariChampions2026 |
 | cs2-mibr-bb3-2026-09-10 | Noprajsk, vjnn |
 | atp-cui-zhou-2026-09-09 | , Flaznorp, ferrariChampions2026 |
 | atp-perot-bertran-2026-09-10 | , ferrariChampions2026 |
@@ -946,7 +947,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
+| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -957,7 +959,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 10.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 12.3% | ⏳ pendiente | — |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -975,4 +977,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-3.5) | FC Bayern München (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Ane Mintegi Del Olmo vs Alici | Ane Mintegi Del Olmo (BUY) | 50% | 5.00 | 1.6% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | W35 Reus: Jessica Pieri vs Marianna Argy | Marianna Argyrokastriti (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
