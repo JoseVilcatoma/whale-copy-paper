@@ -121239,8 +121239,8 @@
     "title": "Patriots vs. Seahawks",
     "outcome": "Seahawks",
     "side": "BUY",
-    "whale_usd": 2877.25376,
-    "whale_pct": 1.015,
+    "whale_usd": 16071.286959999998,
+    "whale_pct": 5.671,
     "whale_value_at_open": 283374.2499,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -121253,8 +121253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789008820.4018898,
-    "fills": 3
+    "last_fill_at": 1789009995.855078,
+    "fills": 8
   },
   {
     "timestamp": 1789009797,
