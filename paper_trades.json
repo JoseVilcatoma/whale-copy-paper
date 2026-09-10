@@ -123427,5 +123427,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789053050.8998253,
     "fills": 2
+  },
+  {
+    "timestamp": 1789054337,
+    "timestamp_added": 1789054338.1423116,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "uzb1-xor-sog-2026-09-10-sog",
+    "title": "Will PFC Sogdiana win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 651.5907,
+    "whale_pct": 0.128,
+    "whale_value_at_open": 510136.0371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789054338.1423218,
+    "fills": 1
   }
 ]
