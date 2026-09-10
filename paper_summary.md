@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:09:35 (hora de Perú)
+Actualizado: 2026-09-09 22:11:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $220.80
-**Retorno acumulado:** -55.84%
+**Bankroll actual:** $224.78
+**Retorno acumulado:** -55.04%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 22:09:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $106.64 en 22 posiciones abiertas (disponible para nuevas apuestas: $114.16)
+**Capital comprometido ahora mismo:** $106.64 en 22 posiciones abiertas (disponible para nuevas apuestas: $118.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 92 | 68 | 5 | -133.38 USD |
-| ferrariChampions2026 | 672 | 422 | 6 | -255.27 USD |
+| ferrariChampions2026 | 673 | 422 | 6 | -251.29 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4668
-- **Aciertos:** 2935 (62.9%)
+- **Apuestas resueltas:** 4669
+- **Aciertos:** 2936 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,305.19
-- **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $433.40 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,310.19
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $433.52 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2393 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2394 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1401 | 68.5% | 67.8% | +0.8 pp |
 | 80-94% | 614 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
@@ -928,6 +928,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zverev-zandsch-2026-09-09 | , ferrariChampions2026 |
 | wta-quevedo-tormo-2026-09-09 | , ferrariChampions2026 |
 | mlb-hou-phi-2026-09-09 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-cin-lad-2026-09-09-total-8pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mls-phi-fcc-2026-09-09-spread-home-1pt5 | , Flaznorp, theowalcott |
 | mlb-chc-mil-2026-09-09 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 | nfl-ne-sea-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
@@ -936,6 +937,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -958,11 +960,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bands1 | Spread: Seahawks (-2.5) | Patriots (BUY) | 44% | 5.00 | 25.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 5.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 5.1% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
 | Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
-| Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.7% | ✅ ganada | +1.36 |
