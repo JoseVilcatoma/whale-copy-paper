@@ -123729,8 +123729,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Max Alcala Gurri",
     "side": "BUY",
-    "whale_usd": 26818.329551,
-    "whale_pct": 11.154,
+    "whale_usd": 28762.421151000002,
+    "whale_pct": 11.962,
     "whale_value_at_open": 240447.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -123741,8 +123741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067529.9244943,
-    "fills": 15
+    "last_fill_at": 1789067919.8459153,
+    "fills": 17
   },
   {
     "timestamp": 1789063057,
@@ -123997,8 +123997,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 15863.0798,
-    "whale_pct": 8.474,
+    "whale_usd": 17364.3698,
+    "whale_pct": 9.276,
     "whale_value_at_open": 187202.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -124012,8 +124012,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067644.2667937,
-    "fills": 5
+    "last_fill_at": 1789067919.2535522,
+    "fills": 6
   },
   {
     "timestamp": 1789066883,
@@ -124115,5 +124115,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789067811.7389338,
     "fills": 2
+  },
+  {
+    "timestamp": 1789067942,
+    "timestamp_added": 1789067943.8676171,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-passaro-varilla-2026-09-10",
+    "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "whale_usd": 15000.0,
+    "whale_pct": 26.149,
+    "whale_value_at_open": 57363.5639,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789067943.8676288,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789067943,
+    "timestamp_added": 1789067944.5013237,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-passaro-varilla-2026-09-10",
+    "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
+    "outcome": "Francesco Passaro",
+    "side": "BUY",
+    "whale_usd": 2849.84,
+    "whale_pct": 1.597,
+    "whale_value_at_open": 178448.8973,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789067944.501337,
+    "fills": 1
   }
 ]
