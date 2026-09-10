@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:55:23 (hora de Perú)
+Actualizado: 2026-09-10 14:57:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.32
@@ -956,7 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 6.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
 |  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
@@ -964,7 +964,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 2.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 6.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 4.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 55.6% | ⏳ pendiente | — |
 |  | Manchester United FC vs. Sabah FK: Both  | No (BUY) | 62% | 5.00 | 4.2% | ⏳ pendiente | — |
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ⏳ pendiente | — |

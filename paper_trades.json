@@ -124149,8 +124149,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Francesco Passaro",
     "side": "BUY",
-    "whale_usd": 7268.780000000001,
-    "whale_pct": 4.073,
+    "whale_usd": 8651.445600000001,
+    "whale_pct": 4.848,
     "whale_value_at_open": 178448.8973,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -124163,8 +124163,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789069195.158838,
-    "fills": 3
+    "last_fill_at": 1789070166.393882,
+    "fills": 5
   },
   {
     "timestamp": 1789068038,
@@ -124354,8 +124354,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Despina Papamichail",
     "side": "BUY",
-    "whale_usd": 13602.341726999999,
-    "whale_pct": 6.394,
+    "whale_usd": 15131.640298999999,
+    "whale_pct": 7.113,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 3.72,
     "odds_at_bet": 54,
@@ -124368,7 +124368,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789070109.8931644,
-    "fills": 5
+    "last_fill_at": 1789070192.9694576,
+    "fills": 6
   }
 ]
