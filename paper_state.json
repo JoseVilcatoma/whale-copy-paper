@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.90098442954599,
+  "bankroll": 220.60733737072246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24610,6 +24610,16 @@
       "timestamp": 1789043127.8998,
       "bankroll": 224.9,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Francesca Jones vs Rositsa Dencheva"
+    },
+    {
+      "timestamp": 1789044384.69163,
+      "bankroll": 219.76,
+      "event": "lost: ferrariChampions2026 \u2014 Seville: Genaro Alberto Olivieri vs Tiago Pereira"
+    },
+    {
+      "timestamp": 1789044386.58371,
+      "bankroll": 220.61,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Genaro Alberto Olivieri vs Tiago Pereira"
     }
   ]
 }
