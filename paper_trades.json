@@ -120934,5 +120934,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789002455.5127475,
     "fills": 5
+  },
+  {
+    "timestamp": 1789004213,
+    "timestamp_added": 1789004213.9148176,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mls-laf-nyr-2026-09-09-spread-home-1pt5",
+    "title": "Spread: Los Angeles FC (-1.5)",
+    "outcome": "New York Red Bulls",
+    "side": "BUY",
+    "whale_usd": 1666.0800000000002,
+    "whale_pct": 1.39,
+    "whale_value_at_open": 119858.6436,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789004213.9148304,
+    "fills": 1
   }
 ]

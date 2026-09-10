@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 20:36:44 (hora de Perú)
+Actualizado: 2026-09-09 20:38:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $242.35
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 20:36:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $231.85 en 47 posiciones abiertas (disponible para nuevas apuestas: $10.50)
+**Capital comprometido ahora mismo:** $236.85 en 48 posiciones abiertas (disponible para nuevas apuestas: $5.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 87 | 66 | 6 | -132.68 USD |
+|  | 87 | 66 | 7 | -132.68 USD |
 | ferrariChampions2026 | 664 | 418 | 16 | -249.47 USD |
 
 ## Análisis general
@@ -933,6 +933,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 10.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -962,4 +963,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 391.0% | ⏳ pendiente | — |
 |  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Kaitlin Quevedo (BUY) | 59% | 5.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 52% | 5.00 | 6.0% | ⏳ pendiente | — |
