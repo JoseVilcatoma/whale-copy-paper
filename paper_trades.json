@@ -120197,8 +120197,8 @@
     "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
     "outcome": "Sara Sorribes Tormo",
     "side": "BUY",
-    "whale_usd": 16105.006643,
-    "whale_pct": 5.481,
+    "whale_usd": 17636.934443000002,
+    "whale_pct": 6.002,
     "whale_value_at_open": 293831.6228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -120209,8 +120209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788997610.6127453,
-    "fills": 5
+    "last_fill_at": 1788999084.1325297,
+    "fills": 6
   },
   {
     "timestamp": 1788992964,
@@ -120819,8 +120819,8 @@
     "title": "Chicago Cubs vs. Milwaukee Brewers",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 43340.258499999996,
-    "whale_pct": 19.566,
+    "whale_usd": 60927.8593,
+    "whale_pct": 27.506,
     "whale_value_at_open": 221507.7058,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -120831,8 +120831,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788998923.3972452,
-    "fills": 6
+    "last_fill_at": 1788999021.2902863,
+    "fills": 8
   },
   {
     "timestamp": 1788998633,
