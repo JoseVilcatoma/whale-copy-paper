@@ -124226,8 +124226,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 5734.300062,
-    "whale_pct": 2.702,
+    "whale_usd": 12115.110059999999,
+    "whale_pct": 5.708,
     "whale_value_at_open": 212234.8446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -124240,8 +124240,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789069871.5741327,
-    "fills": 4
+    "last_fill_at": 1789070886.4542844,
+    "fills": 6
   },
   {
     "timestamp": 1789068849,
@@ -124393,6 +124393,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789070682.4170926,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789070923,
+    "timestamp_added": 1789070924.0023859,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hemery-lajovic-2026-09-10",
+    "title": "Seville: Calvin Hemery vs Dusan Lajovic",
+    "outcome": "Dusan Lajovic",
+    "side": "BUY",
+    "whale_usd": 672.8280000000001,
+    "whale_pct": 0.331,
+    "whale_value_at_open": 203337.8861,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789070924.0023966,
     "fills": 1
   }
 ]
