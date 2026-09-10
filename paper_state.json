@@ -1,5 +1,5 @@
 {
-  "bankroll": 247.20616167975243,
+  "bankroll": 242.06816167975242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25075,6 +25075,11 @@
       "timestamp": 1789077443.7780244,
       "bankroll": 247.21,
       "event": "won: Diabolical-Prize \u2014 Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789077755.9751537,
+      "bankroll": 242.07,
+      "event": "lost:  \u2014 US Open ATP (Doubles): Krawietz/Puetz vs Ram/Salisbury"
     }
   ]
 }
