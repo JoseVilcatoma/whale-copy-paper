@@ -121869,5 +121869,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789025109.0207713,
     "fills": 2
+  },
+  {
+    "timestamp": 1789025339,
+    "timestamp_added": 1789025340.0313666,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-olivier-pereira-2026-09-10",
+    "title": "Seville: Genaro Alberto Olivieri vs Tiago Pereira",
+    "outcome": "Tiago Pereira",
+    "side": "BUY",
+    "whale_usd": 713.24,
+    "whale_pct": 0.694,
+    "whale_value_at_open": 102776.6797,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789025340.0313828,
+    "fills": 1
   }
 ]
