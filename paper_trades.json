@@ -121784,8 +121784,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 15764.259999999998,
-    "whale_pct": 16.65,
+    "whale_usd": 22108.4006,
+    "whale_pct": 23.351,
     "whale_value_at_open": 94678.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -121796,8 +121796,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789044319.024654,
-    "fills": 2
+    "last_fill_at": 1789058552.9009488,
+    "fills": 3
   },
   {
     "timestamp": 1789023647,
@@ -122905,8 +122905,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 3969.2707,
-    "whale_pct": 1.818,
+    "whale_usd": 50138.7685,
+    "whale_pct": 22.964,
     "whale_value_at_open": 218333.9521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -122917,8 +122917,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789049068.9627516,
-    "fills": 1
+    "last_fill_at": 1789058557.0364468,
+    "fills": 9
   },
   {
     "timestamp": 1789049477,
@@ -123511,8 +123511,8 @@
     "title": "Will AS Roma win on 2026-09-10?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7670.287061,
-    "whale_pct": 41.383,
+    "whale_usd": 8460.926561,
+    "whale_pct": 45.648,
     "whale_value_at_open": 18535.0368,
     "paper_stake_usd": 3.65,
     "odds_at_bet": 50,
@@ -123523,8 +123523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058309.5431333,
-    "fills": 5
+    "last_fill_at": 1789058516.337466,
+    "fills": 6
   },
   {
     "timestamp": 1789058151,
@@ -123583,8 +123583,8 @@
     "title": "PSV vs. FK Shakhtar Donetsk: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2702.1600000000003,
-    "whale_pct": 1.971,
+    "whale_usd": 3683.88,
+    "whale_pct": 2.687,
     "whale_value_at_open": 137089.8411,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -123597,7 +123597,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058425.3906746,
-    "fills": 3
+    "last_fill_at": 1789058516.511308,
+    "fills": 4
+  },
+  {
+    "timestamp": 1789058570,
+    "timestamp_added": 1789058570.5506911,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-psv-shd-2026-09-10-psv",
+    "title": "Will PSV win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 907.1,
+    "whale_pct": 0.182,
+    "whale_value_at_open": 498675.303,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789058570.5507042,
+    "fills": 1
   }
 ]
