@@ -121107,5 +121107,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789005939.9157524,
     "fills": 2
+  },
+  {
+    "timestamp": 1789006658,
+    "timestamp_added": 1789006658.7720542,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ne-sea-2026-09-10",
+    "title": "Patriots vs. Seahawks",
+    "outcome": "Patriots",
+    "side": "BUY",
+    "whale_usd": 1109.9935,
+    "whale_pct": 0.428,
+    "whale_value_at_open": 259183.7475,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789006658.7720664,
+    "fills": 1
   }
 ]

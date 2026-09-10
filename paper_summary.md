@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:16:08 (hora de Perú)
+Actualizado: 2026-09-09 21:18:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 21:16:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $166.64 en 34 posiciones abiertas (disponible para nuevas apuestas: $57.49)
+**Capital comprometido ahora mismo:** $171.64 en 35 posiciones abiertas (disponible para nuevas apuestas: $52.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 61 | 39 | 5 | +40.76 USD |
+| wr0ngw4yb3tt0r | 61 | 39 | 6 | +40.76 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -930,11 +930,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-hou-phi-2026-09-09 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mls-phi-fcc-2026-09-09-spread-home-1pt5 | , Flaznorp, theowalcott |
 | mlb-chc-mil-2026-09-09 | , ferrariChampions2026, wr0ngw4yb3tt0r |
+| nfl-ne-sea-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
@@ -964,4 +966,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
-| theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
