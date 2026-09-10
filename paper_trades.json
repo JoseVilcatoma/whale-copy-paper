@@ -123511,8 +123511,8 @@
     "title": "Will AS Roma win on 2026-09-10?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 842.607844,
-    "whale_pct": 4.546,
+    "whale_usd": 1353.773923,
+    "whale_pct": 7.304,
     "whale_value_at_open": 18535.0368,
     "paper_stake_usd": 3.65,
     "odds_at_bet": 50,
@@ -123523,7 +123523,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789057441.3778107,
-    "fills": 1
+    "last_fill_at": 1789057752.9419703,
+    "fills": 2
   }
 ]
