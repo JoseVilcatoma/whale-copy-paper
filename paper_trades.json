@@ -123801,8 +123801,8 @@
     "title": "Seville: Henrique Rocha vs Santiago Rodriguez Taverna",
     "outcome": "Henrique Rocha",
     "side": "BUY",
-    "whale_usd": 7025.120000000001,
-    "whale_pct": 2.473,
+    "whale_usd": 9534.799667000001,
+    "whale_pct": 3.357,
     "whale_value_at_open": 284059.9261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -123813,8 +123813,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789063990.3591356,
-    "fills": 2
+    "last_fill_at": 1789064491.2049618,
+    "fills": 3
   },
   {
     "timestamp": 1789063569,
