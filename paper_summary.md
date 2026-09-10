@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 09:34:23 (hora de Perú)
+Actualizado: 2026-09-10 09:36:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $228.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 09:34:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $184.60 en 37 posiciones abiertas (disponible para nuevas apuestas: $44.03)
+**Capital comprometido ahora mismo:** $189.60 en 38 posiciones abiertas (disponible para nuevas apuestas: $39.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 89 | 34 | 7 | -10.51 USD |
+| Flaznorp | 89 | 34 | 8 | -10.51 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -946,6 +946,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | M25 Gijon: Xavi Palomar vs Anas Mazdrash | Anas Mazdrashki (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -975,4 +976,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 46% | 5.00 | 1.8% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Mark Lajal (BUY) | 69% | 5.00 | 9.3% | ✅ ganada | +2.17 |
-| ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ✅ ganada | +0.59 |
