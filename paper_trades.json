@@ -120958,5 +120958,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789004213.9148304,
     "fills": 1
+  },
+  {
+    "timestamp": 1789004357,
+    "timestamp_added": 1789004357.7489574,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-cin-lad-2026-09-09-spread-home-1pt5",
+    "title": "Spread: Los Angeles Dodgers (-1.5)",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 18291.372000000003,
+    "whale_pct": 44.132,
+    "whale_value_at_open": 41447.0169,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789004357.7489693,
+    "fills": 1
   }
 ]
