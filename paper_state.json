@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.0522983708655,
+  "bankroll": 222.83534026177918,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24355,6 +24355,31 @@
       "timestamp": 1789008326.410002,
       "bankroll": 219.05,
       "event": "lost: Sunshine.Smile \u2014 Dota 2: MOUZ vs Klim Sani4 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1789008958.3980196,
+      "bankroll": 219.64,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1789008958.7474341,
+      "bankroll": 220.23,
+      "event": "won:  \u2014 US Open ATP: Alexander Zverev vs Botic van de Zandschulp"
+    },
+    {
+      "timestamp": 1789008959.526248,
+      "bankroll": 221.08,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1789008959.6264453,
+      "bankroll": 221.99,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1789008959.7266343,
+      "bankroll": 222.84,
+      "event": "won:  \u2014 Chicago Cubs vs. Milwaukee Brewers"
     }
   ]
 }
