@@ -121831,8 +121831,8 @@
     "title": "Shanghai: Bernard Tomic vs Ilya Ivashka",
     "outcome": "Ilya Ivashka",
     "side": "BUY",
-    "whale_usd": 49077.04903999999,
-    "whale_pct": 48.989,
+    "whale_usd": 49955.57103999999,
+    "whale_pct": 49.866,
     "whale_value_at_open": 100179.7443,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -121843,8 +121843,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789029253.355322,
-    "fills": 13
+    "last_fill_at": 1789029294.5828109,
+    "fills": 14
   },
   {
     "timestamp": 1789025097,
