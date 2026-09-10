@@ -121503,5 +121503,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789012074.0918412,
     "fills": 1
+  },
+  {
+    "timestamp": 1789012299,
+    "timestamp_added": 1789012299.7644663,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-miyoshi-peliwo-2026-09-08",
+    "title": "Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo",
+    "outcome": "Filip Peliwo",
+    "side": "BUY",
+    "whale_usd": 1036.5,
+    "whale_pct": 1.435,
+    "whale_value_at_open": 72240.1318,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789012299.7644804,
+    "fills": 1
   }
 ]
