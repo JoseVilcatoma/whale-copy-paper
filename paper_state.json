@@ -1,5 +1,5 @@
 {
-  "bankroll": 222.3800599762823,
+  "bankroll": 222.9710375043722,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24645,6 +24645,11 @@
       "timestamp": 1789045324.3327196,
       "bankroll": 222.38,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Tung-Lin Wu vs Luca Castelnuovo"
+    },
+    {
+      "timestamp": 1789046958.205397,
+      "bankroll": 222.97,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Diego Dedura-Palomero vs Gustavo Heide"
     }
   ]
 }

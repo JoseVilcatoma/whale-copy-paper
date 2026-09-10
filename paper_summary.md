@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:29:04 (hora de Perú)
+Actualizado: 2026-09-10 08:31:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $222.38
-**Retorno acumulado:** -55.52%
+**Bankroll actual:** $222.97
+**Retorno acumulado:** -55.41%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 08:29:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $82.78)
+**Capital comprometido ahora mismo:** $149.60 en 30 posiciones abiertas (disponible para nuevas apuestas: $73.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | vjnn | 1 | 0 | 1 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
-| Noprajsk | 8 | 3 | 1 | +3.42 USD |
+| Noprajsk | 8 | 3 | 2 | +3.42 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 95 | 71 | 4 | -139.20 USD |
-| ferrariChampions2026 | 689 | 433 | 17 | -257.77 USD |
+|  | 95 | 71 | 6 | -139.20 USD |
+| ferrariChampions2026 | 690 | 433 | 16 | -257.18 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4718
-- **Aciertos:** 2966 (62.9%)
+- **Apuestas resueltas:** 4719
+- **Aciertos:** 2967 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,552.23
-- **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $437.98 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,557.23
+- **ROI sobre lo apostado:** -1.70%
+- **Comisiones pagadas (taker fee):** $438.01 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2416 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1421 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 620 | 85.3% | 86.6% | -1.3 pp |
+| 80-94% | 621 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 261 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -937,12 +937,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
 | cs2-mibr-bb3-2026-09-10 | Noprajsk, vjnn |
 | atp-cui-zhou-2026-09-09 | , Flaznorp, ferrariChampions2026 |
+| atp-perot-bertran-2026-09-10 | , ferrariChampions2026 |
 | wta-carle-vedder-2026-09-09 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 6.8% | ⏳ pendiente | — |
+|  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
+|  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-3.5) | FC Bayern München (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -952,7 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Mark Lajal (BUY) | 69% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Genaro Alberto Olivieri (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Luca Castelnuovo (BUY) | 65% | 5.00 | 8.6% | ✅ ganada | +2.61 |
@@ -970,6 +974,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Billy Harris (BUY) | 70% | 5.00 | 4.0% | ❌ perdida | -5.08 |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ✅ ganada | +2.38 |
 | vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ✅ ganada | +0.59 |
-| ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ✅ ganada | +1.97 |
