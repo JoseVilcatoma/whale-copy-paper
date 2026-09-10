@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 17:32:05 (hora de Perú)
+Actualizado: 2026-09-10 17:34:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -960,7 +960,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 58% | 5.00 | 3.9% | ⏳ pendiente | — |

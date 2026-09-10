@@ -124850,8 +124850,8 @@
     "title": "Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean",
     "outcome": "Leolia Jeanjean",
     "side": "BUY",
-    "whale_usd": 933.5438479999999,
-    "whale_pct": 0.67,
+    "whale_usd": 1643.2630479999998,
+    "whale_pct": 1.18,
     "whale_value_at_open": 139274.8256,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -124864,8 +124864,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789078245.9261734,
-    "fills": 1
+    "last_fill_at": 1789079609.661273,
+    "fills": 2
   },
   {
     "timestamp": 1789079209,
