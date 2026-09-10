@@ -1,5 +1,5 @@
 {
-  "bankroll": 238.1958572133567,
+  "bankroll": 238.7868347414466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24555,6 +24555,11 @@
       "timestamp": 1789033147.8945723,
       "bankroll": 238.2,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Bernard Tomic vs Ilya Ivashka"
+    },
+    {
+      "timestamp": 1789033340.6654882,
+      "bankroll": 238.79,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Max Basing vs Mert Alkaya"
     }
   ]
 }

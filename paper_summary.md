@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 04:42:12 (hora de Perú)
+Actualizado: 2026-09-10 04:44:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $238.20
-**Retorno acumulado:** -52.36%
+**Bankroll actual:** $238.79
+**Retorno acumulado:** -52.24%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 04:42:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $119.60 en 24 posiciones abiertas (disponible para nuevas apuestas: $118.60)
+**Capital comprometido ahora mismo:** $114.60 en 23 posiciones abiertas (disponible para nuevas apuestas: $124.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,17 +150,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 682 | 428 | 12 | -252.29 USD |
+| ferrariChampions2026 | 683 | 428 | 11 | -251.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4700
-- **Aciertos:** 2956 (62.9%)
+- **Apuestas resueltas:** 4701
+- **Aciertos:** 2957 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,462.23
-- **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $436.52 (1.86% del capital apostado)
+- **Total apostado (suma de stakes):** $23,467.23
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $436.55 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2411 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1413 | 68.5% | 67.8% | +0.7 pp |
-| 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
+| 80-94% | 617 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -945,7 +945,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Billy Harris (BUY) | 70% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ⏳ pendiente | — |
 | vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | FC Bayern München vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
