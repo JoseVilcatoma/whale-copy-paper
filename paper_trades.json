@@ -121784,8 +121784,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 14716.009999999998,
-    "whale_pct": 15.543,
+    "whale_usd": 15764.259999999998,
+    "whale_pct": 16.65,
     "whale_value_at_open": 94678.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -121796,8 +121796,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789023638.02444,
-    "fills": 1
+    "last_fill_at": 1789044319.024654,
+    "fills": 2
   },
   {
     "timestamp": 1789023647,
