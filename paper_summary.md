@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 00:11:58 (hora de Perú)
+Actualizado: 2026-09-10 00:14:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $215.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 00:11:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.26 en 13 posiciones abiertas (disponible para nuevas apuestas: $153.69)
+**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $148.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 95 | 71 | 1 | -139.20 USD |
+|  | 95 | 71 | 2 | -139.20 USD |
 | ferrariChampions2026 | 679 | 428 | 3 | -259.36 USD |
 
 ## Análisis general
@@ -939,6 +939,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | SK Slavia Praha vs. Racing Club de Lens: | Over (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -968,4 +969,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 11.0% | ❌ perdida | -4.48 |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
-|  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 0.9% | ✅ ganada | +0.84 |

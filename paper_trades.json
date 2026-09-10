@@ -121601,5 +121601,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789016178.0811176,
     "fills": 2
+  },
+  {
+    "timestamp": 1789017220,
+    "timestamp_added": 1789017220.3879445,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "ucl-slp-rcl-2026-09-10-total-2pt5",
+    "title": "SK Slavia Praha vs. Racing Club de Lens: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1461.01,
+    "whale_pct": 1.546,
+    "whale_value_at_open": 94480.4388,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789017220.3879573,
+    "fills": 1
   }
 ]
