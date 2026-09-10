@@ -123777,8 +123777,8 @@
     "title": "Texas Rangers vs. Seattle Mariners",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 8705.65,
-    "whale_pct": 3.548,
+    "whale_usd": 11047.8004,
+    "whale_pct": 4.503,
     "whale_value_at_open": 245350.6895,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -123789,8 +123789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789063416.7438705,
-    "fills": 1
+    "last_fill_at": 1789069712.7790468,
+    "fills": 2
   },
   {
     "timestamp": 1789063461,
@@ -124354,8 +124354,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Despina Papamichail",
     "side": "BUY",
-    "whale_usd": 7959.8822470000005,
-    "whale_pct": 3.742,
+    "whale_usd": 10597.321227,
+    "whale_pct": 4.981,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 3.72,
     "odds_at_bet": 54,
@@ -124368,7 +124368,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789069577.7192092,
-    "fills": 2
+    "last_fill_at": 1789069647.9238381,
+    "fills": 3
   }
 ]

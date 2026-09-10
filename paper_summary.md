@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:47:11 (hora de Perú)
+Actualizado: 2026-09-10 14:49:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.32
@@ -956,7 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
 |  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
@@ -979,7 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 16.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 12.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ✅ ganada | +1.60 |
