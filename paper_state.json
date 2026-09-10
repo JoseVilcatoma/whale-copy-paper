@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.84791905820808,
+  "bankroll": 242.3532169305485,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24195,6 +24195,11 @@
       "timestamp": 1789001461.8698697,
       "bankroll": 236.85,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Kayla Day vs Elsa Jacquemot"
+    },
+    {
+      "timestamp": 1789003949.4381163,
+      "bankroll": 242.35,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Atlanta Braves: O/U 8.5"
     }
   ]
 }
