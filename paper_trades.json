@@ -124420,5 +124420,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789070924.0023966,
     "fills": 1
+  },
+  {
+    "timestamp": 1789071117,
+    "timestamp_added": 1789071117.6051898,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-jacquem-tikhono-2026-09-10",
+    "title": "Barranquilla: Elsa Jacquemot vs Anastasia Tikhonova",
+    "outcome": "Elsa Jacquemot",
+    "side": "BUY",
+    "whale_usd": 5487.702000000001,
+    "whale_pct": 2.592,
+    "whale_value_at_open": 211738.88,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789071117.605202,
+    "fills": 1
   }
 ]
