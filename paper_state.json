@@ -1,5 +1,5 @@
 {
-  "bankroll": 231.0725213086108,
+  "bankroll": 234.72568655720553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24575,6 +24575,21 @@
       "timestamp": 1789037484.1028926,
       "bankroll": 231.07,
       "event": "lost: ferrariChampions2026 \u2014 Map Handicap: AST (-1.5) vs 5star (+1.5)"
+    },
+    {
+      "timestamp": 1789039695.773209,
+      "bankroll": 233.45,
+      "event": "won:  \u2014 Shanghai: Jie Cui vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789039696.133038,
+      "bankroll": 234.58,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Jie Cui vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789039696.333309,
+      "bankroll": 234.73,
+      "event": "won: Flaznorp \u2014 Shanghai: Jie Cui vs Yi Zhou"
     }
   ]
 }
