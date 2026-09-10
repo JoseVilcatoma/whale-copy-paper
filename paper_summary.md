@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:24:07 (hora de Perú)
+Actualizado: 2026-09-10 14:26:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.01
-**Retorno acumulado:** -53.40%
+**Bankroll actual:** $233.32
+**Retorno acumulado:** -53.34%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 14:24:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $28.41)
+**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $23.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 66 | 41 | 1 | +45.42 USD |
+| wr0ngw4yb3tt0r | 66 | 41 | 2 | +45.42 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 704 | 440 | 22 | -257.72 USD |
+| ferrariChampions2026 | 705 | 440 | 22 | -257.42 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4768
-- **Aciertos:** 3002 (63.0%)
+- **Apuestas resueltas:** 4769
+- **Aciertos:** 3003 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,800.88
+- **Total apostado (suma de stakes):** $23,805.88
 - **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $442.01 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $442.03 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2436 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1436 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 631 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 632 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -954,6 +954,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 26.1% | ⏳ pendiente | — |
@@ -964,14 +966,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 9.3% | ⏳ pendiente | — |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 67.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester United FC (-3.5) | Manchester United FC (BUY) | 45% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 15.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 12.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
@@ -982,5 +984,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 10.8% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 45.6% | ✅ ganada | +3.56 |
-| ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ✅ ganada | +1.69 |
-| vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ❌ perdida | -5.13 |

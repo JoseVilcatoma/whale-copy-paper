@@ -123753,8 +123753,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Houston Astros",
     "side": "BUY",
-    "whale_usd": 37087.996732,
-    "whale_pct": 15.016,
+    "whale_usd": 40794.781132,
+    "whale_pct": 16.516,
     "whale_value_at_open": 246996.1173,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -123765,8 +123765,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068194.5104702,
-    "fills": 10
+    "last_fill_at": 1789068264.8954167,
+    "fills": 11
   },
   {
     "timestamp": 1789063416,
@@ -123930,8 +123930,8 @@
     "odds_at_bet": 94,
     "fee_usd": 0.015,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -124188,6 +124188,59 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789068038.6757157,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789068280,
+    "timestamp_added": 1789068281.5017495,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-phi-2026-09-10",
+    "title": "Houston Astros vs. Philadelphia Phillies",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 7356.999,
+    "whale_pct": 3.338,
+    "whale_value_at_open": 220408.7384,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "vjnn"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789068281.5017607,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789068309,
+    "timestamp_added": 1789068309.4325416,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-passaro-varilla-2026-09-10",
+    "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
+    "outcome": "Juan Pablo Varillas",
+    "side": "BUY",
+    "whale_usd": 690.1999999999999,
+    "whale_pct": 0.325,
+    "whale_value_at_open": 212234.8446,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789068309.432553,
     "fills": 1
   }
 ]
