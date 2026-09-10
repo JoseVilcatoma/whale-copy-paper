@@ -1,5 +1,5 @@
 {
-  "bankroll": 231.22814488981453,
+  "bankroll": 233.785983805285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24835,6 +24835,21 @@
       "timestamp": 1789066183.9581027,
       "bankroll": 231.23,
       "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1789066429.5003312,
+      "bankroll": 226.14,
+      "event": "lost: Flaznorp \u2014 Will PSV win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789066494.082419,
+      "bankroll": 229.81,
+      "event": "won: ferrariChampions2026 \u2014 PSV vs. FK Shakhtar Donetsk: O/U 3.5"
+    },
+    {
+      "timestamp": 1789066498.7285995,
+      "bankroll": 233.79,
+      "event": "won: Jsram \u2014 PSV vs. FK Shakhtar Donetsk: O/U 3.5"
     }
   ]
 }
