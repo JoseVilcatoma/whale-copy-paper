@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 20:51:09 (hora de Perú)
+Actualizado: 2026-09-09 20:53:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.64
-**Retorno acumulado:** -52.67%
+**Bankroll actual:** $226.36
+**Retorno acumulado:** -54.73%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 20:51:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.04 en 47 posiciones abiertas (disponible para nuevas apuestas: $4.60)
+**Capital comprometido ahora mismo:** $226.64 en 46 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
-| pleaseplease123 | 26 | 20 | 1 | +15.98 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 82 | 51 | 2 | +11.96 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | Noprajsk | 7 | 1 | 0 | +11.28 USD |
+| pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 |  | 29 | 25 | 0 | +10.69 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 87 | 67 | 7 | -137.63 USD |
-| ferrariChampions2026 | 666 | 419 | 13 | -250.24 USD |
+|  | 87 | 67 | 8 | -137.63 USD |
+| ferrariChampions2026 | 666 | 420 | 12 | -255.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4634
+- **Apuestas resueltas:** 4636
 - **Aciertos:** 2914 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,135.19
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $430.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,145.19
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $430.75 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2379 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2381 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1389 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 609 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 257 | 96.9% | 97.3% | -0.4 pp |
@@ -935,6 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |
@@ -946,7 +947,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 27.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 75% | 5.00 | 4.8% | ⏳ pendiente | — |
 | bands1 | Spread: Seahawks (-2.5) | Patriots (BUY) | 44% | 5.00 | 25.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -964,4 +965,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Spread: Philadelphia Union (-1.5) | Philadelphia Union (BUY) | 44% | 5.00 | 20.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
