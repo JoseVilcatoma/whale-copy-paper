@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.33034311503502,
+  "bankroll": 221.60328429150562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24445,6 +24445,11 @@
       "timestamp": 1789013710.8416297,
       "bankroll": 219.33,
       "event": "lost:  \u2014 Barranquilla: Julia Riera vs Mary Stoiana"
+    },
+    {
+      "timestamp": 1789014850.5253808,
+      "bankroll": 221.6,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Nadia Podoroska vs Anna Blinkova"
     }
   ]
 }
