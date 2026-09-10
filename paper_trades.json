@@ -121553,5 +121553,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789013249.0874238,
     "fills": 2
+  },
+  {
+    "timestamp": 1789014309,
+    "timestamp_added": 1789014310.2401435,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-com-rbl-2026-09-10-com",
+    "title": "Will Como 1907 win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 541.2105,
+    "whale_pct": 0.463,
+    "whale_value_at_open": 116922.1133,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789014310.2401557,
+    "fills": 1
   }
 ]
