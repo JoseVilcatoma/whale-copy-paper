@@ -122463,8 +122463,8 @@
     "title": "Cassis: Raphael Perot vs Robin Bertrand",
     "outcome": "Robin Bertrand",
     "side": "BUY",
-    "whale_usd": 2617.2000000000003,
-    "whale_pct": 1.175,
+    "whale_usd": 4097.8098,
+    "whale_pct": 1.839,
     "whale_value_at_open": 222780.7554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -122475,8 +122475,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789043995.8723178,
-    "fills": 1
+    "last_fill_at": 1789046057.3097131,
+    "fills": 3
   },
   {
     "timestamp": 1789044147,
