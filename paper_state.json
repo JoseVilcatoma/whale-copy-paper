@@ -1,5 +1,5 @@
 {
-  "bankroll": 228.5547583505595,
+  "bankroll": 234.97782254445124,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24775,6 +24775,26 @@
       "timestamp": 1789061484.532754,
       "bankroll": 228.55,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Wild vs Giunta"
+    },
+    {
+      "timestamp": 1789062108.2380793,
+      "bankroll": 230.72,
+      "event": "won: Flaznorp \u2014 Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O/U 1.5"
+    },
+    {
+      "timestamp": 1789062108.8470247,
+      "bankroll": 225.63,
+      "event": "lost: Flaznorp \u2014 Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789062109.4888172,
+      "bankroll": 231.61,
+      "event": "won: Flaznorp \u2014 Will Al Jazira (UAE) vs. Al-Nasr Dubai CSC end in a draw?"
+    },
+    {
+      "timestamp": 1789062109.7583814,
+      "bankroll": 234.98,
+      "event": "won: Flaznorp \u2014 Will Al Jazira (UAE) win on 2026-09-10?"
     }
   ]
 }
