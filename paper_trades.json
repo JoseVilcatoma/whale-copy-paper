@@ -123729,8 +123729,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Max Alcala Gurri",
     "side": "BUY",
-    "whale_usd": 24878.889551,
-    "whale_pct": 10.347,
+    "whale_usd": 26818.329551,
+    "whale_pct": 11.154,
     "whale_value_at_open": 240447.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -123741,8 +123741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067119.5342307,
-    "fills": 14
+    "last_fill_at": 1789067529.9244943,
+    "fills": 15
   },
   {
     "timestamp": 1789063057,
@@ -124039,6 +124039,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789066883.635992,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789067547,
+    "timestamp_added": 1789067547.6898124,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "ucl-mnu-sf-2026-09-10-mnu",
+    "title": "Will Manchester United FC win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 999.999991,
+    "whale_pct": 3.069,
+    "whale_value_at_open": 32581.7267,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789067547.6898236,
     "fills": 1
   }
 ]
