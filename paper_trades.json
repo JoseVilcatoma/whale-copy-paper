@@ -124278,8 +124278,8 @@
     "title": "Seville: Calvin Hemery vs Dusan Lajovic",
     "outcome": "Dusan Lajovic",
     "side": "BUY",
-    "whale_usd": 9999.999997,
-    "whale_pct": 13.12,
+    "whale_usd": 19999.999997000003,
+    "whale_pct": 26.241,
     "whale_value_at_open": 76217.032,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -124290,7 +124290,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068988.2670448,
-    "fills": 1
+    "last_fill_at": 1789069008.7037034,
+    "fills": 2
   }
 ]

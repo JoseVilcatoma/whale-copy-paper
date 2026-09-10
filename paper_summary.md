@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:36:44 (hora de Perú)
+Actualizado: 2026-09-10 14:38:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.32
@@ -955,7 +955,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 13.1% | ⏳ pendiente | — |
+|  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
 |  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 37.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
