@@ -1,5 +1,5 @@
 {
-  "bankroll": 218.3521344890597,
+  "bankroll": 220.38885964762207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24710,6 +24710,21 @@
       "timestamp": 1789052084.7398915,
       "bankroll": 218.35,
       "event": "lost: Noprajsk \u2014 Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1789052332.9630923,
+      "bankroll": 213.25,
+      "event": "lost: ferrariChampions2026 \u2014 Tulln: Joao Lucas Da Silva vs Thiago Monteiro"
+    },
+    {
+      "timestamp": 1789052333.0632536,
+      "bankroll": 219.74,
+      "event": "won:  \u2014 Tulln: Joao Lucas Da Silva vs Thiago Monteiro"
+    },
+    {
+      "timestamp": 1789052333.1634724,
+      "bankroll": 220.39,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Joao Lucas Da Silva vs Thiago Monteiro"
     }
   ]
 }
