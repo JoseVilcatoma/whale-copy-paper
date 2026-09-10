@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.37728578478527,
+  "bankroll": 238.1958572133567,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24550,6 +24550,11 @@
       "timestamp": 1789032259.0865197,
       "bankroll": 234.38,
       "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Genoa: Gianluca Cadenasso vs Juan Martin"
+    },
+    {
+      "timestamp": 1789033147.8945723,
+      "bankroll": 238.2,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Bernard Tomic vs Ilya Ivashka"
     }
   ]
 }
