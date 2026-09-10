@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.72568655720553,
+  "bankroll": 229.62068655720554,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24590,6 +24590,11 @@
       "timestamp": 1789039696.333309,
       "bankroll": 234.73,
       "event": "won: Flaznorp \u2014 Shanghai: Jie Cui vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789040600.8262422,
+      "bankroll": 229.62,
+      "event": "lost: Noprajsk \u2014 Counter-Strike: Legacy vs FURIA - Map 2 Winner"
     }
   ]
 }
