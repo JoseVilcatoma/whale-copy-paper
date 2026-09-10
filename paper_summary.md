@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 04:21:33 (hora de Perú)
+Actualizado: 2026-09-10 04:23:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $234.78
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 04:21:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $109.60 en 22 posiciones abiertas (disponible para nuevas apuestas: $125.18)
+**Capital comprometido ahora mismo:** $114.60 en 23 posiciones abiertas (disponible para nuevas apuestas: $120.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| Noprajsk | 7 | 1 | 0 | +11.28 USD |
+| Noprajsk | 7 | 1 | 1 | +11.28 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -940,6 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 263.9% | ⏳ pendiente | — |
 | vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
@@ -969,4 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: Astralis vs 5star (BO3)  | Astralis (BUY) | 93% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 47% | 5.00 | 0.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ✅ ganada | +2.27 |
-| ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 1.3% | ✅ ganada | +5.51 |

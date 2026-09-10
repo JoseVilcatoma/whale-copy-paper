@@ -122013,5 +122013,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789030225.1637053,
     "fills": 1
+  },
+  {
+    "timestamp": 1789032140,
+    "timestamp_added": 1789032140.4883692,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-lgc-furia-2026-09-10-game1",
+    "title": "Counter-Strike: Legacy vs FURIA - Map 1 Winner",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 128533.83801200001,
+    "whale_pct": 263.907,
+    "whale_value_at_open": 48704.2304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789032206.197067,
+    "fills": 3
   }
 ]
