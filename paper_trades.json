@@ -124938,5 +124938,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789080260.5873597,
     "fills": 1
+  },
+  {
+    "timestamp": 1789080849,
+    "timestamp_added": 1789080850.1425655,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bra2-vln-goi-2026-09-10-draw",
+    "title": "Will Vila Nova FC vs. Goi\u00e1s EC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 706.18,
+    "whale_pct": 0.679,
+    "whale_value_at_open": 104070.7633,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789080850.142574,
+    "fills": 1
   }
 ]
