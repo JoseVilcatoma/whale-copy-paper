@@ -121489,8 +121489,8 @@
     "title": "W50 Guiyang: Tahlia Kokkinis vs YeXin Ma",
     "outcome": "YeXin Ma",
     "side": "BUY",
-    "whale_usd": 712.5999999999999,
-    "whale_pct": 0.61,
+    "whale_usd": 1393.8188,
+    "whale_pct": 1.192,
     "whale_value_at_open": 116893.9853,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -121501,8 +121501,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789012074.0918412,
-    "fills": 1
+    "last_fill_at": 1789012703.4814973,
+    "fills": 2
   },
   {
     "timestamp": 1789012299,

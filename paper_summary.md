@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:56:42 (hora de Perú)
+Actualizado: 2026-09-09 22:58:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.39
@@ -940,7 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ⏳ pendiente | — |
