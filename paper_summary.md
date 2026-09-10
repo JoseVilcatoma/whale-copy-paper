@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:31:07 (hora de Perú)
+Actualizado: 2026-09-10 08:33:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $222.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 08:31:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.60 en 30 posiciones abiertas (disponible para nuevas apuestas: $73.37)
+**Capital comprometido ahora mismo:** $159.60 en 32 posiciones abiertas (disponible para nuevas apuestas: $63.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 6 | -139.20 USD |
-| ferrariChampions2026 | 690 | 433 | 16 | -257.18 USD |
+| ferrariChampions2026 | 690 | 433 | 18 | -257.18 USD |
 
 ## Análisis general
 
@@ -944,7 +944,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 6.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 20.0% | ⏳ pendiente | — |
 |  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -955,7 +957,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 82% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Mark Lajal (BUY) | 69% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Mark Lajal (BUY) | 69% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Genaro Alberto Olivieri (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
@@ -972,5 +974,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 67% | 5.00 | 118.4% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Francesca Jones (BUY) | 64% | 5.00 | 9.8% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Billy Harris (BUY) | 70% | 5.00 | 4.0% | ❌ perdida | -5.08 |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ✅ ganada | +2.38 |
-| vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
