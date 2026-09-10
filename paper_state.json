@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.31898145888286,
+  "bankroll": 232.77167977193668,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24900,6 +24900,41 @@
       "timestamp": 1789068368.986737,
       "bankroll": 233.32,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Cagla Buyukakcay vs Eva Bennemann"
+    },
+    {
+      "timestamp": 1789070303.581984,
+      "bankroll": 228.23,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789070303.7823553,
+      "bankroll": 233.97,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789070304.2848012,
+      "bankroll": 228.84,
+      "event": "lost: vjnn \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789070304.5756779,
+      "bankroll": 231.12,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1789070304.876321,
+      "bankroll": 226.02,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789070306.091271,
+      "bankroll": 232.24,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789070364.7665503,
+      "bankroll": 232.77,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Henrique Rocha vs Santiago Rodriguez Taverna"
     }
   ]
 }
