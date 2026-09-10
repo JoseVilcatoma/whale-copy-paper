@@ -123753,8 +123753,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Houston Astros",
     "side": "BUY",
-    "whale_usd": 19128.870232,
-    "whale_pct": 7.745,
+    "whale_usd": 37087.996732,
+    "whale_pct": 15.016,
     "whale_value_at_open": 246996.1173,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -123765,8 +123765,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067486.792811,
-    "fills": 5
+    "last_fill_at": 1789068194.5104702,
+    "fills": 10
   },
   {
     "timestamp": 1789063416,
