@@ -123535,8 +123535,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Pavel Lagutin",
     "side": "BUY",
-    "whale_usd": 6802.222363999999,
-    "whale_pct": 3.295,
+    "whale_usd": 7383.146363999999,
+    "whale_pct": 3.576,
     "whale_value_at_open": 206451.6332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -123547,8 +123547,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789060244.493807,
-    "fills": 4
+    "last_fill_at": 1789060976.6376846,
+    "fills": 5
   },
   {
     "timestamp": 1789058155,
@@ -123633,8 +123633,8 @@
     "title": "Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 2700.0,
-    "whale_pct": 1.965,
+    "whale_usd": 26893.039999999997,
+    "whale_pct": 19.575,
     "whale_value_at_open": 137383.1019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -123645,7 +123645,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789059946.3409917,
-    "fills": 1
+    "last_fill_at": 1789060889.8352294,
+    "fills": 3
   }
 ]
