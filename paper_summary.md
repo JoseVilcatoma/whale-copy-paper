@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:17:45 (hora de Perú)
+Actualizado: 2026-09-09 22:19:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.78
@@ -940,7 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 9.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 3.4% | ⏳ pendiente | — |
