@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 23:13:09 (hora de Perú)
+Actualizado: 2026-09-09 23:15:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $224.39
-**Retorno acumulado:** -55.12%
+**Bankroll actual:** $219.33
+**Retorno acumulado:** -56.13%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 23:13:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $117.26 en 24 posiciones abiertas (disponible para nuevas apuestas: $107.13)
+**Capital comprometido ahora mismo:** $112.26 en 23 posiciones abiertas (disponible para nuevas apuestas: $107.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 93 | 68 | 6 | -129.86 USD |
+|  | 93 | 69 | 5 | -134.92 USD |
 | ferrariChampions2026 | 675 | 425 | 8 | -258.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4678
+- **Apuestas resueltas:** 4679
 - **Aciertos:** 2941 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,354.57
-- **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $434.44 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,359.57
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $434.50 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2399 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1405 | 68.5% | 67.8% | +0.7 pp |
+| 60-79% | 1406 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 614 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
@@ -958,7 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ❌ perdida | -5.05 |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ✅ ganada | +0.20 |
-|  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
+|  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ❌ perdida | -5.06 |
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 2.5% | ✅ ganada | +2.97 |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ✅ ganada | +3.52 |

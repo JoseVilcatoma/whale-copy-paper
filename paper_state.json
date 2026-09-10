@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.39234311503503,
+  "bankroll": 219.33034311503502,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24440,6 +24440,11 @@
       "timestamp": 1789012122.3860087,
       "bankroll": 224.39,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1789013710.8416297,
+      "bankroll": 219.33,
+      "event": "lost:  \u2014 Barranquilla: Julia Riera vs Mary Stoiana"
     }
   ]
 }
