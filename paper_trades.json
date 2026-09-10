@@ -122879,8 +122879,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Enrico Dalla Valle",
     "side": "BUY",
-    "whale_usd": 19771.465300000003,
-    "whale_pct": 200.389,
+    "whale_usd": 21696.136100000003,
+    "whale_pct": 219.896,
     "whale_value_at_open": 9866.5554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -122893,8 +122893,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789048832.1231313,
-    "fills": 1
+    "last_fill_at": 1789049261.4330657,
+    "fills": 2
   },
   {
     "timestamp": 1789049068,
