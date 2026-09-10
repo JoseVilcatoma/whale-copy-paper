@@ -124226,8 +124226,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 690.1999999999999,
-    "whale_pct": 0.325,
+    "whale_usd": 2709.9800619999996,
+    "whale_pct": 1.277,
     "whale_value_at_open": 212234.8446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -124240,7 +124240,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068309.432553,
-    "fills": 1
+    "last_fill_at": 1789068469.3111165,
+    "fills": 3
   }
 ]
