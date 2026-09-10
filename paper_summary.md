@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:35:42 (hora de Perú)
+Actualizado: 2026-09-10 11:37:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 11:35:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $208.25 en 42 posiciones abiertas (disponible para nuevas apuestas: $16.87)
+**Capital comprometido ahora mismo:** $213.25 en 43 posiciones abiertas (disponible para nuevas apuestas: $11.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 697 | 437 | 17 | -258.72 USD |
+| ferrariChampions2026 | 697 | 437 | 18 | -258.72 USD |
 
 ## Análisis general
 
@@ -948,8 +948,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 7.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 10.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ⏳ pendiente | — |
 | vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |
 | Flaznorp | Will PFC Sogdiana win on 2026-09-10? | No (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -971,10 +972,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 24.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 25.3% | ⏳ pendiente | — |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 392.2% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 17.8% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 5.2% | ✅ ganada | +0.65 |
