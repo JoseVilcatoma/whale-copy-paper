@@ -123525,5 +123525,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789057752.9419703,
     "fills": 2
+  },
+  {
+    "timestamp": 1789057892,
+    "timestamp_added": 1789057892.529186,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-trevisa-marista-2026-09-10",
+    "title": "Montreux: Martina Trevisan vs Guiomar Maristany",
+    "outcome": "Guiomar Maristany",
+    "side": "BUY",
+    "whale_usd": 778.97,
+    "whale_pct": 0.41,
+    "whale_value_at_open": 189898.6588,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789057892.5291958,
+    "fills": 1
   }
 ]
