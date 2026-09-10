@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.2003096413106,
+  "bankroll": 240.4759962084748,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25150,6 +25150,16 @@
       "timestamp": 1789081532.4706466,
       "bankroll": 243.2,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1789082767.997024,
+      "bankroll": 245.58,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Elsa Jacquemot vs Anastasia Tikhonova"
+    },
+    {
+      "timestamp": 1789082768.5609717,
+      "bankroll": 240.48,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Elsa Jacquemot vs Anastasia Tikhonova"
     }
   ]
 }
