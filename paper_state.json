@@ -1,5 +1,5 @@
 {
-  "bankroll": 239.19055229722193,
+  "bankroll": 231.22814488981453,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24810,6 +24810,31 @@
       "timestamp": 1789062421.258462,
       "bankroll": 239.19,
       "event": "won: Flaznorp \u2014 Dubai United FC vs. Shabab Al Ahli Dubai: O/U 1.5"
+    },
+    {
+      "timestamp": 1789066178.0516226,
+      "bankroll": 234.06,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1789066178.352196,
+      "bankroll": 228.98,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1789066180.0360446,
+      "bankroll": 233.12,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1789066182.2082305,
+      "bankroll": 227.99,
+      "event": "lost: vjnn \u2014 Tampa Bay Rays vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1789066183.9581027,
+      "bankroll": 231.23,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
     }
   ]
 }

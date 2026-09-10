@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 13:48:43 (hora de Perú)
+Actualizado: 2026-09-10 13:50:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $239.19
-**Retorno acumulado:** -52.16%
+**Bankroll actual:** $231.23
+**Retorno acumulado:** -53.75%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 13:48:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $238.25 en 48 posiciones abiertas (disponible para nuevas apuestas: $0.94)
+**Capital comprometido ahora mismo:** $213.25 en 43 posiciones abiertas (disponible para nuevas apuestas: $17.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| vjnn | 2 | 0 | 2 | +7.48 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -72,6 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| vjnn | 2 | 1 | 1 | +2.35 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 699 | 437 | 27 | -255.34 USD |
+| ferrariChampions2026 | 701 | 439 | 23 | -258.18 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4751
-- **Aciertos:** 2991 (63.0%)
+- **Apuestas resueltas:** 4756
+- **Aciertos:** 2993 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,717.23
-- **ROI sobre lo apostado:** -1.62%
-- **Comisiones pagadas (taker fee):** $440.65 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,742.23
+- **ROI sobre lo apostado:** -1.66%
+- **Comisiones pagadas (taker fee):** $441.20 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,8 +169,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2429 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1430 | 68.5% | 67.8% | +0.7 pp |
+| 40-59% | 2432 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1432 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 628 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
 
@@ -954,7 +954,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 7.3% | ⏳ pendiente | — |
@@ -969,7 +969,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 10.8% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 45.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ✅ ganada | +1.69 |
-| vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |
+| vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ❌ perdida | -5.13 |
 | Flaznorp | Will PFC Sogdiana win on 2026-09-10? | No (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Al Jazira (UAE) win on 2026-09-10? | No (BUY) | 59% | 5.00 | 0.4% | ✅ ganada | +3.37 |
 | Flaznorp | Will Al Jazira (UAE) vs. Al-Nasr Dubai C | Yes (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
