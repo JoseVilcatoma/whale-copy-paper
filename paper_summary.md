@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 13:11:06 (hora de Perú)
+Actualizado: 2026-09-10 13:13:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 13:11:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $15.94)
+**Capital comprometido ahora mismo:** $228.25 en 46 posiciones abiertas (disponible para nuevas apuestas: $10.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| vjnn | 2 | 0 | 1 | +7.48 USD |
+| vjnn | 2 | 0 | 2 | +7.48 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -944,14 +944,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-psv-shd-2026-09-10-total-3pt5 | Jsram, ferrariChampions2026 |
 | atp-silv-monteir-2026-09-10 | , ferrariChampions2026 |
 | atp-valle-travagl-2026-09-10 | , ferrariChampions2026 |
+| mlb-hou-phi-2026-09-10 | ferrariChampions2026, vjnn |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -978,4 +980,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 9.3% | ✅ ganada | +6.48 |
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ✅ ganada | +1.97 |
-| Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |

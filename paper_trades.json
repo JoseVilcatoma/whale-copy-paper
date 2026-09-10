@@ -123801,8 +123801,8 @@
     "title": "Seville: Henrique Rocha vs Santiago Rodriguez Taverna",
     "outcome": "Henrique Rocha",
     "side": "BUY",
-    "whale_usd": 2488.64,
-    "whale_pct": 0.876,
+    "whale_usd": 7025.120000000001,
+    "whale_pct": 2.473,
     "whale_value_at_open": 284059.9261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -123813,8 +123813,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789063462.0320885,
-    "fills": 1
+    "last_fill_at": 1789063990.3591356,
+    "fills": 2
   },
   {
     "timestamp": 1789063569,
@@ -123863,5 +123863,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789063763.5093644,
     "fills": 1
+  },
+  {
+    "timestamp": 1789063880,
+    "timestamp_added": 1789063880.6571743,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-hou-phi-2026-09-10",
+    "title": "Houston Astros vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 21401.46,
+    "whale_pct": 1426.764,
+    "whale_value_at_open": 1500,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789063896.023521,
+    "fills": 2
   }
 ]
