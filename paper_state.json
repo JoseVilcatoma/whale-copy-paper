@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.48568655720555,
+  "bankroll": 224.90098442954599,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24600,6 +24600,16 @@
       "timestamp": 1789042497.1194115,
       "bankroll": 224.49,
       "event": "lost: Noprajsk \u2014 Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789043127.7996442,
+      "bankroll": 219.4,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Francesca Jones vs Rositsa Dencheva"
+    },
+    {
+      "timestamp": 1789043127.8998,
+      "bankroll": 224.9,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Francesca Jones vs Rositsa Dencheva"
     }
   ]
 }
