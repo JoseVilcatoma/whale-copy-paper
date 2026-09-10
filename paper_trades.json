@@ -122285,5 +122285,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789038281.707352,
     "fills": 4
+  },
+  {
+    "timestamp": 1789039527,
+    "timestamp_added": 1789039528.2079544,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tunglin-casteln-2026-09-08",
+    "title": "Shanghai: Tung-Lin Wu vs Luca Castelnuovo",
+    "outcome": "Tung-Lin Wu",
+    "side": "BUY",
+    "whale_usd": 1318.055112,
+    "whale_pct": 0.76,
+    "whale_value_at_open": 173421.9421,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789039528.2079675,
+    "fills": 1
   }
 ]

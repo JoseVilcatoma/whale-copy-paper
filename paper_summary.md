@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 06:24:49 (hora de Perú)
+Actualizado: 2026-09-10 06:26:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $231.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 06:24:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $96.47)
+**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $91.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 683 | 429 | 13 | -256.78 USD |
+| ferrariChampions2026 | 683 | 429 | 14 | -256.78 USD |
 
 ## Análisis general
 
@@ -942,6 +942,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Tung-Lin Wu (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - M | MIBR (BUY) | 46% | 5.00 | 939.6% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team (BO | MIBR (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 15.5% | ⏳ pendiente | — |
@@ -971,4 +972,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 94% | 5.00 | 15.5% | ⏳ pendiente | — |
 |  | SK Slavia Praha vs. Racing Club de Lens: | Over (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 23.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
