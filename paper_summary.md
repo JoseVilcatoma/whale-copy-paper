@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 17:07:11 (hora de Perú)
+Actualizado: 2026-09-10 17:09:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $242.07
@@ -979,7 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 80% | 5.00 | 3.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Texas Rangers (BUY) | 68% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 7.1% | ❌ perdida | -3.81 |
-| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
 |  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ✅ ganada | +1.36 |
 |  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 43.3% | ❌ perdida | -5.13 |

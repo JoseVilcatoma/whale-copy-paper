@@ -124328,8 +124328,8 @@
     "title": "Texas Rangers vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 6359.77334,
-    "whale_pct": 2.989,
+    "whale_usd": 11743.84454,
+    "whale_pct": 5.52,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -124342,8 +124342,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789078017.9163458,
-    "fills": 5
+    "last_fill_at": 1789078045.3564608,
+    "fills": 6
   },
   {
     "timestamp": 1789069334,
