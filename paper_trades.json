@@ -122120,8 +122120,8 @@
     "title": "Counter-Strike: Legacy vs FURIA - Map 2 Winner",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 29005.538699999997,
-    "whale_pct": 34.419,
+    "whale_usd": 56177.0219,
+    "whale_pct": 66.662,
     "whale_value_at_open": 84271.5206,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -122132,8 +122132,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789034794.4390883,
-    "fills": 5
+    "last_fill_at": 1789035647.849529,
+    "fills": 6
   },
   {
     "timestamp": 1789035006,
