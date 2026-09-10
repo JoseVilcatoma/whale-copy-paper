@@ -120069,8 +120069,8 @@
     "title": "Barranquilla: Emiliana Arango vs Carol Young Suh Lee",
     "outcome": "Carol Young Suh Lee",
     "side": "BUY",
-    "whale_usd": 7216.973167,
-    "whale_pct": 1.8,
+    "whale_usd": 8798.833167,
+    "whale_pct": 2.195,
     "whale_value_at_open": 400906.5677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -120081,8 +120081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789000837.1341822,
-    "fills": 4
+    "last_fill_at": 1789000916.4156966,
+    "fills": 5
   },
   {
     "timestamp": 1788991424,
