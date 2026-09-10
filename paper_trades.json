@@ -120982,5 +120982,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789004357.7489693,
     "fills": 1
+  },
+  {
+    "timestamp": 1789004945,
+    "timestamp_added": 1789004945.5458212,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-ari-kc-2026-09-09",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 976.08,
+    "whale_pct": 0.816,
+    "whale_value_at_open": 119601.393,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789004945.5458353,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789005046,
+    "timestamp_added": 1789005046.7508562,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-ari-kc-2026-09-09",
+    "title": "Arizona Diamondbacks vs. Kansas City Royals",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 1486.9969999999998,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 382007.5371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789005046.7508671,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 20:49:02 (hora de Perú)
+Actualizado: 2026-09-09 20:51:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $236.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 20:49:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.04 en 45 posiciones abiertas (disponible para nuevas apuestas: $14.60)
+**Capital comprometido ahora mismo:** $232.04 en 47 posiciones abiertas (disponible para nuevas apuestas: $4.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 58 | 38 | 8 | +33.48 USD |
+| wr0ngw4yb3tt0r | 58 | 38 | 9 | +33.48 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 87 | 67 | 6 | -137.63 USD |
+|  | 87 | 67 | 7 | -137.63 USD |
 | ferrariChampions2026 | 666 | 419 | 13 | -250.24 USD |
 
 ## Análisis general
@@ -916,6 +916,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-erhard-glinka-2026-09-09 | , ferrariChampions2026 |
 | atp-hipfl-barrena-2026-09-09 | , ferrariChampions2026 |
 | wta-escorih-bulgaru-2026-09-09 | , Noprajsk, ferrariChampions2026 |
+| mlb-ari-kc-2026-09-09 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-stl-sf-2026-09-09-total-8pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | cs2-prv-furia-2026-09-09-game2 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Noprajsk |
 | wta-brancac-galfi-2026-09-09 | , ferrariChampions2026 |
@@ -934,6 +935,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
+|  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 10.7% | ⏳ pendiente | — |
@@ -962,5 +965,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Nashville SC win on 2026-09-09? | No (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
-| theowalcott | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 61% | 5.00 | 391.0% | ⏳ pendiente | — |
-|  | Barranquilla: Kaitlin Quevedo vs Sara So | Sara Sorribes Tormo (BUY) | 43% | 4.81 | 1.3% | ❌ perdida | -4.95 |
