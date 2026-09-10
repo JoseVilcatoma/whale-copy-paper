@@ -1,5 +1,5 @@
 {
-  "bankroll": 218.3768453072304,
+  "bankroll": 224.8617522839746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24630,6 +24630,11 @@
       "timestamp": 1789044698.6780677,
       "bankroll": 218.38,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Moez Echargui vs Billy Harris"
+    },
+    {
+      "timestamp": 1789044949.6026795,
+      "bankroll": 224.86,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Hugo Dellien vs Matej Dodig"
     }
   ]
 }
