@@ -122144,8 +122144,8 @@
     "title": "Shanghai: Jie Cui vs Yi Zhou",
     "outcome": "Yi Zhou",
     "side": "BUY",
-    "whale_usd": 1864.4,
-    "whale_pct": 1.439,
+    "whale_usd": 7169.652399999999,
+    "whale_pct": 5.533,
     "whale_value_at_open": 129576.6964,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -122158,7 +122158,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789035007.3147488,
-    "fills": 1
+    "last_fill_at": 1789035120.0029933,
+    "fills": 2
   }
 ]
