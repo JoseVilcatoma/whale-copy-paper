@@ -123511,8 +123511,8 @@
     "title": "Will AS Roma win on 2026-09-10?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1905.581178,
-    "whale_pct": 10.281,
+    "whale_usd": 7670.287061,
+    "whale_pct": 41.383,
     "whale_value_at_open": 18535.0368,
     "paper_stake_usd": 3.65,
     "odds_at_bet": 50,
@@ -123523,8 +123523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058192.7298458,
-    "fills": 3
+    "last_fill_at": 1789058309.5431333,
+    "fills": 5
   },
   {
     "timestamp": 1789058151,
@@ -123573,5 +123573,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789058155.3578136,
     "fills": 1
+  },
+  {
+    "timestamp": 1789058351,
+    "timestamp_added": 1789058351.7152581,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "ucl-psv-shd-2026-09-10-total-3pt5",
+    "title": "PSV vs. FK Shakhtar Donetsk: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2127.6000000000004,
+    "whale_pct": 1.552,
+    "whale_value_at_open": 137089.8411,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789058357.941743,
+    "fills": 2
   }
 ]
