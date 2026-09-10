@@ -1,5 +1,5 @@
 {
-  "bankroll": 216.27628141632957,
+  "bankroll": 218.24553493745634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24740,6 +24740,11 @@
       "timestamp": 1789055715.1863346,
       "bankroll": 216.28,
       "event": "won:  \u2014 Counter-Strike: G2 vs 5star - Map 2 Winner"
+    },
+    {
+      "timestamp": 1789056845.4231288,
+      "bankroll": 218.25,
+      "event": "won:  \u2014 W50 Evora: Jo-Yee Chan vs Angelina Voloshchuk"
     }
   ]
 }

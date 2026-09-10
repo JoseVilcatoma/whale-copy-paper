@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:12:33 (hora de Perú)
+Actualizado: 2026-09-10 11:14:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $216.28
-**Retorno acumulado:** -56.74%
+**Bankroll actual:** $218.25
+**Retorno acumulado:** -56.35%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 11:12:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $1.68)
+**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $8.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 99 | 72 | 8 | -136.48 USD |
+|  | 100 | 72 | 7 | -134.51 USD |
 | ferrariChampions2026 | 696 | 436 | 17 | -260.09 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4737
-- **Aciertos:** 2979 (62.9%)
+- **Apuestas resueltas:** 4738
+- **Aciertos:** 2980 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,647.23
-- **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $439.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,652.23
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $439.55 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2424 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1424 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1425 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 263 | 97.0% | 97.3% | -0.3 pp |
 
@@ -960,7 +960,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 9.3% | ⏳ pendiente | — |
-|  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
+|  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ✅ ganada | +1.97 |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
