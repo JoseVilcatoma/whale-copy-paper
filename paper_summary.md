@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 19:01:00 (hora de Perú)
+Actualizado: 2026-09-09 19:03:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 19:01:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $26.06)
+**Capital comprometido ahora mismo:** $227.47 en 46 posiciones abiertas (disponible para nuevas apuestas: $16.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
-| bands1 | 1 | 0 | 0 | +2.72 USD |
+| bands1 | 1 | 0 | 1 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 87 | 66 | 5 | -132.68 USD |
-| ferrariChampions2026 | 663 | 416 | 15 | -242.79 USD |
+| ferrariChampions2026 | 663 | 416 | 16 | -242.79 USD |
 
 ## Análisis general
 
@@ -925,12 +925,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-jeanjea-pareja-2026-09-09 | , Antblack, ferrariChampions2026 |
 | atp-zverev-zandsch-2026-09-09 | , ferrariChampions2026 |
 | wta-quevedo-tormo-2026-09-09 | , ferrariChampions2026 |
+| mlb-hou-phi-2026-09-09 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mls-phi-fcc-2026-09-09-spread-home-1pt5 | , Flaznorp, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 75% | 5.00 | 3.7% | ⏳ pendiente | — |
+| bands1 | Spread: Seahawks (-2.5) | Patriots (BUY) | 44% | 5.00 | 16.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -959,5 +962,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. San Diego Padre | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 |  | Barranquilla: Leolia Jeanjean vs Julieta | Leolia Jeanjean (BUY) | 69% | 5.00 | 19.0% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Barranquilla: Emiliana Arango vs Carol Y | Carol Young Suh Lee (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will SE Palmeiras win on 2026-09-09? | Yes (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
