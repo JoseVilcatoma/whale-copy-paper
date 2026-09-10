@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 20:53:20 (hora de Perú)
+Actualizado: 2026-09-09 20:55:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.36
@@ -935,7 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.4% | ⏳ pendiente | — |
+|  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |

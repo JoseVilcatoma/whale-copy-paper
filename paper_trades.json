@@ -121045,8 +121045,8 @@
     "title": "CS Cienciano vs. Montevideo City Torque: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 517.4599999999999,
-    "whale_pct": 0.427,
+    "whale_usd": 1053.01,
+    "whale_pct": 0.869,
     "whale_value_at_open": 121168.6451,
     "paper_stake_usd": 4.6,
     "odds_at_bet": 49,
@@ -121057,7 +121057,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789005105.1381545,
-    "fills": 1
+    "last_fill_at": 1789005217.5334096,
+    "fills": 2
   }
 ]
