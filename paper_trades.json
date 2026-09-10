@@ -121441,8 +121441,8 @@
     "title": "Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo",
     "outcome": "Kenta Miyoshi",
     "side": "BUY",
-    "whale_usd": 719.2800000000001,
-    "whale_pct": 0.629,
+    "whale_usd": 3527.28,
+    "whale_pct": 3.083,
     "whale_value_at_open": 114401.138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -121453,8 +121453,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789011440.7280471,
-    "fills": 1
+    "last_fill_at": 1789011921.6925464,
+    "fills": 2
   },
   {
     "timestamp": 1789011836,
@@ -121465,8 +121465,8 @@
     "title": "Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo",
     "outcome": "Filip Peliwo",
     "side": "BUY",
-    "whale_usd": 1173.5852999999997,
-    "whale_pct": 1.082,
+    "whale_usd": 5459.2953,
+    "whale_pct": 5.035,
     "whale_value_at_open": 108421.4054,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -121477,7 +121477,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789011836.9803405,
-    "fills": 1
+    "last_fill_at": 1789011965.771085,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:44:30 (hora de Perú)
+Actualizado: 2026-09-09 22:46:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.04
@@ -938,8 +938,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ⏳ pendiente | — |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Astralis vs 5star (BO3)  | Astralis (BUY) | 93% | 5.00 | 1.0% | ⏳ pendiente | — |
