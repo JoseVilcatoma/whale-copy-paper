@@ -122855,8 +122855,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Stefano Travaglia",
     "side": "BUY",
-    "whale_usd": 30198.181682,
-    "whale_pct": 14.274,
+    "whale_usd": 30733.28844,
+    "whale_pct": 14.527,
     "whale_value_at_open": 211566.7181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -122867,8 +122867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789051331.1365967,
-    "fills": 11
+    "last_fill_at": 1789051437.3072066,
+    "fills": 12
   },
   {
     "timestamp": 1789048830,
@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 9247.44,
-    "whale_pct": 5.064,
+    "whale_usd": 11174.576477,
+    "whale_pct": 6.12,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789050556.552652,
-    "fills": 2
+    "last_fill_at": 1789051447.1466677,
+    "fills": 3
   },
   {
     "timestamp": 1789050037,
@@ -123158,6 +123158,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789050956.6099718,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789051448,
+    "timestamp_added": 1789051449.1138682,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-chan1-volosh1-2026-09-10",
+    "title": "W50 Evora: Jo-Yee Chan vs Angelina Voloshchuk",
+    "outcome": "Angelina Voloshchuk",
+    "side": "BUY",
+    "whale_usd": 783.3133000000001,
+    "whale_pct": 0.558,
+    "whale_value_at_open": 140482.7247,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789051449.1138785,
     "fills": 1
   }
 ]
