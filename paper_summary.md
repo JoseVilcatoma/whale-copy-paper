@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 09:48:42 (hora de Perú)
+Actualizado: 2026-09-10 09:50:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $223.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 09:48:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $194.60 en 39 posiciones abiertas (disponible para nuevas apuestas: $28.90)
+**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $18.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 89 | 34 | 8 | -10.51 USD |
+| Flaznorp | 89 | 34 | 10 | -10.51 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -946,8 +946,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
-|  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
+|  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -955,7 +957,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 6.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 10.5% | ⏳ pendiente | — |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -974,5 +976,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FC Bayern München (-3.5) | FC Bayern München (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Ane Mintegi Del Olmo vs Alici | Ane Mintegi Del Olmo (BUY) | 50% | 5.00 | 1.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W35 Reus: Jessica Pieri vs Marianna Argy | Marianna Argyrokastriti (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
-| ferrariChampions2026 | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 82% | 5.00 | 6.8% | ✅ ganada | +1.05 |
-| ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
