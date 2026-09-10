@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.1902983708655,
+  "bankroll": 219.0522983708655,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24350,6 +24350,11 @@
       "timestamp": 1789008139.121878,
       "bankroll": 224.19,
       "event": "won:  \u2014 New York Mets vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1789008326.410002,
+      "bankroll": 219.05,
+      "event": "lost: Sunshine.Smile \u2014 Dota 2: MOUZ vs Klim Sani4 - Game 1 Winner"
     }
   ]
 }

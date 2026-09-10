@@ -119805,8 +119805,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -120920,8 +120920,8 @@
     "title": "Patriots vs. Seahawks",
     "outcome": "Patriots",
     "side": "BUY",
-    "whale_usd": 36329.333786,
-    "whale_pct": 10.652,
+    "whale_usd": 37522.357042,
+    "whale_pct": 11.001,
     "whale_value_at_open": 341068.775,
     "paper_stake_usd": 4.38,
     "odds_at_bet": 53,
@@ -120932,8 +120932,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789002455.5127475,
-    "fills": 5
+    "last_fill_at": 1789008398.1906626,
+    "fills": 6
   },
   {
     "timestamp": 1789004213,
