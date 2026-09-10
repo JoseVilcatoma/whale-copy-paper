@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 06:59:11 (hora de Perú)
+Actualizado: 2026-09-10 07:01:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $229.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 06:59:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $90.02)
+**Capital comprometido ahora mismo:** $144.60 en 29 posiciones abiertas (disponible para nuevas apuestas: $85.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 684 | 429 | 17 | -255.65 USD |
+| ferrariChampions2026 | 684 | 429 | 18 | -255.65 USD |
 
 ## Análisis general
 
@@ -942,6 +942,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Genaro Alberto Olivieri (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Luca Castelnuovo (BUY) | 65% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -971,4 +972,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Fenerbahçe SK vs. AS Roma: AS Roma O/U 0 | Over (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Manchester United FC (-2.5) | Sabah FK (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Koki Matsuda (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
-| Flaznorp | Spread: AS Roma (-2.5) | Fenerbahçe SK (BUY) | 91% | 5.00 | 0.3% | ⏳ pendiente | — |

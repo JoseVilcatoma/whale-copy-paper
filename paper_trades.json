@@ -122405,5 +122405,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789041482.3567529,
     "fills": 1
+  },
+  {
+    "timestamp": 1789041590,
+    "timestamp_added": 1789041590.78693,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dedurap-heide-2026-09-10",
+    "title": "Tulln: Diego Dedura-Palomero vs Gustavo Heide",
+    "outcome": "Gustavo Heide",
+    "side": "BUY",
+    "whale_usd": 10119.84,
+    "whale_pct": 5.228,
+    "whale_value_at_open": 193558.5725,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789041590.7869422,
+    "fills": 1
   }
 ]
