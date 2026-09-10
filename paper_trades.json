@@ -110241,13 +110241,14 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.4,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788773002.321388,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1788773279,
@@ -122023,8 +122024,8 @@
     "title": "Counter-Strike: Legacy vs FURIA - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 128533.83801200001,
-    "whale_pct": 263.907,
+    "whale_usd": 136616.84597700002,
+    "whale_pct": 280.503,
     "whale_value_at_open": 48704.2304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -122035,7 +122036,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789032206.197067,
-    "fills": 3
+    "last_fill_at": 1789032253.156778,
+    "fills": 5
   }
 ]
