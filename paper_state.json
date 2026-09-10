@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.13179350960652,
+  "bankroll": 216.19448451805164,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24300,6 +24300,41 @@
       "timestamp": 1789006433.8368428,
       "bankroll": 224.13,
       "event": "lost: Zzzz87 \u2014 Will Orlando City SC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006749.6583724,
+      "bankroll": 218.99,
+      "event": "lost: Zzzz87 \u2014 Will Philadelphia Union win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006751.0848022,
+      "bankroll": 222.09,
+      "event": "won: theowalcott \u2014 Will Philadelphia Union win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006751.5312653,
+      "bankroll": 228.31,
+      "event": "won: theowalcott \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1789006751.6314578,
+      "bankroll": 223.21,
+      "event": "lost:  \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1789006751.7316694,
+      "bankroll": 218.06,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Philadelphia Union win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006752.2053075,
+      "bankroll": 221.29,
+      "event": "won:  \u2014 Will Philadelphia Union win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006752.3054545,
+      "bankroll": 216.19,
+      "event": "lost: Flaznorp \u2014 Spread: Philadelphia Union (-1.5)"
     }
   ]
 }
