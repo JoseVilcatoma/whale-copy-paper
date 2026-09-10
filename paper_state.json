@@ -1,5 +1,5 @@
 {
-  "bankroll": 222.55452830454334,
+  "bankroll": 223.9112382163233,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24665,6 +24665,16 @@
       "timestamp": 1789048456.1595774,
       "bankroll": 222.55,
       "event": "won: ferrariChampions2026 \u2014 W35 Reus: Jessica Pieri vs Marianna Argyrokastriti"
+    },
+    {
+      "timestamp": 1789049518.1572475,
+      "bankroll": 223.61,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Maria Lourdes Carle vs Eva Vedder"
+    },
+    {
+      "timestamp": 1789049518.5577269,
+      "bankroll": 223.91,
+      "event": "won:  \u2014 Antalya 4: Maria Lourdes Carle vs Eva Vedder"
     }
   ]
 }
