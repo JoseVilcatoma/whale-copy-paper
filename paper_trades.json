@@ -124125,8 +124125,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 15000.0,
-    "whale_pct": 26.149,
+    "whale_usd": 21374.999999,
+    "whale_pct": 37.262,
     "whale_value_at_open": 57363.5639,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -124137,8 +124137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067943.8676288,
-    "fills": 1
+    "last_fill_at": 1789068733.1784878,
+    "fills": 2
   },
   {
     "timestamp": 1789067943,
@@ -124149,8 +124149,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Francesco Passaro",
     "side": "BUY",
-    "whale_usd": 2849.84,
-    "whale_pct": 1.597,
+    "whale_usd": 4942.380000000001,
+    "whale_pct": 2.77,
     "whale_value_at_open": 178448.8973,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -124163,8 +124163,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067944.501337,
-    "fills": 1
+    "last_fill_at": 1789068732.8798592,
+    "fills": 2
   },
   {
     "timestamp": 1789068038,

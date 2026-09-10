@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:30:22 (hora de Perú)
+Actualizado: 2026-09-10 14:32:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.32
@@ -957,8 +957,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 2.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
-|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 26.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
+|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 37.3% | ⏳ pendiente | — |
 |  | Manchester United FC vs. Sabah FK: Both  | No (BUY) | 62% | 5.00 | 4.2% | ⏳ pendiente | — |
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ⏳ pendiente | — |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ⏳ pendiente | — |
