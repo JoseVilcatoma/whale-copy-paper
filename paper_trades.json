@@ -121291,8 +121291,8 @@
     "title": "US Open ATP (Doubles): Bolelli/Vavassori vs Harrison/Skupski",
     "outcome": "Harrison/Skupski",
     "side": "BUY",
-    "whale_usd": 586.5899999999999,
-    "whale_pct": 0.297,
+    "whale_usd": 2627.7299999999996,
+    "whale_pct": 1.33,
     "whale_value_at_open": 197644.5802,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -121303,8 +121303,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789010072.5725176,
-    "fills": 1
+    "last_fill_at": 1789011005.92373,
+    "fills": 2
   },
   {
     "timestamp": 1789010106,
