@@ -122953,8 +122953,8 @@
     "title": "Will AS \u00c1ris Thessalon\u00edkis win on 2026-09-09?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2266.4701999999997,
-    "whale_pct": 1.705,
+    "whale_usd": 2840.0601989999996,
+    "whale_pct": 2.136,
     "whale_value_at_open": 132965.4708,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -122965,8 +122965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789049763.5547216,
-    "fills": 1
+    "last_fill_at": 1789058067.9414687,
+    "fills": 2
   },
   {
     "timestamp": 1789049920,
@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 35679.76347899999,
-    "whale_pct": 19.539,
+    "whale_usd": 44317.62764899999,
+    "whale_pct": 24.27,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789057585.1178057,
-    "fills": 18
+    "last_fill_at": 1789058139.9739838,
+    "fills": 19
   },
   {
     "timestamp": 1789050037,

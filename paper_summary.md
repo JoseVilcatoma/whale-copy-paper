@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:31:23 (hora de Perú)
+Actualizado: 2026-09-10 11:35:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.12
@@ -970,8 +970,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 19.5% | ⏳ pendiente | — |
-|  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 24.3% | ⏳ pendiente | — |
+|  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 392.2% | ✅ ganada | +5.51 |
