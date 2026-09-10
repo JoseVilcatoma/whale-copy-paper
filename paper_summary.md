@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 04:07:18 (hora de Perú)
+Actualizado: 2026-09-10 04:09:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $226.58
-**Retorno acumulado:** -54.68%
+**Bankroll actual:** $234.78
+**Retorno acumulado:** -53.04%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 04:07:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $119.60 en 24 posiciones abiertas (disponible para nuevas apuestas: $106.98)
+**Capital comprometido ahora mismo:** $109.60 en 22 posiciones abiertas (disponible para nuevas apuestas: $125.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,6 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 30 | 25 | 0 | +16.66 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
+| ExplosiveNinja | 29 | 16 | 1 | +14.29 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -48,7 +49,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| ExplosiveNinja | 28 | 16 | 2 | +8.07 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 680 | 428 | 12 | -258.08 USD |
+| ferrariChampions2026 | 681 | 428 | 11 | -256.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4697
-- **Aciertos:** 2953 (62.9%)
+- **Apuestas resueltas:** 4699
+- **Aciertos:** 2955 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,447.23
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $436.20 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,457.23
+- **ROI sobre lo apostado:** -1.66%
+- **Comisiones pagadas (taker fee):** $436.41 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,8 +169,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2409 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1412 | 68.5% | 67.8% | +0.7 pp |
+| 40-59% | 2410 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1413 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
@@ -943,7 +943,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | FC Bayern München vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Tiago Pereira (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: AST (-1.5) vs 5star (+1.5) | Astralis (BUY) | 69% | 5.00 | 3.2% | ⏳ pendiente | — |

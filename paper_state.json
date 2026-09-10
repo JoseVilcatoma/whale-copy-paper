@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.58441476794667,
+  "bankroll": 234.7773046527098,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24535,6 +24535,16 @@
       "timestamp": 1789030299.0743496,
       "bankroll": 226.58,
       "event": "won: ferrariChampions2026 \u2014 Shanghai: Ji-Sung Nam vs Denis Yevseyev"
+    },
+    {
+      "timestamp": 1789031253.7577245,
+      "bankroll": 232.81,
+      "event": "won: mmklop \u2014 Counter-Strike: PARIVISION vs magic (BO3) - FISSURE PLAYGROUND Group B"
+    },
+    {
+      "timestamp": 1789031256.8461273,
+      "bankroll": 234.78,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Miguel Tobon vs Edas Butvilas"
     }
   ]
 }
