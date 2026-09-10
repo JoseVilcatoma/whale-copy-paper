@@ -122707,8 +122707,8 @@
     "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 173783.85886799998,
-    "whale_pct": 60.242,
+    "whale_usd": 348717.479268,
+    "whale_pct": 120.883,
     "whale_value_at_open": 288476.0569,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -122719,8 +122719,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789047218.8839335,
-    "fills": 30
+    "last_fill_at": 1789047599.701814,
+    "fills": 33
   },
   {
     "timestamp": 1789047078,

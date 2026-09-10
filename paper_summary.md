@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:39:16 (hora de Perú)
+Actualizado: 2026-09-10 08:41:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.50
@@ -949,7 +949,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 60.2% | ⏳ pendiente | — |
+| Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 120.9% | ⏳ pendiente | — |
 |  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ⏳ pendiente | — |
