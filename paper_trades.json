@@ -122621,5 +122621,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789046448.4385555,
     "fills": 1
+  },
+  {
+    "timestamp": 1789046680,
+    "timestamp_added": 1789046680.430275,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-carle-vedder-2026-09-09",
+    "title": "Antalya 4: Maria Lourdes Carle vs Eva Vedder",
+    "outcome": "Maria Lourdes Carle",
+    "side": "BUY",
+    "whale_usd": 1831.909991,
+    "whale_pct": 1.456,
+    "whale_value_at_open": 125806.2555,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789046680.430285,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:23:03 (hora de Perú)
+Actualizado: 2026-09-10 08:24:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $222.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 08:23:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $87.78)
+**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $82.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 95 | 71 | 3 | -139.20 USD |
+|  | 95 | 71 | 4 | -139.20 USD |
 | ferrariChampions2026 | 689 | 433 | 17 | -257.77 USD |
 
 ## Análisis general
@@ -937,11 +937,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
 | cs2-mibr-bb3-2026-09-10 | Noprajsk, vjnn |
 | atp-cui-zhou-2026-09-09 | , Flaznorp, ferrariChampions2026 |
+| wta-carle-vedder-2026-09-09 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-3.5) | FC Bayern München (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Ane Mintegi Del Olmo vs Alici | Ane Mintegi Del Olmo (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -971,4 +973,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.6% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | FC Bayern München vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
