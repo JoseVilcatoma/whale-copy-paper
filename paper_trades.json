@@ -124328,8 +124328,8 @@
     "title": "Texas Rangers vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 11743.84454,
-    "whale_pct": 5.52,
+    "whale_usd": 15207.459974000001,
+    "whale_pct": 7.148,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -124342,8 +124342,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789078045.3564608,
-    "fills": 6
+    "last_fill_at": 1789078244.4057095,
+    "fills": 7
   },
   {
     "timestamp": 1789069334,
@@ -124839,6 +124839,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789077943.4443998,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789078245,
+    "timestamp_added": 1789078245.9261663,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-lee-jeanjea-2026-09-10",
+    "title": "Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean",
+    "outcome": "Leolia Jeanjean",
+    "side": "BUY",
+    "whale_usd": 933.5438479999999,
+    "whale_pct": 0.67,
+    "whale_value_at_open": 139274.8256,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789078245.9261734,
     "fills": 1
   }
 ]
