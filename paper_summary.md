@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:07:52 (hora de Perú)
+Actualizado: 2026-09-09 21:09:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $231.32
-**Retorno acumulado:** -53.74%
+**Bankroll actual:** $229.21
+**Retorno acumulado:** -54.16%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 21:07:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $191.64 en 39 posiciones abiertas (disponible para nuevas apuestas: $39.68)
+**Capital comprometido ahora mismo:** $171.64 en 35 posiciones abiertas (disponible para nuevas apuestas: $57.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 59 | 38 | 8 | +37.80 USD |
+| wr0ngw4yb3tt0r | 61 | 39 | 5 | +40.76 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -150,17 +150,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 88 | 67 | 9 | -133.13 USD |
-| ferrariChampions2026 | 668 | 420 | 10 | -253.59 USD |
+| ferrariChampions2026 | 668 | 421 | 9 | -258.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4645
-- **Aciertos:** 2921 (62.9%)
+- **Apuestas resueltas:** 4649
+- **Aciertos:** 2923 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,190.19
+- **Total apostado (suma de stakes):** $23,210.19
 - **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $431.38 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $431.73 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -169,8 +169,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2383 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1394 | 68.7% | 67.8% | +0.9 pp |
+| 40-59% | 2385 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1396 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 609 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 259 | 96.9% | 97.3% | -0.4 pp |
 
@@ -947,7 +947,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 84% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 27.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 75% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 75% | 5.00 | 4.8% | ❌ perdida | -5.06 |
 | bands1 | Spread: Seahawks (-2.5) | Patriots (BUY) | 44% | 5.00 | 25.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Cleveland Guardians vs. Baltimore Oriole | Baltimore Orioles (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
@@ -957,7 +957,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
 | Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Los Angeles Angels vs. Boston Red Sox | Los Angeles Angels (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
-| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
 | Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.7% | ✅ ganada | +1.36 |
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |

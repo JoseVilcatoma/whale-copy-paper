@@ -1,5 +1,5 @@
 {
-  "bankroll": 231.3177192390495,
+  "bankroll": 229.2067935096065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24275,6 +24275,26 @@
       "timestamp": 1789005810.810754,
       "bankroll": 231.32,
       "event": "lost: Zzzz87 \u2014 Will D.C. United SC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789006124.9455402,
+      "bankroll": 235.81,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Patriots vs. Seahawks: 1H O/U 21.5"
+    },
+    {
+      "timestamp": 1789006126.3740594,
+      "bankroll": 239.33,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789006127.5954852,
+      "bankroll": 234.27,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789006128.2885575,
+      "bankroll": 229.21,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies"
     }
   ]
 }
