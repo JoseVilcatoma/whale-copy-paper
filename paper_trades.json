@@ -123243,8 +123243,8 @@
     "title": "Dubai United FC vs. Shabab Al Ahli Dubai: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 6259.3751680000005,
-    "whale_pct": 1.531,
+    "whale_usd": 6922.609168000001,
+    "whale_pct": 1.694,
     "whale_value_at_open": 408708.8304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -123255,8 +123255,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789052084.50229,
-    "fills": 7
+    "last_fill_at": 1789052098.0314474,
+    "fills": 8
   },
   {
     "timestamp": 1789051953,
