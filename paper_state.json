@@ -1,5 +1,5 @@
 {
-  "bankroll": 223.5259857754029,
+  "bankroll": 225.30730084389603,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24525,6 +24525,11 @@
       "timestamp": 1789020520.0270524,
       "bankroll": 223.53,
       "event": "won:  \u2014 M15 Bali: Hayden Jones vs M Rifqi Fitriadi"
+    },
+    {
+      "timestamp": 1789025546.9731789,
+      "bankroll": 225.31,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A"
     }
   ]
 }
