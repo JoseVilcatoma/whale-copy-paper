@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 07:28:34 (hora de Perú)
+Actualizado: 2026-09-10 07:30:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.90
@@ -946,7 +946,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Genaro Alberto Olivieri (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Luca Castelnuovo (BUY) | 65% | 5.00 | 8.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Filip Misolic vs Mika Brunold | Mika Brunold (BUY) | 73% | 5.00 | 6.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Filip Misolic vs Mika Brunold | Mika Brunold (BUY) | 73% | 5.00 | 7.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Tung-Lin Wu (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - M | MIBR (BUY) | 46% | 5.00 | 939.6% | ❌ perdida | -5.13 |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team (BO | MIBR (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
