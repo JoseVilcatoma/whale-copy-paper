@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 10:05:16 (hora de Perú)
+Actualizado: 2026-09-10 10:07:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $215.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 10:05:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $5.67)
+**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $0.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 89 | 34 | 14 | -10.51 USD |
+| Flaznorp | 89 | 34 | 15 | -10.51 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -947,9 +947,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Will Al Jazira (UAE) vs. Al-Nasr Dubai C | Yes (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Will Al Jazira (UAE) win on 2026-09-10? | No (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Al Jazira (UAE) vs. Al-Nasr Dubai C | Yes (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open ATP (Doubles): Krawietz/Puetz vs | Ram/Salisbury (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 69% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -976,4 +977,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 120.9% | ❌ perdida | -5.15 |
-|  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
