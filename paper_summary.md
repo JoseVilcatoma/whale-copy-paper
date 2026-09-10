@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 18:42:17 (hora de Perú)
+Actualizado: 2026-09-10 18:44:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 18:42:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $100.88)
+**Capital comprometido ahora mismo:** $144.60 en 29 posiciones abiertas (disponible para nuevas apuestas: $95.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 6 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 7 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -961,6 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Burgos CF vs. AD Ceuta FC: O/U 8.5 Total | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Jessica  | Aryna Sabalenka (BUY) | 69% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -990,4 +991,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 51% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 22.4% | ✅ ganada | +4.14 |
