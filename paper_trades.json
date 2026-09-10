@@ -124125,8 +124125,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 27749.999999,
-    "whale_pct": 48.376,
+    "whale_usd": 31899.999999,
+    "whale_pct": 55.61,
     "whale_value_at_open": 57363.5639,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -124137,8 +124137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068751.475306,
-    "fills": 3
+    "last_fill_at": 1789069194.9915962,
+    "fills": 4
   },
   {
     "timestamp": 1789067943,
@@ -124149,8 +124149,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Francesco Passaro",
     "side": "BUY",
-    "whale_usd": 4942.380000000001,
-    "whale_pct": 2.77,
+    "whale_usd": 7268.780000000001,
+    "whale_pct": 4.073,
     "whale_value_at_open": 178448.8973,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -124163,8 +124163,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068732.8798592,
-    "fills": 2
+    "last_fill_at": 1789069195.158838,
+    "fills": 3
   },
   {
     "timestamp": 1789068038,
@@ -124175,8 +124175,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Simona Waltert",
     "side": "BUY",
-    "whale_usd": 10934.080000000002,
-    "whale_pct": 5.811,
+    "whale_usd": 12512.872400000002,
+    "whale_pct": 6.65,
     "whale_value_at_open": 188163.3942,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -124187,8 +124187,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068850.6041048,
-    "fills": 3
+    "last_fill_at": 1789069145.8640656,
+    "fills": 4
   },
   {
     "timestamp": 1789068280,
@@ -124252,8 +124252,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Despina Papamichail",
     "side": "BUY",
-    "whale_usd": 20000.0,
-    "whale_pct": 37.637,
+    "whale_usd": 23000.0,
+    "whale_pct": 43.283,
     "whale_value_at_open": 53138.8248,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -124266,8 +124266,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068850.163411,
-    "fills": 1
+    "last_fill_at": 1789069145.8591797,
+    "fills": 2
   },
   {
     "timestamp": 1789068987,
@@ -124292,5 +124292,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789069008.7037034,
     "fills": 2
+  },
+  {
+    "timestamp": 1789069221,
+    "timestamp_added": 1789069222.3731449,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-tex-sea-2026-09-10",
+    "title": "Texas Rangers vs. Seattle Mariners",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 17991.750000000004,
+    "whale_pct": 8406.786,
+    "whale_value_at_open": 214.0146,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789069222.3731537,
+    "fills": 1
   }
 ]

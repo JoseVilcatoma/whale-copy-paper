@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:38:47 (hora de Perú)
+Actualizado: 2026-09-10 14:40:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.32
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 14:38:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $219.60 en 44 posiciones abiertas (disponible para nuevas apuestas: $13.72)
+**Capital comprometido ahora mismo:** $224.60 en 45 posiciones abiertas (disponible para nuevas apuestas: $8.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
-| vjnn | 2 | 1 | 1 | +2.35 USD |
+| vjnn | 2 | 1 | 2 | +2.35 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -948,6 +948,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-valle-travagl-2026-09-10 | , ferrariChampions2026 |
 | atp-lagutin-gurri-2026-09-10 | , ferrariChampions2026 |
 | mlb-hou-phi-2026-09-10 | ferrariChampions2026, vjnn, wr0ngw4yb3tt0r |
+| mlb-tex-sea-2026-09-10 | ferrariChampions2026, vjnn |
 | atp-passaro-varilla-2026-09-10 | , ferrariChampions2026 |
 | wta-waltert-papamic-2026-09-10 | , ferrariChampions2026 |
 
@@ -955,13 +956,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
 |  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
-|  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 37.6% | ⏳ pendiente | — |
+|  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 43.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 5.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
-|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 48.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 4.1% | ⏳ pendiente | — |
+|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 55.6% | ⏳ pendiente | — |
 |  | Manchester United FC vs. Sabah FK: Both  | No (BUY) | 62% | 5.00 | 4.2% | ⏳ pendiente | — |
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ⏳ pendiente | — |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -984,4 +986,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | Jsram | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 55% | 5.00 | 2.7% | ✅ ganada | +3.98 |
-| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
