@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 12:25:08 (hora de Perú)
+Actualizado: 2026-09-10 12:27:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $225.17
-**Retorno acumulado:** -54.97%
+**Bankroll actual:** $226.86
+**Retorno acumulado:** -54.63%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 12:25:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $1.92)
+**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $3.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 697 | 437 | 18 | -258.72 USD |
+| ferrariChampions2026 | 698 | 437 | 18 | -257.03 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4742
-- **Aciertos:** 2983 (62.9%)
+- **Apuestas resueltas:** 4743
+- **Aciertos:** 2984 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,672.23
-- **ROI sobre lo apostado:** -1.69%
-- **Comisiones pagadas (taker fee):** $439.94 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,677.23
+- **ROI sobre lo apostado:** -1.68%
+- **Comisiones pagadas (taker fee):** $440.01 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2427 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1425 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1426 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
 
@@ -949,6 +949,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Jsram | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -976,6 +977,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 25.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 25.3% | ✅ ganada | +1.69 |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
-|  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ❌ perdida | -5.12 |
