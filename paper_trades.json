@@ -122278,8 +122278,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -122343,8 +122343,8 @@
     "title": "Shanghai: Tung-Lin Wu vs Luca Castelnuovo",
     "outcome": "Luca Castelnuovo",
     "side": "BUY",
-    "whale_usd": 3640.0995559999997,
-    "whale_pct": 2.147,
+    "whale_usd": 14574.179556,
+    "whale_pct": 8.594,
     "whale_value_at_open": 169577.8092,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -122355,8 +122355,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789041090.215051,
-    "fills": 1
+    "last_fill_at": 1789042437.9334328,
+    "fills": 3
   },
   {
     "timestamp": 1789041402,
