@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:16:00 (hora de Perú)
+Actualizado: 2026-09-10 16:18:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $247.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:16:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $173.32 en 35 posiciones abiertas (disponible para nuevas apuestas: $74.52)
+**Capital comprometido ahora mismo:** $178.32 en 36 posiciones abiertas (disponible para nuevas apuestas: $69.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 1 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -958,6 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 51% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Claire  | Claire Liu (BUY) | 85% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -987,4 +988,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 9.3% | ❌ perdida | -5.10 |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 67.6% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Spread: Manchester United FC (-3.5) | Manchester United FC (BUY) | 45% | 5.00 | 2.6% | ✅ ganada | +5.97 |
-| ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ✅ ganada | +0.30 |

@@ -124667,5 +124667,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789074908.836609,
     "fills": 1
+  },
+  {
+    "timestamp": 1789075063,
+    "timestamp_added": 1789075064.0478494,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lib-ind1-fla-2026-09-10-fla",
+    "title": "Will CR Flamengo win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 539.0,
+    "whale_pct": 0.525,
+    "whale_value_at_open": 102594.1701,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789075064.047867,
+    "fills": 1
   }
 ]
