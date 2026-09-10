@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:53:54 (hora de Perú)
+Actualizado: 2026-09-10 11:55:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.12
@@ -952,7 +952,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Jsram | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 45.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ⏳ pendiente | — |
 | vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |

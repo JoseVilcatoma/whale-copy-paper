@@ -123535,8 +123535,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Pavel Lagutin",
     "side": "BUY",
-    "whale_usd": 1411.363637,
-    "whale_pct": 0.684,
+    "whale_usd": 3795.923637,
+    "whale_pct": 1.839,
     "whale_value_at_open": 206451.6332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -123547,8 +123547,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058152.1063685,
-    "fills": 1
+    "last_fill_at": 1789059286.4129364,
+    "fills": 2
   },
   {
     "timestamp": 1789058155,
