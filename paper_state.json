@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.09814601997434,
+  "bankroll": 235.86203490886322,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24955,6 +24955,16 @@
       "timestamp": 1789070554.8995159,
       "bankroll": 232.1,
       "event": "lost:  \u2014 Seville: Pavel Lagutin vs Max Alcala Gurri"
+    },
+    {
+      "timestamp": 1789073370.7527797,
+      "bankroll": 235.33,
+      "event": "won:  \u2014 Will AS \u00c1ris Thessalon\u00edkis win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789073371.752045,
+      "bankroll": 235.86,
+      "event": "won: Flaznorp \u2014 Spread: AGS Ast\u00e9ras Tr\u00edpolis (-1.5)"
     }
   ]
 }

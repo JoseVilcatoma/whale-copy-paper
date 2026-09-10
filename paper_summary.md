@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 15:47:31 (hora de Perú)
+Actualizado: 2026-09-10 15:49:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $232.10
-**Retorno acumulado:** -53.58%
+**Bankroll actual:** $235.86
+**Retorno acumulado:** -52.83%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 15:47:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $198.32 en 40 posiciones abiertas (disponible para nuevas apuestas: $33.78)
+**Capital comprometido ahora mismo:** $188.32 en 38 posiciones abiertas (disponible para nuevas apuestas: $47.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -122,7 +122,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | Talvez10 | 15 | 13 | 0 | -5.31 USD |
-| Flaznorp | 101 | 37 | 2 | -5.95 USD |
+| Flaznorp | 102 | 37 | 1 | -5.42 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -150,19 +150,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 100 | 72 | 7 | -134.51 USD |
+|  | 101 | 72 | 6 | -131.28 USD |
 | ferrariChampions2026 | 710 | 442 | 20 | -249.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4780
-- **Aciertos:** 3009 (62.9%)
+- **Apuestas resueltas:** 4782
+- **Aciertos:** 3011 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,860.88
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $443.21 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,870.88
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $443.33 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,8 +171,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2443 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1439 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 633 | 85.6% | 86.6% | -1.0 pp |
+| 60-79% | 1440 | 68.3% | 67.8% | +0.5 pp |
+| 80-94% | 634 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
