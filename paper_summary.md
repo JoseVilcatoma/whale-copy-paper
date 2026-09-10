@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 05:25:12 (hora de Perú)
+Actualizado: 2026-09-10 05:27:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $238.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 05:25:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $129.60 en 26 posiciones abiertas (disponible para nuevas apuestas: $109.19)
+**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $104.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 88 | 34 | 4 | -10.66 USD |
+| Flaznorp | 88 | 34 | 5 | -10.66 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -935,12 +935,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-shi1-huang2-2026-09-10 | , ferrariChampions2026 |
 | atp-miyoshi-peliwo-2026-09-08 | , ferrariChampions2026 |
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
-| atp-cui-zhou-2026-09-09 | , ferrariChampions2026 |
+| atp-cui-zhou-2026-09-09 | , Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 97% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Rositsa Dencheva (BUY) | 47% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 81% | 5.00 | 5.5% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2  | FURIA (BUY) | 58% | 5.00 | 66.7% | ⏳ pendiente | — |
@@ -970,4 +971,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ✅ ganada | +5.97 |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ✅ ganada | +5.29 |

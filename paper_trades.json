@@ -122184,5 +122184,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789035506.09309,
     "fills": 2
+  },
+  {
+    "timestamp": 1789036003,
+    "timestamp_added": 1789036003.3978336,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-cui-zhou-2026-09-09",
+    "title": "Shanghai: Jie Cui vs Yi Zhou",
+    "outcome": "Yi Zhou",
+    "side": "BUY",
+    "whale_usd": 11050.389996999998,
+    "whale_pct": 3.496,
+    "whale_value_at_open": 316099.8669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789036003.397847,
+    "fills": 1
   }
 ]
