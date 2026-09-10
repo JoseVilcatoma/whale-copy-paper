@@ -1,5 +1,5 @@
 {
-  "bankroll": 228.6251344890597,
+  "bankroll": 223.5001344890597,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24700,6 +24700,11 @@
       "timestamp": 1789050463.8275056,
       "bankroll": 228.63,
       "event": "lost: ferrariChampions2026 \u2014 Cassis: Sascha Gueymard-Wayenburg vs Mark Lajal"
+    },
+    {
+      "timestamp": 1789051520.5006073,
+      "bankroll": 223.5,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Ane Mintegi Del Olmo vs Alicia Herrero Linana"
     }
   ]
 }

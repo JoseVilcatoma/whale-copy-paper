@@ -122566,8 +122566,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -123182,6 +123182,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789051449.1138785,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789051475,
+    "timestamp_added": 1789051476.4255755,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-valle-travagl-2026-09-10",
+    "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
+    "outcome": "Enrico Dalla Valle",
+    "side": "BUY",
+    "whale_usd": 1733.2685999999999,
+    "whale_pct": 0.858,
+    "whale_value_at_open": 202035.6096,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789051476.4255872,
     "fills": 1
   }
 ]
