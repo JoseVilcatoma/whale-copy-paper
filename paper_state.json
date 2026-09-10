@@ -1,5 +1,5 @@
 {
-  "bankroll": 229.2067935096065,
+  "bankroll": 224.13179350960652,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24295,6 +24295,11 @@
       "timestamp": 1789006128.2885575,
       "bankroll": 229.21,
       "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1789006433.8368428,
+      "bankroll": 224.13,
+      "event": "lost: Zzzz87 \u2014 Will Orlando City SC win on 2026-09-09?"
     }
   ]
 }
