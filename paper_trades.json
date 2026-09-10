@@ -122707,8 +122707,8 @@
     "title": "Counter-Strike: Alliance vs magic (BO3) - FISSURE PLAYGROUND Group B",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 57785.71886799999,
-    "whale_pct": 20.031,
+    "whale_usd": 173783.85886799998,
+    "whale_pct": 60.242,
     "whale_value_at_open": 288476.0569,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -122719,8 +122719,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789047183.562469,
-    "fills": 21
+    "last_fill_at": 1789047218.8839335,
+    "fills": 30
   },
   {
     "timestamp": 1789047078,
@@ -122769,5 +122769,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789047089.544412,
     "fills": 2
+  },
+  {
+    "timestamp": 1789047300,
+    "timestamp_added": 1789047301.3193405,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-silv-monteir-2026-09-10",
+    "title": "Tulln: Joao Lucas Da Silva vs Thiago Monteiro",
+    "outcome": "Thiago Monteiro",
+    "side": "BUY",
+    "whale_usd": 580.619,
+    "whale_pct": 0.324,
+    "whale_value_at_open": 179199.1099,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789047301.3193505,
+    "fills": 1
   }
 ]
