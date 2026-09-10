@@ -124677,8 +124677,8 @@
     "title": "Will CR Flamengo win on 2026-09-10?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 539.0,
-    "whale_pct": 0.525,
+    "whale_usd": 1108.9984,
+    "whale_pct": 1.081,
     "whale_value_at_open": 102594.1701,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -124689,8 +124689,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789075064.047867,
-    "fills": 1
+    "last_fill_at": 1789082168.5607872,
+    "fills": 2
   },
   {
     "timestamp": 1789076365,
@@ -125083,6 +125083,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789082013.3593686,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789082221,
+    "timestamp_added": 1789082221.4192579,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lib-ind1-fla-2026-09-10-ind1",
+    "title": "Will Independiente del Valle win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 957.0989999999998,
+    "whale_pct": 0.969,
+    "whale_value_at_open": 98812.4837,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789082221.4192698,
     "fills": 1
   }
 ]
