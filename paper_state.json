@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.06816167975242,
+  "bankroll": 242.9125146209289,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25080,6 +25080,11 @@
       "timestamp": 1789077755.9751537,
       "bankroll": 242.07,
       "event": "lost:  \u2014 US Open ATP (Doubles): Krawietz/Puetz vs Ram/Salisbury"
+    },
+    {
+      "timestamp": 1789078385.7886822,
+      "bankroll": 242.91,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Kaitlin Quevedo vs Claire Liu"
     }
   ]
 }

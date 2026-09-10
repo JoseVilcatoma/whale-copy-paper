@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 17:11:15 (hora de Perú)
+Actualizado: 2026-09-10 17:13:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $242.07
-**Retorno acumulado:** -51.59%
+**Bankroll actual:** $242.91
+**Retorno acumulado:** -51.42%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 17:11:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $154.60 en 31 posiciones abiertas (disponible para nuevas apuestas: $87.47)
+**Capital comprometido ahora mismo:** $149.60 en 30 posiciones abiertas (disponible para nuevas apuestas: $93.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 73 | 3 | -128.17 USD |
-| ferrariChampions2026 | 715 | 447 | 19 | -255.97 USD |
+| ferrariChampions2026 | 716 | 447 | 18 | -255.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4805
-- **Aciertos:** 3026 (63.0%)
+- **Apuestas resueltas:** 4806
+- **Aciertos:** 3027 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,984.60
+- **Total apostado (suma de stakes):** $23,989.60
 - **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $445.71 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $445.74 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2459 | 50.2% | 50.1% | +0.2 pp |
 | 60-79% | 1443 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 638 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 639 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -969,13 +969,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 51% | 5.00 | 9.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Claire  | Claire Liu (BUY) | 85% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Claire  | Claire Liu (BUY) | 85% | 5.00 | 3.6% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 21.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 22.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Elsa Jacquemot (BUY) | 67% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 80% | 5.00 | 3.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Texas Rangers (BUY) | 68% | 5.00 | 3.3% | ⏳ pendiente | — |
