@@ -122511,8 +122511,8 @@
     "title": "Antalya 4: Maria Lourdes Carle vs Eva Vedder",
     "outcome": "Maria Lourdes Carle",
     "side": "BUY",
-    "whale_usd": 2959.136789,
-    "whale_pct": 1.303,
+    "whale_usd": 4625.394789,
+    "whale_pct": 2.036,
     "whale_value_at_open": 227165.6299,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -122523,8 +122523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789045553.7232692,
-    "fills": 3
+    "last_fill_at": 1789046515.6474752,
+    "fills": 4
   },
   {
     "timestamp": 1789045021,
