@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:44:45 (hora de Perú)
+Actualizado: 2026-09-10 16:46:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $248.49
-**Retorno acumulado:** -50.30%
+**Bankroll actual:** $251.04
+**Retorno acumulado:** -49.79%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:44:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $163.32 en 33 posiciones abiertas (disponible para nuevas apuestas: $85.17)
+**Capital comprometido ahora mismo:** $158.32 en 32 posiciones abiertas (disponible para nuevas apuestas: $92.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | wr0ngw4yb3tt0r | 67 | 42 | 5 | +46.54 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
+|  | 37 | 26 | 1 | +31.76 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-|  | 36 | 26 | 2 | +30.40 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 72 | 4 | -123.03 USD |
-| ferrariChampions2026 | 713 | 446 | 18 | -254.49 USD |
+| ferrariChampions2026 | 714 | 446 | 18 | -253.29 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4798
-- **Aciertos:** 3022 (63.0%)
+- **Apuestas resueltas:** 4800
+- **Aciertos:** 3024 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,950.88
-- **ROI sobre lo apostado:** -1.57%
-- **Comisiones pagadas (taker fee):** $445.08 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,960.88
+- **ROI sobre lo apostado:** -1.56%
+- **Comisiones pagadas (taker fee):** $445.19 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,8 +171,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2455 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1442 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 636 | 85.7% | 86.6% | -0.9 pp |
+| 60-79% | 1443 | 68.4% | 67.8% | +0.6 pp |
+| 80-94% | 637 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -958,6 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 50% | 5.00 | 6.1% | ⏳ pendiente | — |
 |  | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Anastasia Tikhonova (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -971,12 +972,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 21.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Elsa Jacquemot (BUY) | 67% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 80% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 80% | 5.00 | 3.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Texas Rangers (BUY) | 68% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 2.0% | ⏳ pendiente | — |
 | vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
-|  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
+|  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ✅ ganada | +1.36 |
 |  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 43.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 8.2% | ✅ ganada | +3.37 |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ✅ ganada | +6.22 |
@@ -987,4 +988,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ✅ ganada | +3.37 |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ✅ ganada | +0.30 |
 |  | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 56% | 5.00 | 39.2% | ❌ perdida | -5.11 |
-| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 9.3% | ❌ perdida | -5.10 |

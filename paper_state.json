@@ -1,5 +1,5 @@
 {
-  "bankroll": 248.4871566724141,
+  "bankroll": 251.0424130826705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25045,6 +25045,16 @@
       "timestamp": 1789075240.5761561,
       "bankroll": 248.49,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Francesco Passaro vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1789076809.5893695,
+      "bankroll": 249.84,
+      "event": "won:  \u2014 Seville: Calvin Hemery vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1789076810.309177,
+      "bankroll": 251.04,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Calvin Hemery vs Dusan Lajovic"
     }
   ]
 }
