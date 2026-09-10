@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:48:55 (hora de Perú)
+Actualizado: 2026-09-09 21:50:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 21:48:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $131.64 en 27 posiciones abiertas (disponible para nuevas apuestas: $87.41)
+**Capital comprometido ahora mismo:** $136.64 en 28 posiciones abiertas (disponible para nuevas apuestas: $82.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 90 | 68 | 7 | -134.81 USD |
-| ferrariChampions2026 | 669 | 421 | 8 | -254.67 USD |
+| ferrariChampions2026 | 669 | 421 | 9 | -254.67 USD |
 
 ## Análisis general
 
@@ -936,6 +936,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 2.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -965,4 +966,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 76% | 5.00 | 0.2% | ❌ perdida | -5.06 |
 | Flaznorp | Will Santos FC win on 2026-09-09? | Yes (BUY) | 78% | 5.00 | 3.7% | ✅ ganada | +1.36 |
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ✅ ganada | +3.23 |
-| wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |

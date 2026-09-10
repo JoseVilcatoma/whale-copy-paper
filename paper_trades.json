@@ -121205,5 +121205,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789007623.128454,
     "fills": 1
+  },
+  {
+    "timestamp": 1789008656,
+    "timestamp_added": 1789008656.8727071,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-lad-2026-09-09-total-7pt5",
+    "title": "Cincinnati Reds vs. Los Angeles Dodgers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2807.2318,
+    "whale_pct": 0.982,
+    "whale_value_at_open": 285780.7938,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789008656.872719,
+    "fills": 1
   }
 ]
