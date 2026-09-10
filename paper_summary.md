@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 18:10:57 (hora de Perú)
+Actualizado: 2026-09-10 18:12:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 18:10:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $114.60 en 23 posiciones abiertas (disponible para nuevas apuestas: $128.60)
+**Capital comprometido ahora mismo:** $124.60 en 25 posiciones abiertas (disponible para nuevas apuestas: $118.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 73 | 3 | -128.17 USD |
-| ferrariChampions2026 | 720 | 450 | 13 | -253.89 USD |
+| ferrariChampions2026 | 720 | 450 | 15 | -253.89 USD |
 
 ## Análisis general
 
@@ -959,6 +959,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Helioevaara/Patte | Harrison/Skupski (BUY) | 68% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vila Nova FC vs. Goiás EC end in a  | No (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -987,5 +989,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Texas Rangers (BUY) | 68% | 5.00 | 3.3% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 54% | 3.72 | 7.1% | ❌ perdida | -3.81 |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 52% | 5.00 | 13.7% | ✅ ganada | +4.50 |
-| vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ❌ perdida | -5.12 |
-|  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ✅ ganada | +1.36 |
