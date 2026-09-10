@@ -1,5 +1,5 @@
 {
-  "bankroll": 215.26685964762208,
+  "bankroll": 215.36390046394862,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24730,6 +24730,11 @@
       "timestamp": 1789052643.038387,
       "bankroll": 215.27,
       "event": "lost:  \u2014 W50 Evora: Francisca Jorge vs Katarina Kuzmova"
+    },
+    {
+      "timestamp": 1789054220.0189688,
+      "bankroll": 215.36,
+      "event": "won: Flaznorp \u2014 M25 Gijon: Xavi Palomar vs Anas Mazdrashki"
     }
   ]
 }

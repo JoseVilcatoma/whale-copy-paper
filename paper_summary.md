@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 10:28:29 (hora de Perú)
+Actualizado: 2026-09-10 10:30:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $215.27
-**Retorno acumulado:** -56.95%
+**Bankroll actual:** $215.36
+**Retorno acumulado:** -56.93%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 10:28:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $0.67)
+**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $5.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,8 +131,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 2 | 0 | -10.13 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
+| Flaznorp | 90 | 34 | 14 | -10.41 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 89 | 34 | 15 | -10.51 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -154,13 +154,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4735
-- **Aciertos:** 2977 (62.9%)
+- **Apuestas resueltas:** 4736
+- **Aciertos:** 2978 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,637.23
+- **Total apostado (suma de stakes):** $23,642.23
 - **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $439.43 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $439.44 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2424 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1424 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 625 | 85.4% | 86.6% | -1.2 pp |
-| 95-99% (casi seguro) | 262 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 263 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -961,7 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Flaznorp | M25 Gijon: Xavi Palomar vs Anas Mazdrash | Anas Mazdrashki (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | M25 Gijon: Xavi Palomar vs Anas Mazdrash | Anas Mazdrashki (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
