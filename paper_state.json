@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.76430019620665,
+  "bankroll": 214.62430019620666,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24510,6 +24510,11 @@
       "timestamp": 1789017395.222746,
       "bankroll": 219.76,
       "event": "won: vjnn \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1789018333.466511,
+      "bankroll": 214.62,
+      "event": "lost: bands1 \u2014 Spread: Seahawks (-2.5)"
     }
   ]
 }
