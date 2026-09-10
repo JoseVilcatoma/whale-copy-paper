@@ -124226,8 +124226,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 12115.110059999999,
-    "whale_pct": 5.708,
+    "whale_usd": 13428.459823,
+    "whale_pct": 6.327,
     "whale_value_at_open": 212234.8446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -124240,8 +124240,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789070886.4542844,
-    "fills": 6
+    "last_fill_at": 1789071329.3461058,
+    "fills": 7
   },
   {
     "timestamp": 1789068849,
@@ -124444,5 +124444,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789071117.605202,
     "fills": 1
+  },
+  {
+    "timestamp": 1789071296,
+    "timestamp_added": 1789071297.213512,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-tex-sea-2026-09-10",
+    "title": "Texas Rangers vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 12720.734797999998,
+    "whale_pct": 13.121,
+    "whale_value_at_open": 96949.042,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "vjnn"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789071347.4386704,
+    "fills": 3
   }
 ]
