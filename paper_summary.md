@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 15:55:52 (hora de Perú)
+Actualizado: 2026-09-10 15:57:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 15:55:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $193.32 en 39 posiciones abiertas (disponible para nuevas apuestas: $46.36)
+**Capital comprometido ahora mismo:** $198.32 en 40 posiciones abiertas (disponible para nuevas apuestas: $41.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 67 | 42 | 2 | +46.54 USD |
+| wr0ngw4yb3tt0r | 67 | 42 | 3 | +46.54 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -947,6 +947,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-silv-monteir-2026-09-10 | , ferrariChampions2026 |
 | atp-valle-travagl-2026-09-10 | , ferrariChampions2026 |
 | atp-lagutin-gurri-2026-09-10 | , ferrariChampions2026 |
+| mlb-tex-sea-2026-09-10-total-6pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-hou-phi-2026-09-10 | ferrariChampions2026, vjnn, wr0ngw4yb3tt0r |
 | mlb-tex-sea-2026-09-10 | ferrariChampions2026, vjnn, wr0ngw4yb3tt0r |
 | atp-passaro-varilla-2026-09-10 | , ferrariChampions2026 |
@@ -957,6 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 21.5% | ⏳ pendiente | — |
@@ -986,4 +988,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 5.2% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 23.4% | ⏳ pendiente | — |
