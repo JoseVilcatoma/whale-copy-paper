@@ -1,5 +1,5 @@
 {
-  "bankroll": 241.1675213086108,
+  "bankroll": 231.0725213086108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24565,6 +24565,16 @@
       "timestamp": 1789036560.4441042,
       "bankroll": 241.17,
       "event": "won: Noprajsk \u2014 Counter-Strike: Legacy vs FURIA - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789037481.3949323,
+      "bankroll": 236.15,
+      "event": "lost: mmklop \u2014 Counter-Strike: Astralis vs 5star (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1789037484.1028926,
+      "bankroll": 231.07,
+      "event": "lost: ferrariChampions2026 \u2014 Map Handicap: AST (-1.5) vs 5star (+1.5)"
     }
   ]
 }
