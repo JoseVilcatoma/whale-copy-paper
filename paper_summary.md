@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 13:57:06 (hora de Perú)
+Actualizado: 2026-09-10 13:59:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.79
-**Retorno acumulado:** -53.24%
+**Bankroll actual:** $234.04
+**Retorno acumulado:** -53.19%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 13:57:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $208.25 en 42 posiciones abiertas (disponible para nuevas apuestas: $25.54)
+**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $30.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 702 | 439 | 23 | -254.52 USD |
+| ferrariChampions2026 | 703 | 439 | 22 | -254.27 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4759
-- **Aciertos:** 2995 (62.9%)
+- **Apuestas resueltas:** 4760
+- **Aciertos:** 2996 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,757.23
+- **Total apostado (suma de stakes):** $23,762.23
 - **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $441.51 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $441.52 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2434 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1433 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 628 | 85.5% | 86.6% | -1.1 pp |
-| 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -952,7 +952,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
+| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 67.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester United FC (-3.5) | Manchester United FC (BUY) | 45% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -964,7 +964,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 8.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 11.4% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ❌ perdida | -5.08 |

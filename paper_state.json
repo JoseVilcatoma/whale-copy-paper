@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.785983805285,
+  "bankroll": 234.03614170002186,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24850,6 +24850,11 @@
       "timestamp": 1789066498.7285995,
       "bankroll": 233.79,
       "event": "won: Jsram \u2014 PSV vs. FK Shakhtar Donetsk: O/U 3.5"
+    },
+    {
+      "timestamp": 1789066681.3464017,
+      "bankroll": 234.04,
+      "event": "won: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK win on 2026-09-10?"
     }
   ]
 }

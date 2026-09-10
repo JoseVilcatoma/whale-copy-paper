@@ -123688,8 +123688,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -123971,8 +123971,8 @@
     "title": "Will Como 1907 win on 2026-09-10?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 990.047582,
-    "whale_pct": 3.444,
+    "whale_usd": 19447.189082,
+    "whale_pct": 67.642,
     "whale_value_at_open": 28750,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -123985,7 +123985,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789066624.3742955,
-    "fills": 1
+    "last_fill_at": 1789066689.2059906,
+    "fills": 3
   }
 ]
