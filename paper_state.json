@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.50196732893357,
+  "bankroll": 222.55452830454334,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24660,6 +24660,11 @@
       "timestamp": 1789047519.721482,
       "bankroll": 221.5,
       "event": "lost: Noprajsk \u2014 Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1789048456.1595774,
+      "bankroll": 222.55,
+      "event": "won: ferrariChampions2026 \u2014 W35 Reus: Jessica Pieri vs Marianna Argyrokastriti"
     }
   ]
 }
