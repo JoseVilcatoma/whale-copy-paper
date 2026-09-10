@@ -1,5 +1,5 @@
 {
-  "bankroll": 220.38885964762207,
+  "bankroll": 215.26685964762208,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24725,6 +24725,11 @@
       "timestamp": 1789052333.1634724,
       "bankroll": 220.39,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Joao Lucas Da Silva vs Thiago Monteiro"
+    },
+    {
+      "timestamp": 1789052643.038387,
+      "bankroll": 215.27,
+      "event": "lost:  \u2014 W50 Evora: Francisca Jorge vs Katarina Kuzmova"
     }
   ]
 }
