@@ -124948,8 +124948,8 @@
     "title": "Will Vila Nova FC vs. Goi\u00e1s EC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 706.18,
-    "whale_pct": 0.679,
+    "whale_usd": 1718.0115999999998,
+    "whale_pct": 1.651,
     "whale_value_at_open": 104070.7633,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -124960,8 +124960,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789080850.142574,
-    "fills": 1
+    "last_fill_at": 1789083478.0119843,
+    "fills": 2
   },
   {
     "timestamp": 1789081169,
