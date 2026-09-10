@@ -124471,5 +124471,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789071995.899668,
     "fills": 4
+  },
+  {
+    "timestamp": 1789073537,
+    "timestamp_added": 1789073537.656161,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-col-nyy-2026-09-10-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 1897.0445459999999,
+    "whale_pct": 1.752,
+    "whale_value_at_open": 108267.2999,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789073537.6561716,
+    "fills": 1
   }
 ]
