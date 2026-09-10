@@ -121989,5 +121989,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789028980.2803063,
     "fills": 2
+  },
+  {
+    "timestamp": 1789030224,
+    "timestamp_added": 1789030225.1636927,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "cs2-mibr-bb3-2026-09-10",
+    "title": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A",
+    "outcome": "BetBoom Team",
+    "side": "BUY",
+    "whale_usd": 14560.000000000002,
+    "whale_pct": 72.419,
+    "whale_value_at_open": 20105.2523,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789030225.1637053,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 03:48:45 (hora de Perú)
+Actualizado: 2026-09-10 03:50:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 03:48:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $119.60 en 24 posiciones abiertas (disponible para nuevas apuestas: $105.71)
+**Capital comprometido ahora mismo:** $124.60 en 25 posiciones abiertas (disponible para nuevas apuestas: $100.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| vjnn | 1 | 0 | 0 | +3.82 USD |
+| vjnn | 1 | 0 | 1 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -940,6 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vjnn | Counter-Strike: MIBR vs BetBoom Team (BO | BetBoom Team (BUY) | 57% | 5.00 | 72.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -969,4 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 47% | 5.00 | 0.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 1.3% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
