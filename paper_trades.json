@@ -122326,8 +122326,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -122829,8 +122829,8 @@
     "title": "Tulln: Joao Lucas Da Silva vs Thiago Monteiro",
     "outcome": "Joao Lucas Da Silva",
     "side": "BUY",
-    "whale_usd": 8254.7828,
-    "whale_pct": 3.948,
+    "whale_usd": 9274.9248,
+    "whale_pct": 4.436,
     "whale_value_at_open": 209081.4613,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -122843,8 +122843,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789049510.9584587,
-    "fills": 2
+    "last_fill_at": 1789049698.1976516,
+    "fills": 3
   },
   {
     "timestamp": 1789048830,
@@ -122942,6 +122942,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789049477.9199154,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789049762,
+    "timestamp_added": 1789049763.5547118,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "grc-ast-ari-2026-09-09-ari",
+    "title": "Will AS \u00c1ris Thessalon\u00edkis win on 2026-09-09?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2266.4701999999997,
+    "whale_pct": 1.705,
+    "whale_value_at_open": 132965.4708,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789049763.5547216,
     "fills": 1
   }
 ]

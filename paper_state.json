@@ -1,5 +1,5 @@
 {
-  "bankroll": 223.9112382163233,
+  "bankroll": 225.69255328481646,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24675,6 +24675,11 @@
       "timestamp": 1789049518.5577269,
       "bankroll": 223.91,
       "event": "won:  \u2014 Antalya 4: Maria Lourdes Carle vs Eva Vedder"
+    },
+    {
+      "timestamp": 1789049769.1299365,
+      "bankroll": 225.69,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Filip Misolic vs Mika Brunold"
     }
   ]
 }
