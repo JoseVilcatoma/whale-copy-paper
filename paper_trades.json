@@ -121965,5 +121965,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789026556.063887,
     "fills": 1
+  },
+  {
+    "timestamp": 1789028885,
+    "timestamp_added": 1789028886.1778002,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-basing-alkaya-2026-09-10",
+    "title": "Istanbul 3: Max Basing vs Mert Alkaya",
+    "outcome": "Max Basing",
+    "side": "BUY",
+    "whale_usd": 3865.2982389999997,
+    "whale_pct": 2.462,
+    "whale_value_at_open": 157014.4514,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789028886.1778145,
+    "fills": 1
   }
 ]
