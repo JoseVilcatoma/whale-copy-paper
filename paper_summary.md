@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 07:59:59 (hora de Perú)
+Actualizado: 2026-09-10 08:02:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $224.86
-**Retorno acumulado:** -55.03%
+**Bankroll actual:** $222.38
+**Retorno acumulado:** -55.52%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 07:59:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $129.60 en 26 posiciones abiertas (disponible para nuevas apuestas: $95.26)
+**Capital comprometido ahora mismo:** $124.60 en 25 posiciones abiertas (disponible para nuevas apuestas: $97.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 688 | 432 | 16 | -255.29 USD |
+| ferrariChampions2026 | 689 | 433 | 15 | -257.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4716
-- **Aciertos:** 2965 (62.9%)
+- **Apuestas resueltas:** 4718
+- **Aciertos:** 2966 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,542.23
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $437.81 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,552.23
+- **ROI sobre lo apostado:** -1.71%
+- **Comisiones pagadas (taker fee):** $437.98 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2416 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1419 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1421 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 620 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 261 | 96.9% | 97.3% | -0.4 pp |
 
@@ -942,6 +942,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Antalya 4: Ane Mintegi Del Olmo vs Alici | Ane Mintegi Del Olmo (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Reus: Jessica Pieri vs Marianna Argy | Marianna Argyrokastriti (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -950,9 +951,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Genaro Alberto Olivieri (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
-| ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Luca Castelnuovo (BUY) | 65% | 5.00 | 8.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Luca Castelnuovo (BUY) | 65% | 5.00 | 8.6% | ✅ ganada | +2.61 |
 | ferrariChampions2026 | Tulln: Filip Misolic vs Mika Brunold | Mika Brunold (BUY) | 73% | 5.00 | 8.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Tung-Lin Wu (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Tung-Lin Wu vs Luca Castelnuov | Tung-Lin Wu (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team - M | MIBR (BUY) | 46% | 5.00 | 939.6% | ❌ perdida | -5.13 |
 | Noprajsk | Counter-Strike: MIBR vs BetBoom Team (BO | MIBR (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 15.5% | ✅ ganada | +2.84 |
@@ -971,4 +972,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | FC Bayern München vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Genaro Alberto Olivieri vs Tiag | Tiago Pereira (BUY) | 45% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Map Handicap: AST (-1.5) vs 5star (+1.5) | Astralis (BUY) | 69% | 5.00 | 3.2% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Shanghai: Bernard Tomic vs Ilya Ivashka | Ilya Ivashka (BUY) | 56% | 5.00 | 52.6% | ✅ ganada | +3.82 |

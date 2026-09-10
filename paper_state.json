@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.8617522839746,
+  "bankroll": 222.3800599762823,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24635,6 +24635,16 @@
       "timestamp": 1789044949.6026795,
       "bankroll": 224.86,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Hugo Dellien vs Matej Dodig"
+    },
+    {
+      "timestamp": 1789045324.132427,
+      "bankroll": 219.77,
+      "event": "lost: ferrariChampions2026 \u2014 Shanghai: Tung-Lin Wu vs Luca Castelnuovo"
+    },
+    {
+      "timestamp": 1789045324.3327196,
+      "bankroll": 222.38,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Tung-Lin Wu vs Luca Castelnuovo"
     }
   ]
 }
