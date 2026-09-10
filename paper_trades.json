@@ -124595,5 +124595,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789074507.0401862,
     "fills": 1
+  },
+  {
+    "timestamp": 1789074608,
+    "timestamp_added": 1789074608.9714062,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-quevedo-liu-2026-09-10",
+    "title": "Barranquilla: Kaitlin Quevedo vs Claire Liu",
+    "outcome": "Claire Liu",
+    "side": "BUY",
+    "whale_usd": 4286.071176999999,
+    "whale_pct": 1.891,
+    "whale_value_at_open": 226605.7374,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789074608.9714148,
+    "fills": 1
   }
 ]
