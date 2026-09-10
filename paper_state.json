@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.01872876763522,
+  "bankroll": 215.94572876763522,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24500,6 +24500,11 @@
       "timestamp": 1789016775.1173253,
       "bankroll": 221.02,
       "event": "won:  \u2014 Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo"
+    },
+    {
+      "timestamp": 1789017087.3998196,
+      "bankroll": 215.95,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Guiyang: Tahlia Kokkinis vs YeXin Ma"
     }
   ]
 }

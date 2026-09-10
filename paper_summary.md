@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 00:09:57 (hora de Perú)
+Actualizado: 2026-09-10 00:11:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $221.02
-**Retorno acumulado:** -55.80%
+**Bankroll actual:** $215.95
+**Retorno acumulado:** -56.81%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 00:09:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $153.76)
+**Capital comprometido ahora mismo:** $62.26 en 13 posiciones abiertas (disponible para nuevas apuestas: $153.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 1 | -139.20 USD |
-| ferrariChampions2026 | 679 | 427 | 4 | -254.29 USD |
+| ferrariChampions2026 | 679 | 428 | 3 | -259.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4690
-- **Aciertos:** 2948 (62.9%)
+- **Apuestas resueltas:** 4691
+- **Aciertos:** 2948 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,414.57
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $435.55 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,419.57
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $435.62 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2405 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1409 | 68.5% | 67.8% | +0.7 pp |
+| 60-79% | 1410 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
@@ -943,7 +943,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
-| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ❌ perdida | -5.04 |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ✅ ganada | +1.20 |
