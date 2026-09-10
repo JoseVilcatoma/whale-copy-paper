@@ -121625,5 +121625,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789017220.3879573,
     "fills": 1
+  },
+  {
+    "timestamp": 1789017513,
+    "timestamp_added": 1789017514.185252,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-sekulic-matsuda-2026-09-09",
+    "title": "Phan Thiet 3: Philip Sekulic vs Koki Matsuda",
+    "outcome": "Philip Sekulic",
+    "side": "BUY",
+    "whale_usd": 13874.699997,
+    "whale_pct": 15.479,
+    "whale_value_at_open": 89637.0916,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789017514.185263,
+    "fills": 1
   }
 ]
