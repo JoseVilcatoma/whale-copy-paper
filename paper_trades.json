@@ -124354,8 +124354,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Despina Papamichail",
     "side": "BUY",
-    "whale_usd": 10597.321227,
-    "whale_pct": 4.981,
+    "whale_usd": 13602.341726999999,
+    "whale_pct": 6.394,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 3.72,
     "odds_at_bet": 54,
@@ -124368,7 +124368,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789069647.9238381,
-    "fills": 3
+    "last_fill_at": 1789070109.8931644,
+    "fills": 5
   }
 ]
