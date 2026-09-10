@@ -122862,8 +122862,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -122886,8 +122886,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 30753.603479,
-    "whale_pct": 16.842,
+    "whale_usd": 35679.76347899999,
+    "whale_pct": 19.539,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789056253.3628962,
-    "fills": 10
+    "last_fill_at": 1789057585.1178057,
+    "fills": 18
   },
   {
     "timestamp": 1789050037,
@@ -123200,8 +123200,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.48,
     "overlaps_with": [
       ""
     ],

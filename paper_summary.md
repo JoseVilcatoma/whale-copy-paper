@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:24:49 (hora de Perú)
+Actualizado: 2026-09-10 11:26:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $218.25
-**Retorno acumulado:** -56.35%
+**Bankroll actual:** $225.12
+**Retorno acumulado:** -54.98%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 11:24:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $218.25 en 44 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $21.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+|  | 32 | 25 | 0 | +24.55 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-|  | 31 | 25 | 1 | +19.04 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 696 | 436 | 18 | -260.09 USD |
+| ferrariChampions2026 | 697 | 437 | 16 | -258.72 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4738
-- **Aciertos:** 2980 (62.9%)
+- **Apuestas resueltas:** 4741
+- **Aciertos:** 2982 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,652.23
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $439.55 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,667.23
+- **ROI sobre lo apostado:** -1.69%
+- **Comisiones pagadas (taker fee):** $439.94 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2424 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 2427 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1425 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 263 | 97.0% | 97.3% | -0.3 pp |
@@ -961,7 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 9.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 9.3% | ✅ ganada | +6.48 |
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ✅ ganada | +1.97 |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -970,11 +970,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 16.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 19.5% | ⏳ pendiente | — |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
-|  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 392.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 17.8% | ⏳ pendiente | — |
+|  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 392.2% | ✅ ganada | +5.51 |
+| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 17.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 5.2% | ✅ ganada | +0.65 |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ✅ ganada | +6.48 |

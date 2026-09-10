@@ -1,5 +1,5 @@
 {
-  "bankroll": 218.24553493745634,
+  "bankroll": 225.12373978654097,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24745,6 +24745,21 @@
       "timestamp": 1789056845.4231288,
       "bankroll": 218.25,
       "event": "won:  \u2014 W50 Evora: Jo-Yee Chan vs Angelina Voloshchuk"
+    },
+    {
+      "timestamp": 1789057592.511309,
+      "bankroll": 213.13,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Enrico Dalla Valle vs Stefano Travaglia"
+    },
+    {
+      "timestamp": 1789057592.6114364,
+      "bankroll": 218.64,
+      "event": "won:  \u2014 Genoa: Enrico Dalla Valle vs Stefano Travaglia"
+    },
+    {
+      "timestamp": 1789057596.6354027,
+      "bankroll": 225.12,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Enrico Dalla Valle vs Stefano Travaglia"
     }
   ]
 }
