@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 12:46:01 (hora de Perú)
+Actualizado: 2026-09-10 12:48:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $234.98
-**Retorno acumulado:** -53.00%
+**Bankroll actual:** $239.19
+**Retorno acumulado:** -52.16%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 12:46:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $31.73)
+**Capital comprometido ahora mismo:** $188.25 en 38 posiciones abiertas (disponible para nuevas apuestas: $50.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
 | Jsram | 4 | 2 | 1 | +0.52 USD |
+| Flaznorp | 97 | 35 | 8 | +0.27 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -109,7 +110,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
-| Flaznorp | 94 | 35 | 11 | -3.94 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -154,14 +154,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4748
-- **Aciertos:** 2988 (62.9%)
+- **Apuestas resueltas:** 4751
+- **Aciertos:** 2991 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,702.23
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $440.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,717.23
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $440.65 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2429 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1429 | 68.4% | 67.8% | +0.7 pp |
-| 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
+| 60-79% | 1430 | 68.5% | 67.8% | +0.7 pp |
+| 80-94% | 628 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -964,15 +964,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Al Jazira (UAE) vs. Al-Nasr Dubai C | Yes (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 |  | US Open ATP (Doubles): Krawietz/Puetz vs | Ram/Salisbury (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
-| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 69% | 5.00 | 0.4% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 2.8% | ⏳ pendiente | — |
+| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 2.8% | ✅ ganada | +0.84 |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 43% | 5.00 | 9.3% | ✅ ganada | +6.48 |
 |  | W50 Evora: Jo-Yee Chan vs Angelina Volos | Angelina Voloshchuk (BUY) | 71% | 5.00 | 1.2% | ✅ ganada | +1.97 |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: O/U 1.5 | Over (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ✅ ganada | +2.17 |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
 | Flaznorp | M25 Gijon: Xavi Palomar vs Anas Mazdrash | Anas Mazdrashki (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
 | Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |

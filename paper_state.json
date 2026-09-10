@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.97782254445124,
+  "bankroll": 239.19055229722193,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24795,6 +24795,21 @@
       "timestamp": 1789062109.7583814,
       "bankroll": 234.98,
       "event": "won: Flaznorp \u2014 Will Al Jazira (UAE) win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789062419.9683592,
+      "bankroll": 237.15,
+      "event": "won: Flaznorp \u2014 Spread: Shabab Al Ahli Dubai (-1.5)"
+    },
+    {
+      "timestamp": 1789062420.8691711,
+      "bankroll": 237.99,
+      "event": "won: Flaznorp \u2014 Dubai United FC vs. Shabab Al Ahli Dubai: O/U 0.5"
+    },
+    {
+      "timestamp": 1789062421.258462,
+      "bankroll": 239.19,
+      "event": "won: Flaznorp \u2014 Dubai United FC vs. Shabab Al Ahli Dubai: O/U 1.5"
     }
   ]
 }
