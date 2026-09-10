@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:28:23 (hora de Perú)
+Actualizado: 2026-09-09 21:30:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $216.19
-**Retorno acumulado:** -56.76%
+**Bankroll actual:** $220.17
+**Retorno acumulado:** -55.97%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 21:28:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $141.64 en 29 posiciones abiertas (disponible para nuevas apuestas: $74.55)
+**Capital comprometido ahora mismo:** $141.64 en 29 posiciones abiertas (disponible para nuevas apuestas: $78.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 61 | 40 | 5 | +35.61 USD |
+| wr0ngw4yb3tt0r | 61 | 40 | 6 | +35.61 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 89 | 68 | 7 | -135.01 USD |
-| ferrariChampions2026 | 668 | 421 | 9 | -258.65 USD |
+| ferrariChampions2026 | 669 | 421 | 8 | -254.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4657
-- **Aciertos:** 2926 (62.8%)
+- **Apuestas resueltas:** 4658
+- **Aciertos:** 2927 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,250.19
-- **ROI sobre lo apostado:** -1.76%
-- **Comisiones pagadas (taker fee):** $432.63 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,255.19
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $432.74 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2389 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2390 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1400 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 609 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 259 | 96.9% | 97.3% | -0.4 pp |
@@ -936,7 +936,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 9.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -965,4 +966,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Philadelphia Union win on 2026-09-0 | Yes (BUY) | 60% | 5.00 | 2.8% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Spread: New York Mets (-2.5) | Miami Marlins (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open ATP: Alexander Zverev vs Botic v | Alexander Zverev (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Philadelphia Union win on 2026-09-0 | No (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |

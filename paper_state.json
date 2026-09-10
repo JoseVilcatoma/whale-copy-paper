@@ -1,5 +1,5 @@
 {
-  "bankroll": 216.19448451805164,
+  "bankroll": 220.17339360896074,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24335,6 +24335,11 @@
       "timestamp": 1789006752.3054545,
       "bankroll": 216.19,
       "event": "lost: Flaznorp \u2014 Spread: Philadelphia Union (-1.5)"
+    },
+    {
+      "timestamp": 1789007384.9154572,
+      "bankroll": 220.17,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Emiliana Arango vs Carol Young Suh Lee"
     }
   ]
 }
