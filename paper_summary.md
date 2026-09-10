@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 00:16:07 (hora de Perú)
+Actualizado: 2026-09-10 00:18:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $215.95
-**Retorno acumulado:** -56.81%
+**Bankroll actual:** $219.76
+**Retorno acumulado:** -56.05%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 00:16:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $148.69)
+**Capital comprometido ahora mismo:** $62.26 en 13 posiciones abiertas (disponible para nuevas apuestas: $157.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| vjnn | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -91,7 +92,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| vjnn | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -154,14 +154,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4691
-- **Aciertos:** 2948 (62.8%)
+- **Apuestas resueltas:** 4692
+- **Aciertos:** 2949 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,419.57
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $435.62 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,424.57
+- **ROI sobre lo apostado:** -1.73%
+- **Comisiones pagadas (taker fee):** $435.73 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2405 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2406 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1410 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
@@ -965,7 +965,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 2.5% | ✅ ganada | +2.97 |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ✅ ganada | +3.52 |
-| vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |
+| vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ✅ ganada | +3.82 |
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 11.0% | ❌ perdida | -4.48 |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |

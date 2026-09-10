@@ -1,5 +1,5 @@
 {
-  "bankroll": 215.94572876763522,
+  "bankroll": 219.76430019620665,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24505,6 +24505,11 @@
       "timestamp": 1789017087.3998196,
       "bankroll": 215.95,
       "event": "lost: ferrariChampions2026 \u2014 W50 Guiyang: Tahlia Kokkinis vs YeXin Ma"
+    },
+    {
+      "timestamp": 1789017395.222746,
+      "bankroll": 219.76,
+      "event": "won: vjnn \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
