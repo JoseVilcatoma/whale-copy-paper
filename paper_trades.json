@@ -122470,8 +122470,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -122664,8 +122664,8 @@
     "odds_at_bet": 97,
     "fee_usd": 0.008,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -122855,8 +122855,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Stefano Travaglia",
     "side": "BUY",
-    "whale_usd": 9920.923045,
-    "whale_pct": 4.689,
+    "whale_usd": 11984.269844999999,
+    "whale_pct": 5.665,
     "whale_value_at_open": 211566.7181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -122867,8 +122867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789050095.976788,
-    "fills": 6
+    "last_fill_at": 1789050269.9290924,
+    "fills": 7
   },
   {
     "timestamp": 1789048830,

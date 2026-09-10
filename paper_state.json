@@ -1,5 +1,5 @@
 {
-  "bankroll": 225.69255328481646,
+  "bankroll": 231.57375767746547,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24680,6 +24680,16 @@
       "timestamp": 1789049769.1299365,
       "bankroll": 225.69,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Filip Misolic vs Mika Brunold"
+    },
+    {
+      "timestamp": 1789050271.1193855,
+      "bankroll": 231.43,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Raphael Perot vs Robin Bertrand"
+    },
+    {
+      "timestamp": 1789050271.8770368,
+      "bankroll": 231.57,
+      "event": "won:  \u2014 Cassis: Raphael Perot vs Robin Bertrand"
     }
   ]
 }

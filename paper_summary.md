@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 09:24:12 (hora de Perú)
+Actualizado: 2026-09-10 09:26:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $225.69
-**Retorno acumulado:** -54.86%
+**Bankroll actual:** $231.57
+**Retorno acumulado:** -53.69%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 09:24:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $184.60 en 37 posiciones abiertas (disponible para nuevas apuestas: $41.09)
+**Capital comprometido ahora mismo:** $174.60 en 35 posiciones abiertas (disponible para nuevas apuestas: $56.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 96 | 71 | 9 | -138.90 USD |
-| ferrariChampions2026 | 693 | 433 | 21 | -253.30 USD |
+|  | 97 | 71 | 8 | -138.75 USD |
+| ferrariChampions2026 | 694 | 433 | 20 | -247.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4725
-- **Aciertos:** 2972 (62.9%)
+- **Apuestas resueltas:** 4727
+- **Aciertos:** 2974 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,587.23
-- **ROI sobre lo apostado:** -1.69%
-- **Comisiones pagadas (taker fee):** $438.43 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,597.23
+- **ROI sobre lo apostado:** -1.66%
+- **Comisiones pagadas (taker fee):** $438.57 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,10 +169,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2418 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2419 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1422 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 624 | 85.4% | 86.6% | -1.2 pp |
-| 95-99% (casi seguro) | 261 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 262 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -953,7 +953,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 290.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -961,7 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: Alliance vs magic (BO3)  | magic (BUY) | 41% | 5.00 | 120.9% | ⏳ pendiente | — |
 |  | FC Bayern München vs. FK Bodø/Glimt: FC  | Over (BUY) | 80% | 5.00 | 6.4% | ⏳ pendiente | — |
-|  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ⏳ pendiente | — |
+|  | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 97% | 5.00 | 0.8% | ✅ ganada | +0.15 |
 |  | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 94% | 5.00 | 1.5% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-3.5) | FC Bayern München (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -969,7 +969,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Reus: Jessica Pieri vs Marianna Argy | Marianna Argyrokastriti (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | ferrariChampions2026 | Antalya 4: Maria Lourdes Carle vs Eva Ve | Maria Lourdes Carle (BUY) | 82% | 5.00 | 6.8% | ✅ ganada | +1.05 |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Sascha Gueymard-Wayenburg (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Raphael Perot vs Robin Bertrand | Robin Bertrand (BUY) | 46% | 5.00 | 1.8% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Cassis: Sascha Gueymard-Wayenburg vs Mar | Mark Lajal (BUY) | 69% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Diego Dedura-Palomero vs Gustavo  | Gustavo Heide (BUY) | 89% | 5.00 | 5.2% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Genoa: Hugo Dellien vs Matej Dodig | Matej Dodig (BUY) | 43% | 5.00 | 1.3% | ✅ ganada | +6.48 |
