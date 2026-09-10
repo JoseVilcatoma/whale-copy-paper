@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 04:31:52 (hora de Perú)
+Actualizado: 2026-09-10 04:33:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $234.38
@@ -940,7 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 67% | 5.00 | 59.2% | ⏳ pendiente | — |
+|  | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 67% | 5.00 | 118.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Francesca Jones (BUY) | 64% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Billy Harris (BUY) | 70% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 1  | Legacy (BUY) | 67% | 5.00 | 280.5% | ⏳ pendiente | — |
