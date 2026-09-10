@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 23:15:17 (hora de Perú)
+Actualizado: 2026-09-09 23:17:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.33
@@ -942,7 +942,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 6.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ⏳ pendiente | — |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
