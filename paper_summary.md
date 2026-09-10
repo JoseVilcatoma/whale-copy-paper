@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 11:14:36 (hora de Perú)
+Actualizado: 2026-09-10 11:16:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $218.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 11:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $8.65)
+**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $3.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 696 | 436 | 17 | -260.09 USD |
+| ferrariChampions2026 | 696 | 436 | 18 | -260.09 USD |
 
 ## Análisis general
 
@@ -948,6 +948,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |
 | Flaznorp | Will PFC Sogdiana win on 2026-09-10? | No (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Al Jazira (UAE) win on 2026-09-10? | No (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -977,4 +978,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 5.2% | ✅ ganada | +0.65 |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |

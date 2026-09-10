@@ -123477,5 +123477,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789056311.8541427,
     "fills": 4
+  },
+  {
+    "timestamp": 1789056931,
+    "timestamp_added": 1789056931.6014183,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wild-giunta-2026-09-09-first-set-winner-Wild-vs-Giunta",
+    "title": "Set 1 Winner: Wild vs Giunta",
+    "outcome": "Wild",
+    "side": "BUY",
+    "whale_usd": 1387.0,
+    "whale_pct": 0.821,
+    "whale_value_at_open": 169027.3611,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789056931.6014283,
+    "fills": 1
   }
 ]
