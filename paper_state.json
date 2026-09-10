@@ -1,5 +1,5 @@
 {
-  "bankroll": 222.9710375043722,
+  "bankroll": 221.50196732893357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24650,6 +24650,16 @@
       "timestamp": 1789046958.205397,
       "bankroll": 222.97,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Diego Dedura-Palomero vs Gustavo Heide"
+    },
+    {
+      "timestamp": 1789047519.6213546,
+      "bankroll": 226.63,
+      "event": "won: vjnn \u2014 Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A"
+    },
+    {
+      "timestamp": 1789047519.721482,
+      "bankroll": 221.5,
+      "event": "lost: Noprajsk \u2014 Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group A"
     }
   ]
 }
