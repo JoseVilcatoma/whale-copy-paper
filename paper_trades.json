@@ -124715,5 +124715,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789076400.7500331,
     "fills": 3
+  },
+  {
+    "timestamp": 1789076489,
+    "timestamp_added": 1789076490.5333028,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-lee-jeanjea-2026-09-10",
+    "title": "Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean",
+    "outcome": "Carol Young Suh Lee",
+    "side": "BUY",
+    "whale_usd": 1694.7099990000002,
+    "whale_pct": 1.079,
+    "whale_value_at_open": 157025.9469,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789076490.533311,
+    "fills": 1
   }
 ]

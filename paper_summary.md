@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:40:39 (hora de Perú)
+Actualizado: 2026-09-10 16:42:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $248.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:40:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $158.32 en 32 posiciones abiertas (disponible para nuevas apuestas: $90.17)
+**Capital comprometido ahora mismo:** $163.32 en 33 posiciones abiertas (disponible para nuevas apuestas: $85.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 104 | 72 | 3 | -123.03 USD |
+|  | 104 | 72 | 4 | -123.03 USD |
 | ferrariChampions2026 | 713 | 446 | 18 | -254.49 USD |
 
 ## Análisis general
@@ -958,6 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Anastasia Tikhonova (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -987,4 +988,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ✅ ganada | +0.30 |
 |  | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 56% | 5.00 | 39.2% | ❌ perdida | -5.11 |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 9.3% | ❌ perdida | -5.10 |
-| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 67.6% | ✅ ganada | +3.52 |
