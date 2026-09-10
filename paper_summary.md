@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 00:42:45 (hora de Perú)
+Actualizado: 2026-09-10 00:44:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $214.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 00:42:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.26 en 13 posiciones abiertas (disponible para nuevas apuestas: $152.36)
+**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $147.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 88 | 34 | 0 | -10.66 USD |
+| Flaznorp | 88 | 34 | 1 | -10.66 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -940,6 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Fenerbahçe SK vs. AS Roma: AS Roma O/U 1 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 94% | 5.00 | 15.5% | ⏳ pendiente | — |
 |  | SK Slavia Praha vs. Racing Club de Lens: | Over (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -969,4 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ✅ ganada | +3.52 |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ✅ ganada | +3.82 |
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 11.0% | ❌ perdida | -4.48 |

@@ -121651,5 +121651,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789017514.185263,
     "fills": 1
+  },
+  {
+    "timestamp": 1789019003,
+    "timestamp_added": 1789019003.8672214,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-fen-rom-2026-09-10-team-total-away-1pt5",
+    "title": "Fenerbah\u00e7e SK vs. AS Roma: AS Roma O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 831.42,
+    "whale_pct": 0.354,
+    "whale_value_at_open": 234802.4532,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789019003.8672369,
+    "fills": 1
   }
 ]
