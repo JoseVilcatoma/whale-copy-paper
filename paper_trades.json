@@ -121784,8 +121784,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 27150.934400000002,
-    "whale_pct": 28.677,
+    "whale_usd": 30873.174400000004,
+    "whale_pct": 32.608,
     "whale_value_at_open": 94678.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -121796,8 +121796,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789061675.9926622,
-    "fills": 4
+    "last_fill_at": 1789062980.7066138,
+    "fills": 5
   },
   {
     "timestamp": 1789023647,
@@ -121808,8 +121808,8 @@
     "title": "Spread: Atlanta Braves (-1.5)",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 6178.429999999999,
-    "whale_pct": 6.526,
+    "whale_usd": 7486.427599999999,
+    "whale_pct": 7.907,
     "whale_value_at_open": 94678.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -121820,8 +121820,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789023647.6470554,
-    "fills": 1
+    "last_fill_at": 1789062904.4455476,
+    "fills": 2
   },
   {
     "timestamp": 1789024901,
@@ -123705,8 +123705,8 @@
     "title": "Montreux: Martina Trevisan vs Guiomar Maristany",
     "outcome": "Guiomar Maristany",
     "side": "BUY",
-    "whale_usd": 3510.844616,
-    "whale_pct": 1.551,
+    "whale_usd": 4070.299834,
+    "whale_pct": 1.798,
     "whale_value_at_open": 226357.6412,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -123717,8 +123717,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789062746.9383783,
-    "fills": 2
+    "last_fill_at": 1789062877.3893092,
+    "fills": 3
   },
   {
     "timestamp": 1789062811,
