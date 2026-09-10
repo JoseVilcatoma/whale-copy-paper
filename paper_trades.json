@@ -121587,8 +121587,8 @@
     "title": "Phan Thiet 3: Philip Sekulic vs Koki Matsuda",
     "outcome": "Philip Sekulic",
     "side": "BUY",
-    "whale_usd": 9856.697649,
-    "whale_pct": 8.638,
+    "whale_usd": 11302.058354,
+    "whale_pct": 9.905,
     "whale_value_at_open": 114105.6962,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -121599,8 +121599,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789019314.5514407,
-    "fills": 3
+    "last_fill_at": 1789020442.1745188,
+    "fills": 4
   },
   {
     "timestamp": 1789017220,

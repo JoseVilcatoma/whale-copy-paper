@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 01:05:37 (hora de Perú)
+Actualizado: 2026-09-10 01:07:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $217.55
@@ -944,7 +944,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Fenerbahçe SK vs. AS Roma: AS Roma O/U 1 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 94% | 5.00 | 15.5% | ⏳ pendiente | — |
 |  | SK Slavia Praha vs. Racing Club de Lens: | Over (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 8.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 9.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
