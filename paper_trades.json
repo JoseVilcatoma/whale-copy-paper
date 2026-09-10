@@ -121975,8 +121975,8 @@
     "title": "Istanbul 3: Max Basing vs Mert Alkaya",
     "outcome": "Max Basing",
     "side": "BUY",
-    "whale_usd": 3865.2982389999997,
-    "whale_pct": 2.462,
+    "whale_usd": 9780.468393,
+    "whale_pct": 6.229,
     "whale_value_at_open": 157014.4514,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -121987,7 +121987,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789028886.1778145,
-    "fills": 1
+    "last_fill_at": 1789028980.2803063,
+    "fills": 2
   }
 ]

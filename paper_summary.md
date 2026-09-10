@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 03:28:16 (hora de Perú)
+Actualizado: 2026-09-10 03:30:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.31
@@ -940,7 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Istanbul 3: Max Basing vs Mert Alkaya | Max Basing (BUY) | 89% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Denis Yevseyev | Ji-Sung Nam (BUY) | 79% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Miguel Tobon vs Edas Butvila | Edas Butvilas (BUY) | 71% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Bayern München vs. FK Bodø/Glimt: O/U | Under (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
