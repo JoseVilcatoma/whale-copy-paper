@@ -122855,8 +122855,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Stefano Travaglia",
     "side": "BUY",
-    "whale_usd": 11984.269844999999,
-    "whale_pct": 5.665,
+    "whale_usd": 20322.013844999998,
+    "whale_pct": 9.605,
     "whale_value_at_open": 211566.7181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -122867,8 +122867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789050269.9290924,
-    "fills": 7
+    "last_fill_at": 1789050606.2936878,
+    "fills": 9
   },
   {
     "timestamp": 1789048830,
@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 4245.68,
-    "whale_pct": 2.325,
+    "whale_usd": 9247.44,
+    "whale_pct": 5.064,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789049920.648984,
-    "fills": 1
+    "last_fill_at": 1789050556.552652,
+    "fills": 2
   },
   {
     "timestamp": 1789050037,
