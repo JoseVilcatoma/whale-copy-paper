@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.77167977193668,
+  "bankroll": 232.09814601997434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24935,6 +24935,26 @@
       "timestamp": 1789070364.7665503,
       "bankroll": 232.77,
       "event": "won: ferrariChampions2026 \u2014 Seville: Henrique Rocha vs Santiago Rodriguez Taverna"
+    },
+    {
+      "timestamp": 1789070551.9056876,
+      "bankroll": 237.27,
+      "event": "won: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1789070553.80691,
+      "bankroll": 232.13,
+      "event": "lost: ferrariChampions2026 \u2014 Seville: Pavel Lagutin vs Max Alcala Gurri"
+    },
+    {
+      "timestamp": 1789070554.2882905,
+      "bankroll": 237.21,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Pavel Lagutin vs Max Alcala Gurri"
+    },
+    {
+      "timestamp": 1789070554.8995159,
+      "bankroll": 232.1,
+      "event": "lost:  \u2014 Seville: Pavel Lagutin vs Max Alcala Gurri"
     }
   ]
 }
