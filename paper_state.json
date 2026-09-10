@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.03614170002186,
+  "bankroll": 236.46216585604597,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24855,6 +24855,36 @@
       "timestamp": 1789066681.3464017,
       "bankroll": 234.04,
       "event": "won: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789066805.6983752,
+      "bankroll": 228.91,
+      "event": "lost: Flaznorp \u2014 Fenerbah\u00e7e SK vs. AS Roma: AS Roma O/U 1.5"
+    },
+    {
+      "timestamp": 1789066806.0452707,
+      "bankroll": 229.39,
+      "event": "won: Flaznorp \u2014 Spread: AS Roma (-2.5)"
+    },
+    {
+      "timestamp": 1789066806.9355462,
+      "bankroll": 230.3,
+      "event": "won: Flaznorp \u2014 Fenerbah\u00e7e SK vs. AS Roma: AS Roma O/U 0.5"
+    },
+    {
+      "timestamp": 1789066810.0253785,
+      "bankroll": 231.21,
+      "event": "won: Flaznorp \u2014 Fenerbah\u00e7e SK vs. AS Roma: O/U 1.5"
+    },
+    {
+      "timestamp": 1789066811.113854,
+      "bankroll": 232.9,
+      "event": "won: Flaznorp \u2014 Will PFC Sogdiana win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789066811.3888237,
+      "bankroll": 236.46,
+      "event": "won: 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 \u2014 Will AS Roma win on 2026-09-10?"
     }
   ]
 }
