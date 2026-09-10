@@ -124866,5 +124866,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789078245.9261734,
     "fills": 1
+  },
+  {
+    "timestamp": 1789079209,
+    "timestamp_added": 1789079209.9089296,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bra2-vln-goi-2026-09-10-vln",
+    "title": "Will Vila Nova FC win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 550.0,
+    "whale_pct": 0.558,
+    "whale_value_at_open": 98633.6334,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789079209.9089472,
+    "fills": 1
   }
 ]

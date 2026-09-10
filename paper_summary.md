@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 17:25:45 (hora de Perú)
+Actualizado: 2026-09-10 17:27:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 17:25:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $124.60 en 25 posiciones abiertas (disponible para nuevas apuestas: $113.01)
+**Capital comprometido ahora mismo:** $129.60 en 26 posiciones abiertas (disponible para nuevas apuestas: $108.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 1 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 2 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -959,6 +959,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ⏳ pendiente | — |
@@ -988,4 +989,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 6.7% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 7.1% | ❌ perdida | -5.12 |
-|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 55.6% | ✅ ganada | +4.32 |
