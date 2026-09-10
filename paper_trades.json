@@ -122583,8 +122583,8 @@
     "title": "Spread: FC Bayern M\u00fcnchen (-3.5)",
     "outcome": "FC Bayern M\u00fcnchen",
     "side": "BUY",
-    "whale_usd": 5627.9776,
-    "whale_pct": 3.068,
+    "whale_usd": 6638.7954,
+    "whale_pct": 3.619,
     "whale_value_at_open": 183429.7633,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -122595,8 +122595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789046443.9990041,
-    "fills": 1
+    "last_fill_at": 1789065720.8249469,
+    "fills": 2
   },
   {
     "timestamp": 1789046447,
