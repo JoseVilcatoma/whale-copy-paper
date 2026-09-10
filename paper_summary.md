@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 15:24:33 (hora de Perú)
+Actualizado: 2026-09-10 15:26:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.10
@@ -957,7 +957,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 13.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 21.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Elsa Jacquemot (BUY) | 67% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Seattle Mariners (-1.5) | Texas Rangers (BUY) | 68% | 5.00 | 3.3% | ⏳ pendiente | — |
