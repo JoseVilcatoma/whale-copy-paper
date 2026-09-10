@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 12:29:17 (hora de Perú)
+Actualizado: 2026-09-10 12:31:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $226.86
-**Retorno acumulado:** -54.63%
+**Bankroll actual:** $228.55
+**Retorno acumulado:** -54.29%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 12:29:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $3.61)
+**Capital comprometido ahora mismo:** $218.25 en 44 posiciones abiertas (disponible para nuevas apuestas: $10.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 698 | 437 | 18 | -257.03 USD |
+| ferrariChampions2026 | 699 | 437 | 17 | -255.34 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4743
-- **Aciertos:** 2984 (62.9%)
+- **Apuestas resueltas:** 4744
+- **Aciertos:** 2985 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,677.23
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $440.01 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,682.23
+- **ROI sobre lo apostado:** -1.67%
+- **Comisiones pagadas (taker fee):** $440.07 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2427 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 1426 | 68.4% | 67.8% | +0.7 pp |
+| 60-79% | 1427 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
 
@@ -956,7 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 10.8% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 45.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ✅ ganada | +1.69 |
 | vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |
 | Flaznorp | Will PFC Sogdiana win on 2026-09-10? | No (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Al Jazira (UAE) win on 2026-09-10? | No (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |

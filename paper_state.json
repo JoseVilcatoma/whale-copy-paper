@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.86300159380275,
+  "bankroll": 228.5547583505595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24770,6 +24770,11 @@
       "timestamp": 1789061166.1211154,
       "bankroll": 226.86,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Juan Manuel La Serna vs Lukas Neumayer"
+    },
+    {
+      "timestamp": 1789061484.532754,
+      "bankroll": 228.55,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Wild vs Giunta"
     }
   ]
 }
