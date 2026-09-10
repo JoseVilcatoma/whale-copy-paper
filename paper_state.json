@@ -1,5 +1,5 @@
 {
-  "bankroll": 240.4759962084748,
+  "bankroll": 242.7489373849454,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25160,6 +25160,11 @@
       "timestamp": 1789082768.5609717,
       "bankroll": 240.48,
       "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Elsa Jacquemot vs Anastasia Tikhonova"
+    },
+    {
+      "timestamp": 1789084354.6015644,
+      "bankroll": 242.75,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP (Doubles): Helioevaara/Patten vs Harrison/Skupski"
     }
   ]
 }
