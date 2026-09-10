@@ -121821,5 +121821,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789023647.6470554,
     "fills": 1
+  },
+  {
+    "timestamp": 1789024901,
+    "timestamp_added": 1789024902.250525,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tomic-ivashka-2026-09-09",
+    "title": "Shanghai: Bernard Tomic vs Ilya Ivashka",
+    "outcome": "Ilya Ivashka",
+    "side": "BUY",
+    "whale_usd": 2209.865045,
+    "whale_pct": 2.206,
+    "whale_value_at_open": 100179.7443,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789024902.2505372,
+    "fills": 1
   }
 ]
