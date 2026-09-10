@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.4027192390495,
+  "bankroll": 231.3177192390495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24270,6 +24270,11 @@
       "timestamp": 1789005622.8030477,
       "bankroll": 236.4,
       "event": "won: Flaznorp \u2014 Will CA Mineiro win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005810.810754,
+      "bankroll": 231.32,
+      "event": "lost: Zzzz87 \u2014 Will D.C. United SC win on 2026-09-09?"
     }
   ]
 }
