@@ -124328,8 +124328,8 @@
     "title": "Texas Rangers vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 4161.89064,
-    "whale_pct": 1.956,
+    "whale_usd": 6359.77334,
+    "whale_pct": 2.989,
     "whale_value_at_open": 212742.3293,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -124342,8 +124342,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789072158.3788157,
-    "fills": 4
+    "last_fill_at": 1789078017.9163458,
+    "fills": 5
   },
   {
     "timestamp": 1789069334,
@@ -124816,5 +124816,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789077715.8555229,
     "fills": 2
+  },
+  {
+    "timestamp": 1789077942,
+    "timestamp_added": 1789077943.4443915,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-sea-2026-09-10-total-8pt5",
+    "title": "Texas Rangers vs. Seattle Mariners: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 994.537037,
+    "whale_pct": 0.631,
+    "whale_value_at_open": 157641.6581,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789077943.4443998,
+    "fills": 1
   }
 ]
