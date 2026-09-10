@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.0424130826705,
+  "bankroll": 243.22725258884333,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25055,6 +25055,21 @@
       "timestamp": 1789076810.309177,
       "bankroll": 251.04,
       "event": "won: ferrariChampions2026 \u2014 Seville: Calvin Hemery vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1789077125.1097949,
+      "bankroll": 252.17,
+      "event": "won: ferrariChampions2026 \u2014 Montreux: Simona Waltert vs Despina Papamichail"
+    },
+    {
+      "timestamp": 1789077125.2099435,
+      "bankroll": 247.03,
+      "event": "lost:  \u2014 Montreux: Simona Waltert vs Despina Papamichail"
+    },
+    {
+      "timestamp": 1789077125.5103698,
+      "bankroll": 243.23,
+      "event": "lost: ferrariChampions2026 \u2014 Montreux: Simona Waltert vs Despina Papamichail"
     }
   ]
 }
