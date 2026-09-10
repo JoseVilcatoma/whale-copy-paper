@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:22:12 (hora de Perú)
+Actualizado: 2026-09-10 16:24:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $248.49
@@ -960,7 +960,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 51% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 51% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Claire  | Claire Liu (BUY) | 85% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
