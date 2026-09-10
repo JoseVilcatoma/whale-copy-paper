@@ -122170,8 +122170,8 @@
     "title": "Antalya 4: Francesca Jones vs Rositsa Dencheva",
     "outcome": "Rositsa Dencheva",
     "side": "BUY",
-    "whale_usd": 8133.4112000000005,
-    "whale_pct": 5.937,
+    "whale_usd": 9035.942200000001,
+    "whale_pct": 6.596,
     "whale_value_at_open": 136994.9205,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -122182,8 +122182,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789035506.09309,
-    "fills": 2
+    "last_fill_at": 1789037612.6872416,
+    "fills": 3
   },
   {
     "timestamp": 1789036003,
