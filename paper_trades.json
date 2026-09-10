@@ -120927,8 +120927,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.103,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.48,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -121124,8 +121124,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -121246,8 +121246,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "wr0ngw4yb3tt0r"
     ],
@@ -121479,5 +121479,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789011965.771085,
     "fills": 2
+  },
+  {
+    "timestamp": 1789012073,
+    "timestamp_added": 1789012074.0918286,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-kokkin1-ma1-2026-09-10",
+    "title": "W50 Guiyang: Tahlia Kokkinis vs YeXin Ma",
+    "outcome": "YeXin Ma",
+    "side": "BUY",
+    "whale_usd": 712.5999999999999,
+    "whale_pct": 0.61,
+    "whale_value_at_open": 116893.9853,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789012074.0918412,
+    "fills": 1
   }
 ]

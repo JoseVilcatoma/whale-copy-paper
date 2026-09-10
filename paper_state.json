@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.04317644836837,
+  "bankroll": 214.23067644836837,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24415,6 +24415,21 @@
       "timestamp": 1789011806.899773,
       "bankroll": 221.04,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1789012060.7940063,
+      "bankroll": 216.56,
+      "event": "lost: ferrariChampions2026 \u2014 Patriots vs. Seahawks"
+    },
+    {
+      "timestamp": 1789012061.4866135,
+      "bankroll": 211.51,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Patriots vs. Seahawks"
+    },
+    {
+      "timestamp": 1789012062.2347052,
+      "bankroll": 214.23,
+      "event": "won: ferrariChampions2026 \u2014 Patriots vs. Seahawks"
     }
   ]
 }

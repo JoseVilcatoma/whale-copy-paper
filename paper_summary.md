@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:46:30 (hora de Perú)
+Actualizado: 2026-09-09 22:48:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $221.04
-**Retorno acumulado:** -55.79%
+**Bankroll actual:** $214.23
+**Retorno acumulado:** -57.15%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 22:46:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $126.64 en 26 posiciones abiertas (disponible para nuevas apuestas: $94.40)
+**Capital comprometido ahora mismo:** $117.26 en 24 posiciones abiertas (disponible para nuevas apuestas: $96.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 64 | 40 | 3 | +43.31 USD |
+| wr0ngw4yb3tt0r | 64 | 41 | 2 | +38.26 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 93 | 68 | 5 | -129.86 USD |
-| ferrariChampions2026 | 673 | 424 | 10 | -261.51 USD |
+| ferrariChampions2026 | 674 | 425 | 9 | -263.27 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4673
-- **Aciertos:** 2938 (62.9%)
+- **Apuestas resueltas:** 4676
+- **Aciertos:** 2939 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,330.19
-- **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $433.94 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,344.57
+- **ROI sobre lo apostado:** -1.76%
+- **Comisiones pagadas (taker fee):** $434.18 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,8 +169,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2396 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1403 | 68.5% | 67.8% | +0.7 pp |
+| 40-59% | 2397 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1405 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 614 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
@@ -938,6 +938,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -947,12 +948,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 17.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 17.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ❌ perdida | -5.10 |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 3.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ❌ perdida | -5.05 |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ✅ ganada | +0.20 |
 |  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
@@ -960,11 +961,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ✅ ganada | +3.52 |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 11.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Patriots vs. Seahawks | Patriots (BUY) | 53% | 4.38 | 11.0% | ❌ perdida | -4.48 |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
 |  | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 0.9% | ✅ ganada | +0.84 |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 84% | 5.00 | 4.1% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Chicago Cubs vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 85% | 5.00 | 27.5% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 75% | 5.00 | 4.8% | ❌ perdida | -5.06 |
 | bands1 | Spread: Seahawks (-2.5) | Patriots (BUY) | 44% | 5.00 | 25.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 41% | 5.00 | 1.4% | ❌ perdida | -5.15 |
