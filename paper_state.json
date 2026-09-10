@@ -1,5 +1,5 @@
 {
-  "bankroll": 247.83528480374343,
+  "bankroll": 248.4871566724141,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25020,6 +25020,31 @@
       "timestamp": 1789074931.90764,
       "bankroll": 247.84,
       "event": "won:  \u2014 Manchester United FC vs. Sabah FK: Both Teams to Score"
+    },
+    {
+      "timestamp": 1789075237.342583,
+      "bankroll": 251.07,
+      "event": "won:  \u2014 SK Slavia Praha vs. Racing Club de Lens: O/U 2.5"
+    },
+    {
+      "timestamp": 1789075238.3490136,
+      "bankroll": 245.92,
+      "event": "lost: ferrariChampions2026 \u2014 SK Slavia Praha vs. Racing Club de Lens: O/U 2.5"
+    },
+    {
+      "timestamp": 1789075240.0295374,
+      "bankroll": 250.24,
+      "event": "won:  \u2014 Genoa: Francesco Passaro vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1789075240.12968,
+      "bankroll": 245.12,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Francesco Passaro vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1789075240.5761561,
+      "bankroll": 248.49,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Francesco Passaro vs Juan Pablo Varillas"
     }
   ]
 }

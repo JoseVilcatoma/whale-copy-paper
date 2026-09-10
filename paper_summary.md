@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:20:09 (hora de Perú)
+Actualizado: 2026-09-10 16:22:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $247.84
-**Retorno acumulado:** -50.43%
+**Bankroll actual:** $248.49
+**Retorno acumulado:** -50.30%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:20:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $178.32 en 36 posiciones abiertas (disponible para nuevas apuestas: $69.52)
+**Capital comprometido ahora mismo:** $153.32 en 31 posiciones abiertas (disponible para nuevas apuestas: $95.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+|  | 36 | 26 | 2 | +30.40 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-|  | 35 | 26 | 3 | +26.08 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -150,19 +150,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 103 | 72 | 4 | -126.26 USD |
-| ferrariChampions2026 | 712 | 444 | 20 | -247.60 USD |
+|  | 104 | 72 | 3 | -123.03 USD |
+| ferrariChampions2026 | 713 | 446 | 17 | -254.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4793
-- **Aciertos:** 3019 (63.0%)
+- **Apuestas resueltas:** 4798
+- **Aciertos:** 3022 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,925.88
+- **Total apostado (suma de stakes):** $23,950.88
 - **ROI sobre lo apostado:** -1.57%
-- **Comisiones pagadas (taker fee):** $444.49 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $445.08 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2451 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1441 | 68.4% | 67.8% | +0.6 pp |
+| 40-59% | 2455 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1442 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 636 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -976,11 +976,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 50% | 5.00 | 8406.8% | ⏳ pendiente | — |
 |  | Seville: Calvin Hemery vs Dusan Lajovic | Dusan Lajovic (BUY) | 78% | 5.00 | 26.2% | ⏳ pendiente | — |
 |  | Montreux: Simona Waltert vs Despina Papa | Despina Papamichail (BUY) | 46% | 5.00 | 43.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 8.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 59% | 5.00 | 8.2% | ✅ ganada | +3.37 |
 | wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 44% | 5.00 | 3.3% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Despina Papa | Simona Waltert (BUY) | 81% | 5.00 | 6.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 7.1% | ⏳ pendiente | — |
-|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 55.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Francesco Passaro vs Juan Pablo V | Francesco Passaro (BUY) | 50% | 5.00 | 7.1% | ❌ perdida | -5.12 |
+|  | Genoa: Francesco Passaro vs Juan Pablo V | Juan Pablo Varillas (BUY) | 53% | 5.00 | 55.6% | ✅ ganada | +4.32 |
 |  | Manchester United FC vs. Sabah FK: Both  | No (BUY) | 62% | 5.00 | 4.2% | ✅ ganada | +2.97 |
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ✅ ganada | +3.37 |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ✅ ganada | +0.30 |
