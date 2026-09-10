@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 02:00:00 (hora de Perú)
+Actualizado: 2026-09-10 02:02:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $223.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 02:00:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.60 en 16 posiciones abiertas (disponible para nuevas apuestas: $143.93)
+**Capital comprometido ahora mismo:** $89.60 en 18 posiciones abiertas (disponible para nuevas apuestas: $133.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 679 | 428 | 4 | -259.36 USD |
+| ferrariChampions2026 | 679 | 428 | 6 | -259.36 USD |
 
 ## Análisis general
 
@@ -940,6 +940,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
 | Flaznorp | Fenerbahçe SK vs. AS Roma: AS Roma O/U 0 | Over (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: Manchester United FC (-2.5) | Sabah FK (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Koki Matsuda (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -968,5 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ❌ perdida | -5.05 |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ✅ ganada | +0.20 |
-|  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ❌ perdida | -5.06 |
-|  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
