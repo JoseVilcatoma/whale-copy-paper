@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.10858216384605,
+  "bankroll": 214.2186960878967,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24455,6 +24455,31 @@
       "timestamp": 1789015483.9220247,
       "bankroll": 227.11,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP (Doubles): Bolelli/Vavassori vs Harrison/Skupski"
+    },
+    {
+      "timestamp": 1789016460.8344045,
+      "bankroll": 221.99,
+      "event": "lost:  \u2014 Spread: Los Angeles FC (-1.5)"
+    },
+    {
+      "timestamp": 1789016462.3227012,
+      "bankroll": 216.87,
+      "event": "lost:  \u2014 W50 Guiyang: Han Shi vs Yujia Huang"
+    },
+    {
+      "timestamp": 1789016462.42284,
+      "bankroll": 211.74,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Guiyang: Han Shi vs Yujia Huang"
+    },
+    {
+      "timestamp": 1789016462.834,
+      "bankroll": 213.02,
+      "event": "won:  \u2014 W50 Guiyang: Han Shi vs Yujia Huang"
+    },
+    {
+      "timestamp": 1789016462.9341128,
+      "bankroll": 214.22,
+      "event": "won: ferrariChampions2026 \u2014 W50 Guiyang: Han Shi vs Yujia Huang"
     }
   ]
 }
