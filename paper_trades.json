@@ -119896,8 +119896,8 @@
     "title": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 32711.915095000004,
-    "whale_pct": 9.376,
+    "whale_usd": 33767.336095000006,
+    "whale_pct": 9.678,
     "whale_value_at_open": 348901.7573,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -119908,8 +119908,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789000431.7346094,
-    "fills": 3
+    "last_fill_at": 1789002651.974124,
+    "fills": 4
   },
   {
     "timestamp": 1788990488,
@@ -120221,8 +120221,8 @@
     "title": "Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo",
     "outcome": "Kaitlin Quevedo",
     "side": "BUY",
-    "whale_usd": 7241.596466,
-    "whale_pct": 2.433,
+    "whale_usd": 7889.978376,
+    "whale_pct": 2.651,
     "whale_value_at_open": 297614.3355,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -120233,8 +120233,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789001966.744688,
-    "fills": 2
+    "last_fill_at": 1789002614.8680673,
+    "fills": 3
   },
   {
     "timestamp": 1788992995,
