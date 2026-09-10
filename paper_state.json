@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.46216585604597,
+  "bankroll": 233.01483252271265,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24885,6 +24885,16 @@
       "timestamp": 1789066811.3888237,
       "bankroll": 236.46,
       "event": "won: 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 \u2014 Will AS Roma win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789067743.6922328,
+      "bankroll": 238.07,
+      "event": "won: ferrariChampions2026 \u2014 Montreux: Martina Trevisan vs Guiomar Maristany"
+    },
+    {
+      "timestamp": 1789067744.193121,
+      "bankroll": 233.01,
+      "event": "lost: ferrariChampions2026 \u2014 Montreux: Martina Trevisan vs Guiomar Maristany"
     }
   ]
 }

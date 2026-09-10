@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 14:13:39 (hora de Perú)
+Actualizado: 2026-09-10 14:15:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.46
-**Retorno acumulado:** -52.71%
+**Bankroll actual:** $233.01
+**Retorno acumulado:** -53.40%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 14:13:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $189.60 en 38 posiciones abiertas (disponible para nuevas apuestas: $46.86)
+**Capital comprometido ahora mismo:** $184.60 en 37 posiciones abiertas (disponible para nuevas apuestas: $48.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-|  | 32 | 25 | 2 | +24.55 USD |
+|  | 32 | 25 | 3 | +24.55 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 703 | 439 | 22 | -254.27 USD |
+| ferrariChampions2026 | 704 | 440 | 20 | -257.72 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4766
-- **Aciertos:** 3001 (63.0%)
+- **Apuestas resueltas:** 4768
+- **Aciertos:** 3002 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,790.88
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $441.90 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,800.88
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $442.01 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2436 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1434 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1436 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 631 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -935,7 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-ne-sea-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | itf-shi1-huang2-2026-09-10 | , ferrariChampions2026 |
 | atp-miyoshi-peliwo-2026-09-08 | , ferrariChampions2026 |
-| ucl-com-rbl-2026-09-10-com | ferrariChampions2026, lucidarderi |
+| ucl-com-rbl-2026-09-10-com | , ferrariChampions2026, lucidarderi |
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
 | ucl-slp-rcl-2026-09-10-total-2pt5 | , ferrariChampions2026 |
 | mlb-tb-atl-2026-09-10 | ferrariChampions2026, vjnn |
@@ -953,21 +953,22 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ⏳ pendiente | — |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ⏳ pendiente | — |
 |  | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 56% | 5.00 | 39.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 6.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 60% | 5.00 | 8.5% | ⏳ pendiente | — |
 | lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 67.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Manchester United FC (-3.5) | Manchester United FC (BUY) | 45% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Seville: Henrique Rocha vs Santiago Rodr | Henrique Rocha (BUY) | 90% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 47% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Houston Astros (BUY) | 46% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Max Alcala Gurri (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Guiomar Maristany (BUY) | 75% | 5.00 | 1.8% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-09-10? | No (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 65% | 5.00 | 24.2% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 19.6% | ⏳ pendiente | — |
@@ -982,4 +983,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Al Jazira (UAE) win on 2026-09-10? | No (BUY) | 59% | 5.00 | 0.4% | ✅ ganada | +3.37 |
 | Flaznorp | Will Al Jazira (UAE) vs. Al-Nasr Dubai C | Yes (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 |  | US Open ATP (Doubles): Krawietz/Puetz vs | Ram/Salisbury (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |

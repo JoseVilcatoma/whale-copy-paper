@@ -123712,8 +123712,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -123856,8 +123856,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -123997,8 +123997,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 12563.848399999999,
-    "whale_pct": 6.711,
+    "whale_usd": 15863.0798,
+    "whale_pct": 8.474,
     "whale_value_at_open": 187202.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -124012,8 +124012,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789067322.9259057,
-    "fills": 4
+    "last_fill_at": 1789067644.2667937,
+    "fills": 5
   },
   {
     "timestamp": 1789066883,
@@ -124064,5 +124064,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789067547.6898236,
     "fills": 1
+  },
+  {
+    "timestamp": 1789067625,
+    "timestamp_added": 1789067625.7374666,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "ucl-com-rbl-2026-09-10-com",
+    "title": "Will Como 1907 win on 2026-09-10?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 7499.999999,
+    "whale_pct": 22.142,
+    "whale_value_at_open": 33872.4183,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "lucidarderi"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789067664.0667691,
+    "fills": 3
   }
 ]
