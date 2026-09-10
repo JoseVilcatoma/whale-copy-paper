@@ -123657,8 +123657,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 27030.140168,
-    "whale_pct": 11.075,
+    "whale_usd": 27842.600168,
+    "whale_pct": 11.408,
     "whale_value_at_open": 244054.6294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -123669,8 +123669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789064680.245828,
-    "fills": 6
+    "last_fill_at": 1789065289.5675626,
+    "fills": 7
   },
   {
     "timestamp": 1789062296,
@@ -123729,8 +123729,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Max Alcala Gurri",
     "side": "BUY",
-    "whale_usd": 17300.400514,
-    "whale_pct": 7.195,
+    "whale_usd": 18602.200514,
+    "whale_pct": 7.736,
     "whale_value_at_open": 240447.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -123741,8 +123741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789064913.7315822,
-    "fills": 6
+    "last_fill_at": 1789065272.369889,
+    "fills": 7
   },
   {
     "timestamp": 1789063057,
