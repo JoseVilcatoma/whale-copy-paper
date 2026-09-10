@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:51:29 (hora de Perú)
+Actualizado: 2026-09-10 08:53:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 08:51:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.60 en 32 posiciones abiertas (disponible para nuevas apuestas: $61.90)
+**Capital comprometido ahora mismo:** $164.60 en 33 posiciones abiertas (disponible para nuevas apuestas: $56.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 7 | -139.20 USD |
-| ferrariChampions2026 | 690 | 433 | 19 | -257.18 USD |
+| ferrariChampions2026 | 690 | 433 | 20 | -257.18 USD |
 
 ## Análisis general
 
@@ -945,6 +945,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Philadelphia Phillies | Under (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -974,4 +975,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Rositsa Dencheva (BUY) | 47% | 5.00 | 6.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 81% | 5.00 | 5.5% | ✅ ganada | +1.13 |
 | Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2  | FURIA (BUY) | 58% | 5.00 | 66.7% | ❌ perdida | -5.11 |
-|  | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 67% | 5.00 | 118.4% | ✅ ganada | +2.38 |
