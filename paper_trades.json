@@ -121465,8 +121465,8 @@
     "title": "Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo",
     "outcome": "Filip Peliwo",
     "side": "BUY",
-    "whale_usd": 5459.2953,
-    "whale_pct": 5.035,
+    "whale_usd": 6637.866728999999,
+    "whale_pct": 6.122,
     "whale_value_at_open": 108421.4054,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -121477,8 +121477,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789011965.771085,
-    "fills": 2
+    "last_fill_at": 1789012479.9093406,
+    "fills": 3
   },
   {
     "timestamp": 1789012073,
