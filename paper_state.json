@@ -1,5 +1,5 @@
 {
-  "bankroll": 226.55922292061044,
+  "bankroll": 236.35521418854447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24235,6 +24235,36 @@
       "timestamp": 1789005377.3471422,
       "bankroll": 226.56,
       "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1789005496.2629476,
+      "bankroll": 229.66,
+      "event": "won: Zzzz87 \u2014 Will CF Montr\u00e9al win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005497.1293478,
+      "bankroll": 224.58,
+      "event": "lost: Zzzz87 \u2014 Will Toronto FC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005497.4175513,
+      "bankroll": 229.08,
+      "event": "won:  \u2014 Spread: SE Palmeiras (-1.5)"
+    },
+    {
+      "timestamp": 1789005499.4993765,
+      "bankroll": 230.68,
+      "event": "won: ferrariChampions2026 \u2014 Will SE Palmeiras win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005500.475955,
+      "bankroll": 235.0,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Nashville SC win on 2026-09-09?"
+    },
+    {
+      "timestamp": 1789005501.9892905,
+      "bankroll": 236.36,
+      "event": "won: Flaznorp \u2014 Will Santos FC win on 2026-09-09?"
     }
   ]
 }
