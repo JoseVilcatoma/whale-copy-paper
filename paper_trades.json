@@ -125068,8 +125068,8 @@
     "title": "Colorado Rockies vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 2464.6884,
-    "whale_pct": 1.872,
+    "whale_usd": 6855.6828,
+    "whale_pct": 5.207,
     "whale_value_at_open": 131669.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -125082,8 +125082,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789082013.3593686,
-    "fills": 1
+    "last_fill_at": 1789083293.6359122,
+    "fills": 2
   },
   {
     "timestamp": 1789082221,
