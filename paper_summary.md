@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 02:24:37 (hora de Perú)
+Actualizado: 2026-09-10 02:26:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $223.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 02:24:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.60 en 19 posiciones abiertas (disponible para nuevas apuestas: $128.93)
+**Capital comprometido ahora mismo:** $99.60 en 20 posiciones abiertas (disponible para nuevas apuestas: $123.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 3 | -139.20 USD |
-| ferrariChampions2026 | 679 | 428 | 7 | -259.36 USD |
+| ferrariChampions2026 | 679 | 428 | 8 | -259.36 USD |
 
 ## Análisis general
 
@@ -940,6 +940,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Map Handicap: AST (-1.5) vs 5star (+1.5) | Astralis (BUY) | 69% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Bernard Tomic vs Ilya Ivashka | Ilya Ivashka (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 49% | 5.00 | 15.5% | ⏳ pendiente | — |
@@ -969,4 +970,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 3.4% | ✅ ganada | +1.87 |
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ❌ perdida | -5.05 |

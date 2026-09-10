@@ -121845,5 +121845,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789024902.2505372,
     "fills": 1
+  },
+  {
+    "timestamp": 1789025097,
+    "timestamp_added": 1789025098.5656343,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-ast10-5s-2026-09-10-map-handicap-away-1pt5",
+    "title": "Map Handicap: AST (-1.5) vs 5star (+1.5)",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "whale_usd": 3236.8,
+    "whale_pct": 3.176,
+    "whale_value_at_open": 101925.2654,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789025109.0207713,
+    "fills": 2
   }
 ]
