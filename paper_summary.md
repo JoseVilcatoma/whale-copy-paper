@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 21:57:09 (hora de Perú)
+Actualizado: 2026-09-09 21:59:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $222.84
@@ -945,7 +945,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ✅ ganada | +0.20 |
 |  | Barranquilla: Julia Riera vs Mary Stoian | Mary Stoiana (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Under (BUY) | 49% | 4.60 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Arizona Diamondbacks vs. Kansas City Roy | Kansas City Royals (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | vjnn | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 56% | 5.00 | 44.1% | ⏳ pendiente | — |
 |  | Spread: Los Angeles FC (-1.5) | New York Red Bulls (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
