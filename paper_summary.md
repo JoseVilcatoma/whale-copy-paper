@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:59:00 (hora de Perú)
+Actualizado: 2026-09-10 17:01:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $247.21
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:59:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $107.61)
+**Capital comprometido ahora mismo:** $144.60 en 29 posiciones abiertas (disponible para nuevas apuestas: $102.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 72 | 4 | -123.03 USD |
-| ferrariChampions2026 | 715 | 447 | 16 | -255.97 USD |
+| ferrariChampions2026 | 715 | 447 | 17 | -255.97 USD |
 
 ## Análisis general
 
@@ -953,11 +953,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-passaro-varilla-2026-09-10 | , ferrariChampions2026 |
 | wta-waltert-papamic-2026-09-10 | , ferrariChampions2026 |
 | atp-hemery-lajovic-2026-09-10 | , ferrariChampions2026 |
+| wta-lee-jeanjea-2026-09-10 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 50% | 5.00 | 6.1% | ⏳ pendiente | — |
 |  | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Anastasia Tikhonova (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -987,4 +989,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Manchester United FC vs. Sabah FK: Both  | No (BUY) | 62% | 5.00 | 4.2% | ✅ ganada | +2.97 |
 |  | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 59% | 5.00 | 22.1% | ✅ ganada | +3.37 |
 |  | Will Manchester United FC win on 2026-09 | Yes (BUY) | 94% | 5.00 | 3.1% | ✅ ganada | +0.30 |
-|  | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 56% | 5.00 | 39.2% | ❌ perdida | -5.11 |
