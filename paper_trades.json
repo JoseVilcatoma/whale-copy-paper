@@ -124125,8 +124125,8 @@
     "title": "Genoa: Francesco Passaro vs Juan Pablo Varillas",
     "outcome": "Juan Pablo Varillas",
     "side": "BUY",
-    "whale_usd": 21374.999999,
-    "whale_pct": 37.262,
+    "whale_usd": 27749.999999,
+    "whale_pct": 48.376,
     "whale_value_at_open": 57363.5639,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -124137,8 +124137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068733.1784878,
-    "fills": 2
+    "last_fill_at": 1789068751.475306,
+    "fills": 3
   },
   {
     "timestamp": 1789067943,
@@ -124175,8 +124175,8 @@
     "title": "Montreux: Simona Waltert vs Despina Papamichail",
     "outcome": "Simona Waltert",
     "side": "BUY",
-    "whale_usd": 4594.64,
-    "whale_pct": 2.442,
+    "whale_usd": 10934.080000000002,
+    "whale_pct": 5.811,
     "whale_value_at_open": 188163.3942,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -124187,8 +124187,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789068038.6757157,
-    "fills": 1
+    "last_fill_at": 1789068850.6041048,
+    "fills": 3
   },
   {
     "timestamp": 1789068280,
@@ -124242,5 +124242,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789068469.3111165,
     "fills": 3
+  },
+  {
+    "timestamp": 1789068849,
+    "timestamp_added": 1789068850.163401,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "wta-waltert-papamic-2026-09-10",
+    "title": "Montreux: Simona Waltert vs Despina Papamichail",
+    "outcome": "Despina Papamichail",
+    "side": "BUY",
+    "whale_usd": 20000.0,
+    "whale_pct": 37.637,
+    "whale_value_at_open": 53138.8248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789068850.163411,
+    "fills": 1
   }
 ]
