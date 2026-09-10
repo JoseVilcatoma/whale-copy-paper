@@ -122261,5 +122261,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789038059.421774,
     "fills": 1
+  },
+  {
+    "timestamp": 1789038267,
+    "timestamp_added": 1789038268.3274024,
+    "username": "Noprajsk",
+    "wallet": "0x31e5d54aded22aa7cd80dbe9e33102abe2504879",
+    "slug": "cs2-mibr-bb3-2026-09-10-game1",
+    "title": "Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 152114.308773,
+    "whale_pct": 939.566,
+    "whale_value_at_open": 16189.8411,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789038281.707352,
+    "fills": 4
   }
 ]
