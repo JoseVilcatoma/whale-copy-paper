@@ -121725,5 +121725,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789020558.9428382,
     "fills": 1
+  },
+  {
+    "timestamp": 1789020727,
+    "timestamp_added": 1789020727.434769,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ucl-mnu-sf-2026-09-10-spread-home-2pt5",
+    "title": "Spread: Manchester United FC (-2.5)",
+    "outcome": "Sabah FK",
+    "side": "BUY",
+    "whale_usd": 1692.15,
+    "whale_pct": 0.712,
+    "whale_value_at_open": 237561.442,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789020727.933874,
+    "fills": 2
   }
 ]
