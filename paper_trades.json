@@ -122977,8 +122977,8 @@
     "title": "Tulln: Juan Manuel La Serna vs Lukas Neumayer",
     "outcome": "Lukas Neumayer",
     "side": "BUY",
-    "whale_usd": 23222.945777,
-    "whale_pct": 12.718,
+    "whale_usd": 30143.925777,
+    "whale_pct": 16.508,
     "whale_value_at_open": 182604.8967,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -122989,8 +122989,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789052395.2783265,
-    "fills": 8
+    "last_fill_at": 1789055243.6062126,
+    "fills": 9
   },
   {
     "timestamp": 1789050037,
