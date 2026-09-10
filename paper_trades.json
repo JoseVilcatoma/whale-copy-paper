@@ -124318,5 +124318,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789069222.3731537,
     "fills": 1
+  },
+  {
+    "timestamp": 1789069305,
+    "timestamp_added": 1789069305.8325405,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-sea-2026-09-10",
+    "title": "Texas Rangers vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 1415.326396,
+    "whale_pct": 0.665,
+    "whale_value_at_open": 212742.3293,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "vjnn"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789069305.8325515,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789069334,
+    "timestamp_added": 1789069334.7199771,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-waltert-papamic-2026-09-10",
+    "title": "Montreux: Simona Waltert vs Despina Papamichail",
+    "outcome": "Despina Papamichail",
+    "side": "BUY",
+    "whale_usd": 4993.722247000001,
+    "whale_pct": 2.347,
+    "whale_value_at_open": 212742.3293,
+    "paper_stake_usd": 3.72,
+    "odds_at_bet": 54,
+    "fee_usd": 0.086,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789069334.7199879,
+    "fills": 1
   }
 ]
