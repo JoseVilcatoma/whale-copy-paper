@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 08:59:33 (hora de Perú)
+Actualizado: 2026-09-10 09:01:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $222.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 08:59:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.60 en 32 posiciones abiertas (disponible para nuevas apuestas: $62.95)
+**Capital comprometido ahora mismo:** $169.60 en 34 posiciones abiertas (disponible para nuevas apuestas: $52.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-|  | 31 | 25 | 0 | +19.04 USD |
+|  | 31 | 25 | 1 | +19.04 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 95 | 71 | 7 | -139.20 USD |
-| ferrariChampions2026 | 691 | 433 | 19 | -256.13 USD |
+| ferrariChampions2026 | 691 | 433 | 20 | -256.13 USD |
 
 ## Análisis general
 
@@ -940,11 +940,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-perot-bertran-2026-09-10 | , ferrariChampions2026 |
 | wta-carle-vedder-2026-09-09 | , ferrariChampions2026 |
 | atp-silv-monteir-2026-09-10 | , ferrariChampions2026 |
+| atp-valle-travagl-2026-09-10 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Genoa: Enrico Dalla Valle vs Stefano Tra | Enrico Dalla Valle (BUY) | 47% | 5.00 | 200.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Enrico Dalla Valle vs Stefano Tra | Stefano Travaglia (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 88% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Thiago Mon | Joao Lucas Da Silva (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Joao Lucas Da Silva vs Thiago Mon | Thiago Monteiro (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -973,5 +976,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Moez Echargui vs Billy Harris | Moez Echargui (BUY) | 63% | 5.00 | 15.5% | ✅ ganada | +2.84 |
 | Flaznorp | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 97% | 5.00 | 3.5% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Antalya 4: Francesca Jones vs Rositsa De | Rositsa Dencheva (BUY) | 47% | 5.00 | 6.6% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | Shanghai: Jie Cui vs Yi Zhou | Yi Zhou (BUY) | 81% | 5.00 | 5.5% | ✅ ganada | +1.13 |
-| Noprajsk | Counter-Strike: Legacy vs FURIA - Map 2  | FURIA (BUY) | 58% | 5.00 | 66.7% | ❌ perdida | -5.11 |
