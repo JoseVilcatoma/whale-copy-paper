@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.9125146209289,
+  "bankroll": 237.6100421024711,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25085,6 +25085,31 @@
       "timestamp": 1789078385.7886822,
       "bankroll": 242.91,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Kaitlin Quevedo vs Claire Liu"
+    },
+    {
+      "timestamp": 1789078951.1979825,
+      "bankroll": 237.8,
+      "event": "lost: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners: O/U 5.5"
+    },
+    {
+      "timestamp": 1789079014.6379175,
+      "bankroll": 242.12,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1789079016.6524348,
+      "bankroll": 237.0,
+      "event": "lost: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1789079016.752585,
+      "bankroll": 231.88,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1789079016.8527024,
+      "bankroll": 237.61,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners: O/U 6.5"
     }
   ]
 }
