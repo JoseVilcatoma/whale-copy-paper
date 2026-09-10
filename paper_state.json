@@ -1,5 +1,5 @@
 {
-  "bankroll": 214.2186960878967,
+  "bankroll": 221.01872876763522,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24480,6 +24480,26 @@
       "timestamp": 1789016462.9341128,
       "bankroll": 214.22,
       "event": "won: ferrariChampions2026 \u2014 W50 Guiyang: Han Shi vs Yujia Huang"
+    },
+    {
+      "timestamp": 1789016774.0228193,
+      "bankroll": 216.09,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cincinnati Reds vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1789016774.6108172,
+      "bankroll": 211.05,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo"
+    },
+    {
+      "timestamp": 1789016774.7109773,
+      "bankroll": 216.34,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo"
+    },
+    {
+      "timestamp": 1789016775.1173253,
+      "bankroll": 221.02,
+      "event": "won:  \u2014 Phan Thiet 3: Kenta Miyoshi vs Filip Peliwo"
     }
   ]
 }

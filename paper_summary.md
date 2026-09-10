@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 00:05:50 (hora de Perú)
+Actualizado: 2026-09-10 00:07:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $214.22
-**Retorno acumulado:** -57.16%
+**Bankroll actual:** $221.02
+**Retorno acumulado:** -55.80%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 00:05:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.26 en 18 posiciones abiertas (disponible para nuevas apuestas: $126.96)
+**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $153.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 65 | 41 | 1 | +43.55 USD |
+| wr0ngw4yb3tt0r | 66 | 41 | 0 | +45.42 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -149,19 +149,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 94 | 71 | 2 | -143.88 USD |
-| ferrariChampions2026 | 678 | 426 | 6 | -254.54 USD |
+|  | 95 | 71 | 1 | -139.20 USD |
+| ferrariChampions2026 | 679 | 427 | 4 | -254.29 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4686
-- **Aciertos:** 2945 (62.8%)
+- **Apuestas resueltas:** 4690
+- **Aciertos:** 2948 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,394.57
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $435.18 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $23,414.57
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $435.55 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -169,9 +169,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2403 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1408 | 68.5% | 67.8% | +0.7 pp |
-| 80-94% | 615 | 85.5% | 86.6% | -1.1 pp |
+| 40-59% | 2405 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 1409 | 68.5% | 67.8% | +0.7 pp |
+| 80-94% | 616 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 260 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -942,10 +942,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Philip Sekulic vs Koki Mat | Philip Sekulic (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Como 1907 win on 2026-09-10? | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | M15 Bali: Hayden Jones vs M Rifqi Fitria | Hayden Jones (BUY) | 45% | 5.00 | 7.4% | ⏳ pendiente | — |
-|  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 51% | 5.00 | 1.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | W50 Guiyang: Tahlia Kokkinis vs YeXin Ma | YeXin Ma (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Filip Peliwo (BUY) | 48% | 5.00 | 8.6% | ✅ ganada | +5.29 |
+| ferrariChampions2026 | Phan Thiet 3: Kenta Miyoshi vs Filip Pel | Kenta Miyoshi (BUY) | 83% | 5.00 | 3.1% | ❌ perdida | -5.04 |
 | ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 80% | 5.00 | 1.5% | ✅ ganada | +1.20 |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Han Shi (BUY) | 79% | 5.00 | 1.2% | ✅ ganada | +1.28 |
 | mmklop | Counter-Strike: Astralis vs 5star (BO3)  | Astralis (BUY) | 93% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -956,7 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Patriots vs. Seahawks | Seahawks (BUY) | 64% | 5.00 | 17.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Under (BUY) | 60% | 5.00 | 1.0% | ❌ perdida | -5.10 |
 |  | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 53% | 5.00 | 0.6% | ❌ perdida | -5.12 |
-| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 3.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Cincinnati Reds vs. Los Angeles Dodgers | Los Angeles Dodgers (BUY) | 72% | 5.00 | 3.4% | ✅ ganada | +1.87 |
 | mmklop | Counter-Strike: PARIVISION vs magic (BO3 | magic (BUY) | 44% | 5.00 | 11.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Patriots vs. Seahawks | Patriots (BUY) | 79% | 5.00 | 0.9% | ❌ perdida | -5.05 |
 |  | New York Mets vs. Miami Marlins | New York Mets (BUY) | 96% | 5.00 | 1.8% | ✅ ganada | +0.20 |
