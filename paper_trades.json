@@ -123657,8 +123657,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 29911.172168,
-    "whale_pct": 12.256,
+    "whale_usd": 32716.117168,
+    "whale_pct": 13.405,
     "whale_value_at_open": 244054.6294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -123669,8 +123669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789066849.9187953,
-    "fills": 8
+    "last_fill_at": 1789066991.7747953,
+    "fills": 9
   },
   {
     "timestamp": 1789062296,
@@ -123729,8 +123729,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Max Alcala Gurri",
     "side": "BUY",
-    "whale_usd": 19294.285314,
-    "whale_pct": 8.024,
+    "whale_usd": 23478.145914,
+    "whale_pct": 9.764,
     "whale_value_at_open": 240447.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -123741,8 +123741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789065580.3476925,
-    "fills": 8
+    "last_fill_at": 1789066898.6122549,
+    "fills": 13
   },
   {
     "timestamp": 1789063057,
@@ -123987,5 +123987,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789066689.2059906,
     "fills": 3
+  },
+  {
+    "timestamp": 1789066881,
+    "timestamp_added": 1789066881.5971413,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-hou-phi-2026-09-10",
+    "title": "Houston Astros vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 7247.92,
+    "whale_pct": 3.872,
+    "whale_value_at_open": 187202.4789,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "vjnn"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789066901.3184302,
+    "fills": 2
+  },
+  {
+    "timestamp": 1789066883,
+    "timestamp_added": 1789066883.6359804,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-lagutin-gurri-2026-09-10",
+    "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
+    "outcome": "Pavel Lagutin",
+    "side": "BUY",
+    "whale_usd": 8752.3353,
+    "whale_pct": 39.196,
+    "whale_value_at_open": 22329.4907,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789066883.635992,
+    "fills": 1
   }
 ]
