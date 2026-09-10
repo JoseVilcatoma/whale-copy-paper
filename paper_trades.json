@@ -123501,5 +123501,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789057155.5909336,
     "fills": 2
+  },
+  {
+    "timestamp": 1789057440,
+    "timestamp_added": 1789057441.3778,
+    "username": "0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116",
+    "wallet": "0xd3a0b4e941b557d33a8efd5a51c581e7c79cf136",
+    "slug": "ucl-fen-rom-2026-09-10-rom",
+    "title": "Will AS Roma win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 842.607844,
+    "whale_pct": 4.546,
+    "whale_value_at_open": 18535.0368,
+    "paper_stake_usd": 3.65,
+    "odds_at_bet": 50,
+    "fee_usd": 0.091,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789057441.3778107,
+    "fills": 1
   }
 ]
