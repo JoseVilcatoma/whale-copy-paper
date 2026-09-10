@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 17:03:05 (hora de Perú)
+Actualizado: 2026-09-10 17:05:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $242.07
@@ -960,7 +960,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 58% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 50% | 5.00 | 6.1% | ⏳ pendiente | — |
 |  | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Anastasia Tikhonova (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
