@@ -118937,8 +118937,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -120999,8 +120999,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -121025,8 +121025,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [
       "",
       "ferrariChampions2026"
@@ -121239,8 +121239,8 @@
     "title": "Patriots vs. Seahawks",
     "outcome": "Seahawks",
     "side": "BUY",
-    "whale_usd": 30902.012359999997,
-    "whale_pct": 10.905,
+    "whale_usd": 49666.43356,
+    "whale_pct": 17.527,
     "whale_value_at_open": 283374.2499,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -121253,8 +121253,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789010391.9748542,
-    "fills": 12
+    "last_fill_at": 1789010590.2533245,
+    "fills": 14
   },
   {
     "timestamp": 1789009797,

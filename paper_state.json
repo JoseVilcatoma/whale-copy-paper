@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.7779706641637,
+  "bankroll": 226.14317644836837,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24395,6 +24395,21 @@
       "timestamp": 1789009782.8596551,
       "bankroll": 224.78,
       "event": "won: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1789010541.7396142,
+      "bankroll": 219.66,
+      "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1789010543.219005,
+      "bankroll": 223.17,
+      "event": "won:  \u2014 Arizona Diamondbacks vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1789010543.319149,
+      "bankroll": 226.14,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Arizona Diamondbacks vs. Kansas City Royals"
     }
   ]
 }
