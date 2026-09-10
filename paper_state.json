@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.11533997481155,
+  "bankroll": 243.2003096413106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25115,6 +25115,41 @@
       "timestamp": 1789081406.778172,
       "bankroll": 243.12,
       "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1789081530.2917755,
+      "bankroll": 237.98,
+      "event": "lost: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1789081530.391922,
+      "bankroll": 232.86,
+      "event": "lost: vjnn \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1789081530.4920712,
+      "bankroll": 237.35,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1789081530.826439,
+      "bankroll": 239.63,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1789081531.304297,
+      "bankroll": 243.77,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1789081531.7477636,
+      "bankroll": 248.27,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1789081532.4706466,
+      "bankroll": 243.2,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Texas Rangers vs. Seattle Mariners"
     }
   ]
 }
