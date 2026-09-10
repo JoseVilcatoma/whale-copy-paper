@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-09 22:25:54 (hora de Perú)
+Actualizado: 2026-09-09 22:27:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $226.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-09 22:25:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.64 en 21 posiciones abiertas (disponible para nuevas apuestas: $124.50)
+**Capital comprometido ahora mismo:** $106.64 en 22 posiciones abiertas (disponible para nuevas apuestas: $119.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 93 | 68 | 4 | -129.86 USD |
-| ferrariChampions2026 | 673 | 423 | 7 | -256.41 USD |
+| ferrariChampions2026 | 673 | 423 | 8 | -256.41 USD |
 
 ## Análisis general
 
@@ -932,11 +932,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-phi-fcc-2026-09-09-spread-home-1pt5 | , Flaznorp, theowalcott |
 | mlb-chc-mil-2026-09-09 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 | nfl-ne-sea-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| itf-shi1-huang2-2026-09-10 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Guiyang: Han Shi vs Yujia Huang | Yujia Huang (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Nadia Podoroska vs Anna Bl | Anna Blinkova (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Bolelli/Vavassori | Harrison/Skupski (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Los Angeles Dodgers: | Over (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -966,4 +968,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Houston Dynamo vs. Real Salt Lake: O/U 2 | Under (BUY) | 46% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | Flaznorp | Spread: Philadelphia Union (-1.5) | FC Cincinnati (BUY) | 60% | 5.00 | 0.2% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Barranquilla: Kayla Day vs Elsa Jacquemo | Elsa Jacquemot (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
-| Flaznorp | Will CA Mineiro win on 2026-09-09? | No (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |

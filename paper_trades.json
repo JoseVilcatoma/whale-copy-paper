@@ -121329,5 +121329,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789010107.4077468,
     "fills": 1
+  },
+  {
+    "timestamp": 1789010838,
+    "timestamp_added": 1789010838.6545331,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-shi1-huang2-2026-09-10",
+    "title": "W50 Guiyang: Han Shi vs Yujia Huang",
+    "outcome": "Yujia Huang",
+    "side": "BUY",
+    "whale_usd": 522.07,
+    "whale_pct": 0.485,
+    "whale_value_at_open": 107752.0587,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789010838.6545453,
+    "fills": 1
   }
 ]
