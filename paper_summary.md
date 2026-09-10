@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 18:56:52 (hora de Perú)
+Actualizado: 2026-09-10 18:58:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $242.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 18:56:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.60 en 30 posiciones abiertas (disponible para nuevas apuestas: $93.15)
+**Capital comprometido ahora mismo:** $154.60 en 31 posiciones abiertas (disponible para nuevas apuestas: $88.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 104 | 73 | 5 | -128.17 USD |
+|  | 104 | 73 | 6 | -128.17 USD |
 | ferrariChampions2026 | 722 | 451 | 13 | -254.35 USD |
 
 ## Análisis general
@@ -962,6 +962,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | M15 Wuning: Jaesung Choe vs Yuta Tomida | Yuta Tomida (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | LoL: Winthrop University vs Maryville Un | Winthrop University (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -991,4 +992,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Barranquilla: Kaitlin Quevedo vs Claire  | Claire Liu (BUY) | 85% | 5.00 | 3.6% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 55% | 5.00 | 1.6% | ❌ perdida | -5.11 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 46% | 5.00 | 0.9% | ✅ ganada | +5.73 |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 51% | 5.00 | 1.2% | ❌ perdida | -5.12 |

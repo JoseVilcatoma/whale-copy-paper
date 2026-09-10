@@ -125256,5 +125256,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789083875.3912594,
     "fills": 1
+  },
+  {
+    "timestamp": 1789084735,
+    "timestamp_added": 1789084735.3982582,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-choe1-tomida1-2026-09-11",
+    "title": "M15 Wuning: Jaesung Choe vs Yuta Tomida",
+    "outcome": "Yuta Tomida",
+    "side": "BUY",
+    "whale_usd": 1074.359998,
+    "whale_pct": 0.727,
+    "whale_value_at_open": 147714.4971,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789084735.398269,
+    "fills": 1
   }
 ]
