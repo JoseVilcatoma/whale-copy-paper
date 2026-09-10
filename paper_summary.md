@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 16:07:51 (hora de Perú)
+Actualizado: 2026-09-10 16:09:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 16:07:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $203.32 en 41 posiciones abiertas (disponible para nuevas apuestas: $36.36)
+**Capital comprometido ahora mismo:** $208.32 en 42 posiciones abiertas (disponible para nuevas apuestas: $31.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 102 | 72 | 5 | -127.46 USD |
-| ferrariChampions2026 | 710 | 442 | 21 | -249.53 USD |
+| ferrariChampions2026 | 710 | 442 | 22 | -249.53 USD |
 
 ## Análisis general
 
@@ -958,6 +958,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -987,4 +988,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ✅ ganada | +2.27 |
 | vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Montreux: Martina Trevisan vs Guiomar Ma | Martina Trevisan (BUY) | 79% | 5.00 | 0.4% | ❌ perdida | -5.05 |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 60% | 5.00 | 1.3% | ✅ ganada | +3.23 |
