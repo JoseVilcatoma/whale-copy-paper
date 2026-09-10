@@ -123451,5 +123451,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789054338.1423218,
     "fills": 1
+  },
+  {
+    "timestamp": 1789055931,
+    "timestamp_added": 1789055932.5402527,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-tb-atl-2026-09-10",
+    "title": "Tampa Bay Rays vs. Atlanta Braves",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 23500.0,
+    "whale_pct": 459172.708,
+    "whale_value_at_open": 5.1179,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789055932.5402625,
+    "fills": 1
   }
 ]
