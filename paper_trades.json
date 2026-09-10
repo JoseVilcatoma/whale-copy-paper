@@ -122905,8 +122905,8 @@
     "title": "Tampa Bay Rays vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 64352.3523,
-    "whale_pct": 29.474,
+    "whale_usd": 65557.5352,
+    "whale_pct": 30.026,
     "whale_value_at_open": 218333.9521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -122917,8 +122917,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789059758.3398614,
-    "fills": 14
+    "last_fill_at": 1789059959.8776472,
+    "fills": 15
   },
   {
     "timestamp": 1789049477,
@@ -123056,8 +123056,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 100,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -123535,8 +123535,8 @@
     "title": "Seville: Pavel Lagutin vs Max Alcala Gurri",
     "outcome": "Pavel Lagutin",
     "side": "BUY",
-    "whale_usd": 3795.923637,
-    "whale_pct": 1.839,
+    "whale_usd": 5761.406037,
+    "whale_pct": 2.791,
     "whale_value_at_open": 206451.6332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -123547,8 +123547,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789059286.4129364,
-    "fills": 2
+    "last_fill_at": 1789059859.3928616,
+    "fills": 3
   },
   {
     "timestamp": 1789058155,
@@ -123622,6 +123622,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789058570.5507042,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789059946,
+    "timestamp_added": 1789059946.3409772,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-sin2-nemi1-2026-09-10",
+    "title": "Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 2700.0,
+    "whale_pct": 1.965,
+    "whale_value_at_open": 137383.1019,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789059946.3409917,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 225.12373978654097,
+  "bankroll": 225.171244837046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24760,6 +24760,11 @@
       "timestamp": 1789057596.6354027,
       "bankroll": 225.12,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Enrico Dalla Valle vs Stefano Travaglia"
+    },
+    {
+      "timestamp": 1789059913.3973567,
+      "bankroll": 225.17,
+      "event": "won: Flaznorp \u2014 Will DPR Korea win on 2026-09-10?"
     }
   ]
 }

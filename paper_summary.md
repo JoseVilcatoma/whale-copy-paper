@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 12:04:15 (hora de Perú)
+Actualizado: 2026-09-10 12:06:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $225.12
-**Retorno acumulado:** -54.98%
+**Bankroll actual:** $225.17
+**Retorno acumulado:** -54.97%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 12:04:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $1.87)
+**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $1.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
-| Diabolical-Prize | 1 | 0 | 0 | +2.72 USD |
+| Diabolical-Prize | 1 | 0 | 1 | +2.72 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -131,7 +131,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 2 | 1 | -10.13 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| Flaznorp | 90 | 34 | 16 | -10.41 USD |
+| Flaznorp | 91 | 34 | 15 | -10.36 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -154,11 +154,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4741
-- **Aciertos:** 2982 (62.9%)
+- **Apuestas resueltas:** 4742
+- **Aciertos:** 2983 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $23,667.23
+- **Total apostado (suma de stakes):** $23,672.23
 - **ROI sobre lo apostado:** -1.69%
 - **Comisiones pagadas (taker fee):** $439.94 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.17% _(referencia: cuánto pesan las comisiones)_
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2427 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 1425 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 626 | 85.5% | 86.6% | -1.1 pp |
-| 95-99% (casi seguro) | 263 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 264 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -949,10 +949,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Flaznorp | Will PSV win on 2026-09-10? | Yes (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Jsram | PSV vs. FK Shakhtar Donetsk: O/U 3.5 | Under (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Over (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Pavel Lagutin vs Max Alcala Gur | Pavel Lagutin (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will AS Roma win on 2026-09-10? | No (BUY) | 50% | 3.65 | 45.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Wild vs Giunta | Wild (BUY) | 74% | 5.00 | 1.8% | ⏳ pendiente | — |
 | vjnn | Tampa Bay Rays vs. Atlanta Braves | Tampa Bay Rays (BUY) | 48% | 5.00 | 549053.3% | ⏳ pendiente | — |
@@ -972,10 +973,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Shabab Al Ahli Dubai (-1.5) | Dubai United FC (BUY) | 69% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Counter-Strike: G2 vs 5star - Map 2 Winn | G2 (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
 | Flaznorp | M25 Gijon: Xavi Palomar vs Anas Mazdrash | Anas Mazdrashki (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
-| Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will DPR Korea win on 2026-09-10? | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 52% | 5.00 | 4.4% | ⏳ pendiente | — |
 |  | Will Falkenbergs FF win on 2026-09-10? | Yes (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Juan Manuel La Serna vs Lukas Neu | Lukas Neumayer (BUY) | 74% | 5.00 | 25.3% | ⏳ pendiente | — |
 |  | Will AS Áris Thessaloníkis win on 2026-0 | No (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | W50 Evora: Francisca Jorge vs Katarina K | Katarina Kuzmova (BUY) | 51% | 5.00 | 0.8% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Tampa Bay Rays vs. Atlanta Braves | Atlanta Braves (BUY) | 54% | 5.00 | 29.5% | ⏳ pendiente | — |
