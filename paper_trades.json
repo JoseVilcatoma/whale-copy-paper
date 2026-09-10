@@ -123487,8 +123487,8 @@
     "title": "Set 1 Winner: Wild vs Giunta",
     "outcome": "Wild",
     "side": "BUY",
-    "whale_usd": 1387.0,
-    "whale_pct": 0.821,
+    "whale_usd": 3053.5064,
+    "whale_pct": 1.807,
     "whale_value_at_open": 169027.3611,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -123499,7 +123499,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789056931.6014283,
-    "fills": 1
+    "last_fill_at": 1789057155.5909336,
+    "fills": 2
   }
 ]
