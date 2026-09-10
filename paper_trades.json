@@ -123583,8 +123583,8 @@
     "title": "PSV vs. FK Shakhtar Donetsk: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2127.6000000000004,
-    "whale_pct": 1.552,
+    "whale_usd": 2702.1600000000003,
+    "whale_pct": 1.971,
     "whale_value_at_open": 137089.8411,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -123597,7 +123597,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789058357.941743,
-    "fills": 2
+    "last_fill_at": 1789058425.3906746,
+    "fills": 3
   }
 ]
