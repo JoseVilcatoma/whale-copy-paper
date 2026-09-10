@@ -125058,5 +125058,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789081961.834134,
     "fills": 1
+  },
+  {
+    "timestamp": 1789082012,
+    "timestamp_added": 1789082013.3593597,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-col-nyy-2026-09-10",
+    "title": "Colorado Rockies vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 2464.6884,
+    "whale_pct": 1.872,
+    "whale_value_at_open": 131669.4538,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789082013.3593686,
+    "fills": 1
   }
 ]
