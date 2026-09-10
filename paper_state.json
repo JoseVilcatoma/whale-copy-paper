@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.3532169305485,
+  "bankroll": 236.6388895872771,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24200,6 +24200,26 @@
       "timestamp": 1789003949.4381163,
       "bankroll": 242.35,
       "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1789004872.9741096,
+      "bankroll": 237.23,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo"
+    },
+    {
+      "timestamp": 1789004873.0743058,
+      "bankroll": 240.6,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo"
+    },
+    {
+      "timestamp": 1789004873.1744921,
+      "bankroll": 235.66,
+      "event": "lost:  \u2014 Barranquilla: Kaitlin Quevedo vs Sara Sorribes Tormo"
+    },
+    {
+      "timestamp": 1789004935.920341,
+      "bankroll": 236.64,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Angels vs. Boston Red Sox"
     }
   ]
 }
