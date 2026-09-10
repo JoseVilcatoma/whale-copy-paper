@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.53222940303567,
+  "bankroll": 238.41722940303566,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24180,6 +24180,11 @@
       "timestamp": 1788998016.3524823,
       "bankroll": 243.53,
       "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Leolia Jeanjean vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1788998956.1174774,
+      "bankroll": 238.42,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Philadelphia Phillies: O/U 8.5"
     }
   ]
 }

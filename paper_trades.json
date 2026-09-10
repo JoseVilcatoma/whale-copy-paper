@@ -120028,8 +120028,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -120793,8 +120793,8 @@
     "title": "Houston Astros vs. Philadelphia Phillies",
     "outcome": "Houston Astros",
     "side": "BUY",
-    "whale_usd": 8108.87182,
-    "whale_pct": 3.73,
+    "whale_usd": 9658.921917,
+    "whale_pct": 4.443,
     "whale_value_at_open": 217398.5911,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -120807,8 +120807,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788998576.1096585,
-    "fills": 3
+    "last_fill_at": 1788998963.2946153,
+    "fills": 4
   },
   {
     "timestamp": 1788998621,
@@ -120819,8 +120819,8 @@
     "title": "Chicago Cubs vs. Milwaukee Brewers",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 40572.4326,
-    "whale_pct": 18.316,
+    "whale_usd": 43340.258499999996,
+    "whale_pct": 19.566,
     "whale_value_at_open": 221507.7058,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -120831,8 +120831,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788998744.8868897,
-    "fills": 5
+    "last_fill_at": 1788998923.3972452,
+    "fills": 6
   },
   {
     "timestamp": 1788998633,
