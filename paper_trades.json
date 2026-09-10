@@ -122731,8 +122731,8 @@
     "title": "Colorado Rockies vs. New York Yankees: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2659.585,
-    "whale_pct": 1.619,
+    "whale_usd": 14997.063400000001,
+    "whale_pct": 9.127,
     "whale_value_at_open": 164321.1953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -122743,8 +122743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789081752.6323583,
-    "fills": 2
+    "last_fill_at": 1789082933.3170347,
+    "fills": 5
   },
   {
     "timestamp": 1789047088,
@@ -125020,8 +125020,8 @@
     "title": "Spread: New York Yankees (-2.5)",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 10836.6478,
-    "whale_pct": 9.466,
+    "whale_usd": 19551.8505,
+    "whale_pct": 17.079,
     "whale_value_at_open": 114477.2696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -125032,8 +125032,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789081936.3917618,
-    "fills": 3
+    "last_fill_at": 1789082960.10959,
+    "fills": 5
   },
   {
     "timestamp": 1789081961,
@@ -125118,8 +125118,8 @@
     "title": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
     "outcome": "Aryna Sabalenka",
     "side": "BUY",
-    "whale_usd": 1695.6480000000001,
-    "whale_pct": 1.312,
+    "whale_usd": 3548.093295,
+    "whale_pct": 2.746,
     "whale_value_at_open": 129197.5181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -125130,8 +125130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789082281.5326438,
-    "fills": 1
+    "last_fill_at": 1789082948.428385,
+    "fills": 2
   },
   {
     "timestamp": 1789082867,
@@ -125155,6 +125155,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789082868.0000935,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789082912,
+    "timestamp_added": 1789082912.7252848,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-col-nyy-2026-09-10-total-9pt5",
+    "title": "Colorado Rockies vs. New York Yankees: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 599.9971,
+    "whale_pct": 0.494,
+    "whale_value_at_open": 121437.632,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789082912.725295,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 18:27:54 (hora de Perú)
+Actualizado: 2026-09-10 18:29:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $240.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 18:27:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $134.60 en 27 posiciones abiertas (disponible para nuevas apuestas: $105.88)
+**Capital comprometido ahora mismo:** $139.60 en 28 posiciones abiertas (disponible para nuevas apuestas: $100.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 70 | 44 | 2 | +50.72 USD |
+| wr0ngw4yb3tt0r | 70 | 44 | 3 | +50.72 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -944,6 +944,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-perot-bertran-2026-09-10 | , ferrariChampions2026 |
 | wta-carle-vedder-2026-09-09 | , ferrariChampions2026 |
 | ucl-psv-shd-2026-09-10-total-3pt5 | Jsram, ferrariChampions2026 |
+| mlb-col-nyy-2026-09-10-total-9pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-silv-monteir-2026-09-10 | , ferrariChampions2026 |
 | atp-valle-travagl-2026-09-10 | , ferrariChampions2026 |
 | atp-lagutin-gurri-2026-09-10 | , ferrariChampions2026 |
@@ -960,12 +961,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Burgos CF vs. AD Ceuta FC: O/U 8.5 Total | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Jessica  | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Jessica  | Aryna Sabalenka (BUY) | 69% | 5.00 | 2.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle win on 2026 | No (BUY) | 70% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 75% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 9.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 17.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Helioevaara/Patte | Harrison/Skupski (BUY) | 68% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vila Nova FC vs. Goiás EC end in a  | No (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -989,4 +991,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Colorado Rockies (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Seattle Mariners (BUY) | 54% | 5.00 | 22.4% | ✅ ganada | +4.14 |
-| ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Elsa Jacquemot (BUY) | 67% | 5.00 | 2.6% | ✅ ganada | +2.38 |
