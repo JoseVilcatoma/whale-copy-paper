@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 13:55:05 (hora de Perú)
+Actualizado: 2026-09-10 13:57:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 13:55:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $198.25 en 40 posiciones abiertas (disponible para nuevas apuestas: $35.54)
+**Capital comprometido ahora mismo:** $208.25 en 42 posiciones abiertas (disponible para nuevas apuestas: $25.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| lucidarderi | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -150,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 100 | 72 | 7 | -134.51 USD |
-| ferrariChampions2026 | 702 | 439 | 22 | -254.52 USD |
+| ferrariChampions2026 | 702 | 439 | 23 | -254.52 USD |
 
 ## Análisis general
 
@@ -934,6 +935,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-ne-sea-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | itf-shi1-huang2-2026-09-10 | , ferrariChampions2026 |
 | atp-miyoshi-peliwo-2026-09-08 | , ferrariChampions2026 |
+| ucl-com-rbl-2026-09-10-com | ferrariChampions2026, lucidarderi |
 | atp-sekulic-matsuda-2026-09-09 | , ferrariChampions2026 |
 | ucl-slp-rcl-2026-09-10-total-2pt5 | , ferrariChampions2026 |
 | mlb-tb-atl-2026-09-10 | ferrariChampions2026, vjnn |
@@ -950,6 +952,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| lucidarderi | Will Como 1907 win on 2026-09-10? | Yes (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Manchester United FC (-3.5) | Manchester United FC (BUY) | 45% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Cagla Buyukakcay vs Eva Benne | Eva Bennemann (BUY) | 94% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-1.5) | Houston Astros (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | vjnn | Houston Astros vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 51% | 5.00 | 1426.8% | ⏳ pendiente | — |
@@ -978,5 +982,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | Flaznorp | Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O | Over (BUY) | 69% | 5.00 | 0.4% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | SK Slavia Praha vs. Racing Club de Lens: | Under (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Flaznorp | Dubai United FC vs. Shabab Al Ahli Dubai | Over (BUY) | 85% | 5.00 | 2.8% | ✅ ganada | +0.84 |
-| Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | AS Áris Thessaloníkis (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
