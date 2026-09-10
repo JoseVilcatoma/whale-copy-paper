@@ -1,5 +1,5 @@
 {
-  "bankroll": 239.68060633743465,
+  "bankroll": 247.83528480374343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -24970,6 +24970,56 @@
       "timestamp": 1789073684.5178583,
       "bankroll": 239.68,
       "event": "won:  \u2014 Will Falkenbergs FF win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789074926.1301055,
+      "bankroll": 234.55,
+      "event": "lost: ferrariChampions2026 \u2014 Will Como 1907 win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789074927.4434981,
+      "bankroll": 229.41,
+      "event": "lost: Flaznorp \u2014 Spread: Manchester United FC (-2.5)"
+    },
+    {
+      "timestamp": 1789074927.795549,
+      "bankroll": 224.28,
+      "event": "lost: ferrariChampions2026 \u2014 FC Bayern M\u00fcnchen vs. FK Bod\u00f8/Glimt: O/U 4.5"
+    },
+    {
+      "timestamp": 1789074928.152189,
+      "bankroll": 230.5,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FC Bayern M\u00fcnchen (-3.5)"
+    },
+    {
+      "timestamp": 1789074928.512412,
+      "bankroll": 231.7,
+      "event": "won:  \u2014 FC Bayern M\u00fcnchen vs. FK Bod\u00f8/Glimt: FC Bayern M\u00fcnchen O/U 2.5"
+    },
+    {
+      "timestamp": 1789074931.035319,
+      "bankroll": 237.67,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Manchester United FC (-3.5)"
+    },
+    {
+      "timestamp": 1789074931.1354635,
+      "bankroll": 241.19,
+      "event": "won: lucidarderi \u2014 Will Como 1907 win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789074931.4673645,
+      "bankroll": 241.49,
+      "event": "won:  \u2014 Will Manchester United FC win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789074931.5675185,
+      "bankroll": 244.87,
+      "event": "won:  \u2014 Will Como 1907 win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789074931.90764,
+      "bankroll": 247.84,
+      "event": "won:  \u2014 Manchester United FC vs. Sabah FK: Both Teams to Score"
     }
   ]
 }
