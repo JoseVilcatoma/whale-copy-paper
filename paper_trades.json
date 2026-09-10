@@ -123193,8 +123193,8 @@
     "title": "Genoa: Enrico Dalla Valle vs Stefano Travaglia",
     "outcome": "Enrico Dalla Valle",
     "side": "BUY",
-    "whale_usd": 1733.2685999999999,
-    "whale_pct": 0.858,
+    "whale_usd": 2573.2686,
+    "whale_pct": 1.274,
     "whale_value_at_open": 202035.6096,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -123207,8 +123207,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789051476.4255872,
-    "fills": 1
+    "last_fill_at": 1789052570.9494438,
+    "fills": 2
   },
   {
     "timestamp": 1789051773,
@@ -123293,8 +123293,8 @@
     "title": "Al Jazira (UAE) vs. Al-Nasr Dubai CSC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1137.6528,
-    "whale_pct": 0.267,
+    "whale_usd": 1728.3528000000001,
+    "whale_pct": 0.405,
     "whale_value_at_open": 426516.5245,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -123305,8 +123305,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789052431.3935263,
-    "fills": 2
+    "last_fill_at": 1789052471.7703996,
+    "fills": 3
   },
   {
     "timestamp": 1789052402,
