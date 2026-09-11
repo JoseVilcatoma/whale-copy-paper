@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 10:08:36 (hora de Perú)
+Actualizado: 2026-09-11 10:10:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $252.81
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 3.4% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 1.5 | Over (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 30.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 41.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Philadelphia Phillies (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | SV Ried vs. FC Salzburg: O/U 3.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |

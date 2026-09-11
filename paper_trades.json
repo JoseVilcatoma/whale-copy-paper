@@ -127897,8 +127897,8 @@
     "title": "Tulln: Zdenek Kolar vs Alex Barrena",
     "outcome": "Zdenek Kolar",
     "side": "BUY",
-    "whale_usd": 49797.96457999999,
-    "whale_pct": 30.21,
+    "whale_usd": 68627.22458,
+    "whale_pct": 41.633,
     "whale_value_at_open": 164837.9727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -127909,8 +127909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789139278.0428343,
-    "fills": 14
+    "last_fill_at": 1789139419.6076634,
+    "fills": 16
   },
   {
     "timestamp": 1789130329,
