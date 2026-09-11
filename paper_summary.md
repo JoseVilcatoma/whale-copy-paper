@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:56:21 (hora de Perú)
+Actualizado: 2026-09-10 19:58:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 19:56:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $194.60 en 39 posiciones abiertas (disponible para nuevas apuestas: $44.44)
+**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $34.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 70 | 44 | 7 | +50.72 USD |
+| wr0ngw4yb3tt0r | 70 | 44 | 8 | +50.72 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 12 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 13 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -964,6 +964,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 42.5 | Over (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Londrina EC win on 2026-09-10? | No (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 20.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -992,5 +994,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Under (BUY) | 82% | 5.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Under (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 5.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 7.3% | ✅ ganada | +6.48 |
-| ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
