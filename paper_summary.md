@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:43:55 (hora de Perú)
+Actualizado: 2026-09-10 22:46:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $244.29
-**Retorno acumulado:** -51.14%
+**Bankroll actual:** $255.06
+**Retorno acumulado:** -48.99%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 22:43:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $199.60 en 40 posiciones abiertas (disponible para nuevas apuestas: $44.69)
+**Capital comprometido ahora mismo:** $179.60 en 36 posiciones abiertas (disponible para nuevas apuestas: $75.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 73 | 47 | 7 | +45.13 USD |
+| wr0ngw4yb3tt0r | 74 | 48 | 5 | +47.09 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -31,12 +31,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| GoalLineGhost | 38 | 11 | 13 | +25.18 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 15 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4845
-- **Aciertos:** 3050 (63.0%)
+- **Apuestas resueltas:** 4849
+- **Aciertos:** 3053 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,184.60
-- **ROI sobre lo apostado:** -1.57%
-- **Comisiones pagadas (taker fee):** $449.86 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,204.60
+- **ROI sobre lo apostado:** -1.53%
+- **Comisiones pagadas (taker fee):** $450.33 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2484 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1455 | 68.5% | 67.8% | +0.7 pp |
+| 40-59% | 2486 | 50.2% | 50.1% | +0.2 pp |
+| 60-79% | 1457 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 641 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -985,11 +985,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 74.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 74.0% | ✅ ganada | +7.05 |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 42.5 | Over (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Londrina EC win on 2026-09-10? | No (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 21.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 21.6% | ❌ perdida | -5.09 |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ✅ ganada | +3.10 |
 | GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.8% | ⏳ pendiente | — |
