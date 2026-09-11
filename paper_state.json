@@ -1,5 +1,5 @@
 {
-  "bankroll": 261.3763607818222,
+  "bankroll": 264.0237364814368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25585,6 +25585,56 @@
       "timestamp": 1789128971.0913115,
       "bankroll": 261.38,
       "event": "lost:  \u2014 Istanbul 3: Francesco Maestrelli vs Maks Kasnikowski"
+    },
+    {
+      "timestamp": 1789129276.2871203,
+      "bankroll": 267.11,
+      "event": "won: nigiri99 \u2014 Vissel K\u014dbe vs. Kashima Antlers: O/U 2.5"
+    },
+    {
+      "timestamp": 1789129279.289313,
+      "bankroll": 268.31,
+      "event": "won: GoalLineGhost \u2014 Will Ky\u014dto Sanga FC win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789129279.604476,
+      "bankroll": 268.78,
+      "event": "won: GoalLineGhost \u2014 Vissel K\u014dbe vs. Kashima Antlers: O/U 4.5"
+    },
+    {
+      "timestamp": 1789129279.9323728,
+      "bankroll": 263.7,
+      "event": "lost: GoalLineGhost \u2014 Will Vissel K\u014dbe win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789129282.6858988,
+      "bankroll": 264.82,
+      "event": "won: GoalLineGhost \u2014 Ky\u014dto Sanga FC vs. Kashiwa Reysol: O/U 1.5"
+    },
+    {
+      "timestamp": 1789129282.9658265,
+      "bankroll": 266.99,
+      "event": "won:  \u2014 Will Kashima Antlers win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789129283.536764,
+      "bankroll": 270.44,
+      "event": "won: Flaznorp \u2014 Will Kashiwa Reysol win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789129283.853936,
+      "bankroll": 274.26,
+      "event": "won: GoalLineGhost \u2014 Ky\u014dto Sanga FC vs. Kashiwa Reysol: O/U 2.5"
+    },
+    {
+      "timestamp": 1789129284.445442,
+      "bankroll": 269.12,
+      "event": "lost: GoalLineGhost \u2014 Ky\u014dto Sanga FC vs. Kashiwa Reysol: O/U 3.5"
+    },
+    {
+      "timestamp": 1789129284.7823067,
+      "bankroll": 264.02,
+      "event": "lost: GoalLineGhost \u2014 Vissel K\u014dbe vs. Kashima Antlers: O/U 1.5"
     }
   ]
 }
