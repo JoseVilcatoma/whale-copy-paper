@@ -125649,5 +125649,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789089077.6167111,
     "fills": 1
+  },
+  {
+    "timestamp": 1789089199,
+    "timestamp_added": 1789089200.2505264,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-sf-la-2026-09-11-spread-home-4pt5",
+    "title": "Spread: Rams (-4.5)",
+    "outcome": "Rams",
+    "side": "BUY",
+    "whale_usd": 3332.998255,
+    "whale_pct": 1.84,
+    "whale_value_at_open": 181119.127,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789089200.2505412,
+    "fills": 1
   }
 ]
