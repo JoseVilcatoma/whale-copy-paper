@@ -125601,5 +125601,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789088289.9316895,
     "fills": 1
+  },
+  {
+    "timestamp": 1789088764,
+    "timestamp_added": 1789088764.7149677,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-sf-la-2026-09-11",
+    "title": "49ers vs. Rams",
+    "outcome": "49ers",
+    "side": "BUY",
+    "whale_usd": 3207.82,
+    "whale_pct": 1.972,
+    "whale_value_at_open": 162687.0279,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789088764.714979,
+    "fills": 1
   }
 ]
