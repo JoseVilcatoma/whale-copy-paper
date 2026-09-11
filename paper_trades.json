@@ -128487,8 +128487,8 @@
     "title": "1. FC N\u00fcrnberg vs. Hannover 96: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3080.62,
-    "whale_pct": 1.194,
+    "whale_usd": 4872.7576,
+    "whale_pct": 1.888,
     "whale_value_at_open": 258026.0089,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -128499,8 +128499,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789143105.683153,
-    "fills": 1
+    "last_fill_at": 1789149508.1376228,
+    "fills": 2
   },
   {
     "timestamp": 1789143484,

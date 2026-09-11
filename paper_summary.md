@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 12:57:20 (hora de Perú)
+Actualizado: 2026-09-11 12:59:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $263.70
@@ -989,7 +989,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
-| ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 43.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 10.7% | ❌ perdida | -5.14 |
