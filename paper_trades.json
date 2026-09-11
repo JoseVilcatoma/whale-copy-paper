@@ -125611,8 +125611,8 @@
     "title": "49ers vs. Rams",
     "outcome": "49ers",
     "side": "BUY",
-    "whale_usd": 77990.4202,
-    "whale_pct": 47.939,
+    "whale_usd": 101192.4127,
+    "whale_pct": 62.201,
     "whale_value_at_open": 162687.0279,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -125623,8 +125623,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789094018.705837,
-    "fills": 12
+    "last_fill_at": 1789094844.6691449,
+    "fills": 14
   },
   {
     "timestamp": 1789089077,
@@ -125792,6 +125792,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789093837.5131266,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789094792,
+    "timestamp_added": 1789094792.9652748,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "wta-gauff-rybakin-2026-09-10",
+    "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "whale_usd": 9300.0,
+    "whale_pct": 91.511,
+    "whale_value_at_open": 10162.7274,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789094792.9652846,
     "fills": 1
   }
 ]
