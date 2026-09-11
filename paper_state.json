@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.9453573121517,
+  "bankroll": 263.78859540738983,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25730,6 +25730,26 @@
       "timestamp": 1789144383.584924,
       "bankroll": 264.95,
       "event": "won: ferrariChampions2026 \u2014 Cassis: Titouan Droguet vs Daniil Glinka"
+    },
+    {
+      "timestamp": 1789146195.311342,
+      "bankroll": 259.83,
+      "event": "lost: mmklop \u2014 Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789146201.0696378,
+      "bankroll": 265.12,
+      "event": "won: Diabolical-Prize \u2014 Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789146202.9840522,
+      "bankroll": 259.97,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Laslo Djere vs Stefanos Sakellaridis"
+    },
+    {
+      "timestamp": 1789146203.1842816,
+      "bankroll": 263.79,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Laslo Djere vs Stefanos Sakellaridis"
     }
   ]
 }
