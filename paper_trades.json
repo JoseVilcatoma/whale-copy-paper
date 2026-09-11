@@ -126025,8 +126025,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Yuta Shimizu",
     "side": "BUY",
-    "whale_usd": 9614.006234999999,
-    "whale_pct": 5.75,
+    "whale_usd": 10168.978679999998,
+    "whale_pct": 6.081,
     "whale_value_at_open": 167214.0431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -126039,8 +126039,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789101367.5866215,
-    "fills": 5
+    "last_fill_at": 1789101877.5713897,
+    "fills": 6
   },
   {
     "timestamp": 1789097806,
@@ -126173,8 +126173,8 @@
     "title": "Counter-Strike: Sinners vs Nuclear TigeRES (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "Sinners",
     "side": "BUY",
-    "whale_usd": 8933.243900000001,
-    "whale_pct": 181.049,
+    "whale_usd": 15110.2672,
+    "whale_pct": 306.239,
     "whale_value_at_open": 4934.1481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -126185,8 +126185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789100998.115363,
-    "fills": 2
+    "last_fill_at": 1789101895.0047305,
+    "fills": 4
   },
   {
     "timestamp": 1789100262,
@@ -126197,8 +126197,8 @@
     "title": "Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 4898.1456,
-    "whale_pct": 51.279,
+    "whale_usd": 9798.4296,
+    "whale_pct": 102.58,
     "whale_value_at_open": 9551.9505,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -126209,8 +126209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789100263.5885253,
-    "fills": 1
+    "last_fill_at": 1789101899.5857139,
+    "fills": 3
   },
   {
     "timestamp": 1789101388,
