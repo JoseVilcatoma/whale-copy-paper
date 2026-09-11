@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 07:50:43 (hora de Perú)
+Actualizado: 2026-09-11 07:52:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.02
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 07:50:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $19.02)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $14.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 37 | 28 | 2 | +21.67 USD |
-| GoalLineGhost | 50 | 17 | 15 | +20.44 USD |
+| GoalLineGhost | 50 | 17 | 16 | +20.44 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -975,6 +975,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1004,4 +1005,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ✅ ganada | +2.38 |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 1.5% | ✅ ganada | +3.82 |
-| Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |

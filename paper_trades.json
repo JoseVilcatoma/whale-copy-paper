@@ -128035,5 +128035,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789130929.4864466,
     "fills": 2
+  },
+  {
+    "timestamp": 1789131065,
+    "timestamp_added": 1789131066.4333835,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "tha1-rat-bgk-2026-09-11-draw",
+    "title": "Will Ratchaburi FC vs. Bangkok United FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 706.3903,
+    "whale_pct": 0.398,
+    "whale_value_at_open": 177339.6899,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789131066.4333982,
+    "fills": 1
   }
 ]
