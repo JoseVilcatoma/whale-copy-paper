@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.57045683891886,
+  "bankroll": 264.4407051382386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25705,6 +25705,21 @@
       "timestamp": 1789139494.2954938,
       "bankroll": 259.57,
       "event": "won:  \u2014 Montreux: Clara Burel vs Guiomar Maristany"
+    },
+    {
+      "timestamp": 1789142217.7426736,
+      "bankroll": 254.49,
+      "event": "lost: ferrariChampions2026 \u2014 Tulln: Zdenek Kolar vs Alex Barrena"
+    },
+    {
+      "timestamp": 1789142218.836169,
+      "bankroll": 259.36,
+      "event": "won:  \u2014 Tulln: Zdenek Kolar vs Alex Barrena"
+    },
+    {
+      "timestamp": 1789142219.3923526,
+      "bankroll": 264.44,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Zdenek Kolar vs Alex Barrena"
     }
   ]
 }

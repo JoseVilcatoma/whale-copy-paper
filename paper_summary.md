@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 10:56:02 (hora de Perú)
+Actualizado: 2026-09-11 10:58:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $259.57
-**Retorno acumulado:** -48.09%
+**Bankroll actual:** $264.44
+**Retorno acumulado:** -47.11%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 10:56:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.13 en 52 posiciones abiertas (disponible para nuevas apuestas: $1.44)
+**Capital comprometido ahora mismo:** $243.52 en 49 posiciones abiertas (disponible para nuevas apuestas: $20.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 51 | 17 | 17 | +20.49 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 1 | +16.67 USD |
+|  | 38 | 30 | 0 | +16.25 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Diabolical-Prize | 3 | 0 | 2 | +12.67 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-|  | 37 | 30 | 1 | +11.38 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 747 | 462 | 14 | -236.97 USD |
+| ferrariChampions2026 | 748 | 463 | 12 | -236.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4930
-- **Aciertos:** 3106 (63.0%)
+- **Apuestas resueltas:** 4933
+- **Aciertos:** 3108 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,605.15
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $457.62 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,619.76
+- **ROI sobre lo apostado:** -1.46%
+- **Comisiones pagadas (taker fee):** $457.95 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2527 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1476 | 68.4% | 67.8% | +0.6 pp |
+| 40-59% | 2529 | 50.3% | 50.0% | +0.3 pp |
+| 60-79% | 1477 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 660 | 85.9% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 267 | 97.0% | 97.3% | -0.3 pp |
 
@@ -985,13 +985,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Titouan Droguet (BUY) | 46% | 4.92 | 28.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sevilla FC vs. Valencia CF: O/U 2.5 | Under (BUY) | 60% | 4.58 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 7.2% | ⏳ pendiente | — |
 | GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ⏳ pendiente | — |
+|  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ✅ ganada | +4.87 |
 | Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 301.2% | ⏳ pendiente | — |
 |  | Dijon Football Côte d'Or vs. Stade Laval | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 18.2% | ⏳ pendiente | — |
@@ -1001,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 3.4% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 1.5 | Over (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 41.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 41.6% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Philadelphia Phillies (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | SV Ried vs. FC Salzburg: O/U 3.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
