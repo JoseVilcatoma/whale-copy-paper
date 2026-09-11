@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 21:56:23 (hora de Perú)
+Actualizado: 2026-09-10 21:58:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 21:56:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $189.60 en 38 posiciones abiertas (disponible para nuevas apuestas: $49.50)
+**Capital comprometido ahora mismo:** $199.60 en 40 posiciones abiertas (disponible para nuevas apuestas: $39.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 105 | 74 | 7 | -132.96 USD |
-| ferrariChampions2026 | 728 | 454 | 5 | -242.55 USD |
+|  | 105 | 74 | 8 | -132.96 USD |
+| ferrariChampions2026 | 728 | 454 | 6 | -242.55 USD |
 
 ## Análisis general
 
@@ -965,6 +965,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
+|  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Coco Gauff (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | vjnn | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 63% | 5.00 | 91.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | Yes (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -993,5 +995,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 3.7% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ❌ perdida | -5.12 |
-|  | Burgos CF vs. AD Ceuta FC: O/U 8.5 Total | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Jessica  | Aryna Sabalenka (BUY) | 69% | 5.00 | 2.7% | ✅ ganada | +2.17 |
