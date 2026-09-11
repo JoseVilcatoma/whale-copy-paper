@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:06:56 (hora de Perú)
+Actualizado: 2026-09-11 02:09:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 02:06:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $17.61)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $7.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 29 | 17 | 5 | +9.27 USD |
+| ExplosiveNinja | 29 | 17 | 6 | +9.27 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 107 | 78 | 7 | -148.40 USD |
-| ferrariChampions2026 | 733 | 456 | 5 | -240.91 USD |
+| ferrariChampions2026 | 733 | 456 | 6 | -240.91 USD |
 
 ## Análisis general
 
@@ -961,7 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-lee-jeanjea-2026-09-10 | , ferrariChampions2026 |
 | mlb-col-nyy-2026-09-10 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-moriya-shimizu-2026-09-10 | , Flaznorp, ferrariChampions2026 |
-| cs2-furia-g2-2026-09-11 | , Diabolical-Prize |
+| cs2-furia-g2-2026-09-11 | , Diabolical-Prize, mmklop |
 | fl1-ren-olm-2026-09-11-ren | , Flaznorp, GoalLineGhost |
 | itf-yao1-shubla1-2026-09-11 | , Flaznorp, ferrariChampions2026 |
 
@@ -969,6 +969,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -997,5 +999,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Schalke 04 (-2.5) | 1. FC Union Berlin (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 332.1% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 615.9% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: 1. FC Nürnberg (-1.5) | Hannover 96 (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
