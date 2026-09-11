@@ -127335,8 +127335,8 @@
     "title": "Ky\u014dto Sanga FC vs. Kashiwa Reysol: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 716.001,
-    "whale_pct": 0.476,
+    "whale_usd": 2325.0,
+    "whale_pct": 1.546,
     "whale_value_at_open": 150380.726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -127347,8 +127347,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789117911.628181,
-    "fills": 1
+    "last_fill_at": 1789124961.7434356,
+    "fills": 2
   },
   {
     "timestamp": 1789117937,
@@ -127522,6 +127522,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789124684.6249413,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789124879,
+    "timestamp_added": 1789124880.6657026,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "jap-vis-kas-2026-09-11-total-1pt5",
+    "title": "Vissel K\u014dbe vs. Kashima Antlers: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1094.871795,
+    "whale_pct": 0.553,
+    "whale_value_at_open": 197894.0897,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789124880.66572,
     "fills": 1
   }
 ]

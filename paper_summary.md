@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 06:07:39 (hora de Perú)
+Actualizado: 2026-09-11 06:09:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 06:07:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.96 en 48 posiciones abiertas (disponible para nuevas apuestas: $5.73)
+**Capital comprometido ahora mismo:** $242.96 en 49 posiciones abiertas (disponible para nuevas apuestas: $0.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 46 | 14 | 19 | +29.14 USD |
+| GoalLineGhost | 46 | 14 | 20 | +29.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 1 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -973,6 +973,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Istanbul 3: Francesco Maestrelli vs Maks | Francesco Maestrelli (BUY) | 46% | 4.83 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Maks | Maks Kasnikowski (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -980,7 +981,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Kashiwa Reysol win on 2026-09-11? | Yes (BUY) | 58% | 4.91 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ✅ ganada | +0.84 |
@@ -1002,4 +1003,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ✅ ganada | +0.59 |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
-| Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
