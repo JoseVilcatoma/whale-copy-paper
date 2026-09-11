@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 11:51:57 (hora de Perú)
+Actualizado: 2026-09-11 11:54:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 11:51:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.60 en 52 posiciones abiertas (disponible para nuevas apuestas: $6.35)
+**Capital comprometido ahora mismo:** $263.60 en 53 posiciones abiertas (disponible para nuevas apuestas: $1.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 749 | 464 | 15 | -236.47 USD |
+| ferrariChampions2026 | 749 | 464 | 16 | -236.47 USD |
 
 ## Análisis general
 
@@ -979,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Sebastian Ofner (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1008,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 41.6% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Philadelphia Phillies (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
