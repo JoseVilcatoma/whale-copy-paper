@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 21:00:23 (hora de Perú)
+Actualizado: 2026-09-10 21:02:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $241.21
-**Retorno acumulado:** -51.76%
+**Bankroll actual:** $236.50
+**Retorno acumulado:** -52.70%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 21:00:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $219.60 en 44 posiciones abiertas (disponible para nuevas apuestas: $21.61)
+**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $31.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 70 | 44 | 11 | +50.72 USD |
+| wr0ngw4yb3tt0r | 70 | 45 | 10 | +45.60 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 74 | 8 | -133.26 USD |
-| ferrariChampions2026 | 724 | 452 | 10 | -250.81 USD |
+| ferrariChampions2026 | 725 | 453 | 8 | -250.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4826
-- **Aciertos:** 3038 (63.0%)
+- **Apuestas resueltas:** 4829
+- **Aciertos:** 3039 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,089.60
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $447.92 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,104.60
+- **ROI sobre lo apostado:** -1.61%
+- **Comisiones pagadas (taker fee):** $448.27 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2473 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1449 | 68.4% | 67.8% | +0.6 pp |
+| 40-59% | 2475 | 50.2% | 50.1% | +0.2 pp |
+| 60-79% | 1450 | 68.3% | 67.8% | +0.6 pp |
 | 80-94% | 639 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -985,12 +985,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | LoL: Winthrop University vs Maryville Un | Winthrop University (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 3.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 |  | Burgos CF vs. AD Ceuta FC: O/U 8.5 Total | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Jessica  | Aryna Sabalenka (BUY) | 69% | 5.00 | 2.7% | ✅ ganada | +2.17 |
 | GoalLineGhost | Will Independiente del Valle win on 2026 | No (BUY) | 70% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 75% | 5.00 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Colorado Rockies vs. New York Yankees: O | Over (BUY) | 47% | 5.00 | 1.1% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 17.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Helioevaara/Patte | Harrison/Skupski (BUY) | 68% | 5.00 | 2.3% | ✅ ganada | +2.27 |

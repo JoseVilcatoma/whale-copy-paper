@@ -1,5 +1,5 @@
 {
-  "bankroll": 241.2072211732838,
+  "bankroll": 236.49751904562424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25185,6 +25185,21 @@
       "timestamp": 1789089113.2018723,
       "bankroll": 241.21,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Aryna Sabalenka vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1789092141.1015773,
+      "bankroll": 236.11,
+      "event": "lost: ferrariChampions2026 \u2014 Colorado Rockies vs. New York Yankees: O/U 9.5"
+    },
+    {
+      "timestamp": 1789092144.2742374,
+      "bankroll": 241.61,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1789092144.6748588,
+      "bankroll": 236.5,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. New York Yankees: O/U 9.5"
     }
   ]
 }
