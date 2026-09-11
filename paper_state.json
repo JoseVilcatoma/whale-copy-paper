@@ -1,5 +1,5 @@
 {
-  "bankroll": 274.1481236697683,
+  "bankroll": 269.0261236697683,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26000,6 +26000,11 @@
       "timestamp": 1789167537.4982448,
       "bankroll": 274.15,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: West Ham United FC (-1.5)"
+    },
+    {
+      "timestamp": 1789167851.2004693,
+      "bankroll": 269.03,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FC K\u00f8benhavn (-1.5)"
     }
   ]
 }
