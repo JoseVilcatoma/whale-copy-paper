@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:20:55 (hora de Perú)
+Actualizado: 2026-09-11 04:22:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 04:20:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $229.91 en 46 posiciones abiertas (disponible para nuevas apuestas: $3.22)
+**Capital comprometido ahora mismo:** $233.13 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -112,7 +112,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
-| vjnn | 3 | 3 | 0 | -5.05 USD |
+| vjnn | 3 | 3 | 1 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -961,7 +961,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-lee-jeanjea-2026-09-10 | , ferrariChampions2026 |
 | mlb-col-nyy-2026-09-10 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 | atp-moriya-shimizu-2026-09-10 | , Flaznorp, ferrariChampions2026 |
-| cs2-furia-g2-2026-09-11 | , Diabolical-Prize, mmklop |
+| cs2-furia-g2-2026-09-11 | , Diabolical-Prize, mmklop, vjnn |
 | sea-ven-fio-2026-09-11-total-2pt5 | , GoalLineGhost |
 | fl1-ren-olm-2026-09-11-ren | , Flaznorp, GoalLineGhost |
 | fl1-ren-olm-2026-09-11-olm | Flaznorp, GoalLineGhost |
@@ -972,6 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 31.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1001,4 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ✅ ganada | +0.53 |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
-| Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Iva Marinkovic (BUY) | 88% | 5.00 | 0.2% | ❌ perdida | -5.03 |

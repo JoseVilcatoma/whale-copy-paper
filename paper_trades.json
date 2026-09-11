@@ -127397,5 +127397,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789118440.8312361,
     "fills": 1
+  },
+  {
+    "timestamp": 1789118523,
+    "timestamp_added": 1789118524.604224,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "cs2-furia-g2-2026-09-11",
+    "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 3101.6335999999997,
+    "whale_pct": 31.639,
+    "whale_value_at_open": 9803.2711,
+    "paper_stake_usd": 3.22,
+    "odds_at_bet": 42,
+    "fee_usd": 0.093,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Diabolical-Prize",
+      "mmklop"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789118540.6011343,
+    "fills": 2
   }
 ]
