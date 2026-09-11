@@ -127727,8 +127727,8 @@
     "title": "Cassis: Nicolai Budkov Kjaer vs Moez Echargui",
     "outcome": "Moez Echargui",
     "side": "BUY",
-    "whale_usd": 6209.059499999999,
-    "whale_pct": 3.285,
+    "whale_usd": 6728.743785999999,
+    "whale_pct": 3.56,
     "whale_value_at_open": 188991.0156,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -127741,8 +127741,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789129186.0832434,
-    "fills": 1
+    "last_fill_at": 1789130299.2252605,
+    "fills": 2
   },
   {
     "timestamp": 1789129188,
@@ -127910,6 +127910,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789130138.3075535,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789130329,
+    "timestamp_added": 1789130330.0131912,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-burel-marista-2026-09-11",
+    "title": "Montreux: Clara Burel vs Guiomar Maristany",
+    "outcome": "Guiomar Maristany",
+    "side": "BUY",
+    "whale_usd": 786.28,
+    "whale_pct": 0.28,
+    "whale_value_at_open": 280862.0264,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789130330.0132031,
     "fills": 1
   }
 ]
