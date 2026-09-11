@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 01:46:04 (hora de Perú)
+Actualizado: 2026-09-11 01:48:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 01:46:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $47.61)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $42.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -133,7 +133,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 102 | 38 | 3 | -10.56 USD |
+| Flaznorp | 102 | 38 | 4 | -10.56 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -960,7 +960,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ind1-fla-2026-09-10-fla | , GoalLineGhost |
 | wta-lee-jeanjea-2026-09-10 | , ferrariChampions2026 |
 | mlb-col-nyy-2026-09-10 | , ferrariChampions2026, wr0ngw4yb3tt0r |
-| atp-moriya-shimizu-2026-09-10 | , ferrariChampions2026 |
+| atp-moriya-shimizu-2026-09-10 | , Flaznorp, ferrariChampions2026 |
 | cs2-furia-g2-2026-09-11 | , Diabolical-Prize |
 | fl1-ren-olm-2026-09-11-ren | , Flaznorp, GoalLineGhost |
 | itf-yao1-shubla1-2026-09-11 | Flaznorp, ferrariChampions2026 |
@@ -969,6 +969,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Iva Marinkovic (BUY) | 88% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -991,11 +992,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Schalke 04 (-2.5) | 1. FC Union Berlin (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 325.6% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 602.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 615.9% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: 1. FC Nürnberg (-1.5) | Hannover 96 (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 8.0% | ⏳ pendiente | — |
-|  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |

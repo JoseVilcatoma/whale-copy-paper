@@ -126173,8 +126173,8 @@
     "title": "Counter-Strike: Sinners vs Nuclear TigeRES (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "Sinners",
     "side": "BUY",
-    "whale_usd": 29715.6188,
-    "whale_pct": 602.244,
+    "whale_usd": 30391.8188,
+    "whale_pct": 615.949,
     "whale_value_at_open": 4934.1481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -126185,8 +126185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789109106.033667,
-    "fills": 10
+    "last_fill_at": 1789109210.7431698,
+    "fills": 11
   },
   {
     "timestamp": 1789100262,
@@ -126726,5 +126726,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789108233.264465,
     "fills": 1
+  },
+  {
+    "timestamp": 1789109169,
+    "timestamp_added": 1789109170.375156,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-moriya-shimizu-2026-09-10",
+    "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
+    "outcome": "Yuta Shimizu",
+    "side": "BUY",
+    "whale_usd": 1708.66,
+    "whale_pct": 0.495,
+    "whale_value_at_open": 345194.7983,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789109178.3361142,
+    "fills": 2
   }
 ]
