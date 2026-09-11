@@ -1,5 +1,5 @@
 {
-  "bankroll": 270.82226061083054,
+  "bankroll": 273.3244034679734,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25935,6 +25935,21 @@
       "timestamp": 1789160412.5474956,
       "bankroll": 270.82,
       "event": "won: ripley86alien \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160982.3713672,
+      "bankroll": 274.64,
+      "event": "won: GoalLineGhost \u2014 Venezia FC vs. ACF Fiorentina: O/U 2.5"
+    },
+    {
+      "timestamp": 1789160982.8101208,
+      "bankroll": 269.51,
+      "event": "lost: GoalLineGhost \u2014 Venezia FC vs. ACF Fiorentina: O/U 2.5"
+    },
+    {
+      "timestamp": 1789160983.572958,
+      "bankroll": 273.32,
+      "event": "won:  \u2014 Venezia FC vs. ACF Fiorentina: O/U 2.5"
     }
   ]
 }
