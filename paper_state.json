@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.30811738978883,
+  "bankroll": 243.27947953326333,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25365,6 +25365,21 @@
       "timestamp": 1789102156.3130503,
       "bankroll": 243.31,
       "event": "lost:  \u2014 M15 Wuning: Jaesung Choe vs Yuta Tomida"
+    },
+    {
+      "timestamp": 1789102990.309495,
+      "bankroll": 243.9,
+      "event": "won: GoalLineGhost \u2014 Will SC Recife win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789102992.4908009,
+      "bankroll": 238.78,
+      "event": "lost: GoalLineGhost \u2014 Will Millonarios FC vs. AD Cali end in a draw?"
+    },
+    {
+      "timestamp": 1789102992.5909836,
+      "bankroll": 243.28,
+      "event": "won: GoalLineGhost \u2014 Will Millonarios FC vs. AD Cali end in a draw?"
     }
   ]
 }

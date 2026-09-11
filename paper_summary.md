@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:01:08 (hora de Perú)
+Actualizado: 2026-09-11 00:03:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $243.31
+**Bankroll actual:** $243.28
 **Retorno acumulado:** -51.34%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:01:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $63.31)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $78.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 44 | 13 | 13 | +29.17 USD |
+| GoalLineGhost | 46 | 14 | 10 | +29.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -155,13 +155,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4862
-- **Aciertos:** 3060 (62.9%)
+- **Apuestas resueltas:** 4865
+- **Aciertos:** 3062 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,269.20
+- **Total apostado (suma de stakes):** $24,284.20
 - **ROI sobre lo apostado:** -1.57%
-- **Comisiones pagadas (taker fee):** $451.45 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $451.71 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2491 | 50.2% | 50.1% | +0.2 pp |
+| 40-59% | 2493 | 50.2% | 50.1% | +0.2 pp |
 | 60-79% | 1461 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 645 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 646 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -991,9 +991,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Coco Gauff (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | vjnn | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 63% | 5.00 | 91.5% | ✅ ganada | +2.84 |
-| GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | Yes (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | Yes (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | wr0ngw4yb3tt0r | Spread: 49ers (-3.5) | 49ers (BUY) | 49% | 5.00 | 0.6% | ✅ ganada | +5.08 |
-| GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | No (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
+| GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | No (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 40.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
