@@ -1,5 +1,5 @@
 {
-  "bankroll": 244.55659345731397,
+  "bankroll": 246.82953463378456,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25385,6 +25385,11 @@
       "timestamp": 1789103631.3987262,
       "bankroll": 244.56,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Filip Peliwo vs Arthur Weber"
+    },
+    {
+      "timestamp": 1789103944.4824545,
+      "bankroll": 246.83,
+      "event": "won: ferrariChampions2026 \u2014 W50 Guiyang: Hina Inoue vs Yufei Ren"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:17:25 (hora de Perú)
+Actualizado: 2026-09-11 00:19:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $244.56
-**Retorno acumulado:** -51.09%
+**Bankroll actual:** $246.83
+**Retorno acumulado:** -50.63%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:17:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $79.56)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $86.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 107 | 78 | 4 | -148.40 USD |
-| ferrariChampions2026 | 731 | 456 | 5 | -244.31 USD |
+| ferrariChampions2026 | 732 | 456 | 4 | -242.04 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4866
-- **Aciertos:** 3063 (62.9%)
+- **Apuestas resueltas:** 4867
+- **Aciertos:** 3064 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,289.20
-- **ROI sobre lo apostado:** -1.56%
-- **Comisiones pagadas (taker fee):** $451.76 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,294.20
+- **ROI sobre lo apostado:** -1.55%
+- **Comisiones pagadas (taker fee):** $451.84 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2493 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1462 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1463 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 646 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -984,7 +984,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ✅ ganada | +2.27 |
 | Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Zzzz87 | Stade Rennais FC 1901 vs. Olympique de M | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Vissel Kōbe vs. Kashima Antlers: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
