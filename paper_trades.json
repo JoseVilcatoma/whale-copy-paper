@@ -126051,8 +126051,8 @@
     "title": "Phan Thiet 3: Cruz Hewitt vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 1074.953,
-    "whale_pct": 0.633,
+    "whale_usd": 3018.7766,
+    "whale_pct": 1.779,
     "whale_value_at_open": 169731.4084,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -126063,7 +126063,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789097807.6092472,
-    "fills": 1
+    "last_fill_at": 1789097905.810739,
+    "fills": 2
   }
 ]
