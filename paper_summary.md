@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:43:26 (hora de Perú)
+Actualizado: 2026-09-11 04:45:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.13
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 17.1% | ✅ ganada | +1.60 |
 | Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 6.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Olympique de Marseille (-1.5) | Stade Rennais FC 1901 (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Wozuko Mdlulwa (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
