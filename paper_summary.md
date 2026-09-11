@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 16:35:06 (hora de Perú)
+Actualizado: 2026-09-11 16:37:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.54
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 8.4% | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 51% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FOKUS (-1.5) vs Virtus.pro | Virtus.pro (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will SC Freiburg win on 2026-09-12? | No (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will SC Freiburg win on 2026-09-12? | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ⏳ pendiente | — |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: | Under (BUY) | 50% | 5.00 | 177.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
