@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 20:21:19 (hora de Perú)
+Actualizado: 2026-09-10 20:23:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $241.21
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 20:21:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $26.61)
+**Capital comprometido ahora mismo:** $219.60 en 44 posiciones abiertas (disponible para nuevas apuestas: $21.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 104 | 74 | 7 | -133.26 USD |
+|  | 104 | 74 | 8 | -133.26 USD |
 | ferrariChampions2026 | 724 | 452 | 10 | -250.81 USD |
 
 ## Análisis general
@@ -964,6 +964,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -993,4 +994,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 17.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP (Doubles): Helioevaara/Patte | Harrison/Skupski (BUY) | 68% | 5.00 | 2.3% | ✅ ganada | +2.27 |
-| GoalLineGhost | Will Vila Nova FC vs. Goiás EC end in a  | No (BUY) | 63% | 5.00 | 5.0% | ⏳ pendiente | — |
