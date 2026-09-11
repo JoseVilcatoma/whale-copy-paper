@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.78973398646008,
+  "bankroll": 237.93399324571934,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25450,6 +25450,11 @@
       "timestamp": 1789111474.0542402,
       "bankroll": 233.79,
       "event": "won: Flaznorp \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789112090.9416053,
+      "bankroll": 237.93,
+      "event": "won: mmklop \u2014 Counter-Strike: MIBR vs Alliance - Map 1 Winner"
     }
   ]
 }
