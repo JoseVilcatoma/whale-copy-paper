@@ -128226,8 +128226,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.05,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.07,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -128317,8 +128317,8 @@
     "title": "Sevilla FC vs. Valencia CF: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2520.1437,
-    "whale_pct": 1.664,
+    "whale_usd": 7883.5623,
+    "whale_pct": 5.204,
     "whale_value_at_open": 151488.2707,
     "paper_stake_usd": 4.58,
     "odds_at_bet": 60,
@@ -128329,8 +128329,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789136612.5498905,
-    "fills": 1
+    "last_fill_at": 1789149224.247638,
+    "fills": 2
   },
   {
     "timestamp": 1789137051,

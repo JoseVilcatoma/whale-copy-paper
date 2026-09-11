@@ -1,5 +1,5 @@
 {
-  "bankroll": 267.76750449829893,
+  "bankroll": 263.69750449829894,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25755,6 +25755,11 @@
       "timestamp": 1789147137.8225703,
       "bankroll": 267.77,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Siniakova/Townsend vs Montgomery/Krueger"
+    },
+    {
+      "timestamp": 1789149299.2955363,
+      "bankroll": 263.7,
+      "event": "lost: GoalLineGhost \u2014 FK Buxoro vs. Navbahor: O/U 3.5"
     }
   ]
 }
