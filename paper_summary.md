@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:54:19 (hora de Perú)
+Actualizado: 2026-09-10 19:56:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.04
@@ -965,7 +965,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 18.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 20.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.8% | ⏳ pendiente | — |
