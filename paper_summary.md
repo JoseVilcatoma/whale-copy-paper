@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:25:36 (hora de Perú)
+Actualizado: 2026-09-11 00:27:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $246.83
@@ -985,7 +985,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ✅ ganada | +2.27 |
-| Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Zzzz87 | Stade Rennais FC 1901 vs. Olympique de M | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Vissel Kōbe vs. Kashima Antlers: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 3.3% | ✅ ganada | +1.28 |
