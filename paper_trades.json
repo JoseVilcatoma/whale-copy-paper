@@ -127435,8 +127435,8 @@
     "title": "Tulln: Mika Brunold vs Gustavo Heide",
     "outcome": "Mika Brunold",
     "side": "BUY",
-    "whale_usd": 110143.636859,
-    "whale_pct": 77.879,
+    "whale_usd": 121185.48685900001,
+    "whale_pct": 85.686,
     "whale_value_at_open": 141428.9377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -127447,8 +127447,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789125608.0664086,
-    "fills": 19
+    "last_fill_at": 1789125643.6728666,
+    "fills": 20
   },
   {
     "timestamp": 1789124634,
