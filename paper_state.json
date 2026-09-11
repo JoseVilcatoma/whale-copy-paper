@@ -1,5 +1,5 @@
 {
-  "bankroll": 237.00078570418754,
+  "bankroll": 239.2106782560801,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25260,6 +25260,21 @@
       "timestamp": 1789096802.6550188,
       "bankroll": 237.0,
       "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Philip Sekulic vs Koki Matsuda"
+    },
+    {
+      "timestamp": 1789098041.9878817,
+      "bankroll": 241.5,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Coco Gauff vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1789098046.016769,
+      "bankroll": 244.34,
+      "event": "won: vjnn \u2014 US Open WTA: Coco Gauff vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1789098046.1168923,
+      "bankroll": 239.21,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Coco Gauff vs Elena Rybakina"
     }
   ]
 }
