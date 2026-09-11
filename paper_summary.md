@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:06:37 (hora de Perú)
+Actualizado: 2026-09-11 04:08:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $232.90
-**Retorno acumulado:** -53.42%
+**Bankroll actual:** $234.60
+**Retorno acumulado:** -53.08%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 04:06:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.90 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $217.90 en 44 posiciones abiertas (disponible para nuevas apuestas: $16.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,11 +135,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| Flaznorp | 106 | 40 | 4 | -14.84 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | Zzzz87 | 1 | 4 | 2 | -17.28 USD |
-| Flaznorp | 105 | 40 | 5 | -17.68 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 7 | -149.70 USD |
-| ferrariChampions2026 | 735 | 458 | 7 | -245.01 USD |
+| ferrariChampions2026 | 736 | 459 | 5 | -246.16 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4888
-- **Aciertos:** 3076 (62.9%)
+- **Apuestas resueltas:** 4891
+- **Aciertos:** 3078 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,399.20
+- **Total apostado (suma de stakes):** $24,414.20
 - **ROI sobre lo apostado:** -1.60%
-- **Comisiones pagadas (taker fee):** $453.78 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $454.11 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2504 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1468 | 68.4% | 67.8% | +0.6 pp |
+| 40-59% | 2506 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1469 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 651 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -981,13 +981,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: FURIA vs G2 - Map 1 Winn | G2 (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 17.1% | ⏳ pendiente | — |
-| Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Olympique de Marseille (-1.5) | Stade Rennais FC 1901 (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Wozuko Mdlulwa (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 55% | 5.00 | 2.1% | ✅ ganada | +3.98 |
+| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ❌ perdida | -5.13 |
 | mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ✅ ganada | +0.59 |

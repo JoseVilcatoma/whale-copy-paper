@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.90370417759368,
+  "bankroll": 234.59912120501073,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25495,6 +25495,21 @@
       "timestamp": 1789116237.3338978,
       "bankroll": 232.9,
       "event": "won: Flaznorp \u2014 W15 Hurghada: Wozuko Mdlulwa vs Iva Marinkovic"
+    },
+    {
+      "timestamp": 1789117652.516058,
+      "bankroll": 227.78,
+      "event": "lost: ferrariChampions2026 \u2014 Shanghai: Ilya Ivashka vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789117652.6161945,
+      "bankroll": 231.75,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Ilya Ivashka vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789117653.2865787,
+      "bankroll": 234.6,
+      "event": "won: Flaznorp \u2014 Shanghai: Ilya Ivashka vs Yi Zhou"
     }
   ]
 }
