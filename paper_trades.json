@@ -129191,8 +129191,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 4348.672,
-    "whale_pct": 4.503,
+    "whale_usd": 4984.6096,
+    "whale_pct": 5.161,
     "whale_value_at_open": 96580.0449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -129203,8 +129203,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789163993.6904092,
-    "fills": 3
+    "last_fill_at": 1789164250.9564931,
+    "fills": 4
   },
   {
     "timestamp": 1789162352,
