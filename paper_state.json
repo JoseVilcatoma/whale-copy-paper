@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.0237364814368,
+  "bankroll": 264.61471400952666,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25635,6 +25635,11 @@
       "timestamp": 1789129284.7823067,
       "bankroll": 264.02,
       "event": "lost: GoalLineGhost \u2014 Vissel K\u014dbe vs. Kashima Antlers: O/U 1.5"
+    },
+    {
+      "timestamp": 1789131471.834912,
+      "bankroll": 264.61,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Matias Soto vs Vitaliy Sachko"
     }
   ]
 }

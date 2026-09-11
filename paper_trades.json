@@ -127588,8 +127588,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -127655,8 +127655,8 @@
     "title": "Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle",
     "outcome": "Rositsa Dencheva",
     "side": "BUY",
-    "whale_usd": 11053.969061,
-    "whale_pct": 5.003,
+    "whale_usd": 14072.217633,
+    "whale_pct": 6.369,
     "whale_value_at_open": 220965.7247,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -127667,8 +127667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789130589.1716537,
-    "fills": 2
+    "last_fill_at": 1789131418.450035,
+    "fills": 3
   },
   {
     "timestamp": 1789128617,

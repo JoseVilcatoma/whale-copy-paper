@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 07:56:55 (hora de Perú)
+Actualizado: 2026-09-11 07:58:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $264.02
-**Retorno acumulado:** -47.20%
+**Bankroll actual:** $264.61
+**Retorno acumulado:** -47.08%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 07:56:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $14.02)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $19.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 6 | -146.91 USD |
-| ferrariChampions2026 | 742 | 460 | 14 | -235.24 USD |
+| ferrariChampions2026 | 743 | 460 | 13 | -234.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4916
-- **Aciertos:** 3097 (63.0%)
+- **Apuestas resueltas:** 4917
+- **Aciertos:** 3098 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,535.15
+- **Total apostado (suma de stakes):** $24,540.15
 - **ROI sobre lo apostado:** -1.47%
-- **Comisiones pagadas (taker fee):** $456.36 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $456.39 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2520 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1474 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 656 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 657 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -991,10 +991,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 9.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Istanbul 3: Yanki Erel vs Jay Dylan Frie | Jay Dylan Friend (BUY) | 91% | 5.00 | 1.0% | ✅ ganada | +0.47 |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ❌ perdida | -5.09 |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ❌ perdida | -5.14 |
