@@ -126025,8 +126025,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Yuta Shimizu",
     "side": "BUY",
-    "whale_usd": 10168.978679999998,
-    "whale_pct": 6.081,
+    "whale_usd": 12651.835822999998,
+    "whale_pct": 7.566,
     "whale_value_at_open": 167214.0431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -126039,8 +126039,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789101877.5713897,
-    "fills": 6
+    "last_fill_at": 1789102271.4449065,
+    "fills": 7
   },
   {
     "timestamp": 1789097806,
@@ -126355,5 +126355,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789102172.5330944,
     "fills": 2
+  },
+  {
+    "timestamp": 1789102268,
+    "timestamp_added": 1789102268.8795598,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "jap-vis-kas-2026-09-11-vis",
+    "title": "Will Vissel K\u014dbe win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 565.3312000000001,
+    "whale_pct": 0.531,
+    "whale_value_at_open": 106502.2551,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789102268.8795707,
+    "fills": 1
   }
 ]
