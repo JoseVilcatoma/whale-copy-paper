@@ -1,5 +1,5 @@
 {
-  "bankroll": 278.17756269415855,
+  "bankroll": 279.2301236697683,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25990,6 +25990,11 @@
       "timestamp": 1789166596.4498453,
       "bankroll": 278.18,
       "event": "won:  \u2014 Burgos CF vs. AD Ceuta FC: O/U 8.5 Total Corners"
+    },
+    {
+      "timestamp": 1789167224.0159214,
+      "bankroll": 279.23,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Karen Khachanov"
     }
   ]
 }
