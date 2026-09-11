@@ -1,5 +1,5 @@
 {
-  "bankroll": 239.2106782560801,
+  "bankroll": 244.28675988873314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25275,6 +25275,11 @@
       "timestamp": 1789098046.1168923,
       "bankroll": 239.21,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Coco Gauff vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1789098168.5761435,
+      "bankroll": 244.29,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: 49ers (-3.5)"
     }
   ]
 }

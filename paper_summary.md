@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:41:52 (hora de Perú)
+Actualizado: 2026-09-10 22:43:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $239.21
-**Retorno acumulado:** -52.16%
+**Bankroll actual:** $244.29
+**Retorno acumulado:** -51.14%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 22:41:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $34.61)
+**Capital comprometido ahora mismo:** $199.60 en 40 posiciones abiertas (disponible para nuevas apuestas: $44.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 72 | 47 | 8 | +40.05 USD |
+| wr0ngw4yb3tt0r | 73 | 47 | 7 | +45.13 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4844
-- **Aciertos:** 3049 (62.9%)
+- **Apuestas resueltas:** 4845
+- **Aciertos:** 3050 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,179.60
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $449.73 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,184.60
+- **ROI sobre lo apostado:** -1.57%
+- **Comisiones pagadas (taker fee):** $449.86 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2483 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2484 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1455 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 641 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
@@ -979,7 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Coco Gauff (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | vjnn | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 63% | 5.00 | 91.5% | ✅ ganada | +2.84 |
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | Yes (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: 49ers (-3.5) | 49ers (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: 49ers (-3.5) | 49ers (BUY) | 49% | 5.00 | 0.6% | ✅ ganada | +5.08 |
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | No (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 40.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
