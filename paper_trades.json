@@ -124876,8 +124876,8 @@
     "title": "Will Vila Nova FC win on 2026-09-10?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 550.0,
-    "whale_pct": 0.558,
+    "whale_usd": 3180.1834,
+    "whale_pct": 3.224,
     "whale_value_at_open": 98633.6334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -124888,8 +124888,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789079209.9089472,
-    "fills": 1
+    "last_fill_at": 1789085193.036569,
+    "fills": 3
   },
   {
     "timestamp": 1789080052,
@@ -124948,8 +124948,8 @@
     "title": "Will Vila Nova FC vs. Goi\u00e1s EC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1718.0115999999998,
-    "whale_pct": 1.651,
+    "whale_usd": 5176.7225,
+    "whale_pct": 4.974,
     "whale_value_at_open": 104070.7633,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -124960,8 +124960,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789083478.0119843,
-    "fills": 2
+    "last_fill_at": 1789085100.9837804,
+    "fills": 4
   },
   {
     "timestamp": 1789081169,
@@ -125279,6 +125279,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789084735.398269,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789085138,
+    "timestamp_added": 1789085138.9642768,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "nfl-sf-la-2026-09-11-total-46pt5",
+    "title": "49ers vs. Rams: O/U 46.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 981.72,
+    "whale_pct": 0.277,
+    "whale_value_at_open": 354529.0176,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789085138.9642878,
     "fills": 1
   }
 ]
