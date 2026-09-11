@@ -125951,8 +125951,8 @@
     "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 6973.995285999999,
-    "whale_pct": 1.682,
+    "whale_usd": 8293.995286,
+    "whale_pct": 2.001,
     "whale_value_at_open": 414508.3718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -125963,8 +125963,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789104391.580964,
-    "fills": 4
+    "last_fill_at": 1789106226.978304,
+    "fills": 5
   },
   {
     "timestamp": 1789097430,
@@ -126553,5 +126553,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789105781.187947,
     "fills": 3
+  },
+  {
+    "timestamp": 1789106255,
+    "timestamp_added": 1789106256.170534,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ere-az-wii-2026-09-11-total-4pt5",
+    "title": "AZ vs. Willem II Tilburg: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 584.9984,
+    "whale_pct": 0.507,
+    "whale_value_at_open": 115314.0222,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789106256.1705432,
+    "fills": 1
   }
 ]
