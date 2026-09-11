@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 05:26:22 (hora de Perú)
+Actualizado: 2026-09-11 05:28:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 05:26:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $228.13 en 46 posiciones abiertas (disponible para nuevas apuestas: $5.85)
+**Capital comprometido ahora mismo:** $233.13 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 7 | -149.70 USD |
-| ferrariChampions2026 | 738 | 460 | 3 | -246.79 USD |
+| ferrariChampions2026 | 738 | 460 | 4 | -246.79 USD |
 
 ## Análisis general
 
@@ -972,6 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 2.5% | ⏳ pendiente | — |
 | vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1001,4 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ✅ ganada | +0.53 |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
-|  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
