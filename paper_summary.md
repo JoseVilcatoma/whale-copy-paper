@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:18:52 (hora de Perú)
+Actualizado: 2026-09-11 04:20:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 04:18:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $224.91 en 45 posiciones abiertas (disponible para nuevas apuestas: $8.22)
+**Capital comprometido ahora mismo:** $229.91 en 46 posiciones abiertas (disponible para nuevas apuestas: $3.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 7 | -149.70 USD |
-| ferrariChampions2026 | 737 | 460 | 3 | -247.63 USD |
+| ferrariChampions2026 | 737 | 460 | 4 | -247.63 USD |
 
 ## Análisis general
 
@@ -972,6 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1001,4 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Iva Marinkovic (BUY) | 88% | 5.00 | 0.2% | ❌ perdida | -5.03 |
-| mmklop | Counter-Strike: MIBR vs Alliance - Map 1 | MIBR (BUY) | 54% | 5.00 | 31.2% | ✅ ganada | +4.14 |

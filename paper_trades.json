@@ -127373,5 +127373,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789117938.1803265,
     "fills": 1
+  },
+  {
+    "timestamp": 1789118440,
+    "timestamp_added": 1789118440.831228,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-furia-g2-2026-09-11-map-handicap-away-1pt5",
+    "title": "Map Handicap: FURIA (-1.5) vs G2 (+1.5)",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 895.1929419999999,
+    "whale_pct": 1.019,
+    "whale_value_at_open": 87820.0933,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789118440.8312361,
+    "fills": 1
   }
 ]
