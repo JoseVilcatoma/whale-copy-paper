@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 01:06:38 (hora de Perú)
+Actualizado: 2026-09-11 01:08:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -969,7 +969,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| mmklop | Counter-Strike: MIBR vs Alliance - Map 1 | MIBR (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: MIBR vs Alliance - Map 1 | MIBR (BUY) | 54% | 5.00 | 12.5% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: MIBR vs Alliance (BO3) - | MIBR (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |

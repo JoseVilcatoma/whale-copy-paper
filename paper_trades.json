@@ -126635,8 +126635,8 @@
     "title": "Counter-Strike: MIBR vs Alliance - Map 1 Winner",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 9560.563999999998,
-    "whale_pct": 11.239,
+    "whale_usd": 10657.652723999998,
+    "whale_pct": 12.528,
     "whale_value_at_open": 85068.6633,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -126647,7 +126647,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789106790.7069087,
-    "fills": 5
+    "last_fill_at": 1789106870.8740366,
+    "fills": 6
   }
 ]
