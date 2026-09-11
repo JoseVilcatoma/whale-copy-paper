@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:44:10 (hora de Perú)
+Actualizado: 2026-09-11 02:46:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.93
@@ -978,7 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Wozuko Mdlulwa (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 12.5% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -996,7 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 14.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 16.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
