@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 09:19:15 (hora de Perú)
+Actualizado: 2026-09-11 09:21:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $259.75
-**Retorno acumulado:** -48.05%
+**Bankroll actual:** $253.21
+**Retorno acumulado:** -49.36%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 09:19:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.63 en 52 posiciones abiertas (disponible para nuevas apuestas: $1.12)
+**Capital comprometido ahora mismo:** $243.63 en 49 posiciones abiertas (disponible para nuevas apuestas: $9.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 50 | 17 | 18 | +20.44 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-|  | 37 | 29 | 2 | +16.53 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Diabolical-Prize | 3 | 0 | 1 | +12.67 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+|  | 37 | 30 | 1 | +11.38 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| quavoo | 32 | 18 | 0 | +4.68 USD |
 | Jsram | 5 | 2 | 0 | +4.50 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -64,7 +65,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | lucidarderi | 1 | 0 | 0 | +3.52 USD |
-| quavoo | 31 | 18 | 1 | +3.48 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 8 | -146.91 USD |
-| ferrariChampions2026 | 746 | 461 | 10 | -234.37 USD |
+| ferrariChampions2026 | 747 | 462 | 9 | -236.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4922
-- **Aciertos:** 3101 (63.0%)
+- **Apuestas resueltas:** 4926
+- **Aciertos:** 3103 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,565.15
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $456.85 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,585.15
+- **ROI sobre lo apostado:** -1.51%
+- **Comisiones pagadas (taker fee):** $457.22 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2523 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1474 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 659 | 85.9% | 86.6% | -0.7 pp |
+| 40-59% | 2524 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1476 | 68.4% | 67.8% | +0.6 pp |
+| 80-94% | 660 | 85.9% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -978,7 +978,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 2.8% | ⏳ pendiente | — |
 | GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -999,12 +1000,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Valerio Aboian | Pedro Martinez (BUY) | 81% | 5.00 | 5.3% | ✅ ganada | +1.13 |
 | mmklop | Counter-Strike: 1WIN vs NIP (BO3) - Thun | 1WIN (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ✅ ganada | +0.91 |
-|  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 11.0% | ⏳ pendiente | — |
+|  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ❌ perdida | -5.15 |
+| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 11.0% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Istanbul 3: Yanki Erel vs Jay Dylan Frie | Jay Dylan Friend (BUY) | 91% | 5.00 | 1.0% | ✅ ganada | +0.47 |
-| GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ❌ perdida | -5.09 |

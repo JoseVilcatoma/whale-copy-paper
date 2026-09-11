@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.7535107392669,
+  "bankroll": 253.20626831502446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25665,6 +25665,26 @@
       "timestamp": 1789135912.1496742,
       "bankroll": 259.75,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Pedro Martinez vs Valerio Aboian"
+    },
+    {
+      "timestamp": 1789136405.8608627,
+      "bankroll": 260.95,
+      "event": "won: nigiri99 \u2014 KBO: Kiwoom Heroes vs. Samsung Lions"
+    },
+    {
+      "timestamp": 1789136414.0533783,
+      "bankroll": 263.44,
+      "event": "won: ferrariChampions2026 \u2014 Cassis: Nicolai Budkov Kjaer vs Moez Echargui"
+    },
+    {
+      "timestamp": 1789136414.1536038,
+      "bankroll": 258.3,
+      "event": "lost:  \u2014 Cassis: Nicolai Budkov Kjaer vs Moez Echargui"
+    },
+    {
+      "timestamp": 1789136414.354087,
+      "bankroll": 253.21,
+      "event": "lost: ferrariChampions2026 \u2014 Cassis: Nicolai Budkov Kjaer vs Moez Echargui"
     }
   ]
 }
