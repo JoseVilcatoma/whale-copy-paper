@@ -1,5 +1,5 @@
 {
-  "bankroll": 276.28573680130677,
+  "bankroll": 269.5384264564792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25955,6 +25955,21 @@
       "timestamp": 1789161933.063548,
       "bankroll": 276.29,
       "event": "won: ferrariChampions2026 \u2014 Sevilla FC vs. Valencia CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1789162242.0515525,
+      "bankroll": 279.8,
+      "event": "won: GoalLineGhost \u2014 SV Ried vs. FC Salzburg: O/U 3.5"
+    },
+    {
+      "timestamp": 1789162246.1819758,
+      "bankroll": 274.67,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Sevilla FC win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789162246.2821314,
+      "bankroll": 269.54,
+      "event": "lost: ferrariChampions2026 \u2014 Will Sevilla FC win on 2026-09-11?"
     }
   ]
 }
