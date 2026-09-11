@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:39:44 (hora de Perú)
+Actualizado: 2026-09-10 19:41:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 19:39:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $189.60 en 38 posiciones abiertas (disponible para nuevas apuestas: $49.44)
+**Capital comprometido ahora mismo:** $194.60 en 39 posiciones abiertas (disponible para nuevas apuestas: $44.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 70 | 44 | 6 | +50.72 USD |
+| wr0ngw4yb3tt0r | 70 | 44 | 7 | +50.72 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -964,7 +964,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 14.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -993,4 +994,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 7.3% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ❌ perdida | -5.07 |
