@@ -128891,5 +128891,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789155390.1350384,
     "fills": 2
+  },
+  {
+    "timestamp": 1789156106,
+    "timestamp_added": 1789156106.2834027,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nym-nyy-2026-09-11",
+    "title": "New York Mets vs. New York Yankees",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 7208.88,
+    "whale_pct": 3.412,
+    "whale_value_at_open": 211262.5097,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789156106.2834134,
+    "fills": 1
   }
 ]
