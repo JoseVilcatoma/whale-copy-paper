@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.9285008875717,
+  "bankroll": 244.8815008875717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25305,6 +25305,11 @@
       "timestamp": 1789099468.0277035,
       "bankroll": 249.93,
       "event": "lost:  \u2014 LoL: Winthrop University vs Maryville University - Game 4 Winner"
+    },
+    {
+      "timestamp": 1789100090.8160646,
+      "bankroll": 244.88,
+      "event": "lost: GoalLineGhost \u2014 Will Londrina EC win on 2026-09-10?"
     }
   ]
 }
