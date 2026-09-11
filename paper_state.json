@@ -1,5 +1,5 @@
 {
-  "bankroll": 248.1287733655295,
+  "bankroll": 252.81069493415694,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25695,6 +25695,11 @@
       "timestamp": 1789137023.1365736,
       "bankroll": 248.13,
       "event": "won: GoalLineGhost \u2014 Garuda Yaksa vs. Persik Kediri: O/U 5.5"
+    },
+    {
+      "timestamp": 1789138570.9169078,
+      "bankroll": 252.81,
+      "event": "won:  \u2014 Tulln: Joao Lucas Da Silva vs Lukas Neumayer"
     }
   ]
 }
