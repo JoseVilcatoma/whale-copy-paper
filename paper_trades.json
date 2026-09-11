@@ -127043,8 +127043,8 @@
     "title": "US Open ATP: Alexander Zverev vs Karen Khachanov",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 7977.282543,
-    "whale_pct": 10.965,
+    "whale_usd": 9266.442543000001,
+    "whale_pct": 12.736,
     "whale_value_at_open": 72755.183,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -127055,8 +127055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789155962.1641247,
-    "fills": 3
+    "last_fill_at": 1789156643.1316245,
+    "fills": 4
   },
   {
     "timestamp": 1789112176,
