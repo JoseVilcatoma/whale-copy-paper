@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:46:01 (hora de Perú)
+Actualizado: 2026-09-10 22:48:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $255.06
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 22:46:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $179.60 en 36 posiciones abiertas (disponible para nuevas apuestas: $75.46)
+**Capital comprometido ahora mismo:** $184.60 en 37 posiciones abiertas (disponible para nuevas apuestas: $70.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| GoalLineGhost | 38 | 11 | 13 | +25.18 USD |
+| GoalLineGhost | 38 | 11 | 14 | +25.18 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
@@ -967,6 +967,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -996,4 +997,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: CS Cienciano (-2.5) | Montevideo City Torque (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Will CR Flamengo win on 2026-09-10? | No (BUY) | 63% | 5.00 | 3.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will CS Cienciano vs. Montevideo City To | No (BUY) | 80% | 5.00 | 0.9% | ⏳ pendiente | — |
-| GoalLineGhost | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |

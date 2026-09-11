@@ -126065,5 +126065,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789097905.810739,
     "fills": 2
+  },
+  {
+    "timestamp": 1789098374,
+    "timestamp_added": 1789098375.1129556,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bun-uni-s04-2026-09-11-total-2pt5",
+    "title": "1. FC Union Berlin vs. FC Schalke 04: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1007.0018,
+    "whale_pct": 0.764,
+    "whale_value_at_open": 131757.2671,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789098375.1129656,
+    "fills": 1
   }
 ]
