@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:35:40 (hora de Perú)
+Actualizado: 2026-09-10 22:37:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 22:35:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $214.60 en 43 posiciones abiertas (disponible para nuevas apuestas: $22.40)
+**Capital comprometido ahora mismo:** $219.60 en 44 posiciones abiertas (disponible para nuevas apuestas: $17.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 106 | 74 | 8 | -132.66 USD |
-| ferrariChampions2026 | 729 | 455 | 6 | -244.96 USD |
+| ferrariChampions2026 | 729 | 455 | 7 | -244.96 USD |
 
 ## Análisis general
 
@@ -967,7 +967,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -996,4 +997,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will CR Flamengo win on 2026-09-10? | No (BUY) | 63% | 5.00 | 3.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will CS Cienciano vs. Montevideo City To | No (BUY) | 80% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 94% | 5.00 | 0.5% | ✅ ganada | +0.30 |
