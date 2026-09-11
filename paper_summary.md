@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 23:45:59 (hora de Perú)
+Actualizado: 2026-09-10 23:48:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $248.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 23:45:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $93.37)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $78.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 44 | 13 | 8 | +29.17 USD |
+| GoalLineGhost | 44 | 13 | 10 | +29.17 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 107 | 77 | 4 | -143.34 USD |
+|  | 107 | 77 | 5 | -143.34 USD |
 | ferrariChampions2026 | 730 | 456 | 6 | -245.59 USD |
 
 ## Análisis general
@@ -967,6 +967,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
+|  | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.6% | ⏳ pendiente | — |
+| GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Schalke 04 (-2.5) | 1. FC Union Berlin (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 102.6% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 306.2% | ⏳ pendiente | — |
@@ -994,6 +997,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 74.0% | ✅ ganada | +7.05 |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 42.5 | Over (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
-| GoalLineGhost | Will Londrina EC win on 2026-09-10? | No (BUY) | 81% | 5.00 | 1.1% | ❌ perdida | -5.05 |
-| wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 21.6% | ❌ perdida | -5.09 |
