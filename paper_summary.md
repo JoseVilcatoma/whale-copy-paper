@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 09:12:59 (hora de Perú)
+Actualizado: 2026-09-11 09:15:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $259.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 09:12:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $253.63 en 51 posiciones abiertas (disponible para nuevas apuestas: $6.12)
+**Capital comprometido ahora mismo:** $258.63 en 52 posiciones abiertas (disponible para nuevas apuestas: $1.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 8 | -146.91 USD |
-| ferrariChampions2026 | 746 | 461 | 9 | -234.37 USD |
+| ferrariChampions2026 | 746 | 461 | 10 | -234.37 USD |
 
 ## Análisis general
 
@@ -978,6 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1007,4 +1008,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Istanbul 3: Yanki Erel vs Jay Dylan Frie | Jay Dylan Friend (BUY) | 91% | 5.00 | 1.0% | ✅ ganada | +0.47 |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ❌ perdida | -5.09 |
-| GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ❌ perdida | -5.14 |
