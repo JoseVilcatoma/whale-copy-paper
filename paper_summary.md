@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:45:56 (hora de Perú)
+Actualizado: 2026-09-10 19:48:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.04
@@ -968,7 +968,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 18.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
-| GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.1% | ⏳ pendiente | — |
+| GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CS Cienciano (-2.5) | Montevideo City Torque (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Will CR Flamengo win on 2026-09-10? | No (BUY) | 63% | 5.00 | 3.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will CS Cienciano vs. Montevideo City To | No (BUY) | 80% | 5.00 | 0.9% | ⏳ pendiente | — |
