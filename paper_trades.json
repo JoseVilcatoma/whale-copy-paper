@@ -128751,8 +128751,8 @@
     "title": "Genoa: Matej Dodig vs Enrico Dalla Valle",
     "outcome": "Enrico Dalla Valle",
     "side": "BUY",
-    "whale_usd": 14654.851351,
-    "whale_pct": 8.354,
+    "whale_usd": 16038.245181,
+    "whale_pct": 9.142,
     "whale_value_at_open": 175425.5196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -128763,8 +128763,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789150678.412382,
-    "fills": 7
+    "last_fill_at": 1789151267.6759849,
+    "fills": 9
   },
   {
     "timestamp": 1789150862,
@@ -128793,5 +128793,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789151110.030436,
     "fills": 6
+  },
+  {
+    "timestamp": 1789151204,
+    "timestamp_added": 1789151204.48114,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 32999.9977,
+    "whale_pct": 13.063,
+    "whale_value_at_open": 252625.9338,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789151205.4973853,
+    "fills": 2
+  },
+  {
+    "timestamp": 1789151204,
+    "timestamp_added": 1789151204.991241,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-sev-val-2026-09-11-sev",
+    "title": "Will Sevilla FC win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 990.104,
+    "whale_pct": 0.54,
+    "whale_value_at_open": 183401.689,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789151204.9912508,
+    "fills": 1
   }
 ]

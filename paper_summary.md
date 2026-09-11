@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 13:25:56 (hora de Perú)
+Actualizado: 2026-09-11 13:28:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 13:25:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $253.75 en 51 posiciones abiertas (disponible para nuevas apuestas: $11.04)
+**Capital comprometido ahora mismo:** $263.75 en 53 posiciones abiertas (disponible para nuevas apuestas: $1.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 76 | 51 | 4 | +41.88 USD |
+| wr0ngw4yb3tt0r | 76 | 51 | 5 | +41.88 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 753 | 466 | 14 | -234.00 USD |
+| ferrariChampions2026 | 753 | 466 | 15 | -234.00 USD |
 
 ## Análisis general
 
@@ -974,13 +974,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-escorih-yaneva-2026-09-11 | , ferrariChampions2026 |
 | atp-kolar-barrena-2026-09-11 | , ferrariChampions2026 |
 | fl1-ren-olm-2026-09-11-total-3pt5 | GoalLineGhost, ferrariChampions2026 |
+| lal-sev-val-2026-09-11-sev | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 13.1% | ⏳ pendiente | — |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 8.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 9.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1007,5 +1010,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ✅ ganada | +4.87 |
 | Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 301.2% | ✅ ganada | +5.29 |
-|  | Dijon Football Côte d'Or vs. Stade Laval | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 18.2% | ⏳ pendiente | — |
