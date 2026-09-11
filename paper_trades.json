@@ -128631,8 +128631,8 @@
     "title": "Seville: Facundo Acosta vs Sebastian Ofner",
     "outcome": "Facundo Acosta",
     "side": "BUY",
-    "whale_usd": 5508.160295000001,
-    "whale_pct": 3.539,
+    "whale_usd": 6693.198166,
+    "whale_pct": 4.301,
     "whale_value_at_open": 155636.8616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -128643,8 +128643,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789146947.2982743,
-    "fills": 2
+    "last_fill_at": 1789147526.7530665,
+    "fills": 3
   },
   {
     "timestamp": 1789146969,
