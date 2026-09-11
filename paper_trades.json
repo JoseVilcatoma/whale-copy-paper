@@ -129143,8 +129143,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 12290.6754,
-    "whale_pct": 14.405,
+    "whale_usd": 16017.7868,
+    "whale_pct": 18.773,
     "whale_value_at_open": 85324.8141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129155,8 +129155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789163085.9745612,
-    "fills": 2
+    "last_fill_at": 1789163989.4456685,
+    "fills": 3
   },
   {
     "timestamp": 1789162199,
@@ -129191,8 +129191,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 3137.0001999999995,
-    "whale_pct": 3.248,
+    "whale_usd": 4348.672,
+    "whale_pct": 4.503,
     "whale_value_at_open": 96580.0449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -129203,8 +129203,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789163088.5469394,
-    "fills": 2
+    "last_fill_at": 1789163993.6904092,
+    "fills": 3
   },
   {
     "timestamp": 1789162352,
