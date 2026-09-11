@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:29:30 (hora de Perú)
+Actualizado: 2026-09-10 19:31:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 19:29:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $179.60 en 36 posiciones abiertas (disponible para nuevas apuestas: $59.44)
+**Capital comprometido ahora mismo:** $184.60 en 37 posiciones abiertas (disponible para nuevas apuestas: $54.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 11 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 12 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -964,6 +964,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CS Cienciano (-2.5) | Montevideo City Torque (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -993,4 +994,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 58% | 5.00 | 3.9% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 50% | 5.00 | 6.1% | ⏳ pendiente | — |

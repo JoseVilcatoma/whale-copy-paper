@@ -125481,5 +125481,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789086448.115827,
     "fills": 1
+  },
+  {
+    "timestamp": 1789086599,
+    "timestamp_added": 1789086599.619648,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lib-ind1-fla-2026-09-10-draw",
+    "title": "Will Independiente del Valle vs. CR Flamengo end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 913.7500000000001,
+    "whale_pct": 0.691,
+    "whale_value_at_open": 132245.5619,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789086599.6196594,
+    "fills": 1
   }
 ]
