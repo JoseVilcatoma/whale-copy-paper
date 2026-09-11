@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.68961512115428,
+  "bankroll": 243.836254296412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25535,6 +25535,11 @@
       "timestamp": 1789124673.2546272,
       "bankroll": 243.69,
       "event": "won:  \u2014 Counter-Strike: FURIA vs G2 - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789125613.288313,
+      "bankroll": 243.84,
+      "event": "won: Flaznorp \u2014 M15 Monastir: Hazem Naw vs Matthew Carroll"
     }
   ]
 }

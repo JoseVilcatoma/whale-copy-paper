@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 06:18:08 (hora de Perú)
+Actualizado: 2026-09-11 06:20:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $243.69
-**Retorno acumulado:** -51.26%
+**Bankroll actual:** $243.84
+**Retorno acumulado:** -51.23%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 06:18:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $242.96 en 49 posiciones abiertas (disponible para nuevas apuestas: $0.73)
+**Capital comprometido ahora mismo:** $237.96 en 48 posiciones abiertas (disponible para nuevas apuestas: $5.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Flaznorp | 106 | 40 | 5 | -14.84 USD |
+| Flaznorp | 107 | 40 | 4 | -14.69 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -155,13 +155,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4896
-- **Aciertos:** 3082 (62.9%)
+- **Apuestas resueltas:** 4897
+- **Aciertos:** 3083 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,437.19
+- **Total apostado (suma de stakes):** $24,442.19
 - **ROI sobre lo apostado:** -1.56%
-- **Comisiones pagadas (taker fee):** $454.54 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $454.55 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2509 | 50.2% | 50.1% | +0.2 pp |
 | 60-79% | 1470 | 68.4% | 67.8% | +0.7 pp |
 | 80-94% | 652 | 85.7% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -977,12 +977,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Istanbul 3: Francesco Maestrelli vs Maks | Francesco Maestrelli (BUY) | 46% | 4.83 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Maks | Maks Kasnikowski (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 55.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 77.9% | ⏳ pendiente | — |
 | vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
 | Flaznorp | Will Kashiwa Reysol win on 2026-09-11? | Yes (BUY) | 58% | 4.91 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ✅ ganada | +0.84 |
 | mmklop | Counter-Strike: paiN vs ShindeN (BO3) -  | paiN (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
