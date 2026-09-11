@@ -1,5 +1,5 @@
 {
-  "bankroll": 263.69750449829894,
+  "bankroll": 264.9746184223496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25760,6 +25760,11 @@
       "timestamp": 1789149299.2955363,
       "bankroll": 263.7,
       "event": "lost: GoalLineGhost \u2014 FK Buxoro vs. Navbahor: O/U 3.5"
+    },
+    {
+      "timestamp": 1789150224.0335505,
+      "bankroll": 264.97,
+      "event": "won: GoalLineGhost \u2014 Will Ratchaburi FC vs. Bangkok United FC end in a draw?"
     }
   ]
 }
