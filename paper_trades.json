@@ -127655,8 +127655,8 @@
     "title": "Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle",
     "outcome": "Rositsa Dencheva",
     "side": "BUY",
-    "whale_usd": 6864.5844449999995,
-    "whale_pct": 3.107,
+    "whale_usd": 11053.969061,
+    "whale_pct": 5.003,
     "whale_value_at_open": 220965.7247,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -127667,8 +127667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789128355.2062063,
-    "fills": 1
+    "last_fill_at": 1789130589.1716537,
+    "fills": 2
   },
   {
     "timestamp": 1789128617,
@@ -127958,6 +127958,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789130446.180765,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789130561,
+    "timestamp_added": 1789130562.7125952,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "fl1-ren-olm-2026-09-11-total-3pt5",
+    "title": "Stade Rennais FC 1901 vs. Olympique de Marseille: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1299.7223000000001,
+    "whale_pct": 0.784,
+    "whale_value_at_open": 165799.8841,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789130562.7126074,
     "fills": 1
   }
 ]
