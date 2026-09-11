@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 17:49:42 (hora de Perú)
+Actualizado: 2026-09-11 17:51:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $278.18
@@ -984,7 +984,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs 1WIN (+1.5) | 1WIN (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 1WIN vs B8 (BO3) - PGL M | 1WIN (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ⏳ pendiente | — |
-| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 3.7% | ⏳ pendiente | — |
+| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 5.0% | ⏳ pendiente | — |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 9.7% | ⏳ pendiente | — |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
