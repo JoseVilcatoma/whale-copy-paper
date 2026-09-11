@@ -125216,8 +125216,8 @@
     "title": "Pittsburgh Pirates vs. Chicago White Sox",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 3231.9976,
-    "whale_pct": 2.437,
+    "whale_usd": 4866.9952,
+    "whale_pct": 3.67,
     "whale_value_at_open": 132600.5154,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -125230,8 +125230,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789083865.4965386,
-    "fills": 1
+    "last_fill_at": 1789086711.9546497,
+    "fills": 2
   },
   {
     "timestamp": 1789083875,
