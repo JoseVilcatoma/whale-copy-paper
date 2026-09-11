@@ -125635,8 +125635,8 @@
     "title": "Spread: Rams (-3.5)",
     "outcome": "49ers",
     "side": "BUY",
-    "whale_usd": 1665.9984,
-    "whale_pct": 0.936,
+    "whale_usd": 2770.7024,
+    "whale_pct": 1.557,
     "whale_value_at_open": 177962.3357,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -125647,8 +125647,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789089077.6167111,
-    "fills": 1
+    "last_fill_at": 1789089557.7863073,
+    "fills": 2
   },
   {
     "timestamp": 1789089199,

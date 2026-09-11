@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 20:19:12 (hora de Perú)
+Actualizado: 2026-09-10 20:21:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $241.21
@@ -965,7 +965,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 42.5 | Over (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Londrina EC win on 2026-09-10? | No (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
