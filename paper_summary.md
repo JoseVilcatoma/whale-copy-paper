@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 15:58:12 (hora de Perú)
+Actualizado: 2026-09-11 16:00:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $276.00
-**Retorno acumulado:** -44.80%
+**Bankroll actual:** $270.82
+**Retorno acumulado:** -45.84%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 15:58:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $228.75 en 46 posiciones abiertas (disponible para nuevas apuestas: $47.25)
+**Capital comprometido ahora mismo:** $163.75 en 33 posiciones abiertas (disponible para nuevas apuestas: $107.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,13 +36,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 5 | 0 | 1 | +23.93 USD |
 |  | 39 | 30 | 0 | +23.01 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 2 | +18.45 USD |
-| GoalLineGhost | 56 | 19 | 10 | +18.21 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 3 | +18.45 USD |
+| GoalLineGhost | 60 | 21 | 4 | +16.27 USD |
 | ExplosiveNinja | 34 | 20 | 0 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| ripley86alien | 3 | 0 | 0 | +11.00 USD |
 | pleaseplease123 | 26 | 21 | 1 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -55,7 +56,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| ripley86alien | 2 | 0 | 1 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | quavoo | 32 | 18 | 0 | +4.68 USD |
 | Jsram | 5 | 2 | 0 | +4.50 USD |
@@ -129,19 +129,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| Flaznorp | 110 | 41 | 0 | -9.29 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 108 | 40 | 3 | -11.24 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Zzzz87 | 2 | 4 | 1 | -13.91 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -150,19 +150,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 756 | 468 | 12 | -237.37 USD |
+|  | 114 | 81 | 4 | -135.51 USD |
+| ferrariChampions2026 | 756 | 469 | 11 | -242.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4962
-- **Aciertos:** 3127 (63.0%)
+- **Apuestas resueltas:** 4976
+- **Aciertos:** 3135 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,759.23
-- **ROI sobre lo apostado:** -1.41%
-- **Comisiones pagadas (taker fee):** $460.72 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,829.23
+- **ROI sobre lo apostado:** -1.42%
+- **Comisiones pagadas (taker fee):** $462.15 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2549 | 50.4% | 50.1% | +0.4 pp |
-| 60-79% | 1481 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 664 | 86.0% | 86.5% | -0.5 pp |
+| 40-59% | 2558 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 1484 | 68.3% | 67.8% | +0.5 pp |
+| 80-94% | 666 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -981,6 +981,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FOKUS (-1.5) vs Virtus.pro | Virtus.pro (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will SC Freiburg win on 2026-09-12? | No (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ⏳ pendiente | — |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: | Under (BUY) | 50% | 5.00 | 177.6% | ⏳ pendiente | — |
@@ -993,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ⏳ pendiente | — |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ⏳ pendiente | — |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 11.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
@@ -1010,4 +1011,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 43.1% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 10.7% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: paiN (-1.5) vs ShindeN (+1 | ShindeN (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
-| ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |

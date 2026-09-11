@@ -1,5 +1,5 @@
 {
-  "bankroll": 275.99740548014296,
+  "bankroll": 270.82226061083054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25865,6 +25865,76 @@
       "timestamp": 1789160101.7513015,
       "bankroll": 276.0,
       "event": "won: GoalLineGhost \u2014 Spread: FC Schalke 04 (-2.5)"
+    },
+    {
+      "timestamp": 1789160405.0527277,
+      "bankroll": 270.91,
+      "event": "lost: Zzzz87 \u2014 Stade Rennais FC 1901 vs. Olympique de Marseille: Both Teams to Score"
+    },
+    {
+      "timestamp": 1789160405.7087145,
+      "bankroll": 275.99,
+      "event": "won:  \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.0599034,
+      "bankroll": 277.77,
+      "event": "won: GoalLineGhost \u2014 Will Olympique de Marseille win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.1600313,
+      "bankroll": 282.64,
+      "event": "won: GoalLineGhost \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.6633606,
+      "bankroll": 277.53,
+      "event": "lost:  \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.7634544,
+      "bankroll": 282.82,
+      "event": "won: Flaznorp \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.8635798,
+      "bankroll": 277.7,
+      "event": "lost: GoalLineGhost \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160406.9637194,
+      "bankroll": 272.59,
+      "event": "lost: Flaznorp \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160407.3842568,
+      "bankroll": 274.37,
+      "event": "won: Flaznorp \u2014 Will Olympique de Marseille win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789160407.702416,
+      "bankroll": 274.9,
+      "event": "won: GoalLineGhost \u2014 Spread: Olympique de Marseille (-1.5)"
+    },
+    {
+      "timestamp": 1789160410.021674,
+      "bankroll": 276.02,
+      "event": "won: GoalLineGhost \u2014 Venezia FC vs. ACF Fiorentina: O/U 1.5"
+    },
+    {
+      "timestamp": 1789160410.3454177,
+      "bankroll": 270.88,
+      "event": "lost: ferrariChampions2026 \u2014 Stade Rennais FC 1901 vs. Olympique de Marseille: O/U 3.5"
+    },
+    {
+      "timestamp": 1789160411.0776207,
+      "bankroll": 265.75,
+      "event": "lost: GoalLineGhost \u2014 Stade Rennais FC 1901 vs. Olympique de Marseille: O/U 3.5"
+    },
+    {
+      "timestamp": 1789160412.5474956,
+      "bankroll": 270.82,
+      "event": "won: ripley86alien \u2014 Will Stade Rennais FC 1901 win on 2026-09-11?"
     }
   ]
 }
