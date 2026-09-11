@@ -128069,8 +128069,8 @@
     "title": "Spread: Missouri (-5.5)",
     "outcome": "Missouri",
     "side": "BUY",
-    "whale_usd": 4929.135399999999,
-    "whale_pct": 5.558,
+    "whale_usd": 10065.3154,
+    "whale_pct": 11.35,
     "whale_value_at_open": 88677.6359,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -128081,8 +128081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789131541.0307837,
-    "fills": 1
+    "last_fill_at": 1789132254.0628896,
+    "fills": 2
   },
   {
     "timestamp": 1789131743,
