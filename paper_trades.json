@@ -124636,8 +124636,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -124756,8 +124756,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -125223,8 +125223,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -125472,8 +125472,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.1,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -125611,8 +125611,8 @@
     "title": "49ers vs. Rams",
     "outcome": "49ers",
     "side": "BUY",
-    "whale_usd": 58061.4202,
-    "whale_pct": 35.689,
+    "whale_usd": 67889.4202,
+    "whale_pct": 41.73,
     "whale_value_at_open": 162687.0279,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -125623,8 +125623,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789093835.898674,
-    "fills": 10
+    "last_fill_at": 1789093901.798908,
+    "fills": 11
   },
   {
     "timestamp": 1789089077,

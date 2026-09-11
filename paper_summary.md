@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 21:31:28 (hora de Perú)
+Actualizado: 2026-09-10 21:33:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.50
-**Retorno acumulado:** -52.70%
+**Bankroll actual:** $234.23
+**Retorno acumulado:** -53.15%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 21:31:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $224.60 en 45 posiciones abiertas (disponible para nuevas apuestas: $11.90)
+**Capital comprometido ahora mismo:** $204.60 en 41 posiciones abiertas (disponible para nuevas apuestas: $29.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 70 | 45 | 12 | +45.60 USD |
+| wr0ngw4yb3tt0r | 71 | 46 | 10 | +43.58 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 104 | 74 | 8 | -133.26 USD |
-| ferrariChampions2026 | 725 | 453 | 8 | -250.40 USD |
+| ferrariChampions2026 | 726 | 454 | 6 | -250.64 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4829
-- **Aciertos:** 3039 (62.9%)
+- **Apuestas resueltas:** 4833
+- **Aciertos:** 3041 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,104.60
-- **ROI sobre lo apostado:** -1.61%
-- **Comisiones pagadas (taker fee):** $448.27 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,124.60
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $448.73 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2475 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1450 | 68.3% | 67.8% | +0.6 pp |
+| 40-59% | 2478 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1451 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 639 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
@@ -971,13 +971,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | 49ers (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 35.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Rams | 49ers (BUY) | 41% | 5.00 | 41.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 42.5 | Over (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Londrina EC win on 2026-09-10? | No (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 21.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ✅ ganada | +3.10 |
 | GoalLineGhost | Independiente del Valle vs. CR Flamengo: | Over (BUY) | 91% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CS Cienciano (-2.5) | Montevideo City Torque (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Will CR Flamengo win on 2026-09-10? | No (BUY) | 63% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | 49ers vs. Rams: O/U 46.5 | Over (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | M15 Wuning: Jaesung Choe vs Yuta Tomida | Yuta Tomida (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | LoL: Winthrop University vs Maryville Un | Winthrop University (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 3.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 3.7% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 |  | Burgos CF vs. AD Ceuta FC: O/U 8.5 Total | Under (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |

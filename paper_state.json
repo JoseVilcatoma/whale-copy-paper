@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.49751904562424,
+  "bankroll": 234.23224035709964,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25200,6 +25200,26 @@
       "timestamp": 1789092144.6748588,
       "bankroll": 236.5,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Colorado Rockies vs. New York Yankees: O/U 9.5"
+    },
+    {
+      "timestamp": 1789094006.696591,
+      "bankroll": 231.38,
+      "event": "lost: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1789094007.207885,
+      "bankroll": 236.25,
+      "event": "won: ferrariChampions2026 \u2014 Pittsburgh Pirates vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1789094009.3416958,
+      "bankroll": 231.13,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1789094010.4999545,
+      "bankroll": 234.23,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Chicago White Sox"
     }
   ]
 }
