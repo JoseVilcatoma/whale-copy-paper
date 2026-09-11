@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:22:58 (hora de Perú)
+Actualizado: 2026-09-11 04:25:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.13
@@ -972,7 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 31.6% | ⏳ pendiente | — |
+| vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
