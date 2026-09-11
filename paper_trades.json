@@ -129143,8 +129143,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 18697.3462,
-    "whale_pct": 21.913,
+    "whale_usd": 20616.1098,
+    "whale_pct": 24.162,
     "whale_value_at_open": 85324.8141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129155,8 +129155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789164884.5673704,
-    "fills": 4
+    "last_fill_at": 1789165789.646169,
+    "fills": 5
   },
   {
     "timestamp": 1789162199,
@@ -129167,8 +129167,8 @@
     "title": "Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
     "outcome": "ShindeN",
     "side": "BUY",
-    "whale_usd": 985.0516,
-    "whale_pct": 1.154,
+    "whale_usd": 3518.7411999999995,
+    "whale_pct": 4.124,
     "whale_value_at_open": 85324.8141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -129179,8 +129179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789162199.875559,
-    "fills": 1
+    "last_fill_at": 1789165801.1755419,
+    "fills": 2
   },
   {
     "timestamp": 1789162319,
@@ -129324,6 +129324,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789164896.2530332,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789165796,
+    "timestamp_added": 1789165796.7941177,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-1win-b8-2026-09-12-map-handicap-home-1pt5",
+    "title": "Map Handicap: B8 (-1.5) vs 1WIN (+1.5)",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 804.0821,
+    "whale_pct": 0.642,
+    "whale_value_at_open": 125170.6184,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789165796.7941282,
     "fills": 1
   }
 ]

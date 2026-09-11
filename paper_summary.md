@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 17:28:53 (hora de Perú)
+Actualizado: 2026-09-11 17:30:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $273.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 17:28:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $114.33)
+**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $109.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 39 | 30 | 0 | +23.01 USD |
 | GoalLineGhost | 63 | 22 | 0 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 7 | +18.45 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 8 | +18.45 USD |
 | ExplosiveNinja | 34 | 20 | 0 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -981,14 +981,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs 1WIN (+1.5) | 1WIN (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 1WIN vs B8 (BO3) - PGL M | 1WIN (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ⏳ pendiente | — |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 3.7% | ⏳ pendiente | — |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 21.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 24.2% | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 51% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FOKUS (-1.5) vs Virtus.pro | Virtus.pro (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will SC Freiburg win on 2026-09-12? | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1010,4 +1011,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 3.9% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Facundo Acosta (BUY) | 83% | 5.00 | 4.3% | ✅ ganada | +0.98 |
-| wr0ngw4yb3tt0r | Will Girona FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
