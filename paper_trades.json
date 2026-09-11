@@ -127801,8 +127801,8 @@
     "title": "Genoa: Pedro Martinez vs Valerio Aboian",
     "outcome": "Pedro Martinez",
     "side": "BUY",
-    "whale_usd": 9124.070800000001,
-    "whale_pct": 4.729,
+    "whale_usd": 10217.426800000001,
+    "whale_pct": 5.296,
     "whale_value_at_open": 192937.1212,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -127813,8 +127813,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789129387.5438821,
-    "fills": 2
+    "last_fill_at": 1789130099.6139026,
+    "fills": 3
   },
   {
     "timestamp": 1789129397,
@@ -127886,6 +127886,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789129715.8288336,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789130138,
+    "timestamp_added": 1789130138.3075426,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kolar-barrena-2026-09-11",
+    "title": "Tulln: Zdenek Kolar vs Alex Barrena",
+    "outcome": "Zdenek Kolar",
+    "side": "BUY",
+    "whale_usd": 1015.0500000000001,
+    "whale_pct": 0.616,
+    "whale_value_at_open": 164837.9727,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789130138.3075535,
     "fills": 1
   }
 ]
