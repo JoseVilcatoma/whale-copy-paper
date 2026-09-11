@@ -1,5 +1,5 @@
 {
-  "bankroll": 244.8815008875717,
+  "bankroll": 250.2282602469317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25310,6 +25310,41 @@
       "timestamp": 1789100090.8160646,
       "bankroll": 244.88,
       "event": "lost: GoalLineGhost \u2014 Will Londrina EC win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789101148.0490415,
+      "bankroll": 249.55,
+      "event": "won:  \u2014 CS Cienciano vs. Montevideo City Torque: O/U 2.5"
+    },
+    {
+      "timestamp": 1789101148.300932,
+      "bankroll": 256.6,
+      "event": "won: GoalLineGhost \u2014 Will CR Flamengo win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789101149.4527893,
+      "bankroll": 251.48,
+      "event": "lost: GoalLineGhost \u2014 CS Cienciano vs. Montevideo City Torque: O/U 2.5"
+    },
+    {
+      "timestamp": 1789101149.6530704,
+      "bankroll": 246.39,
+      "event": "lost:  \u2014 Will CR Flamengo win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789101150.002802,
+      "bankroll": 246.86,
+      "event": "won: GoalLineGhost \u2014 Independiente del Valle vs. CR Flamengo: O/U 0.5"
+    },
+    {
+      "timestamp": 1789101209.41898,
+      "bankroll": 248.06,
+      "event": "won: GoalLineGhost \u2014 Spread: CS Cienciano (-2.5)"
+    },
+    {
+      "timestamp": 1789101209.668836,
+      "bankroll": 250.23,
+      "event": "won: GoalLineGhost \u2014 Will Independiente del Valle vs. CR Flamengo end in a draw?"
     }
   ]
 }
