@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.836254296412,
+  "bankroll": 251.09194086357618,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25540,6 +25540,16 @@
       "timestamp": 1789125613.288313,
       "bankroll": 243.84,
       "event": "won: Flaznorp \u2014 M15 Monastir: Hazem Naw vs Matthew Carroll"
+    },
+    {
+      "timestamp": 1789128027.7810862,
+      "bankroll": 246.22,
+      "event": "won: ferrariChampions2026 \u2014 Map Handicap: FURIA (-1.5) vs G2 (+1.5)"
+    },
+    {
+      "timestamp": 1789128028.2009504,
+      "bankroll": 251.09,
+      "event": "won: ferrariChampions2026 \u2014 Tulln: Mika Brunold vs Gustavo Heide"
     }
   ]
 }

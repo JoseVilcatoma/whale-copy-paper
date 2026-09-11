@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 06:58:26 (hora de Perú)
+Actualizado: 2026-09-11 07:00:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $243.84
-**Retorno acumulado:** -51.23%
+**Bankroll actual:** $251.09
+**Retorno acumulado:** -49.78%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 06:58:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $242.96 en 49 posiciones abiertas (disponible para nuevas apuestas: $0.88)
+**Capital comprometido ahora mismo:** $232.96 en 47 posiciones abiertas (disponible para nuevas apuestas: $18.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 110 | 79 | 6 | -143.97 USD |
-| ferrariChampions2026 | 738 | 460 | 6 | -246.79 USD |
+| ferrariChampions2026 | 740 | 460 | 4 | -239.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4897
-- **Aciertos:** 3083 (63.0%)
+- **Apuestas resueltas:** 4899
+- **Aciertos:** 3085 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,442.19
-- **ROI sobre lo apostado:** -1.56%
-- **Comisiones pagadas (taker fee):** $454.55 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,452.19
+- **ROI sobre lo apostado:** -1.53%
+- **Comisiones pagadas (taker fee):** $454.76 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2509 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1470 | 68.4% | 67.8% | +0.7 pp |
+| 40-59% | 2510 | 50.2% | 50.1% | +0.2 pp |
+| 60-79% | 1471 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 652 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
 
@@ -978,9 +978,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Istanbul 3: Francesco Maestrelli vs Maks | Francesco Maestrelli (BUY) | 46% | 4.83 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Maks | Maks Kasnikowski (BUY) | 56% | 5.00 | 4.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 85.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 85.7% | ✅ ganada | +4.88 |
 | vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ✅ ganada | +2.38 |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
