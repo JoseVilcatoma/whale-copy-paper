@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 08:42:04 (hora de Perú)
+Actualizado: 2026-09-11 08:44:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $258.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 08:42:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $249.61 en 50 posiciones abiertas (disponible para nuevas apuestas: $9.02)
+**Capital comprometido ahora mismo:** $254.61 en 51 posiciones abiertas (disponible para nuevas apuestas: $4.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 111 | 80 | 7 | -146.91 USD |
+|  | 111 | 80 | 8 | -146.91 USD |
 | ferrariChampions2026 | 745 | 461 | 10 | -235.50 USD |
 
 ## Análisis general
@@ -978,6 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 301.2% | ⏳ pendiente | — |
@@ -1007,4 +1008,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ❌ perdida | -5.09 |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 |  | Istanbul 3: Francesco Maestrelli vs Maks | Francesco Maestrelli (BUY) | 46% | 4.83 | 7.7% | ❌ perdida | -4.96 |
-| ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Maks | Maks Kasnikowski (BUY) | 56% | 5.00 | 4.6% | ✅ ganada | +3.82 |
