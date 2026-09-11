@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 04:10:41 (hora de Perú)
+Actualizado: 2026-09-11 04:12:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $234.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 04:10:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $217.90 en 44 posiciones abiertas (disponible para nuevas apuestas: $16.70)
+**Capital comprometido ahora mismo:** $232.90 en 47 posiciones abiertas (disponible para nuevas apuestas: $1.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 46 | 14 | 16 | +29.14 USD |
+| GoalLineGhost | 46 | 14 | 18 | +29.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Flaznorp | 106 | 40 | 4 | -14.84 USD |
+| Flaznorp | 106 | 40 | 5 | -14.84 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -972,6 +972,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Kashiwa Reysol win on 2026-09-11? | Yes (BUY) | 58% | 4.91 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: paiN vs ShindeN (BO3) -  | paiN (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -999,6 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Iva Marinkovic (BUY) | 88% | 5.00 | 0.2% | ❌ perdida | -5.03 |
 | mmklop | Counter-Strike: MIBR vs Alliance - Map 1 | MIBR (BUY) | 54% | 5.00 | 31.2% | ✅ ganada | +4.14 |
-| GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Under (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: MIBR vs Alliance (BO3) - | MIBR (BUY) | 57% | 5.00 | 0.8% | ✅ ganada | +3.66 |
-| GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
