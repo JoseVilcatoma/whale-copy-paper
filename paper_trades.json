@@ -128803,8 +128803,8 @@
     "title": "Will Sevilla FC win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 32999.9977,
-    "whale_pct": 13.063,
+    "whale_usd": 157061.99340000004,
+    "whale_pct": 62.172,
     "whale_value_at_open": 252625.9338,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -128815,8 +128815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789151205.4973853,
-    "fills": 2
+    "last_fill_at": 1789152825.2963202,
+    "fills": 4
   },
   {
     "timestamp": 1789151204,
@@ -128827,8 +128827,8 @@
     "title": "Will Sevilla FC win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 990.104,
-    "whale_pct": 0.54,
+    "whale_usd": 2131.268,
+    "whale_pct": 1.162,
     "whale_value_at_open": 183401.689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -128841,8 +128841,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789151204.9912508,
-    "fills": 1
+    "last_fill_at": 1789152824.8587177,
+    "fills": 2
   },
   {
     "timestamp": 1789151774,

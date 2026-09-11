@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 13:52:40 (hora de Perú)
+Actualizado: 2026-09-11 13:54:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.91
@@ -981,8 +981,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 13.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 62.2% | ⏳ pendiente | — |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 9.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
