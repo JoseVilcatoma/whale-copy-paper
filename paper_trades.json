@@ -126439,8 +126439,8 @@
     "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "1WIN",
     "side": "BUY",
-    "whale_usd": 23557.213400000004,
-    "whale_pct": 35.349,
+    "whale_usd": 25658.668700000006,
+    "whale_pct": 38.502,
     "whale_value_at_open": 66642.4194,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -126451,8 +126451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789117209.1464458,
-    "fills": 9
+    "last_fill_at": 1789119022.3175576,
+    "fills": 10
   },
   {
     "timestamp": 1789105332,
