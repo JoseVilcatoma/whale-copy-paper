@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 08:17:29 (hora de Perú)
+Actualizado: 2026-09-11 08:19:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.61
@@ -978,7 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ⏳ pendiente | — |
-| Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 231.5% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 267.0% | ⏳ pendiente | — |
 |  | Dijon Football Côte d'Or vs. Stade Laval | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 11.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -999,7 +999,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 9.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Istanbul 3: Yanki Erel vs Jay Dylan Frie | Jay Dylan Friend (BUY) | 91% | 5.00 | 1.0% | ✅ ganada | +0.47 |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 1.5 | Under (BUY) | 62% | 5.00 | 0.6% | ❌ perdida | -5.09 |
