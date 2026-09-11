@@ -1,5 +1,5 @@
 {
-  "bankroll": 279.2301236697683,
+  "bankroll": 274.1481236697683,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25995,6 +25995,11 @@
       "timestamp": 1789167224.0159214,
       "bankroll": 279.23,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Alexander Zverev vs Karen Khachanov"
+    },
+    {
+      "timestamp": 1789167537.4982448,
+      "bankroll": 274.15,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: West Ham United FC (-1.5)"
     }
   ]
 }
