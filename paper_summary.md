@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 19:15:11 (hora de Perú)
+Actualizado: 2026-09-10 19:17:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $242.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 19:15:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $169.60 en 34 posiciones abiertas (disponible para nuevas apuestas: $73.15)
+**Capital comprometido ahora mismo:** $179.60 en 36 posiciones abiertas (disponible para nuevas apuestas: $63.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
-| GoalLineGhost | 36 | 11 | 8 | +16.37 USD |
+| GoalLineGhost | 36 | 11 | 9 | +16.37 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 104 | 73 | 7 | -128.17 USD |
+|  | 104 | 73 | 8 | -128.17 USD |
 | ferrariChampions2026 | 722 | 451 | 13 | -254.35 USD |
 
 ## Análisis general
@@ -956,6 +956,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-waltert-papamic-2026-09-10 | , ferrariChampions2026 |
 | atp-hemery-lajovic-2026-09-10 | , ferrariChampions2026 |
 | mlb-pit-cws-2026-09-10 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| lib-ind1-fla-2026-09-10-fla | , GoalLineGhost |
 | wta-lee-jeanjea-2026-09-10 | , ferrariChampions2026 |
 | mlb-col-nyy-2026-09-10 | , ferrariChampions2026, wr0ngw4yb3tt0r |
 
@@ -963,6 +964,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will CR Flamengo win on 2026-09-10? | No (BUY) | 63% | 5.00 | 3.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will CS Cienciano vs. Montevideo City To | No (BUY) | 80% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Colorado Rockies vs. New York Yankees | New York Yankees (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
 | nigiri99 | 49ers vs. Rams: O/U 46.5 | Over (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -982,7 +985,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Vila Nova FC vs. Goiás EC end in a  | No (BUY) | 63% | 5.00 | 5.0% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Under (BUY) | 82% | 5.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Under (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
-| GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 3.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Vila Nova FC win on 2026-09-10? | Yes (BUY) | 45% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Carol Young Suh Lee vs Leo | Leolia Jeanjean (BUY) | 43% | 5.00 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
 | wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners | Texas Rangers (BUY) | 74% | 5.00 | 24.2% | ❌ perdida | -5.07 |
@@ -991,5 +994,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Barranquilla: Carol Young Suh Lee vs Leo | Carol Young Suh Lee (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Barranquilla: Elsa Jacquemot vs Anastasi | Anastasia Tikhonova (BUY) | 58% | 5.00 | 2.3% | ❌ perdida | -5.11 |
 | GoalLineGhost | Will CR Flamengo win on 2026-09-10? | Yes (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Texas Rangers vs. Seattle Mariners: O/U  | Under (BUY) | 52% | 5.00 | 3.2% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 51% | 5.00 | 9.3% | ⏳ pendiente | — |

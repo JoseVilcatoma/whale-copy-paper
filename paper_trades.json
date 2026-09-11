@@ -124876,8 +124876,8 @@
     "title": "Will Vila Nova FC win on 2026-09-10?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3180.1834,
-    "whale_pct": 3.224,
+    "whale_usd": 5061.1856,
+    "whale_pct": 5.131,
     "whale_value_at_open": 98633.6334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -124888,8 +124888,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789085193.036569,
-    "fills": 3
+    "last_fill_at": 1789085735.5650108,
+    "fills": 4
   },
   {
     "timestamp": 1789080052,
@@ -125356,6 +125356,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789085672.5322483,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789085731,
+    "timestamp_added": 1789085732.3426113,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sud-cie-tor-2026-09-10-draw",
+    "title": "Will CS Cienciano vs. Montevideo City Torque end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1077.8196,
+    "whale_pct": 0.869,
+    "whale_value_at_open": 123977.083,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789085732.3426225,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789085798,
+    "timestamp_added": 1789085798.8752642,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lib-ind1-fla-2026-09-10-fla",
+    "title": "Will CR Flamengo win on 2026-09-10?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5372.163600000001,
+    "whale_pct": 3.641,
+    "whale_value_at_open": 147535.6147,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789085798.8752756,
     "fills": 1
   }
 ]
