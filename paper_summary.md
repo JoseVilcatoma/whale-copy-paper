@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 12:47:10 (hora de Perú)
+Actualizado: 2026-09-11 12:49:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.77
@@ -982,12 +982,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Facundo Acosta (BUY) | 83% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Girona FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Sebastian Ofner (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
