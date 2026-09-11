@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.65659025354304,
+  "bankroll": 232.90370417759368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25485,6 +25485,16 @@
       "timestamp": 1789115863.6586018,
       "bankroll": 236.66,
       "event": "won: mmklop \u2014 Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789116236.4326317,
+      "bankroll": 231.63,
+      "event": "lost: Flaznorp \u2014 W15 Hurghada: Wozuko Mdlulwa vs Iva Marinkovic"
+    },
+    {
+      "timestamp": 1789116237.3338978,
+      "bankroll": 232.9,
+      "event": "won: Flaznorp \u2014 W15 Hurghada: Wozuko Mdlulwa vs Iva Marinkovic"
     }
   ]
 }
