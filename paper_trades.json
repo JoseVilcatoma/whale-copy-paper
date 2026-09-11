@@ -128059,5 +128059,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789131066.4333982,
     "fills": 1
+  },
+  {
+    "timestamp": 1789131540,
+    "timestamp_added": 1789131541.0307686,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-missr-kan-2026-09-11-spread-away-5pt5",
+    "title": "Spread: Missouri (-5.5)",
+    "outcome": "Missouri",
+    "side": "BUY",
+    "whale_usd": 4929.135399999999,
+    "whale_pct": 5.558,
+    "whale_value_at_open": 88677.6359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789131541.0307837,
+    "fills": 1
   }
 ]
