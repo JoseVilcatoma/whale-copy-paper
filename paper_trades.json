@@ -127093,8 +127093,8 @@
     "title": "Shanghai: Ji-Sung Nam vs Luca Castelnuovo",
     "outcome": "Luca Castelnuovo",
     "side": "BUY",
-    "whale_usd": 7594.626889000001,
-    "whale_pct": 10.161,
+    "whale_usd": 12813.912868000001,
+    "whale_pct": 17.144,
     "whale_value_at_open": 74743.7182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -127105,8 +127105,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789113295.6295757,
-    "fills": 2
+    "last_fill_at": 1789114533.9403193,
+    "fills": 3
   },
   {
     "timestamp": 1789113800,

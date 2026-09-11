@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 03:15:12 (hora de Perú)
+Actualizado: 2026-09-11 03:17:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.99
@@ -977,7 +977,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 1 | Over (BUY) | 81% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 - Map 1 Winn | G2 (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 10.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 17.1% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Olympique de Marseille (-1.5) | Stade Rennais FC 1901 (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
