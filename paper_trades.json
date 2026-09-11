@@ -127897,8 +127897,8 @@
     "title": "Tulln: Zdenek Kolar vs Alex Barrena",
     "outcome": "Zdenek Kolar",
     "side": "BUY",
-    "whale_usd": 1015.0500000000001,
-    "whale_pct": 0.616,
+    "whale_usd": 10313.4606,
+    "whale_pct": 6.257,
     "whale_value_at_open": 164837.9727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -127909,8 +127909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789130138.3075535,
-    "fills": 1
+    "last_fill_at": 1789131953.516348,
+    "fills": 4
   },
   {
     "timestamp": 1789130329,
@@ -128133,5 +128133,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789131815.7216094,
     "fills": 1
+  },
+  {
+    "timestamp": 1789131941,
+    "timestamp_added": 1789131941.8557777,
+    "username": "",
+    "wallet": "0x78becf0a4e4f2640380af0c19ad32e2557e6bde0",
+    "slug": "atp-kolar-barrena-2026-09-11",
+    "title": "Tulln: Zdenek Kolar vs Alex Barrena",
+    "outcome": "Alex Barrena",
+    "side": "BUY",
+    "whale_usd": 30785.030899999998,
+    "whale_pct": 49.445,
+    "whale_value_at_open": 62261.5245,
+    "paper_stake_usd": 4.61,
+    "odds_at_bet": 48,
+    "fee_usd": 0.12,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789131969.0297687,
+    "fills": 3
   }
 ]
