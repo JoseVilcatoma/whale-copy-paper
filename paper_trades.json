@@ -123025,8 +123025,8 @@
     "title": "US Open WTA: Coco Gauff vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 12206.147500000001,
-    "whale_pct": 6.695,
+    "whale_usd": 21225.7703,
+    "whale_pct": 11.642,
     "whale_value_at_open": 182323.8692,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -123037,8 +123037,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789095704.0476708,
-    "fills": 3
+    "last_fill_at": 1789095866.088142,
+    "fills": 5
   },
   {
     "timestamp": 1789050395,
