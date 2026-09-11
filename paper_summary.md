@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 15:29:35 (hora de Perú)
+Actualizado: 2026-09-11 15:31:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $274.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 15:29:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $237.12 en 48 posiciones abiertas (disponible para nuevas apuestas: $37.74)
+**Capital comprometido ahora mismo:** $242.12 en 49 posiciones abiertas (disponible para nuevas apuestas: $32.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -103,7 +103,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 1 | 1 | 0 | -2.42 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 0 | -2.62 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 1 | -2.62 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
@@ -980,6 +980,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rice vs. Notre Dame: O/U 54.5 | Over (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Matej Dodig (BUY) | 58% | 3.37 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. New York Yankees | New York Mets (BUY) | 46% | 5.00 | 3.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.3% | ❌ perdida | -2.22 |
@@ -1009,4 +1010,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 7.2% | ❌ perdida | -5.14 |
-| GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ❌ perdida | -4.07 |

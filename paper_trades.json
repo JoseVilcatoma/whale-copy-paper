@@ -128939,5 +128939,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789156873.163027,
     "fills": 2
+  },
+  {
+    "timestamp": 1789158638,
+    "timestamp_added": 1789158639.3553026,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-rice-nd-2026-09-12-total-54pt5",
+    "title": "Rice vs. Notre Dame: O/U 54.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1173.913044,
+    "whale_pct": 0.6,
+    "whale_value_at_open": 195782.5505,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789158639.3553152,
+    "fills": 1
   }
 ]
