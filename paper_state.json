@@ -1,5 +1,5 @@
 {
-  "bankroll": 262.51778935325075,
+  "bankroll": 261.3763607818222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25575,6 +25575,16 @@
       "timestamp": 1789128344.330027,
       "bankroll": 262.52,
       "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Yanki Erel vs Jay Dylan Friend"
+    },
+    {
+      "timestamp": 1789128970.9911025,
+      "bankroll": 266.34,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Francesco Maestrelli vs Maks Kasnikowski"
+    },
+    {
+      "timestamp": 1789128971.0913115,
+      "bankroll": 261.38,
+      "event": "lost:  \u2014 Istanbul 3: Francesco Maestrelli vs Maks Kasnikowski"
     }
   ]
 }
