@@ -1,5 +1,5 @@
 {
-  "bankroll": 279.21059007242724,
+  "bankroll": 276.4649349000134,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25835,6 +25835,16 @@
       "timestamp": 1789158876.0280664,
       "bankroll": 279.21,
       "event": "won: ferrariChampions2026 \u2014 Game Handicap: Navi (-1.5) vs GIANTX (+1.5)"
+    },
+    {
+      "timestamp": 1789159914.4704688,
+      "bankroll": 274.1,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa: Matej Dodig vs Enrico Dalla Valle"
+    },
+    {
+      "timestamp": 1789159914.9710224,
+      "bankroll": 276.46,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Matej Dodig vs Enrico Dalla Valle"
     }
   ]
 }
