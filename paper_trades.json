@@ -128243,8 +128243,8 @@
     "title": "Cassis: Titouan Droguet vs Daniil Glinka",
     "outcome": "Daniil Glinka",
     "side": "BUY",
-    "whale_usd": 9762.797283,
-    "whale_pct": 4.277,
+    "whale_usd": 11726.687283,
+    "whale_pct": 5.137,
     "whale_value_at_open": 228275.3977,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -128255,8 +128255,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789137037.4006133,
-    "fills": 7
+    "last_fill_at": 1789137584.8350434,
+    "fills": 9
   },
   {
     "timestamp": 1789136428,
