@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 07:21:31 (hora de Perú)
+Actualizado: 2026-09-11 07:23:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.02
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 07:21:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $74.02)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $59.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,13 +29,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ExplosiveNinja | 33 | 17 | 3 | +26.78 USD |
+| ExplosiveNinja | 33 | 17 | 4 | +26.78 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 37 | 28 | 1 | +21.67 USD |
-| GoalLineGhost | 50 | 17 | 13 | +20.44 USD |
+| GoalLineGhost | 50 | 17 | 14 | +20.44 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 5 | -146.91 USD |
-| ferrariChampions2026 | 742 | 460 | 8 | -235.24 USD |
+| ferrariChampions2026 | 742 | 460 | 9 | -235.24 USD |
 
 ## Análisis general
 
@@ -974,6 +974,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | SV Ried vs. FC Salzburg: O/U 3.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Pedro Martinez vs Valerio Aboian | Pedro Martinez (BUY) | 81% | 5.00 | 4.7% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: 1WIN vs NIP (BO3) - Thun | 1WIN (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1001,6 +1004,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 1 | Over (BUY) | 81% | 5.00 | 0.4% | ✅ ganada | +1.13 |
 |  | Counter-Strike: FURIA vs G2 - Map 1 Winn | G2 (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 |  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 17.1% | ✅ ganada | +1.60 |
-| Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
-| ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 6.7% | ⏳ pendiente | — |
