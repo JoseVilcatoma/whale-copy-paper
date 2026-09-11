@@ -127679,8 +127679,8 @@
     "title": "Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva",
     "outcome": "Elizara Yaneva",
     "side": "BUY",
-    "whale_usd": 5579.04,
-    "whale_pct": 2.286,
+    "whale_usd": 7062.1914,
+    "whale_pct": 2.893,
     "whale_value_at_open": 244100.1677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -127691,8 +127691,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789128617.979555,
-    "fills": 1
+    "last_fill_at": 1789129686.862336,
+    "fills": 2
   },
   {
     "timestamp": 1789129154,
@@ -127862,6 +127862,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789129533.4113774,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789129715,
+    "timestamp_added": 1789129715.8288229,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-wsh-2026-09-11-total-7pt5",
+    "title": "Los Angeles Angels vs. Washington Nationals: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 980.4762,
+    "whale_pct": 0.517,
+    "whale_value_at_open": 189789.7793,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789129715.8288336,
     "fills": 1
   }
 ]
