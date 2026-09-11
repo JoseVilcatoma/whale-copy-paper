@@ -126403,5 +126403,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789103019.9884315,
     "fills": 1
+  },
+  {
+    "timestamp": 1789104734,
+    "timestamp_added": 1789104734.6501222,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "fl1-ren-olm-2026-09-11-ren",
+    "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 776.9979,
+    "whale_pct": 0.718,
+    "whale_value_at_open": 108210.2883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789104734.650133,
+    "fills": 1
   }
 ]
