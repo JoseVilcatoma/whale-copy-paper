@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.61471400952666,
+  "bankroll": 257.71529028071313,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25640,6 +25640,21 @@
       "timestamp": 1789131471.834912,
       "bankroll": 264.61,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Matias Soto vs Vitaliy Sachko"
+    },
+    {
+      "timestamp": 1789133626.1019323,
+      "bankroll": 259.49,
+      "event": "lost: ferrariChampions2026 \u2014 Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva"
+    },
+    {
+      "timestamp": 1789133627.619262,
+      "bankroll": 254.34,
+      "event": "lost:  \u2014 Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva"
+    },
+    {
+      "timestamp": 1789133627.719523,
+      "bankroll": 257.72,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 08:31:50 (hora de Perú)
+Actualizado: 2026-09-11 08:33:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $264.61
-**Retorno acumulado:** -47.08%
+**Bankroll actual:** $257.72
+**Retorno acumulado:** -48.46%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 08:31:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $264.61 en 53 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $249.61 en 50 posiciones abiertas (disponible para nuevas apuestas: $8.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,10 +34,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-|  | 37 | 28 | 3 | +21.67 USD |
 | GoalLineGhost | 50 | 17 | 16 | +20.44 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
+|  | 37 | 29 | 2 | +16.53 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 7 | -146.91 USD |
-| ferrariChampions2026 | 743 | 460 | 13 | -234.65 USD |
+| ferrariChampions2026 | 744 | 461 | 11 | -236.41 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4917
-- **Aciertos:** 3098 (63.0%)
+- **Apuestas resueltas:** 4920
+- **Aciertos:** 3099 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,540.15
-- **ROI sobre lo apostado:** -1.47%
-- **Comisiones pagadas (taker fee):** $456.39 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,555.15
+- **ROI sobre lo apostado:** -1.49%
+- **Comisiones pagadas (taker fee):** $456.76 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2520 | 50.3% | 50.1% | +0.3 pp |
+| 40-59% | 2523 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1474 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 657 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
@@ -978,12 +978,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ⏳ pendiente | — |
-| Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 280.7% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: 1WIN vs Nemiga (BO3) - P | Nemiga (BUY) | 48% | 5.00 | 301.2% | ⏳ pendiente | — |
 |  | Dijon Football Côte d'Or vs. Stade Laval | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 11.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ⏳ pendiente | — |
-|  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
+|  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 1.5 | Over (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -996,7 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ⏳ pendiente | — |
 |  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 11.0% | ⏳ pendiente | — |
