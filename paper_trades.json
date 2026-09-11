@@ -128413,8 +128413,8 @@
     "title": "Genoa: Laslo Djere vs Stefanos Sakellaridis",
     "outcome": "Stefanos Sakellaridis",
     "side": "BUY",
-    "whale_usd": 11599.711356999998,
-    "whale_pct": 6.381,
+    "whale_usd": 16617.796357,
+    "whale_pct": 9.141,
     "whale_value_at_open": 181793.2397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -128425,8 +128425,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789140067.4626145,
-    "fills": 3
+    "last_fill_at": 1789140332.7361708,
+    "fills": 4
   },
   {
     "timestamp": 1789139838,
