@@ -1,5 +1,5 @@
 {
-  "bankroll": 252.81069493415694,
+  "bankroll": 259.57045683891886,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25700,6 +25700,11 @@
       "timestamp": 1789138570.9169078,
       "bankroll": 252.81,
       "event": "won:  \u2014 Tulln: Joao Lucas Da Silva vs Lukas Neumayer"
+    },
+    {
+      "timestamp": 1789139494.2954938,
+      "bankroll": 259.57,
+      "event": "won:  \u2014 Montreux: Clara Burel vs Guiomar Maristany"
     }
   ]
 }
