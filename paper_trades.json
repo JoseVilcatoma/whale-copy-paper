@@ -128877,8 +128877,8 @@
     "title": "Pittsburgh Pirates vs. Chicago Cubs: O/U 10.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 636.9972,
-    "whale_pct": 0.122,
+    "whale_usd": 1654.0572000000002,
+    "whale_pct": 0.315,
     "whale_value_at_open": 524268.0137,
     "paper_stake_usd": 2.16,
     "odds_at_bet": 43,
@@ -128889,7 +128889,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789154807.9841561,
-    "fills": 1
+    "last_fill_at": 1789155390.1350384,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 14:35:56 (hora de Perú)
+Actualizado: 2026-09-11 14:38:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.91
@@ -980,7 +980,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.3% | ⏳ pendiente | — |
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ⏳ pendiente | — |
