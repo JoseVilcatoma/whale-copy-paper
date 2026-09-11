@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 13:11:33 (hora de Perú)
+Actualizado: 2026-09-11 13:13:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 13:11:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.75 en 52 posiciones abiertas (disponible para nuevas apuestas: $6.22)
+**Capital comprometido ahora mismo:** $263.75 en 53 posiciones abiertas (disponible para nuevas apuestas: $1.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 751 | 465 | 16 | -233.81 USD |
+| ferrariChampions2026 | 751 | 465 | 17 | -233.81 USD |
 
 ## Análisis general
 
@@ -979,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1008,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Dijon Football Côte d'Or vs. Stade Laval | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 18.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
