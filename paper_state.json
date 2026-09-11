@@ -1,5 +1,5 @@
 {
-  "bankroll": 264.9746184223496,
+  "bankroll": 260.8077148078917,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25765,6 +25765,16 @@
       "timestamp": 1789150224.0335505,
       "bankroll": 264.97,
       "event": "won: GoalLineGhost \u2014 Will Ratchaburi FC vs. Bangkok United FC end in a draw?"
+    },
+    {
+      "timestamp": 1789150842.7399316,
+      "bankroll": 259.83,
+      "event": "lost: ferrariChampions2026 \u2014 Seville: Facundo Acosta vs Sebastian Ofner"
+    },
+    {
+      "timestamp": 1789150842.940167,
+      "bankroll": 260.81,
+      "event": "won: ferrariChampions2026 \u2014 Seville: Facundo Acosta vs Sebastian Ofner"
     }
   ]
 }
