@@ -1,5 +1,5 @@
 {
-  "bankroll": 274.85791741569864,
+  "bankroll": 279.21059007242724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25825,6 +25825,16 @@
       "timestamp": 1789158564.7225215,
       "bankroll": 274.86,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Chicago Cubs: O/U 10.5"
+    },
+    {
+      "timestamp": 1789158868.619798,
+      "bankroll": 275.84,
+      "event": "won: GoalLineGhost \u2014 Spread: 1. FC N\u00fcrnberg (-1.5)"
+    },
+    {
+      "timestamp": 1789158876.0280664,
+      "bankroll": 279.21,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: Navi (-1.5) vs GIANTX (+1.5)"
     }
   ]
 }
