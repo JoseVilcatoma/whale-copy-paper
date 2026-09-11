@@ -128597,5 +128597,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789145574.7914753,
     "fills": 2
+  },
+  {
+    "timestamp": 1789146551,
+    "timestamp_added": 1789146552.4118226,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "es2-gir-cas-2026-09-12-gir",
+    "title": "Will Girona FC win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2502.2412,
+    "whale_pct": 1.452,
+    "whale_value_at_open": 172368.8517,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789146552.4118352,
+    "fills": 1
   }
 ]
