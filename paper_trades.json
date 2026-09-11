@@ -126197,8 +126197,8 @@
     "title": "Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 31098.6216,
-    "whale_pct": 325.574,
+    "whale_usd": 31725.027,
+    "whale_pct": 332.131,
     "whale_value_at_open": 9551.9505,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -126209,8 +126209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789109109.7459307,
-    "fills": 11
+    "last_fill_at": 1789110006.9955301,
+    "fills": 12
   },
   {
     "timestamp": 1789101388,
@@ -126439,8 +126439,8 @@
     "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "1WIN",
     "side": "BUY",
-    "whale_usd": 3896.9164,
-    "whale_pct": 5.848,
+    "whale_usd": 5801.5191,
+    "whale_pct": 8.705,
     "whale_value_at_open": 66642.4194,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -126451,8 +126451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789105015.228383,
-    "fills": 1
+    "last_fill_at": 1789109977.3093503,
+    "fills": 2
   },
   {
     "timestamp": 1789105332,
