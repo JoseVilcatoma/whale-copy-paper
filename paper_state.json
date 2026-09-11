@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.99266042898165,
+  "bankroll": 236.65659025354304,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25480,6 +25480,11 @@
       "timestamp": 1789113077.717096,
       "bankroll": 232.99,
       "event": "won:  \u2014 W50 Guiyang: Xinxin Yao vs Alexandra Shubladze"
+    },
+    {
+      "timestamp": 1789115863.6586018,
+      "bankroll": 236.66,
+      "event": "won: mmklop \u2014 Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs"
     }
   ]
 }
