@@ -126025,8 +126025,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Yuta Shimizu",
     "side": "BUY",
-    "whale_usd": 8416.579034999999,
-    "whale_pct": 5.033,
+    "whale_usd": 9614.006234999999,
+    "whale_pct": 5.75,
     "whale_value_at_open": 167214.0431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -126039,8 +126039,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789101260.1632626,
-    "fills": 4
+    "last_fill_at": 1789101367.5866215,
+    "fills": 5
   },
   {
     "timestamp": 1789097806,
@@ -126210,6 +126210,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789100263.5885253,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789101388,
+    "timestamp_added": 1789101388.508624,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bun-uni-s04-2026-09-11-spread-away-2pt5",
+    "title": "Spread: FC Schalke 04 (-2.5)",
+    "outcome": "1. FC Union Berlin",
+    "side": "BUY",
+    "whale_usd": 1239.84,
+    "whale_pct": 1.29,
+    "whale_value_at_open": 96077.3285,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789101388.508635,
     "fills": 1
   }
 ]
