@@ -1,5 +1,5 @@
 {
-  "bankroll": 257.71529028071313,
+  "bankroll": 258.6276712330941,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25655,6 +25655,11 @@
       "timestamp": 1789133627.719523,
       "bankroll": 257.72,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva"
+    },
+    {
+      "timestamp": 1789133933.8727353,
+      "bankroll": 258.63,
+      "event": "won: ferrariChampions2026 \u2014 Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle"
     }
   ]
 }
