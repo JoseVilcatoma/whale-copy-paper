@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.97614081285388,
+  "bankroll": 237.95504990376298,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25525,6 +25525,11 @@
       "timestamp": 1789122371.5883362,
       "bankroll": 233.98,
       "event": "won: ferrariChampions2026 \u2014 W35 Reus: Lucia Cortez Llorca vs Daria Yesypchuk"
+    },
+    {
+      "timestamp": 1789124353.9349804,
+      "bankroll": 237.96,
+      "event": "won: mmklop \u2014 Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }
