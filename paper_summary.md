@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 13:13:36 (hora de Perú)
+Actualizado: 2026-09-11 13:15:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.97
@@ -979,7 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
