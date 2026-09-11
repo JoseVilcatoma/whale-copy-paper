@@ -126470,8 +126470,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -126494,8 +126494,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -126544,8 +126544,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -126824,8 +126824,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -126850,8 +126850,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [
       "Flaznorp",
       "ferrariChampions2026"

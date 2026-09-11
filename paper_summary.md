@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:50:26 (hora de Perú)
+Actualizado: 2026-09-11 02:52:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $237.93
-**Retorno acumulado:** -52.41%
+**Bankroll actual:** $232.99
+**Retorno acumulado:** -53.40%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 02:50:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $7.93)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $27.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,13 +129,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Flaznorp | 103 | 38 | 8 | -10.03 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| Flaznorp | 104 | 39 | 6 | -13.93 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -150,19 +150,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 108 | 79 | 5 | -150.29 USD |
-| ferrariChampions2026 | 734 | 457 | 6 | -243.38 USD |
+|  | 109 | 79 | 4 | -149.70 USD |
+| ferrariChampions2026 | 735 | 458 | 4 | -245.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4880
-- **Aciertos:** 3071 (62.9%)
+- **Apuestas resueltas:** 4885
+- **Aciertos:** 3074 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,359.20
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $453.16 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,384.20
+- **ROI sobre lo apostado:** -1.60%
+- **Comisiones pagadas (taker fee):** $453.59 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2501 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1466 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 648 | 85.8% | 86.6% | -0.8 pp |
+| 40-59% | 2503 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1467 | 68.4% | 67.8% | +0.6 pp |
+| 80-94% | 650 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -980,8 +980,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
-|  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
+|  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ✅ ganada | +0.59 |
+| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ✅ ganada | +1.20 |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ✅ ganada | +0.53 |
@@ -992,10 +992,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: MIBR vs Alliance (BO3) - | MIBR (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ❌ perdida | -5.10 |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ✅ ganada | +3.52 |
+| ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ❌ perdida | -5.15 |
 | mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 16.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
