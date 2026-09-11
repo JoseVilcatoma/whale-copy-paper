@@ -128437,8 +128437,8 @@
     "title": "Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
     "outcome": "ShindeN",
     "side": "BUY",
-    "whale_usd": 53871.0,
-    "whale_pct": 29.884,
+    "whale_usd": 77661.0,
+    "whale_pct": 43.082,
     "whale_value_at_open": 180265.1514,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -128451,8 +128451,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789147179.7942598,
-    "fills": 7
+    "last_fill_at": 1789147438.2729669,
+    "fills": 9
   },
   {
     "timestamp": 1789142358,
@@ -128535,8 +128535,8 @@
     "title": "Montreux: Simona Waltert vs Dalma Galfi",
     "outcome": "Dalma Galfi",
     "side": "BUY",
-    "whale_usd": 3732.3328,
-    "whale_pct": 1.801,
+    "whale_usd": 8982.3328,
+    "whale_pct": 4.334,
     "whale_value_at_open": 207261.8395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -128547,8 +128547,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789145475.2131655,
-    "fills": 2
+    "last_fill_at": 1789147404.5997374,
+    "fills": 3
   },
   {
     "timestamp": 1789145398,
