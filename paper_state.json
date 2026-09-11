@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.2840396761601,
+  "bankroll": 275.44215551093674,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25790,6 +25790,26 @@
       "timestamp": 1789156084.8803942,
       "bankroll": 269.28,
       "event": "won: Zzzz87 \u2014 Will Al Ittihad Saudi Club win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789158250.0532076,
+      "bankroll": 264.17,
+      "event": "lost: mmklop \u2014 Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789158250.9717035,
+      "bankroll": 267.69,
+      "event": "won: mmklop \u2014 Counter-Strike: 1WIN vs NIP (BO3) - Thunderpick World Championship Closed Qualifier Group D"
+    },
+    {
+      "timestamp": 1789158254.420973,
+      "bankroll": 269.47,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: paiN (-1.5) vs ShindeN (+1.5)"
+    },
+    {
+      "timestamp": 1789158254.5211093,
+      "bankroll": 275.44,
+      "event": "won: Diabolical-Prize \u2014 Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
     }
   ]
 }
