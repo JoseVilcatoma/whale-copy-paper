@@ -125407,5 +125407,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789085798.8752756,
     "fills": 1
+  },
+  {
+    "timestamp": 1789085957,
+    "timestamp_added": 1789085957.459944,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sud-cie-tor-2026-09-10-spread-home-2pt5",
+    "title": "Spread: CS Cienciano (-2.5)",
+    "outcome": "Montevideo City Torque",
+    "side": "BUY",
+    "whale_usd": 1546.9974,
+    "whale_pct": 1.201,
+    "whale_value_at_open": 128778.4548,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789085957.4599533,
+    "fills": 1
   }
 ]
