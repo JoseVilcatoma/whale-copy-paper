@@ -126379,5 +126379,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789102268.8795707,
     "fills": 1
+  },
+  {
+    "timestamp": 1789103019,
+    "timestamp_added": 1789103019.9884202,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "kbo-kiw-sam-2026-09-11",
+    "title": "KBO: Kiwoom Heroes vs. Samsung Lions",
+    "outcome": "Samsung Lions",
+    "side": "BUY",
+    "whale_usd": 972.6600000000001,
+    "whale_pct": 0.282,
+    "whale_value_at_open": 344620.4835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789103019.9884315,
+    "fills": 1
   }
 ]

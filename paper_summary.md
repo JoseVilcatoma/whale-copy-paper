@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:03:19 (hora de Perú)
+Actualizado: 2026-09-11 00:05:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.28
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:03:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $78.28)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $73.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
-| quavoo | 30 | 17 | 2 | +2.86 USD |
+| quavoo | 30 | 17 | 3 | +2.86 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -967,6 +967,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 4.5 | Under (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kyōto Sanga FC win on 2026-09-11? | No (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -996,4 +997,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | No (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 40.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | CS Cienciano vs. Montevideo City Torque: | Over (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |
-| wr0ngw4yb3tt0r | Spread: Rams (-4.5) | Rams (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
