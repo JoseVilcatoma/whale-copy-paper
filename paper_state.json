@@ -1,5 +1,5 @@
 {
-  "bankroll": 260.8077148078917,
+  "bankroll": 264.7866238988008,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25775,6 +25775,11 @@
       "timestamp": 1789150842.940167,
       "bankroll": 260.81,
       "event": "won: ferrariChampions2026 \u2014 Seville: Facundo Acosta vs Sebastian Ofner"
+    },
+    {
+      "timestamp": 1789151150.791605,
+      "bankroll": 264.79,
+      "event": "won: ferrariChampions2026 \u2014 Montreux: Simona Waltert vs Dalma Galfi"
     }
   ]
 }

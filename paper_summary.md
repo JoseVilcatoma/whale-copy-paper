@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 13:23:52 (hora de Perú)
+Actualizado: 2026-09-11 13:25:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $260.81
-**Retorno acumulado:** -47.84%
+**Bankroll actual:** $264.79
+**Retorno acumulado:** -47.04%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 13:23:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.75 en 52 posiciones abiertas (disponible para nuevas apuestas: $2.06)
+**Capital comprometido ahora mismo:** $253.75 en 51 posiciones abiertas (disponible para nuevas apuestas: $11.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 752 | 466 | 15 | -237.98 USD |
+| ferrariChampions2026 | 753 | 466 | 14 | -234.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4944
-- **Aciertos:** 3114 (63.0%)
+- **Apuestas resueltas:** 4945
+- **Aciertos:** 3115 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,673.70
-- **ROI sobre lo apostado:** -1.47%
-- **Comisiones pagadas (taker fee):** $459.12 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,678.70
+- **ROI sobre lo apostado:** -1.46%
+- **Comisiones pagadas (taker fee):** $459.24 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2537 | 50.3% | 50.0% | +0.3 pp |
+| 40-59% | 2538 | 50.4% | 50.0% | +0.3 pp |
 | 60-79% | 1479 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 661 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 267 | 97.0% | 97.3% | -0.3 pp |
@@ -979,7 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 15.6% | ⏳ pendiente | — |
+| ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 8.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
@@ -989,7 +989,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Girona FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Sebastian Ofner (BUY) | 41% | 5.00 | 2.4% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 5.8% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
