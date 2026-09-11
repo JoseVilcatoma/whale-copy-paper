@@ -126870,8 +126870,8 @@
     "title": "Spread: West Ham United FC (-1.5)",
     "outcome": "Wrexham AFC",
     "side": "BUY",
-    "whale_usd": 3467.9768,
-    "whale_pct": 4.395,
+    "whale_usd": 4840.5912,
+    "whale_pct": 6.135,
     "whale_value_at_open": 78900.1764,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -126882,8 +126882,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789128637.2143493,
-    "fills": 3
+    "last_fill_at": 1789134527.305633,
+    "fills": 4
   },
   {
     "timestamp": 1789110510,
