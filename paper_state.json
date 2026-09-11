@@ -1,5 +1,5 @@
 {
-  "bankroll": 246.82953463378456,
+  "bankroll": 236.5466162664376,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25390,6 +25390,26 @@
       "timestamp": 1789103944.4824545,
       "bankroll": 246.83,
       "event": "won: ferrariChampions2026 \u2014 W50 Guiyang: Hina Inoue vs Yufei Ren"
+    },
+    {
+      "timestamp": 1789104571.1370587,
+      "bankroll": 241.72,
+      "event": "lost: nigiri99 \u2014 49ers vs. Rams: O/U 46.5"
+    },
+    {
+      "timestamp": 1789104571.802141,
+      "bankroll": 236.6,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 49ers vs. Rams: O/U 42.5"
+    },
+    {
+      "timestamp": 1789104572.2590928,
+      "bankroll": 231.47,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Rams (-4.5)"
+    },
+    {
+      "timestamp": 1789104572.6259332,
+      "bankroll": 236.55,
+      "event": "won: wr0ngw4yb3tt0r \u2014 49ers vs. Rams: O/U 40.5"
     }
   ]
 }
