@@ -1,5 +1,5 @@
 {
-  "bankroll": 276.4649349000134,
+  "bankroll": 275.99740548014296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25845,6 +25845,26 @@
       "timestamp": 1789159914.9710224,
       "bankroll": 276.46,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Matej Dodig vs Enrico Dalla Valle"
+    },
+    {
+      "timestamp": 1789160100.1546693,
+      "bankroll": 271.37,
+      "event": "lost: GoalLineGhost \u2014 1. FC Union Berlin vs. FC Schalke 04: O/U 3.5"
+    },
+    {
+      "timestamp": 1789160100.4542735,
+      "bankroll": 272.43,
+      "event": "won: GoalLineGhost \u2014 1. FC Union Berlin vs. FC Schalke 04: O/U 4.5"
+    },
+    {
+      "timestamp": 1789160101.4268718,
+      "bankroll": 275.8,
+      "event": "won: GoalLineGhost \u2014 1. FC Union Berlin vs. FC Schalke 04: O/U 2.5"
+    },
+    {
+      "timestamp": 1789160101.7513015,
+      "bankroll": 276.0,
+      "event": "won: GoalLineGhost \u2014 Spread: FC Schalke 04 (-2.5)"
     }
   ]
 }
