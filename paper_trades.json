@@ -128341,8 +128341,8 @@
     "title": "Cassis: Titouan Droguet vs Daniil Glinka",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 572.727273,
-    "whale_pct": 0.341,
+    "whale_usd": 8360.137273,
+    "whale_pct": 4.972,
     "whale_value_at_open": 168127.7439,
     "paper_stake_usd": 4.92,
     "odds_at_bet": 46,
@@ -128353,8 +128353,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789137051.6946812,
-    "fills": 1
+    "last_fill_at": 1789139940.3866744,
+    "fills": 2
   },
   {
     "timestamp": 1789138964,
@@ -128413,8 +128413,8 @@
     "title": "Genoa: Laslo Djere vs Stefanos Sakellaridis",
     "outcome": "Stefanos Sakellaridis",
     "side": "BUY",
-    "whale_usd": 4765.429999999999,
-    "whale_pct": 2.621,
+    "whale_usd": 9162.831699999999,
+    "whale_pct": 5.04,
     "whale_value_at_open": 181793.2397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -128425,8 +128425,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789139784.8962517,
-    "fills": 1
+    "last_fill_at": 1789139965.1244137,
+    "fills": 2
   },
   {
     "timestamp": 1789139838,
