@@ -128751,8 +128751,8 @@
     "title": "Genoa: Matej Dodig vs Enrico Dalla Valle",
     "outcome": "Enrico Dalla Valle",
     "side": "BUY",
-    "whale_usd": 16038.245181,
-    "whale_pct": 9.142,
+    "whale_usd": 19516.241311,
+    "whale_pct": 11.125,
     "whale_value_at_open": 175425.5196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -128763,8 +128763,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789151267.6759849,
-    "fills": 9
+    "last_fill_at": 1789156983.188513,
+    "fills": 10
   },
   {
     "timestamp": 1789150862,
