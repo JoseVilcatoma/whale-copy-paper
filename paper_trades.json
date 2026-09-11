@@ -127057,5 +127057,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789112032.6583755,
     "fills": 1
+  },
+  {
+    "timestamp": 1789112176,
+    "timestamp_added": 1789112177.0966623,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-ivashka-zhou-2026-09-10",
+    "title": "Shanghai: Ilya Ivashka vs Yi Zhou",
+    "outcome": "Ilya Ivashka",
+    "side": "BUY",
+    "whale_usd": 513.36,
+    "whale_pct": 0.163,
+    "whale_value_at_open": 314174.3406,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789112177.0966733,
+    "fills": 1
   }
 ]
