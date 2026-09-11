@@ -128069,8 +128069,8 @@
     "title": "Spread: Missouri (-5.5)",
     "outcome": "Missouri",
     "side": "BUY",
-    "whale_usd": 10065.3154,
-    "whale_pct": 11.35,
+    "whale_usd": 12646.1454,
+    "whale_pct": 14.261,
     "whale_value_at_open": 88677.6359,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -128081,8 +128081,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789132254.0628896,
-    "fills": 2
+    "last_fill_at": 1789136524.0497503,
+    "fills": 3
   },
   {
     "timestamp": 1789131743,
@@ -128280,6 +128280,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789136428.6607134,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789136501,
+    "timestamp_added": 1789136501.5887046,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kolar-barrena-2026-09-11",
+    "title": "Tulln: Zdenek Kolar vs Alex Barrena",
+    "outcome": "Alex Barrena",
+    "side": "BUY",
+    "whale_usd": 1587.5567999999998,
+    "whale_pct": 1.003,
+    "whale_value_at_open": 158306.5359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789136501.588724,
     "fills": 1
   }
 ]
