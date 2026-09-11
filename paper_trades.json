@@ -125611,8 +125611,8 @@
     "title": "49ers vs. Rams",
     "outcome": "49ers",
     "side": "BUY",
-    "whale_usd": 56165.6773,
-    "whale_pct": 34.524,
+    "whale_usd": 58061.4202,
+    "whale_pct": 35.689,
     "whale_value_at_open": 162687.0279,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -125623,8 +125623,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789093714.305722,
-    "fills": 9
+    "last_fill_at": 1789093835.898674,
+    "fills": 10
   },
   {
     "timestamp": 1789089077,
@@ -125768,6 +125768,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789093462.0811548,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789093837,
+    "timestamp_added": 1789093837.5131161,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "col1-mif-adc-2026-08-17-draw",
+    "title": "Will Millonarios FC vs. AD Cali end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 608.565307,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 156539.0769,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789093837.5131266,
     "fills": 1
   }
 ]
