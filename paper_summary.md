@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:29:44 (hora de Perú)
+Actualizado: 2026-09-11 00:31:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $236.55
@@ -975,8 +975,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.6% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Schalke 04 (-2.5) | 1. FC Union Berlin (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 146.8% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 483.0% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 198.8% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 556.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: 1. FC Nürnberg (-1.5) | Hannover 96 (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
