@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 23:29:30 (hora de Perú)
+Actualizado: 2026-09-10 23:31:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $244.88
@@ -968,7 +968,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 51.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 90.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 181.0% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: 1. FC Nürnberg (-1.5) | Hannover 96 (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
