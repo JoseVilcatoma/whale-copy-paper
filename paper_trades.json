@@ -128655,8 +128655,8 @@
     "title": "Seville: Jaume Munar vs Raul Brancaccio",
     "outcome": "Jaume Munar",
     "side": "BUY",
-    "whale_usd": 2612.321281,
-    "whale_pct": 1.654,
+    "whale_usd": 6125.411161,
+    "whale_pct": 3.879,
     "whale_value_at_open": 157916.3093,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -128667,8 +128667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789148921.50907,
-    "fills": 2
+    "last_fill_at": 1789149017.9064388,
+    "fills": 3
   },
   {
     "timestamp": 1789147068,
