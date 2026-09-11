@@ -126197,8 +126197,8 @@
     "title": "Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 23973.310800000003,
-    "whale_pct": 250.978,
+    "whale_usd": 24569.703,
+    "whale_pct": 257.222,
     "whale_value_at_open": 9551.9505,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -126209,8 +126209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789105832.8449898,
-    "fills": 8
+    "last_fill_at": 1789106744.8637145,
+    "fills": 9
   },
   {
     "timestamp": 1789101388,
@@ -126625,5 +126625,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789106597.4252768,
     "fills": 1
+  },
+  {
+    "timestamp": 1789106783,
+    "timestamp_added": 1789106783.7758331,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-all-2026-09-11-game1",
+    "title": "Counter-Strike: MIBR vs Alliance - Map 1 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 9560.563999999998,
+    "whale_pct": 11.239,
+    "whale_value_at_open": 85068.6633,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789106790.7069087,
+    "fills": 5
   }
 ]
