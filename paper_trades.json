@@ -127993,8 +127993,8 @@
     "title": "Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva",
     "outcome": "Elizara Yaneva",
     "side": "BUY",
-    "whale_usd": 9664.455600000001,
-    "whale_pct": 12.683,
+    "whale_usd": 20664.4556,
+    "whale_pct": 27.119,
     "whale_value_at_open": 76199.7016,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -128007,8 +128007,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789130918.5955913,
-    "fills": 1
+    "last_fill_at": 1789130939.104246,
+    "fills": 3
   },
   {
     "timestamp": 1789130918,
@@ -128019,8 +128019,8 @@
     "title": "Antalya 4: Irene Burillo Escorihuela vs Elizara Yaneva",
     "outcome": "Irene Burillo Escorihuela",
     "side": "BUY",
-    "whale_usd": 6741.339999999999,
-    "whale_pct": 3.986,
+    "whale_usd": 10757.978619,
+    "whale_pct": 6.36,
     "whale_value_at_open": 169144.3569,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -128033,7 +128033,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789130919.0354583,
-    "fills": 1
+    "last_fill_at": 1789130929.4864466,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 07:48:40 (hora de Perú)
+Actualizado: 2026-09-11 07:50:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.02
@@ -975,8 +975,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 4.0% | ⏳ pendiente | — |
-|  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 12.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ⏳ pendiente | — |
+|  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 1.5 | Over (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
