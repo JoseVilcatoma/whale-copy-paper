@@ -127969,8 +127969,8 @@
     "title": "Stade Rennais FC 1901 vs. Olympique de Marseille: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1299.7223000000001,
-    "whale_pct": 0.784,
+    "whale_usd": 5606.2927,
+    "whale_pct": 3.381,
     "whale_value_at_open": 165799.8841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -127981,8 +127981,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789130562.7126074,
-    "fills": 1
+    "last_fill_at": 1789138612.2005398,
+    "fills": 2
   },
   {
     "timestamp": 1789130918,
