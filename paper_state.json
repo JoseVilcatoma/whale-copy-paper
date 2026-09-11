@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.7489373849454,
+  "bankroll": 239.0388443616896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25165,6 +25165,21 @@
       "timestamp": 1789084354.6015644,
       "bankroll": 242.75,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP (Doubles): Helioevaara/Patten vs Harrison/Skupski"
+    },
+    {
+      "timestamp": 1789086551.0093968,
+      "bankroll": 237.66,
+      "event": "lost:  \u2014 Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean"
+    },
+    {
+      "timestamp": 1789086551.2097566,
+      "bankroll": 232.55,
+      "event": "lost: ferrariChampions2026 \u2014 Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean"
+    },
+    {
+      "timestamp": 1789086551.309972,
+      "bankroll": 239.04,
+      "event": "won: ferrariChampions2026 \u2014 Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean"
     }
   ]
 }
