@@ -126173,8 +126173,8 @@
     "title": "Counter-Strike: Sinners vs Nuclear TigeRES (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "Sinners",
     "side": "BUY",
-    "whale_usd": 27453.7298,
-    "whale_pct": 556.403,
+    "whale_usd": 29083.9745,
+    "whale_pct": 589.443,
     "whale_value_at_open": 4934.1481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -126185,8 +126185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789104613.3123918,
-    "fills": 8
+    "last_fill_at": 1789105507.7317538,
+    "fills": 9
   },
   {
     "timestamp": 1789100262,
@@ -126197,8 +126197,8 @@
     "title": "Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 18992.6964,
-    "whale_pct": 198.836,
+    "whale_usd": 23377.150800000003,
+    "whale_pct": 244.737,
     "whale_value_at_open": 9551.9505,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -126209,8 +126209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789104625.1099958,
-    "fills": 6
+    "last_fill_at": 1789105510.1017263,
+    "fills": 7
   },
   {
     "timestamp": 1789101388,
@@ -126477,5 +126477,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789105332.7722654,
     "fills": 1
+  },
+  {
+    "timestamp": 1789105550,
+    "timestamp_added": 1789105550.5122824,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-yao1-shubla1-2026-09-11",
+    "title": "W50 Guiyang: Xinxin Yao vs Alexandra Shubladze",
+    "outcome": "Alexandra Shubladze",
+    "side": "BUY",
+    "whale_usd": 1936.7799999999997,
+    "whale_pct": 2.479,
+    "whale_value_at_open": 78137.6338,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789105551.1151927,
+    "fills": 2
   }
 ]
