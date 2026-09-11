@@ -127935,5 +127935,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789130330.0132031,
     "fills": 1
+  },
+  {
+    "timestamp": 1789130445,
+    "timestamp_added": 1789130446.180752,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sea-ven-fio-2026-09-11-total-1pt5",
+    "title": "Venezia FC vs. ACF Fiorentina: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1122.1002,
+    "whale_pct": 0.649,
+    "whale_value_at_open": 172996.248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789130446.180765,
+    "fills": 1
   }
 ]
