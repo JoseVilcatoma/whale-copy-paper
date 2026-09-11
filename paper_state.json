@@ -1,5 +1,5 @@
 {
-  "bankroll": 253.20626831502446,
+  "bankroll": 248.08126831502446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25685,6 +25685,11 @@
       "timestamp": 1789136414.354087,
       "bankroll": 253.21,
       "event": "lost: ferrariChampions2026 \u2014 Cassis: Nicolai Budkov Kjaer vs Moez Echargui"
+    },
+    {
+      "timestamp": 1789136710.4636593,
+      "bankroll": 248.08,
+      "event": "lost: mmklop \u2014 Counter-Strike: Sinners vs Nuclear TigeRES (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
     }
   ]
 }

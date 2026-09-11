@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 09:23:19 (hora de Perú)
+Actualizado: 2026-09-11 09:25:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $253.21
-**Retorno acumulado:** -49.36%
+**Bankroll actual:** $248.08
+**Retorno acumulado:** -50.38%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 09:23:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $248.63 en 50 posiciones abiertas (disponible para nuevas apuestas: $4.58)
+**Capital comprometido ahora mismo:** $248.21 en 50 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ExplosiveNinja | 33 | 17 | 4 | +26.78 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| ExplosiveNinja | 33 | 18 | 3 | +21.66 USD |
 | GoalLineGhost | 50 | 17 | 18 | +20.44 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 8 | -146.91 USD |
-| ferrariChampions2026 | 747 | 462 | 10 | -236.97 USD |
+| ferrariChampions2026 | 747 | 462 | 11 | -236.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4926
+- **Apuestas resueltas:** 4927
 - **Aciertos:** 3103 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,585.15
-- **ROI sobre lo apostado:** -1.51%
-- **Comisiones pagadas (taker fee):** $457.22 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,590.15
+- **ROI sobre lo apostado:** -1.53%
+- **Comisiones pagadas (taker fee):** $457.35 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2524 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 2525 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1476 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 660 | 85.9% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 266 | 97.0% | 97.3% | -0.3 pp |
@@ -978,6 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Sevilla FC vs. Valencia CF: O/U 2.5 | Under (BUY) | 60% | 4.58 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 10.5 | Over (BUY) | 47% | 5.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -1007,4 +1008,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ✅ ganada | +0.91 |
 |  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Nicolai Budkov Kjaer (BUY) | 66% | 5.00 | 11.0% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Tulln: Matias Soto vs Vitaliy Sachko | Vitaliy Sachko (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
