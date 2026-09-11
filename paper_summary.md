@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 03:46:05 (hora de Perú)
+Actualizado: 2026-09-11 03:48:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 03:46:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $222.99 en 45 posiciones abiertas (disponible para nuevas apuestas: $9.91)
+**Capital comprometido ahora mismo:** $232.90 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -139,7 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | Zzzz87 | 1 | 4 | 2 | -17.28 USD |
-| Flaznorp | 105 | 40 | 4 | -17.68 USD |
+| Flaznorp | 105 | 40 | 5 | -17.68 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 7 | -149.70 USD |
-| ferrariChampions2026 | 735 | 458 | 6 | -245.01 USD |
+| ferrariChampions2026 | 735 | 458 | 7 | -245.01 USD |
 
 ## Análisis general
 
@@ -972,6 +972,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Kashiwa Reysol win on 2026-09-11? | Yes (BUY) | 58% | 4.91 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: paiN vs ShindeN (BO3) -  | paiN (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Kuzmanov vs Mayot | Kuzmanov (BUY) | 45% | 2.99 | 0.7% | ⏳ pendiente | — |
 |  | Will Kashima Antlers win on 2026-09-11? | No (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1000,5 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Under (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: MIBR vs Alliance (BO3) - | MIBR (BUY) | 57% | 5.00 | 0.8% | ✅ ganada | +3.66 |
 | GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ❌ perdida | -5.10 |
-|  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
