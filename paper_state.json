@@ -1,5 +1,5 @@
 {
-  "bankroll": 258.6276712330941,
+  "bankroll": 259.7535107392669,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25660,6 +25660,11 @@
       "timestamp": 1789133933.8727353,
       "bankroll": 258.63,
       "event": "won: ferrariChampions2026 \u2014 Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle"
+    },
+    {
+      "timestamp": 1789135912.1496742,
+      "bankroll": 259.75,
+      "event": "won: ferrariChampions2026 \u2014 Genoa: Pedro Martinez vs Valerio Aboian"
     }
   ]
 }
