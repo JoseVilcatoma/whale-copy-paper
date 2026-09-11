@@ -1,5 +1,5 @@
 {
-  "bankroll": 237.61353740526351,
+  "bankroll": 233.78973398646008,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25425,6 +25425,31 @@
       "timestamp": 1789104890.581124,
       "bankroll": 237.61,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Cruz Hewitt vs Max Purcell"
+    },
+    {
+      "timestamp": 1789111466.4755478,
+      "bankroll": 240.85,
+      "event": "won:  \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789111467.7007642,
+      "bankroll": 243.45,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789111468.1628098,
+      "bankroll": 238.37,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789111472.863273,
+      "bankroll": 233.26,
+      "event": "lost:  \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789111474.0542402,
+      "bankroll": 233.79,
+      "event": "won: Flaznorp \u2014 Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu"
     }
   ]
 }
