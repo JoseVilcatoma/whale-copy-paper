@@ -127366,8 +127366,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -128243,8 +128243,8 @@
     "title": "Cassis: Titouan Droguet vs Daniil Glinka",
     "outcome": "Daniil Glinka",
     "side": "BUY",
-    "whale_usd": 8848.274163,
-    "whale_pct": 3.876,
+    "whale_usd": 9762.797283,
+    "whale_pct": 4.277,
     "whale_value_at_open": 228275.3977,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -128255,8 +128255,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789136846.5645494,
-    "fills": 6
+    "last_fill_at": 1789137037.4006133,
+    "fills": 7
   },
   {
     "timestamp": 1789136428,
@@ -128330,6 +128330,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1789136612.5498905,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789137051,
+    "timestamp_added": 1789137051.6946692,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-droguet-glinka-2026-09-11",
+    "title": "Cassis: Titouan Droguet vs Daniil Glinka",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "whale_usd": 572.727273,
+    "whale_pct": 0.341,
+    "whale_value_at_open": 168127.7439,
+    "paper_stake_usd": 4.92,
+    "odds_at_bet": 46,
+    "fee_usd": 0.133,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789137051.6946812,
     "fills": 1
   }
 ]

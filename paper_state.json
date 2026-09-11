@@ -1,5 +1,5 @@
 {
-  "bankroll": 248.08126831502446,
+  "bankroll": 248.1287733655295,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25690,6 +25690,11 @@
       "timestamp": 1789136710.4636593,
       "bankroll": 248.08,
       "event": "lost: mmklop \u2014 Counter-Strike: Sinners vs Nuclear TigeRES (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789137023.1365736,
+      "bankroll": 248.13,
+      "event": "won: GoalLineGhost \u2014 Garuda Yaksa vs. Persik Kediri: O/U 5.5"
     }
   ]
 }
