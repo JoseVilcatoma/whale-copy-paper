@@ -128427,5 +128427,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789139784.8962517,
     "fills": 1
+  },
+  {
+    "timestamp": 1789139838,
+    "timestamp_added": 1789139839.455402,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-pain-shin-2026-09-11",
+    "title": "Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
+    "outcome": "ShindeN",
+    "side": "BUY",
+    "whale_usd": 7040.0,
+    "whale_pct": 3.905,
+    "whale_value_at_open": 180265.1514,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "mmklop"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789139839.4554155,
+    "fills": 1
   }
 ]

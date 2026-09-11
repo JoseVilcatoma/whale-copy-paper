@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 10:16:51 (hora de Perú)
+Actualizado: 2026-09-11 10:18:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $259.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 10:16:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $253.13 en 51 posiciones abiertas (disponible para nuevas apuestas: $6.44)
+**Capital comprometido ahora mismo:** $258.13 en 52 posiciones abiertas (disponible para nuevas apuestas: $1.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| Diabolical-Prize | 3 | 0 | 1 | +12.67 USD |
+| Diabolical-Prize | 3 | 0 | 2 | +12.67 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 |  | 37 | 30 | 1 | +11.38 USD |
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
@@ -968,6 +968,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-1win-nemi1-2026-09-11 | Diabolical-Prize, mmklop |
 | itf-yao1-shubla1-2026-09-11 | , Flaznorp, ferrariChampions2026 |
 | atp-ivashka-zhou-2026-09-10 | Flaznorp, ferrariChampions2026 |
+| cs2-pain-shin-2026-09-11 | Diabolical-Prize, mmklop |
 | atp-maestre-kasniko-2026-09-11 | , ferrariChampions2026 |
 | atp-kjaer-echargu-2026-09-11 | , ferrariChampions2026 |
 | wta-escorih-yaneva-2026-09-11 | , ferrariChampions2026 |
@@ -978,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: paiN (-1.5) vs ShindeN (+1 | ShindeN (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1007,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: 1WIN vs NIP (BO3) - Thun | 1WIN (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
