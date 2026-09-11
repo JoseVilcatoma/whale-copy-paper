@@ -126245,8 +126245,8 @@
     "title": "Venezia FC vs. ACF Fiorentina: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1317.9980000000003,
-    "whale_pct": 1.327,
+    "whale_usd": 2888.9978,
+    "whale_pct": 2.909,
     "whale_value_at_open": 99306.5702,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -126257,8 +126257,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789101960.8026562,
-    "fills": 1
+    "last_fill_at": 1789134300.964717,
+    "fills": 2
   },
   {
     "timestamp": 1789101982,
@@ -127897,8 +127897,8 @@
     "title": "Tulln: Zdenek Kolar vs Alex Barrena",
     "outcome": "Zdenek Kolar",
     "side": "BUY",
-    "whale_usd": 18829.392206,
-    "whale_pct": 11.423,
+    "whale_usd": 19538.483116,
+    "whale_pct": 11.853,
     "whale_value_at_open": 164837.9727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -127909,8 +127909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789134022.3667288,
-    "fills": 7
+    "last_fill_at": 1789134310.3401685,
+    "fills": 8
   },
   {
     "timestamp": 1789130329,
@@ -128208,6 +128208,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789134197.7398794,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789134289,
+    "timestamp_added": 1789134289.7866347,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uzb1-bux-nav-2026-09-11-total-3pt5",
+    "title": "FK Buxoro vs. Navbahor: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 698.9966000000001,
+    "whale_pct": 0.342,
+    "whale_value_at_open": 204409.2978,
+    "paper_stake_usd": 4.02,
+    "odds_at_bet": 75,
+    "fee_usd": 0.05,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789134289.7866473,
     "fills": 1
   }
 ]
