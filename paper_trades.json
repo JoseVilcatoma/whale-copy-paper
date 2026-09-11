@@ -128717,5 +128717,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789148037.7118616,
     "fills": 1
+  },
+  {
+    "timestamp": 1789148756,
+    "timestamp_added": 1789148756.9725804,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-regain-mars-2026-09-11",
+    "title": "Counter-Strike: regain vs Marsborne (BO3) - NSTLGA League Playoffs",
+    "outcome": "Marsborne",
+    "side": "BUY",
+    "whale_usd": 4249.977900000001,
+    "whale_pct": 4.586,
+    "whale_value_at_open": 92681.4869,
+    "paper_stake_usd": 4.17,
+    "odds_at_bet": 52,
+    "fee_usd": 0.1,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789148756.9725935,
+    "fills": 1
   }
 ]

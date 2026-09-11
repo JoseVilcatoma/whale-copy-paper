@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 12:45:07 (hora de Perú)
+Actualizado: 2026-09-11 12:47:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 12:45:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $263.60 en 53 posiciones abiertas (disponible para nuevas apuestas: $4.17)
+**Capital comprometido ahora mismo:** $267.77 en 54 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 51 | 17 | 17 | +20.49 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | Diabolical-Prize | 4 | 0 | 1 | +17.96 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 1 | +16.67 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 2 | +16.67 USD |
 | ExplosiveNinja | 33 | 19 | 2 | +16.54 USD |
 |  | 38 | 30 | 0 | +16.25 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -979,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1008,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Missouri (-5.5) | Missouri (BUY) | 50% | 5.00 | 18.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
-|  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ❌ perdida | -5.14 |
