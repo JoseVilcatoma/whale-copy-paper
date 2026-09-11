@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.09194086357618,
+  "bankroll": 262.51778935325075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25550,6 +25550,31 @@
       "timestamp": 1789128028.2009504,
       "bankroll": 251.09,
       "event": "won: ferrariChampions2026 \u2014 Tulln: Mika Brunold vs Gustavo Heide"
+    },
+    {
+      "timestamp": 1789128335.8182487,
+      "bankroll": 257.07,
+      "event": "won: Diabolical-Prize \u2014 Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789128335.9184082,
+      "bankroll": 251.96,
+      "event": "lost:  \u2014 Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789128340.9481604,
+      "bankroll": 257.69,
+      "event": "won: mmklop \u2014 Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789128343.218599,
+      "bankroll": 262.05,
+      "event": "won: vjnn \u2014 Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789128344.330027,
+      "bankroll": 262.52,
+      "event": "won: ferrariChampions2026 \u2014 Istanbul 3: Yanki Erel vs Jay Dylan Friend"
     }
   ]
 }
