@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 10:58:09 (hora de Perú)
+Actualizado: 2026-09-11 11:00:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.44
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 10:58:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $243.52 en 49 posiciones abiertas (disponible para nuevas apuestas: $20.92)
+**Capital comprometido ahora mismo:** $248.52 en 50 posiciones abiertas (disponible para nuevas apuestas: $15.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 748 | 463 | 12 | -236.97 USD |
+| ferrariChampions2026 | 748 | 463 | 13 | -236.97 USD |
 
 ## Análisis general
 
@@ -979,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 9.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: paiN (-1.5) vs ShindeN (+1 | ShindeN (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -1008,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Valerio Aboian | Pedro Martinez (BUY) | 81% | 5.00 | 5.3% | ✅ ganada | +1.13 |
 | mmklop | Counter-Strike: 1WIN vs NIP (BO3) - Thun | 1WIN (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Will CSyD Defensa y Justicia win on 2026 | Yes (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 64% | 5.00 | 3.6% | ❌ perdida | -5.09 |

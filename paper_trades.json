@@ -128453,5 +128453,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789139839.4554155,
     "fills": 1
+  },
+  {
+    "timestamp": 1789142358,
+    "timestamp_added": 1789142358.2519279,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-djere-sakella-2026-09-11",
+    "title": "Genoa: Laslo Djere vs Stefanos Sakellaridis",
+    "outcome": "Laslo Djere",
+    "side": "BUY",
+    "whale_usd": 566.8086120000002,
+    "whale_pct": 0.215,
+    "whale_value_at_open": 263358.5205,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789142358.2519395,
+    "fills": 1
   }
 ]
