@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 07:23:35 (hora de Perú)
+Actualizado: 2026-09-11 07:25:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.02
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 07:23:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $59.02)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $54.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 111 | 80 | 5 | -146.91 USD |
-| ferrariChampions2026 | 742 | 460 | 9 | -235.24 USD |
+| ferrariChampions2026 | 742 | 460 | 10 | -235.24 USD |
 
 ## Análisis general
 
@@ -974,6 +974,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Philadelphia Phillies (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | SV Ried vs. FC Salzburg: O/U 3.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Pedro Martinez vs Valerio Aboian | Pedro Martinez (BUY) | 81% | 5.00 | 4.7% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: 1WIN vs NIP (BO3) - Thun | 1WIN (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1003,4 +1004,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Kashima Antlers win on 2026-09-11? | No (BUY) | 69% | 5.00 | 1.1% | ✅ ganada | +2.17 |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 1 | Over (BUY) | 81% | 5.00 | 0.4% | ✅ ganada | +1.13 |
 |  | Counter-Strike: FURIA vs G2 - Map 1 Winn | G2 (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
-|  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |

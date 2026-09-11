@@ -127839,5 +127839,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789129398.3906567,
     "fills": 1
+  },
+  {
+    "timestamp": 1789129532,
+    "timestamp_added": 1789129533.4113653,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-phi-atl-2026-09-11-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 942.8312999999998,
+    "whale_pct": 0.505,
+    "whale_value_at_open": 186879.8656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789129533.4113774,
+    "fills": 1
   }
 ]
