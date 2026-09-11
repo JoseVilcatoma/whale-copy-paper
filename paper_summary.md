@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 06:13:59 (hora de Perú)
+Actualizado: 2026-09-11 06:16:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $243.69
@@ -977,7 +977,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 3 | Under (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Istanbul 3: Francesco Maestrelli vs Maks | Francesco Maestrelli (BUY) | 46% | 4.83 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Istanbul 3: Francesco Maestrelli vs Maks | Maks Kasnikowski (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 18.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tulln: Mika Brunold vs Gustavo Heide | Mika Brunold (BUY) | 50% | 5.00 | 40.0% | ⏳ pendiente | — |
 | vjnn | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 42% | 3.22 | 66.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FURIA (-1.5) vs G2 (+1.5) | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Garuda Yaksa vs. Persik Kediri: O/U 5.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
