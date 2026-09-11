@@ -1,5 +1,5 @@
 {
-  "bankroll": 239.10413676801733,
+  "bankroll": 237.00078570418754,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25245,6 +25245,21 @@
       "timestamp": 1789094325.163795,
       "bankroll": 239.1,
       "event": "won:  \u2014 Colorado Rockies vs. New York Yankees"
+    },
+    {
+      "timestamp": 1789096802.4546707,
+      "bankroll": 241.83,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Philip Sekulic vs Koki Matsuda"
+    },
+    {
+      "timestamp": 1789096802.554849,
+      "bankroll": 242.13,
+      "event": "won:  \u2014 Phan Thiet 3: Philip Sekulic vs Koki Matsuda"
+    },
+    {
+      "timestamp": 1789096802.6550188,
+      "bankroll": 237.0,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 3: Philip Sekulic vs Koki Matsuda"
     }
   ]
 }
