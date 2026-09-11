@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 23:17:05 (hora de Perú)
+Actualizado: 2026-09-10 23:19:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $244.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 23:17:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $194.60 en 39 posiciones abiertas (disponible para nuevas apuestas: $50.28)
+**Capital comprometido ahora mismo:** $199.60 en 40 posiciones abiertas (disponible para nuevas apuestas: $45.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 29 | 17 | 1 | +9.27 USD |
+| ExplosiveNinja | 29 | 17 | 2 | +9.27 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -967,12 +967,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: B8 vs Inner Circle Espor | B8 (BUY) | 55% | 5.00 | 51.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Sinners vs Nuclear TigeR | Sinners (BUY) | 50% | 5.00 | 90.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: 1. FC Nürnberg (-1.5) | Hannover 96 (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -996,4 +997,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Rams (-3.5) | Rams (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Rams | Rams (BUY) | 64% | 5.00 | 21.6% | ❌ perdida | -5.09 |
 | GoalLineGhost | Will Independiente del Valle vs. CR Flam | No (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.0% | ✅ ganada | +3.10 |

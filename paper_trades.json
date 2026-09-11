@@ -126051,8 +126051,8 @@
     "title": "Phan Thiet 3: Cruz Hewitt vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 11071.352463,
-    "whale_pct": 6.523,
+    "whale_usd": 12207.842462999999,
+    "whale_pct": 7.192,
     "whale_value_at_open": 169731.4084,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -126063,8 +126063,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789099490.5307899,
-    "fills": 7
+    "last_fill_at": 1789100277.730088,
+    "fills": 8
   },
   {
     "timestamp": 1789098374,
@@ -126099,8 +126099,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Hiroki Moriya",
     "side": "BUY",
-    "whale_usd": 5939.358552,
-    "whale_pct": 3.553,
+    "whale_usd": 11414.445208000001,
+    "whale_pct": 6.828,
     "whale_value_at_open": 167179.862,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -126113,8 +126113,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789099488.043198,
-    "fills": 4
+    "last_fill_at": 1789100320.0057013,
+    "fills": 5
   },
   {
     "timestamp": 1789098987,
@@ -126186,6 +126186,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789100092.0429804,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789100262,
+    "timestamp_added": 1789100263.5885108,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-b8-ice-2026-09-11",
+    "title": "Counter-Strike: B8 vs Inner Circle Esports (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 4898.1456,
+    "whale_pct": 51.279,
+    "whale_value_at_open": 9551.9505,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789100263.5885253,
     "fills": 1
   }
 ]
