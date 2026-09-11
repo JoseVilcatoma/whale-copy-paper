@@ -1,5 +1,5 @@
 {
-  "bankroll": 273.4956411255311,
+  "bankroll": 278.17756269415855,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25985,6 +25985,11 @@
       "timestamp": 1789164423.3379643,
       "bankroll": 273.5,
       "event": "won: ferrariChampions2026 \u2014 Al Ahli Saudi Club vs. Al Hazem SC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789166596.4498453,
+      "bankroll": 278.18,
+      "event": "won:  \u2014 Burgos CF vs. AD Ceuta FC: O/U 8.5 Total Corners"
     }
   ]
 }
