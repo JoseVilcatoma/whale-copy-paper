@@ -1,5 +1,5 @@
 {
-  "bankroll": 275.44215551093674,
+  "bankroll": 274.85791741569864,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25810,6 +25810,21 @@
       "timestamp": 1789158254.5211093,
       "bankroll": 275.44,
       "event": "won: Diabolical-Prize \u2014 Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789158562.9796543,
+      "bankroll": 270.32,
+      "event": "lost: ferrariChampions2026 \u2014 1. FC N\u00fcrnberg vs. Hannover 96: O/U 3.5"
+    },
+    {
+      "timestamp": 1789158564.4041946,
+      "bankroll": 277.08,
+      "event": "won:  \u2014 Seville: Henrique Rocha vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1789158564.7225215,
+      "bankroll": 274.86,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Pittsburgh Pirates vs. Chicago Cubs: O/U 10.5"
     }
   ]
 }

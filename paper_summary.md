@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 15:27:30 (hora de Perú)
+Actualizado: 2026-09-11 15:29:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $275.44
-**Retorno acumulado:** -44.91%
+**Bankroll actual:** $274.86
+**Retorno acumulado:** -45.03%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 15:27:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $249.28 en 51 posiciones abiertas (disponible para nuevas apuestas: $26.16)
+**Capital comprometido ahora mismo:** $237.12 en 48 posiciones abiertas (disponible para nuevas apuestas: $37.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 76 | 51 | 6 | +41.88 USD |
+| wr0ngw4yb3tt0r | 76 | 52 | 5 | +39.66 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -34,10 +34,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | Diabolical-Prize | 5 | 0 | 0 | +23.93 USD |
+|  | 39 | 30 | 0 | +23.01 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 1 | +18.45 USD |
 | GoalLineGhost | 52 | 18 | 15 | +17.70 USD |
-|  | 38 | 30 | 1 | +16.25 USD |
 | ExplosiveNinja | 34 | 20 | 0 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 754 | 466 | 16 | -232.87 USD |
+| ferrariChampions2026 | 754 | 467 | 15 | -237.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4951
-- **Aciertos:** 3120 (63.0%)
+- **Apuestas resueltas:** 4954
+- **Aciertos:** 3121 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,708.70
+- **Total apostado (suma de stakes):** $24,720.86
 - **ROI sobre lo apostado:** -1.41%
-- **Comisiones pagadas (taker fee):** $459.81 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $460.14 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2542 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 2545 | 50.4% | 50.0% | +0.3 pp |
 | 60-79% | 1480 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 662 | 86.0% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 267 | 97.0% | 97.3% | -0.3 pp |
@@ -982,8 +982,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Matej Dodig (BUY) | 58% | 3.37 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. New York Yankees | New York Mets (BUY) | 46% | 5.00 | 3.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.3% | ⏳ pendiente | — |
-|  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.3% | ❌ perdida | -2.22 |
+|  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ⏳ pendiente | — |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ⏳ pendiente | — |
@@ -998,7 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Montreux: Simona Waltert vs Dalma Galfi | Dalma Galfi (BUY) | 55% | 5.00 | 5.8% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
-| ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.9% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 43.1% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 10.7% | ❌ perdida | -5.14 |
