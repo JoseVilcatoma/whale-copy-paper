@@ -127181,5 +127181,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789113884.7324603,
     "fills": 1
+  },
+  {
+    "timestamp": 1789113895,
+    "timestamp_added": 1789113895.5171397,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "jap-vis-kas-2026-09-11-kas",
+    "title": "Will Kashima Antlers win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2574.2436,
+    "whale_pct": 1.063,
+    "whale_value_at_open": 242207.1066,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789113896.2620242,
+    "fills": 2
   }
 ]

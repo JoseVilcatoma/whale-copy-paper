@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 03:04:55 (hora de Perú)
+Actualizado: 2026-09-11 03:06:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.99
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 03:04:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $7.99)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $2.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 109 | 79 | 6 | -149.70 USD |
+|  | 109 | 79 | 7 | -149.70 USD |
 | ferrariChampions2026 | 735 | 458 | 5 | -245.01 USD |
 
 ## Análisis general
@@ -972,6 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Kashima Antlers win on 2026-09-11? | No (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 1 | Over (BUY) | 81% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 - Map 1 Winn | G2 (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -1001,4 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ❌ perdida | -5.15 |
-| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 20.9% | ⏳ pendiente | — |
