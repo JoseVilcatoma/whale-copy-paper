@@ -128987,5 +128987,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789158925.3860521,
     "fills": 1
+  },
+  {
+    "timestamp": 1789159490,
+    "timestamp_added": 1789159491.3734417,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-lgc-mibr-2026-09-12-map-handicap-away-1pt5",
+    "title": "Map Handicap: LGC (-1.5) vs MIBR (+1.5)",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 503.6694,
+    "whale_pct": 0.709,
+    "whale_value_at_open": 71024.6274,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789159491.3734539,
+    "fills": 1
   }
 ]
