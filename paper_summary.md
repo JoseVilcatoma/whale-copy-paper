@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:54:29 (hora de Perú)
+Actualizado: 2026-09-11 02:56:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.99
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 02:54:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $27.99)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $22.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 4 | -149.70 USD |
-| ferrariChampions2026 | 735 | 458 | 4 | -245.01 USD |
+| ferrariChampions2026 | 735 | 458 | 5 | -245.01 USD |
 
 ## Análisis general
 
@@ -971,6 +971,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Shanghai: Ji-Sung Nam vs Luca Castelnuov | Luca Castelnuovo (BUY) | 75% | 5.00 | 10.2% | ⏳ pendiente | — |
 | Flaznorp | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Zverev vs Karen K | Alexander Zverev (BUY) | 82% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Olympique de Marseille (-1.5) | Stade Rennais FC 1901 (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1000,4 +1001,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 4.5 | Under (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |

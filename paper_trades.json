@@ -127083,5 +127083,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789112177.0966733,
     "fills": 1
+  },
+  {
+    "timestamp": 1789113294,
+    "timestamp_added": 1789113294.922891,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nam-casteln-2026-09-11",
+    "title": "Shanghai: Ji-Sung Nam vs Luca Castelnuovo",
+    "outcome": "Luca Castelnuovo",
+    "side": "BUY",
+    "whale_usd": 7594.626889000001,
+    "whale_pct": 10.161,
+    "whale_value_at_open": 74743.7182,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789113295.6295757,
+    "fills": 2
   }
 ]
