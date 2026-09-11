@@ -127205,5 +127205,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789113896.2620242,
     "fills": 2
+  },
+  {
+    "timestamp": 1789114247,
+    "timestamp_added": 1789114248.2363646,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kuzmano-mayot-2026-09-11-first-set-winner-Kuzmanov-vs-Mayot",
+    "title": "Set 1 Winner: Kuzmanov vs Mayot",
+    "outcome": "Kuzmanov",
+    "side": "BUY",
+    "whale_usd": 590.0,
+    "whale_pct": 0.733,
+    "whale_value_at_open": 80538.558,
+    "paper_stake_usd": 2.99,
+    "odds_at_bet": 45,
+    "fee_usd": 0.082,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789114248.2363758,
+    "fills": 1
   }
 ]
