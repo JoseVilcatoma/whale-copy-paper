@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 09:15:07 (hora de Perú)
+Actualizado: 2026-09-11 09:17:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $259.75
@@ -978,7 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Daniil Glinka (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ⏳ pendiente | — |
 |  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
