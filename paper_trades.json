@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 1031.7046159999998,
-    "whale_pct": 1.605,
+    "whale_usd": 25531.704616,
+    "whale_pct": 39.731,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789158925.3860521,
-    "fills": 1
+    "last_fill_at": 1789168530.5331244,
+    "fills": 2
   },
   {
     "timestamp": 1789159490,
@@ -129422,6 +129422,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789167916.9520564,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789168544,
+    "timestamp_added": 1789168545.5342882,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-hle1-t1-2026-09-12",
+    "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 30000.0,
+    "whale_pct": 27.247,
+    "whale_value_at_open": 110103.7531,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789168545.5343003,
     "fills": 1
   }
 ]

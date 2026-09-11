@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 18:14:46 (hora de Perú)
+Actualizado: 2026-09-11 18:16:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 18:14:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $109.86)
+**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $104.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| Diabolical-Prize | 5 | 0 | 1 | +23.93 USD |
+| Diabolical-Prize | 5 | 0 | 2 | +23.93 USD |
 |  | 39 | 30 | 2 | +23.01 USD |
 | GoalLineGhost | 63 | 22 | 0 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -982,6 +982,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 27.2% | ⏳ pendiente | — |
 | Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Washington Nation | Washington Nationals (BUY) | 55% | 5.00 | 28.9% | ⏳ pendiente | — |
 |  | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 24.5% | ⏳ pendiente | — |
@@ -1000,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ⏳ pendiente | — |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: | Under (BUY) | 50% | 5.00 | 177.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 49% | 5.00 | 39.7% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rice vs. Notre Dame: O/U 54.5 | Over (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Matej Dodig (BUY) | 58% | 3.37 | 4.3% | ✅ ganada | +2.37 |
 | ferrariChampions2026 | New York Mets vs. New York Yankees | New York Mets (BUY) | 46% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -1011,4 +1012,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 11.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
