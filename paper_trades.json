@@ -126439,8 +126439,8 @@
     "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "1WIN",
     "side": "BUY",
-    "whale_usd": 27602.777600000005,
-    "whale_pct": 41.419,
+    "whale_usd": 44722.68920000001,
+    "whale_pct": 67.108,
     "whale_value_at_open": 66642.4194,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -126451,8 +126451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789120816.1189964,
-    "fills": 12
+    "last_fill_at": 1789131815.7177382,
+    "fills": 13
   },
   {
     "timestamp": 1789105332,
@@ -128106,6 +128106,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789131743.9894245,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789131815,
+    "timestamp_added": 1789131815.7216015,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cs2-1win-nemi1-2026-09-11",
+    "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 68692.57790000002,
+    "whale_pct": 199.986,
+    "whale_value_at_open": 34348.7003,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "mmklop"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789131815.7216094,
     "fills": 1
   }
 ]
