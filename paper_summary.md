@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 17:06:11 (hora de Perú)
+Actualizado: 2026-09-11 17:08:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $272.14
-**Retorno acumulado:** -45.57%
+**Bankroll actual:** $273.50
+**Retorno acumulado:** -45.30%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 17:06:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $107.97)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $119.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,18 +150,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 115 | 81 | 3 | -131.69 USD |
-| ferrariChampions2026 | 757 | 470 | 9 | -244.68 USD |
+|  | 115 | 82 | 2 | -136.82 USD |
+| ferrariChampions2026 | 758 | 470 | 8 | -238.20 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4984
-- **Aciertos:** 3140 (63.0%)
+- **Apuestas resueltas:** 4986
+- **Aciertos:** 3141 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,868.81
-- **ROI sobre lo apostado:** -1.42%
-- **Comisiones pagadas (taker fee):** $463.05 (1.86% del capital apostado)
+- **Total apostado (suma de stakes):** $24,878.81
+- **ROI sobre lo apostado:** -1.41%
+- **Comisiones pagadas (taker fee):** $463.32 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2564 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 2566 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 1486 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 666 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -1006,7 +1006,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 11.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ✅ ganada | +6.48 |
 | ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 3.9% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Facundo Acosta (BUY) | 83% | 5.00 | 4.3% | ✅ ganada | +0.98 |
 | wr0ngw4yb3tt0r | Will Girona FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |

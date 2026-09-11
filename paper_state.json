@@ -1,5 +1,5 @@
 {
-  "bankroll": 272.1437341487869,
+  "bankroll": 273.4956411255311,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25975,6 +25975,16 @@
       "timestamp": 1789163796.316275,
       "bankroll": 272.14,
       "event": "won: GoalLineGhost \u2014 AZ vs. Willem II Tilburg: O/U 4.5"
+    },
+    {
+      "timestamp": 1789164421.9191194,
+      "bankroll": 267.01,
+      "event": "lost:  \u2014 Dijon Football C\u00f4te d'Or vs. Stade Lavallois Mayenne FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789164423.3379643,
+      "bankroll": 273.5,
+      "event": "won: ferrariChampions2026 \u2014 Al Ahli Saudi Club vs. Al Hazem SC: O/U 3.5"
     }
   ]
 }
