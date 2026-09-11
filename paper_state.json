@@ -1,5 +1,5 @@
 {
-  "bankroll": 243.27947953326333,
+  "bankroll": 244.55659345731397,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25380,6 +25380,11 @@
       "timestamp": 1789102992.5909836,
       "bankroll": 243.28,
       "event": "won: GoalLineGhost \u2014 Will Millonarios FC vs. AD Cali end in a draw?"
+    },
+    {
+      "timestamp": 1789103631.3987262,
+      "bankroll": 244.56,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Filip Peliwo vs Arthur Weber"
     }
   ]
 }
