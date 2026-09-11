@@ -125249,8 +125249,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -126051,8 +126051,8 @@
     "title": "Phan Thiet 3: Cruz Hewitt vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 4840.978365,
-    "whale_pct": 2.852,
+    "whale_usd": 7448.626365,
+    "whale_pct": 4.388,
     "whale_value_at_open": 169731.4084,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -126063,8 +126063,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789099059.2189586,
-    "fills": 4
+    "last_fill_at": 1789099470.0425537,
+    "fills": 5
   },
   {
     "timestamp": 1789098374,
@@ -126099,8 +126099,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Hiroki Moriya",
     "side": "BUY",
-    "whale_usd": 3350.8360000000002,
-    "whale_pct": 2.004,
+    "whale_usd": 4980.354552,
+    "whale_pct": 2.979,
     "whale_value_at_open": 167179.862,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -126113,8 +126113,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789098958.4570353,
-    "fills": 2
+    "last_fill_at": 1789099438.551141,
+    "fills": 3
   },
   {
     "timestamp": 1789098987,

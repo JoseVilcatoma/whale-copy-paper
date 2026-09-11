@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.0615008875717,
+  "bankroll": 249.9285008875717,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25300,6 +25300,11 @@
       "timestamp": 1789098352.6064253,
       "bankroll": 255.06,
       "event": "won: GoalLineGhost \u2014 Will Vila Nova FC vs. Goi\u00e1s EC end in a draw?"
+    },
+    {
+      "timestamp": 1789099468.0277035,
+      "bankroll": 249.93,
+      "event": "lost:  \u2014 LoL: Winthrop University vs Maryville University - Game 4 Winner"
     }
   ]
 }
