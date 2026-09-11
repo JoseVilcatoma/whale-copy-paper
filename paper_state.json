@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.1317878716774,
+  "bankroll": 233.97614081285388,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25520,6 +25520,11 @@
       "timestamp": 1789118266.0102596,
       "bankroll": 233.13,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Kuzmanov vs Mayot"
+    },
+    {
+      "timestamp": 1789122371.5883362,
+      "bankroll": 233.98,
+      "event": "won: ferrariChampions2026 \u2014 W35 Reus: Lucia Cortez Llorca vs Daria Yesypchuk"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 05:24:20 (hora de Perú)
+Actualizado: 2026-09-11 05:26:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.13
-**Retorno acumulado:** -53.37%
+**Bankroll actual:** $233.98
+**Retorno acumulado:** -53.20%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 05:24:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $233.13 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $228.13 en 46 posiciones abiertas (disponible para nuevas apuestas: $5.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 109 | 79 | 7 | -149.70 USD |
-| ferrariChampions2026 | 737 | 460 | 4 | -247.63 USD |
+| ferrariChampions2026 | 738 | 460 | 3 | -246.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4893
-- **Aciertos:** 3079 (62.9%)
+- **Apuestas resueltas:** 4894
+- **Aciertos:** 3080 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,422.19
+- **Total apostado (suma de stakes):** $24,427.19
 - **ROI sobre lo apostado:** -1.60%
-- **Comisiones pagadas (taker fee):** $454.26 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $454.29 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2507 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1470 | 68.4% | 67.8% | +0.7 pp |
-| 80-94% | 651 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 652 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -978,7 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 2 | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | M15 Monastir: Hazem Naw vs Matthew Carro | Hazem Naw (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Kashiwa Reysol win on 2026-09-11? | Yes (BUY) | 58% | 4.91 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | W35 Reus: Lucia Cortez Llorca vs Daria Y | Lucia Cortez Llorca (BUY) | 85% | 5.00 | 4.3% | ✅ ganada | +0.84 |
 | mmklop | Counter-Strike: paiN vs ShindeN (BO3) -  | paiN (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Kuzmanov vs Mayot | Kuzmanov (BUY) | 45% | 2.99 | 0.7% | ❌ perdida | -3.07 |
 |  | Will Kashima Antlers win on 2026-09-11? | No (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
