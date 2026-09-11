@@ -125441,8 +125441,8 @@
     "title": "Independiente del Valle vs. CR Flamengo: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 581.17,
-    "whale_pct": 0.445,
+    "whale_usd": 1471.1713,
+    "whale_pct": 1.126,
     "whale_value_at_open": 130645.4844,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -125453,8 +125453,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789086247.7614377,
-    "fills": 1
+    "last_fill_at": 1789087043.2968516,
+    "fills": 2
   },
   {
     "timestamp": 1789086447,
