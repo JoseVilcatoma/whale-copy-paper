@@ -1,5 +1,5 @@
 {
-  "bankroll": 234.59912120501073,
+  "bankroll": 233.1317878716774,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25510,6 +25510,16 @@
       "timestamp": 1789117653.2865787,
       "bankroll": 234.6,
       "event": "won: Flaznorp \u2014 Shanghai: Ilya Ivashka vs Yi Zhou"
+    },
+    {
+      "timestamp": 1789118265.2520738,
+      "bankroll": 236.2,
+      "event": "won: ferrariChampions2026 \u2014 Shanghai: Ji-Sung Nam vs Luca Castelnuovo"
+    },
+    {
+      "timestamp": 1789118266.0102596,
+      "bankroll": 233.13,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Kuzmanov vs Mayot"
     }
   ]
 }
