@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:35:53 (hora de Perú)
+Actualizado: 2026-09-11 00:37:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:35:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $107.61)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $102.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 29 | 17 | 2 | +9.27 USD |
+| ExplosiveNinja | 29 | 17 | 3 | +9.27 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -968,6 +968,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 5.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -997,4 +998,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | Yes (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | wr0ngw4yb3tt0r | Spread: 49ers (-3.5) | 49ers (BUY) | 49% | 5.00 | 0.6% | ✅ ganada | +5.08 |
 | GoalLineGhost | Will Millonarios FC vs. AD Cali end in a | No (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
-| wr0ngw4yb3tt0r | 49ers vs. Rams: O/U 40.5 | Under (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |

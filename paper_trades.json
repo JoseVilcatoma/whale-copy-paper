@@ -126429,5 +126429,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789104947.166813,
     "fills": 2
+  },
+  {
+    "timestamp": 1789105014,
+    "timestamp_added": 1789105015.2283714,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-1win-nemi1-2026-09-11",
+    "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 3896.9164,
+    "whale_pct": 5.848,
+    "whale_value_at_open": 66642.4194,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789105015.228383,
+    "fills": 1
   }
 ]
