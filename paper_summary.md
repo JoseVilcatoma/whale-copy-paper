@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 12:14:24 (hora de Perú)
+Actualizado: 2026-09-11 12:16:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $263.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 12:14:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $248.60 en 50 posiciones abiertas (disponible para nuevas apuestas: $15.19)
+**Capital comprometido ahora mismo:** $258.60 en 52 posiciones abiertas (disponible para nuevas apuestas: $5.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 113 | 80 | 6 | -135.47 USD |
-| ferrariChampions2026 | 750 | 465 | 14 | -237.79 USD |
+| ferrariChampions2026 | 750 | 465 | 16 | -237.79 USD |
 
 ## Análisis general
 
@@ -979,6 +979,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Facundo Acosta (BUY) | 83% | 5.00 | 3.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Girona FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Sebastian Ofner (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC København (-1.5) | AC Horsens (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -986,7 +988,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Siniakova/Townsend vs Mont | Montgomery/Krueger (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | 1. FC Nürnberg vs. Hannover 96: O/U 3.5 | Over (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Laslo Djere (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
-| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 25.7% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: paiN vs ShindeN (BO3) -  | ShindeN (BUY) | 45% | 5.00 | 28.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa: Laslo Djere vs Stefanos Sakellari | Stefanos Sakellaridis (BUY) | 42% | 5.00 | 10.7% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: paiN (-1.5) vs ShindeN (+1 | ShindeN (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1007,5 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 3.4% | ⏳ pendiente | — |
 | GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 1.5 | Over (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | Montreux: Clara Burel vs Guiomar Marista | Guiomar Maristany (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Zdenek Kolar (BUY) | 68% | 5.00 | 41.6% | ❌ perdida | -5.08 |
