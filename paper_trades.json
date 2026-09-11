@@ -126051,8 +126051,8 @@
     "title": "Phan Thiet 3: Cruz Hewitt vs Max Purcell",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 3018.7766,
-    "whale_pct": 1.779,
+    "whale_usd": 4840.978365,
+    "whale_pct": 2.852,
     "whale_value_at_open": 169731.4084,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -126063,8 +126063,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789097905.810739,
-    "fills": 2
+    "last_fill_at": 1789099059.2189586,
+    "fills": 4
   },
   {
     "timestamp": 1789098374,
@@ -126115,5 +126115,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789098958.4570353,
     "fills": 2
+  },
+  {
+    "timestamp": 1789098987,
+    "timestamp_added": 1789098988.2171059,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "spl-fai-ith-2026-09-11-ith",
+    "title": "Will Al Ittihad Saudi Club win on 2026-09-11?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 805.6199999999999,
+    "whale_pct": 0.608,
+    "whale_value_at_open": 132582.0996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789098988.2171168,
+    "fills": 1
   }
 ]
