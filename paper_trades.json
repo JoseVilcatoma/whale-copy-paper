@@ -126894,8 +126894,8 @@
     "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 18364.923000000003,
-    "whale_pct": 11.046,
+    "whale_usd": 20820.573000000004,
+    "whale_pct": 12.523,
     "whale_value_at_open": 166255.2366,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -126909,8 +126909,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789110959.482761,
-    "fills": 4
+    "last_fill_at": 1789111069.3168304,
+    "fills": 7
   },
   {
     "timestamp": 1789110544,
