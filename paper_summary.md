@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 01:54:25 (hora de Perú)
+Actualizado: 2026-09-11 01:56:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 01:54:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $42.61)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $32.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 46 | 14 | 13 | +29.14 USD |
+| GoalLineGhost | 46 | 14 | 14 | +29.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -133,7 +133,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 102 | 38 | 4 | -10.56 USD |
+| Flaznorp | 102 | 38 | 5 | -10.56 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -969,6 +969,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
@@ -997,5 +999,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 8.0% | ⏳ pendiente | — |
