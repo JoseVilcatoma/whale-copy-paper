@@ -125515,8 +125515,8 @@
     "title": "49ers vs. Rams",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 27637.6089,
-    "whale_pct": 20.596,
+    "whale_usd": 29006.199,
+    "whale_pct": 21.616,
     "whale_value_at_open": 134188.7214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -125527,8 +125527,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789088108.574895,
-    "fills": 7
+    "last_fill_at": 1789088489.7418015,
+    "fills": 8
   },
   {
     "timestamp": 1789087239,
