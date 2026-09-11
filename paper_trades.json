@@ -129239,8 +129239,8 @@
     "title": "Cincinnati Reds vs. Milwaukee Brewers: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 16997.850235,
-    "whale_pct": 24.589,
+    "whale_usd": 21121.290235,
+    "whale_pct": 30.554,
     "whale_value_at_open": 69126.6248,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -129251,8 +129251,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789170159.575408,
-    "fills": 9
+    "last_fill_at": 1789170259.1117086,
+    "fills": 11
   },
   {
     "timestamp": 1789163314,
