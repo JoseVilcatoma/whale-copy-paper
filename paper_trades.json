@@ -128437,8 +128437,8 @@
     "title": "Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs",
     "outcome": "ShindeN",
     "side": "BUY",
-    "whale_usd": 7040.0,
-    "whale_pct": 3.905,
+    "whale_usd": 10560.0,
+    "whale_pct": 5.858,
     "whale_value_at_open": 180265.1514,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -128451,8 +128451,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789139839.4554155,
-    "fills": 1
+    "last_fill_at": 1789143028.3820462,
+    "fills": 2
   },
   {
     "timestamp": 1789142358,
