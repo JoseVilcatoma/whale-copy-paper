@@ -1,5 +1,5 @@
 {
-  "bankroll": 263.78859540738983,
+  "bankroll": 267.76750449829893,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25750,6 +25750,11 @@
       "timestamp": 1789146203.1842816,
       "bankroll": 263.79,
       "event": "won: ferrariChampions2026 \u2014 Genoa: Laslo Djere vs Stefanos Sakellaridis"
+    },
+    {
+      "timestamp": 1789147137.8225703,
+      "bankroll": 267.77,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Siniakova/Townsend vs Montgomery/Krueger"
     }
   ]
 }
