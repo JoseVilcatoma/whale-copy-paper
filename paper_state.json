@@ -1,5 +1,5 @@
 {
-  "bankroll": 273.3244034679734,
+  "bankroll": 276.28573680130677,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25950,6 +25950,11 @@
       "timestamp": 1789160983.572958,
       "bankroll": 273.32,
       "event": "won:  \u2014 Venezia FC vs. ACF Fiorentina: O/U 2.5"
+    },
+    {
+      "timestamp": 1789161933.063548,
+      "bankroll": 276.29,
+      "event": "won: ferrariChampions2026 \u2014 Sevilla FC vs. Valencia CF: O/U 2.5"
     }
   ]
 }
