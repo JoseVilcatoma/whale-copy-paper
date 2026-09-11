@@ -126649,5 +126649,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789107157.1755495,
     "fills": 9
+  },
+  {
+    "timestamp": 1789108130,
+    "timestamp_added": 1789108130.9911184,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-mdlulw1-marink1-2026-09-11",
+    "title": "W15 Hurghada: Wozuko Mdlulwa vs Iva Marinkovic",
+    "outcome": "Iva Marinkovic",
+    "side": "BUY",
+    "whale_usd": 718.1,
+    "whale_pct": 0.211,
+    "whale_value_at_open": 340574.2138,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789108130.9911256,
+    "fills": 1
   }
 ]
