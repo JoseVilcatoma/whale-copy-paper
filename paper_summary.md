@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:10:53 (hora de Perú)
+Actualizado: 2026-09-10 22:12:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $239.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-10 22:10:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $199.60 en 40 posiciones abiertas (disponible para nuevas apuestas: $39.50)
+**Capital comprometido ahora mismo:** $209.60 en 42 posiciones abiertas (disponible para nuevas apuestas: $29.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
-| quavoo | 30 | 17 | 1 | +2.86 USD |
+| quavoo | 30 | 17 | 2 | +2.86 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -139,7 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| Zzzz87 | 1 | 4 | 0 | -17.28 USD |
+| Zzzz87 | 1 | 4 | 1 | -17.28 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -965,7 +965,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Zzzz87 | Stade Rennais FC 1901 vs. Olympique de M | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
+| nigiri99 | Vissel Kōbe vs. Kashima Antlers: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Coco Gauff (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | vjnn | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 63% | 5.00 | 91.5% | ⏳ pendiente | — |
@@ -993,5 +995,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | M15 Wuning: Jaesung Choe vs Yuta Tomida | Yuta Tomida (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | LoL: Winthrop University vs Maryville Un | Winthrop University (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago White Sox | Chicago White Sox (BUY) | 53% | 5.00 | 3.7% | ❌ perdida | -5.12 |
-| GoalLineGhost | Will SC Recife win on 2026-09-10? | Yes (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colorado Rockies vs. New York Yankees: O | Under (BUY) | 54% | 5.00 | 0.5% | ❌ perdida | -5.12 |
