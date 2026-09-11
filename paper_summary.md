@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 15:52:05 (hora de Perú)
+Actualizado: 2026-09-11 15:54:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $276.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 15:52:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $233.75 en 47 posiciones abiertas (disponible para nuevas apuestas: $42.71)
+**Capital comprometido ahora mismo:** $243.75 en 49 posiciones abiertas (disponible para nuevas apuestas: $32.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
+| pleaseplease123 | 26 | 21 | 1 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -121,7 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
-| Talvez10 | 15 | 13 | 0 | -5.31 USD |
+| Talvez10 | 15 | 13 | 1 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -975,11 +975,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kolar-barrena-2026-09-11 | , ferrariChampions2026 |
 | fl1-ren-olm-2026-09-11-total-3pt5 | GoalLineGhost, ferrariChampions2026 |
 | lal-sev-val-2026-09-11-sev | ferrariChampions2026, wr0ngw4yb3tt0r |
+| mlb-cle-min-2026-09-11-total-7pt5 | Talvez10, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ⏳ pendiente | — |
+| pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: | Under (BUY) | 50% | 5.00 | 177.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Rice vs. Notre Dame: O/U 54.5 | Over (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1008,5 +1011,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: paiN (-1.5) vs ShindeN (+1 | ShindeN (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Titouan Droguet (BUY) | 46% | 4.92 | 28.3% | ✅ ganada | +5.64 |
-| ferrariChampions2026 | Sevilla FC vs. Valencia CF: O/U 2.5 | Under (BUY) | 60% | 4.58 | 5.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ✅ ganada | +5.08 |
