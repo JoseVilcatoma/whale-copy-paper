@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.5466162664376,
+  "bankroll": 237.61353740526351,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25410,6 +25410,21 @@
       "timestamp": 1789104572.6259332,
       "bankroll": 236.55,
       "event": "won: wr0ngw4yb3tt0r \u2014 49ers vs. Rams: O/U 40.5"
+    },
+    {
+      "timestamp": 1789104888.6079373,
+      "bankroll": 231.41,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Rams (-3.5)"
+    },
+    {
+      "timestamp": 1789104888.7081118,
+      "bankroll": 236.49,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Rams (-3.5)"
+    },
+    {
+      "timestamp": 1789104890.581124,
+      "bankroll": 237.61,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Cruz Hewitt vs Max Purcell"
     }
   ]
 }

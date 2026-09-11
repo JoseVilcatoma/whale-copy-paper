@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:33:50 (hora de Perú)
+Actualizado: 2026-09-11 00:35:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.55
-**Retorno acumulado:** -52.69%
+**Bankroll actual:** $237.61
+**Retorno acumulado:** -52.48%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:33:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $91.55)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $107.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 75 | 50 | 2 | +41.93 USD |
+| wr0ngw4yb3tt0r | 76 | 51 | 0 | +41.88 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -151,17 +151,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 107 | 78 | 4 | -148.40 USD |
-| ferrariChampions2026 | 732 | 456 | 4 | -242.04 USD |
+| ferrariChampions2026 | 733 | 456 | 3 | -240.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4871
-- **Aciertos:** 3065 (62.9%)
+- **Apuestas resueltas:** 4874
+- **Aciertos:** 3067 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,314.20
+- **Total apostado (suma de stakes):** $24,329.20
 - **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $452.33 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $452.64 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2497 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2499 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1463 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 646 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 647 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 265 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -968,7 +968,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 4.5 | Under (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -983,7 +983,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will Al Ittihad Saudi Club win on 2026-0 | Yes (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 7.6% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Hina Inoue vs Yufei Ren | Yufei Ren (BUY) | 68% | 5.00 | 0.4% | ✅ ganada | +2.27 |
