@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:31:49 (hora de Perú)
+Actualizado: 2026-09-11 02:33:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 02:31:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $13.79)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $8.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| GoalLineGhost | 46 | 14 | 14 | +29.14 USD |
+| GoalLineGhost | 46 | 14 | 15 | +29.14 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 |  | 37 | 27 | 0 | +26.63 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -970,6 +970,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: Olympique de Marseille (-1.5) | Stade Rennais FC 1901 (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Wozuko Mdlulwa (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -999,4 +1000,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 4.5 | Under (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kyōto Sanga FC win on 2026-09-11? | No (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 1.7% | ⏳ pendiente | — |
-|  | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.6% | ⏳ pendiente | — |

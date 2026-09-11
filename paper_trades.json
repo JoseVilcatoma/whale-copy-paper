@@ -127009,5 +127009,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789111843.201254,
     "fills": 1
+  },
+  {
+    "timestamp": 1789111921,
+    "timestamp_added": 1789111921.755586,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "fl1-ren-olm-2026-09-11-spread-away-1pt5",
+    "title": "Spread: Olympique de Marseille (-1.5)",
+    "outcome": "Stade Rennais FC 1901",
+    "side": "BUY",
+    "whale_usd": 1698.9984000000002,
+    "whale_pct": 1.314,
+    "whale_value_at_open": 129283.1255,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789111921.7555945,
+    "fills": 1
   }
 ]
