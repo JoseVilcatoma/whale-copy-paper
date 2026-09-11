@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 01:00:25 (hora de Perú)
+Actualizado: 2026-09-11 01:02:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 01:00:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $77.61)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $72.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 26 | 21 | 0 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 29 | 17 | 3 | +9.27 USD |
+| ExplosiveNinja | 29 | 17 | 4 | +9.27 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -969,6 +969,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: MIBR vs Alliance (BO3) - | MIBR (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -998,4 +999,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Stade Rennais FC 1901 vs. Olympique de M | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Vissel Kōbe vs. Kashima Antlers: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 3.3% | ✅ ganada | +1.28 |
-|  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |

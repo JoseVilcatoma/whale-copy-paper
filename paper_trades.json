@@ -126577,5 +126577,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789106256.1705432,
     "fills": 1
+  },
+  {
+    "timestamp": 1789106528,
+    "timestamp_added": 1789106529.0598197,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-mibr-all-2026-09-11",
+    "title": "Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 636.3636369999999,
+    "whale_pct": 0.758,
+    "whale_value_at_open": 83916.3499,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789106529.0598283,
+    "fills": 1
   }
 ]
