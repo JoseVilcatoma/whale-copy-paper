@@ -127459,8 +127459,8 @@
     "title": "Istanbul 3: Francesco Maestrelli vs Maks Kasnikowski",
     "outcome": "Maks Kasnikowski",
     "side": "BUY",
-    "whale_usd": 7791.9925,
-    "whale_pct": 4.051,
+    "whale_usd": 8849.2426,
+    "whale_pct": 4.6,
     "whale_value_at_open": 192354.9896,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -127471,8 +127471,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789124635.3828654,
-    "fills": 2
+    "last_fill_at": 1789125790.78547,
+    "fills": 3
   },
   {
     "timestamp": 1789124634,
@@ -127546,6 +127546,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789124880.66572,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789125752,
+    "timestamp_added": 1789125752.8650997,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-erel-friend-2026-09-11",
+    "title": "Istanbul 3: Yanki Erel vs Jay Dylan Friend",
+    "outcome": "Jay Dylan Friend",
+    "side": "BUY",
+    "whale_usd": 3527.43336,
+    "whale_pct": 1.031,
+    "whale_value_at_open": 342089.2408,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789125752.8651154,
     "fills": 1
   }
 ]
