@@ -129143,8 +129143,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 16017.7868,
-    "whale_pct": 18.773,
+    "whale_usd": 18697.3462,
+    "whale_pct": 21.913,
     "whale_value_at_open": 85324.8141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129155,8 +129155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789163989.4456685,
-    "fills": 3
+    "last_fill_at": 1789164884.5673704,
+    "fills": 4
   },
   {
     "timestamp": 1789162199,
@@ -129301,5 +129301,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789164069.7629712,
     "fills": 2
+  },
+  {
+    "timestamp": 1789164895,
+    "timestamp_added": 1789164896.2530198,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-1win-b8-2026-09-12",
+    "title": "Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 583.3828,
+    "whale_pct": 0.497,
+    "whale_value_at_open": 117286.7813,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789164896.2530332,
+    "fills": 1
   }
 ]
