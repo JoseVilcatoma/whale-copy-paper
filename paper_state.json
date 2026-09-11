@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.5384264564792,
+  "bankroll": 272.1437341487869,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25970,6 +25970,11 @@
       "timestamp": 1789162246.2821314,
       "bankroll": 269.54,
       "event": "lost: ferrariChampions2026 \u2014 Will Sevilla FC win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789163796.316275,
+      "bankroll": 272.14,
+      "event": "won: GoalLineGhost \u2014 AZ vs. Willem II Tilburg: O/U 4.5"
     }
   ]
 }
