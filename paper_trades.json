@@ -127605,8 +127605,8 @@
     "title": "Cassis: Nicolai Budkov Kjaer vs Moez Echargui",
     "outcome": "Nicolai Budkov Kjaer",
     "side": "BUY",
-    "whale_usd": 22080.595804999997,
-    "whale_pct": 10.222,
+    "whale_usd": 23750.878804999997,
+    "whale_pct": 10.996,
     "whale_value_at_open": 216004.7741,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -127617,8 +127617,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789132762.0947676,
-    "fills": 9
+    "last_fill_at": 1789133217.9973915,
+    "fills": 10
   },
   {
     "timestamp": 1789128335,
