@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.2282602469317,
+  "bankroll": 248.36811738978884,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25345,6 +25345,21 @@
       "timestamp": 1789101209.668836,
       "bankroll": 250.23,
       "event": "won: GoalLineGhost \u2014 Will Independiente del Valle vs. CR Flamengo end in a draw?"
+    },
+    {
+      "timestamp": 1789101269.8021946,
+      "bankroll": 252.3,
+      "event": "won: GoalLineGhost \u2014 Will Independiente del Valle win on 2026-09-10?"
+    },
+    {
+      "timestamp": 1789101270.8363793,
+      "bankroll": 253.5,
+      "event": "won: GoalLineGhost \u2014 Will CS Cienciano vs. Montevideo City Torque end in a draw?"
+    },
+    {
+      "timestamp": 1789101271.5169141,
+      "bankroll": 248.37,
+      "event": "lost:  \u2014 CS Cienciano vs. Montevideo City Torque: O/U 3.5"
     }
   ]
 }
