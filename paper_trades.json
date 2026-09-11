@@ -126025,8 +126025,8 @@
     "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
     "outcome": "Yuta Shimizu",
     "side": "BUY",
-    "whale_usd": 12651.835822999998,
-    "whale_pct": 7.566,
+    "whale_usd": 13305.005822999998,
+    "whale_pct": 7.957,
     "whale_value_at_open": 167214.0431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -126039,8 +126039,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789102271.4449065,
-    "fills": 7
+    "last_fill_at": 1789108917.208446,
+    "fills": 8
   },
   {
     "timestamp": 1789097806,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 01:41:53 (hora de Perú)
+Actualizado: 2026-09-11 01:43:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -997,5 +997,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 69% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | 1. FC Union Berlin vs. FC Schalke 04: O/ | Over (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Cruz Hewitt vs Max Purcell | Max Purcell (BUY) | 81% | 5.00 | 7.2% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 65% | 5.00 | 8.0% | ⏳ pendiente | — |
 |  | Counter-Strike: FURIA vs G2 (BO3) - FISS | FURIA (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
