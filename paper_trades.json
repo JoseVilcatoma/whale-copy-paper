@@ -128915,5 +128915,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789156106.2834134,
     "fills": 1
+  },
+  {
+    "timestamp": 1789156872,
+    "timestamp_added": 1789156872.663629,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dodig-valle-2026-09-11",
+    "title": "Genoa: Matej Dodig vs Enrico Dalla Valle",
+    "outcome": "Matej Dodig",
+    "side": "BUY",
+    "whale_usd": 10286.199826,
+    "whale_pct": 4.278,
+    "whale_value_at_open": 240449.8062,
+    "paper_stake_usd": 3.37,
+    "odds_at_bet": 58,
+    "fee_usd": 0.071,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789156873.163027,
+    "fills": 2
   }
 ]
