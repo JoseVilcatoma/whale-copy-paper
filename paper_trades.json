@@ -126293,8 +126293,8 @@
     "title": "Will Olympique de Marseille win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 679.9176,
-    "whale_pct": 0.672,
+    "whale_usd": 1729.0584000000001,
+    "whale_pct": 1.708,
     "whale_value_at_open": 101244.2755,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -126305,8 +126305,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789102058.3465369,
-    "fills": 1
+    "last_fill_at": 1789111843.0011628,
+    "fills": 2
   },
   {
     "timestamp": 1789102137,
@@ -126439,8 +126439,8 @@
     "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European Qualifier Playoffs",
     "outcome": "1WIN",
     "side": "BUY",
-    "whale_usd": 5801.5191,
-    "whale_pct": 8.705,
+    "whale_usd": 9473.0411,
+    "whale_pct": 14.215,
     "whale_value_at_open": 66642.4194,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -126451,8 +126451,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789109977.3093503,
-    "fills": 2
+    "last_fill_at": 1789111849.387582,
+    "fills": 4
   },
   {
     "timestamp": 1789105332,
@@ -126763,8 +126763,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 807.402,
-    "whale_pct": 0.649,
+    "whale_usd": 1565.3956,
+    "whale_pct": 1.257,
     "whale_value_at_open": 124498.459,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -126778,8 +126778,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789109774.992936,
-    "fills": 1
+    "last_fill_at": 1789111825.358081,
+    "fills": 2
   },
   {
     "timestamp": 1789109774,
@@ -126790,8 +126790,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1050.46,
-    "whale_pct": 0.301,
+    "whale_usd": 2458.1000000000004,
+    "whale_pct": 0.705,
     "whale_value_at_open": 348521.5341,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -126805,8 +126805,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789109775.6164956,
-    "fills": 1
+    "last_fill_at": 1789111825.364461,
+    "fills": 2
   },
   {
     "timestamp": 1789110065,
@@ -126958,6 +126958,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789110774.3323708,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789111827,
+    "timestamp_added": 1789111827.6152327,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-mdlulw1-marink1-2026-09-11",
+    "title": "W15 Hurghada: Wozuko Mdlulwa vs Iva Marinkovic",
+    "outcome": "Wozuko Mdlulwa",
+    "side": "BUY",
+    "whale_usd": 823.13,
+    "whale_pct": 0.266,
+    "whale_value_at_open": 309262.0567,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789111827.6152442,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789111842,
+    "timestamp_added": 1789111843.2012424,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "fl1-ren-olm-2026-09-11-olm",
+    "title": "Will Olympique de Marseille win on 2026-09-11?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1418.076,
+    "whale_pct": 0.459,
+    "whale_value_at_open": 309262.0567,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789111843.201254,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 02:29:47 (hora de Perú)
+Actualizado: 2026-09-11 02:31:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 02:29:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $23.79)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $13.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Flaznorp | 103 | 38 | 5 | -10.03 USD |
+| Flaznorp | 103 | 38 | 7 | -10.03 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -963,20 +963,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-moriya-shimizu-2026-09-10 | , Flaznorp, ferrariChampions2026 |
 | cs2-furia-g2-2026-09-11 | , Diabolical-Prize, mmklop |
 | fl1-ren-olm-2026-09-11-ren | , Flaznorp, GoalLineGhost |
+| fl1-ren-olm-2026-09-11-olm | Flaznorp, GoalLineGhost |
 | itf-yao1-shubla1-2026-09-11 | , Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | W15 Hurghada: Wozuko Mdlulwa vs Iva Mari | Wozuko Mdlulwa (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Yi Zhou | Yi Zhou (BUY) | 49% | 5.00 | 2.2% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 46% | 5.00 | 12.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: West Ham United FC (-1.5) | Wrexham AFC (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 90% | 5.00 | 0.5% | ✅ ganada | +0.53 |
 | Flaznorp | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | No (BUY) | 54% | 5.00 | 11.2% | ⏳ pendiente | — |
@@ -989,13 +992,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 8.7% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: 1WIN vs Nemiga (BO3) - P | 1WIN (BUY) | 53% | 5.00 | 14.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Samsung Lions | Samsung Lions (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vissel Kōbe win on 2026-09-11? | No (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Vissel Kōbe vs. Kashima Antlers: O/U 4.5 | Under (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kyōto Sanga FC win on 2026-09-11? | No (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
-| GoalLineGhost | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will Olympique de Marseille win on 2026- | No (BUY) | 73% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.6% | ⏳ pendiente | — |
-| GoalLineGhost | Venezia FC vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: FC Schalke 04 (-2.5) | 1. FC Union Berlin (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
