@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 10:02:24 (hora de Perú)
+Actualizado: 2026-09-11 10:04:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $252.81
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 10:02:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $243.13 en 49 posiciones abiertas (disponible para nuevas apuestas: $9.68)
+**Capital comprometido ahora mismo:** $248.13 en 50 posiciones abiertas (disponible para nuevas apuestas: $4.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 112 | 80 | 7 | -142.23 USD |
-| ferrariChampions2026 | 747 | 462 | 12 | -236.97 USD |
+| ferrariChampions2026 | 747 | 462 | 13 | -236.97 USD |
 
 ## Análisis general
 
@@ -978,6 +978,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Game Handicap: Navi (-1.5) vs GIANTX (+1 | GIANTX (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cassis: Titouan Droguet vs Daniil Glinka | Titouan Droguet (BUY) | 46% | 4.92 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sevilla FC vs. Valencia CF: O/U 2.5 | Under (BUY) | 60% | 4.58 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1007,4 +1008,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 49% | 5.00 | 2.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Antalya 4: Rositsa Dencheva vs Maria Lou | Rositsa Dencheva (BUY) | 84% | 5.00 | 6.4% | ✅ ganada | +0.91 |
-|  | Cassis: Nicolai Budkov Kjaer vs Moez Ech | Moez Echargui (BUY) | 41% | 5.00 | 276.5% | ❌ perdida | -5.15 |
