@@ -129143,8 +129143,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 7126.9806,
-    "whale_pct": 8.353,
+    "whale_usd": 12290.6754,
+    "whale_pct": 14.405,
     "whale_value_at_open": 85324.8141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129155,8 +129155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789162188.3744957,
-    "fills": 1
+    "last_fill_at": 1789163085.9745612,
+    "fills": 2
   },
   {
     "timestamp": 1789162199,
@@ -129191,8 +129191,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 555.1168,
-    "whale_pct": 0.575,
+    "whale_usd": 3137.0001999999995,
+    "whale_pct": 3.248,
     "whale_value_at_open": 96580.0449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -129203,8 +129203,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789162320.171352,
-    "fills": 1
+    "last_fill_at": 1789163088.5469394,
+    "fills": 2
   },
   {
     "timestamp": 1789162352,
@@ -129229,5 +129229,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789162998.7059004,
     "fills": 8
+  },
+  {
+    "timestamp": 1789163021,
+    "timestamp_added": 1789163022.702295,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-cin-mil-2026-09-11-total-8pt5",
+    "title": "Cincinnati Reds vs. Milwaukee Brewers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3905.55,
+    "whale_pct": 5.65,
+    "whale_value_at_open": 69126.6248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789163080.4816353,
+    "fills": 2
   }
 ]
