@@ -128803,8 +128803,8 @@
     "title": "Will Sevilla FC win on 2026-09-11?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 248084.36660000004,
-    "whale_pct": 98.202,
+    "whale_usd": 252179.36660000004,
+    "whale_pct": 99.823,
     "whale_value_at_open": 252625.9338,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -128815,8 +128815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789152907.7440643,
-    "fills": 8
+    "last_fill_at": 1789153122.8340535,
+    "fills": 9
   },
   {
     "timestamp": 1789151204,
