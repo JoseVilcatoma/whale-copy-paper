@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 03:37:50 (hora de Perú)
+Actualizado: 2026-09-11 03:39:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $236.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 03:37:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.99 en 46 posiciones abiertas (disponible para nuevas apuestas: $8.67)
+**Capital comprometido ahora mismo:** $232.99 en 47 posiciones abiertas (disponible para nuevas apuestas: $3.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 31 | 17 | 4 | +17.07 USD |
+| ExplosiveNinja | 31 | 17 | 5 | +17.07 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 84 | 51 | 0 | +16.67 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -972,6 +972,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: paiN vs ShindeN (BO3) -  | paiN (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Kuzmanov vs Mayot | Kuzmanov (BUY) | 45% | 2.99 | 0.7% | ⏳ pendiente | — |
 |  | Will Kashima Antlers win on 2026-09-11? | No (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Kyōto Sanga FC vs. Kashiwa Reysol: O/U 1 | Over (BUY) | 81% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1001,4 +1002,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | AZ vs. Willem II Tilburg: O/U 4.5 | Under (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ❌ perdida | -5.10 |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ✅ ganada | +3.52 |
