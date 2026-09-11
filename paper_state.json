@@ -1,5 +1,5 @@
 {
-  "bankroll": 239.0388443616896,
+  "bankroll": 241.2072211732838,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25180,6 +25180,11 @@
       "timestamp": 1789086551.309972,
       "bankroll": 239.04,
       "event": "won: ferrariChampions2026 \u2014 Barranquilla: Carol Young Suh Lee vs Leolia Jeanjean"
+    },
+    {
+      "timestamp": 1789089113.2018723,
+      "bankroll": 241.21,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Aryna Sabalenka vs Jessica Pegula"
     }
   ]
 }
