@@ -128693,5 +128693,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789147068.8317292,
     "fills": 1
+  },
+  {
+    "timestamp": 1789148036,
+    "timestamp_added": 1789148037.711848,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-okl-mich-2026-09-12-spread-away-5pt5",
+    "title": "Spread: Oklahoma (-5.5)",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "whale_usd": 20589.0,
+    "whale_pct": 10.175,
+    "whale_value_at_open": 202348.9611,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789148037.7118616,
+    "fills": 1
   }
 ]

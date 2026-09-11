@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 12:32:53 (hora de Perú)
+Actualizado: 2026-09-11 12:34:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $267.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 12:32:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.60 en 52 posiciones abiertas (disponible para nuevas apuestas: $9.17)
+**Capital comprometido ahora mismo:** $263.60 en 53 posiciones abiertas (disponible para nuevas apuestas: $4.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 76 | 51 | 3 | +41.88 USD |
+| wr0ngw4yb3tt0r | 76 | 51 | 4 | +41.88 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -979,6 +979,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Oklahoma (-5.5) | Oklahoma (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Al Ahli Saudi Club vs. Al Hazem SC: O/U  | Over (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Jaume Munar vs Raul Brancaccio | Jaume Munar (BUY) | 81% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seville: Facundo Acosta vs Sebastian Ofn | Facundo Acosta (BUY) | 83% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -1008,4 +1009,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Ratchaburi FC vs. Bangkok United FC | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Antalya 4: Irene Burillo Escorihuela vs  | Irene Burillo Escorihuela (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
 |  | Antalya 4: Irene Burillo Escorihuela vs  | Elizara Yaneva (BUY) | 43% | 5.00 | 27.1% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 44% | 5.00 | 3.4% | ⏳ pendiente | — |
