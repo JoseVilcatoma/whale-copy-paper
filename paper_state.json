@@ -1,5 +1,5 @@
 {
-  "bankroll": 248.36811738978884,
+  "bankroll": 243.30811738978883,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25360,6 +25360,11 @@
       "timestamp": 1789101271.5169141,
       "bankroll": 248.37,
       "event": "lost:  \u2014 CS Cienciano vs. Montevideo City Torque: O/U 3.5"
+    },
+    {
+      "timestamp": 1789102156.3130503,
+      "bankroll": 243.31,
+      "event": "lost:  \u2014 M15 Wuning: Jaesung Choe vs Yuta Tomida"
     }
   ]
 }
