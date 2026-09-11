@@ -126527,5 +126527,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789105668.43941,
     "fills": 2
+  },
+  {
+    "timestamp": 1789105730,
+    "timestamp_added": 1789105730.7710576,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-yao1-shubla1-2026-09-11",
+    "title": "W50 Guiyang: Xinxin Yao vs Alexandra Shubladze",
+    "outcome": "Xinxin Yao",
+    "side": "BUY",
+    "whale_usd": 2132.9267,
+    "whale_pct": 0.65,
+    "whale_value_at_open": 328363.8071,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789105781.187947,
+    "fills": 3
   }
 ]

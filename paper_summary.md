@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 00:48:06 (hora de Perú)
+Actualizado: 2026-09-11 00:50:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 00:48:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $87.61)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $82.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -133,7 +133,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 102 | 38 | 0 | -10.56 USD |
+| Flaznorp | 102 | 38 | 1 | -10.56 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -963,11 +963,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-moriya-shimizu-2026-09-10 | , ferrariChampions2026 |
 | cs2-furia-g2-2026-09-11 | , Diabolical-Prize |
 | fl1-ren-olm-2026-09-11-ren | , GoalLineGhost |
+| itf-yao1-shubla1-2026-09-11 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Hiroki Moriya (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Alexandra Shubladze (BUY) | 58% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Guiyang: Xinxin Yao vs Alexandra Shu | Xinxin Yao (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
@@ -997,4 +999,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 3.3% | ✅ ganada | +1.28 |
 |  | Phan Thiet 3: Hiroki Moriya vs Yuta Shim | Yuta Shimizu (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Coco Gauff vs Elena Rybakin | Coco Gauff (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| vjnn | US Open WTA: Coco Gauff vs Elena Rybakin | Elena Rybakina (BUY) | 63% | 5.00 | 91.5% | ✅ ganada | +2.84 |
