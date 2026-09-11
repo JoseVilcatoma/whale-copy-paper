@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 14:25:36 (hora de Perú)
+Actualizado: 2026-09-11 14:27:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 14:25:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $263.75 en 53 posiciones abiertas (disponible para nuevas apuestas: $2.16)
+**Capital comprometido ahora mismo:** $265.91 en 54 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 76 | 51 | 5 | +41.88 USD |
+| wr0ngw4yb3tt0r | 76 | 51 | 6 | +41.88 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -980,6 +980,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.1% | ⏳ pendiente | — |
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ⏳ pendiente | — |
@@ -1009,4 +1010,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FK Buxoro vs. Navbahor: O/U 3.5 | Under (BUY) | 75% | 4.02 | 0.3% | ❌ perdida | -4.07 |
 |  | Tulln: Joao Lucas Da Silva vs Lukas Neum | Joao Lucas Da Silva (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |
 | GoalLineGhost | Stade Rennais FC 1901 vs. Olympique de M | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Tulln: Zdenek Kolar vs Alex Barrena | Alex Barrena (BUY) | 48% | 4.61 | 49.4% | ✅ ganada | +4.87 |
