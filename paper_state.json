@@ -1,5 +1,5 @@
 {
-  "bankroll": 265.91246340497366,
+  "bankroll": 269.2840396761601,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25785,6 +25785,11 @@
       "timestamp": 1789151635.7869008,
       "bankroll": 265.91,
       "event": "won: ferrariChampions2026 \u2014 Seville: Jaume Munar vs Raul Brancaccio"
+    },
+    {
+      "timestamp": 1789156084.8803942,
+      "bankroll": 269.28,
+      "event": "won: Zzzz87 \u2014 Will Al Ittihad Saudi Club win on 2026-09-11?"
     }
   ]
 }
