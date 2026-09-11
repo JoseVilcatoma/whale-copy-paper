@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-10 22:25:21 (hora de Perú)
+Actualizado: 2026-09-10 22:27:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $237.00
@@ -965,7 +965,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: FURIA vs G2 (BO3) - FISS | G2 (BUY) | 45% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Zzzz87 | Stade Rennais FC 1901 vs. Olympique de M | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Vissel Kōbe vs. Kashima Antlers: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Filip Peliwo vs Arthur Web | Arthur Weber (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
