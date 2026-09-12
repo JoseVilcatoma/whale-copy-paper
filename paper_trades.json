@@ -131051,5 +131051,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789235867.8097093,
     "fills": 8
+  },
+  {
+    "timestamp": 1789236852,
+    "timestamp_added": 1789236853.394864,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-cah-syra-2026-09-12",
+    "title": "California vs. Syracuse",
+    "outcome": "Syracuse",
+    "side": "BUY",
+    "whale_usd": 18900.0,
+    "whale_pct": 27.414,
+    "whale_value_at_open": 68941.989,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789236853.3948781,
+    "fills": 1
   }
 ]
