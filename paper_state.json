@@ -1,5 +1,5 @@
 {
-  "bankroll": 169.86253248466514,
+  "bankroll": 174.9386141173182,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26530,6 +26530,11 @@
       "timestamp": 1789255957.6921701,
       "bankroll": 169.86,
       "event": "won: wr0ngw4yb3tt0r \u2014 Alabama vs. Kentucky"
+    },
+    {
+      "timestamp": 1789256269.6590724,
+      "bankroll": 174.94,
+      "event": "won: wr0ngw4yb3tt0r \u2014 UNLV vs. North Texas: O/U 57.5"
     }
   ]
 }
