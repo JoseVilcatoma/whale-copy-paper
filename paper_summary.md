@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 00:15:58 (hora de Perú)
+Actualizado: 2026-09-12 00:18:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $250.92
-**Retorno acumulado:** -49.82%
+**Bankroll actual:** $246.18
+**Retorno acumulado:** -50.76%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 00:15:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $106.75)
+**Capital comprometido ahora mismo:** $129.17 en 26 posiciones abiertas (disponible para nuevas apuestas: $117.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| vjnn | 4 | 3 | 1 | -0.70 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
@@ -121,6 +120,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
+| vjnn | 4 | 4 | 0 | -5.82 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -136,12 +136,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Talvez10 | 15 | 15 | 3 | -15.57 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
+| Talvez10 | 15 | 16 | 2 | -20.69 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -151,18 +151,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 117 | 82 | 4 | -126.85 USD |
-| ferrariChampions2026 | 761 | 473 | 2 | -243.49 USD |
+| ferrariChampions2026 | 762 | 473 | 1 | -237.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5005
-- **Aciertos:** 3149 (62.9%)
+- **Apuestas resueltas:** 5008
+- **Aciertos:** 3150 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,973.81
-- **ROI sobre lo apostado:** -1.49%
-- **Comisiones pagadas (taker fee):** $465.57 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,988.81
+- **ROI sobre lo apostado:** -1.51%
+- **Comisiones pagadas (taker fee):** $465.95 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2583 | 50.3% | 50.1% | +0.3 pp |
+| 40-59% | 2586 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1487 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 667 | 86.1% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -993,8 +993,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Zuffa Boxing: Garcia vs. Benn (Welterwei | Garcia (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 62% | 5.00 | 1.8% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 10.6% | ⏳ pendiente | — |
-| vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ⏳ pendiente | — |
-| Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ⏳ pendiente | — |
+| vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ❌ perdida | -5.12 |
+| Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ❌ perdida | -5.12 |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ❌ perdida | -5.13 |
 | Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 40.1% | ⏳ pendiente | — |
 | Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |

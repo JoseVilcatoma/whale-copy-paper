@@ -1,5 +1,5 @@
 {
-  "bankroll": 250.91668695485686,
+  "bankroll": 246.17798482719724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26080,6 +26080,21 @@
       "timestamp": 1789186345.8970256,
       "bankroll": 250.92,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Missouri (-5.5)"
+    },
+    {
+      "timestamp": 1789190214.9581063,
+      "bankroll": 256.42,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1789190218.5779104,
+      "bankroll": 251.3,
+      "event": "lost: Talvez10 \u2014 Seattle Mariners vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1789190218.8306775,
+      "bankroll": 246.18,
+      "event": "lost: vjnn \u2014 Spread: Seattle Mariners (-1.5)"
     }
   ]
 }
