@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 62788.229668,
-    "whale_pct": 97.707,
+    "whale_usd": 65848.137361,
+    "whale_pct": 102.468,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789201843.131211,
-    "fills": 22
+    "last_fill_at": 1789202864.7114713,
+    "fills": 25
   },
   {
     "timestamp": 1789159490,
@@ -130249,6 +130249,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789202549.6379116,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789202827,
+    "timestamp_added": 1789202827.6789708,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ja2-iwa-yok-2026-09-12-yok",
+    "title": "Will Yokohama FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 593.0012,
+    "whale_pct": 0.561,
+    "whale_value_at_open": 105746.5219,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789202827.6789823,
     "fills": 1
   }
 ]
