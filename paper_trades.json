@@ -129557,8 +129557,8 @@
     "title": "Map Handicap: LGC (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 33631.380000000005,
-    "whale_pct": 16.485,
+    "whale_usd": 34338.675,
+    "whale_pct": 16.832,
     "whale_value_at_open": 204006.1035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -129571,8 +129571,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789191254.7794125,
-    "fills": 2
+    "last_fill_at": 1789191382.4370267,
+    "fills": 3
   },
   {
     "timestamp": 1789179827,
@@ -129583,8 +129583,8 @@
     "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
     "outcome": "Garcia",
     "side": "BUY",
-    "whale_usd": 9607.9856,
-    "whale_pct": 7.157,
+    "whale_usd": 10687.9856,
+    "whale_pct": 7.961,
     "whale_value_at_open": 134255.1179,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -129595,8 +129595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789191010.782822,
-    "fills": 5
+    "last_fill_at": 1789191310.8117733,
+    "fills": 6
   },
   {
     "timestamp": 1789186197,
