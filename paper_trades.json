@@ -131695,8 +131695,8 @@
     "title": "US Open WTA: Aryna Sabalenka vs Elena Rybakina",
     "outcome": "Aryna Sabalenka",
     "side": "BUY",
-    "whale_usd": 6643.82,
-    "whale_pct": 1.973,
+    "whale_usd": 7219.513999999999,
+    "whale_pct": 2.144,
     "whale_value_at_open": 336739.2007,
     "paper_stake_usd": 3.22,
     "odds_at_bet": 51,
@@ -131707,7 +131707,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789250554.6490107,
-    "fills": 1
+    "last_fill_at": 1789250923.6554816,
+    "fills": 2
   }
 ]
