@@ -129621,5 +129621,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789186198.4581392,
     "fills": 1
+  },
+  {
+    "timestamp": 1789186586,
+    "timestamp_added": 1789186587.1379175,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "jap-vva-ngr-2026-09-12-ngr",
+    "title": "Will Nagoya Grampus win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1126.01,
+    "whale_pct": 0.495,
+    "whale_value_at_open": 227594.6511,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789186587.1379292,
+    "fills": 1
   }
 ]
