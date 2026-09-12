@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 10:11:21 (hora de Perú)
+Actualizado: 2026-09-12 10:13:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 10:11:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $26.07)
+**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $21.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 3 | 0 | 0 | +11.00 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 35 | 21 | 1 | +10.43 USD |
+| ExplosiveNinja | 35 | 21 | 2 | +10.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -983,12 +983,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-sf-2026-09-11 | , Talvez10, pleaseplease123 |
 | cs2-hotu-100t-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize, mmklop |
 | lol-al-ig1-2026-09-12-game3 | Diabolical-Prize, vjnn |
+| cs2-hero-1win-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 1530.1% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 1.3% | ⏳ pendiente | — |
+| lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2005.0% | ⏳ pendiente | — |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1017,4 +1019,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ❌ perdida | -5.06 |
 | GoalLineGhost | FC St. Gallen 1879 vs. FC Sion: O/U 3.5 | Over (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
-| GoalLineGhost | Athletic Club vs. Elche CF: O/U 4.5 | Under (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
