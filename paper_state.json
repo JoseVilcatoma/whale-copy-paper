@@ -1,5 +1,5 @@
 {
-  "bankroll": 229.52111776363606,
+  "bankroll": 224.42111776363606,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26220,6 +26220,11 @@
       "timestamp": 1789221789.896533,
       "bankroll": 229.52,
       "event": "lost: GoalLineGhost \u2014 Will FC Imabari win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789222094.3343673,
+      "bankroll": 224.42,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BBL vs Wildcard (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
     }
   ]
 }
