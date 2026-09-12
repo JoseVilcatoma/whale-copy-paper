@@ -130567,5 +130567,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789207451.6647573,
     "fills": 1
+  },
+  {
+    "timestamp": 1789210419,
+    "timestamp_added": 1789210420.5706081,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "lol-al-ig1-2026-09-12-game3",
+    "title": "LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 1250.4792,
+    "whale_pct": 4.886,
+    "whale_value_at_open": 25593.6498,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789210420.5706186,
+    "fills": 1
   }
 ]
