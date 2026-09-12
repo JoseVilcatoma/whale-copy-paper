@@ -1,5 +1,5 @@
 {
-  "bankroll": 194.5448027801553,
+  "bankroll": 196.7131795917495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26400,6 +26400,11 @@
       "timestamp": 1789244313.315302,
       "bankroll": 194.54,
       "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
+    },
+    {
+      "timestamp": 1789244438.3169737,
+      "bankroll": 196.71,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will CS Independiente Rivadavia win on 2026-09-12?"
     }
   ]
 }
