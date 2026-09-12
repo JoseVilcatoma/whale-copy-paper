@@ -1,5 +1,5 @@
 {
-  "bankroll": 210.92763611348866,
+  "bankroll": 205.81563611348867,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26360,6 +26360,11 @@
       "timestamp": 1789240365.8706913,
       "bankroll": 210.93,
       "event": "won: wr0ngw4yb3tt0r \u2014 Noche UFC: Jessie Rosas vs. Sean King (Featherweight, Prelims)"
+    },
+    {
+      "timestamp": 1789240682.1550987,
+      "bankroll": 205.82,
+      "event": "lost: Diabolical-Prize \u2014 LoL: Team Vitality vs Movistar KOI - Game 2 Winner"
     }
   ]
 }

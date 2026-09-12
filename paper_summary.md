@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:16:25 (hora de Perú)
+Actualizado: 2026-09-12 14:18:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $210.93
-**Retorno acumulado:** -57.81%
+**Bankroll actual:** $205.82
+**Retorno acumulado:** -58.84%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:16:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $56.76)
+**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $56.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,11 +24,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| Diabolical-Prize | 9 | 2 | 1 | +31.50 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| Diabolical-Prize | 9 | 3 | 0 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | wr0ngw4yb3tt0r | 80 | 58 | 7 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5060
+- **Apuestas resueltas:** 5061
 - **Aciertos:** 3178 (62.8%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,242.28
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $470.97 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,247.28
+- **ROI sobre lo apostado:** -1.66%
+- **Comisiones pagadas (taker fee):** $471.09 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2614 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2615 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 1506 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -994,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ⏳ pendiente | — |
 | Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ⏳ pendiente | — |
-| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 14.7% | ⏳ pendiente | — |
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 7.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
