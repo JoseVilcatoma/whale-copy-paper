@@ -1,5 +1,5 @@
 {
-  "bankroll": 200.43063611348865,
+  "bankroll": 191.8223027801553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26380,6 +26380,21 @@
       "timestamp": 1789243191.4386926,
       "bankroll": 200.43,
       "event": "lost: GoalLineGhost \u2014 FC St. Gallen 1879 vs. FC Sion: O/U 3.5"
+    },
+    {
+      "timestamp": 1789243499.296167,
+      "bankroll": 195.3,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Oklahoma (-5.5)"
+    },
+    {
+      "timestamp": 1789243501.0433638,
+      "bankroll": 190.22,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Oklahoma vs. Michigan"
+    },
+    {
+      "timestamp": 1789243506.0867858,
+      "bankroll": 191.82,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Oklahoma vs. Michigan"
     }
   ]
 }
