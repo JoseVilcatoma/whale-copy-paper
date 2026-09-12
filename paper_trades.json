@@ -129583,8 +129583,8 @@
     "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
     "outcome": "Garcia",
     "side": "BUY",
-    "whale_usd": 28260.742743,
-    "whale_pct": 21.05,
+    "whale_usd": 31140.735543,
+    "whale_pct": 23.195,
     "whale_value_at_open": 134255.1179,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -129595,8 +129595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789196838.8998654,
-    "fills": 17
+    "last_fill_at": 1789196972.89491,
+    "fills": 18
   },
   {
     "timestamp": 1789186197,
