@@ -131515,5 +131515,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789247775.1106691,
     "fills": 1
+  },
+  {
+    "timestamp": 1789248922,
+    "timestamp_added": 1789248922.7005646,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-lad-mia-2026-09-12",
+    "title": "Los Angeles Dodgers vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 971.9996,
+    "whale_pct": 0.338,
+    "whale_value_at_open": 287512.0674,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789248922.7005765,
+    "fills": 1
   }
 ]
