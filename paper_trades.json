@@ -131109,8 +131109,8 @@
     "title": "Will Arsenal FC win on 2026-09-12?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 77792.0,
-    "whale_pct": 80.427,
+    "whale_usd": 98767.6,
+    "whale_pct": 102.113,
     "whale_value_at_open": 96723.65,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -131121,7 +131121,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789238793.9247494,
-    "fills": 1
+    "last_fill_at": 1789238964.0839682,
+    "fills": 2
   }
 ]
