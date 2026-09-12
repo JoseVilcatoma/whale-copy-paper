@@ -130996,8 +130996,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -131353,8 +131353,8 @@
     "title": "Spread: Pittsburgh (-7.5)",
     "outcome": "Pittsburgh",
     "side": "BUY",
-    "whale_usd": 30217.4848,
-    "whale_pct": 2.74,
+    "whale_usd": 122619.685,
+    "whale_pct": 11.119,
     "whale_value_at_open": 1102808.7104,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -131367,8 +131367,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789241737.261025,
-    "fills": 3
+    "last_fill_at": 1789241896.7989001,
+    "fills": 7
   },
   {
     "timestamp": 1789241805,

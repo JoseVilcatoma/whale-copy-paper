@@ -1,5 +1,5 @@
 {
-  "bankroll": 210.69063611348867,
+  "bankroll": 205.54563611348865,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26370,6 +26370,11 @@
       "timestamp": 1789240997.5289047,
       "bankroll": 210.69,
       "event": "won: Talvez10 \u2014 Colorado Rockies vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1789241945.2558398,
+      "bankroll": 205.55,
+      "event": "lost: Talvez10 \u2014 Noche UFC: Rafa Garcia vs. Rongzhu (Lightweight, Prelims)"
     }
   ]
 }
