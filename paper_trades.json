@@ -130843,8 +130843,8 @@
     "title": "RC Strasbourg Alsace vs. AS Monaco FC: Both Teams to Score",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12802.543000000001,
-    "whale_pct": 18.57,
+    "whale_usd": 14102.543000000001,
+    "whale_pct": 20.456,
     "whale_value_at_open": 68941.989,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -130855,7 +130855,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789225276.0973988,
-    "fills": 4
+    "last_fill_at": 1789225722.1370451,
+    "fills": 5
   }
 ]
