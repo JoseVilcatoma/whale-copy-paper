@@ -129787,8 +129787,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -129979,8 +129979,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "mmklop"
     ],
@@ -130413,8 +130413,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "mmklop"
@@ -131109,8 +131109,8 @@
     "title": "Will Arsenal FC win on 2026-09-12?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 98767.6,
-    "whale_pct": 102.113,
+    "whale_usd": 223756.09999999998,
+    "whale_pct": 231.335,
     "whale_value_at_open": 96723.65,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -131121,7 +131121,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789238964.0839682,
-    "fills": 2
+    "last_fill_at": 1789239056.7480218,
+    "fills": 3
   }
 ]
