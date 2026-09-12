@@ -131133,8 +131133,8 @@
     "title": "Oklahoma vs. Michigan",
     "outcome": "Michigan",
     "side": "BUY",
-    "whale_usd": 3473.6562000000004,
-    "whale_pct": 1.208,
+    "whale_usd": 7469.6562,
+    "whale_pct": 2.598,
     "whale_value_at_open": 287512.0674,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -131145,8 +131145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789240752.0926673,
-    "fills": 2
+    "last_fill_at": 1789241302.8851707,
+    "fills": 3
   },
   {
     "timestamp": 1789241180,
