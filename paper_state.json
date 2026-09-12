@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.0261236697683,
+  "bankroll": 274.312790336435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26005,6 +26005,11 @@
       "timestamp": 1789167851.2004693,
       "bankroll": 269.03,
       "event": "lost: ferrariChampions2026 \u2014 Spread: FC K\u00f8benhavn (-1.5)"
+    },
+    {
+      "timestamp": 1789173079.2694983,
+      "bankroll": 274.31,
+      "event": "won:  \u2014 Will CSyD Defensa y Justicia win on 2026-09-11?"
     }
   ]
 }
