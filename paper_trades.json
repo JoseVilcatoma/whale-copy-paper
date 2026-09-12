@@ -129573,5 +129573,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789179145.9288266,
     "fills": 1
+  },
+  {
+    "timestamp": 1789179827,
+    "timestamp_added": 1789179827.8368535,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "zuffa-garcia-benn-2026-09-12",
+    "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
+    "outcome": "Garcia",
+    "side": "BUY",
+    "whale_usd": 1400.0,
+    "whale_pct": 1.043,
+    "whale_value_at_open": 134255.1179,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789179827.8368661,
+    "fills": 1
   }
 ]
