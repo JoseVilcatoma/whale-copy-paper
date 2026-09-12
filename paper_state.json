@@ -1,5 +1,5 @@
 {
-  "bankroll": 246.17798482719724,
+  "bankroll": 249.41131816053056,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26095,6 +26095,11 @@
       "timestamp": 1789190218.8306775,
       "bankroll": 246.18,
       "event": "lost: vjnn \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1789191163.5106602,
+      "bankroll": 249.41,
+      "event": "won:  \u2014 Phan Thiet 3: Arthur Weber vs Yuta Shimizu"
     }
   ]
 }
