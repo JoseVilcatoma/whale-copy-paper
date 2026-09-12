@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 12:51:41 (hora de Perú)
+Actualizado: 2026-09-12 12:53:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $225.95
@@ -990,7 +990,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 17.3% | ⏳ pendiente | — |
+| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 25.1% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 8.3% | ⏳ pendiente | — |
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 7.3% | ⏳ pendiente | — |

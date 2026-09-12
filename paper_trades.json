@@ -131037,8 +131037,8 @@
     "title": "Fortuna Sittard vs. AFC Ajax: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 9197.8806,
-    "whale_pct": 17.291,
+    "whale_usd": 13325.4606,
+    "whale_pct": 25.05,
     "whale_value_at_open": 53195.1605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131049,7 +131049,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789235238.2473996,
-    "fills": 4
+    "last_fill_at": 1789235534.4539728,
+    "fills": 6
   }
 ]
