@@ -1,5 +1,5 @@
 {
-  "bankroll": 236.28954149244964,
+  "bankroll": 229.52111776363606,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26205,6 +26205,21 @@
       "timestamp": 1789221474.586973,
       "bankroll": 236.29,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BetBoom Team vs G2 - Map 2 Winner"
+    },
+    {
+      "timestamp": 1789221788.0842204,
+      "bankroll": 239.66,
+      "event": "won: GoalLineGhost \u2014 Ventforet K\u014dfu vs. J\u00fabilo Iwata: O/U 2.5"
+    },
+    {
+      "timestamp": 1789221788.777618,
+      "bankroll": 234.58,
+      "event": "lost: GoalLineGhost \u2014 Ventforet K\u014dfu vs. J\u00fabilo Iwata: O/U 1.5"
+    },
+    {
+      "timestamp": 1789221789.896533,
+      "bankroll": 229.52,
+      "event": "lost: GoalLineGhost \u2014 Will FC Imabari win on 2026-09-12?"
     }
   ]
 }

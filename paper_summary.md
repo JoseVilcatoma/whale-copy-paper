@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 09:02:14 (hora de Perú)
+Actualizado: 2026-09-12 09:04:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $236.29
-**Retorno acumulado:** -52.74%
+**Bankroll actual:** $229.52
+**Retorno acumulado:** -54.10%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 09:02:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.47 en 47 posiciones abiertas (disponible para nuevas apuestas: $3.82)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $12.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 28 | 24 | 0 | +3.73 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | lucidarderi | 1 | 0 | 0 | +3.52 USD |
-| GoalLineGhost | 63 | 26 | 12 | +3.36 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -108,6 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
+| GoalLineGhost | 64 | 28 | 9 | -3.41 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5029
-- **Aciertos:** 3162 (62.9%)
+- **Apuestas resueltas:** 5032
+- **Aciertos:** 3163 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,088.98
-- **ROI sobre lo apostado:** -1.55%
-- **Comisiones pagadas (taker fee):** $467.96 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,103.98
+- **ROI sobre lo apostado:** -1.57%
+- **Comisiones pagadas (taker fee):** $468.20 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,8 +170,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2597 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1495 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2598 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1497 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 669 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1009,11 +1009,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will PSS Sleman win on 2026-09-12? | Yes (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Yokohama FC win on 2026-09-12? | Yes (BUY) | 45% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
-| GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ❌ perdida | -5.06 |
 | GoalLineGhost | FC St. Gallen 1879 vs. FC Sion: O/U 3.5 | Over (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Athletic Club vs. Elche CF: O/U 4.5 | Under (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
-| GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ❌ perdida | -5.08 |
 | GoalLineGhost | Real Madrid CF vs. Rayo Vallecano de Mad | Over (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
-| GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 2.5 | Under (BUY) | 59% | 5.00 | 2.7% | ⏳ pendiente | — |
+| GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 2.5 | Under (BUY) | 59% | 5.00 | 2.7% | ✅ ganada | +3.37 |
 | GoalLineGhost | Spread: FC Groningen (-2.5) | Go Ahead Eagles (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs SPARTA (BO3) -  | Color (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
