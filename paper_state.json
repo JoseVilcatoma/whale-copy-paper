@@ -1,5 +1,5 @@
 {
-  "bankroll": 249.41131816053056,
+  "bankroll": 256.54678332060587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26100,6 +26100,21 @@
       "timestamp": 1789191163.5106602,
       "bankroll": 249.41,
       "event": "won:  \u2014 Phan Thiet 3: Arthur Weber vs Yuta Shimizu"
+    },
+    {
+      "timestamp": 1789191477.1242607,
+      "bankroll": 252.78,
+      "event": "won: pleaseplease123 \u2014 San Diego Padres vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1789191477.713756,
+      "bankroll": 256.02,
+      "event": "won: Talvez10 \u2014 San Diego Padres vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1789191478.843402,
+      "bankroll": 256.55,
+      "event": "won:  \u2014 San Diego Padres vs. San Francisco Giants"
     }
   ]
 }

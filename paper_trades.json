@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 39802.867694,
-    "whale_pct": 61.938,
+    "whale_usd": 41052.833848,
+    "whale_pct": 63.883,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789190465.446284,
-    "fills": 8
+    "last_fill_at": 1789191473.868815,
+    "fills": 9
   },
   {
     "timestamp": 1789159490,
@@ -129294,8 +129294,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -129414,8 +129414,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [
       "pleaseplease123"
     ],
@@ -129662,8 +129662,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "Talvez10",
       "pleaseplease123"

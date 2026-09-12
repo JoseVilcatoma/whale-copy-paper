@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 00:36:58 (hora de Perú)
+Actualizado: 2026-09-12 00:39:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $249.41
-**Retorno acumulado:** -50.12%
+**Bankroll actual:** $256.55
+**Retorno acumulado:** -48.69%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 00:36:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $124.17 en 25 posiciones abiertas (disponible para nuevas apuestas: $125.24)
+**Capital comprometido ahora mismo:** $109.17 en 22 posiciones abiertas (disponible para nuevas apuestas: $147.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,6 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| pleaseplease123 | 28 | 24 | 0 | +3.73 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | lucidarderi | 1 | 0 | 0 | +3.52 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
@@ -86,7 +87,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
-| pleaseplease123 | 27 | 24 | 1 | +0.36 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -138,10 +138,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| Talvez10 | 16 | 16 | 1 | -17.46 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
-| Talvez10 | 15 | 16 | 2 | -20.69 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -150,19 +150,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 118 | 82 | 3 | -123.62 USD |
+|  | 119 | 82 | 2 | -123.09 USD |
 | ferrariChampions2026 | 762 | 473 | 1 | -237.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5009
-- **Aciertos:** 3151 (62.9%)
+- **Apuestas resueltas:** 5012
+- **Aciertos:** 3154 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,993.81
-- **ROI sobre lo apostado:** -1.50%
-- **Comisiones pagadas (taker fee):** $466.05 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,008.81
+- **ROI sobre lo apostado:** -1.47%
+- **Comisiones pagadas (taker fee):** $466.28 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2586 | 50.3% | 50.1% | +0.3 pp |
-| 60-79% | 1488 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 667 | 86.1% | 86.5% | -0.5 pp |
+| 40-59% | 2587 | 50.3% | 50.1% | +0.3 pp |
+| 60-79% | 1489 | 68.3% | 67.8% | +0.5 pp |
+| 80-94% | 668 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs Wildcard (BO3) -  | Wildcard (BUY) | 60% | 5.00 | 4.3% | ⏳ pendiente | — |
-|  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
+|  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ✅ ganada | +0.53 |
 |  | Will Nagoya Grampus win on 2026-09-12? | Yes (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Arthur Weber vs Yuta Shimi | Arthur Weber (BUY) | 60% | 5.00 | 0.3% | ✅ ganada | +3.23 |
 | Jsram | Zuffa Boxing: Garcia vs. Benn (Welterwei | Garcia (BUY) | 71% | 5.00 | 8.0% | ⏳ pendiente | — |
@@ -997,12 +997,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ❌ perdida | -5.12 |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ❌ perdida | -5.13 |
 | Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 40.1% | ⏳ pendiente | — |
-| Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |
+| Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ✅ ganada | +3.23 |
 |  | Los Angeles Angels vs. Washington Nation | Washington Nationals (BUY) | 55% | 5.00 | 28.9% | ✅ ganada | +3.98 |
 |  | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 24.5% | ❌ perdida | -5.15 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: B8 (-1.5) vs 1WIN (+1.5) | 1WIN (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 1WIN vs B8 (BO3) - PGL M | 1WIN (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-| pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ⏳ pendiente | — |
+| pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ✅ ganada | +3.37 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 5.0% | ❌ perdida | -5.13 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ❌ perdida | -5.11 |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ❌ perdida | -5.14 |
