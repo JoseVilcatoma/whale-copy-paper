@@ -129936,5 +129936,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789197182.970437,
     "fills": 1
+  },
+  {
+    "timestamp": 1789197741,
+    "timestamp_added": 1789197742.6729481,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-okl-mich-2026-09-12",
+    "title": "Oklahoma vs. Michigan",
+    "outcome": "Oklahoma",
+    "side": "BUY",
+    "whale_usd": 9865.999,
+    "whale_pct": 6.799,
+    "whale_value_at_open": 145106.4779,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789197742.6729586,
+    "fills": 1
   }
 ]
