@@ -1,5 +1,5 @@
 {
-  "bankroll": 260.3059450012216,
+  "bankroll": 255.17094500122158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26165,6 +26165,11 @@
       "timestamp": 1789213769.0668461,
       "bankroll": 260.31,
       "event": "lost: mmklop \u2014 Counter-Strike: FOKUS vs Virtus.pro (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789215606.3960903,
+      "bankroll": 255.17,
+      "event": "lost:  \u2014 Will Nagoya Grampus win on 2026-09-12?"
     }
   ]
 }
