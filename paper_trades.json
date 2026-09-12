@@ -129497,5 +129497,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789174840.2161357,
     "fills": 1
+  },
+  {
+    "timestamp": 1789176408,
+    "timestamp_added": 1789176409.084245,
+    "username": "vjnn",
+    "wallet": "0x55a1f55fb021eb52f5233321f88ff8eca5aedb28",
+    "slug": "mlb-sea-oak-2026-09-11-spread-away-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 25618.24,
+    "whale_pct": 44.128,
+    "whale_value_at_open": 58054.2417,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789176409.0842574,
+    "fills": 1
   }
 ]

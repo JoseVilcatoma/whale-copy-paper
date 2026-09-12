@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 20:26:16 (hora de Perú)
+Actualizado: 2026-09-11 20:28:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $264.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 20:26:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $104.90)
+**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $99.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| vjnn | 4 | 3 | 0 | -0.70 USD |
+| vjnn | 4 | 3 | 1 | -0.70 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
@@ -983,6 +983,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 44.1% | ⏳ pendiente | — |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 27.2% | ⏳ pendiente | — |
@@ -1012,4 +1013,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ❌ perdida | -5.13 |
-| ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ✅ ganada | +5.08 |
