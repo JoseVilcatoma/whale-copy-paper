@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 18:28:30 (hora de Perú)
+Actualizado: 2026-09-12 18:30:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $151.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 18:28:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $124.17 en 25 posiciones abiertas (disponible para nuevas apuestas: $27.55)
+**Capital comprometido ahora mismo:** $129.17 en 26 posiciones abiertas (disponible para nuevas apuestas: $22.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 4 | +3.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 5 | +3.00 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
@@ -995,6 +995,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
 | Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -1024,4 +1025,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ⏳ pendiente | — |
 | Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ❌ perdida | -5.12 |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 14.7% | ❌ perdida | -5.14 |
