@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.92706379282424,
+  "bankroll": 265.74108785836444,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26140,6 +26140,16 @@
       "timestamp": 1789208534.91688,
       "bankroll": 259.93,
       "event": "won: mmklop \u2014 Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789208719.3369815,
+      "bankroll": 262.77,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: LGC (-1.5) vs MIBR (+1.5)"
+    },
+    {
+      "timestamp": 1789208721.1422198,
+      "bankroll": 265.74,
+      "event": "won: Diabolical-Prize \u2014 Map Handicap: LGC (-1.5) vs MIBR (+1.5)"
     }
   ]
 }
