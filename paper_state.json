@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.49536495325896,
+  "bankroll": 251.36236495325895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26120,6 +26120,11 @@
       "timestamp": 1789203593.7416327,
       "bankroll": 256.5,
       "event": "venta anticipada: Diabolical-Prize \u2014 LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs (-0.05 USD)"
+    },
+    {
+      "timestamp": 1789206044.5462618,
+      "bankroll": 251.36,
+      "event": "lost: BrotherObama \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
     }
   ]
 }
