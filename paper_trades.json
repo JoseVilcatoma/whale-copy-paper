@@ -130907,5 +130907,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789226091.433666,
     "fills": 3
+  },
+  {
+    "timestamp": 1789226506,
+    "timestamp_added": 1789226507.0213146,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-col-det-2026-09-12",
+    "title": "Colorado Rockies vs. Detroit Tigers",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 1504.0320000000002,
+    "whale_pct": 5.998,
+    "whale_value_at_open": 25075.3821,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789226507.021322,
+    "fills": 1
   }
 ]
