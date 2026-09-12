@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 16:29:11 (hora de Perú)
+Actualizado: 2026-09-12 16:31:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $187.74
-**Retorno acumulado:** -62.45%
-**Peor caída desde un máximo (drawdown):** 69.64%
+**Bankroll actual:** $182.64
+**Retorno acumulado:** -63.47%
+**Peor caída desde un máximo (drawdown):** 69.87%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 16:29:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $38.57)
+**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $38.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| pleaseplease123 | 28 | 25 | 5 | -1.42 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -122,6 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
+| pleaseplease123 | 28 | 26 | 4 | -6.53 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5077
-- **Aciertos:** 3186 (62.8%)
+- **Apuestas resueltas:** 5078
+- **Aciertos:** 3186 (62.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,327.28
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $472.78 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,332.28
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $472.89 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2626 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2627 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1510 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -1022,5 +1022,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 74.1% | ✅ ganada | +3.66 |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ❌ perdida | -5.13 |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ✅ ganada | +2.49 |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
+| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ❌ perdida | -5.11 |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |

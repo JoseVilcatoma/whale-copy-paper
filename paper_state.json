@@ -1,5 +1,5 @@
 {
-  "bankroll": 187.74310622651828,
+  "bankroll": 182.6381062265183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26445,6 +26445,11 @@
       "timestamp": 1789248244.362873,
       "bankroll": 187.74,
       "event": "won: GoalLineGhost \u2014 Real Madrid CF vs. Rayo Vallecano de Madrid: O/U 3.5"
+    },
+    {
+      "timestamp": 1789248565.8461418,
+      "bankroll": 182.64,
+      "event": "lost: pleaseplease123 \u2014 Pittsburgh Pirates vs. Chicago Cubs: O/U 8.5"
     }
   ]
 }
