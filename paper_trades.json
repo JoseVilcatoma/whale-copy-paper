@@ -129840,5 +129840,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789195384.774321,
     "fills": 1
+  },
+  {
+    "timestamp": 1789195799,
+    "timestamp_added": 1789195800.142385,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lal-rea-ray-2026-09-12-spread-home-2pt5",
+    "title": "Spread: Real Madrid CF (-2.5)",
+    "outcome": "Rayo Vallecano de Madrid",
+    "side": "BUY",
+    "whale_usd": 506.67,
+    "whale_pct": 0.215,
+    "whale_value_at_open": 236030.7231,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789195800.1423938,
+    "fills": 1
   }
 ]
