@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 21:11:59 (hora de Perú)
+Actualizado: 2026-09-11 21:14:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $268.40
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 21:11:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $114.23)
+**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $109.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| Diabolical-Prize | 5 | 0 | 3 | +23.93 USD |
+| Diabolical-Prize | 5 | 0 | 4 | +23.93 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | GoalLineGhost | 63 | 22 | 0 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -976,6 +976,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | fl1-ren-olm-2026-09-11-total-3pt5 | GoalLineGhost, ferrariChampions2026 |
 | mlb-sea-oak-2026-09-11-total-10pt5 | Talvez10, ferrariChampions2026 |
 | lal-sev-val-2026-09-11-sev | ferrariChampions2026, wr0ngw4yb3tt0r |
+| cs2-lgc-mibr-2026-09-12-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize |
 | mlb-cle-min-2026-09-11-total-7pt5 | Talvez10, pleaseplease123 |
 | cs2-bb3-g2-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize |
 | mlb-sd-sf-2026-09-11 | Talvez10, pleaseplease123 |
@@ -984,7 +985,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 7.1% | ⏳ pendiente | — |
+| Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 62% | 5.00 | 1.8% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 10.6% | ⏳ pendiente | — |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ⏳ pendiente | — |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ⏳ pendiente | — |
@@ -1013,4 +1015,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Mets vs. New York Yankees | New York Mets (BUY) | 46% | 5.00 | 3.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Pittsburgh Pirates vs. Chicago Cubs: O/U | Under (BUY) | 43% | 2.16 | 0.3% | ❌ perdida | -2.22 |
 |  | Seville: Henrique Rocha vs Dusan Lajovic | Dusan Lajovic (BUY) | 42% | 5.00 | 17.0% | ✅ ganada | +6.76 |
-| ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ❌ perdida | -5.13 |
