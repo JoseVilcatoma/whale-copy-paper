@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 04:00:20 (hora de Perú)
+Actualizado: 2026-09-12 04:02:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 04:00:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $249.17 en 50 posiciones abiertas (disponible para nuevas apuestas: $7.33)
+**Capital comprometido ahora mismo:** $254.17 en 51 posiciones abiertas (disponible para nuevas apuestas: $2.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | Diabolical-Prize | 5 | 1 | 4 | +23.88 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| GoalLineGhost | 63 | 22 | 14 | +21.09 USD |
+| GoalLineGhost | 63 | 22 | 15 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -986,6 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Persija Jakarta vs. Persib Bandung: O/U  | Under (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -1015,4 +1016,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 63.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Saint-Étienne win on 2026-09-12? | Yes (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FOKUS vs Virtus.pro (BO3 | FOKUS (BUY) | 56% | 5.00 | 2.7% | ⏳ pendiente | — |
-|  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
