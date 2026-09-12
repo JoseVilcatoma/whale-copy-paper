@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 10:21:51 (hora de Perú)
+Actualizado: 2026-09-12 10:23:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 10:21:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $16.07)
+**Capital comprometido ahora mismo:** $222.47 en 45 posiciones abiertas (disponible para nuevas apuestas: $11.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 3 | 0 | 0 | +11.00 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ExplosiveNinja | 35 | 21 | 2 | +10.43 USD |
+| ExplosiveNinja | 35 | 21 | 3 | +10.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -989,6 +989,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ⏳ pendiente | — |
@@ -1018,4 +1019,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will PSS Sleman win on 2026-09-12? | Yes (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Yokohama FC win on 2026-09-12? | Yes (BUY) | 45% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
-| GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ❌ perdida | -5.06 |
