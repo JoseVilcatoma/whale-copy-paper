@@ -130665,5 +130665,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789211549.994382,
     "fills": 18
+  },
+  {
+    "timestamp": 1789214227,
+    "timestamp_added": 1789214228.508132,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "elc-bbr-mil-2026-09-12-mil",
+    "title": "Will Millwall FC win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 11551.975499999999,
+    "whale_pct": 5.244,
+    "whale_value_at_open": 220278.3626,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789214229.1906781,
+    "fills": 8
   }
 ]
