@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 05:49:56 (hora de Perú)
+Actualizado: 2026-09-12 05:51:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.74
@@ -992,7 +992,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 5.5% | ⏳ pendiente | — |
 | GoalLineGhost | Persija Jakarta vs. Persib Bandung: O/U  | Under (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | SS Lazio vs. AC Milan: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |

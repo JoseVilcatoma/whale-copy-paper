@@ -130406,8 +130406,8 @@
     "title": "Counter-Strike: HOTU vs 100 Thieves (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "100 Thieves",
     "side": "BUY",
-    "whale_usd": 16499.9945,
-    "whale_pct": 2.347,
+    "whale_usd": 38899.988900000004,
+    "whale_pct": 5.532,
     "whale_value_at_open": 703161.3618,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -130421,8 +130421,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789203427.2460144,
-    "fills": 1
+    "last_fill_at": 1789210256.943768,
+    "fills": 3
   },
   {
     "timestamp": 1789203636,
