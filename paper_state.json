@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.42111776363606,
+  "bankroll": 223.1196891922075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26225,6 +26225,16 @@
       "timestamp": 1789222094.3343673,
       "bankroll": 224.42,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BBL vs Wildcard (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789222418.9630308,
+      "bankroll": 219.3,
+      "event": "lost: vjnn \u2014 LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789222419.2633133,
+      "bankroll": 223.12,
+      "event": "won: Diabolical-Prize \u2014 LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner"
     }
   ]
 }
