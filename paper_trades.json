@@ -129557,8 +129557,8 @@
     "title": "Map Handicap: LGC (-1.5) vs MIBR (+1.5)",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 3660.0,
-    "whale_pct": 1.794,
+    "whale_usd": 33631.380000000005,
+    "whale_pct": 16.485,
     "whale_value_at_open": 204006.1035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -129571,8 +129571,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789179145.9288266,
-    "fills": 1
+    "last_fill_at": 1789191254.7794125,
+    "fills": 2
   },
   {
     "timestamp": 1789179827,
