@@ -1,5 +1,5 @@
 {
-  "bankroll": 174.9386141173182,
+  "bankroll": 165.3841793347095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26535,6 +26535,26 @@
       "timestamp": 1789256269.6590724,
       "bankroll": 174.94,
       "event": "won: wr0ngw4yb3tt0r \u2014 UNLV vs. North Texas: O/U 57.5"
+    },
+    {
+      "timestamp": 1789256896.6090605,
+      "bankroll": 169.85,
+      "event": "lost: Kch-Temp \u2014 California vs. Syracuse"
+    },
+    {
+      "timestamp": 1789256896.941104,
+      "bankroll": 164.74,
+      "event": "lost: Diabolical-Prize \u2014 Spread: Syracuse (-3.5)"
+    },
+    {
+      "timestamp": 1789256897.0413404,
+      "bankroll": 159.65,
+      "event": "lost: Diabolical-Prize \u2014 California vs. Syracuse"
+    },
+    {
+      "timestamp": 1789256897.141521,
+      "bankroll": 165.38,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Syracuse (-3.5)"
     }
   ]
 }
