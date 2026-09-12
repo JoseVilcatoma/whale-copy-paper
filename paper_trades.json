@@ -129763,8 +129763,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -131623,8 +131623,8 @@
     "title": "Map Handicap: LGC (-2.5) vs G2 (+2.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 7053.5793,
-    "whale_pct": 4.972,
+    "whale_usd": 8162.3613000000005,
+    "whale_pct": 5.754,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -131635,8 +131635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789249482.1651113,
-    "fills": 1
+    "last_fill_at": 1789250406.073592,
+    "fills": 2
   },
   {
     "timestamp": 1789249485,

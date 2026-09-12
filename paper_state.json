@@ -1,5 +1,5 @@
 {
-  "bankroll": 177.4901062265183,
+  "bankroll": 172.3851062265183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26455,6 +26455,11 @@
       "timestamp": 1789248885.3368719,
       "bankroll": 177.49,
       "event": "lost: ripley86alien \u2014 Will Arsenal FC win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789250454.892423,
+      "bankroll": 172.39,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will AS Saint-\u00c9tienne win on 2026-09-12?"
     }
   ]
 }

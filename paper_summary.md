@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 17:00:01 (hora de Perú)
+Actualizado: 2026-09-12 17:02:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $177.49
-**Retorno acumulado:** -64.50%
-**Peor caída desde un máximo (drawdown):** 70.72%
+**Bankroll actual:** $172.39
+**Retorno acumulado:** -65.52%
+**Peor caída desde un máximo (drawdown):** 71.56%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 17:00:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $174.17 en 35 posiciones abiertas (disponible para nuevas apuestas: $3.32)
+**Capital comprometido ahora mismo:** $169.17 en 34 posiciones abiertas (disponible para nuevas apuestas: $3.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,11 +30,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | Diabolical-Prize | 9 | 3 | 7 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| wr0ngw4yb3tt0r | 84 | 60 | 7 | +25.58 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
+| wr0ngw4yb3tt0r | 84 | 61 | 6 | +20.47 USD |
 | ExplosiveNinja | 37 | 21 | 1 | +19.82 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5079
+- **Apuestas resueltas:** 5080
 - **Aciertos:** 3186 (62.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,337.28
-- **ROI sobre lo apostado:** -1.76%
-- **Comisiones pagadas (taker fee):** $473.03 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,342.28
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $473.14 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2628 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2629 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1510 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 5.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
