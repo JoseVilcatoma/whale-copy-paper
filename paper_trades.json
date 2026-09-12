@@ -130202,5 +130202,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789201999.4749212,
     "fills": 2
+  },
+  {
+    "timestamp": 1789202217,
+    "timestamp_added": 1789202217.982049,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ja2-imb-sag-2026-09-12-imb",
+    "title": "Will FC Imabari win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 674.5396,
+    "whale_pct": 0.667,
+    "whale_value_at_open": 101130.0004,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789202217.9820597,
+    "fills": 1
   }
 ]

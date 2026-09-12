@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 03:35:34 (hora de Perú)
+Actualizado: 2026-09-12 03:37:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 03:35:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $209.17 en 42 posiciones abiertas (disponible para nuevas apuestas: $47.38)
+**Capital comprometido ahora mismo:** $214.17 en 43 posiciones abiertas (disponible para nuevas apuestas: $42.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | Diabolical-Prize | 5 | 0 | 4 | +23.93 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| GoalLineGhost | 63 | 22 | 6 | +21.09 USD |
+| GoalLineGhost | 63 | 22 | 7 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -986,6 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | FC St. Gallen 1879 vs. FC Sion: O/U 3.5 | Over (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Athletic Club vs. Elche CF: O/U 4.5 | Under (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1015,4 +1016,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 62% | 5.00 | 17.5% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 10.6% | ⏳ pendiente | — |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ❌ perdida | -5.12 |
-| Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ❌ perdida | -5.12 |
