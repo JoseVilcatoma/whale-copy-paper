@@ -129073,8 +129073,8 @@
     "title": "Will SC Freiburg win on 2026-09-12?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 14170.940212999998,
-    "whale_pct": 4.8,
+    "whale_usd": 19256.173020999995,
+    "whale_pct": 6.523,
     "whale_value_at_open": 295218.1858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -129085,8 +129085,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789212584.9179845,
-    "fills": 10
+    "last_fill_at": 1789212898.2208931,
+    "fills": 15
   },
   {
     "timestamp": 1789160394,
