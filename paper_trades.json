@@ -131661,5 +131661,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789249486.2948003,
     "fills": 1
+  },
+  {
+    "timestamp": 1789250134,
+    "timestamp_added": 1789250135.1554224,
+    "username": "Devs777",
+    "wallet": "0x19c4aa3200949f1dfc0f84cc2c9a47d78ed18c95",
+    "slug": "mls-clb-nyr-2026-09-12-total-3pt5",
+    "title": "Columbus Crew vs. New York Red Bulls: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 611.232,
+    "whale_pct": 27.061,
+    "whale_value_at_open": 2258.7482,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789250135.1554365,
+    "fills": 1
   }
 ]
