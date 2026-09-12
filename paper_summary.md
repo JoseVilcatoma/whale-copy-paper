@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:30:46 (hora de Perú)
+Actualizado: 2026-09-12 14:32:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $210.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:30:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $56.52)
+**Capital comprometido ahora mismo:** $169.17 en 34 posiciones abiertas (disponible para nuevas apuestas: $41.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,9 +28,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| Diabolical-Prize | 9 | 3 | 0 | +26.39 USD |
+| Diabolical-Prize | 9 | 3 | 2 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| wr0ngw4yb3tt0r | 80 | 58 | 9 | +25.32 USD |
+| wr0ngw4yb3tt0r | 80 | 58 | 10 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
@@ -985,11 +985,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-hotu-100t-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize, mmklop |
 | lol-al-ig1-2026-09-12-game3 | Diabolical-Prize, vjnn |
 | cs2-hero-1win-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
+| cfb-cah-syra-2026-09-12 | Diabolical-Prize, Kch-Temp |
+| cfb-cah-syra-2026-09-12-spread-home-3pt5 | Diabolical-Prize, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Syracuse (-3.5) | California (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Diabolical-Prize | California vs. Syracuse | Syracuse (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Syracuse (-3.5) | Syracuse (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Michigan (BUY) | 75% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ⏳ pendiente | — |
@@ -1017,6 +1022,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ❌ perdida | -5.12 |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ✅ ganada | +3.00 |
 | wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ✅ ganada | +3.23 |
-| wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
-| wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
-| GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ❌ perdida | -2.39 |
