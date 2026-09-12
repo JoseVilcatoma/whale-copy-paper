@@ -129507,8 +129507,8 @@
     "title": "Spread: Seattle Mariners (-1.5)",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 25618.24,
-    "whale_pct": 44.128,
+    "whale_usd": 46259.57520000001,
+    "whale_pct": 79.683,
     "whale_value_at_open": 58054.2417,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -129519,7 +129519,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789176409.0842574,
-    "fills": 1
+    "last_fill_at": 1789176676.4695857,
+    "fills": 2
   }
 ]
