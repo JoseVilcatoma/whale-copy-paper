@@ -1,5 +1,5 @@
 {
-  "bankroll": 229.62294500122158,
+  "bankroll": 232.62561166788825,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26195,6 +26195,11 @@
       "timestamp": 1789218365.3365505,
       "bankroll": 229.62,
       "event": "lost: GoalLineGhost \u2014 Persija Jakarta vs. Persib Bandung: O/U 2.5"
+    },
+    {
+      "timestamp": 1789218993.4247568,
+      "bankroll": 232.63,
+      "event": "won: BrotherObama \u2014 LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner"
     }
   ]
 }
