@@ -129998,8 +129998,8 @@
     "title": "Will CS Independiente Rivadavia win on 2026-09-12?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2780.9824000000003,
-    "whale_pct": 1.793,
+    "whale_usd": 3807.9784,
+    "whale_pct": 2.455,
     "whale_value_at_open": 155114.111,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -130010,8 +130010,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789200263.9357755,
-    "fills": 4
+    "last_fill_at": 1789211958.9869447,
+    "fills": 6
   },
   {
     "timestamp": 1789200410,
