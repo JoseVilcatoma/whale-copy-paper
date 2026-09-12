@@ -130989,8 +130989,8 @@
     "title": "Noche UFC: Rafa Garcia vs. Rongzhu (Lightweight, Prelims)",
     "outcome": "Rafa Garcia",
     "side": "BUY",
-    "whale_usd": 4422.3748,
-    "whale_pct": 8.257,
+    "whale_usd": 7855.2228,
+    "whale_pct": 14.667,
     "whale_value_at_open": 53557.1998,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -131001,8 +131001,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789227025.0010858,
-    "fills": 1
+    "last_fill_at": 1789235830.88571,
+    "fills": 2
   },
   {
     "timestamp": 1789229111,
@@ -131037,8 +131037,8 @@
     "title": "Fortuna Sittard vs. AFC Ajax: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 13325.4606,
-    "whale_pct": 25.05,
+    "whale_usd": 15246.240600000001,
+    "whale_pct": 28.661,
     "whale_value_at_open": 53195.1605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131049,7 +131049,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789235534.4539728,
-    "fills": 6
+    "last_fill_at": 1789235867.8097093,
+    "fills": 8
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 12:55:49 (hora de Perú)
+Actualizado: 2026-09-12 12:57:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $229.80
@@ -990,9 +990,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 25.1% | ⏳ pendiente | — |
+| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 8.3% | ⏳ pendiente | — |
+| Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 14.7% | ⏳ pendiente | — |
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 7.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
