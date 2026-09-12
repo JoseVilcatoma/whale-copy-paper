@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 10:00:52 (hora de Perú)
+Actualizado: 2026-09-12 10:02:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $227.85
@@ -988,7 +988,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 18.6% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
