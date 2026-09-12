@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 09:08:28 (hora de Perú)
+Actualizado: 2026-09-12 09:10:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 09:08:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $11.95)
+**Capital comprometido ahora mismo:** $222.47 en 45 posiciones abiertas (disponible para nuevas apuestas: $1.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,6 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| Kch-Temp | 0 | 0 | 2 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -987,6 +988,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
+| Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs 1WIN (BO3) - T | 1WIN (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ⏳ pendiente | — |
@@ -1015,5 +1018,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ❌ perdida | -5.08 |
 | GoalLineGhost | Real Madrid CF vs. Rayo Vallecano de Mad | Over (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 2.5 | Under (BUY) | 59% | 5.00 | 2.7% | ✅ ganada | +3.37 |
-| GoalLineGhost | Spread: FC Groningen (-2.5) | Go Ahead Eagles (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs SPARTA (BO3) -  | Color (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
