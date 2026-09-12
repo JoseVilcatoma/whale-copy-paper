@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 17:59:49 (hora de Perú)
+Actualizado: 2026-09-12 18:01:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $161.91
@@ -998,8 +998,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ⏳ pendiente | — |
 | Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 8.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 8.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 9.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 8.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
