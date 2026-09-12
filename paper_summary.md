@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 16:41:28 (hora de Perú)
+Actualizado: 2026-09-12 16:43:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $177.49
@@ -994,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 0.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ⏳ pendiente | — |

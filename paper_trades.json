@@ -131573,8 +131573,8 @@
     "title": "Alabama vs. Kentucky",
     "outcome": "Alabama",
     "side": "BUY",
-    "whale_usd": 589.41,
-    "whale_pct": 0.111,
+    "whale_usd": 27072.0202,
+    "whale_pct": 5.09,
     "whale_value_at_open": 531875.4804,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -131585,7 +131585,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789249280.2280881,
-    "fills": 1
+    "last_fill_at": 1789249337.3713026,
+    "fills": 2
   }
 ]
