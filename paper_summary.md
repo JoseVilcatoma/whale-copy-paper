@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 19:14:39 (hora de Perú)
+Actualizado: 2026-09-11 19:16:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 19:14:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $104.86)
+**Capital comprometido ahora mismo:** $169.17 en 34 posiciones abiertas (disponible para nuevas apuestas: $99.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | ripley86alien | 3 | 0 | 0 | +11.00 USD |
-| pleaseplease123 | 26 | 21 | 4 | +10.85 USD |
+| pleaseplease123 | 26 | 21 | 5 | +10.85 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -982,6 +982,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 27.2% | ⏳ pendiente | — |
 | Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Washington Nation | Washington Nationals (BUY) | 55% | 5.00 | 28.9% | ⏳ pendiente | — |
@@ -1011,4 +1012,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ❌ perdida | -5.13 |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 11.1% | ❌ perdida | -5.12 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: regain vs Marsborne (BO3 | Marsborne (BUY) | 52% | 4.17 | 4.6% | ⏳ pendiente | — |
