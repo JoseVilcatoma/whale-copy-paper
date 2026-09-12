@@ -1,5 +1,5 @@
 {
-  "bankroll": 211.90392182777438,
+  "bankroll": 212.81630278015533,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26345,6 +26345,11 @@
       "timestamp": 1789239099.3067799,
       "bankroll": 211.9,
       "event": "lost: Diabolical-Prize \u2014 Counter-Strike: HOTU vs 100 Thieves (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789239727.508363,
+      "bankroll": 212.82,
+      "event": "won: GoalLineGhost \u2014 Athletic Club vs. Elche CF: O/U 4.5"
     }
   ]
 }
