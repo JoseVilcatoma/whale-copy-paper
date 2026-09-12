@@ -130867,8 +130867,8 @@
     "title": "Will AC Milan win on 2026-09-12?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 87400.0,
-    "whale_pct": 2005.012,
+    "whale_usd": 112700.0,
+    "whale_pct": 2585.41,
     "whale_value_at_open": 4359.0766,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -130879,8 +130879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789225990.4414194,
-    "fills": 4
+    "last_fill_at": 1789226107.4625847,
+    "fills": 5
   },
   {
     "timestamp": 1789225979,
@@ -130891,8 +130891,8 @@
     "title": "Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "Heroic",
     "side": "BUY",
-    "whale_usd": 943.0568000000001,
-    "whale_pct": 1.285,
+    "whale_usd": 8969.184000000001,
+    "whale_pct": 12.225,
     "whale_value_at_open": 73367.5586,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -130905,7 +130905,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789225980.083324,
-    "fills": 1
+    "last_fill_at": 1789226091.433666,
+    "fills": 3
   }
 ]
