@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 17:10:28 (hora de Perú)
+Actualizado: 2026-09-12 17:12:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $172.39
-**Retorno acumulado:** -65.52%
-**Peor caída desde un máximo (drawdown):** 71.56%
+**Bankroll actual:** $167.27
+**Retorno acumulado:** -66.55%
+**Peor caída desde un máximo (drawdown):** 72.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 17:10:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $172.39 en 35 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $167.39 en 34 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -88,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Devs777 | 0 | 0 | 3 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -119,6 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
+| Devs777 | 0 | 1 | 2 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | pleaseplease123 | 28 | 26 | 4 | -6.53 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5080
+- **Apuestas resueltas:** 5081
 - **Aciertos:** 3186 (62.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,342.28
-- **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $473.14 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,347.28
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $473.26 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2629 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2630 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1510 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -1022,6 +1022,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ❌ perdida | -5.15 |
 | Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ⏳ pendiente | — |
-| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ⏳ pendiente | — |
+| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ❌ perdida | -5.12 |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 14.7% | ❌ perdida | -5.14 |
