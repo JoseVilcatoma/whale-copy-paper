@@ -1,5 +1,5 @@
 {
-  "bankroll": 256.54678332060587,
+  "bankroll": 256.49536495325896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26115,6 +26115,11 @@
       "timestamp": 1789191478.843402,
       "bankroll": 256.55,
       "event": "won:  \u2014 San Diego Padres vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1789203593.7416327,
+      "bankroll": 256.5,
+      "event": "venta anticipada: Diabolical-Prize \u2014 LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs (-0.05 USD)"
     }
   ]
 }

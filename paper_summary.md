@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 03:58:16 (hora de Perú)
+Actualizado: 2026-09-12 04:00:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $256.55
-**Retorno acumulado:** -48.69%
+**Bankroll actual:** $256.50
+**Retorno acumulado:** -48.70%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 03:58:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $254.17 en 51 posiciones abiertas (disponible para nuevas apuestas: $2.38)
+**Capital comprometido ahora mismo:** $249.17 en 50 posiciones abiertas (disponible para nuevas apuestas: $7.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| Diabolical-Prize | 5 | 0 | 5 | +23.93 USD |
+| Diabolical-Prize | 5 | 1 | 4 | +23.88 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | GoalLineGhost | 63 | 22 | 14 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
