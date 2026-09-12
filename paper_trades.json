@@ -130322,5 +130322,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789202960.750963,
     "fills": 1
+  },
+  {
+    "timestamp": 1789203235,
+    "timestamp_added": 1789203236.3999612,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sea-laz-mil-2026-09-12-total-2pt5",
+    "title": "SS Lazio vs. AC Milan: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1293.0008,
+    "whale_pct": 1.155,
+    "whale_value_at_open": 111947.499,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789203236.3999715,
+    "fills": 1
   }
 ]
