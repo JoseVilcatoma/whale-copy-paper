@@ -1,5 +1,5 @@
 {
-  "bankroll": 259.3360862647344,
+  "bankroll": 259.92706379282424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26135,6 +26135,11 @@
       "timestamp": 1789206855.5382326,
       "bankroll": 259.34,
       "event": "won: BrotherObama \u2014 LoL: Hanwha Life Esports vs T1 - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789208534.91688,
+      "bankroll": 259.93,
+      "event": "won: mmklop \u2014 Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs"
     }
   ]
 }

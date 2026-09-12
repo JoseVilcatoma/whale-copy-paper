@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 05:21:20 (hora de Perú)
+Actualizado: 2026-09-12 05:23:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $259.34
-**Retorno acumulado:** -48.13%
+**Bankroll actual:** $259.93
+**Retorno acumulado:** -48.01%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 05:21:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $259.34 en 53 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $254.34 en 52 posiciones abiertas (disponible para nuevas apuestas: $5.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | GoalLineGhost | 63 | 22 | 16 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
+| ExplosiveNinja | 35 | 20 | 2 | +15.54 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 52 | 10 | +13.33 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -155,13 +155,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5015
-- **Aciertos:** 3156 (62.9%)
+- **Apuestas resueltas:** 5016
+- **Aciertos:** 3157 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,023.81
+- **Total apostado (suma de stakes):** $25,028.81
 - **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $466.63 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $466.66 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.41% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2589 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1490 | 68.3% | 67.8% | +0.6 pp |
-| 80-94% | 668 | 86.1% | 86.5% | -0.4 pp |
+| 80-94% | 669 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1013,6 +1013,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma (BUY) | 66% | 5.00 | 6.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 82.4% | ✅ ganada | +4.88 |
-| mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ✅ ganada | +0.59 |
 |  | Samsunspor vs. Çorum FK: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
