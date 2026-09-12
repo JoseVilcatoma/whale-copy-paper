@@ -131491,5 +131491,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789245401.4292386,
     "fills": 1
+  },
+  {
+    "timestamp": 1789247771,
+    "timestamp_added": 1789247775.1106572,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tex-ari-2026-09-12",
+    "title": "Texas Rangers vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 110000.00000000001,
+    "whale_pct": 438.677,
+    "whale_value_at_open": 25075.3821,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789247775.1106691,
+    "fills": 1
   }
 ]
