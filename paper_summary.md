@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 02:01:19 (hora de Perú)
+Actualizado: 2026-09-12 02:03:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 02:01:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.17 en 28 posiciones abiertas (disponible para nuevas apuestas: $117.38)
+**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $112.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 119 | 82 | 3 | -123.09 USD |
+|  | 119 | 82 | 4 | -123.09 USD |
 | ferrariChampions2026 | 762 | 473 | 1 | -237.98 USD |
 
 ## Análisis general
@@ -985,6 +985,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Samsunspor vs. Çorum FK: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: SC Freiburg (-1.5) | Borussia Mönchengladbach (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 47% | 5.00 | 17.3% | ⏳ pendiente | — |
@@ -996,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ✅ ganada | +0.53 |
 |  | Will Nagoya Grampus win on 2026-09-12? | Yes (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Arthur Weber vs Yuta Shimi | Arthur Weber (BUY) | 60% | 5.00 | 0.3% | ✅ ganada | +3.23 |
-| Jsram | Zuffa Boxing: Garcia vs. Benn (Welterwei | Garcia (BUY) | 71% | 5.00 | 18.1% | ⏳ pendiente | — |
+| Jsram | Zuffa Boxing: Garcia vs. Benn (Welterwei | Garcia (BUY) | 71% | 5.00 | 19.4% | ⏳ pendiente | — |
 | Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 62% | 5.00 | 17.5% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 10.6% | ⏳ pendiente | — |
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ❌ perdida | -5.12 |
@@ -1014,4 +1015,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 4.1% | ❌ perdida | -5.12 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 24.2% | ⏳ pendiente | — |

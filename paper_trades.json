@@ -129583,8 +129583,8 @@
     "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
     "outcome": "Garcia",
     "side": "BUY",
-    "whale_usd": 24300.742743,
-    "whale_pct": 18.1,
+    "whale_usd": 26100.742743,
+    "whale_pct": 19.441,
     "whale_value_at_open": 134255.1179,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -129595,8 +129595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789196437.2307096,
-    "fills": 15
+    "last_fill_at": 1789196576.8455844,
+    "fills": 16
   },
   {
     "timestamp": 1789186197,
@@ -129863,6 +129863,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789195800.1423938,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789196508,
+    "timestamp_added": 1789196509.5412507,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "tur-sam-cf-2026-09-12-total-2pt5",
+    "title": "Samsunspor vs. \u00c7orum FK: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1450.009999,
+    "whale_pct": 0.607,
+    "whale_value_at_open": 238905.1417,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789196509.5412593,
     "fills": 1
   }
 ]
