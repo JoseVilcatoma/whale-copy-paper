@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 06:06:30 (hora de Perú)
+Actualizado: 2026-09-12 06:08:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.74
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 06:06:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $259.34 en 53 posiciones abiertas (disponible para nuevas apuestas: $6.40)
+**Capital comprometido ahora mismo:** $264.34 en 54 posiciones abiertas (disponible para nuevas apuestas: $1.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| Diabolical-Prize | 7 | 1 | 2 | +29.95 USD |
+| Diabolical-Prize | 7 | 1 | 3 | +29.95 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -981,11 +981,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-bb3-g2-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize |
 | mlb-sd-sf-2026-09-11 | , Talvez10, pleaseplease123 |
 | cs2-hotu-100t-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize, mmklop |
+| lol-al-ig1-2026-09-12-game3 | Diabolical-Prize, vjnn |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 7.6% | ⏳ pendiente | — |
 | Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ⏳ pendiente | — |
@@ -1015,4 +1017,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma (BUY) | 66% | 5.00 | 6.8% | ⏳ pendiente | — |
-| BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 82.4% | ✅ ganada | +4.88 |
