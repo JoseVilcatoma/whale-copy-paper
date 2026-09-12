@@ -131597,8 +131597,8 @@
     "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 8909.8734,
-    "whale_pct": 6.281,
+    "whale_usd": 11595.4467,
+    "whale_pct": 8.174,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131611,8 +131611,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789250394.2114491,
-    "fills": 2
+    "last_fill_at": 1789251295.481177,
+    "fills": 3
   },
   {
     "timestamp": 1789249481,
@@ -131623,8 +131623,8 @@
     "title": "Map Handicap: LGC (-2.5) vs G2 (+2.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 9776.9523,
-    "whale_pct": 6.892,
+    "whale_usd": 11916.6393,
+    "whale_pct": 8.401,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -131635,8 +131635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789250543.852811,
-    "fills": 3
+    "last_fill_at": 1789251307.1708272,
+    "fills": 4
   },
   {
     "timestamp": 1789249485,
@@ -131647,8 +131647,8 @@
     "title": "Counter-Strike: G2 vs Legacy - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 4663.689200000001,
-    "whale_pct": 3.288,
+    "whale_usd": 5330.854200000001,
+    "whale_pct": 3.758,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131659,8 +131659,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789250399.598725,
-    "fills": 2
+    "last_fill_at": 1789251396.152453,
+    "fills": 3
   },
   {
     "timestamp": 1789250134,
