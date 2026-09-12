@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 02:11:49 (hora de Perú)
+Actualizado: 2026-09-12 02:13:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 02:11:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $107.38)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $102.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| BrotherObama | 7 | 11 | 1 | -25.83 USD |
+| BrotherObama | 7 | 11 | 2 | -25.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -985,7 +985,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 3.9% | ⏳ pendiente | — |
+| BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 67.7% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | Samsunspor vs. Çorum FK: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: SC Freiburg (-1.5) | Borussia Mönchengladbach (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1014,4 +1015,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 5.0% | ❌ perdida | -5.13 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ❌ perdida | -5.11 |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ❌ perdida | -5.14 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |

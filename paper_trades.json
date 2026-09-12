@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 43694.106587,
-    "whale_pct": 67.994,
+    "whale_usd": 44653.220434,
+    "whale_pct": 69.486,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789196847.1218839,
-    "fills": 11
+    "last_fill_at": 1789197187.4260495,
+    "fills": 12
   },
   {
     "timestamp": 1789159490,
@@ -129898,8 +129898,8 @@
     "title": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 3252.25207,
-    "whale_pct": 3.933,
+    "whale_usd": 3928.2420700000002,
+    "whale_pct": 4.751,
     "whale_value_at_open": 82681.7882,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -129910,7 +129910,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789196827.1624765,
-    "fills": 2
+    "last_fill_at": 1789197110.6830165,
+    "fills": 3
+  },
+  {
+    "timestamp": 1789197182,
+    "timestamp_added": 1789197182.9704292,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-hle1-t1-2026-09-12-game3",
+    "title": "LoL: Hanwha Life Esports vs T1 - Game 3 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 30000.000000000004,
+    "whale_pct": 67.653,
+    "whale_value_at_open": 44344.0981,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789197182.970437,
+    "fills": 1
   }
 ]
