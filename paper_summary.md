@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 15:12:31 (hora de Perú)
+Actualizado: 2026-09-12 15:14:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $191.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 15:12:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $184.17 en 37 posiciones abiertas (disponible para nuevas apuestas: $7.65)
+**Capital comprometido ahora mismo:** $189.17 en 38 posiciones abiertas (disponible para nuevas apuestas: $2.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Devs777 | 0 | 0 | 1 | +0.00 USD |
+| Devs777 | 0 | 0 | 2 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -994,6 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Devs777 | Will SE Palmeiras win on 2026-09-12? | No (BUY) | 42% | 5.00 | 3.8% | ⏳ pendiente | — |
 | pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 151.2% | ⏳ pendiente | — |
 | Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 24.3% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1023,4 +1024,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs 1WIN (BO3) - T | 1WIN (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
-| Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ❌ perdida | -5.04 |

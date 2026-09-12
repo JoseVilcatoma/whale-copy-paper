@@ -131443,5 +131443,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789243350.4384305,
     "fills": 3
+  },
+  {
+    "timestamp": 1789244026,
+    "timestamp_added": 1789244026.6127958,
+    "username": "Devs777",
+    "wallet": "0x19c4aa3200949f1dfc0f84cc2c9a47d78ed18c95",
+    "slug": "bra-pal-sao-2026-09-12-pal",
+    "title": "Will SE Palmeiras win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 515.1158,
+    "whale_pct": 3.774,
+    "whale_value_at_open": 13647.6137,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789244026.6128097,
+    "fills": 1
   }
 ]
