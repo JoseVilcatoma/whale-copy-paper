@@ -1,5 +1,5 @@
 {
-  "bankroll": 263.34808785836447,
+  "bankroll": 260.3059450012216,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26155,6 +26155,16 @@
       "timestamp": 1789211936.9925025,
       "bankroll": 263.35,
       "event": "lost: GoalLineGhost \u2014 FC Mito Holly Hock vs. Kawasaki Frontale: O/U 2.5"
+    },
+    {
+      "timestamp": 1789213765.518701,
+      "bankroll": 265.42,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FOKUS (-1.5) vs Virtus.pro (+1.5)"
+    },
+    {
+      "timestamp": 1789213769.0668461,
+      "bankroll": 260.31,
+      "event": "lost: mmklop \u2014 Counter-Strike: FOKUS vs Virtus.pro (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
     }
   ]
 }
