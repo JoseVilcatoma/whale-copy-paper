@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 18:30:32 (hora de Perú)
+Actualizado: 2026-09-12 18:32:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $151.72
-**Retorno acumulado:** -69.66%
+**Bankroll actual:** $169.86
+**Retorno acumulado:** -66.03%
 **Peor caída desde un máximo (drawdown):** 75.66%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 18:30:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $129.17 en 26 posiciones abiertas (disponible para nuevas apuestas: $22.55)
+**Capital comprometido ahora mismo:** $109.17 en 22 posiciones abiertas (disponible para nuevas apuestas: $60.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,19 +23,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
+| Diabolical-Prize | 13 | 3 | 3 | +45.44 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| Diabolical-Prize | 10 | 3 | 6 | +30.53 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 86 | 62 | 3 | +22.88 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | ExplosiveNinja | 37 | 21 | 1 | +19.82 USD |
-| wr0ngw4yb3tt0r | 85 | 62 | 4 | +19.65 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5090
-- **Aciertos:** 3189 (62.7%)
+- **Apuestas resueltas:** 5094
+- **Aciertos:** 3193 (62.7%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,390.50
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $474.28 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,410.50
+- **ROI sobre lo apostado:** -1.79%
+- **Comisiones pagadas (taker fee):** $474.76 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,8 +172,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2638 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1511 | 68.2% | 67.8% | +0.5 pp |
+| 40-59% | 2641 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1512 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1001,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 9.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 8.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ⏳ pendiente | — |
@@ -1011,9 +1011,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 24.3% | ✅ ganada | +4.88 |
 | Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ✅ ganada | +4.14 |
 | Diabolical-Prize | Spread: Pittsburgh (-7.5) | Pittsburgh (BUY) | 51% | 5.00 | 11.1% | ⏳ pendiente | — |
-| Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
-| Diabolical-Prize | Spread: Alabama (-9.5) | Alabama (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
-| Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ✅ ganada | +5.73 |
+| Diabolical-Prize | Spread: Alabama (-9.5) | Alabama (BUY) | 51% | 5.00 | 0.9% | ✅ ganada | +4.68 |
+| Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Chicago White Sox (BUY) | 51% | 5.00 | 43.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Syracuse (-3.5) | California (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Diabolical-Prize | California vs. Syracuse | Syracuse (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 151.71732774992847,
+  "bankroll": 169.86253248466514,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26510,6 +26510,26 @@
       "timestamp": 1789255640.8117542,
       "bankroll": 151.72,
       "event": "won: Diabolical-Prize \u2014 Spread: Illinois (-6.5)"
+    },
+    {
+      "timestamp": 1789255955.729995,
+      "bankroll": 156.21,
+      "event": "won: Diabolical-Prize \u2014 Spread: Alabama (-8.5)"
+    },
+    {
+      "timestamp": 1789255956.0480068,
+      "bankroll": 160.89,
+      "event": "won: Diabolical-Prize \u2014 Spread: Alabama (-9.5)"
+    },
+    {
+      "timestamp": 1789255956.3732195,
+      "bankroll": 166.63,
+      "event": "won: Diabolical-Prize \u2014 Spread: Alabama (-10.5)"
+    },
+    {
+      "timestamp": 1789255957.6921701,
+      "bankroll": 169.86,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Alabama vs. Kentucky"
     }
   ]
 }
