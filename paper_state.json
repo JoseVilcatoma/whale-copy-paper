@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.03207014458843,
+  "bankroll": 227.85064157315986,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26240,6 +26240,11 @@
       "timestamp": 1789222731.127494,
       "bankroll": 224.03,
       "event": "won: GoalLineGhost \u2014 Real Racing Club vs. Deportivo Alav\u00e9s: O/U 4.5"
+    },
+    {
+      "timestamp": 1789223669.5420508,
+      "bankroll": 227.85,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Color vs SPARTA (BO3) - CCT Europe Series #8 Playoffs"
     }
   ]
 }
