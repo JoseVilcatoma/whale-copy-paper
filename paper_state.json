@@ -1,5 +1,5 @@
 {
-  "bankroll": 219.4827713702264,
+  "bankroll": 225.95243803689308,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26275,6 +26275,16 @@
       "timestamp": 1789228173.5471194,
       "bankroll": 219.48,
       "event": "lost: wr0ngw4yb3tt0r \u2014 1. FSV Mainz 05 vs. Eintracht Frankfurt: O/U 3.5"
+    },
+    {
+      "timestamp": 1789234434.9072838,
+      "bankroll": 223.46,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will AS Monaco FC win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789234437.9185104,
+      "bankroll": 225.95,
+      "event": "won: Kch-Temp \u2014 RC Strasbourg Alsace vs. AS Monaco FC: Both Teams to Score"
     }
   ]
 }

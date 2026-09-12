@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 12:32:56 (hora de Perú)
+Actualizado: 2026-09-12 12:34:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $219.48
-**Retorno acumulado:** -56.10%
+**Bankroll actual:** $225.95
+**Retorno acumulado:** -54.81%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 12:32:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $2.01)
+**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $18.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,9 +33,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 78 | 57 | 10 | +22.98 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 77 | 57 | 11 | +19.00 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 55 | 3 | +13.25 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -71,6 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| Kch-Temp | 1 | 0 | 2 | +2.49 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -89,7 +90,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Kch-Temp | 0 | 0 | 3 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -156,14 +156,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5043
-- **Aciertos:** 3169 (62.8%)
+- **Apuestas resueltas:** 5045
+- **Aciertos:** 3171 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,158.98
-- **ROI sobre lo apostado:** -1.61%
-- **Comisiones pagadas (taker fee):** $469.25 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,168.98
+- **ROI sobre lo apostado:** -1.58%
+- **Comisiones pagadas (taker fee):** $469.45 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,8 +171,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2603 | 50.2% | 50.1% | +0.2 pp |
-| 60-79% | 1502 | 68.2% | 67.8% | +0.4 pp |
+| 40-59% | 2604 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1503 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 670 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
@@ -996,7 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 74.1% | ⏳ pendiente | — |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ⏳ pendiente | — |
-| Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ⏳ pendiente | — |
+| Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ✅ ganada | +2.49 |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
@@ -1010,7 +1010,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ❌ perdida | -5.12 |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ✅ ganada | +3.00 |
 | wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ❌ perdida | -2.39 |
 | GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
