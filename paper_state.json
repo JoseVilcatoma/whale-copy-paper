@@ -1,5 +1,5 @@
 {
-  "bankroll": 161.90610622651832,
+  "bankroll": 157.77906849066923,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26480,6 +26480,21 @@
       "timestamp": 1789253582.9887185,
       "bankroll": 161.91,
       "event": "lost: pleaseplease123 \u2014 Los Angeles Angels vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1789255006.1388812,
+      "bankroll": 166.22,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1789255006.2390356,
+      "bankroll": 161.08,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1789255007.916223,
+      "bankroll": 157.78,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Aryna Sabalenka vs Elena Rybakina"
     }
   ]
 }
