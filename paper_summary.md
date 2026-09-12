@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 01:13:51 (hora de Perú)
+Actualizado: 2026-09-12 01:15:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 01:13:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $119.17 en 24 posiciones abiertas (disponible para nuevas apuestas: $137.38)
+**Capital comprometido ahora mismo:** $124.17 en 25 posiciones abiertas (disponible para nuevas apuestas: $132.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | GoalLineGhost | 63 | 22 | 0 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 34 | 20 | 1 | +14.95 USD |
+| ExplosiveNinja | 34 | 20 | 2 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 52 | 8 | +13.33 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -985,6 +985,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Saint-Étienne win on 2026-09-12? | Yes (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FOKUS vs Virtus.pro (BO3 | FOKUS (BUY) | 56% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
@@ -1014,4 +1015,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 51% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FOKUS (-1.5) vs Virtus.pro | Virtus.pro (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will SC Freiburg win on 2026-09-12? | No (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ❌ perdida | -5.12 |

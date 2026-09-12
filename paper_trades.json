@@ -129768,5 +129768,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789192573.4242508,
     "fills": 1
+  },
+  {
+    "timestamp": 1789193685,
+    "timestamp_added": 1789193686.1549933,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-hotu-100t-2026-09-12",
+    "title": "Counter-Strike: HOTU vs 100 Thieves (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
+    "outcome": "HOTU",
+    "side": "BUY",
+    "whale_usd": 2329.5645000000004,
+    "whale_pct": 3.871,
+    "whale_value_at_open": 60186.6643,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789193686.1550043,
+    "fills": 1
   }
 ]
