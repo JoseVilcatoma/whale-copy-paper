@@ -1,5 +1,5 @@
 {
-  "bankroll": 227.85064157315986,
+  "bankroll": 233.53965744617574,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26245,6 +26245,16 @@
       "timestamp": 1789223669.5420508,
       "bankroll": 227.85,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Color vs SPARTA (BO3) - CCT Europe Series #8 Playoffs"
+    },
+    {
+      "timestamp": 1789225553.2805,
+      "bankroll": 230.7,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789225553.3805907,
+      "bankroll": 233.54,
+      "event": "won: Diabolical-Prize \u2014 Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
     }
   ]
 }
