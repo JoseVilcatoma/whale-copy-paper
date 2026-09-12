@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 16:37:21 (hora de Perú)
+Actualizado: 2026-09-12 16:39:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $177.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 16:37:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $33.32)
+**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $28.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | Diabolical-Prize | 9 | 3 | 7 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| wr0ngw4yb3tt0r | 84 | 60 | 5 | +25.58 USD |
+| wr0ngw4yb3tt0r | 84 | 60 | 6 | +25.58 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
@@ -994,6 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ⏳ pendiente | — |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 65% | 5.00 | 233.9% | ⏳ pendiente | — |
@@ -1023,4 +1024,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 74.1% | ✅ ganada | +3.66 |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ❌ perdida | -5.13 |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ✅ ganada | +2.49 |
-| pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ❌ perdida | -5.11 |
