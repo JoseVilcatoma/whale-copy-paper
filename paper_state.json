@@ -1,5 +1,5 @@
 {
-  "bankroll": 242.52599729968443,
+  "bankroll": 246.04168695485686,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26070,6 +26070,11 @@
       "timestamp": 1789183563.0128496,
       "bankroll": 242.53,
       "event": "lost: pleaseplease123 \u2014 Chicago White Sox vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1789184130.0045424,
+      "bankroll": 246.04,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
     }
   ]
 }
