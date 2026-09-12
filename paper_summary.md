@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 19:58:52 (hora de Perú)
+Actualizado: 2026-09-11 20:01:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $269.18
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 19:58:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $110.01)
+**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $105.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -121,7 +121,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
-| Talvez10 | 15 | 13 | 4 | -5.31 USD |
+| Talvez10 | 15 | 13 | 5 | -5.31 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -974,6 +974,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-escorih-yaneva-2026-09-11 | , ferrariChampions2026 |
 | atp-kolar-barrena-2026-09-11 | , ferrariChampions2026 |
 | fl1-ren-olm-2026-09-11-total-3pt5 | GoalLineGhost, ferrariChampions2026 |
+| mlb-sea-oak-2026-09-11-total-10pt5 | Talvez10, ferrariChampions2026 |
 | lal-sev-val-2026-09-11-sev | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-cle-min-2026-09-11-total-7pt5 | Talvez10, pleaseplease123 |
 | mlb-sd-sf-2026-09-11 | Talvez10, pleaseplease123 |
@@ -982,6 +983,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 27.2% | ⏳ pendiente | — |
 | Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |
@@ -1011,4 +1013,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Sevilla FC win on 2026-09-11? | No (BUY) | 47% | 5.00 | 1.8% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Will Sevilla FC win on 2026-09-11? | No (BUY) | 48% | 5.00 | 99.8% | ❌ perdida | -5.13 |
 | ripley86alien | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 49% | 5.00 | 18.2% | ✅ ganada | +5.08 |
-| ferrariChampions2026 | Genoa: Matej Dodig vs Enrico Dalla Valle | Enrico Dalla Valle (BUY) | 54% | 5.00 | 11.1% | ❌ perdida | -5.12 |
