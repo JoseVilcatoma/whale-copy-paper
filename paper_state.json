@@ -1,5 +1,5 @@
 {
-  "bankroll": 162.1531062265183,
+  "bankroll": 161.90610622651832,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26470,6 +26470,16 @@
       "timestamp": 1789253267.8160179,
       "bankroll": 162.15,
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Rice vs. Notre Dame: O/U 54.5"
+    },
+    {
+      "timestamp": 1789253582.669254,
+      "bankroll": 167.03,
+      "event": "won: Talvez10 \u2014 Kansas City Royals vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1789253582.9887185,
+      "bankroll": 161.91,
+      "event": "lost: pleaseplease123 \u2014 Los Angeles Angels vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
