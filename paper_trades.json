@@ -129533,8 +129533,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 38045.6,
-    "whale_pct": 21.74,
+    "whale_usd": 39620.041053,
+    "whale_pct": 22.64,
     "whale_value_at_open": 175001.5504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129547,8 +129547,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789207184.8721282,
-    "fills": 5
+    "last_fill_at": 1789207295.9218366,
+    "fills": 6
   },
   {
     "timestamp": 1789179145,
