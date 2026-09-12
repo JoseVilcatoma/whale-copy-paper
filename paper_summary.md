@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:51:41 (hora de Perú)
+Actualizado: 2026-09-12 14:53:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $205.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:51:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $194.17 en 39 posiciones abiertas (disponible para nuevas apuestas: $11.38)
+**Capital comprometido ahora mismo:** $199.17 en 40 posiciones abiertas (disponible para nuevas apuestas: $6.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| Talvez10 | 17 | 18 | 0 | -22.84 USD |
+| Talvez10 | 17 | 18 | 1 | -22.84 USD |
 | BrotherObama | 9 | 12 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -994,6 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 15.3% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Pittsburgh (-7.5) | Pittsburgh (BUY) | 51% | 5.00 | 11.1% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1023,4 +1024,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs 1WIN (BO3) - T | 1WIN (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ❌ perdida | -5.04 |
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ❌ perdida | -3.38 |
-| wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ✅ ganada | +2.49 |
