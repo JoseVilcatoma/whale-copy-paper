@@ -1,5 +1,5 @@
 {
-  "bankroll": 221.5173566103831,
+  "bankroll": 216.38935661038312,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26325,6 +26325,11 @@
       "timestamp": 1789237544.4889212,
       "bankroll": 221.52,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Watford FC vs. Stoke City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789238474.227487,
+      "bankroll": 216.39,
+      "event": "lost:  \u2014 Will Tottenham Hotspur FC win on 2026-09-12?"
     }
   ]
 }
