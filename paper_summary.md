@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:12:19 (hora de Perú)
+Actualizado: 2026-09-12 14:14:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $212.82
-**Retorno acumulado:** -57.44%
+**Bankroll actual:** $210.93
+**Retorno acumulado:** -57.81%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:12:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $48.65)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $56.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,10 +30,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| wr0ngw4yb3tt0r | 80 | 58 | 7 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 79 | 58 | 8 | +22.09 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 36 | 21 | 2 | +16.16 USD |
@@ -140,11 +140,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| Talvez10 | 16 | 16 | 3 | -17.46 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
+| Talvez10 | 16 | 17 | 2 | -22.58 USD |
 | BrotherObama | 9 | 12 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5058
-- **Aciertos:** 3177 (62.8%)
+- **Apuestas resueltas:** 5060
+- **Aciertos:** 3178 (62.8%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,232.28
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $470.75 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,242.28
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $470.97 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,8 +172,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2613 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1505 | 68.2% | 67.8% | +0.5 pp |
+| 40-59% | 2614 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1506 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1014,7 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ❌ perdida | -5.12 |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ✅ ganada | +3.00 |
-| wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ❌ perdida | -2.39 |

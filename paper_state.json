@@ -1,5 +1,5 @@
 {
-  "bankroll": 212.81630278015533,
+  "bankroll": 210.92763611348866,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26350,6 +26350,16 @@
       "timestamp": 1789239727.508363,
       "bankroll": 212.82,
       "event": "won: GoalLineGhost \u2014 Athletic Club vs. Elche CF: O/U 4.5"
+    },
+    {
+      "timestamp": 1789240362.2277017,
+      "bankroll": 207.69,
+      "event": "lost: Talvez10 \u2014 O/U 2.5 Rounds"
+    },
+    {
+      "timestamp": 1789240365.8706913,
+      "bankroll": 210.93,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Noche UFC: Jessie Rosas vs. Sean King (Featherweight, Prelims)"
     }
   ]
 }
