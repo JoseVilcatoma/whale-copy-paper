@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 03:25:18 (hora de Perú)
+Actualizado: 2026-09-12 03:27:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 03:25:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $199.17 en 40 posiciones abiertas (disponible para nuevas apuestas: $57.38)
+**Capital comprometido ahora mismo:** $204.17 en 41 posiciones abiertas (disponible para nuevas apuestas: $52.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | Diabolical-Prize | 5 | 0 | 4 | +23.93 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| GoalLineGhost | 63 | 22 | 4 | +21.09 USD |
+| GoalLineGhost | 63 | 22 | 5 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -986,6 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Athletic Club vs. Elche CF: O/U 4.5 | Under (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Real Madrid CF vs. Rayo Vallecano de Mad | Over (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 2.5 | Under (BUY) | 59% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -1015,4 +1016,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ❌ perdida | -5.12 |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ❌ perdida | -5.12 |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ❌ perdida | -5.13 |
-| Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 40.1% | ⏳ pendiente | — |
