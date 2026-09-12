@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 12:53:46 (hora de Perú)
+Actualizado: 2026-09-12 12:55:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $225.95
-**Retorno acumulado:** -54.81%
+**Bankroll actual:** $229.80
+**Retorno acumulado:** -54.04%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 12:53:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $13.48)
+**Capital comprometido ahora mismo:** $197.47 en 40 posiciones abiertas (disponible para nuevas apuestas: $32.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | quavoo | 32 | 18 | 0 | +4.68 USD |
-| Jsram | 5 | 2 | 3 | +4.50 USD |
+| Jsram | 6 | 3 | 1 | +4.54 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -152,19 +152,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 119 | 83 | 3 | -128.22 USD |
+|  | 120 | 83 | 2 | -124.40 USD |
 | ferrariChampions2026 | 762 | 473 | 1 | -237.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5045
-- **Aciertos:** 3171 (62.9%)
+- **Apuestas resueltas:** 5048
+- **Aciertos:** 3173 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,168.98
-- **ROI sobre lo apostado:** -1.58%
-- **Comisiones pagadas (taker fee):** $469.45 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,183.98
+- **ROI sobre lo apostado:** -1.57%
+- **Comisiones pagadas (taker fee):** $469.73 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,9 +172,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2604 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 2606 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1503 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 670 | 86.1% | 86.5% | -0.4 pp |
+| 80-94% | 671 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1003,11 +1003,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Heroic vs 1WIN (BO3) - T | 1WIN (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
-| Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ⏳ pendiente | — |
+| Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ❌ perdida | -5.04 |
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ✅ ganada | +3.82 |
-| Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 10.1% | ⏳ pendiente | — |
+| Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 10.1% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ❌ perdida | -5.12 |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ✅ ganada | +3.00 |

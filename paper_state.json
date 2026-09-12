@@ -1,5 +1,5 @@
 {
-  "bankroll": 225.95243803689308,
+  "bankroll": 229.8020910981176,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26285,6 +26285,21 @@
       "timestamp": 1789234437.9185104,
       "bankroll": 225.95,
       "event": "won: Kch-Temp \u2014 RC Strasbourg Alsace vs. AS Monaco FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1789235681.8959131,
+      "bankroll": 229.77,
+      "event": "won:  \u2014 Samsunspor vs. \u00c7orum FK: O/U 2.5"
+    },
+    {
+      "timestamp": 1789235686.0361495,
+      "bankroll": 234.85,
+      "event": "won: Jsram \u2014 Chelsea FC vs. Hull City AFC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789235686.8818817,
+      "bankroll": 229.8,
+      "event": "lost: Jsram \u2014 Will Chelsea FC win on 2026-09-12?"
     }
   ]
 }
