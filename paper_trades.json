@@ -130625,8 +130625,8 @@
     "title": "Chelsea FC vs. Hull City AFC: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3922.6704,
-    "whale_pct": 2.067,
+    "whale_usd": 6933.5808,
+    "whale_pct": 3.654,
     "whale_value_at_open": 189735.4442,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -130637,8 +130637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789215618.0553303,
-    "fills": 2
+    "last_fill_at": 1789215844.6725914,
+    "fills": 3
   },
   {
     "timestamp": 1789211232,
