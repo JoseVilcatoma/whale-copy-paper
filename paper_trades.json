@@ -129744,5 +129744,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789192451.0239093,
     "fills": 1
+  },
+  {
+    "timestamp": 1789192572,
+    "timestamp_added": 1789192573.4242399,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "fr2-usd-ass-2026-09-12-ass",
+    "title": "Will AS Saint-\u00c9tienne win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1999.7082,
+    "whale_pct": 1.423,
+    "whale_value_at_open": 140569.9929,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789192573.4242508,
+    "fills": 1
   }
 ]
