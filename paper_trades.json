@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 57945.925051000006,
-    "whale_pct": 90.171,
+    "whale_usd": 58906.349667,
+    "whale_pct": 91.666,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789200151.636914,
-    "fills": 18
+    "last_fill_at": 1789200882.3073485,
+    "fills": 19
   },
   {
     "timestamp": 1789159490,
@@ -130033,6 +130033,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789200410.970301,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789200902,
+    "timestamp_added": 1789200903.1437218,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-color-sparta-2026-09-12",
+    "title": "Counter-Strike: Color vs SPARTA (BO3) - CCT Europe Series #8 Playoffs",
+    "outcome": "Color",
+    "side": "BUY",
+    "whale_usd": 1945.7735000000002,
+    "whale_pct": 1.239,
+    "whale_value_at_open": 157013.0492,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789200903.143732,
     "fills": 1
   }
 ]
