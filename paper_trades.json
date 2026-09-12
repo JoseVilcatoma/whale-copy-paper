@@ -130447,5 +130447,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789203686.8904574,
     "fills": 2
+  },
+  {
+    "timestamp": 1789204802,
+    "timestamp_added": 1789204802.510033,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "jap-hol-kaw-2026-09-12-total-2pt5",
+    "title": "FC Mito Holly Hock vs. Kawasaki Frontale: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1791.9945,
+    "whale_pct": 1.142,
+    "whale_value_at_open": 156881.388,
+    "paper_stake_usd": 2.33,
+    "odds_at_bet": 46,
+    "fee_usd": 0.063,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789204833.9664361,
+    "fills": 2
   }
 ]
