@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.8963566103831,
+  "bankroll": 221.5173566103831,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26320,6 +26320,11 @@
       "timestamp": 1789236928.3343458,
       "bankroll": 224.9,
       "event": "lost: lucidarderi \u2014 Will AC Milan win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789237544.4889212,
+      "bankroll": 221.52,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Watford FC vs. Stoke City FC: O/U 2.5"
     }
   ]
 }
