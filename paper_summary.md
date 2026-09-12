@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 06:02:24 (hora de Perú)
+Actualizado: 2026-09-12 06:04:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.74
@@ -988,7 +988,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
-| vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 8.8% | ⏳ pendiente | — |
+| vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ⏳ pendiente | — |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |

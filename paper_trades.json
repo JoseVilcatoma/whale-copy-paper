@@ -129073,8 +129073,8 @@
     "title": "Will SC Freiburg win on 2026-09-12?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5064.0445199999995,
-    "whale_pct": 1.715,
+    "whale_usd": 11941.344949999999,
+    "whale_pct": 4.045,
     "whale_value_at_open": 295218.1858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -129085,8 +129085,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789207857.9498868,
-    "fills": 5
+    "last_fill_at": 1789211030.788244,
+    "fills": 8
   },
   {
     "timestamp": 1789160394,
@@ -130577,8 +130577,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner",
     "outcome": "Invictus Gaming",
     "side": "BUY",
-    "whale_usd": 2258.655527,
-    "whale_pct": 8.825,
+    "whale_usd": 7412.894927,
+    "whale_pct": 28.964,
     "whale_value_at_open": 25593.6498,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -130589,8 +130589,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789210747.5236475,
-    "fills": 2
+    "last_fill_at": 1789211018.8594596,
+    "fills": 3
   },
   {
     "timestamp": 1789210773,
