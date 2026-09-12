@@ -130723,8 +130723,8 @@
     "title": "Will Chelsea FC win on 2026-09-12?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 99353.65600000002,
-    "whale_pct": 44.603,
+    "whale_usd": 108067.17600000002,
+    "whale_pct": 48.515,
     "whale_value_at_open": 222748.9754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -130735,7 +130735,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789220595.9627416,
-    "fills": 7
+    "last_fill_at": 1789220798.8247435,
+    "fills": 8
   }
 ]
