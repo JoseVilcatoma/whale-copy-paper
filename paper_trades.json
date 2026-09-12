@@ -130178,5 +130178,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789201591.361219,
     "fills": 1
+  },
+  {
+    "timestamp": 1789201998,
+    "timestamp_added": 1789201999.050998,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sui-stg-sio-2026-09-12-total-3pt5",
+    "title": "FC St. Gallen 1879 vs. FC Sion: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1213.4783000000002,
+    "whale_pct": 1.23,
+    "whale_value_at_open": 98681.5074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789201999.4749212,
+    "fills": 2
   }
 ]
