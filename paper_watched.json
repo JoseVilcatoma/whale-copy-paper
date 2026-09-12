@@ -44,19 +44,19 @@
   "0x19c4aa3200949f1dfc0f84cc2c9a47d78ed18c95": {
     "username": "Devs777",
     "added_at": 1789233191.2603216,
-    "roi_pct": 343.96,
-    "short_term_pct": 100.0
-  },
-  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
-    "username": "theowalcott",
-    "added_at": 1789234127.1369529,
-    "roi_pct": 599.22,
+    "roi_pct": 319.91,
     "short_term_pct": 100.0
   },
   "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
     "username": "mmklop",
     "added_at": 1789235064.1080225,
-    "roi_pct": 216.74,
+    "roi_pct": 346.94,
     "short_term_pct": 100.0
+  },
+  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
+    "username": "donthackme",
+    "added_at": 1789236003.5049436,
+    "roi_pct": 198.46,
+    "short_term_pct": 30.0
   }
 }

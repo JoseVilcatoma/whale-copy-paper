@@ -1,5 +1,5 @@
 {
-  "bankroll": 229.8020910981176,
+  "bankroll": 235.1373566103831,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26300,6 +26300,16 @@
       "timestamp": 1789235686.8818817,
       "bankroll": 229.8,
       "event": "lost: Jsram \u2014 Will Chelsea FC win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789235995.2025383,
+      "bankroll": 232.65,
+      "event": "won: GoalLineGhost \u2014 Spread: Chelsea FC (-2.5)"
+    },
+    {
+      "timestamp": 1789235996.5461593,
+      "bankroll": 235.14,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Millwall FC win on 2026-09-12?"
     }
   ]
 }
