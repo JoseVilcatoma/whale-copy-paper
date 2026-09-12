@@ -1,5 +1,5 @@
 {
-  "bankroll": 255.17094500122158,
+  "bankroll": 244.96294500122158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26170,6 +26170,16 @@
       "timestamp": 1789215606.3960903,
       "bankroll": 255.17,
       "event": "lost:  \u2014 Will Nagoya Grampus win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789217137.1347454,
+      "bankroll": 250.03,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789217137.5045218,
+      "bankroll": 244.96,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: B8 (-1.5) vs 1WIN (+1.5)"
     }
   ]
 }
