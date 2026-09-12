@@ -129433,8 +129433,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 30000.0,
-    "whale_pct": 27.247,
+    "whale_usd": 44185.112271,
+    "whale_pct": 40.13,
     "whale_value_at_open": 110103.7531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -129445,8 +129445,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789168545.5343003,
-    "fills": 1
+    "last_fill_at": 1789189112.656852,
+    "fills": 2
   },
   {
     "timestamp": 1789172101,

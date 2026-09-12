@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 23:57:35 (hora de Perú)
+Actualizado: 2026-09-11 23:59:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.92
@@ -994,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | vjnn | Spread: Seattle Mariners (-1.5) | Seattle Mariners (BUY) | 51% | 5.00 | 79.7% | ⏳ pendiente | — |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 10.5 | Under (BUY) | 51% | 5.00 | 43.8% | ⏳ pendiente | — |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 49% | 5.00 | 43.1% | ❌ perdida | -5.13 |
-| Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 27.2% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: Hanwha Life Esports vs T1 (BO5) - L | Hanwha Life Esports (BUY) | 61% | 5.00 | 40.1% | ⏳ pendiente | — |
 | Talvez10 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 60% | 5.00 | 91.7% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Washington Nation | Washington Nationals (BUY) | 55% | 5.00 | 28.9% | ✅ ganada | +3.98 |
 |  | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 24.5% | ❌ perdida | -5.15 |
