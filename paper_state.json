@@ -1,5 +1,5 @@
 {
-  "bankroll": 274.312790336435,
+  "bankroll": 269.179790336435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26010,6 +26010,11 @@
       "timestamp": 1789173079.2694983,
       "bankroll": 274.31,
       "event": "won:  \u2014 Will CSyD Defensa y Justicia win on 2026-09-11?"
+    },
+    {
+      "timestamp": 1789173718.2274284,
+      "bankroll": 269.18,
+      "event": "lost: pleaseplease123 \u2014 Cincinnati Reds vs. Milwaukee Brewers: O/U 7.5"
     }
   ]
 }
