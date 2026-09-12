@@ -128973,8 +128973,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 41052.833848,
-    "whale_pct": 63.883,
+    "whale_usd": 43694.106587,
+    "whale_pct": 67.994,
     "whale_value_at_open": 64262.0361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -128985,8 +128985,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789191473.868815,
-    "fills": 9
+    "last_fill_at": 1789196847.1218839,
+    "fills": 11
   },
   {
     "timestamp": 1789159490,
@@ -129583,8 +129583,8 @@
     "title": "Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)",
     "outcome": "Garcia",
     "side": "BUY",
-    "whale_usd": 26100.742743,
-    "whale_pct": 19.441,
+    "whale_usd": 28260.742743,
+    "whale_pct": 21.05,
     "whale_value_at_open": 134255.1179,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -129595,8 +129595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789196576.8455844,
-    "fills": 16
+    "last_fill_at": 1789196838.8998654,
+    "fills": 17
   },
   {
     "timestamp": 1789186197,
@@ -129888,5 +129888,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789196509.5412593,
     "fills": 1
+  },
+  {
+    "timestamp": 1789196741,
+    "timestamp_added": 1789196741.4401922,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-lgc-mibr-2026-09-12",
+    "title": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 3252.25207,
+    "whale_pct": 3.933,
+    "whale_value_at_open": 82681.7882,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789196827.1624765,
+    "fills": 2
   }
 ]
