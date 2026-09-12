@@ -130955,5 +130955,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789226513.735701,
     "fills": 1
+  },
+  {
+    "timestamp": 1789226835,
+    "timestamp_added": 1789226836.437643,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-col-det-2026-09-12-total-8pt5",
+    "title": "Colorado Rockies vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3377.57,
+    "whale_pct": 6.306,
+    "whale_value_at_open": 53557.1998,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789226836.4376535,
+    "fills": 1
   }
 ]
