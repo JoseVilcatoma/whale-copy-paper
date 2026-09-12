@@ -130010,5 +130010,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789200263.9357755,
     "fills": 4
+  },
+  {
+    "timestamp": 1789200410,
+    "timestamp_added": 1789200410.9702904,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "arg-tal-uni-2026-09-12-tal",
+    "title": "Will CA Talleres win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1119.3999999999999,
+    "whale_pct": 0.707,
+    "whale_value_at_open": 158379.5398,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789200410.970301,
+    "fills": 1
   }
 ]
