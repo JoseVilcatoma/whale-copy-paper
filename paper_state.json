@@ -1,5 +1,5 @@
 {
-  "bankroll": 258.15199729968447,
+  "bankroll": 247.89899729968445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26045,6 +26045,16 @@
       "timestamp": 1789180954.2051897,
       "bankroll": 258.15,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789182543.9528055,
+      "bankroll": 253.04,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia Phillies vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1789182549.6911967,
+      "bankroll": 247.9,
+      "event": "lost: Talvez10 \u2014 Philadelphia Phillies vs. Atlanta Braves: O/U 6.5"
     }
   ]
 }
