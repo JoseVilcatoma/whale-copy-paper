@@ -129121,8 +129121,8 @@
     "title": "O/U 2.5 Rounds",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3533.0,
-    "whale_pct": 5.675,
+    "whale_usd": 14711.07,
+    "whale_pct": 23.63,
     "whale_value_at_open": 62255.5403,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -129133,8 +129133,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789160757.9848175,
-    "fills": 1
+    "last_fill_at": 1789230437.4616246,
+    "fills": 2
   },
   {
     "timestamp": 1789162187,
