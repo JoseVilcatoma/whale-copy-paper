@@ -1,5 +1,5 @@
 {
-  "bankroll": 157.77906849066923,
+  "bankroll": 151.71732774992847,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26495,6 +26495,21 @@
       "timestamp": 1789255007.916223,
       "bankroll": 157.78,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Aryna Sabalenka vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1789255637.5040762,
+      "bankroll": 152.65,
+      "event": "lost: Kch-Temp \u2014 Spread: Illinois (-6.5)"
+    },
+    {
+      "timestamp": 1789255638.721367,
+      "bankroll": 147.57,
+      "event": "lost: Kch-Temp \u2014 Duke vs. Illinois"
+    },
+    {
+      "timestamp": 1789255640.8117542,
+      "bankroll": 151.72,
+      "event": "won: Diabolical-Prize \u2014 Spread: Illinois (-6.5)"
     }
   ]
 }
