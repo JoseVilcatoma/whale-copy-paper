@@ -130092,8 +130092,8 @@
     "title": "Ventforet K\u014dfu vs. J\u00fabilo Iwata: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 792.9992,
-    "whale_pct": 0.919,
+    "whale_usd": 2341.0018,
+    "whale_pct": 2.713,
     "whale_value_at_open": 86291.0438,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -130104,8 +130104,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789201132.2267036,
-    "fills": 1
+    "last_fill_at": 1789201270.579469,
+    "fills": 3
   },
   {
     "timestamp": 1789201137,
@@ -130129,6 +130129,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789201138.1655276,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789201271,
+    "timestamp_added": 1789201271.549409,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ja2-ven-jub-2026-09-12-total-1pt5",
+    "title": "Ventforet K\u014dfu vs. J\u00fabilo Iwata: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 510.00000000000006,
+    "whale_pct": 0.554,
+    "whale_value_at_open": 92035.0343,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789201271.54942,
     "fills": 1
   }
 ]
