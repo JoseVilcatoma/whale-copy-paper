@@ -1,5 +1,5 @@
 {
-  "bankroll": 232.62561166788825,
+  "bankroll": 236.28954149244964,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26200,6 +26200,11 @@
       "timestamp": 1789218993.4247568,
       "bankroll": 232.63,
       "event": "won: BrotherObama \u2014 LoL: Anyone's Legend vs Invictus Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1789221474.586973,
+      "bankroll": 236.29,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BetBoom Team vs G2 - Map 2 Winner"
     }
   ]
 }
