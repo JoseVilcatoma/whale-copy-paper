@@ -129816,5 +129816,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789194425.4272108,
     "fills": 1
+  },
+  {
+    "timestamp": 1789195384,
+    "timestamp_added": 1789195384.7743096,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "bun-fre-moe-2026-09-12-spread-home-1pt5",
+    "title": "Spread: SC Freiburg (-1.5)",
+    "outcome": "Borussia M\u00f6nchengladbach",
+    "side": "BUY",
+    "whale_usd": 554.632942,
+    "whale_pct": 0.386,
+    "whale_value_at_open": 143846.2589,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789195384.774321,
+    "fills": 1
   }
 ]
