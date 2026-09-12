@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 15:56:19 (hora de Perú)
+Actualizado: 2026-09-12 15:58:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $199.47
-**Retorno acumulado:** -60.11%
-**Peor caída desde un máximo (drawdown):** 68.62%
+**Bankroll actual:** $189.20
+**Retorno acumulado:** -62.16%
+**Peor caída desde un máximo (drawdown):** 68.79%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 15:56:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $35.30)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $35.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| pleaseplease123 | 28 | 24 | 5 | +3.73 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 1 | +3.00 USD |
@@ -95,6 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
+| pleaseplease123 | 28 | 25 | 4 | -1.42 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -125,7 +125,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| GoalLineGhost | 69 | 30 | 2 | -7.45 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -136,6 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
+| GoalLineGhost | 69 | 31 | 1 | -12.57 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5073
+- **Apuestas resueltas:** 5075
 - **Aciertos:** 3185 (62.8%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,307.28
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $472.29 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,317.28
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $472.56 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2622 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 2624 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1510 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -1017,7 +1017,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 14.7% | ❌ perdida | -5.14 |
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 7.3% | ✅ ganada | +4.88 |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
-| pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
+| pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ❌ perdida | -5.15 |
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 74.1% | ✅ ganada | +3.66 |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ❌ perdida | -5.13 |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ✅ ganada | +2.49 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 199.46617640195686,
+  "bankroll": 189.19617640195688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26425,6 +26425,16 @@
       "timestamp": 1789246352.6499484,
       "bankroll": 199.47,
       "event": "won: mmklop \u2014 Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789246662.4389744,
+      "bankroll": 194.34,
+      "event": "lost: GoalLineGhost \u2014 FC Lorient vs. Toulouse FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789246663.6512082,
+      "bankroll": 189.2,
+      "event": "lost: pleaseplease123 \u2014 Colorado Rockies vs. Detroit Tigers"
     }
   ]
 }
