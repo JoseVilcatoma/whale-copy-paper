@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 09:16:46 (hora de Perú)
+Actualizado: 2026-09-12 09:18:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $223.12
-**Retorno acumulado:** -55.38%
+**Bankroll actual:** $224.03
+**Retorno acumulado:** -55.19%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 09:16:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $10.65)
+**Capital comprometido ahora mismo:** $207.47 en 42 posiciones abiertas (disponible para nuevas apuestas: $16.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,13 +102,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 1 | 1 | 0 | -2.42 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| GoalLineGhost | 65 | 28 | 8 | -2.50 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 1 | -2.62 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| GoalLineGhost | 64 | 28 | 9 | -3.41 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -156,13 +156,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5035
-- **Aciertos:** 3164 (62.8%)
+- **Apuestas resueltas:** 5036
+- **Aciertos:** 3165 (62.8%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,118.98
-- **ROI sobre lo apostado:** -1.60%
-- **Comisiones pagadas (taker fee):** $468.53 (1.87% del capital apostado)
+- **Total apostado (suma de stakes):** $25,123.98
+- **ROI sobre lo apostado:** -1.59%
+- **Comisiones pagadas (taker fee):** $468.57 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2600 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 1498 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 669 | 86.1% | 86.5% | -0.4 pp |
+| 80-94% | 670 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1008,7 +1008,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Persija Jakarta vs. Persib Bandung: O/U  | Under (BUY) | 75% | 5.00 | 0.6% | ❌ perdida | -5.06 |
 | GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | SS Lazio vs. AC Milan: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
-| GoalLineGhost | Real Racing Club vs. Deportivo Alavés: O | Under (BUY) | 84% | 5.00 | 1.8% | ⏳ pendiente | — |
+| GoalLineGhost | Real Racing Club vs. Deportivo Alavés: O | Under (BUY) | 84% | 5.00 | 1.8% | ✅ ganada | +0.91 |
 | GoalLineGhost | Will PSS Sleman win on 2026-09-12? | Yes (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Yokohama FC win on 2026-09-12? | Yes (BUY) | 45% | 5.00 | 0.6% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 223.1196891922075,
+  "bankroll": 224.03207014458843,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26235,6 +26235,11 @@
       "timestamp": 1789222419.2633133,
       "bankroll": 223.12,
       "event": "won: Diabolical-Prize \u2014 LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789222731.127494,
+      "bankroll": 224.03,
+      "event": "won: GoalLineGhost \u2014 Real Racing Club vs. Deportivo Alav\u00e9s: O/U 4.5"
     }
   ]
 }
