@@ -129645,5 +129645,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789186587.1379292,
     "fills": 1
+  },
+  {
+    "timestamp": 1789188700,
+    "timestamp_added": 1789188701.1260676,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-sd-sf-2026-09-11",
+    "title": "San Diego Padres vs. San Francisco Giants",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 552.1460800000001,
+    "whale_pct": 0.24,
+    "whale_value_at_open": 230226.2514,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Talvez10",
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789188701.1260777,
+    "fills": 1
   }
 ]
