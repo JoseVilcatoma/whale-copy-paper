@@ -1,5 +1,5 @@
 {
-  "bankroll": 265.74108785836444,
+  "bankroll": 263.34808785836447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26150,6 +26150,11 @@
       "timestamp": 1789208721.1422198,
       "bankroll": 265.74,
       "event": "won: Diabolical-Prize \u2014 Map Handicap: LGC (-1.5) vs MIBR (+1.5)"
+    },
+    {
+      "timestamp": 1789211936.9925025,
+      "bankroll": 263.35,
+      "event": "lost: GoalLineGhost \u2014 FC Mito Holly Hock vs. Kawasaki Frontale: O/U 2.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 06:16:45 (hora de Perú)
+Actualizado: 2026-09-12 06:18:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $265.74
-**Retorno acumulado:** -46.85%
+**Bankroll actual:** $263.35
+**Retorno acumulado:** -47.33%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 06:16:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $264.34 en 54 posiciones abiertas (disponible para nuevas apuestas: $1.40)
+**Capital comprometido ahora mismo:** $262.01 en 53 posiciones abiertas (disponible para nuevas apuestas: $1.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| GoalLineGhost | 63 | 22 | 16 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| GoalLineGhost | 63 | 23 | 15 | +18.70 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 86 | 52 | 9 | +16.17 USD |
 | ExplosiveNinja | 35 | 20 | 2 | +15.54 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5018
-- **Aciertos:** 3159 (63.0%)
+- **Apuestas resueltas:** 5019
+- **Aciertos:** 3159 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,038.81
-- **ROI sobre lo apostado:** -1.43%
-- **Comisiones pagadas (taker fee):** $466.85 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.43% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,041.14
+- **ROI sobre lo apostado:** -1.44%
+- **Comisiones pagadas (taker fee):** $466.91 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2589 | 50.3% | 50.1% | +0.3 pp |
+| 40-59% | 2590 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1492 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 669 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -995,9 +995,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
-| GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ⏳ pendiente | — |
+| GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ❌ perdida | -2.39 |
 | GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 5.5% | ⏳ pendiente | — |
+| Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
 | GoalLineGhost | Persija Jakarta vs. Persib Bandung: O/U  | Under (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | SS Lazio vs. AC Milan: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
