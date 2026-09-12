@@ -131075,5 +131075,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789236853.3948781,
     "fills": 1
+  },
+  {
+    "timestamp": 1789237821,
+    "timestamp_added": 1789237822.552122,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "cfb-duke-ill-2026-09-12",
+    "title": "Duke vs. Illinois",
+    "outcome": "Illinois",
+    "side": "BUY",
+    "whale_usd": 11074.833600000002,
+    "whale_pct": 16.064,
+    "whale_value_at_open": 68941.989,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789237822.55214,
+    "fills": 1
   }
 ]

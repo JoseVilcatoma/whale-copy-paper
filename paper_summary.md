@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 13:29:00 (hora de Perú)
+Actualizado: 2026-09-12 13:31:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $221.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 13:29:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $179.17 en 36 posiciones abiertas (disponible para nuevas apuestas: $42.35)
+**Capital comprometido ahora mismo:** $184.17 en 37 posiciones abiertas (disponible para nuevas apuestas: $37.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoodGuy26 | 1 | 0 | 0 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| Kch-Temp | 1 | 0 | 3 | +2.49 USD |
+| Kch-Temp | 1 | 0 | 4 | +2.49 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -990,6 +990,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ⏳ pendiente | — |
 | Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1019,4 +1020,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
 | GoalLineGhost | Persija Jakarta vs. Persib Bandung: O/U  | Under (BUY) | 75% | 5.00 | 0.6% | ❌ perdida | -5.06 |
-| GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ✅ ganada | +2.84 |
