@@ -1,5 +1,5 @@
 {
-  "bankroll": 235.1373566103831,
+  "bankroll": 224.8963566103831,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26310,6 +26310,16 @@
       "timestamp": 1789235996.5461593,
       "bankroll": 235.14,
       "event": "won: wr0ngw4yb3tt0r \u2014 Will Millwall FC win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789236925.5291722,
+      "bankroll": 230.03,
+      "event": "lost: GoalLineGhost \u2014 SS Lazio vs. AC Milan: O/U 2.5"
+    },
+    {
+      "timestamp": 1789236928.3343458,
+      "bankroll": 224.9,
+      "event": "lost: lucidarderi \u2014 Will AC Milan win on 2026-09-12?"
     }
   ]
 }
