@@ -1,5 +1,5 @@
 {
-  "bankroll": 246.04168695485686,
+  "bankroll": 250.91668695485686,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26075,6 +26075,11 @@
       "timestamp": 1789184130.0045424,
       "bankroll": 246.04,
       "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1789186345.8970256,
+      "bankroll": 250.92,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Missouri (-5.5)"
     }
   ]
 }
