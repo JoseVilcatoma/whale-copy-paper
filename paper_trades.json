@@ -129828,8 +129828,8 @@
     "title": "Spread: SC Freiburg (-1.5)",
     "outcome": "Borussia M\u00f6nchengladbach",
     "side": "BUY",
-    "whale_usd": 554.632942,
-    "whale_pct": 0.386,
+    "whale_usd": 2264.692942,
+    "whale_pct": 1.574,
     "whale_value_at_open": 143846.2589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -129840,8 +129840,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789195384.774321,
-    "fills": 1
+    "last_fill_at": 1789210512.5385675,
+    "fills": 2
   },
   {
     "timestamp": 1789195799,
