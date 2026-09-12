@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 10:17:31 (hora de Perú)
+Actualizado: 2026-09-12 10:19:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $233.54
@@ -990,7 +990,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
-| lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2954.8% | ⏳ pendiente | — |
+| lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ⏳ pendiente | — |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
