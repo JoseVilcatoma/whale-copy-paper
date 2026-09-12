@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:32:54 (hora de Perú)
+Actualizado: 2026-09-12 14:34:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $210.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:32:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $169.17 en 34 posiciones abiertas (disponible para nuevas apuestas: $41.52)
+**Capital comprometido ahora mismo:** $189.17 en 38 posiciones abiertas (disponible para nuevas apuestas: $21.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| Diabolical-Prize | 9 | 3 | 2 | +26.39 USD |
+| Diabolical-Prize | 9 | 3 | 5 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | wr0ngw4yb3tt0r | 80 | 58 | 10 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| pleaseplease123 | 28 | 24 | 2 | +3.73 USD |
+| pleaseplease123 | 28 | 24 | 3 | +3.73 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -992,6 +992,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Alabama (-9.5) | Alabama (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
+| pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Chicago White Sox (BUY) | 51% | 5.00 | 43.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Syracuse (-3.5) | California (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Diabolical-Prize | California vs. Syracuse | Syracuse (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Syracuse (-3.5) | Syracuse (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -1018,7 +1022,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ✅ ganada | +2.49 |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ✅ ganada | +3.82 |
 | Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 10.1% | ✅ ganada | +5.08 |
-| wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ❌ perdida | -5.11 |
-| vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ❌ perdida | -5.12 |
-| BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ✅ ganada | +3.00 |
-| wr0ngw4yb3tt0r | Noche UFC: Jessie Rosas vs. Sean King (F | Sean King (BUY) | 60% | 5.00 | 0.9% | ✅ ganada | +3.23 |
