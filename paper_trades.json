@@ -129696,5 +129696,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789189196.5929377,
     "fills": 1
+  },
+  {
+    "timestamp": 1789189504,
+    "timestamp_added": 1789189505.3161151,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "epl-tot-eve-2026-09-12-tot",
+    "title": "Will Tottenham Hotspur FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 23532.38,
+    "whale_pct": 10.005,
+    "whale_value_at_open": 235197.6384,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789189505.3161278,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 00:03:43 (hora de Perú)
+Actualizado: 2026-09-12 00:05:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 00:03:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.17 en 28 posiciones abiertas (disponible para nuevas apuestas: $111.75)
+**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $106.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 117 | 82 | 3 | -126.85 USD |
+|  | 117 | 82 | 4 | -126.85 USD |
 | ferrariChampions2026 | 761 | 473 | 2 | -243.49 USD |
 
 ## Análisis general
@@ -985,6 +985,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs Wildcard (BO3) -  | Wildcard (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 |  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Nagoya Grampus win on 2026-09-12? | Yes (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1014,4 +1015,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Cleveland Guardians vs. Minnesota Twins: | Over (BUY) | 52% | 5.00 | 94.3% | ❌ perdida | -5.12 |
 | pleaseplease123 | Cleveland Guardians vs. Minnesota Twins: | Under (BUY) | 50% | 5.00 | 262.5% | ✅ ganada | +4.88 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 49% | 5.00 | 60.4% | ⏳ pendiente | — |
