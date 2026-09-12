@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 20:21:57 (hora de Perú)
+Actualizado: 2026-09-11 20:24:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $269.18
-**Retorno acumulado:** -46.16%
+**Bankroll actual:** $264.07
+**Retorno acumulado:** -47.19%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 20:21:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $105.01)
+**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $104.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| pleaseplease123 | 26 | 22 | 4 | +5.72 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | quavoo | 32 | 18 | 0 | +4.68 USD |
 | Jsram | 5 | 2 | 0 | +4.50 USD |
@@ -87,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
+| pleaseplease123 | 26 | 23 | 3 | +0.61 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4992
+- **Apuestas resueltas:** 4993
 - **Aciertos:** 3144 (63.0%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,908.81
-- **ROI sobre lo apostado:** -1.43%
-- **Comisiones pagadas (taker fee):** $463.96 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.44% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,913.81
+- **ROI sobre lo apostado:** -1.45%
+- **Comisiones pagadas (taker fee):** $464.07 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2570 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 2571 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 1487 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 667 | 86.1% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -993,7 +993,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 1WIN vs B8 (BO3) - PGL M | 1WIN (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ⏳ pendiente | — |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 5.0% | ❌ perdida | -5.13 |
-| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ⏳ pendiente | — |
+| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ❌ perdida | -5.11 |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |

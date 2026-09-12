@@ -1,5 +1,5 @@
 {
-  "bankroll": 269.179790336435,
+  "bankroll": 264.067790336435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26015,6 +26015,11 @@
       "timestamp": 1789173718.2274284,
       "bankroll": 269.18,
       "event": "lost: pleaseplease123 \u2014 Cincinnati Reds vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1789176244.7654722,
+      "bankroll": 264.07,
+      "event": "lost: pleaseplease123 \u2014 Cincinnati Reds vs. Milwaukee Brewers: O/U 8.5"
     }
   ]
 }
