@@ -131003,5 +131003,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789227025.0010858,
     "fills": 1
+  },
+  {
+    "timestamp": 1789229111,
+    "timestamp_added": 1789229111.9001033,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-vit-mkoi-2026-09-12-game2",
+    "title": "LoL: Team Vitality vs Movistar KOI - Game 2 Winner",
+    "outcome": "Movistar KOI",
+    "side": "BUY",
+    "whale_usd": 7705.608653,
+    "whale_pct": 0.699,
+    "whale_value_at_open": 1102808.7104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789229114.6645923,
+    "fills": 2
   }
 ]

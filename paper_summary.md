@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 11:03:17 (hora de Perú)
+Actualizado: 2026-09-12 11:05:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 11:03:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $7.01)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $2.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| Diabolical-Prize | 9 | 1 | 1 | +36.61 USD |
+| Diabolical-Prize | 9 | 1 | 2 | +36.61 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -989,6 +989,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | LoL: Team Vitality vs Movistar KOI - Gam | Movistar KOI (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Talvez10 | Noche UFC: Rafa Garcia vs. Rongzhu (Ligh | Rafa Garcia (BUY) | 42% | 5.00 | 8.3% | ⏳ pendiente | — |
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 6.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -1018,4 +1019,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: Chelsea FC (-2.5) | Hull City AFC (BUY) | 63% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | SS Lazio vs. AC Milan: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Real Racing Club vs. Deportivo Alavés: O | Under (BUY) | 84% | 5.00 | 1.8% | ✅ ganada | +0.91 |
-| GoalLineGhost | Will PSS Sleman win on 2026-09-12? | Yes (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
