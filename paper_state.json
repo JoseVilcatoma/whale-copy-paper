@@ -1,5 +1,5 @@
 {
-  "bankroll": 224.5947713702264,
+  "bankroll": 219.4827713702264,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26270,6 +26270,11 @@
       "timestamp": 1789227856.4110522,
       "bankroll": 224.59,
       "event": "won: GoalLineGhost \u2014 Will BV Borussia 09 Dortmund win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789228173.5471194,
+      "bankroll": 219.48,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 1. FSV Mainz 05 vs. Eintracht Frankfurt: O/U 3.5"
     }
   ]
 }
