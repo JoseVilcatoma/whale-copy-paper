@@ -131563,5 +131563,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789249070.8257751,
     "fills": 1
+  },
+  {
+    "timestamp": 1789249279,
+    "timestamp_added": 1789249280.2280767,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-ala-uk-2026-09-12",
+    "title": "Alabama vs. Kentucky",
+    "outcome": "Alabama",
+    "side": "BUY",
+    "whale_usd": 589.41,
+    "whale_pct": 0.111,
+    "whale_value_at_open": 531875.4804,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789249280.2280881,
+    "fills": 1
   }
 ]
