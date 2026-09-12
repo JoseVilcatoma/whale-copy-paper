@@ -129533,8 +129533,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 37500.0,
-    "whale_pct": 21.428,
+    "whale_usd": 38045.6,
+    "whale_pct": 21.74,
     "whale_value_at_open": 175001.5504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129547,8 +129547,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789207082.304888,
-    "fills": 4
+    "last_fill_at": 1789207184.8721282,
+    "fills": 5
   },
   {
     "timestamp": 1789179145,
@@ -130494,6 +130494,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789207036.5176473,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789207127,
+    "timestamp_added": 1789207127.4959285,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "fl1-str-asm-2026-09-12-asm",
+    "title": "Will AS Monaco FC win on 2026-09-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1006.841035,
+    "whale_pct": 0.587,
+    "whale_value_at_open": 171539.9022,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789207127.4959378,
     "fills": 1
   }
 ]
