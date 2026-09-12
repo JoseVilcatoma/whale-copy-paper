@@ -130615,5 +130615,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789210774.0291069,
     "fills": 1
+  },
+  {
+    "timestamp": 1789210863,
+    "timestamp_added": 1789210864.2954721,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-che-hul-2026-09-12-total-3pt5",
+    "title": "Chelsea FC vs. Hull City AFC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 911.76,
+    "whale_pct": 0.481,
+    "whale_value_at_open": 189735.4442,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789210864.2954805,
+    "fills": 1
   }
 ]
