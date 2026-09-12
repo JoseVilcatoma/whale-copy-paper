@@ -129672,5 +129672,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789188701.1260777,
     "fills": 1
+  },
+  {
+    "timestamp": 1789189196,
+    "timestamp_added": 1789189196.5929222,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-bbl1-wc1-2026-09-12",
+    "title": "Counter-Strike: BBL vs Wildcard (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
+    "outcome": "Wildcard",
+    "side": "BUY",
+    "whale_usd": 3047.9223,
+    "whale_pct": 2.158,
+    "whale_value_at_open": 141270.2344,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789189196.5929377,
+    "fills": 1
   }
 ]
