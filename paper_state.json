@@ -1,5 +1,5 @@
 {
-  "bankroll": 251.36236495325895,
+  "bankroll": 259.3360862647344,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26125,6 +26125,16 @@
       "timestamp": 1789206044.5462618,
       "bankroll": 251.36,
       "event": "lost: BrotherObama \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
+    },
+    {
+      "timestamp": 1789206853.4127562,
+      "bankroll": 254.46,
+      "event": "won: Diabolical-Prize \u2014 LoL: Hanwha Life Esports vs T1 (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1789206855.5382326,
+      "bankroll": 259.34,
+      "event": "won: BrotherObama \u2014 LoL: Hanwha Life Esports vs T1 - Game 3 Winner"
     }
   ]
 }
