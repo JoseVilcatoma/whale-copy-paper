@@ -130979,5 +130979,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789226836.4376535,
     "fills": 1
+  },
+  {
+    "timestamp": 1789227024,
+    "timestamp_added": 1789227025.0010788,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-raf3-ron2-2026-09-12",
+    "title": "Noche UFC: Rafa Garcia vs. Rongzhu (Lightweight, Prelims)",
+    "outcome": "Rafa Garcia",
+    "side": "BUY",
+    "whale_usd": 4422.3748,
+    "whale_pct": 8.257,
+    "whale_value_at_open": 53557.1998,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789227025.0010858,
+    "fills": 1
   }
 ]
