@@ -130833,5 +130833,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789222759.6206853,
     "fills": 1
+  },
+  {
+    "timestamp": 1789223333,
+    "timestamp_added": 1789223333.864387,
+    "username": "Kch-Temp",
+    "wallet": "0x924379a79c64b77ad5816ad362122a5f6228658e",
+    "slug": "fl1-str-asm-2026-09-12-btts",
+    "title": "RC Strasbourg Alsace vs. AS Monaco FC: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 640.003,
+    "whale_pct": 0.928,
+    "whale_value_at_open": 68941.989,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789223333.8643942,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 09:27:15 (hora de Perú)
+Actualizado: 2026-09-12 09:29:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $224.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 09:27:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $212.47 en 43 posiciones abiertas (disponible para nuevas apuestas: $11.56)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $6.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Kch-Temp | 0 | 0 | 2 | +0.00 USD |
+| Kch-Temp | 0 | 0 | 3 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -988,6 +988,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Pittsburgh (-7.5) | UCF (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Illinois (-6.5) | Illinois (BUY) | 49% | 5.00 | 20.9% | ⏳ pendiente | — |
@@ -1017,4 +1018,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC St. Gallen 1879 vs. FC Sion: O/U 3.5 | Over (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Athletic Club vs. Elche CF: O/U 4.5 | Under (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
 | GoalLineGhost | Ventforet Kōfu vs. Júbilo Iwata: O/U 1.5 | Over (BUY) | 69% | 5.00 | 0.6% | ❌ perdida | -5.08 |
-| GoalLineGhost | Real Madrid CF vs. Rayo Vallecano de Mad | Over (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
