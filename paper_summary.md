@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 16:33:16 (hora de Perú)
+Actualizado: 2026-09-12 16:35:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $182.64
-**Retorno acumulado:** -63.47%
-**Peor caída desde un máximo (drawdown):** 69.87%
+**Bankroll actual:** $177.49
+**Retorno acumulado:** -64.50%
+**Peor caída desde un máximo (drawdown):** 70.72%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 16:33:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $38.47)
+**Capital comprometido ahora mismo:** $139.17 en 28 posiciones abiertas (disponible para nuevas apuestas: $38.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| ripley86alien | 3 | 0 | 1 | +11.00 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -53,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | quavoo | 32 | 18 | 0 | +4.68 USD |
 | Jsram | 6 | 3 | 1 | +4.54 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5078
+- **Apuestas resueltas:** 5079
 - **Aciertos:** 3186 (62.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,332.28
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $472.89 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,337.28
+- **ROI sobre lo apostado:** -1.76%
+- **Comisiones pagadas (taker fee):** $473.03 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2627 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 2628 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1510 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -1010,7 +1010,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Spread: Syracuse (-3.5) | Syracuse (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 64% | 5.00 | 0.3% | ✅ ganada | +2.72 |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Michigan (BUY) | 75% | 5.00 | 2.6% | ✅ ganada | +1.60 |
-| ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ⏳ pendiente | — |
+| ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ❌ perdida | -5.15 |
 | Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ⏳ pendiente | — |
 | Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ⏳ pendiente | — |
 | Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ⏳ pendiente | — |

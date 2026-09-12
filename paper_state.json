@@ -1,5 +1,5 @@
 {
-  "bankroll": 182.6381062265183,
+  "bankroll": 177.4901062265183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26450,6 +26450,11 @@
       "timestamp": 1789248565.8461418,
       "bankroll": 182.64,
       "event": "lost: pleaseplease123 \u2014 Pittsburgh Pirates vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1789248885.3368719,
+      "bankroll": 177.49,
+      "event": "lost: ripley86alien \u2014 Will Arsenal FC win on 2026-09-12?"
     }
   ]
 }
