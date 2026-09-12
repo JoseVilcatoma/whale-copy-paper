@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 00:13:50 (hora de Perú)
+Actualizado: 2026-09-12 00:15:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $250.92
@@ -986,7 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs Wildcard (BO3) -  | Wildcard (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs Wildcard (BO3) -  | Wildcard (BUY) | 60% | 5.00 | 4.3% | ⏳ pendiente | — |
 |  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Nagoya Grampus win on 2026-09-12? | Yes (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Arthur Weber vs Yuta Shimi | Arthur Weber (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |

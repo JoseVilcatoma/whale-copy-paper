@@ -129682,8 +129682,8 @@
     "title": "Counter-Strike: BBL vs Wildcard (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "Wildcard",
     "side": "BUY",
-    "whale_usd": 3047.9223,
-    "whale_pct": 2.158,
+    "whale_usd": 6120.4948,
+    "whale_pct": 4.332,
     "whale_value_at_open": 141270.2344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -129694,8 +129694,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789189196.5929377,
-    "fills": 1
+    "last_fill_at": 1789190092.5536106,
+    "fills": 2
   },
   {
     "timestamp": 1789189504,
