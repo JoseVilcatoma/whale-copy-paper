@@ -130649,8 +130649,8 @@
     "title": "LoL: Anyone's Legend vs Invictus Gaming - Game 3 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 94970.170823,
-    "whale_pct": 17.379,
+    "whale_usd": 99471.112323,
+    "whale_pct": 18.202,
     "whale_value_at_open": 546472.6324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -130663,7 +130663,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789211400.652891,
-    "fills": 17
+    "last_fill_at": 1789211549.994382,
+    "fills": 18
   }
 ]

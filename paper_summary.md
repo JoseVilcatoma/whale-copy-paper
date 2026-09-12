@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 06:10:36 (hora de Perú)
+Actualizado: 2026-09-12 06:12:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $265.74
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 17.4% | ⏳ pendiente | — |
+| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ⏳ pendiente | — |
 | Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ⏳ pendiente | — |
