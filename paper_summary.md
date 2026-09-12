@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 01:28:08 (hora de Perú)
+Actualizado: 2026-09-12 01:30:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -986,7 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 47% | 5.00 | 17.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 9.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Saint-Étienne win on 2026-09-12? | Yes (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FOKUS vs Virtus.pro (BO3 | FOKUS (BUY) | 56% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
