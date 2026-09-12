@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 02:28:06 (hora de Perú)
+Actualizado: 2026-09-12 02:30:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -986,7 +986,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma (BUY) | 66% | 5.00 | 6.8% | ⏳ pendiente | — |
-| BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 67.7% | ⏳ pendiente | — |
+| BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 82.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ⏳ pendiente | — |
 |  | Samsunspor vs. Çorum FK: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |

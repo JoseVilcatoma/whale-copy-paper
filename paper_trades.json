@@ -129922,8 +129922,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 3 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 30000.000000000004,
-    "whale_pct": 67.653,
+    "whale_usd": 36540.318300000006,
+    "whale_pct": 82.402,
     "whale_value_at_open": 44344.0981,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -129934,8 +129934,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789197182.970437,
-    "fills": 1
+    "last_fill_at": 1789198128.8253484,
+    "fills": 2
   },
   {
     "timestamp": 1789197741,
