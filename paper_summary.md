@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-11 21:40:48 (hora de Perú)
+Actualizado: 2026-09-11 21:42:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $263.27
-**Retorno acumulado:** -47.35%
+**Bankroll actual:** $258.15
+**Retorno acumulado:** -48.37%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-11 21:40:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $104.10)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $103.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,9 +37,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | GoalLineGhost | 63 | 22 | 0 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 51 | 8 | +18.45 USD |
 | ExplosiveNinja | 34 | 20 | 0 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 52 | 7 | +13.33 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -155,14 +155,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 4997
-- **Aciertos:** 3146 (63.0%)
+- **Apuestas resueltas:** 4998
+- **Aciertos:** 3146 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $24,933.81
-- **ROI sobre lo apostado:** -1.45%
-- **Comisiones pagadas (taker fee):** $464.60 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $24,938.81
+- **ROI sobre lo apostado:** -1.47%
+- **Comisiones pagadas (taker fee):** $464.71 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2575 | 50.4% | 50.1% | +0.3 pp |
+| 40-59% | 2576 | 50.3% | 50.1% | +0.3 pp |
 | 60-79% | 1487 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 667 | 86.1% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
@@ -1002,7 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ❌ perdida | -5.11 |
 | Talvez10 | Philadelphia Phillies vs. Atlanta Braves | Under (BUY) | 45% | 5.00 | 59.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 - Map | G2 (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Fluxo W7M (BO | ShindeN (BUY) | 53% | 5.00 | 4.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BetBoom Team vs G2 (BO3) | G2 (BUY) | 63% | 5.00 | 24.2% | ⏳ pendiente | — |
 | Talvez10 | O/U 2.5 Rounds | Over (BUY) | 51% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FOKUS (-1.5) vs Virtus.pro | Virtus.pro (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |

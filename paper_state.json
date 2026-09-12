@@ -1,5 +1,5 @@
 {
-  "bankroll": 263.2689972996845,
+  "bankroll": 258.15199729968447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26040,6 +26040,11 @@
       "timestamp": 1789179684.0813007,
       "bankroll": 263.27,
       "event": "lost: ferrariChampions2026 \u2014 New York Mets vs. New York Yankees"
+    },
+    {
+      "timestamp": 1789180954.2051897,
+      "bankroll": 258.15,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ShindeN vs Fluxo W7M (BO3) - PGL Masters Bucharest: South American Closed Qualifier Playoffs"
     }
   ]
 }
