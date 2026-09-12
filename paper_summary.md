@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 03:15:06 (hora de Perú)
+Actualizado: 2026-09-12 03:17:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -989,7 +989,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs SPARTA (BO3) -  | Color (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CA Talleres win on 2026-09-12? | No (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 4.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma (BUY) | 66% | 5.00 | 6.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 82.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: SC Freiburg (-1.5) | Borussia Mönchengladbach (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 47% | 5.00 | 17.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 34.4% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 38.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Saint-Étienne win on 2026-09-12? | Yes (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FOKUS vs Virtus.pro (BO3 | FOKUS (BUY) | 56% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
