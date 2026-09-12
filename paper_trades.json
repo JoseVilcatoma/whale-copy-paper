@@ -130713,5 +130713,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789214380.8999014,
     "fills": 1
+  },
+  {
+    "timestamp": 1789220353,
+    "timestamp_added": 1789220354.0571961,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-che-hul-2026-09-12-che",
+    "title": "Will Chelsea FC win on 2026-09-12?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 9476.328,
+    "whale_pct": 4.254,
+    "whale_value_at_open": 222748.9754,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789220354.0572035,
+    "fills": 1
   }
 ]

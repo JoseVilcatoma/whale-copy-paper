@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 08:37:30 (hora de Perú)
+Actualizado: 2026-09-12 08:39:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $232.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 08:37:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $227.47 en 46 posiciones abiertas (disponible para nuevas apuestas: $5.16)
+**Capital comprometido ahora mismo:** $232.47 en 47 posiciones abiertas (disponible para nuevas apuestas: $0.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | quavoo | 32 | 18 | 0 | +4.68 USD |
-| Jsram | 5 | 2 | 2 | +4.50 USD |
+| Jsram | 5 | 2 | 3 | +4.50 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -987,6 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ⏳ pendiente | — |
@@ -1016,4 +1017,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: FC Groningen (-2.5) | Go Ahead Eagles (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs SPARTA (BO3) -  | Color (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will CA Talleres win on 2026-09-12? | No (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will CS Independiente Rivadavia win on 2 | Yes (BUY) | 69% | 5.00 | 2.5% | ⏳ pendiente | — |
