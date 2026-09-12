@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 10:42:54 (hora de Perú)
+Actualizado: 2026-09-12 10:44:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $233.54
-**Retorno acumulado:** -53.29%
+**Bankroll actual:** $224.59
+**Retorno acumulado:** -55.08%
 **Peor caída desde un máximo (drawdown):** 67.22%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 10:42:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $232.47 en 47 posiciones abiertas (disponible para nuevas apuestas: $1.07)
+**Capital comprometido ahora mismo:** $217.47 en 44 posiciones abiertas (disponible para nuevas apuestas: $7.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | Diabolical-Prize | 9 | 1 | 1 | +36.61 USD |
-| wr0ngw4yb3tt0r | 77 | 54 | 14 | +34.33 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -34,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 77 | 56 | 12 | +24.11 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -95,6 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
+| GoalLineGhost | 66 | 28 | 7 | -1.22 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -102,7 +103,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 1 | 1 | 0 | -2.42 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| GoalLineGhost | 65 | 28 | 8 | -2.50 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 8 | 1 | -2.62 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
@@ -156,14 +156,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5039
-- **Aciertos:** 3168 (62.9%)
+- **Apuestas resueltas:** 5042
+- **Aciertos:** 3169 (62.9%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,138.98
-- **ROI sobre lo apostado:** -1.55%
-- **Comisiones pagadas (taker fee):** $468.87 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,153.98
+- **ROI sobre lo apostado:** -1.59%
+- **Comisiones pagadas (taker fee):** $469.14 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -171,8 +171,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2601 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1500 | 68.2% | 67.8% | +0.4 pp |
+| 40-59% | 2602 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1502 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 670 | 86.1% | 86.5% | -0.4 pp |
 | 95-99% (casi seguro) | 268 | 97.0% | 97.3% | -0.3 pp |
 

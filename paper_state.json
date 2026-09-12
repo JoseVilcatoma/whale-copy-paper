@@ -1,5 +1,5 @@
 {
-  "bankroll": 233.53965744617574,
+  "bankroll": 224.5947713702264,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26255,6 +26255,21 @@
       "timestamp": 1789225553.3805907,
       "bankroll": 233.54,
       "event": "won: Diabolical-Prize \u2014 Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789227851.7560658,
+      "bankroll": 228.4,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will SC Freiburg win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789227853.4609213,
+      "bankroll": 223.32,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: SC Freiburg (-1.5)"
+    },
+    {
+      "timestamp": 1789227856.4110522,
+      "bankroll": 224.59,
+      "event": "won: GoalLineGhost \u2014 Will BV Borussia 09 Dortmund win on 2026-09-12?"
     }
   ]
 }
