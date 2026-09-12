@@ -129533,8 +129533,8 @@
     "title": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 18600.0,
-    "whale_pct": 10.628,
+    "whale_usd": 37500.0,
+    "whale_pct": 21.428,
     "whale_value_at_open": 175001.5504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -129547,8 +129547,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789179162.8248107,
-    "fills": 3
+    "last_fill_at": 1789207082.304888,
+    "fills": 4
   },
   {
     "timestamp": 1789179145,
@@ -130471,5 +130471,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789204833.9664361,
     "fills": 2
+  },
+  {
+    "timestamp": 1789207036,
+    "timestamp_added": 1789207036.5176368,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-unlv-ntx-2026-09-12-total-57pt5",
+    "title": "UNLV vs. North Texas: O/U 57.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6933.9983999999995,
+    "whale_pct": 4.214,
+    "whale_value_at_open": 164533.6747,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789207036.5176473,
+    "fills": 1
   }
 ]
