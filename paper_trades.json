@@ -129073,8 +129073,8 @@
     "title": "Will SC Freiburg win on 2026-09-12?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 21577.743020999995,
-    "whale_pct": 7.309,
+    "whale_usd": 22576.551320999995,
+    "whale_pct": 7.647,
     "whale_value_at_open": 295218.1858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -129085,8 +129085,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789214337.2838776,
-    "fills": 17
+    "last_fill_at": 1789214470.8534777,
+    "fills": 18
   },
   {
     "timestamp": 1789160394,
@@ -129828,8 +129828,8 @@
     "title": "Spread: SC Freiburg (-1.5)",
     "outcome": "Borussia M\u00f6nchengladbach",
     "side": "BUY",
-    "whale_usd": 2264.692942,
-    "whale_pct": 1.574,
+    "whale_usd": 7227.265942,
+    "whale_pct": 5.024,
     "whale_value_at_open": 143846.2589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -129840,8 +129840,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789210512.5385675,
-    "fills": 2
+    "last_fill_at": 1789214470.8551419,
+    "fills": 3
   },
   {
     "timestamp": 1789195799,
