@@ -130737,5 +130737,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789220798.8247435,
     "fills": 8
+  },
+  {
+    "timestamp": 1789221593,
+    "timestamp_added": 1789221594.1259153,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-hero-1win-2026-09-12",
+    "title": "Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
+    "outcome": "1WIN",
+    "side": "BUY",
+    "whale_usd": 5210.2799,
+    "whale_pct": 3.594,
+    "whale_value_at_open": 144970.9194,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789221594.1259234,
+    "fills": 1
   }
 ]
