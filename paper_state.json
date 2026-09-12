@@ -1,5 +1,5 @@
 {
-  "bankroll": 191.8223027801553,
+  "bankroll": 194.5448027801553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26395,6 +26395,11 @@
       "timestamp": 1789243506.0867858,
       "bankroll": 191.82,
       "event": "won: wr0ngw4yb3tt0r \u2014 Oklahoma vs. Michigan"
+    },
+    {
+      "timestamp": 1789244313.315302,
+      "bankroll": 194.54,
+      "event": "won: wr0ngw4yb3tt0r \u2014 O/U 1.5 Rounds"
     }
   ]
 }
