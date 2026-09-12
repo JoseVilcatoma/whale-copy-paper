@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 15:02:01 (hora de Perú)
+Actualizado: 2026-09-12 15:04:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $200.43
@@ -994,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 60.8% | ⏳ pendiente | — |
+| pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 151.2% | ⏳ pendiente | — |
 | Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 15.3% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Pittsburgh (-7.5) | Pittsburgh (BUY) | 51% | 5.00 | 11.1% | ⏳ pendiente | — |
