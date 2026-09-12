@@ -1,5 +1,5 @@
 {
-  "bankroll": 205.81563611348867,
+  "bankroll": 210.69063611348867,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26365,6 +26365,11 @@
       "timestamp": 1789240682.1550987,
       "bankroll": 205.82,
       "event": "lost: Diabolical-Prize \u2014 LoL: Team Vitality vs Movistar KOI - Game 2 Winner"
+    },
+    {
+      "timestamp": 1789240997.5289047,
+      "bankroll": 210.69,
+      "event": "won: Talvez10 \u2014 Colorado Rockies vs. Detroit Tigers: O/U 8.5"
     }
   ]
 }
