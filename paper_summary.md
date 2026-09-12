@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:24:36 (hora de Perú)
+Actualizado: 2026-09-12 14:26:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $210.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:24:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $61.52)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $56.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | Diabolical-Prize | 9 | 3 | 0 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| wr0ngw4yb3tt0r | 80 | 58 | 8 | +25.32 USD |
+| wr0ngw4yb3tt0r | 80 | 58 | 9 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
@@ -990,6 +990,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Michigan (BUY) | 75% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ⏳ pendiente | — |
 | Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ⏳ pendiente | — |
@@ -1019,4 +1020,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will AS Monaco FC win on 2026-09-12? | No (BUY) | 55% | 5.00 | 0.6% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | UNLV vs. North Texas: O/U 57.5 | Under (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | GoalLineGhost | FC Mito Holly Hock vs. Kawasaki Frontale | Over (BUY) | 46% | 2.33 | 1.1% | ❌ perdida | -2.39 |
-| GoalLineGhost | FC Lorient vs. Toulouse FC: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
