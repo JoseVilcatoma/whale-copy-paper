@@ -130891,8 +130891,8 @@
     "title": "Counter-Strike: Heroic vs 1WIN (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "Heroic",
     "side": "BUY",
-    "whale_usd": 8969.184000000001,
-    "whale_pct": 12.225,
+    "whale_usd": 54387.933600000004,
+    "whale_pct": 74.131,
     "whale_value_at_open": 73367.5586,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -130905,8 +130905,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789226091.433666,
-    "fills": 3
+    "last_fill_at": 1789229420.6114783,
+    "fills": 4
   },
   {
     "timestamp": 1789226506,

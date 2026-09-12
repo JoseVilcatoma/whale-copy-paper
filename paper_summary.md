@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 11:09:25 (hora de Perú)
+Actualizado: 2026-09-12 11:11:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $219.48
@@ -994,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 50% | 5.00 | 6.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers | Colorado Rockies (BUY) | 41% | 5.00 | 6.0% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: Heroic vs 1WIN (BO3) - T | Heroic (BUY) | 57% | 5.00 | 74.1% | ⏳ pendiente | — |
 | lucidarderi | Will AC Milan win on 2026-09-12? | Yes (BUY) | 47% | 5.00 | 2972.7% | ⏳ pendiente | — |
 | Kch-Temp | RC Strasbourg Alsace vs. AS Monaco FC: B | Yes (BUY) | 66% | 5.00 | 20.5% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. Chicago Cubs: O/U | Over (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
