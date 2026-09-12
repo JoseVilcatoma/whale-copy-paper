@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 07:26:16 (hora de Perú)
+Actualizado: 2026-09-12 07:28:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $255.17
@@ -990,7 +990,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ⏳ pendiente | — |
-| Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 3.7% | ⏳ pendiente | — |
+| Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 1. FSV Mainz 05 vs. Eintracht Frankfurt: | Under (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | vjnn | LoL: Anyone's Legend vs Invictus Gaming  | Invictus Gaming (BUY) | 52% | 5.00 | 29.0% | ⏳ pendiente | — |
 | BrotherObama | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 48% | 2.84 | 23.9% | ⏳ pendiente | — |
