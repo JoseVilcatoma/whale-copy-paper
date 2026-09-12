@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 03:47:56 (hora de Perú)
+Actualizado: 2026-09-12 03:49:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 03:47:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $224.17 en 45 posiciones abiertas (disponible para nuevas apuestas: $32.38)
+**Capital comprometido ahora mismo:** $234.17 en 47 posiciones abiertas (disponible para nuevas apuestas: $22.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | Diabolical-Prize | 5 | 0 | 4 | +23.93 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| GoalLineGhost | 63 | 22 | 9 | +21.09 USD |
+| GoalLineGhost | 63 | 22 | 11 | +21.09 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
@@ -986,6 +986,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Real Racing Club vs. Deportivo Alavés: O | Under (BUY) | 84% | 5.00 | 1.8% | ⏳ pendiente | — |
+| GoalLineGhost | Will PSS Sleman win on 2026-09-12? | Yes (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Yokohama FC win on 2026-09-12? | Yes (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Imabari win on 2026-09-12? | No (BUY) | 75% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1014,5 +1016,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 90% | 5.00 | 0.2% | ✅ ganada | +0.53 |
 |  | Will Nagoya Grampus win on 2026-09-12? | Yes (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Phan Thiet 3: Arthur Weber vs Yuta Shimi | Arthur Weber (BUY) | 60% | 5.00 | 0.3% | ✅ ganada | +3.23 |
-| Jsram | Zuffa Boxing: Garcia vs. Benn (Welterwei | Garcia (BUY) | 71% | 5.00 | 25.9% | ⏳ pendiente | — |
-| Diabolical-Prize | Map Handicap: LGC (-1.5) vs MIBR (+1.5) | MIBR (BUY) | 62% | 5.00 | 17.5% | ⏳ pendiente | — |
