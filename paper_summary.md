@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 02:58:41 (hora de Perú)
+Actualizado: 2026-09-12 03:00:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $256.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 02:58:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $159.17 en 32 posiciones abiertas (disponible para nuevas apuestas: $97.38)
+**Capital comprometido ahora mismo:** $164.17 en 33 posiciones abiertas (disponible para nuevas apuestas: $92.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | ExplosiveNinja | 34 | 20 | 3 | +14.95 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 52 | 8 | +13.33 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 85 | 52 | 9 | +13.33 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -980,11 +980,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cle-min-2026-09-11-total-7pt5 | Talvez10, pleaseplease123 |
 | cs2-bb3-g2-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize |
 | mlb-sd-sf-2026-09-11 | , Talvez10, pleaseplease123 |
+| cs2-hotu-100t-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: HOTU vs 100 Thieves (BO3 | 100 Thieves (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Oklahoma (BUY) | 66% | 5.00 | 6.8% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 3  | T1 (BUY) | 50% | 5.00 | 82.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: Legacy vs MIBR (BO3) - F | Legacy (BUY) | 89% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -992,7 +994,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Real Madrid CF (-2.5) | Rayo Vallecano de Madrid (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: SC Freiburg (-1.5) | Borussia Mönchengladbach (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 47% | 5.00 | 17.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 30.1% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: HOTU vs 100 Thieves (BO3 | HOTU (BUY) | 46% | 5.00 | 34.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will AS Saint-Étienne win on 2026-09-12? | Yes (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: FOKUS vs Virtus.pro (BO3 | FOKUS (BUY) | 56% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Will Tottenham Hotspur FC win on 2026-09 | Yes (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
@@ -1014,4 +1016,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 1WIN vs B8 (BO3) - PGL M | 1WIN (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 59% | 5.00 | 150.3% | ✅ ganada | +3.37 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 47% | 5.00 | 5.0% | ❌ perdida | -5.13 |
-| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers: O | Under (BUY) | 55% | 5.00 | 30.6% | ❌ perdida | -5.11 |
