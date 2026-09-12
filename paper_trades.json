@@ -131343,5 +131343,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789241642.2891614,
     "fills": 1
+  },
+  {
+    "timestamp": 1789241705,
+    "timestamp_added": 1789241706.1426058,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cfb-ucf-pitt-2026-09-12-spread-home-7pt5",
+    "title": "Spread: Pittsburgh (-7.5)",
+    "outcome": "Pittsburgh",
+    "side": "BUY",
+    "whale_usd": 30217.4848,
+    "whale_pct": 2.74,
+    "whale_value_at_open": 1102808.7104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Kch-Temp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789241737.261025,
+    "fills": 3
+  },
+  {
+    "timestamp": 1789241805,
+    "timestamp_added": 1789241806.1753702,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "cfb-duke-ill-2026-09-12-spread-home-6pt5",
+    "title": "Spread: Illinois (-6.5)",
+    "outcome": "Duke",
+    "side": "BUY",
+    "whale_usd": 10600.0,
+    "whale_pct": 0.961,
+    "whale_value_at_open": 1102808.7104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Kch-Temp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789241819.3046062,
+    "fills": 2
   }
 ]

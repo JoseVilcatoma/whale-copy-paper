@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 14:34:57 (hora de Perú)
+Actualizado: 2026-09-12 14:37:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $210.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 14:34:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $189.17 en 38 posiciones abiertas (disponible para nuevas apuestas: $21.52)
+**Capital comprometido ahora mismo:** $199.17 en 40 posiciones abiertas (disponible para nuevas apuestas: $11.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| Diabolical-Prize | 9 | 3 | 5 | +26.39 USD |
+| Diabolical-Prize | 9 | 3 | 7 | +26.39 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | wr0ngw4yb3tt0r | 80 | 58 | 10 | +25.32 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -985,6 +985,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-hotu-100t-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize, mmklop |
 | lol-al-ig1-2026-09-12-game3 | Diabolical-Prize, vjnn |
 | cs2-hero-1win-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
+| cfb-duke-ill-2026-09-12-spread-home-6pt5 | Diabolical-Prize, Kch-Temp |
+| cfb-ucf-pitt-2026-09-12-spread-home-7pt5 | Diabolical-Prize, Kch-Temp |
 | cfb-cah-syra-2026-09-12 | Diabolical-Prize, Kch-Temp |
 | cfb-cah-syra-2026-09-12-spread-home-3pt5 | Diabolical-Prize, wr0ngw4yb3tt0r |
 
@@ -992,6 +994,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Pittsburgh (-7.5) | Pittsburgh (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Alabama (-9.5) | Alabama (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1020,5 +1024,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Jsram | Will Chelsea FC win on 2026-09-12? | Yes (BUY) | 82% | 5.00 | 48.5% | ❌ perdida | -5.04 |
 | wr0ngw4yb3tt0r | Watford FC vs. Stoke City FC: O/U 2.5 | Under (BUY) | 52% | 3.30 | 2.8% | ❌ perdida | -3.38 |
 | wr0ngw4yb3tt0r | Will Millwall FC win on 2026-09-12? | No (BUY) | 66% | 5.00 | 5.2% | ✅ ganada | +2.49 |
-| Diabolical-Prize | LoL: Anyone's Legend vs Invictus Gaming  | Anyone's Legend (BUY) | 56% | 5.00 | 18.2% | ✅ ganada | +3.82 |
-| Jsram | Chelsea FC vs. Hull City AFC: O/U 3.5 | Over (BUY) | 49% | 5.00 | 10.1% | ✅ ganada | +5.08 |
