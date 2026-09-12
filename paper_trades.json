@@ -130965,8 +130965,8 @@
     "title": "Colorado Rockies vs. Detroit Tigers: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3377.57,
-    "whale_pct": 6.306,
+    "whale_usd": 3906.7700000000004,
+    "whale_pct": 7.295,
     "whale_value_at_open": 53557.1998,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -130977,8 +130977,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789226836.4376535,
-    "fills": 1
+    "last_fill_at": 1789232805.0122726,
+    "fills": 2
   },
   {
     "timestamp": 1789227024,
