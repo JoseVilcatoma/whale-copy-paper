@@ -1,5 +1,5 @@
 {
-  "bankroll": 247.89899729968445,
+  "bankroll": 242.52599729968443,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26055,6 +26055,21 @@
       "timestamp": 1789182549.6911967,
       "bankroll": 247.9,
       "event": "lost: Talvez10 \u2014 Philadelphia Phillies vs. Atlanta Braves: O/U 6.5"
+    },
+    {
+      "timestamp": 1789183501.4469357,
+      "bankroll": 252.77,
+      "event": "won: pleaseplease123 \u2014 Cleveland Guardians vs. Minnesota Twins: O/U 7.5"
+    },
+    {
+      "timestamp": 1789183501.547119,
+      "bankroll": 247.65,
+      "event": "lost: Talvez10 \u2014 Cleveland Guardians vs. Minnesota Twins: O/U 7.5"
+    },
+    {
+      "timestamp": 1789183563.0128496,
+      "bankroll": 242.53,
+      "event": "lost: pleaseplease123 \u2014 Chicago White Sox vs. St. Louis Cardinals: O/U 7.5"
     }
   ]
 }
