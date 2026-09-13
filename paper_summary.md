@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 22:28:52 (hora de Perú)
+Actualizado: 2026-09-12 22:30:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $146.21
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 22:28:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $62.04)
+**Capital comprometido ahora mismo:** $89.17 en 18 posiciones abiertas (disponible para nuevas apuestas: $57.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 7 | +3.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 8 | +3.00 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
@@ -996,6 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 6.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -1025,4 +1026,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Spread: Pittsburgh (-7.5) | Pittsburgh (BUY) | 51% | 5.00 | 11.1% | ❌ perdida | -5.12 |
 | Diabolical-Prize | Spread: Alabama (-10.5) | Alabama (BUY) | 46% | 5.00 | 0.6% | ✅ ganada | +5.73 |
 | Diabolical-Prize | Spread: Alabama (-9.5) | Alabama (BUY) | 51% | 5.00 | 0.9% | ✅ ganada | +4.68 |
-| Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
