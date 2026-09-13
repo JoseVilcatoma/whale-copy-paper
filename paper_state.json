@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.88590935775277,
+  "bankroll": 92.04457602441943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26855,6 +26855,16 @@
       "timestamp": 1789332936.0547264,
       "bankroll": 91.89,
       "event": "lost: pleaseplease123 \u2014 New York Mets vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1789334320.6960182,
+      "bankroll": 86.76,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1789334322.4010842,
+      "bankroll": 92.04,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Chicago White Sox vs. St. Louis Cardinals: O/U 8.5"
     }
   ]
 }
