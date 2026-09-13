@@ -132076,5 +132076,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789271997.1674614,
     "fills": 3
+  },
+  {
+    "timestamp": 1789272399,
+    "timestamp_added": 1789272400.3709126,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "lol-gen-hle1-2026-09-13-game-handicap-away-1pt5",
+    "title": "Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 48183.982,
+    "whale_pct": 24.034,
+    "whale_value_at_open": 200482.3455,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789272400.370922,
+    "fills": 1
   }
 ]
