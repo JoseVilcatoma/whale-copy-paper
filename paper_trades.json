@@ -133442,8 +133442,8 @@
     "title": "Cardinals vs. Chargers",
     "outcome": "Cardinals",
     "side": "BUY",
-    "whale_usd": 15763.420329,
-    "whale_pct": 2.864,
+    "whale_usd": 16429.554329,
+    "whale_pct": 2.985,
     "whale_value_at_open": 550412.5017,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -133456,7 +133456,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789340034.207622,
-    "fills": 4
+    "last_fill_at": 1789340062.1421485,
+    "fills": 5
   }
 ]
