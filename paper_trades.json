@@ -131597,8 +131597,8 @@
     "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 12388.9251,
-    "whale_pct": 8.734,
+    "whale_usd": 13449.5015,
+    "whale_pct": 9.481,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131611,8 +131611,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789254006.6875615,
-    "fills": 4
+    "last_fill_at": 1789278298.344527,
+    "fills": 5
   },
   {
     "timestamp": 1789249481,
@@ -132305,8 +132305,8 @@
     "title": "Counter-Strike: BBL vs HOTU (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 3094.5948,
-    "whale_pct": 2.085,
+    "whale_usd": 8905.908,
+    "whale_pct": 6.001,
     "whale_value_at_open": 148407.8394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -132317,8 +132317,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789276505.858348,
-    "fills": 1
+    "last_fill_at": 1789278301.248492,
+    "fills": 2
   },
   {
     "timestamp": 1789277538,
@@ -132343,5 +132343,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789277540.010539,
     "fills": 2
+  },
+  {
+    "timestamp": 1789278298,
+    "timestamp_added": 1789278298.7134142,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g2-lgc-2026-09-13-map-handicap-home-1pt5",
+    "title": "Map Handicap: LGC (-1.5) vs G2 (+1.5)",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 2584.0224,
+    "whale_pct": 1.822,
+    "whale_value_at_open": 141854.3504,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789278298.7134218,
+    "fills": 1
   }
 ]
