@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 21:55:33 (hora de Perú)
+Actualizado: 2026-09-12 21:57:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $161.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 21:55:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.17 en 19 posiciones abiertas (disponible para nuevas apuestas: $67.67)
+**Capital comprometido ahora mismo:** $99.17 en 20 posiciones abiertas (disponible para nuevas apuestas: $62.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 762 | 474 | 4 | -241.28 USD |
+| ferrariChampions2026 | 762 | 474 | 5 | -241.28 USD |
 
 ## Análisis general
 
@@ -996,6 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 81% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1025,4 +1026,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Spread: Alabama (-8.5) | Alabama (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
 | pleaseplease123 | Chicago White Sox vs. St. Louis Cardinal | Chicago White Sox (BUY) | 51% | 5.00 | 43.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Syracuse (-3.5) | California (BUY) | 46% | 5.00 | 0.3% | ✅ ganada | +5.73 |
-| Diabolical-Prize | California vs. Syracuse | Syracuse (BUY) | 65% | 5.00 | 1.1% | ❌ perdida | -5.09 |
