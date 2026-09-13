@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 11:13:59 (hora de Perú)
+Actualizado: 2026-09-13 11:15:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.06
@@ -998,7 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 2.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ravens (-2.5) | Colts (BUY) | 46% | 4.90 | 1.3% | ⏳ pendiente | — |
 |  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
