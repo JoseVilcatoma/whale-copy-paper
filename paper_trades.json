@@ -133046,5 +133046,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789322317.0427513,
     "fills": 3
+  },
+  {
+    "timestamp": 1789323008,
+    "timestamp_added": 1789323008.460373,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-cws-stl-2026-09-13-total-8pt5",
+    "title": "Chicago White Sox vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1657.6899999999998,
+    "whale_pct": 0.318,
+    "whale_value_at_open": 520573.1965,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789323008.4603868,
+    "fills": 1
   }
 ]
