@@ -5,12 +5,6 @@
     "roi_pct": 10837.62,
     "short_term_pct": 100.0
   },
-  "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
-    "username": "WTSA",
-    "added_at": 1788998948.668473,
-    "roi_pct": 708.95,
-    "short_term_pct": 100.0
-  },
   "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
     "username": "mmklop",
     "added_at": 1789253300.7794886,
@@ -23,23 +17,11 @@
     "roi_pct": 465.19,
     "short_term_pct": 100.0
   },
-  "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
-    "username": "pleaseplease123",
-    "added_at": 1789284116.2691767,
-    "roi_pct": 3170.59,
-    "short_term_pct": 100.0
-  },
-  "0x51698a47f840a242abc2ca0351371c7ffac41842": {
-    "username": "00gringo00",
-    "added_at": 1789286006.014429,
-    "roi_pct": 531.75,
-    "short_term_pct": 100.0
-  },
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1789286945.86212,
     "roi_pct": 842.08,
-    "short_term_pct": 30.0
+    "short_term_pct": 50.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
@@ -47,16 +29,34 @@
     "roi_pct": 607.65,
     "short_term_pct": 100.0
   },
-  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
-    "username": "wr0ngw4yb3tt0r",
-    "added_at": 1789286945.8621285,
-    "roi_pct": 309.51,
+  "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
+    "username": "Talvez10",
+    "added_at": 1789287879.2311218,
+    "roi_pct": 878.85,
     "short_term_pct": 100.0
   },
-  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
-    "username": "theowalcott",
-    "added_at": 1789286945.8621294,
-    "roi_pct": 278.94,
+  "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
+    "username": "Jsram",
+    "added_at": 1789287879.23113,
+    "roi_pct": 287.14,
+    "short_term_pct": 100.0
+  },
+  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
+    "username": "donthackme",
+    "added_at": 1789287879.231131,
+    "roi_pct": 241.91,
+    "short_term_pct": 30.0
+  },
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
+    "username": "BrotherObama",
+    "added_at": 1789287879.2311323,
+    "roi_pct": 137.3,
+    "short_term_pct": 100.0
+  },
+  "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
+    "username": "Diabolical-Prize",
+    "added_at": 1789287879.2311335,
+    "roi_pct": 118.32,
     "short_term_pct": 100.0
   }
 }
