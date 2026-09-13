@@ -132329,8 +132329,8 @@
     "title": "Phan Thiet 4: Minh Phat Nguyen vs Ryuki Matsuda",
     "outcome": "Ryuki Matsuda",
     "side": "BUY",
-    "whale_usd": 10601.77552,
-    "whale_pct": 7.743,
+    "whale_usd": 11540.77552,
+    "whale_pct": 8.429,
     "whale_value_at_open": 136925.2927,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -132341,8 +132341,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789279274.4477293,
-    "fills": 5
+    "last_fill_at": 1789279338.592282,
+    "fills": 6
   },
   {
     "timestamp": 1789278298,
