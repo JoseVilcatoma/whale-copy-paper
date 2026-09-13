@@ -1,5 +1,5 @@
 {
-  "bankroll": 151.49823627357563,
+  "bankroll": 153.18999303033237,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26625,6 +26625,11 @@
       "timestamp": 1789273039.029095,
       "bankroll": 151.5,
       "event": "lost: mmklop \u2014 Counter-Strike: NRG vs Liquid (BO5) - PGL Masters Bucharest: North American Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1789277489.497584,
+      "bankroll": 153.19,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Arthur Weber vs Ilia Simakin"
     }
   ]
 }
