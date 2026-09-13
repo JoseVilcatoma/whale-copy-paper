@@ -132960,8 +132960,8 @@
     "title": "Saints vs. Lions",
     "outcome": "Lions",
     "side": "BUY",
-    "whale_usd": 40913.2724,
-    "whale_pct": 10.111,
+    "whale_usd": 42962.79,
+    "whale_pct": 10.618,
     "whale_value_at_open": 404638.3061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -132972,8 +132972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789322464.867085,
-    "fills": 3
+    "last_fill_at": 1789323722.775171,
+    "fills": 6
   },
   {
     "timestamp": 1789321845,
@@ -133080,8 +133080,8 @@
     "title": "Los Angeles Dodgers vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 3331.3416,
-    "whale_pct": 0.659,
+    "whale_usd": 5756.786,
+    "whale_pct": 1.138,
     "whale_value_at_open": 505891.4223,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -133092,7 +133092,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789323162.7256513,
-    "fills": 2
+    "last_fill_at": 1789323745.3955774,
+    "fills": 3
   }
 ]
