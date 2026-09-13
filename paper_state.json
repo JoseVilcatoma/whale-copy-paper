@@ -1,5 +1,5 @@
 {
-  "bankroll": 165.3841793347095,
+  "bankroll": 164.40643859396874,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26555,6 +26555,16 @@
       "timestamp": 1789256897.141521,
       "bankroll": 165.38,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Syracuse (-3.5)"
+    },
+    {
+      "timestamp": 1789258148.8675463,
+      "bankroll": 169.53,
+      "event": "won: Kch-Temp \u2014 Spread: Pittsburgh (-7.5)"
+    },
+    {
+      "timestamp": 1789258149.6776626,
+      "bankroll": 164.41,
+      "event": "lost: Diabolical-Prize \u2014 Spread: Pittsburgh (-7.5)"
     }
   ]
 }
