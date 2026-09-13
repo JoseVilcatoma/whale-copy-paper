@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.90509070961839,
+  "bankroll": 94.98117234227145,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26890,6 +26890,11 @@
       "timestamp": 1789337776.9832134,
       "bankroll": 89.91,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ex-RUSTEC vs Misa Esports (BO3) - NODWIN Clutch Series Play-In"
+    },
+    {
+      "timestamp": 1789338404.8672738,
+      "bankroll": 94.98,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Bills (-1.5)"
     }
   ]
 }
