@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.06105341277181,
+  "bankroll": 87.93305341277181,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26790,6 +26790,11 @@
       "timestamp": 1789315661.643941,
       "bankroll": 93.06,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Iberian Soul vs 6666 (BO3) - Roman Imperium Cup Playoffs"
+    },
+    {
+      "timestamp": 1789316672.0632694,
+      "bankroll": 87.93,
+      "event": "lost:  \u2014 Rennes: Kenny de Schepper vs Alberto Barroso Campos"
     }
   ]
 }
