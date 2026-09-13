@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.80633490467892,
+  "bankroll": 92.32528227309997,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26810,6 +26810,11 @@
       "timestamp": 1789321621.7366776,
       "bankroll": 90.81,
       "event": "won: wr0ngw4yb3tt0r \u2014 Manchester United FC vs. Manchester City FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789322243.6417255,
+      "bankroll": 92.33,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: MZP (-1.5) vs ex-Zero Tenacity (+1.5)"
     }
   ]
 }
