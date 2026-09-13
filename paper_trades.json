@@ -133296,8 +133296,8 @@
     "title": "Spread: Cowboys (-2.5)",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 3018.9311,
-    "whale_pct": 0.578,
+    "whale_usd": 4102.759,
+    "whale_pct": 0.786,
     "whale_value_at_open": 521978.2253,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -133308,8 +133308,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789337638.0901651,
-    "fills": 4
+    "last_fill_at": 1789339808.9065104,
+    "fills": 5
   },
   {
     "timestamp": 1789336520,
@@ -133442,8 +133442,8 @@
     "title": "Cardinals vs. Chargers",
     "outcome": "Cardinals",
     "side": "BUY",
-    "whale_usd": 3459.487429,
-    "whale_pct": 0.629,
+    "whale_usd": 4381.511329,
+    "whale_pct": 0.796,
     "whale_value_at_open": 550412.5017,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -133456,7 +133456,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789339118.3786285,
-    "fills": 2
+    "last_fill_at": 1789339880.920694,
+    "fills": 3
   }
 ]
