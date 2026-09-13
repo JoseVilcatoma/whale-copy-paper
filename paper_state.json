@@ -1,5 +1,5 @@
 {
-  "bankroll": 164.40643859396874,
+  "bankroll": 159.30343859396874,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26565,6 +26565,11 @@
       "timestamp": 1789258149.6776626,
       "bankroll": 164.41,
       "event": "lost: Diabolical-Prize \u2014 Spread: Pittsburgh (-7.5)"
+    },
+    {
+      "timestamp": 1789261899.6729653,
+      "bankroll": 159.3,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will CA Talleres win on 2026-09-12?"
     }
   ]
 }
