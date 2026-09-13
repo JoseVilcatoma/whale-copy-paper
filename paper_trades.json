@@ -132614,5 +132614,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789285319.546521,
     "fills": 1
+  },
+  {
+    "timestamp": 1789299509,
+    "timestamp_added": 1789299509.6399677,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "epl-mun-mac-2026-09-13-mac",
+    "title": "Will Manchester City FC win on 2026-09-13?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 605.0880000000001,
+    "whale_pct": 0.164,
+    "whale_value_at_open": 368575.121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789299509.6399775,
+    "fills": 1
   }
 ]
