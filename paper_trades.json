@@ -133320,8 +133320,8 @@
     "title": "Seattle Mariners vs. Athletics",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 14316.340143,
-    "whale_pct": 2.772,
+    "whale_usd": 14913.279191,
+    "whale_pct": 2.888,
     "whale_value_at_open": 516458.5483,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -133332,8 +133332,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789339507.0819528,
-    "fills": 6
+    "last_fill_at": 1789339564.119177,
+    "fills": 7
   },
   {
     "timestamp": 1789336689,
