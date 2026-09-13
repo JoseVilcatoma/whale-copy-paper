@@ -1,5 +1,5 @@
 {
-  "bankroll": 157.6573553182988,
+  "bankroll": 152.61235531829882,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26660,6 +26660,11 @@
       "timestamp": 1789284554.0997865,
       "bankroll": 157.66,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Filip Peliwo vs Arjun Rathi"
+    },
+    {
+      "timestamp": 1789293270.3947747,
+      "bankroll": 152.61,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FlyQuest vs DEPO (BO3) - PGL Masters Bucharest: Asian Closed Qualifier Playoffs"
     }
   ]
 }
