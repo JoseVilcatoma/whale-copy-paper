@@ -132012,8 +132012,8 @@
     "title": "Map Handicap: M80 (-1.5) vs Luminosity (+1.5)",
     "outcome": "Luminosity",
     "side": "BUY",
-    "whale_usd": 10111.4682,
-    "whale_pct": 9.48,
+    "whale_usd": 12038.918099999999,
+    "whale_pct": 11.287,
     "whale_value_at_open": 106662.1183,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -132024,8 +132024,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789281034.5097058,
-    "fills": 3
+    "last_fill_at": 1789282813.2641053,
+    "fills": 4
   },
   {
     "timestamp": 1789271092,
