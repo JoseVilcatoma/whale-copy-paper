@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 10:27:10 (hora de Perú)
+Actualizado: 2026-09-13 10:29:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.36
@@ -999,7 +999,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 |  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
 |  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 1.4% | ⏳ pendiente | — |

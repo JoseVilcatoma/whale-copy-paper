@@ -132768,8 +132768,8 @@
     "title": "Manchester United FC vs. Manchester City FC: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 676.9947,
-    "whale_pct": 0.542,
+    "whale_usd": 1949.721973,
+    "whale_pct": 1.562,
     "whale_value_at_open": 124836.0623,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -132780,8 +132780,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789311453.0810182,
-    "fills": 1
+    "last_fill_at": 1789313289.0461679,
+    "fills": 2
   },
   {
     "timestamp": 1789312849,
