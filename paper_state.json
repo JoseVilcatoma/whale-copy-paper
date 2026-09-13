@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.54210604435076,
+  "bankroll": 93.06105341277181,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26785,6 +26785,11 @@
       "timestamp": 1789314087.519101,
       "bankroll": 91.54,
       "event": "won: ferrariChampions2026 \u2014 Spread: RB Leipzig (-1.5)"
+    },
+    {
+      "timestamp": 1789315661.643941,
+      "bankroll": 93.06,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Iberian Soul vs 6666 (BO3) - Roman Imperium Cup Playoffs"
     }
   ]
 }
