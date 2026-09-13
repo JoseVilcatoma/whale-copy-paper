@@ -1,5 +1,5 @@
 {
-  "bankroll": 126.57104188546302,
+  "bankroll": 100.96712351811605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26700,6 +26700,41 @@
       "timestamp": 1789300090.2343242,
       "bankroll": 126.57,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Legacy - Map 2 Winner"
+    },
+    {
+      "timestamp": 1789304359.6600468,
+      "bankroll": 121.44,
+      "event": "lost: mmklop \u2014 Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789304359.7602768,
+      "bankroll": 116.32,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789304360.739046,
+      "bankroll": 111.2,
+      "event": "lost: Diabolical-Prize \u2014 Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789304362.9732625,
+      "bankroll": 106.13,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: LGC (-1.5) vs G2 (+1.5)"
+    },
+    {
+      "timestamp": 1789304363.3699946,
+      "bankroll": 111.2,
+      "event": "won: mmklop \u2014 Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789304363.7699966,
+      "bankroll": 106.09,
+      "event": "lost: BrotherObama \u2014 Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs"
+    },
+    {
+      "timestamp": 1789304364.0458832,
+      "bankroll": 100.97,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Legacy - Map 3 Winner"
     }
   ]
 }

@@ -130948,8 +130948,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -131604,8 +131604,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "mmklop"
     ],
@@ -131822,8 +131822,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "mmklop"
@@ -132360,8 +132360,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -132432,8 +132432,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "Diabolical-Prize"
@@ -132483,8 +132483,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "Diabolical-Prize",
@@ -132535,8 +132535,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -132624,8 +132624,8 @@
     "title": "Will Manchester City FC win on 2026-09-13?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5543.330223000001,
-    "whale_pct": 1.504,
+    "whale_usd": 6154.441335,
+    "whale_pct": 1.67,
     "whale_value_at_open": 368575.121,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -132636,8 +132636,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789304217.6919177,
-    "fills": 5
+    "last_fill_at": 1789304327.9775147,
+    "fills": 6
   },
   {
     "timestamp": 1789304044,
@@ -132662,5 +132662,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789304045.147012,
     "fills": 2
+  },
+  {
+    "timestamp": 1789304416,
+    "timestamp_added": 1789304416.7624135,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zhukov-loof-2026-09-13",
+    "title": "Guangzhou: Maxim Zhukov vs Thijmen Loof",
+    "outcome": "Maxim Zhukov",
+    "side": "BUY",
+    "whale_usd": 2494.774,
+    "whale_pct": 0.741,
+    "whale_value_at_open": 336739.2007,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789304416.762426,
+    "fills": 1
   }
 ]
