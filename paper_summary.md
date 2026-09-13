@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 01:24:14 (hora de Perú)
+Actualizado: 2026-09-13 01:26:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.92
@@ -1002,7 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 50.4% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 59.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 10.9% | ⏳ pendiente | — |
