@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.742040076707,
+  "bankroll": 89.90509070961839,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26880,6 +26880,16 @@
       "timestamp": 1789337462.8343532,
       "bankroll": 93.74,
       "event": "lost: theowalcott \u2014 Will CF Universidad de Chile win on 2026-09-13?"
+    },
+    {
+      "timestamp": 1789337776.6586366,
+      "bankroll": 88.71,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Ravens (-2.5)"
+    },
+    {
+      "timestamp": 1789337776.9832134,
+      "bankroll": 89.91,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ex-RUSTEC vs Misa Esports (BO3) - NODWIN Clutch Series Play-In"
     }
   ]
 }
