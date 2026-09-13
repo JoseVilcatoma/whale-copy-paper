@@ -133392,8 +133392,8 @@
     "title": "Commanders vs. Eagles",
     "outcome": "Eagles",
     "side": "BUY",
-    "whale_usd": 12829.095,
-    "whale_pct": 2.46,
+    "whale_usd": 17489.035799999998,
+    "whale_pct": 3.353,
     "whale_value_at_open": 521525.0765,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -133404,8 +133404,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789338573.9968364,
-    "fills": 1
+    "last_fill_at": 1789340884.3122413,
+    "fills": 2
   },
   {
     "timestamp": 1789338670,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 18:06:37 (hora de Perú)
+Actualizado: 2026-09-13 18:08:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.98
@@ -1002,7 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Cardinals vs. Chargers | Cardinals (BUY) | 45% | 5.00 | 3.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. San Francisco Giant | Over (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Commanders vs. Eagles | Eagles (BUY) | 81% | 5.00 | 2.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Commanders vs. Eagles | Eagles (BUY) | 81% | 5.00 | 3.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Spread: Chargers (-1.5) | Cardinals (BUY) | 51% | 5.00 | 6.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 2.9% | ⏳ pendiente | — |
