@@ -133310,5 +133310,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789336214.717063,
     "fills": 1
+  },
+  {
+    "timestamp": 1789336520,
+    "timestamp_added": 1789336520.9494977,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-oak-2026-09-13",
+    "title": "Seattle Mariners vs. Athletics",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 1738.6200000000001,
+    "whale_pct": 0.337,
+    "whale_value_at_open": 516458.5483,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789336523.818717,
+    "fills": 2
   }
 ]
