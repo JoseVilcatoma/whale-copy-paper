@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 08:00:26 (hora de Perú)
+Actualizado: 2026-09-13 08:02:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $100.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 08:00:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $96.57 en 20 posiciones abiertas (disponible para nuevas apuestas: $4.40)
+**Capital comprometido ahora mismo:** $100.97 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 768 | 480 | 6 | -250.74 USD |
+| ferrariChampions2026 | 768 | 480 | 7 | -250.74 USD |
 
 ## Análisis general
 
@@ -997,9 +997,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof (BUY) | 47% | 2.40 | 0.8% | ⏳ pendiente | — |
-| Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 1.7% | ⏳ pendiente | — |
+| Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Kansas City Royals (BUY) | 59% | 5.00 | 1.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ❌ perdida | -2.83 |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 40.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 13.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ✅ ganada | +4.68 |
