@@ -132624,8 +132624,8 @@
     "title": "Will Manchester City FC win on 2026-09-13?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3829.3102230000004,
-    "whale_pct": 1.039,
+    "whale_usd": 4993.330223000001,
+    "whale_pct": 1.355,
     "whale_value_at_open": 368575.121,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -132636,7 +132636,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789302931.2907994,
-    "fills": 3
+    "last_fill_at": 1789303591.221914,
+    "fills": 4
   }
 ]
