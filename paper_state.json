@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.93305341277181,
+  "bankroll": 90.80633490467892,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26795,6 +26795,21 @@
       "timestamp": 1789316672.0632694,
       "bankroll": 87.93,
       "event": "lost:  \u2014 Rennes: Kenny de Schepper vs Alberto Barroso Campos"
+    },
+    {
+      "timestamp": 1789321620.4786198,
+      "bankroll": 82.82,
+      "event": "lost: Jsram \u2014 Will Manchester City FC win on 2026-09-13?"
+    },
+    {
+      "timestamp": 1789321620.7863083,
+      "bankroll": 87.29,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FC Bayern M\u00fcnchen (-2.5)"
+    },
+    {
+      "timestamp": 1789321621.7366776,
+      "bankroll": 90.81,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Manchester United FC vs. Manchester City FC: O/U 3.5"
     }
   ]
 }

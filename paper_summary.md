@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 12:46:52 (hora de Perú)
+Actualizado: 2026-09-13 12:48:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $87.93
-**Retorno acumulado:** -82.41%
-**Peor caída desde un máximo (drawdown):** 85.67%
+**Bankroll actual:** $90.81
+**Retorno acumulado:** -81.84%
+**Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 12:46:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.54 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.39)
+**Capital comprometido ahora mismo:** $82.14 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,11 +23,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
+| wr0ngw4yb3tt0r | 90 | 63 | 5 | +33.02 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| wr0ngw4yb3tt0r | 89 | 63 | 5 | +29.50 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| theowalcott | 8 | 4 | 0 | +14.61 USD |
+| theowalcott | 8 | 4 | 1 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -47,7 +47,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Jsram | 7 | 3 | 1 | +6.51 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -76,6 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
+| Jsram | 7 | 4 | 0 | +1.40 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 86 | 1 | -139.78 USD |
-| ferrariChampions2026 | 770 | 482 | 3 | -253.67 USD |
+| ferrariChampions2026 | 771 | 482 | 2 | -249.20 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5147
-- **Aciertos:** 3215 (62.5%)
+- **Apuestas resueltas:** 5150
+- **Aciertos:** 3217 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,670.65
-- **ROI sobre lo apostado:** -2.09%
-- **Comisiones pagadas (taker fee):** $480.06 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,685.05
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $480.39 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2677 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2680 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1522 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -997,19 +997,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 1.0% | ⏳ pendiente | — |
+| theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Ravens (-2.5) | Colts (BUY) | 46% | 4.90 | 1.3% | ⏳ pendiente | — |
 |  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
 |  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |
-| wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ✅ ganada | +3.52 |
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 1.4% | ✅ ganada | +4.47 |
 | ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof (BUY) | 47% | 2.40 | 0.8% | ✅ ganada | +2.64 |
-| Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
+| Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 2.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Kansas City Royals (BUY) | 59% | 5.00 | 1.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ❌ perdida | -2.83 |
@@ -1025,5 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 7.5% | ✅ ganada | +2.38 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: INOX Division vs Color ( | Color (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Mallorca vs. CE Sabadell FC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ❌ perdida | -5.12 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs 6666 (BO | Iberian Soul (BUY) | 76% | 5.00 | 1.3% | ✅ ganada | +1.52 |
