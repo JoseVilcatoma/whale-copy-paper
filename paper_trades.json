@@ -132086,8 +132086,8 @@
     "title": "Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 48183.982,
-    "whale_pct": 24.034,
+    "whale_usd": 48710.112,
+    "whale_pct": 24.296,
     "whale_value_at_open": 200482.3455,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -132098,8 +132098,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789272400.370922,
-    "fills": 1
+    "last_fill_at": 1789272697.1403844,
+    "fills": 2
   },
   {
     "timestamp": 1789272596,

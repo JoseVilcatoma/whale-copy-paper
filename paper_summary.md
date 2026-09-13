@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 23:11:07 (hora de Perú)
+Actualizado: 2026-09-12 23:13:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.63
@@ -998,7 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
-| Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.0% | ⏳ pendiente | — |
+| Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 20.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 18.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 6.7% | ⏳ pendiente | — |
