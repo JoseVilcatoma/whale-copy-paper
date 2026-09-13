@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 01:09:37 (hora de Perú)
+Actualizado: 2026-09-13 01:11:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 01:09:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $144.17 en 29 posiciones abiertas (disponible para nuevas apuestas: $12.75)
+**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $7.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 766 | 477 | 6 | -238.42 USD |
+| ferrariChampions2026 | 766 | 477 | 7 | -238.42 USD |
 
 ## Análisis general
 
@@ -997,6 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 31.5% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ❌ perdida | -5.13 |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
