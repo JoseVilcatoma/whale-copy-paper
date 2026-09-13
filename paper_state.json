@@ -1,5 +1,5 @@
 {
-  "bankroll": 159.30343859396874,
+  "bankroll": 164.3795202266218,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26570,6 +26570,11 @@
       "timestamp": 1789261899.6729653,
       "bankroll": 159.3,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Will CA Talleres win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789264711.5392482,
+      "bankroll": 164.38,
+      "event": "won: Devs777 \u2014 Columbus Crew vs. New York Red Bulls: O/U 3.5"
     }
   ]
 }

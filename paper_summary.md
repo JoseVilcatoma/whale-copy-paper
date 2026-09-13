@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 20:56:34 (hora de Perú)
+Actualizado: 2026-09-12 20:58:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $159.30
-**Retorno acumulado:** -68.14%
+**Bankroll actual:** $164.38
+**Retorno acumulado:** -67.12%
 **Peor caída desde un máximo (drawdown):** 75.66%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 20:56:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.17 en 15 posiciones abiertas (disponible para nuevas apuestas: $85.13)
+**Capital comprometido ahora mismo:** $69.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $95.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| Devs777 | 1 | 1 | 1 | -0.04 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -116,7 +117,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ColinHe | 0 | 1 | 0 | -5.11 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
-| Devs777 | 0 | 1 | 2 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5102
-- **Aciertos:** 3196 (62.6%)
+- **Apuestas resueltas:** 5103
+- **Aciertos:** 3197 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,450.50
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $475.65 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,455.50
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $475.78 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2647 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2648 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1514 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -998,7 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
-| Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
+| Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-2.5) vs G2 (+2.5) | G2 (BUY) | 91% | 5.00 | 9.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 8.7% | ⏳ pendiente | — |
