@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.46280149699992,
+  "bankroll": 89.35780149699991,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26765,6 +26765,11 @@
       "timestamp": 1789310954.3458438,
       "bankroll": 94.46,
       "event": "lost: BrotherObama \u2014 Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs"
+    },
+    {
+      "timestamp": 1789312519.9842703,
+      "bankroll": 89.36,
+      "event": "lost: ferrariChampions2026 \u2014 Lille OSC vs. ES Troyes AC: O/U 2.5"
     }
   ]
 }

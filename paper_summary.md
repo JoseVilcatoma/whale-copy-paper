@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 10:15:01 (hora de Perú)
+Actualizado: 2026-09-13 10:17:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.46
-**Retorno acumulado:** -81.11%
-**Peor caída desde un máximo (drawdown):** 84.42%
+**Bankroll actual:** $89.36
+**Retorno acumulado:** -82.13%
+**Peor caída desde un máximo (drawdown):** 85.26%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 10:15:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.97 en 18 posiciones abiertas (disponible para nuevas apuestas: $8.49)
+**Capital comprometido ahora mismo:** $80.97 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 768 | 480 | 7 | -250.74 USD |
+| ferrariChampions2026 | 768 | 481 | 6 | -255.85 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5141
+- **Apuestas resueltas:** 5142
 - **Aciertos:** 3212 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,643.25
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $479.44 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,648.25
+- **ROI sobre lo apostado:** -2.09%
+- **Comisiones pagadas (taker fee):** $479.55 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2672 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2673 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1521 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1012,7 +1012,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 59.3% | ✅ ganada | +5.08 |
-| ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 1.0% | ✅ ganada | +0.59 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 10.9% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Phan Thiet 4: Minh Phat Nguyen vs Ryuki  | Ryuki Matsuda (BUY) | 97% | 5.00 | 8.4% | ✅ ganada | +0.15 |
