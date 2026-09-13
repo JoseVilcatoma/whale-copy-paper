@@ -1,5 +1,5 @@
 {
-  "bankroll": 137.2693553182988,
+  "bankroll": 134.43835531829882,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26680,6 +26680,11 @@
       "timestamp": 1789293892.3388197,
       "bankroll": 137.27,
       "event": "lost: Diabolical-Prize \u2014 Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)"
+    },
+    {
+      "timestamp": 1789294530.839168,
+      "bankroll": 134.44,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: HLE (-1.5) vs Gen.G (+1.5)"
     }
   ]
 }
