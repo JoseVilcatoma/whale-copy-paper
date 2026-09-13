@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 17:09:16 (hora de Perú)
+Actualizado: 2026-09-13 17:11:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $98.86
-**Retorno acumulado:** -80.23%
+**Bankroll actual:** $93.74
+**Retorno acumulado:** -81.25%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 17:09:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.86 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $93.86 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,13 +36,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| theowalcott | 8 | 4 | 3 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
+| theowalcott | 8 | 5 | 2 | +9.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5163
+- **Apuestas resueltas:** 5164
 - **Aciertos:** 3226 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,748.44
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $481.69 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,753.44
+- **ROI sobre lo apostado:** -2.06%
+- **Comisiones pagadas (taker fee):** $481.81 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2689 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2690 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1525 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 679 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1001,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Spread: Chargers (-1.5) | Cardinals (BUY) | 51% | 5.00 | 6.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 1.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Raiders (-14.5) | Raiders (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ⏳ pendiente | — |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ⏳ pendiente | — |
@@ -1016,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 36.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ✅ ganada | +0.84 |
-| theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ⏳ pendiente | — |
+| theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 57% | 5.00 | 3.9% | ✅ ganada | +3.66 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.862040076707,
+  "bankroll": 93.742040076707,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26875,6 +26875,11 @@
       "timestamp": 1789334637.2200036,
       "bankroll": 98.86,
       "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1789337462.8343532,
+      "bankroll": 93.74,
+      "event": "lost: theowalcott \u2014 Will CF Universidad de Chile win on 2026-09-13?"
     }
   ]
 }
