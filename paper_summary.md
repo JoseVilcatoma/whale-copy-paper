@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 21:29:01 (hora de Perú)
+Actualizado: 2026-09-12 21:31:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $159.23
-**Retorno acumulado:** -68.15%
+**Bankroll actual:** $161.84
+**Retorno acumulado:** -67.63%
 **Peor caída desde un máximo (drawdown):** 75.66%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 21:29:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $75.06)
+**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $82.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -127,6 +127,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Kch-Temp | 2 | 3 | 0 | -8.67 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
+| pleaseplease123 | 29 | 27 | 2 | -9.04 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | Flaznorp | 110 | 41 | 0 | -9.29 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -134,7 +135,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| pleaseplease123 | 28 | 27 | 3 | -11.65 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5104
-- **Aciertos:** 3197 (62.6%)
+- **Apuestas resueltas:** 5105
+- **Aciertos:** 3198 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,460.50
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $475.92 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,465.50
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $476.01 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2649 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 1514 | 68.2% | 67.8% | +0.4 pp |
+| 60-79% | 1515 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 672 | 86.0% | 86.5% | -0.5 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1010,7 +1010,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ⏳ pendiente | — |
-| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 65% | 5.00 | 233.9% | ⏳ pendiente | — |
+| pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 65% | 5.00 | 233.9% | ✅ ganada | +2.61 |
 | Devs777 | Will SE Palmeiras win on 2026-09-12? | No (BUY) | 42% | 5.00 | 3.8% | ❌ perdida | -5.14 |
 | pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 151.2% | ❌ perdida | -5.12 |
 | Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 24.3% | ✅ ganada | +4.88 |
