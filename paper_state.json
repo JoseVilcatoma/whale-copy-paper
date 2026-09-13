@@ -1,5 +1,5 @@
 {
-  "bankroll": 156.9197386149512,
+  "bankroll": 157.06637779020892,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26650,6 +26650,11 @@
       "timestamp": 1789278754.0138793,
       "bankroll": 156.92,
       "event": "won: Jsram \u2014 Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)"
+    },
+    {
+      "timestamp": 1789284173.9943967,
+      "bankroll": 157.07,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Minh Phat Nguyen vs Ryuki Matsuda"
     }
   ]
 }
