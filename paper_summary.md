@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 02:25:54 (hora de Perú)
+Actualizado: 2026-09-13 02:27:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $157.07
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 11.8% | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 17.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
