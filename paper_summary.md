@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 05:45:02 (hora de Perú)
+Actualizado: 2026-09-13 05:47:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $134.44
@@ -1010,7 +1010,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Minh Phat Nguyen vs Ryuki  | Ryuki Matsuda (BUY) | 97% | 5.00 | 8.4% | ✅ ganada | +0.15 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 7.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: INOX Division vs Color ( | Color (BUY) | 58% | 5.00 | 5.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: INOX Division vs Color ( | Color (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Mallorca vs. CE Sabadell FC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs 6666 (BO | Iberian Soul (BUY) | 76% | 5.00 | 1.3% | ⏳ pendiente | — |
