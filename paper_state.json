@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.36690175283378,
+  "bankroll": 96.6536644646982,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26830,6 +26830,11 @@
       "timestamp": 1789330419.320031,
       "bankroll": 94.37,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: INOX Division vs Color (BO3) - CCT Europe Series #8 Playoffs"
+    },
+    {
+      "timestamp": 1789331049.739242,
+      "bankroll": 96.65,
+      "event": "won:  \u2014 NEOM SC vs. Al Fateh Saudi Club: O/U 2.5"
     }
   ]
 }

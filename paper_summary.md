@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 15:23:36 (hora de Perú)
+Actualizado: 2026-09-13 15:25:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.37
-**Retorno acumulado:** -81.13%
+**Bankroll actual:** $96.65
+**Retorno acumulado:** -80.67%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 15:23:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.37 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $90.98 en 19 posiciones abiertas (disponible para nuevas apuestas: $5.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,19 +152,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 120 | 86 | 1 | -139.78 USD |
+|  | 121 | 86 | 0 | -137.49 USD |
 | ferrariChampions2026 | 771 | 482 | 2 | -249.20 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5154
-- **Aciertos:** 3220 (62.5%)
+- **Apuestas resueltas:** 5155
+- **Aciertos:** 3221 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,705.05
-- **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $480.80 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,708.44
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $480.87 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2683 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2684 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1523 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1010,7 +1010,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
 | pleaseplease123 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 57% | 5.00 | 3.9% | ✅ ganada | +3.66 |
 | wr0ngw4yb3tt0r | Spread: Ravens (-2.5) | Colts (BUY) | 46% | 4.90 | 1.3% | ⏳ pendiente | — |
-|  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
+|  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ✅ ganada | +2.29 |
 |  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ✅ ganada | +3.52 |
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
