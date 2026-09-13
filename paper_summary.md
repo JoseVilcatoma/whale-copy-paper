@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 16:12:05 (hora de Perú)
+Actualizado: 2026-09-13 16:14:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.89
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 16:12:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.98 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.91)
+**Capital comprometido ahora mismo:** $85.98 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| xifutloong3 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -997,6 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 70.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ⏳ pendiente | — |
@@ -1026,4 +1028,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ❌ perdida | -2.83 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 3.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ❌ perdida | -5.10 |
-| BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ❌ perdida | -5.12 |

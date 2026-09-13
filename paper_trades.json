@@ -133190,5 +133190,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789333120.4571092,
     "fills": 1
+  },
+  {
+    "timestamp": 1789334005,
+    "timestamp_added": 1789334005.821121,
+    "username": "xifutloong3",
+    "wallet": "0x2dc13c6bda81b202281e796953a7323de675b33c",
+    "slug": "mlb-kc-bos-2026-09-13",
+    "title": "Kansas City Royals vs. Boston Red Sox",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 50509.642700000004,
+    "whale_pct": 55.559,
+    "whale_value_at_open": 90911.7124,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789334014.8557565,
+    "fills": 6
   }
 ]
