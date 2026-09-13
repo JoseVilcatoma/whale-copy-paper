@@ -1,5 +1,5 @@
 {
-  "bankroll": 142.37935531829882,
+  "bankroll": 137.2693553182988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26675,6 +26675,11 @@
       "timestamp": 1789293768.5391827,
       "bankroll": 142.38,
       "event": "lost: BrotherObama \u2014 LoL: Gen.G vs Hanwha Life Esports - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789293892.3388197,
+      "bankroll": 137.27,
+      "event": "lost: Diabolical-Prize \u2014 Game Handicap: GEN (-1.5) vs Hanwha Life Esports (+1.5)"
     }
   ]
 }
