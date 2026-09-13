@@ -132036,8 +132036,8 @@
     "title": "Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs",
     "outcome": "Luminosity",
     "side": "BUY",
-    "whale_usd": 31747.812599999997,
-    "whale_pct": 27.594,
+    "whale_usd": 32996.4726,
+    "whale_pct": 28.679,
     "whale_value_at_open": 115053.461,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -132048,8 +132048,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789274693.4911654,
-    "fills": 5
+    "last_fill_at": 1789275607.7473037,
+    "fills": 6
   },
   {
     "timestamp": 1789271092,
@@ -132060,8 +132060,8 @@
     "title": "Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs",
     "outcome": "M80",
     "side": "BUY",
-    "whale_usd": 34434.255000000005,
-    "whale_pct": 34.34,
+    "whale_usd": 35682.91500000001,
+    "whale_pct": 35.585,
     "whale_value_at_open": 100274.7458,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -132074,8 +132074,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789274925.6221335,
-    "fills": 11
+    "last_fill_at": 1789275607.7826164,
+    "fills": 12
   },
   {
     "timestamp": 1789272399,
