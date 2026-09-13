@@ -133008,8 +133008,8 @@
     "title": "Texas Rangers vs. Arizona Diamondbacks",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 30201.8915,
-    "whale_pct": 23.879,
+    "whale_usd": 33430.391500000005,
+    "whale_pct": 26.431,
     "whale_value_at_open": 126481.0119,
     "paper_stake_usd": 3.67,
     "odds_at_bet": 56,
@@ -133020,8 +133020,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789327030.0362065,
-    "fills": 3
+    "last_fill_at": 1789329476.5721912,
+    "fills": 5
   },
   {
     "timestamp": 1789322299,
