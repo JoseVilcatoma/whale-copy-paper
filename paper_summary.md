@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 20:58:36 (hora de Perú)
+Actualizado: 2026-09-12 21:00:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $164.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 20:58:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $95.21)
+**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $85.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 5 | +3.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 7 | +3.00 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
@@ -995,6 +995,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
@@ -1023,5 +1025,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Michigan (BUY) | 75% | 5.00 | 2.6% | ✅ ganada | +1.60 |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ❌ perdida | -5.15 |
 | Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ❌ perdida | -5.08 |
-| Kch-Temp | California vs. Syracuse | Syracuse (BUY) | 64% | 5.00 | 27.4% | ❌ perdida | -5.09 |
-| Devs777 | Fortuna Sittard vs. AFC Ajax: O/U 3.5 | Under (BUY) | 52% | 5.00 | 28.7% | ❌ perdida | -5.12 |
