@@ -133224,8 +133224,8 @@
     "title": "Spread: Vancouver Whitecaps FC (-1.5)",
     "outcome": "Vancouver Whitecaps FC",
     "side": "BUY",
-    "whale_usd": 141439.14259999996,
-    "whale_pct": 58.101,
+    "whale_usd": 199329.19819999996,
+    "whale_pct": 81.881,
     "whale_value_at_open": 243438.4519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -133236,8 +133236,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789335512.8651724,
-    "fills": 28
+    "last_fill_at": 1789335640.079302,
+    "fills": 39
   },
   {
     "timestamp": 1789335342,

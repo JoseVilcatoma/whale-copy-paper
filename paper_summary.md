@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 16:38:40 (hora de Perú)
+Actualizado: 2026-09-13 16:40:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.86
@@ -999,7 +999,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 23.5% | ⏳ pendiente | — |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 58.1% | ⏳ pendiente | — |
+| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ⏳ pendiente | — |
 | xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 73.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
