@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.23017234227144,
+  "bankroll": 105.94459526591245,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26900,6 +26900,21 @@
       "timestamp": 1789340931.9219944,
       "bankroll": 91.23,
       "event": "lost: pleaseplease123 \u2014 Texas Rangers vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1789343153.675385,
+      "bankroll": 95.91,
+      "event": "won: TAIWANNUMBERONE \u2014 Spread: Chargers (-1.5)"
+    },
+    {
+      "timestamp": 1789343154.0304818,
+      "bankroll": 99.97,
+      "event": "won: TAIWANNUMBERONE \u2014 Cardinals vs. Chargers"
+    },
+    {
+      "timestamp": 1789343154.5527358,
+      "bankroll": 105.94,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Chargers"
     }
   ]
 }
