@@ -133432,5 +133432,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789338670.9703977,
     "fills": 1
+  },
+  {
+    "timestamp": 1789339091,
+    "timestamp_added": 1789339092.195448,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-ari-lac-2026-09-13",
+    "title": "Cardinals vs. Chargers",
+    "outcome": "Cardinals",
+    "side": "BUY",
+    "whale_usd": 3459.487429,
+    "whale_pct": 0.629,
+    "whale_value_at_open": 550412.5017,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789339118.3786285,
+    "fills": 2
   }
 ]

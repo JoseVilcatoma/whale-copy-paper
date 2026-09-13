@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 17:37:56 (hora de Perú)
+Actualizado: 2026-09-13 17:39:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 17:37:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $5.70)
+**Capital comprometido ahora mismo:** $94.28 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 96 | 66 | 5 | +40.38 USD |
+| wr0ngw4yb3tt0r | 96 | 66 | 6 | +40.38 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -994,11 +994,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-stl-2026-09-12 | ferrariChampions2026, pleaseplease123 |
 | cs2-m80-lg6-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama, mmklop |
 | mlb-sd-sf-2026-09-13-total-7pt5 | pleaseplease123, wr0ngw4yb3tt0r |
+| nfl-ari-lac-2026-09-13 | TAIWANNUMBERONE, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Cardinals vs. Chargers | Cardinals (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. San Francisco Giant | Over (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Eagles | Eagles (BUY) | 81% | 5.00 | 2.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ⏳ pendiente | — |
@@ -1028,4 +1030,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ✅ ganada | +3.52 |
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ❌ perdida | -5.12 |
-| wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Over (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |
