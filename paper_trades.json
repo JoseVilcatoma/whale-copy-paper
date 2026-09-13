@@ -131832,5 +131832,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789264934.8447413,
     "fills": 1
+  },
+  {
+    "timestamp": 1789266045,
+    "timestamp_added": 1789266046.7709477,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-nrg-tl1-2026-09-12",
+    "title": "Counter-Strike: NRG vs Liquid (BO5) - PGL Masters Bucharest: North American Qualifier Playoffs",
+    "outcome": "NRG",
+    "side": "BUY",
+    "whale_usd": 944.1442000000002,
+    "whale_pct": 0.942,
+    "whale_value_at_open": 100274.7458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789266046.770959,
+    "fills": 1
   }
 ]
