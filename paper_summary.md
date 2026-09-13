@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 22:09:55 (hora de Perú)
+Actualizado: 2026-09-12 22:12:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $156.79
-**Retorno acumulado:** -68.64%
+**Bankroll actual:** $156.44
+**Retorno acumulado:** -68.71%
 **Peor caída desde un máximo (drawdown):** 75.66%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 22:09:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $104.17 en 21 posiciones abiertas (disponible para nuevas apuestas: $52.62)
+**Capital comprometido ahora mismo:** $94.17 en 19 posiciones abiertas (disponible para nuevas apuestas: $62.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,6 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| pleaseplease123 | 30 | 27 | 1 | -4.36 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -127,7 +128,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Kch-Temp | 2 | 3 | 0 | -8.67 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
-| pleaseplease123 | 29 | 27 | 2 | -9.04 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | Flaznorp | 110 | 41 | 0 | -9.29 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
@@ -153,17 +153,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 762 | 475 | 5 | -246.33 USD |
+| ferrariChampions2026 | 762 | 476 | 4 | -251.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5106
-- **Aciertos:** 3198 (62.6%)
+- **Apuestas resueltas:** 5108
+- **Aciertos:** 3199 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,470.50
+- **Total apostado (suma de stakes):** $25,480.50
 - **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $476.06 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $476.21 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,9 +172,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2649 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2650 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1515 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 673 | 85.9% | 86.5% | -0.6 pp |
+| 80-94% | 674 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1001,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 81% | 5.00 | 2.3% | ❌ perdida | -5.05 |
-| ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ❌ perdida | -5.04 |
 | mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
