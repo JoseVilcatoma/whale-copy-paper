@@ -131978,5 +131978,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789268374.7302618,
     "fills": 1
+  },
+  {
+    "timestamp": 1789268748,
+    "timestamp_added": 1789268749.3422816,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "cfb-ndkst-airf-2026-09-12",
+    "title": "North Dakota State vs. Air Force",
+    "outcome": "North Dakota State",
+    "side": "BUY",
+    "whale_usd": 2274.1306,
+    "whale_pct": 0.297,
+    "whale_value_at_open": 765054.734,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789268749.3422909,
+    "fills": 1
   }
 ]
