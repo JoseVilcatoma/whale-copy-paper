@@ -133262,5 +133262,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789335741.8371625,
     "fills": 26
+  },
+  {
+    "timestamp": 1789336038,
+    "timestamp_added": 1789336039.3922815,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-mia-lv-2026-09-13-spread-home-14pt5",
+    "title": "Spread: Raiders (-14.5)",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "whale_usd": 2045.3300000000002,
+    "whale_pct": 0.393,
+    "whale_value_at_open": 521090.9574,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789336039.3922935,
+    "fills": 1
   }
 ]
