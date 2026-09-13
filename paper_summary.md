@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 10:19:04 (hora de Perú)
+Actualizado: 2026-09-13 10:21:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.36
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 10:19:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.97 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.39)
+**Capital comprometido ahora mismo:** $89.36 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 120 | 85 | 0 | -134.65 USD |
+|  | 120 | 85 | 2 | -134.65 USD |
 | ferrariChampions2026 | 768 | 481 | 6 | -255.85 USD |
 
 ## Análisis general
@@ -997,6 +997,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
+|  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1025,5 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
-| Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.3% | ❌ perdida | -5.11 |
-| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 45.6% | ❌ perdida | -5.12 |
