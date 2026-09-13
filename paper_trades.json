@@ -133382,5 +133382,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789336718.7303073,
     "fills": 2
+  },
+  {
+    "timestamp": 1789338573,
+    "timestamp_added": 1789338573.9968255,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-was-phi-2026-09-13",
+    "title": "Commanders vs. Eagles",
+    "outcome": "Eagles",
+    "side": "BUY",
+    "whale_usd": 12829.095,
+    "whale_pct": 2.46,
+    "whale_value_at_open": 521525.0765,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789338573.9968364,
+    "fills": 1
   }
 ]
