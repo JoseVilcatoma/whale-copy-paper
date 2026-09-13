@@ -132220,5 +132220,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789273808.641468,
     "fills": 1
+  },
+  {
+    "timestamp": 1789276177,
+    "timestamp_added": 1789276177.7390084,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-m80-lg6-2026-09-13",
+    "title": "Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs",
+    "outcome": "M80",
+    "side": "BUY",
+    "whale_usd": 9000.0,
+    "whale_pct": 4.598,
+    "whale_value_at_open": 195728.4901,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "mmklop"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789276177.7390177,
+    "fills": 1
   }
 ]

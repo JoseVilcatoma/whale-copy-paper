@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 00:07:52 (hora de Perú)
+Actualizado: 2026-09-13 00:09:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $151.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 00:07:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $114.17 en 23 posiciones abiertas (disponible para nuevas apuestas: $37.33)
+**Capital comprometido ahora mismo:** $119.17 en 24 posiciones abiertas (disponible para nuevas apuestas: $32.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| BrotherObama | 9 | 12 | 0 | -23.08 USD |
+| BrotherObama | 9 | 12 | 1 | -23.08 USD |
 | Talvez10 | 18 | 19 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -991,12 +991,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cfb-cah-syra-2026-09-12 | Diabolical-Prize, Kch-Temp |
 | cfb-cah-syra-2026-09-12-spread-home-3pt5 | Diabolical-Prize, wr0ngw4yb3tt0r |
 | mlb-cws-stl-2026-09-12 | ferrariChampions2026, pleaseplease123 |
-| cs2-m80-lg6-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
+| cs2-m80-lg6-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama, mmklop |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs 6666 (BO | Iberian Soul (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ❌ perdida | -5.11 |
