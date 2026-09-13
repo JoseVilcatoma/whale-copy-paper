@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.6536644646982,
+  "bankroll": 100.3175942892596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26835,6 +26835,11 @@
       "timestamp": 1789331049.739242,
       "bankroll": 96.65,
       "event": "won:  \u2014 NEOM SC vs. Al Fateh Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1789331364.9539108,
+      "bankroll": 100.32,
+      "event": "won: wr0ngw4yb3tt0r \u2014 RCD Mallorca vs. CE Sabadell FC: O/U 2.5"
     }
   ]
 }
