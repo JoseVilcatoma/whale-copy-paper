@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 00:53:19 (hora de Perú)
+Actualizado: 2026-09-13 00:55:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 00:53:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $124.17 en 25 posiciones abiertas (disponible para nuevas apuestas: $32.75)
+**Capital comprometido ahora mismo:** $129.17 en 26 posiciones abiertas (disponible para nuevas apuestas: $27.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 766 | 477 | 5 | -238.42 USD |
+| ferrariChampions2026 | 766 | 477 | 6 | -238.42 USD |
 
 ## Análisis general
 
@@ -997,6 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Minh Phat Nguyen vs Ryuki  | Ryuki Matsuda (BUY) | 97% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 7.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
-| Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
