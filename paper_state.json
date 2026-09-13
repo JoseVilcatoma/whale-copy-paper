@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.86018447572332,
+  "bankroll": 91.54210604435076,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26780,6 +26780,11 @@
       "timestamp": 1789313461.5316253,
       "bankroll": 86.86,
       "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Maxim Zhukov vs Thijmen Loof"
+    },
+    {
+      "timestamp": 1789314087.519101,
+      "bankroll": 91.54,
+      "event": "won: ferrariChampions2026 \u2014 Spread: RB Leipzig (-1.5)"
     }
   ]
 }
