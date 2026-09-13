@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 05:00:10 (hora de Perú)
+Actualizado: 2026-09-13 05:02:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $152.61
-**Retorno acumulado:** -69.48%
+**Bankroll actual:** $147.51
+**Retorno acumulado:** -70.50%
 **Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 05:00:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $151.92 en 31 posiciones abiertas (disponible para nuevas apuestas: $0.69)
+**Capital comprometido ahora mismo:** $146.92 en 30 posiciones abiertas (disponible para nuevas apuestas: $0.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 768 | 477 | 7 | -237.68 USD |
+| ferrariChampions2026 | 768 | 478 | 6 | -242.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5121
+- **Apuestas resueltas:** 5122
 - **Aciertos:** 3207 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,545.50
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $477.35 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,550.50
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $477.45 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2657 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2658 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1517 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 677 | 85.7% | 86.5% | -0.8 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1001,7 +1001,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ❌ perdida | -5.10 |
 | BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 59.3% | ⏳ pendiente | — |
