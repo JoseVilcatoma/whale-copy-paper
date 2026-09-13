@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 23:15:22 (hora de Perú)
+Actualizado: 2026-09-12 23:17:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $156.63
-**Retorno acumulado:** -68.67%
+**Bankroll actual:** $151.50
+**Retorno acumulado:** -69.70%
 **Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 23:15:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $109.17 en 22 posiciones abiertas (disponible para nuevas apuestas: $47.46)
+**Capital comprometido ahora mismo:** $109.17 en 22 posiciones abiertas (disponible para nuevas apuestas: $42.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| ExplosiveNinja | 37 | 21 | 3 | +19.82 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| ExplosiveNinja | 37 | 22 | 2 | +14.69 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 764 | 476 | 5 | -240.96 USD |
+| ferrariChampions2026 | 764 | 476 | 6 | -240.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5112
+- **Apuestas resueltas:** 5113
 - **Aciertos:** 3201 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,500.50
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $476.70 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,505.50
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $476.83 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2654 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2655 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1515 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 674 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -997,6 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1010,7 +1011,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 81% | 5.00 | 2.3% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ❌ perdida | -5.04 |
-| mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ❌ perdida | -5.13 |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ❌ perdida | -5.11 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 65% | 5.00 | 233.9% | ✅ ganada | +2.61 |
-| Devs777 | Will SE Palmeiras win on 2026-09-12? | No (BUY) | 42% | 5.00 | 3.8% | ❌ perdida | -5.14 |

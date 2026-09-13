@@ -1,5 +1,5 @@
 {
-  "bankroll": 156.62623627357564,
+  "bankroll": 151.49823627357563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26620,6 +26620,11 @@
       "timestamp": 1789272534.5529964,
       "bankroll": 156.63,
       "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. Athletics: O/U 14.5"
+    },
+    {
+      "timestamp": 1789273039.029095,
+      "bankroll": 151.5,
+      "event": "lost: mmklop \u2014 Counter-Strike: NRG vs Liquid (BO5) - PGL Masters Bucharest: North American Qualifier Playoffs"
     }
   ]
 }
