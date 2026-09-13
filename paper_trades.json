@@ -133176,8 +133176,8 @@
     "title": "San Diego Padres vs. San Francisco Giants: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 82698.80450000001,
-    "whale_pct": 82.566,
+    "whale_usd": 105371.95370000001,
+    "whale_pct": 105.203,
     "whale_value_at_open": 100160.5255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -133188,8 +133188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789335761.741195,
-    "fills": 4
+    "last_fill_at": 1789335857.9236207,
+    "fills": 5
   },
   {
     "timestamp": 1789334005,
