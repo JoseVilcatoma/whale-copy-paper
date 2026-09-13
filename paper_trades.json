@@ -132840,8 +132840,8 @@
     "title": "Spread: Ravens (-2.5)",
     "outcome": "Colts",
     "side": "BUY",
-    "whale_usd": 846.432,
-    "whale_pct": 0.75,
+    "whale_usd": 1500.9774550000002,
+    "whale_pct": 1.33,
     "whale_value_at_open": 112838.3916,
     "paper_stake_usd": 4.9,
     "odds_at_bet": 46,
@@ -132852,8 +132852,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789313525.8225272,
-    "fills": 1
+    "last_fill_at": 1789315735.2042634,
+    "fills": 2
   },
   {
     "timestamp": 1789314154,
@@ -132902,5 +132902,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789315549.3637273,
     "fills": 2
+  },
+  {
+    "timestamp": 1789315783,
+    "timestamp_added": 1789315783.4256704,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-buf-hou-2026-09-13-spread-away-1pt5",
+    "title": "Spread: Bills (-1.5)",
+    "outcome": "Bills",
+    "side": "BUY",
+    "whale_usd": 11608.8864,
+    "whale_pct": 6.651,
+    "whale_value_at_open": 174540.6088,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789315783.4256833,
+    "fills": 1
   }
 ]
