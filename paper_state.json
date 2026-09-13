@@ -1,5 +1,5 @@
 {
-  "bankroll": 157.06637779020892,
+  "bankroll": 157.6573553182988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26655,6 +26655,11 @@
       "timestamp": 1789284173.9943967,
       "bankroll": 157.07,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Minh Phat Nguyen vs Ryuki Matsuda"
+    },
+    {
+      "timestamp": 1789284554.0997865,
+      "bankroll": 157.66,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Filip Peliwo vs Arjun Rathi"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 02:27:56 (hora de Perú)
+Actualizado: 2026-09-13 02:30:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $157.07
-**Retorno acumulado:** -68.59%
+**Bankroll actual:** $157.66
+**Retorno acumulado:** -68.47%
 **Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 02:27:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $156.92 en 32 posiciones abiertas (disponible para nuevas apuestas: $0.15)
+**Capital comprometido ahora mismo:** $151.92 en 31 posiciones abiertas (disponible para nuevas apuestas: $5.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,17 +153,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 767 | 477 | 7 | -238.27 USD |
+| ferrariChampions2026 | 768 | 477 | 6 | -237.68 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5119
-- **Aciertos:** 3206 (62.6%)
+- **Apuestas resueltas:** 5120
+- **Aciertos:** 3207 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,535.50
+- **Total apostado (suma de stakes):** $25,540.50
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $477.28 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $477.30 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -174,7 +174,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2657 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1517 | 68.2% | 67.8% | +0.5 pp |
-| 80-94% | 675 | 85.8% | 86.5% | -0.7 pp |
+| 80-94% | 676 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 17.9% | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -1005,7 +1005,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 59.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 1.0% | ✅ ganada | +0.59 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Minh Phat Nguyen vs Ryuki  | Ryuki Matsuda (BUY) | 97% | 5.00 | 8.4% | ✅ ganada | +0.15 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 7.5% | ⏳ pendiente | — |
