@@ -132415,5 +132415,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789278873.1511767,
     "fills": 1
+  },
+  {
+    "timestamp": 1789279045,
+    "timestamp_added": 1789279046.120792,
+    "username": "mmklop",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-g2-lgc-2026-09-13",
+    "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 2842.3868310000003,
+    "whale_pct": 2.835,
+    "whale_value_at_open": 100274.7458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "Diabolical-Prize"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789279046.1208,
+    "fills": 1
   }
 ]
