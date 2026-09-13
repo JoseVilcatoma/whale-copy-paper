@@ -132100,5 +132100,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789272400.370922,
     "fills": 1
+  },
+  {
+    "timestamp": 1789272596,
+    "timestamp_added": 1789272596.1809092,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-balseka-charlto-2026-09-12",
+    "title": "Phan Thiet 4: Aditya Balsekar vs Joshua Charlton",
+    "outcome": "Joshua Charlton",
+    "side": "BUY",
+    "whale_usd": 631.4237999999999,
+    "whale_pct": 0.576,
+    "whale_value_at_open": 109642.6105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789272596.1809185,
+    "fills": 1
   }
 ]

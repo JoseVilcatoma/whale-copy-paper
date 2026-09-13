@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 23:09:00 (hora de Perú)
+Actualizado: 2026-09-12 23:11:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 23:09:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.17 en 19 posiciones abiertas (disponible para nuevas apuestas: $62.46)
+**Capital comprometido ahora mismo:** $99.17 en 20 posiciones abiertas (disponible para nuevas apuestas: $57.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 764 | 476 | 2 | -240.96 USD |
+| ferrariChampions2026 | 764 | 476 | 3 | -240.96 USD |
 
 ## Análisis general
 
@@ -997,6 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.0% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 20.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 18.4% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Devs777 | Will SE Palmeiras win on 2026-09-12? | No (BUY) | 42% | 5.00 | 3.8% | ❌ perdida | -5.14 |
 | pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 151.2% | ❌ perdida | -5.12 |
 | Talvez10 | Kansas City Royals vs. Boston Red Sox: O | Under (BUY) | 50% | 5.00 | 24.3% | ✅ ganada | +4.88 |
-| Diabolical-Prize | Spread: Illinois (-6.5) | Duke (BUY) | 54% | 5.00 | 1.0% | ✅ ganada | +4.14 |
