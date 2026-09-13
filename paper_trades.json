@@ -131597,8 +131597,8 @@
     "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 14025.5575,
-    "whale_pct": 9.887,
+    "whale_usd": 31524.1451,
+    "whale_pct": 22.223,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131611,8 +131611,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789279206.105785,
-    "fills": 6
+    "last_fill_at": 1789280105.6256938,
+    "fills": 7
   },
   {
     "timestamp": 1789249481,
@@ -131623,8 +131623,8 @@
     "title": "Map Handicap: LGC (-2.5) vs G2 (+2.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 13650.3093,
-    "whale_pct": 9.623,
+    "whale_usd": 18009.6123,
+    "whale_pct": 12.696,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -131635,8 +131635,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789254014.7686477,
-    "fills": 5
+    "last_fill_at": 1789280114.7217238,
+    "fills": 6
   },
   {
     "timestamp": 1789249485,
@@ -132036,8 +132036,8 @@
     "title": "Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs",
     "outcome": "Luminosity",
     "side": "BUY",
-    "whale_usd": 33733.658,
-    "whale_pct": 29.32,
+    "whale_usd": 46133.658,
+    "whale_pct": 40.098,
     "whale_value_at_open": 115053.461,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -132048,8 +132048,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789276494.0894787,
-    "fills": 7
+    "last_fill_at": 1789280108.3341312,
+    "fills": 8
   },
   {
     "timestamp": 1789271092,
@@ -132060,8 +132060,8 @@
     "title": "Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs",
     "outcome": "M80",
     "side": "BUY",
-    "whale_usd": 35682.91500000001,
-    "whale_pct": 35.585,
+    "whale_usd": 45731.645000000004,
+    "whale_pct": 45.606,
     "whale_value_at_open": 100274.7458,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -132074,8 +132074,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789275607.7826164,
-    "fills": 12
+    "last_fill_at": 1789280108.5761874,
+    "fills": 13
   },
   {
     "timestamp": 1789272399,
@@ -132305,8 +132305,8 @@
     "title": "Counter-Strike: BBL vs HOTU (BO3) - Thunderpick World Championship Closed Qualifier Playoffs",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 8905.908,
-    "whale_pct": 6.001,
+    "whale_usd": 11131.7778,
+    "whale_pct": 7.501,
     "whale_value_at_open": 148407.8394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -132317,8 +132317,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789278301.248492,
-    "fills": 2
+    "last_fill_at": 1789280119.226319,
+    "fills": 3
   },
   {
     "timestamp": 1789277538,
@@ -132353,8 +132353,8 @@
     "title": "Map Handicap: LGC (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 3989.3660999999997,
-    "whale_pct": 2.812,
+    "whale_usd": 15391.9644,
+    "whale_pct": 10.851,
     "whale_value_at_open": 141854.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -132365,8 +132365,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789279204.6554024,
-    "fills": 2
+    "last_fill_at": 1789280103.315098,
+    "fills": 3
   },
   {
     "timestamp": 1789278523,
@@ -132425,8 +132425,8 @@
     "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 31594.438523999997,
-    "whale_pct": 31.508,
+    "whale_usd": 47746.980923999996,
+    "whale_pct": 47.616,
     "whale_value_at_open": 100274.7458,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -132440,8 +132440,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789279685.2736976,
-    "fills": 4
+    "last_fill_at": 1789280105.6150625,
+    "fills": 5
   },
   {
     "timestamp": 1789279208,
@@ -132504,8 +132504,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 584.503562,
-    "whale_pct": 0.174,
+    "whale_usd": 1345.6035619999998,
+    "whale_pct": 0.4,
     "whale_value_at_open": 336739.2007,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -132516,7 +132516,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789279784.1776342,
+    "last_fill_at": 1789280144.5800982,
+    "fills": 2
+  },
+  {
+    "timestamp": 1789280109,
+    "timestamp_added": 1789280110.3619003,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g2-lgc-2026-09-13-game3",
+    "title": "Counter-Strike: G2 vs Legacy - Map 3 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 2234.4999999999995,
+    "whale_pct": 1.575,
+    "whale_value_at_open": 141854.3504,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789280110.3619082,
     "fills": 1
   }
 ]

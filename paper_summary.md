@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 01:13:48 (hora de Perú)
+Actualizado: 2026-09-13 01:15:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $156.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 01:13:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $149.17 en 30 posiciones abiertas (disponible para nuevas apuestas: $7.75)
+**Capital comprometido ahora mismo:** $154.17 en 31 posiciones abiertas (disponible para nuevas apuestas: $2.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 14 | +3.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 90 | 57 | 15 | +3.00 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | Sunshine.Smile | 12 | 7 | 0 | +2.75 USD |
@@ -997,15 +997,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 53% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MZP (-1.5) vs ex-Zero Tena | ex-Zero Tenacity (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 31.5% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: G2 vs Legacy (BO5) - FIS | Legacy (BUY) | 49% | 5.00 | 47.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Lille OSC vs. ES Troyes AC: O/U 2.5 | Over (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Arjun Rath | Filip Peliwo (BUY) | 89% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 2.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: LGC (-1.5) vs G2 (+1.5) | G2 (BUY) | 70% | 5.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Minh Phat Nguyen vs Ryuki  | Ryuki Matsuda (BUY) | 97% | 5.00 | 8.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 6.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: INOX Division vs Color ( | Color (BUY) | 58% | 5.00 | 3.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Mallorca vs. CE Sabadell FC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -1015,8 +1016,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.3% | ⏳ pendiente | — |
-| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 35.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 29.3% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 45.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 40.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 7.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ✅ ganada | +4.68 |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ❌ perdida | -5.04 |
 | mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ❌ perdida | -5.13 |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
