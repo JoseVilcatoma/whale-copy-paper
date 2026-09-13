@@ -131815,8 +131815,8 @@
     "title": "Counter-Strike: G2 vs Legacy (BO5) - FISSURE PLAYGROUND Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 6942.5127,
-    "whale_pct": 7.309,
+    "whale_usd": 14077.841100000001,
+    "whale_pct": 14.82,
     "whale_value_at_open": 94989.4541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -131830,8 +131830,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789281873.9677792,
-    "fills": 2
+    "last_fill_at": 1789283662.3245063,
+    "fills": 3
   },
   {
     "timestamp": 1789266045,
