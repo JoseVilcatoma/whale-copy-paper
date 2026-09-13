@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 16:22:11 (hora de Perú)
+Actualizado: 2026-09-13 16:24:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.04
-**Retorno acumulado:** -81.59%
+**Bankroll actual:** $98.86
+**Retorno acumulado:** -80.23%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 16:22:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.98 en 16 posiciones abiertas (disponible para nuevas apuestas: $16.06)
+**Capital comprometido ahora mismo:** $65.98 en 14 posiciones abiertas (disponible para nuevas apuestas: $32.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 93 | 65 | 4 | +33.52 USD |
+| wr0ngw4yb3tt0r | 95 | 65 | 2 | +40.33 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5161
-- **Aciertos:** 3224 (62.5%)
+- **Apuestas resueltas:** 5163
+- **Aciertos:** 3226 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,738.44
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $481.52 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,748.44
+- **ROI sobre lo apostado:** -2.04%
+- **Comisiones pagadas (taker fee):** $481.69 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,9 +173,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2688 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2689 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1525 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 679 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1003,12 +1003,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs BET-M 33 | BET-M 33 (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 1.1% | ✅ ganada | +5.97 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | wr0ngw4yb3tt0r | Falcons vs. Steelers | Steelers (BUY) | 73% | 5.00 | 1.4% | ✅ ganada | +1.78 |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 36.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
-| wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ✅ ganada | +0.84 |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
