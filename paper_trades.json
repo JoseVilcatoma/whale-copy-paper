@@ -132830,5 +132830,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789312864.9856784,
     "fills": 1
+  },
+  {
+    "timestamp": 1789313525,
+    "timestamp_added": 1789313525.8225155,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-bal-ind-2026-09-13-spread-away-2pt5",
+    "title": "Spread: Ravens (-2.5)",
+    "outcome": "Colts",
+    "side": "BUY",
+    "whale_usd": 846.432,
+    "whale_pct": 0.75,
+    "whale_value_at_open": 112838.3916,
+    "paper_stake_usd": 4.9,
+    "odds_at_bet": 46,
+    "fee_usd": 0.132,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789313525.8225272,
+    "fills": 1
   }
 ]

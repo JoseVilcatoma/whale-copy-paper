@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 10:31:12 (hora de Perú)
+Actualizado: 2026-09-13 10:33:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 10:31:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.96 en 17 posiciones abiertas (disponible para nuevas apuestas: $4.90)
+**Capital comprometido ahora mismo:** $86.86 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| wr0ngw4yb3tt0r | 89 | 63 | 3 | +29.50 USD |
+| wr0ngw4yb3tt0r | 89 | 63 | 4 | +29.50 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -997,6 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Ravens (-2.5) | Colts (BUY) | 46% | 4.90 | 0.8% | ⏳ pendiente | — |
 |  | NEOM SC vs. Al Fateh Saudi Club: O/U 2.5 | Over (BUY) | 59% | 3.39 | 0.8% | ⏳ pendiente | — |
 |  | Rennes: Kenny de Schepper vs Alberto Bar | Alberto Barroso Campos (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Manchester United FC vs. Manchester City | Under (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -1026,4 +1027,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
