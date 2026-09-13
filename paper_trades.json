@@ -132377,8 +132377,8 @@
     "title": "Phan Thiet 4: Filip Peliwo vs Arjun Rathi",
     "outcome": "Filip Peliwo",
     "side": "BUY",
-    "whale_usd": 576.2746160000002,
-    "whale_pct": 0.171,
+    "whale_usd": 3513.274616,
+    "whale_pct": 1.043,
     "whale_value_at_open": 336739.2007,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -132389,8 +132389,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789278523.7769454,
-    "fills": 1
+    "last_fill_at": 1789281318.1585765,
+    "fills": 2
   },
   {
     "timestamp": 1789278872,
@@ -132504,8 +132504,8 @@
     "title": "LoL: Gen.G vs Hanwha Life Esports (BO5) - LCK Playoffs",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 1345.6035619999998,
-    "whale_pct": 0.4,
+    "whale_usd": 2740.086262,
+    "whale_pct": 0.814,
     "whale_value_at_open": 336739.2007,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -132516,8 +132516,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789280144.5800982,
-    "fills": 2
+    "last_fill_at": 1789281372.0107474,
+    "fills": 4
   },
   {
     "timestamp": 1789280109,
