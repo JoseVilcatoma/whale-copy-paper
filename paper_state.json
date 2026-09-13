@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.98117234227145,
+  "bankroll": 91.23017234227144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26895,6 +26895,11 @@
       "timestamp": 1789338404.8672738,
       "bankroll": 94.98,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Bills (-1.5)"
+    },
+    {
+      "timestamp": 1789340931.9219944,
+      "bankroll": 91.23,
+      "event": "lost: pleaseplease123 \u2014 Texas Rangers vs. Arizona Diamondbacks"
     }
   ]
 }

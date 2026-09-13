@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 18:08:39 (hora de Perú)
+Actualizado: 2026-09-13 18:10:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.98
-**Retorno acumulado:** -81.00%
+**Bankroll actual:** $91.23
+**Retorno acumulado:** -81.75%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 18:08:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.28 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.70)
+**Capital comprometido ahora mismo:** $90.61 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -133,11 +133,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| pleaseplease123 | 31 | 29 | 2 | -10.93 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 3 | -13.74 USD |
+| pleaseplease123 | 31 | 30 | 1 | -14.68 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5167
+- **Apuestas resueltas:** 5168
 - **Aciertos:** 3228 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,768.02
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $482.12 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,771.69
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $482.20 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2692 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2693 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1526 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 679 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1018,7 +1018,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 1.1% | ✅ ganada | +5.97 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | wr0ngw4yb3tt0r | Falcons vs. Steelers | Steelers (BUY) | 73% | 5.00 | 1.4% | ✅ ganada | +1.78 |
-| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 36.1% | ⏳ pendiente | — |
+| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 36.1% | ❌ perdida | -3.75 |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ✅ ganada | +0.84 |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ❌ perdida | -5.12 |
