@@ -132960,8 +132960,8 @@
     "title": "Saints vs. Lions",
     "outcome": "Lions",
     "side": "BUY",
-    "whale_usd": 3887.1638999999996,
-    "whale_pct": 0.961,
+    "whale_usd": 11029.3439,
+    "whale_pct": 2.726,
     "whale_value_at_open": 404638.3061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -132972,8 +132972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789321705.695006,
-    "fills": 1
+    "last_fill_at": 1789322219.6166408,
+    "fills": 2
   },
   {
     "timestamp": 1789321845,

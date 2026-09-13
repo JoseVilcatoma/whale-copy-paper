@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 12:54:59 (hora de Perú)
+Actualizado: 2026-09-13 12:57:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.81
@@ -999,7 +999,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 23.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 1.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 2.7% | ⏳ pendiente | — |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ⏳ pendiente | — |
