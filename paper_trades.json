@@ -132912,8 +132912,8 @@
     "title": "Spread: Bills (-1.5)",
     "outcome": "Bills",
     "side": "BUY",
-    "whale_usd": 11608.8864,
-    "whale_pct": 6.651,
+    "whale_usd": 17746.5552,
+    "whale_pct": 10.168,
     "whale_value_at_open": 174540.6088,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -132924,7 +132924,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789315783.4256833,
-    "fills": 1
+    "last_fill_at": 1789315914.1935055,
+    "fills": 2
   }
 ]
