@@ -1,5 +1,5 @@
 {
-  "bankroll": 105.94459526591245,
+  "bankroll": 95.78159526591246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26915,6 +26915,16 @@
       "timestamp": 1789343154.5527358,
       "bankroll": 105.94,
       "event": "won: wr0ngw4yb3tt0r \u2014 Cardinals vs. Chargers"
+    },
+    {
+      "timestamp": 1789343463.2964032,
+      "bankroll": 100.8,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Raiders (-14.5)"
+    },
+    {
+      "timestamp": 1789343464.0809078,
+      "bankroll": 95.78,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Athletics"
     }
   ]
 }
