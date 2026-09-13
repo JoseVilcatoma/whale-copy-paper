@@ -1,5 +1,5 @@
 {
-  "bankroll": 154.95048509382443,
+  "bankroll": 156.9197386149512,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26645,6 +26645,11 @@
       "timestamp": 1789278440.3529186,
       "bankroll": 154.95,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Aditya Balsekar vs Joshua Charlton"
+    },
+    {
+      "timestamp": 1789278754.0138793,
+      "bankroll": 156.92,
+      "event": "won: Jsram \u2014 Zuffa Boxing: Garcia vs. Benn (Welterweight, Main)"
     }
   ]
 }
