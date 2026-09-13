@@ -132367,5 +132367,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789278298.7134218,
     "fills": 1
+  },
+  {
+    "timestamp": 1789278523,
+    "timestamp_added": 1789278523.776936,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-peliwo-rathi-2026-09-13",
+    "title": "Phan Thiet 4: Filip Peliwo vs Arjun Rathi",
+    "outcome": "Filip Peliwo",
+    "side": "BUY",
+    "whale_usd": 576.2746160000002,
+    "whale_pct": 0.171,
+    "whale_value_at_open": 336739.2007,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789278523.7769454,
+    "fills": 1
   }
 ]
