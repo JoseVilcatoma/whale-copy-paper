@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 22:26:45 (hora de Perú)
+Actualizado: 2026-09-12 22:28:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $156.44
-**Retorno acumulado:** -68.71%
-**Peor caída desde un máximo (drawdown):** 75.66%
+**Bankroll actual:** $146.21
+**Retorno acumulado:** -70.76%
+**Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 22:26:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.17 en 19 posiciones abiertas (disponible para nuevas apuestas: $62.27)
+**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $62.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| pleaseplease123 | 30 | 27 | 1 | -4.36 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -130,6 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | Flaznorp | 110 | 41 | 0 | -9.29 USD |
+| pleaseplease123 | 30 | 28 | 0 | -9.47 USD |
 | TAIWANNUMBERONE | 35 | 26 | 0 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -140,12 +140,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| Talvez10 | 18 | 18 | 1 | -17.96 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | BrotherObama | 9 | 12 | 0 | -23.08 USD |
+| Talvez10 | 18 | 19 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5108
+- **Apuestas resueltas:** 5110
 - **Aciertos:** 3199 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,480.50
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $476.21 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,490.50
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $476.44 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2650 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2652 | 50.0% | 50.1% | -0.0 pp |
 | 60-79% | 1515 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 674 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -1006,7 +1006,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
-| Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ⏳ pendiente | — |
+| Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
 | Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
@@ -1016,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Alabama vs. Kentucky | Alabama (BUY) | 60% | 5.00 | 5.1% | ✅ ganada | +3.23 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Los Angeles Dodgers (BUY) | 42% | 5.00 | 1.1% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ⏳ pendiente | — |
+| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 438.7% | ❌ perdida | -5.11 |
 | pleaseplease123 | Cincinnati Reds vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 65% | 5.00 | 233.9% | ✅ ganada | +2.61 |
 | Devs777 | Will SE Palmeiras win on 2026-09-12? | No (BUY) | 42% | 5.00 | 3.8% | ❌ perdida | -5.14 |
 | pleaseplease123 | Los Angeles Angels vs. Washington Nation | Under (BUY) | 51% | 5.00 | 151.2% | ❌ perdida | -5.12 |
