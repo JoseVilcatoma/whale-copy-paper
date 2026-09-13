@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 08:04:41 (hora de Perú)
+Actualizado: 2026-09-13 08:06:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $100.97
@@ -997,7 +997,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof (BUY) | 47% | 2.40 | 0.8% | ⏳ pendiente | — |
 | Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
