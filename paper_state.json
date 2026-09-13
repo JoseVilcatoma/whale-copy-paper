@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.35780149699991,
+  "bankroll": 86.86018447572332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26770,6 +26770,16 @@
       "timestamp": 1789312519.9842703,
       "bankroll": 89.36,
       "event": "lost: ferrariChampions2026 \u2014 Lille OSC vs. ES Troyes AC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789313461.4314206,
+      "bankroll": 92.0,
+      "event": "won: ferrariChampions2026 \u2014 Guangzhou: Maxim Zhukov vs Thijmen Loof"
+    },
+    {
+      "timestamp": 1789313461.5316253,
+      "bankroll": 86.86,
+      "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Maxim Zhukov vs Thijmen Loof"
     }
   ]
 }

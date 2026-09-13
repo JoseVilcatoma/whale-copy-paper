@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 10:29:10 (hora de Perú)
+Actualizado: 2026-09-13 10:31:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.36
-**Retorno acumulado:** -82.13%
-**Peor caída desde un máximo (drawdown):** 85.26%
+**Bankroll actual:** $86.86
+**Retorno acumulado:** -82.63%
+**Peor caída desde un máximo (drawdown):** 85.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 10:29:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.36 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $81.96 en 17 posiciones abiertas (disponible para nuevas apuestas: $4.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,17 +153,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 2 | -134.65 USD |
-| ferrariChampions2026 | 768 | 481 | 6 | -255.85 USD |
+| ferrariChampions2026 | 769 | 482 | 4 | -258.35 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5142
-- **Aciertos:** 3212 (62.5%)
+- **Apuestas resueltas:** 5144
+- **Aciertos:** 3213 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,648.25
+- **Total apostado (suma de stakes):** $25,655.65
 - **ROI sobre lo apostado:** -2.09%
-- **Comisiones pagadas (taker fee):** $479.55 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $479.75 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2673 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2675 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1521 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1003,8 +1003,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | New York Mets vs. New York Yankees: O/U  | Over (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Over (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Bayern München (-2.5) | SV 07 Elversberg (BUY) | 49% | 4.40 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof (BUY) | 47% | 2.40 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Maxim Zhukov (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
+| ferrariChampions2026 | Guangzhou: Maxim Zhukov vs Thijmen Loof | Thijmen Loof (BUY) | 47% | 2.40 | 0.8% | ✅ ganada | +2.64 |
 | Jsram | Will Manchester City FC win on 2026-09-1 | No (BUY) | 56% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Kansas City Royals (BUY) | 59% | 5.00 | 1.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
