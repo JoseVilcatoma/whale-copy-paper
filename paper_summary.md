@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 05:02:13 (hora de Perú)
+Actualizado: 2026-09-13 05:04:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $147.51
-**Retorno acumulado:** -70.50%
-**Peor caída desde un máximo (drawdown):** 75.88%
+**Bankroll actual:** $142.38
+**Retorno acumulado:** -71.52%
+**Peor caída desde un máximo (drawdown):** 76.51%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 05:02:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $146.92 en 30 posiciones abiertas (disponible para nuevas apuestas: $0.59)
+**Capital comprometido ahora mismo:** $141.92 en 29 posiciones abiertas (disponible para nuevas apuestas: $0.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,10 +144,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| BrotherObama | 9 | 12 | 3 | -23.08 USD |
 | Talvez10 | 18 | 19 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
+| BrotherObama | 9 | 13 | 2 | -28.21 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5122
+- **Apuestas resueltas:** 5123
 - **Aciertos:** 3207 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,550.50
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $477.45 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,555.50
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $477.58 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2658 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 2659 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1517 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 677 | 85.7% | 86.5% | -0.8 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -998,7 +998,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Kansas City Royals (BUY) | 59% | 5.00 | 1.4% | ⏳ pendiente | — |
-| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ⏳ pendiente | — |
+| BrotherObama | LoL: Gen.G vs Hanwha Life Esports - Game | Hanwha Life Esports (BUY) | 48% | 5.00 | 23.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Game Handicap: HLE (-1.5) vs Gen.G (+1.5 | Hanwha Life Esports (BUY) | 41% | 2.75 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 3 Win | G2 (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Gen.G vs Hanwha Life Esports (BO5)  | Hanwha Life Esports (BUY) | 59% | 5.00 | 1.7% | ❌ perdida | -5.10 |
