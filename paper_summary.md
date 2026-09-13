@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 14:16:20 (hora de Perú)
+Actualizado: 2026-09-13 14:18:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.85
@@ -1000,7 +1000,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Falcons vs. Steelers | Steelers (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
-| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 23.3% | ⏳ pendiente | — |
+| pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 23.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ⏳ pendiente | — |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ⏳ pendiente | — |
