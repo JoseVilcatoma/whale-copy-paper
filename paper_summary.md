@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 00:45:15 (hora de Perú)
+Actualizado: 2026-09-13 00:47:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $153.19
-**Retorno acumulado:** -69.36%
+**Bankroll actual:** $154.95
+**Retorno acumulado:** -69.01%
 **Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 00:45:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $139.17 en 28 posiciones abiertas (disponible para nuevas apuestas: $14.02)
+**Capital comprometido ahora mismo:** $124.17 en 25 posiciones abiertas (disponible para nuevas apuestas: $30.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Diabolical-Prize | 13 | 6 | 2 | +30.12 USD |
-| wr0ngw4yb3tt0r | 88 | 63 | 2 | +28.59 USD |
+| wr0ngw4yb3tt0r | 89 | 63 | 1 | +29.50 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 765 | 476 | 6 | -239.27 USD |
+| ferrariChampions2026 | 766 | 477 | 4 | -238.42 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5114
-- **Aciertos:** 3202 (62.6%)
+- **Apuestas resueltas:** 5117
+- **Aciertos:** 3204 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,510.50
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $476.89 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,525.50
+- **ROI sobre lo apostado:** -1.84%
+- **Comisiones pagadas (taker fee):** $477.20 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,9 +172,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2655 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 2657 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1516 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 674 | 85.8% | 86.5% | -0.7 pp |
+| 80-94% | 675 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1004,15 +1004,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | RCD Mallorca vs. CE Sabadell FC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs 6666 (BO | Iberian Soul (BUY) | 76% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.3% | ⏳ pendiente | — |
 | mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 35.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 29.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 7.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |

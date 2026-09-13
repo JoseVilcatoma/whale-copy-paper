@@ -1,5 +1,5 @@
 {
-  "bankroll": 153.18999303033237,
+  "bankroll": 154.95048509382443,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26630,6 +26630,21 @@
       "timestamp": 1789277489.497584,
       "bankroll": 153.19,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 3: Arthur Weber vs Ilia Simakin"
+    },
+    {
+      "timestamp": 1789278438.6789672,
+      "bankroll": 154.1,
+      "event": "won: wr0ngw4yb3tt0r \u2014 North Dakota State vs. Air Force"
+    },
+    {
+      "timestamp": 1789278439.8623478,
+      "bankroll": 148.98,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 4: Aditya Balsekar vs Joshua Charlton"
+    },
+    {
+      "timestamp": 1789278440.3529186,
+      "bankroll": 154.95,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Aditya Balsekar vs Joshua Charlton"
     }
   ]
 }
