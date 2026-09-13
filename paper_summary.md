@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 09:48:20 (hora de Perú)
+Actualizado: 2026-09-13 09:50:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $98.67
-**Retorno acumulado:** -80.27%
-**Peor caída desde un máximo (drawdown):** 84.17%
+**Bankroll actual:** $94.46
+**Retorno acumulado:** -81.11%
+**Peor caída desde un máximo (drawdown):** 84.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 09:48:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.97 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.70)
+**Capital comprometido ahora mismo:** $75.97 en 16 posiciones abiertas (disponible para nuevas apuestas: $18.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,13 +36,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| ExplosiveNinja | 38 | 23 | 1 | +14.64 USD |
 | theowalcott | 8 | 4 | 0 | +14.61 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -137,19 +137,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 94 | 63 | 5 | -16.36 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 92 | 63 | 7 | -22.40 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| BrotherObama | 9 | 14 | 1 | -33.33 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
+| BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
@@ -157,14 +157,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5137
-- **Aciertos:** 3210 (62.5%)
+- **Apuestas resueltas:** 5141
+- **Aciertos:** 3212 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,623.25
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $479.02 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,643.25
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $479.44 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,8 +172,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2669 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1520 | 68.2% | 67.8% | +0.5 pp |
+| 40-59% | 2672 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1521 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 678 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1017,13 +1017,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BBL vs HOTU (BO3) - Thun | HOTU (BUY) | 67% | 5.00 | 7.5% | ✅ ganada | +2.38 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: INOX Division vs Color ( | Color (BUY) | 58% | 5.00 | 5.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | RCD Mallorca vs. CE Sabadell FC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
+| BrotherObama | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 52% | 5.00 | 5.4% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs 6666 (BO | Iberian Soul (BUY) | 76% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Aditya Balsekar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Spread: RB Leipzig (-1.5) | RB Leipzig (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 3: Arthur Weber vs Ilia Simak | Ilia Simakin (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Phan Thiet 4: Aditya Balsekar vs Joshua  | Joshua Charlton (BUY) | 50% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | Diabolical-Prize | Game Handicap: GEN (-1.5) vs Hanwha Life | Hanwha Life Esports (BUY) | 56% | 5.00 | 24.3% | ❌ perdida | -5.11 |
-| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 45.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 40.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 13.4% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 45.6% | ❌ perdida | -5.12 |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 40.1% | ✅ ganada | +4.68 |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 13.4% | ✅ ganada | +1.36 |

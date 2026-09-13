@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.66762351811605,
+  "bankroll": 94.46280149699992,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26745,6 +26745,26 @@
       "timestamp": 1789306555.9973364,
       "bankroll": 98.67,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Sinners vs Nemiga (BO3) - CCT Europe Series #8 Playoffs"
+    },
+    {
+      "timestamp": 1789310953.333522,
+      "bankroll": 100.02,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: M80 (-1.5) vs Luminosity (+1.5)"
+    },
+    {
+      "timestamp": 1789310953.6070726,
+      "bankroll": 104.7,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs"
+    },
+    {
+      "timestamp": 1789310953.707253,
+      "bankroll": 99.58,
+      "event": "lost: mmklop \u2014 Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs"
+    },
+    {
+      "timestamp": 1789310954.3458438,
+      "bankroll": 94.46,
+      "event": "lost: BrotherObama \u2014 Counter-Strike: M80 vs Luminosity (BO3) - Roman Imperium Cup Playoffs"
     }
   ]
 }
