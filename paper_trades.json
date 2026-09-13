@@ -133128,8 +133128,8 @@
     "title": "Spread: Eagles (-5.5)",
     "outcome": "Commanders",
     "side": "BUY",
-    "whale_usd": 961.4352,
-    "whale_pct": 0.552,
+    "whale_usd": 6294.7152,
+    "whale_pct": 3.617,
     "whale_value_at_open": 174050.8589,
     "paper_stake_usd": 3.56,
     "odds_at_bet": 49,
@@ -133140,7 +133140,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789330488.0446062,
-    "fills": 1
+    "last_fill_at": 1789330994.9017727,
+    "fills": 2
   }
 ]
