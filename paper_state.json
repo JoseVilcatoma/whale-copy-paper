@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.00090935775276,
+  "bankroll": 91.88590935775277,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26850,6 +26850,11 @@
       "timestamp": 1789332684.9487793,
       "bankroll": 97.0,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Baltimore Orioles vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1789332936.0547264,
+      "bankroll": 91.89,
+      "event": "lost: pleaseplease123 \u2014 New York Mets vs. New York Yankees: O/U 7.5"
     }
   ]
 }
