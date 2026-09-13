@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 21:00:37 (hora de Perú)
+Actualizado: 2026-09-12 21:02:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $164.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 21:00:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $85.21)
+**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $80.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| Diabolical-Prize | 13 | 6 | 0 | +30.12 USD |
+| Diabolical-Prize | 13 | 6 | 1 | +30.12 USD |
 | wr0ngw4yb3tt0r | 88 | 63 | 0 | +28.59 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -987,7 +987,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-hero-1win-2026-09-12 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
 | cfb-duke-ill-2026-09-12-spread-home-6pt5 | Diabolical-Prize, Kch-Temp |
 | cfb-ucf-pitt-2026-09-12-spread-home-7pt5 | Diabolical-Prize, Kch-Temp |
-| cs2-g2-lgc-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, mmklop |
+| cs2-g2-lgc-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Diabolical-Prize, mmklop |
 | cfb-cah-syra-2026-09-12 | Diabolical-Prize, Kch-Temp |
 | cfb-cah-syra-2026-09-12-spread-home-3pt5 | Diabolical-Prize, wr0ngw4yb3tt0r |
 
@@ -995,6 +995,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ⏳ pendiente | — |
@@ -1024,4 +1025,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | O/U 1.5 Rounds | Over (BUY) | 64% | 5.00 | 0.3% | ✅ ganada | +2.72 |
 | wr0ngw4yb3tt0r | Oklahoma vs. Michigan | Michigan (BUY) | 75% | 5.00 | 2.6% | ✅ ganada | +1.60 |
 | ripley86alien | Will Arsenal FC win on 2026-09-12? | No (BUY) | 41% | 5.00 | 527.6% | ❌ perdida | -5.15 |
-| Kch-Temp | Duke vs. Illinois | Illinois (BUY) | 69% | 5.00 | 16.1% | ❌ perdida | -5.08 |
