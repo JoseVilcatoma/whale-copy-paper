@@ -133176,8 +133176,8 @@
     "title": "San Diego Padres vs. San Francisco Giants: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 73223.07200000001,
-    "whale_pct": 73.106,
+    "whale_usd": 82698.80450000001,
+    "whale_pct": 82.566,
     "whale_value_at_open": 100160.5255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -133188,8 +133188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789335499.5821562,
-    "fills": 3
+    "last_fill_at": 1789335761.741195,
+    "fills": 4
   },
   {
     "timestamp": 1789334005,
@@ -133248,8 +133248,8 @@
     "title": "Vancouver Whitecaps FC vs. Austin FC: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 57144.207001,
-    "whale_pct": 23.474,
+    "whale_usd": 87511.843001,
+    "whale_pct": 35.948,
     "whale_value_at_open": 243438.4519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -133260,7 +133260,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789335490.6265402,
-    "fills": 23
+    "last_fill_at": 1789335741.8371625,
+    "fills": 26
   }
 ]
