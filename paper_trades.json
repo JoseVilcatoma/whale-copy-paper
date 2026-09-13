@@ -133296,8 +133296,8 @@
     "title": "Spread: Cowboys (-2.5)",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 2444.0211,
-    "whale_pct": 0.468,
+    "whale_usd": 3018.9311,
+    "whale_pct": 0.578,
     "whale_value_at_open": 521978.2253,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -133308,8 +133308,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789337385.5620418,
-    "fills": 3
+    "last_fill_at": 1789337638.0901651,
+    "fills": 4
   },
   {
     "timestamp": 1789336520,
