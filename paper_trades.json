@@ -133166,5 +133166,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789331349.6595201,
     "fills": 1
+  },
+  {
+    "timestamp": 1789333119,
+    "timestamp_added": 1789333120.4570944,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sd-sf-2026-09-13-total-7pt5",
+    "title": "San Diego Padres vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 70099.952,
+    "whale_pct": 69.988,
+    "whale_value_at_open": 100160.5255,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789333120.4571092,
+    "fills": 1
   }
 ]
