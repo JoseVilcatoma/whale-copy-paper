@@ -1,5 +1,5 @@
 {
-  "bankroll": 146.2097494875569,
+  "bankroll": 151.9443147049482,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26610,6 +26610,11 @@
       "timestamp": 1789270126.0678723,
       "bankroll": 146.21,
       "event": "lost: Talvez10 \u2014 Seattle Mariners vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1789270759.815207,
+      "bankroll": 151.94,
+      "event": "won: ferrariChampions2026 \u2014 Ohio State vs. Texas"
     }
   ]
 }

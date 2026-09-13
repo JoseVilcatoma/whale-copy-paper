@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 22:37:18 (hora de Perú)
+Actualizado: 2026-09-12 22:39:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $146.21
-**Retorno acumulado:** -70.76%
+**Bankroll actual:** $151.94
+**Retorno acumulado:** -69.61%
 **Peor caída desde un máximo (drawdown):** 75.88%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-12 22:37:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.17 en 18 posiciones abiertas (disponible para nuevas apuestas: $57.04)
+**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $67.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 762 | 476 | 4 | -251.37 USD |
+| ferrariChampions2026 | 763 | 476 | 3 | -245.64 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5110
-- **Aciertos:** 3199 (62.6%)
+- **Apuestas resueltas:** 5111
+- **Aciertos:** 3200 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,490.50
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $476.44 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,495.50
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $476.58 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2652 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 2653 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1515 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 674 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 269 | 97.0% | 97.3% | -0.3 pp |
@@ -997,9 +997,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 6.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 81% | 5.00 | 2.3% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 86% | 5.00 | 0.9% | ❌ perdida | -5.04 |

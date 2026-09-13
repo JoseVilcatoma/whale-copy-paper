@@ -131947,8 +131947,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -131988,8 +131988,8 @@
     "title": "North Dakota State vs. Air Force",
     "outcome": "North Dakota State",
     "side": "BUY",
-    "whale_usd": 2274.1306,
-    "whale_pct": 0.297,
+    "whale_usd": 3207.3882,
+    "whale_pct": 0.419,
     "whale_value_at_open": 765054.734,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -132000,8 +132000,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789268749.3422909,
-    "fills": 1
+    "last_fill_at": 1789270746.321027,
+    "fills": 2
   },
   {
     "timestamp": 1789270233,
