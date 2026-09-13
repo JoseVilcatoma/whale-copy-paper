@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 06:00:20 (hora de Perú)
+Actualizado: 2026-09-13 06:02:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $134.44
-**Retorno acumulado:** -73.11%
-**Peor caída desde un máximo (drawdown):** 77.82%
+**Bankroll actual:** $129.31
+**Retorno acumulado:** -74.14%
+**Peor caída desde un máximo (drawdown):** 78.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 06:00:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $134.17 en 27 posiciones abiertas (disponible para nuevas apuestas: $0.27)
+**Capital comprometido ahora mismo:** $129.17 en 26 posiciones abiertas (disponible para nuevas apuestas: $0.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,18 +153,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 120 | 85 | 0 | -134.65 USD |
-| ferrariChampions2026 | 768 | 479 | 5 | -245.61 USD |
+| ferrariChampions2026 | 768 | 480 | 4 | -250.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5125
+- **Apuestas resueltas:** 5126
 - **Aciertos:** 3207 (62.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,563.25
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $477.77 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,568.25
+- **ROI sobre lo apostado:** -1.94%
+- **Comisiones pagadas (taker fee):** $477.90 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -172,7 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2661 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2662 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1517 | 68.2% | 67.8% | +0.5 pp |
 | 80-94% | 677 | 85.7% | 86.5% | -0.8 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1025,5 +1025,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Ohio State vs. Texas | Texas (BUY) | 46% | 5.00 | 1.6% | ✅ ganada | +5.73 |
-| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Shanghai: Ilya Ivashka vs Marat Sharipov | Marat Sharipov (BUY) | 49% | 5.00 | 1.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 81% | 5.00 | 2.3% | ❌ perdida | -5.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 134.43835531829882,
+  "bankroll": 129.31035531829883,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26685,6 +26685,11 @@
       "timestamp": 1789294530.839168,
       "bankroll": 134.44,
       "event": "lost: ferrariChampions2026 \u2014 Game Handicap: HLE (-1.5) vs Gen.G (+1.5)"
+    },
+    {
+      "timestamp": 1789297244.80685,
+      "bankroll": 129.31,
+      "event": "lost: ferrariChampions2026 \u2014 Shanghai: Ilya Ivashka vs Marat Sharipov"
     }
   ]
 }
