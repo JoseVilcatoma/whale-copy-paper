@@ -1,5 +1,5 @@
 {
-  "bankroll": 129.31035531829883,
+  "bankroll": 131.69104188546302,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26690,6 +26690,11 @@
       "timestamp": 1789297244.80685,
       "bankroll": 129.31,
       "event": "lost: ferrariChampions2026 \u2014 Shanghai: Ilya Ivashka vs Marat Sharipov"
+    },
+    {
+      "timestamp": 1789299459.0249076,
+      "bankroll": 131.69,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BBL vs HOTU (BO3) - Thunderpick World Championship Closed Qualifier Playoffs"
     }
   ]
 }
