@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 22:58:25 (hora de Perú)
+Actualizado: 2026-09-12 23:00:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $151.94
@@ -997,8 +997,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 12.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 11.2% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: M80 vs Luminosity (BO3)  | M80 (BUY) | 51% | 5.00 | 20.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Luminosity (BO3)  | Luminosity (BUY) | 51% | 5.00 | 18.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: M80 (-1.5) vs Luminosity ( | Luminosity (BUY) | 78% | 5.00 | 6.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | North Dakota State vs. Air Force | North Dakota State (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Athletics: O/U 14.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
