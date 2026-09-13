@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 21:20:57 (hora de Perú)
+Actualizado: 2026-09-12 21:22:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $159.23
@@ -995,7 +995,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
+| mmklop | Counter-Strike: NRG vs Liquid (BO5) - PG | NRG (BUY) | 49% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Diabolical-Prize | Counter-Strike: G2 vs Legacy (BO5) - FIS | G2 (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FlyQuest vs DEPO (BO3) - | FlyQuest (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
