@@ -132638,5 +132638,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789303591.221914,
     "fills": 4
+  },
+  {
+    "timestamp": 1789304044,
+    "timestamp_added": 1789304044.6669977,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zhukov-loof-2026-09-13",
+    "title": "Guangzhou: Maxim Zhukov vs Thijmen Loof",
+    "outcome": "Thijmen Loof",
+    "side": "BUY",
+    "whale_usd": 2530.8234,
+    "whale_pct": 0.752,
+    "whale_value_at_open": 336739.2007,
+    "paper_stake_usd": 2.4,
+    "odds_at_bet": 47,
+    "fee_usd": 0.064,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789304045.147012,
+    "fills": 2
   }
 ]
