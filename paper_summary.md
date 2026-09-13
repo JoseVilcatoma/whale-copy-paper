@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-12 20:29:45 (hora de Perú)
+Actualizado: 2026-09-12 20:31:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $159.30
@@ -996,7 +996,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Talvez10 | Seattle Mariners vs. Athletics: O/U 9.5 | Under (BUY) | 52% | 5.00 | 92.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Sinners vs Nemiga (BO3)  | Nemiga (BUY) | 64% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Aryna Sabalenka vs Elena Ry | Aryna Sabalenka (BUY) | 51% | 3.22 | 2.1% | ❌ perdida | -3.30 |
 | Devs777 | Columbus Crew vs. New York Red Bulls: O/ | Under (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Legacy - Map 2 Win | G2 (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
