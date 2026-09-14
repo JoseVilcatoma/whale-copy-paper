@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.31598417072128,
+  "bankroll": 86.22598417072128,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27145,6 +27145,11 @@
       "timestamp": 1789400862.0771399,
       "bankroll": 91.32,
       "event": "lost: Flaznorp \u2014 Rennes: Justin Boulais vs Matisse Bobichon"
+    },
+    {
+      "timestamp": 1789401429.550118,
+      "bankroll": 86.23,
+      "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Elias Ymer vs Semen Pankin"
     }
   ]
 }
