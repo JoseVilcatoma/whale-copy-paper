@@ -134088,5 +134088,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789377050.2678146,
     "fills": 1
+  },
+  {
+    "timestamp": 1789377638,
+    "timestamp_added": 1789377639.1782613,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vela-iannacc-2026-09-14",
+    "title": "Biella: Giuseppe La Vela vs Federico Iannaccone",
+    "outcome": "Giuseppe La Vela",
+    "side": "BUY",
+    "whale_usd": 3089.6268579999996,
+    "whale_pct": 3.053,
+    "whale_value_at_open": 101204.7354,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789377642.5537639,
+    "fills": 2
   }
 ]
