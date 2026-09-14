@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.59867382589368,
+  "bankroll": 89.09405844127829,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27160,6 +27160,11 @@
       "timestamp": 1789403625.3125117,
       "bankroll": 84.6,
       "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Colin Sinclair vs Linang Xiao"
+    },
+    {
+      "timestamp": 1789404627.924813,
+      "bankroll": 89.09,
+      "event": "won: ferrariChampions2026 \u2014 Ljubljana: Miriam Bulgaru vs Lina Gjorcheska"
     }
   ]
 }
