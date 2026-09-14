@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.78159526591246,
+  "bankroll": 96.9074347720853,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26925,6 +26925,11 @@
       "timestamp": 1789343464.0809078,
       "bankroll": 95.78,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Athletics"
+    },
+    {
+      "timestamp": 1789344094.4326055,
+      "bankroll": 96.91,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Commanders vs. Eagles"
     }
   ]
 }

@@ -133296,8 +133296,8 @@
     "title": "Spread: Cowboys (-2.5)",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 16038.89582,
-    "whale_pct": 3.073,
+    "whale_usd": 16758.84912,
+    "whale_pct": 3.211,
     "whale_value_at_open": 521978.2253,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -133308,8 +133308,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789344037.2056813,
-    "fills": 14
+    "last_fill_at": 1789344115.7656226,
+    "fills": 15
   },
   {
     "timestamp": 1789336520,
@@ -133399,8 +133399,8 @@
     "odds_at_bet": 81,
     "fee_usd": 0.047,
     "odds_ballena": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -133554,5 +133554,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789343756.5996294,
     "fills": 2
+  },
+  {
+    "timestamp": 1789344146,
+    "timestamp_added": 1789344147.201275,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fenty-seggerm-2026-09-13",
+    "title": "Tiburon: Andrew Fenty vs Ryan Seggerman",
+    "outcome": "Andrew Fenty",
+    "side": "BUY",
+    "whale_usd": 631.5508339999999,
+    "whale_pct": 0.306,
+    "whale_value_at_open": 206552.9547,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789344147.2012844,
+    "fills": 1
   }
 ]
