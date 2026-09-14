@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 11:07:24 (hora de Perú)
+Actualizado: 2026-09-14 11:09:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.74
@@ -1003,7 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 42% | 5.00 | 2.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 42% | 5.00 | 7.2% | ⏳ pendiente | — |
 | Flaznorp | Will FK Chornomorets Odesa win on 2026-0 | No (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ❌ perdida | -3.80 |
 | ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
