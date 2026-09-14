@@ -133930,8 +133930,8 @@
     "title": "Counter-Strike: Metizport vs Nemiga (BO3) - CCT Europe Series #8 Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 663.7176000000001,
-    "whale_pct": 2.131,
+    "whale_usd": 1624.9679999999998,
+    "whale_pct": 5.218,
     "whale_value_at_open": 31140.4117,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -133942,7 +133942,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789362866.1102943,
-    "fills": 1
+    "last_fill_at": 1789363094.6120067,
+    "fills": 2
   }
 ]
