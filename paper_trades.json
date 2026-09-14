@@ -133104,8 +133104,8 @@
     "title": "Counter-Strike: Team Nemesis vs BET-M 33 (BO3) - CIS LAN Championship Group B",
     "outcome": "BET-M 33",
     "side": "BUY",
-    "whale_usd": 8838.824,
-    "whale_pct": 46.768,
+    "whale_usd": 13444.088,
+    "whale_pct": 71.135,
     "whale_value_at_open": 18899.3922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -133116,8 +133116,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789355665.6374643,
-    "fills": 4
+    "last_fill_at": 1789356568.1077638,
+    "fills": 5
   },
   {
     "timestamp": 1789330487,
