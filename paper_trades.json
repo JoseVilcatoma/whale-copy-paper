@@ -134912,5 +134912,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789412449.7279675,
     "fills": 1
+  },
+  {
+    "timestamp": 1789412629,
+    "timestamp_added": 1789412630.2078826,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "sea-int-udi-2026-09-14-first-half-total-1pt5",
+    "title": "FC Internazionale Milano vs. Udinese Calcio: 1st Half O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1655.4499999999998,
+    "whale_pct": 0.199,
+    "whale_value_at_open": 832694.725,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789412630.2078922,
+    "fills": 1
   }
 ]

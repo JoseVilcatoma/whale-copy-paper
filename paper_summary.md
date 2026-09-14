@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 14:02:23 (hora de Perú)
+Actualizado: 2026-09-14 14:04:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $104.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 14:02:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.71 en 18 posiciones abiertas (disponible para nuevas apuestas: $18.79)
+**Capital comprometido ahora mismo:** $90.71 en 19 posiciones abiertas (disponible para nuevas apuestas: $13.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 111 | 44 | 8 | -15.73 USD |
+| Flaznorp | 111 | 44 | 9 | -15.73 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -1004,6 +1004,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 42% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: PFC Ludogorets 1945 Razgrad (-1. | PFC Ludogorets 1945 Razgrad (BUY) | 87% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1033,4 +1034,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Szczecin: Dali Blanch vs Ivan Gakhov | Ivan Gakhov (BUY) | 94% | 5.00 | 5.8% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Guangzhou: Alexandr Binda vs Kosuke Ogur | Alexandr Binda (BUY) | 54% | 4.14 | 2.9% | ✅ ganada | +3.43 |
-| ferrariChampions2026 | Guangzhou: Thijmen Loof vs Jesse Delaney | Jesse Delaney (BUY) | 57% | 5.00 | 11.2% | ✅ ganada | +3.66 |
