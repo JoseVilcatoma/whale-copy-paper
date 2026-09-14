@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 22:44:11 (hora de Perú)
+Actualizado: 2026-09-13 22:46:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.66
@@ -1031,4 +1031,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 105.2% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ✅ ganada | +3.61 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs BET-M 33 | BET-M 33 (BUY) | 41% | 5.00 | 71.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs BET-M 33 | BET-M 33 (BUY) | 41% | 5.00 | 96.2% | ⏳ pendiente | — |
