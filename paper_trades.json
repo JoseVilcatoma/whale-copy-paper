@@ -133798,5 +133798,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789355143.153422,
     "fills": 1
+  },
+  {
+    "timestamp": 1789355798,
+    "timestamp_added": 1789355798.9318316,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-dal-nyg-2026-09-14",
+    "title": "Cowboys vs. Giants",
+    "outcome": "Giants",
+    "side": "BUY",
+    "whale_usd": 8500.0,
+    "whale_pct": 1.073,
+    "whale_value_at_open": 792085.7289,
+    "paper_stake_usd": 4.45,
+    "odds_at_bet": 87,
+    "fee_usd": 0.029,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789355798.9318419,
+    "fills": 1
   }
 ]
