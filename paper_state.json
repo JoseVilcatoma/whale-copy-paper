@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.98396517527395,
+  "bankroll": 84.1940090728968,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27005,6 +27005,21 @@
       "timestamp": 1789357762.3681715,
       "bankroll": 82.98,
       "event": "won: wr0ngw4yb3tt0r \u2014 Cowboys vs. Giants"
+    },
+    {
+      "timestamp": 1789362855.5659597,
+      "bankroll": 83.9,
+      "event": "won: UpTheBlues \u2014 Will Millonarios FC win on 2026-09-13?"
+    },
+    {
+      "timestamp": 1789362855.8882606,
+      "bankroll": 83.94,
+      "event": "won: UpTheBlues \u2014 Will C\u00facuta Deportivo FC win on 2026-09-13?"
+    },
+    {
+      "timestamp": 1789362856.0262332,
+      "bankroll": 84.19,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Filip Peliwo vs Sam Ryan Ziegann"
     }
   ]
 }
