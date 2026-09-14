@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.6644512179669,
+  "bankroll": 82.98396517527395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26990,6 +26990,21 @@
       "timestamp": 1789356690.6126208,
       "bankroll": 83.66,
       "event": "won: UpTheBlues \u2014 Will Philadelphia Union win on 2026-09-13?"
+    },
+    {
+      "timestamp": 1789357761.8674488,
+      "bankroll": 78.53,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Cowboys vs. Giants"
+    },
+    {
+      "timestamp": 1789357761.9676228,
+      "bankroll": 82.35,
+      "event": "won: ferrariChampions2026 \u2014 Cowboys vs. Giants"
+    },
+    {
+      "timestamp": 1789357762.3681715,
+      "bankroll": 82.98,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Cowboys vs. Giants"
     }
   ]
 }
