@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 16:20:09 (hora de Perú)
+Actualizado: 2026-09-14 16:22:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 16:20:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.45 en 14 posiciones abiertas (disponible para nuevas apuestas: $41.21)
+**Capital comprometido ahora mismo:** $72.45 en 15 posiciones abiertas (disponible para nuevas apuestas: $36.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
-| pleaseplease123 | 31 | 31 | 0 | -19.80 USD |
+| pleaseplease123 | 31 | 31 | 1 | -19.80 USD |
 | Flaznorp | 116 | 47 | 6 | -21.13 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 1 | -23.08 USD |
@@ -1006,6 +1006,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 4.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
 | BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
@@ -1035,4 +1036,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
-| Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ✅ ganada | +6.48 |
