@@ -134556,8 +134556,8 @@
     "title": "Ljubljana: Miriam Bulgaru vs Lina Gjorcheska",
     "outcome": "Miriam Bulgaru",
     "side": "BUY",
-    "whale_usd": 16716.89948,
-    "whale_pct": 9.035,
+    "whale_usd": 24050.232814000003,
+    "whale_pct": 12.998,
     "whale_value_at_open": 185027.9319,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -134568,8 +134568,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789400766.4225998,
-    "fills": 7
+    "last_fill_at": 1789402524.05744,
+    "fills": 8
   },
   {
     "timestamp": 1789395309,
