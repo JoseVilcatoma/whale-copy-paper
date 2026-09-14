@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.09405844127829,
+  "bankroll": 88.83367382589368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27165,6 +27165,11 @@
       "timestamp": 1789404627.924813,
       "bankroll": 89.09,
       "event": "won: ferrariChampions2026 \u2014 Ljubljana: Miriam Bulgaru vs Lina Gjorcheska"
+    },
+    {
+      "timestamp": 1789408018.3607311,
+      "bankroll": 88.83,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: regain vs Marsborne (BO3) - NSTLGA League Playoffs"
     }
   ]
 }
