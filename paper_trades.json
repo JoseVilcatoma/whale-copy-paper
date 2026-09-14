@@ -134314,8 +134314,8 @@
     "title": "Guangzhou: Elias Ymer vs Semen Pankin",
     "outcome": "Semen Pankin",
     "side": "BUY",
-    "whale_usd": 32240.296904000003,
-    "whale_pct": 18.428,
+    "whale_usd": 33147.397652,
+    "whale_pct": 18.947,
     "whale_value_at_open": 174951.2457,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -134326,8 +134326,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789396327.6491542,
-    "fills": 12
+    "last_fill_at": 1789396924.1782627,
+    "fills": 13
   },
   {
     "timestamp": 1789389362,
