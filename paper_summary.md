@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 20:08:52 (hora de Perú)
+Actualizado: 2026-09-13 20:11:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.73
@@ -1002,7 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 7.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
