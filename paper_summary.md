@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:29:46 (hora de Perú)
+Actualizado: 2026-09-14 17:31:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 17:29:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.45 en 18 posiciones abiertas (disponible para nuevas apuestas: $20.67)
+**Capital comprometido ahora mismo:** $97.45 en 20 posiciones abiertas (disponible para nuevas apuestas: $10.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -126,7 +126,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 0 | -7.73 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 1 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 788 | 494 | 3 | -260.10 USD |
+| ferrariChampions2026 | 788 | 494 | 4 | -260.10 USD |
 
 ## Análisis general
 
@@ -1007,6 +1007,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 108.8% | ⏳ pendiente | — |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1035,5 +1037,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 42% | 5.00 | 7.2% | ✅ ganada | +6.76 |
 | Flaznorp | Will FK Chornomorets Odesa win on 2026-0 | No (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ❌ perdida | -3.80 |
-| ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 13.0% | ✅ ganada | +4.50 |
