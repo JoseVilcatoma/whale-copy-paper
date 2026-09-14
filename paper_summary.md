@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 02:00:24 (hora de Perú)
+Actualizado: 2026-09-14 02:02:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.44
@@ -1003,7 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Azuolas (BO | ex-RUSTEC (BUY) | 72% | 5.00 | 4.2% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 57% | 5.00 | 188.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 57% | 5.00 | 340.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Timofei Derepasko vs Taise | Taisei Ichikawa (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 44% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 103.0% | ⏳ pendiente | — |
