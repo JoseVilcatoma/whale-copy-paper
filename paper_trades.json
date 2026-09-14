@@ -134642,5 +134642,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789396864.3883116,
     "fills": 1
+  },
+  {
+    "timestamp": 1789401732,
+    "timestamp_added": 1789401732.7921097,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "sea-com-par-2026-09-14-spread-home-1pt5",
+    "title": "Spread: Como 1907 (-1.5)",
+    "outcome": "Parma Calcio 1913",
+    "side": "BUY",
+    "whale_usd": 3082.167843,
+    "whale_pct": 2.15,
+    "whale_value_at_open": 143356.5673,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789401732.792122,
+    "fills": 1
   }
 ]
