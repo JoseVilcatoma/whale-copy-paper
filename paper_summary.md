@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 19:03:22 (hora de Perú)
+Actualizado: 2026-09-13 19:05:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 19:03:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.73 en 18 posiciones abiertas (disponible para nuevas apuestas: $9.18)
+**Capital comprometido ahora mismo:** $92.73 en 19 posiciones abiertas (disponible para nuevas apuestas: $4.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 771 | 482 | 4 | -249.20 USD |
+| ferrariChampions2026 | 771 | 482 | 5 | -249.20 USD |
 
 ## Análisis general
 
@@ -1000,6 +1000,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | bands1 | Cowboys vs. Giants: O/U 47.5 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
 | bands1 | Cowboys vs. Giants: O/U 48.5 | Under (BUY) | 55% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -1029,4 +1030,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ✅ ganada | +5.08 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ✅ ganada | +1.20 |
-| pleaseplease123 | Colorado Rockies vs. Detroit Tigers: O/U | Over (BUY) | 57% | 5.00 | 3.9% | ✅ ganada | +3.66 |
