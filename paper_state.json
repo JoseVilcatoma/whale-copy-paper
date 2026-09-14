@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.18512133924948,
+  "bankroll": 93.94312133924947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26940,6 +26940,16 @@
       "timestamp": 1789344409.3882763,
       "bankroll": 94.19,
       "event": "won: xifutloong3 \u2014 Kansas City Royals vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1789346928.4274929,
+      "bankroll": 89.07,
+      "event": "lost: pleaseplease123 \u2014 San Diego Padres vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1789346929.608798,
+      "bankroll": 93.94,
+      "event": "won: wr0ngw4yb3tt0r \u2014 San Diego Padres vs. San Francisco Giants: O/U 7.5"
     }
   ]
 }
