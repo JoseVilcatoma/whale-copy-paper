@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.93792516981046,
+  "bankroll": 83.3095014409969,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27065,6 +27065,11 @@
       "timestamp": 1789381652.3091638,
       "bankroll": 79.94,
       "event": "won: ferrariChampions2026 \u2014 Biella: Juan Cruz Martin Manzano vs Gerard Campana Lee"
+    },
+    {
+      "timestamp": 1789386994.2112415,
+      "bankroll": 83.31,
+      "event": "won: ferrariChampions2026 \u2014 Biella: Giuseppe La Vela vs Federico Iannaccone"
     }
   ]
 }
