@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.22542746169844,
+  "bankroll": 88.73894616746185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26970,6 +26970,16 @@
       "timestamp": 1789353296.333667,
       "bankroll": 82.23,
       "event": "lost: ferrariChampions2026 \u2014 Tiburon: Andrew Fenty vs Ryan Seggerman"
+    },
+    {
+      "timestamp": 1789353926.6077332,
+      "bankroll": 87.96,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. San Francisco Giants: O/U 10.5"
+    },
+    {
+      "timestamp": 1789353926.9402828,
+      "bankroll": 88.74,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. San Francisco Giants"
     }
   ]
 }
