@@ -134328,5 +134328,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789389317.8923078,
     "fills": 3
+  },
+  {
+    "timestamp": 1789389362,
+    "timestamp_added": 1789389362.8693614,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sinclai-xiao-2026-09-14",
+    "title": "Guangzhou: Colin Sinclair vs Linang Xiao",
+    "outcome": "Linang Xiao",
+    "side": "BUY",
+    "whale_usd": 4600.543045,
+    "whale_pct": 2.537,
+    "whale_value_at_open": 181323.3125,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789389363.3220487,
+    "fills": 2
   }
 ]
