@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:21:40 (hora de Perú)
+Actualizado: 2026-09-14 17:23:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 17:21:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.45 en 16 posiciones abiertas (disponible para nuevas apuestas: $30.67)
+**Capital comprometido ahora mismo:** $87.45 en 18 posiciones abiertas (disponible para nuevas apuestas: $20.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 105 | 69 | 3 | +63.96 USD |
+| wr0ngw4yb3tt0r | 105 | 69 | 4 | +63.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -143,7 +143,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
-| pleaseplease123 | 31 | 31 | 1 | -19.80 USD |
+| pleaseplease123 | 31 | 31 | 2 | -19.80 USD |
 | Flaznorp | 117 | 48 | 4 | -21.66 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 2 | -23.08 USD |
@@ -1001,11 +1001,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sea-com-par-2026-09-14-spread-home-1pt5 | Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | epl-lee-new-2026-09-14-lee | Flaznorp, wr0ngw4yb3tt0r |
 | nfl-den-kc-2026-09-15 | BreakTheBank, wr0ngw4yb3tt0r |
+| mlb-sea-laa-2026-09-14 | pleaseplease123, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1034,5 +1037,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ❌ perdida | -3.80 |
 | ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 13.0% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
-| Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ✅ ganada | +1.69 |
