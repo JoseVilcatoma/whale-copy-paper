@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:11:23 (hora de Perú)
+Actualizado: 2026-09-14 17:13:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 17:11:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.45 en 15 posiciones abiertas (disponible para nuevas apuestas: $35.67)
+**Capital comprometido ahora mismo:** $77.45 en 16 posiciones abiertas (disponible para nuevas apuestas: $30.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 31 | 31 | 1 | -19.80 USD |
 | Flaznorp | 117 | 48 | 4 | -21.66 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| Talvez10 | 18 | 19 | 1 | -23.08 USD |
+| Talvez10 | 18 | 19 | 2 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1006,8 +1006,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 8.6% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
@@ -1035,4 +1036,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 13.0% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
 | Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ✅ ganada | +1.69 |
-| SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |

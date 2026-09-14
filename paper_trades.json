@@ -135164,8 +135164,8 @@
     "title": "Broncos Team Total: O/U 20.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 615.57,
-    "whale_pct": 0.165,
+    "whale_usd": 1547.3400000000001,
+    "whale_pct": 0.415,
     "whale_value_at_open": 372980.0381,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -135176,8 +135176,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789423315.6422348,
-    "fills": 1
+    "last_fill_at": 1789423974.6887531,
+    "fills": 2
   },
   {
     "timestamp": 1789423326,
@@ -135202,5 +135202,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789423327.4702334,
     "fills": 2
+  },
+  {
+    "timestamp": 1789423889,
+    "timestamp_added": 1789423890.1249006,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-sf-stl-2026-09-14-total-8pt5",
+    "title": "San Francisco Giants vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 548.5500000000001,
+    "whale_pct": 0.371,
+    "whale_value_at_open": 147768.8054,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789423890.124911,
+    "fills": 1
   }
 ]
