@@ -135042,8 +135042,8 @@
     "title": "Villarreal CF vs. Real Betis Balompi\u00e9: 1st Half O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5458.18,
-    "whale_pct": 0.557,
+    "whale_usd": 7805.820000000001,
+    "whale_pct": 0.796,
     "whale_value_at_open": 980058.8481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -135054,7 +135054,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789414430.0075548,
-    "fills": 2
+    "last_fill_at": 1789414674.2456706,
+    "fills": 3
   }
 ]
