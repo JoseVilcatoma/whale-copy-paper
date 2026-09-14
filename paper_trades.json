@@ -134717,5 +134717,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789404648.8502915,
     "fills": 1
+  },
+  {
+    "timestamp": 1789404796,
+    "timestamp_added": 1789404796.8303728,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sea-int-udi-2026-09-14-total-3pt5",
+    "title": "FC Internazionale Milano vs. Udinese Calcio: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 575.0121,
+    "whale_pct": 0.345,
+    "whale_value_at_open": 166675.8627,
+    "paper_stake_usd": 4.35,
+    "odds_at_bet": 48,
+    "fee_usd": 0.113,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789404796.830384,
+    "fills": 1
   }
 ]
