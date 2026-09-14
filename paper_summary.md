@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:31:48 (hora de Perú)
+Actualizado: 2026-09-14 17:33:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 17:31:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $97.45 en 20 posiciones abiertas (disponible para nuevas apuestas: $10.67)
+**Capital comprometido ahora mismo:** $107.45 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | pleaseplease123 | 31 | 31 | 2 | -19.80 USD |
-| Flaznorp | 117 | 48 | 4 | -21.66 USD |
+| Flaznorp | 117 | 48 | 6 | -21.66 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 2 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -1007,6 +1007,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 108.8% | ⏳ pendiente | — |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ⏳ pendiente | — |
@@ -1035,5 +1037,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-2.5) | Parma Calcio 1913 (BUY) | 66% | 4.18 | 0.3% | ✅ ganada | +2.08 |
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 42% | 5.00 | 7.2% | ✅ ganada | +6.76 |
-| Flaznorp | Will FK Chornomorets Odesa win on 2026-0 | No (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
-| Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ❌ perdida | -3.80 |
