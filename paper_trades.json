@@ -134171,8 +134171,8 @@
     "title": "Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend",
     "outcome": "Taylor Townsend",
     "side": "BUY",
-    "whale_usd": 9554.922499,
-    "whale_pct": 7.495,
+    "whale_usd": 16865.184199,
+    "whale_pct": 13.23,
     "whale_value_at_open": 127475.9049,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -134183,8 +134183,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789403833.4105659,
-    "fills": 2
+    "last_fill_at": 1789425678.7333872,
+    "fills": 3
   },
   {
     "timestamp": 1789387220,
@@ -134977,8 +134977,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -135371,6 +135371,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789425175.3207138,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789425692,
+    "timestamp_added": 1789425693.087183,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-laa-2026-09-14-total-7pt5",
+    "title": "Seattle Mariners vs. Los Angeles Angels: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 11423.87,
+    "whale_pct": 2.905,
+    "whale_value_at_open": 393196.9467,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789425693.0871928,
     "fills": 1
   }
 ]
