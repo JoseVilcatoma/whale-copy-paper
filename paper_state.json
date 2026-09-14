@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.62219252851892,
+  "bankroll": 102.21588778517909,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27115,6 +27115,16 @@
       "timestamp": 1789392292.1327984,
       "bankroll": 97.62,
       "event": "won: ferrariChampions2026 \u2014 Guangzhou: Thijmen Loof vs Jesse Delaney"
+    },
+    {
+      "timestamp": 1789394813.8714085,
+      "bankroll": 101.29,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs"
+    },
+    {
+      "timestamp": 1789394815.9474537,
+      "bankroll": 102.22,
+      "event": "won: ferrariChampions2026 \u2014 Szczecin: Robert Strombachs vs Santiago Rodriguez Taverna"
     }
   ]
 }
