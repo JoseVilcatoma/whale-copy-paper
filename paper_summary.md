@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 16:09:47 (hora de Perú)
+Actualizado: 2026-09-14 16:11:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $112.25
-**Retorno acumulado:** -77.55%
+**Bankroll actual:** $102.03
+**Retorno acumulado:** -79.59%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 16:09:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.24 en 21 posiciones abiertas (disponible para nuevas apuestas: $11.01)
+**Capital comprometido ahora mismo:** $91.24 en 19 posiciones abiertas (disponible para nuevas apuestas: $10.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,13 +138,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 113 | 44 | 12 | -15.63 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | pleaseplease123 | 31 | 31 | 0 | -19.80 USD |
+| Flaznorp | 113 | 45 | 11 | -20.71 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 0 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -155,18 +155,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 788 | 493 | 4 | -254.96 USD |
+| ferrariChampions2026 | 788 | 494 | 3 | -260.10 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5233
+- **Apuestas resueltas:** 5235
 - **Aciertos:** 3271 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,082.70
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $488.06 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,092.70
+- **ROI sobre lo apostado:** -2.00%
+- **Comisiones pagadas (taker fee):** $488.28 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -174,8 +174,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2731 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1539 | 68.2% | 67.8% | +0.4 pp |
+| 40-59% | 2732 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1540 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 275 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1016,13 +1016,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | Flaznorp | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 42% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Spread: PFC Ludogorets 1945 Razgrad (-1. | PFC Ludogorets 1945 Razgrad (BUY) | 87% | 5.00 | 0.1% | ⏳ pendiente | — |
-| Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ❌ perdida | -5.08 |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 3.8% | ❌ perdida | -3.99 |
 | ferrariChampions2026 | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 48% | 4.35 | 0.3% | ✅ ganada | +4.60 |
-| ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ❌ perdida | -5.14 |
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-2.5) | Parma Calcio 1913 (BUY) | 66% | 4.18 | 0.3% | ✅ ganada | +2.08 |
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 42% | 5.00 | 7.2% | ✅ ganada | +6.76 |
 | Flaznorp | Will FK Chornomorets Odesa win on 2026-0 | No (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |

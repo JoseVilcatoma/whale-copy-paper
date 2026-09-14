@@ -1,5 +1,5 @@
 {
-  "bankroll": 112.25227778993242,
+  "bankroll": 102.03227778993242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27230,6 +27230,16 @@
       "timestamp": 1789419682.4241254,
       "bankroll": 112.25,
       "event": "won: Flaznorp \u2014 FC Internazionale Milano vs. Udinese Calcio: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1789420308.058593,
+      "bankroll": 107.11,
+      "event": "lost: ferrariChampions2026 \u2014 Leeds United FC vs. Newcastle United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789420308.7291088,
+      "bankroll": 102.03,
+      "event": "lost: Flaznorp \u2014 Leeds United FC vs. Newcastle United FC: O/U 3.5"
     }
   ]
 }
