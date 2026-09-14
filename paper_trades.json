@@ -134040,5 +134040,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789368277.4109983,
     "fills": 1
+  },
+  {
+    "timestamp": 1789376154,
+    "timestamp_added": 1789376155.0901604,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-tor-2026-09-14",
+    "title": "Detroit Tigers vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 1362.1608,
+    "whale_pct": 1.436,
+    "whale_value_at_open": 94831.1197,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789376155.0901787,
+    "fills": 1
   }
 ]
