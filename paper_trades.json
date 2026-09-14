@@ -134232,5 +134232,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789387544.7700124,
     "fills": 2
+  },
+  {
+    "timestamp": 1789387867,
+    "timestamp_added": 1789387868.1580396,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-mazzol2-zeltin1-2026-09-14",
+    "title": "W50 Pazardzhik: Alessandra Mazzola vs Beatrise Zeltina",
+    "outcome": "Alessandra Mazzola",
+    "side": "BUY",
+    "whale_usd": 1023.0600000000001,
+    "whale_pct": 0.586,
+    "whale_value_at_open": 174722.7635,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789387871.513982,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:09:13 (hora de Perú)
+Actualizado: 2026-09-14 07:11:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 07:09:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.31 en 15 posiciones abiertas (disponible para nuevas apuestas: $13.94)
+**Capital comprometido ahora mismo:** $78.31 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 778 | 487 | 8 | -258.91 USD |
+| ferrariChampions2026 | 778 | 487 | 9 | -258.91 USD |
 
 ## Análisis general
 
@@ -1002,6 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Alexandr Binda vs Kosuke Ogur | Alexandr Binda (BUY) | 54% | 4.14 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Thijmen Loof vs Jesse Delaney | Jesse Delaney (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guadalajara Open Akron: Tatjana Maria vs | Taylor Townsend (BUY) | 72% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | bands1 | Cowboys vs. Giants: O/U 47.5 | Under (BUY) | 50% | 5.00 | 21.0% | ❌ perdida | -5.12 |
-| bands1 | Cowboys vs. Giants: O/U 48.5 | Under (BUY) | 55% | 5.00 | 2.9% | ✅ ganada | +3.98 |
