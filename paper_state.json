@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.84467382589368,
+  "bankroll": 109.6286457377028,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27175,6 +27175,31 @@
       "timestamp": 1789409277.1776373,
       "bankroll": 84.84,
       "event": "lost: Flaznorp \u2014 Will Smouha SC win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789411473.448933,
+      "bankroll": 91.07,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Como 1907 (-1.5)"
+    },
+    {
+      "timestamp": 1789411474.093017,
+      "bankroll": 94.3,
+      "event": "won: ferrariChampions2026 \u2014 Como 1907 vs. Parma Calcio 1913: O/U 2.5"
+    },
+    {
+      "timestamp": 1789411474.792159,
+      "bankroll": 100.79,
+      "event": "won: Flaznorp \u2014 Spread: Como 1907 (-1.5)"
+    },
+    {
+      "timestamp": 1789411475.7135696,
+      "bankroll": 107.55,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Como 1907 (-1.5)"
+    },
+    {
+      "timestamp": 1789411476.025764,
+      "bankroll": 109.63,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Como 1907 (-2.5)"
     }
   ]
 }
