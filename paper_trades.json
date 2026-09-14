@@ -134994,8 +134994,8 @@
     "title": "Will Villarreal CF win on 2026-09-14?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5714.9619,
-    "whale_pct": 0.667,
+    "whale_usd": 9082.275300000001,
+    "whale_pct": 1.06,
     "whale_value_at_open": 856459.5085,
     "paper_stake_usd": 3.79,
     "odds_at_bet": 48,
@@ -135006,8 +135006,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789414323.8040094,
-    "fills": 3
+    "last_fill_at": 1789414468.1324232,
+    "fills": 4
   },
   {
     "timestamp": 1789414273,
@@ -135042,8 +135042,8 @@
     "title": "Villarreal CF vs. Real Betis Balompi\u00e9: 1st Half O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2051.6000000000004,
-    "whale_pct": 0.209,
+    "whale_usd": 5458.18,
+    "whale_pct": 0.557,
     "whale_value_at_open": 980058.8481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -135054,7 +135054,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789414317.1305702,
-    "fills": 1
+    "last_fill_at": 1789414430.0075548,
+    "fills": 2
   }
 ]
