@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:52:03 (hora de Perú)
+Actualizado: 2026-09-14 07:54:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 07:52:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.52 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.31)
+**Capital comprometido ahora mismo:** $91.52 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Flaznorp | 110 | 41 | 1 | -9.29 USD |
+| Flaznorp | 110 | 41 | 2 | -9.29 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -1002,7 +1002,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 3.1% | ⏳ pendiente | — |
+| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 13.9% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 18.9% | ✅ ganada | +3.82 |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ❌ perdida | -5.13 |
