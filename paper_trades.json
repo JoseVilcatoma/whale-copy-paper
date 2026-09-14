@@ -134742,5 +134742,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789404796.830384,
     "fills": 1
+  },
+  {
+    "timestamp": 1789408288,
+    "timestamp_added": 1789408288.3443055,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andree-hruncak-2026-09-14",
+    "title": "Caldas da Rainha: Erika Andreeva vs Viktoria Hruncakova",
+    "outcome": "Erika Andreeva",
+    "side": "BUY",
+    "whale_usd": 2789.7883999999995,
+    "whale_pct": 1.422,
+    "whale_value_at_open": 196190.4144,
+    "paper_stake_usd": 3.91,
+    "odds_at_bet": 59,
+    "fee_usd": 0.08,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789408293.6779497,
+    "fills": 2
   }
 ]
