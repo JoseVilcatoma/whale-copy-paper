@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.74167382589368,
+  "bankroll": 84.59867382589368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27155,6 +27155,11 @@
       "timestamp": 1789401615.0904408,
       "bankroll": 89.74,
       "event": "won: ferrariChampions2026 \u2014 Guangzhou: Kaichi Uchida vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1789403625.3125117,
+      "bankroll": 84.6,
+      "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Colin Sinclair vs Linang Xiao"
     }
   ]
 }
