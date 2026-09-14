@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.73894616746185,
+  "bankroll": 83.61694616746185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26980,6 +26980,11 @@
       "timestamp": 1789353926.9402828,
       "bankroll": 88.74,
       "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1789354052.1425679,
+      "bankroll": 83.62,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: San Diego Padres (-3.5)"
     }
   ]
 }
