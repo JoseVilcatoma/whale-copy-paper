@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 10:10:16 (hora de Perú)
+Actualizado: 2026-09-14 10:12:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.12
@@ -1013,7 +1013,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 18.9% | ⏳ pendiente | — |
