@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:29:43 (hora de Perú)
+Actualizado: 2026-09-14 07:31:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 07:29:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.25 en 16 posiciones abiertas (disponible para nuevas apuestas: $14.27)
+**Capital comprometido ahora mismo:** $82.25 en 17 posiciones abiertas (disponible para nuevas apuestas: $9.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 778 | 487 | 10 | -258.91 USD |
+| ferrariChampions2026 | 778 | 487 | 11 | -258.91 USD |
 
 ## Análisis general
 
@@ -1002,6 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Dali Blanch vs Ivan Gakhov | Ivan Gakhov (BUY) | 94% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
-| ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ✅ ganada | +5.73 |
