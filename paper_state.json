@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.30697168143836,
+  "bankroll": 79.15897168143836,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27055,6 +27055,11 @@
       "timestamp": 1789370965.9930692,
       "bankroll": 84.31,
       "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 4: Timofei Derepasko vs Taisei Ichikawa"
+    },
+    {
+      "timestamp": 1789380958.0952194,
+      "bankroll": 79.16,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Nemesis vs BET-M 33 (BO3) - CIS LAN Championship Group B"
     }
   ]
 }
