@@ -135140,8 +135140,8 @@
     "title": "Atlanta Braves vs. Chicago Cubs: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 14602.661181,
-    "whale_pct": 10.164,
+    "whale_usd": 57120.669181000005,
+    "whale_pct": 39.757,
     "whale_value_at_open": 143674.0124,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -135152,8 +135152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789428831.5648618,
-    "fills": 9
+    "last_fill_at": 1789429069.2288947,
+    "fills": 10
   },
   {
     "timestamp": 1789423315,

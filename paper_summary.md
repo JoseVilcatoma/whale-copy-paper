@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 18:36:33 (hora de Perú)
+Actualizado: 2026-09-14 18:38:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $103.37
@@ -1017,7 +1017,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 10.2% | ⏳ pendiente | — |
+| pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 39.8% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
 | BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
