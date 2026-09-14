@@ -133858,8 +133858,8 @@
     "title": "Phan Thiet 4: Rodrigo Pacheco vs Sergio Callejon",
     "outcome": "Rodrigo Pacheco",
     "side": "BUY",
-    "whale_usd": 19708.345499999996,
-    "whale_pct": 19.637,
+    "whale_usd": 20720.011599999994,
+    "whale_pct": 20.645,
     "whale_value_at_open": 100361.2869,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -133870,8 +133870,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789361756.4744756,
-    "fills": 5
+    "last_fill_at": 1789366954.3838968,
+    "fills": 6
   },
   {
     "timestamp": 1789361060,
