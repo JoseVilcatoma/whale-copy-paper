@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 19:07:26 (hora de Perú)
+Actualizado: 2026-09-13 19:09:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 19:07:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.73 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.46)
+**Capital comprometido ahora mismo:** $92.73 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 771 | 483 | 5 | -254.30 USD |
+| ferrariChampions2026 | 771 | 483 | 6 | -254.30 USD |
 
 ## Análisis general
 
@@ -995,11 +995,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-m80-lg6-2026-09-13 | 0x29b52d98ac9ef9414b04164246c95BC63d7, BrotherObama, mmklop |
 | mlb-sd-sf-2026-09-13-total-7pt5 | pleaseplease123, wr0ngw4yb3tt0r |
 | nfl-ari-lac-2026-09-13 | TAIWANNUMBERONE, wr0ngw4yb3tt0r |
+| nfl-dal-nyg-2026-09-14-spread-away-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1013,7 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ✅ ganada | +4.06 |
 | TAIWANNUMBERONE | Spread: Chargers (-1.5) | Cardinals (BUY) | 51% | 5.00 | 6.8% | ✅ ganada | +4.68 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 2.9% | ❌ perdida | -5.02 |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 3.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Raiders (-14.5) | Raiders (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ⏳ pendiente | — |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ⏳ pendiente | — |
@@ -1029,4 +1031,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ✅ ganada | +0.84 |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ❌ perdida | -5.12 |
-| wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ✅ ganada | +5.08 |
