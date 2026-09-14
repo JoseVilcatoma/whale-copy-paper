@@ -1,5 +1,5 @@
 {
-  "bankroll": 109.6286457377028,
+  "bankroll": 104.5006457377028,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27200,6 +27200,11 @@
       "timestamp": 1789411476.025764,
       "bankroll": 109.63,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Como 1907 (-2.5)"
+    },
+    {
+      "timestamp": 1789412374.1161048,
+      "bankroll": 104.5,
+      "event": "lost: Flaznorp \u2014 FC Inter Turku vs. Vaasan Palloseura: O/U 2.5"
     }
   ]
 }

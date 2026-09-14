@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 13:58:18 (hora de Perú)
+Actualizado: 2026-09-14 14:00:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $109.63
-**Retorno acumulado:** -78.07%
+**Bankroll actual:** $104.50
+**Retorno acumulado:** -79.10%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 13:58:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.71 en 15 posiciones abiertas (disponible para nuevas apuestas: $38.92)
+**Capital comprometido ahora mismo:** $80.71 en 17 posiciones abiertas (disponible para nuevas apuestas: $23.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -133,11 +133,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 111 | 43 | 5 | -10.60 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| Flaznorp | 111 | 44 | 7 | -15.73 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5227
+- **Apuestas resueltas:** 5228
 - **Aciertos:** 3267 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,054.44
-- **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $487.58 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,059.44
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $487.71 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2727 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2728 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1539 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -1003,6 +1003,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: PFC Ludogorets 1945 Razgrad (-1. | PFC Ludogorets 1945 Razgrad (BUY) | 87% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 3.8% | ⏳ pendiente | — |
@@ -1015,12 +1018,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 13.0% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
-| Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ✅ ganada | +6.48 |
-| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 18.9% | ❌ perdida | -5.09 |
@@ -1030,6 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Guangzhou: Alexandr Binda vs Kosuke Ogur | Alexandr Binda (BUY) | 54% | 4.14 | 2.9% | ✅ ganada | +3.43 |
 | ferrariChampions2026 | Guangzhou: Thijmen Loof vs Jesse Delaney | Jesse Delaney (BUY) | 57% | 5.00 | 11.2% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Guadalajara Open Akron: Tatjana Maria vs | Taylor Townsend (BUY) | 72% | 5.00 | 7.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga - Ma | Nemiga (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Biella: Juan Cruz Martin Manzano vs Gera | Gerard Campana Lee (BUY) | 86% | 5.00 | 1.2% | ✅ ganada | +0.78 |
-| ferrariChampions2026 | Biella: Giuseppe La Vela vs Federico Ian | Giuseppe La Vela (BUY) | 59% | 5.00 | 5.4% | ✅ ganada | +3.37 |
