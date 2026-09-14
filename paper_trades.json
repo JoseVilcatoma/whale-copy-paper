@@ -134194,8 +134194,8 @@
     "title": "Guangzhou: Thijmen Loof vs Jesse Delaney",
     "outcome": "Jesse Delaney",
     "side": "BUY",
-    "whale_usd": 4111.465424,
-    "whale_pct": 2.555,
+    "whale_usd": 18072.580413,
+    "whale_pct": 11.232,
     "whale_value_at_open": 160897.0555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -134206,8 +134206,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789387363.5817997,
-    "fills": 2
+    "last_fill_at": 1789388348.7416503,
+    "fills": 5
   },
   {
     "timestamp": 1789387544,
