@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.65942345317565,
+  "bankroll": 113.15480806856026,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27270,6 +27270,11 @@
       "timestamp": 1789420622.7671108,
       "bankroll": 108.66,
       "event": "won: Flaznorp \u2014 Villarreal CF vs. Real Betis Balompi\u00e9: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1789421244.622058,
+      "bankroll": 113.15,
+      "event": "won: Flaznorp \u2014 Guadalajara Open Akron: Elvina Kalieva vs Kayla Day"
     }
   ]
 }
