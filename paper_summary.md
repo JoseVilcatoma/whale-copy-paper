@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 16:01:29 (hora de Perú)
+Actualizado: 2026-09-14 16:03:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $112.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 16:01:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.24 en 19 posiciones abiertas (disponible para nuevas apuestas: $21.01)
+**Capital comprometido ahora mismo:** $101.24 en 21 posiciones abiertas (disponible para nuevas apuestas: $11.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 104 | 69 | 1 | +56.91 USD |
+| wr0ngw4yb3tt0r | 104 | 69 | 2 | +56.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| BreakTheBank | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -999,11 +1000,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-dal-nyg-2026-09-14 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sea-com-par-2026-09-14-spread-home-1pt5 | Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | epl-lee-new-2026-09-14-lee | Flaznorp, wr0ngw4yb3tt0r |
+| nfl-den-kc-2026-09-15 | BreakTheBank, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 122.7% | ⏳ pendiente | — |
+| BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
 | Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 1.2% | ⏳ pendiente | — |
@@ -1032,5 +1036,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ✅ ganada | +6.48 |
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
-| ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ❌ perdida | -5.14 |
