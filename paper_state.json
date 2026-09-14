@@ -1,5 +1,5 @@
 {
-  "bankroll": 104.5006457377028,
+  "bankroll": 100.5106457377028,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27205,6 +27205,11 @@
       "timestamp": 1789412374.1161048,
       "bankroll": 104.5,
       "event": "lost: Flaznorp \u2014 FC Inter Turku vs. Vaasan Palloseura: O/U 2.5"
+    },
+    {
+      "timestamp": 1789413320.7832336,
+      "bankroll": 100.51,
+      "event": "lost: ferrariChampions2026 \u2014 Caldas da Rainha: Erika Andreeva vs Viktoria Hruncakova"
     }
   ]
 }
