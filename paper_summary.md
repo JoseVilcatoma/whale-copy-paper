@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 04:42:32 (hora de Perú)
+Actualizado: 2026-09-14 04:44:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 04:42:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $5.14)
+**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 7 | -13.74 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 8 | -13.74 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -1002,6 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga - Ma | Nemiga (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Juan Cruz Martin Manzano vs Gera | Gerard Campana Lee (BUY) | 86% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Giuseppe La Vela vs Federico Ian | Giuseppe La Vela (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como 1907 vs. Parma Calcio 1913: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Cowboys (-3.5) | Giants (BUY) | 54% | 5.00 | 1.7% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 51% | 5.00 | 1.3% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Cardinals vs. Chargers | Cardinals (BUY) | 45% | 5.00 | 3.2% | ✅ ganada | +5.97 |
-| wr0ngw4yb3tt0r | San Diego Padres vs. San Francisco Giant | Over (BUY) | 50% | 5.00 | 0.1% | ✅ ganada | +4.88 |

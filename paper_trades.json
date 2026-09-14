@@ -134136,5 +134136,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789378569.9686427,
     "fills": 1
+  },
+  {
+    "timestamp": 1789379060,
+    "timestamp_added": 1789379060.9629972,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-mzp-nemi1-2026-09-14-game2",
+    "title": "Counter-Strike: Metizport vs Nemiga - Map 2 Winner",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 663.0,
+    "whale_pct": 1.348,
+    "whale_value_at_open": 49173.963,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789379060.963007,
+    "fills": 1
   }
 ]
