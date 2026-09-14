@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 09:17:13 (hora de Perú)
+Actualizado: 2026-09-14 09:19:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 09:17:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.49 en 21 posiciones abiertas (disponible para nuevas apuestas: $3.73)
+**Capital comprometido ahora mismo:** $102.22 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Flaznorp | 110 | 41 | 5 | -9.29 USD |
+| Flaznorp | 110 | 41 | 6 | -9.29 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -1003,6 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ⏳ pendiente | — |
@@ -1032,4 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 44% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 103.0% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Phan Thiet 4: Moerani Bouzige vs Kenta M | Kenta Miyoshi (BUY) | 76% | 3.81 | 6.4% | ✅ ganada | +1.16 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 22.4% | ✅ ganada | +2.07 |
