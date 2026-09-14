@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 19:05:23 (hora de Perú)
+Actualizado: 2026-09-13 19:07:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $96.91
-**Retorno acumulado:** -80.62%
+**Bankroll actual:** $94.19
+**Retorno acumulado:** -81.16%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 19:05:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.73 en 19 posiciones abiertas (disponible para nuevas apuestas: $4.18)
+**Capital comprometido ahora mismo:** $87.73 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| xifutloong3 | 1 | 0 | 0 | +2.38 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -86,7 +87,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| xifutloong3 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 771 | 482 | 5 | -249.20 USD |
+| ferrariChampions2026 | 771 | 483 | 5 | -254.30 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5174
-- **Aciertos:** 3232 (62.5%)
+- **Apuestas resueltas:** 5176
+- **Aciertos:** 3233 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,799.57
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $482.76 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,809.57
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $482.94 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,8 +173,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2697 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1526 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2698 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1527 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 681 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1000,6 +1000,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | bands1 | Cowboys vs. Giants: O/U 47.5 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
@@ -1012,11 +1013,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ✅ ganada | +4.06 |
 | TAIWANNUMBERONE | Spread: Chargers (-1.5) | Cardinals (BUY) | 51% | 5.00 | 6.8% | ✅ ganada | +4.68 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 2.9% | ❌ perdida | -5.02 |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 3.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 3.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Raiders (-14.5) | Raiders (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ⏳ pendiente | — |
 | theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ⏳ pendiente | — |
-| xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ⏳ pendiente | — |
+| xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ✅ ganada | +2.38 |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 105.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ⏳ pendiente | — |
@@ -1029,4 +1030,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Saints vs. Lions | Lions (BUY) | 85% | 5.00 | 10.6% | ✅ ganada | +0.84 |
 | theowalcott | Will CF Universidad de Chile win on 2026 | No (BUY) | 52% | 5.00 | 4.3% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Spread: Bills (-1.5) | Bills (BUY) | 49% | 5.00 | 10.2% | ✅ ganada | +5.08 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Misa Esport | ex-RUSTEC (BUY) | 79% | 4.68 | 6.9% | ✅ ganada | +1.20 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.9074347720853,
+  "bankroll": 94.18512133924948,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26930,6 +26930,16 @@
       "timestamp": 1789344094.4326055,
       "bankroll": 96.91,
       "event": "won: wr0ngw4yb3tt0r \u2014 Commanders vs. Eagles"
+    },
+    {
+      "timestamp": 1789344407.6382205,
+      "bankroll": 91.8,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1789344409.3882763,
+      "bankroll": 94.19,
+      "event": "won: xifutloong3 \u2014 Kansas City Royals vs. Boston Red Sox"
     }
   ]
 }
