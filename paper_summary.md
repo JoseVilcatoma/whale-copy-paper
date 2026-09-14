@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 14:29:04 (hora de Perú)
+Actualizado: 2026-09-14 14:31:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $100.51
-**Retorno acumulado:** -79.90%
+**Bankroll actual:** $107.56
+**Retorno acumulado:** -78.49%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 14:29:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.59 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $100.59 en 21 posiciones abiertas (disponible para nuevas apuestas: $6.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -124,7 +125,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 103 | 66 | 1 | -7.12 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 0 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 111 | 44 | 12 | -15.73 USD |
+| Flaznorp | 111 | 44 | 13 | -15.73 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5229
-- **Aciertos:** 3267 (62.5%)
+- **Apuestas resueltas:** 5230
+- **Aciertos:** 3268 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,063.35
-- **ROI sobre lo apostado:** -2.01%
-- **Comisiones pagadas (taker fee):** $487.79 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,068.35
+- **ROI sobre lo apostado:** -1.98%
+- **Comisiones pagadas (taker fee):** $487.94 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2729 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2730 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1539 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -1004,6 +1004,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Sligo Rovers FC (-1.5) | Galway United FC (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Elvina Kalieva v | Kayla Day (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1033,4 +1034,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 18.9% | ❌ perdida | -5.09 |
-| Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ❌ perdida | -3.99 |
