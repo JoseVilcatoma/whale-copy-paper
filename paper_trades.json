@@ -134984,5 +134984,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789412786.0431056,
     "fills": 1
+  },
+  {
+    "timestamp": 1789412936,
+    "timestamp_added": 1789412937.5782974,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-vil-bet-2026-09-14-vil",
+    "title": "Will Villarreal CF win on 2026-09-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2303.0,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 856459.5085,
+    "paper_stake_usd": 3.79,
+    "odds_at_bet": 48,
+    "fee_usd": 0.099,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789412937.578308,
+    "fills": 1
   }
 ]
