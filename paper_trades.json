@@ -133954,8 +133954,8 @@
     "title": "Spread: Como 1907 (-1.5)",
     "outcome": "Parma Calcio 1913",
     "side": "BUY",
-    "whale_usd": 1948.9018999999998,
-    "whale_pct": 2.115,
+    "whale_usd": 3238.3732999999997,
+    "whale_pct": 3.515,
     "whale_value_at_open": 92132.2945,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -133966,8 +133966,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789363195.4741964,
-    "fills": 1
+    "last_fill_at": 1789403202.7290983,
+    "fills": 2
   },
   {
     "timestamp": 1789364592,
