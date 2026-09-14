@@ -134776,8 +134776,8 @@
     "title": "Will Leeds United FC win on 2026-09-14?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1350.9360000000001,
-    "whale_pct": 0.705,
+    "whale_usd": 2190.936,
+    "whale_pct": 1.144,
     "whale_value_at_open": 191596.7455,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -134788,7 +134788,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789411588.442368,
-    "fills": 1
+    "last_fill_at": 1789411786.1947875,
+    "fills": 2
   }
 ]
