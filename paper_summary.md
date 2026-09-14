@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 23:47:55 (hora de Perú)
+Actualizado: 2026-09-13 23:50:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.98
@@ -1003,7 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Rodrigo Pacheco vs Sergio  | Rodrigo Pacheco (BUY) | 83% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Rodrigo Pacheco vs Sergio  | Rodrigo Pacheco (BUY) | 83% | 5.00 | 17.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Sam Ryan Z | Filip Peliwo (BUY) | 95% | 5.00 | 9.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants (BUY) | 87% | 4.45 | 7.0% | ✅ ganada | +0.64 |
 | UpTheBlues | Will Cúcuta Deportivo FC win on 2026-09- | No (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
