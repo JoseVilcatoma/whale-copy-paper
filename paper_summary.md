@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:41:59 (hora de Perú)
+Actualizado: 2026-09-14 17:44:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.48
@@ -1007,7 +1007,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 2.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 3.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
