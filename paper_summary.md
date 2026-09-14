@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 19:58:25 (hora de Perú)
+Actualizado: 2026-09-13 20:00:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $93.94
-**Retorno acumulado:** -81.21%
+**Bankroll actual:** $83.73
+**Retorno acumulado:** -83.25%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 19:58:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.73 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.21)
+**Capital comprometido ahora mismo:** $82.73 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
-| theowalcott | 8 | 5 | 2 | +9.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -90,6 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
+| theowalcott | 8 | 7 | 0 | -0.73 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | TAIWANNUMBERONE | 37 | 26 | 0 | -1.30 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5178
-- **Aciertos:** 3234 (62.5%)
+- **Apuestas resueltas:** 5180
+- **Aciertos:** 3234 (62.4%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,819.57
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $483.18 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,829.57
+- **ROI sobre lo apostado:** -2.09%
+- **Comisiones pagadas (taker fee):** $483.40 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,8 +173,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2700 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1527 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2701 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1528 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 681 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1020,8 +1020,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 2.9% | ❌ perdida | -5.02 |
 | wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 12.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Raiders (-14.5) | Raiders (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
-| theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ⏳ pendiente | — |
-| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ⏳ pendiente | — |
+| theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ❌ perdida | -5.12 |
+| theowalcott | Spread: Vancouver Whitecaps FC (-1.5) | Vancouver Whitecaps FC (BUY) | 61% | 5.00 | 81.9% | ❌ perdida | -5.10 |
 | xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ✅ ganada | +2.38 |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 105.2% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |

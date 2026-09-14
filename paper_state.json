@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.94312133924947,
+  "bankroll": 83.72812133924947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26950,6 +26950,16 @@
       "timestamp": 1789346929.608798,
       "bankroll": 93.94,
       "event": "won: wr0ngw4yb3tt0r \u2014 San Diego Padres vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1789347558.7996743,
+      "bankroll": 88.85,
+      "event": "lost: theowalcott \u2014 Spread: Vancouver Whitecaps FC (-1.5)"
+    },
+    {
+      "timestamp": 1789347559.1627474,
+      "bankroll": 83.73,
+      "event": "lost: theowalcott \u2014 Vancouver Whitecaps FC vs. Austin FC: O/U 3.5"
     }
   ]
 }
