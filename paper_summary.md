@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 02:27:26 (hora de Perú)
+Actualizado: 2026-09-14 02:29:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.44
-**Retorno acumulado:** -82.11%
+**Bankroll actual:** $84.31
+**Retorno acumulado:** -83.14%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 02:27:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $64.17 en 13 posiciones abiertas (disponible para nuevas apuestas: $25.27)
+**Capital comprometido ahora mismo:** $59.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $25.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 776 | 486 | 4 | -257.93 USD |
+| ferrariChampions2026 | 776 | 487 | 3 | -263.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5198
+- **Apuestas resueltas:** 5199
 - **Aciertos:** 3247 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,916.39
-- **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $484.90 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,921.39
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $485.04 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2712 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2713 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1529 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 684 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -1004,7 +1004,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Azuolas (BO | ex-RUSTEC (BUY) | 72% | 5.00 | 4.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 57% | 5.00 | 340.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Timofei Derepasko vs Taise | Taisei Ichikawa (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Timofei Derepasko vs Taise | Taisei Ichikawa (BUY) | 47% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 44% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 103.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Moerani Bouzige vs Kenta M | Kenta Miyoshi (BUY) | 76% | 3.81 | 6.4% | ✅ ganada | +1.16 |

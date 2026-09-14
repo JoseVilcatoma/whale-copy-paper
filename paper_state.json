@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.43997168143835,
+  "bankroll": 84.30697168143836,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27050,6 +27050,11 @@
       "timestamp": 1789368783.0996256,
       "bankroll": 89.44,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Moerani Bouzige vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1789370965.9930692,
+      "bankroll": 84.31,
+      "event": "lost: ferrariChampions2026 \u2014 Phan Thiet 4: Timofei Derepasko vs Taisei Ichikawa"
     }
   ]
 }
