@@ -134790,5 +134790,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789412146.2561738,
     "fills": 3
+  },
+  {
+    "timestamp": 1789412201,
+    "timestamp_added": 1789412201.6397207,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "irl1-she-dro-2026-09-14-she",
+    "title": "Will Shelbourne FC win on 2026-09-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 840.0672000000001,
+    "whale_pct": 0.1,
+    "whale_value_at_open": 837880.5057,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789412201.639733,
+    "fills": 1
   }
 ]
