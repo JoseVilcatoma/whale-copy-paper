@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.95826270395752,
+  "bankroll": 97.62219252851892,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27110,6 +27110,11 @@
       "timestamp": 1789391665.032858,
       "bankroll": 93.96,
       "event": "lost: ferrariChampions2026 \u2014 W50 Pazardzhik: Alessandra Mazzola vs Beatrise Zeltina"
+    },
+    {
+      "timestamp": 1789392292.1327984,
+      "bankroll": 97.62,
+      "event": "won: ferrariChampions2026 \u2014 Guangzhou: Thijmen Loof vs Jesse Delaney"
     }
   ]
 }
