@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 20:40:25 (hora de Perú)
+Actualizado: 2026-09-13 20:42:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.73
-**Retorno acumulado:** -83.25%
+**Bankroll actual:** $87.34
+**Retorno acumulado:** -82.53%
 **Peor caída desde un máximo (drawdown):** 86.34%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 20:40:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.73 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.00)
+**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -110,6 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
+| Kch-Temp | 3 | 3 | 0 | -5.06 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -126,7 +127,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 0 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| Kch-Temp | 2 | 3 | 1 | -8.67 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | Flaznorp | 110 | 41 | 0 | -9.29 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5180
-- **Aciertos:** 3234 (62.4%)
+- **Apuestas resueltas:** 5181
+- **Aciertos:** 3235 (62.4%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,829.57
-- **ROI sobre lo apostado:** -2.09%
-- **Comisiones pagadas (taker fee):** $483.40 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,833.13
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $483.49 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2701 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2702 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1528 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 681 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
@@ -1025,7 +1025,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | xifutloong3 | Kansas City Royals vs. Boston Red Sox | Boston Red Sox (BUY) | 67% | 5.00 | 55.6% | ✅ ganada | +2.38 |
 | pleaseplease123 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 53% | 5.00 | 105.2% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ENCE vs Falcons Force (B | ENCE (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
-| Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ⏳ pendiente | — |
+| Kch-Temp | Spread: Eagles (-5.5) | Commanders (BUY) | 49% | 3.56 | 3.6% | ✅ ganada | +3.61 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs BET-M 33 | BET-M 33 (BUY) | 41% | 5.00 | 4.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Miami Marlins | Miami Marlins (BUY) | 45% | 5.00 | 1.1% | ✅ ganada | +5.97 |
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |

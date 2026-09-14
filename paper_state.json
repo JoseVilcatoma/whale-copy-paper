@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.72812133924947,
+  "bankroll": 87.34242746169845,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26960,6 +26960,11 @@
       "timestamp": 1789347559.1627474,
       "bankroll": 83.73,
       "event": "lost: theowalcott \u2014 Vancouver Whitecaps FC vs. Austin FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789350083.08457,
+      "bankroll": 87.34,
+      "event": "won: Kch-Temp \u2014 Spread: Eagles (-5.5)"
     }
   ]
 }
