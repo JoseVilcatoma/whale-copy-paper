@@ -135286,8 +135286,8 @@
     "title": "Spread: Los Angeles Dodgers (-1.5)",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 7017.899400000001,
-    "whale_pct": 108.75,
+    "whale_usd": 17043.034618,
+    "whale_pct": 264.101,
     "whale_value_at_open": 6453.2379,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -135298,8 +135298,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789425057.8704493,
-    "fills": 1
+    "last_fill_at": 1789425316.5918512,
+    "fills": 2
   },
   {
     "timestamp": 1789425062,
