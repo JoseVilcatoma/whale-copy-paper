@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.48115215458176,
+  "bankroll": 103.36915215458177,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27285,6 +27285,11 @@
       "timestamp": 1789425630.3127627,
       "bankroll": 108.48,
       "event": "won: Flaznorp \u2014 Spread: Sligo Rovers FC (-1.5)"
+    },
+    {
+      "timestamp": 1789426265.301359,
+      "bankroll": 103.37,
+      "event": "lost: Flaznorp \u2014 Will Shelbourne FC win on 2026-09-14?"
     }
   ]
 }
