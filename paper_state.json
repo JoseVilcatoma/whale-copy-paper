@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.28281378670151,
+  "bankroll": 89.43997168143835,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27045,6 +27045,11 @@
       "timestamp": 1789364106.730567,
       "bankroll": 88.28,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Cowboys (-3.5)"
+    },
+    {
+      "timestamp": 1789368783.0996256,
+      "bankroll": 89.44,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Moerani Bouzige vs Kenta Miyoshi"
     }
   ]
 }
