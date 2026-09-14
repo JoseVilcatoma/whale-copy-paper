@@ -1,5 +1,5 @@
 {
-  "bankroll": 113.15480806856026,
+  "bankroll": 108.12180806856026,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27275,6 +27275,11 @@
       "timestamp": 1789421244.622058,
       "bankroll": 113.15,
       "event": "won: Flaznorp \u2014 Guadalajara Open Akron: Elvina Kalieva vs Kayla Day"
+    },
+    {
+      "timestamp": 1789421558.0457382,
+      "bankroll": 108.12,
+      "event": "lost: Flaznorp \u2014 Spread: PFC Ludogorets 1945 Razgrad (-1.5)"
     }
   ]
 }
