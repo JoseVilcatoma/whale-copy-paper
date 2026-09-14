@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.61694616746185,
+  "bankroll": 83.6644512179669,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26985,6 +26985,11 @@
       "timestamp": 1789354052.1425679,
       "bankroll": 83.62,
       "event": "lost: ferrariChampions2026 \u2014 Spread: San Diego Padres (-3.5)"
+    },
+    {
+      "timestamp": 1789356690.6126208,
+      "bankroll": 83.66,
+      "event": "won: UpTheBlues \u2014 Will Philadelphia Union win on 2026-09-13?"
     }
   ]
 }

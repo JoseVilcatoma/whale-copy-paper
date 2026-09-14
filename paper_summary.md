@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 22:29:29 (hora de Perú)
+Actualizado: 2026-09-13 22:31:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.62
-**Retorno acumulado:** -83.28%
+**Bankroll actual:** $83.66
+**Retorno acumulado:** -83.27%
 **Peor caída desde un máximo (drawdown):** 86.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 22:29:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.62 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $78.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $5.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -134,7 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| UpTheBlues | 5 | 5 | 3 | -12.41 USD |
+| UpTheBlues | 6 | 5 | 2 | -12.36 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 4 | -13.74 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -158,11 +158,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5185
-- **Aciertos:** 3237 (62.4%)
+- **Apuestas resueltas:** 5186
+- **Aciertos:** 3238 (62.4%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,853.13
+- **Total apostado (suma de stakes):** $25,858.13
 - **ROI sobre lo apostado:** -2.09%
 - **Comisiones pagadas (taker fee):** $483.90 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
@@ -176,7 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2705 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1528 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 682 | 85.5% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 270 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 271 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1005,7 +1005,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants (BUY) | 87% | 4.45 | 7.0% | ⏳ pendiente | — |
 | UpTheBlues | Will Cúcuta Deportivo FC win on 2026-09- | No (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Will Millonarios FC win on 2026-09-13? | Yes (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 18.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
