@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.22598417072128,
+  "bankroll": 89.74167382589368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27150,6 +27150,11 @@
       "timestamp": 1789401429.550118,
       "bankroll": 86.23,
       "event": "lost: ferrariChampions2026 \u2014 Guangzhou: Elias Ymer vs Semen Pankin"
+    },
+    {
+      "timestamp": 1789401615.0904408,
+      "bankroll": 89.74,
+      "event": "won: ferrariChampions2026 \u2014 Guangzhou: Kaichi Uchida vs Rio Noguchi"
     }
   ]
 }

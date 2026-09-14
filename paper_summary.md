@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 10:59:17 (hora de Perú)
+Actualizado: 2026-09-14 11:01:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.23
-**Retorno acumulado:** -82.75%
+**Bankroll actual:** $89.74
+**Retorno acumulado:** -82.05%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 10:59:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.56 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.67)
+**Capital comprometido ahora mismo:** $80.56 en 17 posiciones abiertas (disponible para nuevas apuestas: $9.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 783 | 491 | 8 | -267.90 USD |
+| ferrariChampions2026 | 784 | 491 | 7 | -264.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5218
-- **Aciertos:** 3260 (62.5%)
+- **Apuestas resueltas:** 5219
+- **Aciertos:** 3261 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,011.32
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $486.57 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,016.32
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $486.67 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2721 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2722 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1536 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -1005,7 +1005,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Will FK Chornomorets Odesa win on 2026-0 | No (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Justin Boulais vs Matisse Bobich | Justin Boulais (BUY) | 61% | 3.73 | 0.1% | ❌ perdida | -3.80 |
-| ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 9.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
 | Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
