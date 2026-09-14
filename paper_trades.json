@@ -134752,8 +134752,8 @@
     "title": "Caldas da Rainha: Erika Andreeva vs Viktoria Hruncakova",
     "outcome": "Erika Andreeva",
     "side": "BUY",
-    "whale_usd": 3423.3108999999995,
-    "whale_pct": 1.745,
+    "whale_usd": 7490.545067,
+    "whale_pct": 3.818,
     "whale_value_at_open": 196190.4144,
     "paper_stake_usd": 3.91,
     "odds_at_bet": 59,
@@ -134764,7 +134764,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789410346.106857,
-    "fills": 3
+    "last_fill_at": 1789410348.3418849,
+    "fills": 7
   }
 ]
