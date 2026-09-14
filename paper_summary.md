@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 21:53:53 (hora de Perú)
+Actualizado: 2026-09-13 21:56:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.62
@@ -1004,7 +1004,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 18.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |

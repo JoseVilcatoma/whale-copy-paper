@@ -133686,8 +133686,8 @@
     "title": "Cowboys vs. Giants",
     "outcome": "Giants",
     "side": "BUY",
-    "whale_usd": 14678.418223,
-    "whale_pct": 7.63,
+    "whale_usd": 36332.455023,
+    "whale_pct": 18.887,
     "whale_value_at_open": 192367.5178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -133700,8 +133700,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789348159.801378,
-    "fills": 4
+    "last_fill_at": 1789354559.6452289,
+    "fills": 6
   },
   {
     "timestamp": 1789352964,
