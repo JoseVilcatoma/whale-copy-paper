@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.83367382589368,
+  "bankroll": 84.84467382589368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27170,6 +27170,11 @@
       "timestamp": 1789408018.3607311,
       "bankroll": 88.83,
       "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: regain vs Marsborne (BO3) - NSTLGA League Playoffs"
+    },
+    {
+      "timestamp": 1789409277.1776373,
+      "bankroll": 84.84,
+      "event": "lost: Flaznorp \u2014 Will Smouha SC win on 2026-09-14?"
     }
   ]
 }
