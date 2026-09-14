@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.34242746169845,
+  "bankroll": 82.22542746169844,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -26965,6 +26965,11 @@
       "timestamp": 1789350083.08457,
       "bankroll": 87.34,
       "event": "won: Kch-Temp \u2014 Spread: Eagles (-5.5)"
+    },
+    {
+      "timestamp": 1789353296.333667,
+      "bankroll": 82.23,
+      "event": "lost: ferrariChampions2026 \u2014 Tiburon: Andrew Fenty vs Ryan Seggerman"
     }
   ]
 }
