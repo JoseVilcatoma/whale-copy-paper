@@ -134218,8 +134218,8 @@
     "title": "Guangzhou: Alexandr Binda vs Kosuke Ogura",
     "outcome": "Alexandr Binda",
     "side": "BUY",
-    "whale_usd": 3239.3600000000006,
-    "whale_pct": 1.856,
+    "whale_usd": 5014.500000000001,
+    "whale_pct": 2.873,
     "whale_value_at_open": 174514.1512,
     "paper_stake_usd": 4.14,
     "odds_at_bet": 54,
@@ -134230,8 +134230,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789387544.7700124,
-    "fills": 2
+    "last_fill_at": 1789387976.781556,
+    "fills": 3
   },
   {
     "timestamp": 1789387867,
