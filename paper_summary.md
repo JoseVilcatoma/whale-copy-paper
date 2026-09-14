@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-13 21:28:43 (hora de Perú)
+Actualizado: 2026-09-13 21:30:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-13 21:28:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.17)
+**Capital comprometido ahora mismo:** $84.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $3.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,7 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 5 | 5 | 0 | -12.41 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 3 | -13.74 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 64 | 4 | -13.74 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -1002,6 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 7.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ⏳ pendiente | — |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Chicago White Sox vs. St. Louis Cardinal | Under (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | wr0ngw4yb3tt0r | Falcons vs. Steelers | Steelers (BUY) | 73% | 5.00 | 1.4% | ✅ ganada | +1.78 |
 | pleaseplease123 | Texas Rangers vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 3.67 | 36.1% | ❌ perdida | -3.75 |
-| wr0ngw4yb3tt0r | Baltimore Orioles vs. Toronto Blue Jays | Baltimore Orioles (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
