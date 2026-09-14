@@ -133992,5 +133992,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789364592.9798365,
     "fills": 1
+  },
+  {
+    "timestamp": 1789366004,
+    "timestamp_added": 1789366005.365369,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-dkc-ktc-2026-09-14",
+    "title": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Challengers League Playoffs",
+    "outcome": "KT Rolster Challengers",
+    "side": "BUY",
+    "whale_usd": 8378.624800000001,
+    "whale_pct": 188.435,
+    "whale_value_at_open": 4446.4291,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789366005.3653805,
+    "fills": 1
   }
 ]
