@@ -134522,5 +134522,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789392304.4458268,
     "fills": 1
+  },
+  {
+    "timestamp": 1789392628,
+    "timestamp_added": 1789392629.351058,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-rus-stefano-2026-09-14",
+    "title": "Ljubljana: Arantxa Rus vs Samira De Stefano",
+    "outcome": "Arantxa Rus",
+    "side": "BUY",
+    "whale_usd": 1353.0712999999998,
+    "whale_pct": 0.924,
+    "whale_value_at_open": 146444.0648,
+    "paper_stake_usd": 3.66,
+    "odds_at_bet": 50,
+    "fee_usd": 0.092,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789392629.3510728,
+    "fills": 1
   }
 ]

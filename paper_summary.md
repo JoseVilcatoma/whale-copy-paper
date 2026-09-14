@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 08:30:15 (hora de Perú)
+Actualizado: 2026-09-14 08:32:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 08:30:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.96 en 20 posiciones abiertas (disponible para nuevas apuestas: $3.66)
+**Capital comprometido ahora mismo:** $97.62 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 781 | 488 | 10 | -256.64 USD |
+| ferrariChampions2026 | 781 | 488 | 11 | -256.64 USD |
 
 ## Análisis general
 
@@ -1003,6 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1032,4 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 22.4% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Phan Thiet 4: Rodrigo Pacheco vs Sergio  | Rodrigo Pacheco (BUY) | 83% | 5.00 | 20.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Sam Ryan Z | Filip Peliwo (BUY) | 95% | 5.00 | 9.3% | ✅ ganada | +0.25 |
-| wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants (BUY) | 87% | 4.45 | 7.0% | ✅ ganada | +0.64 |
