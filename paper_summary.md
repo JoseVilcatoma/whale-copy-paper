@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:33:45 (hora de Perú)
+Actualizado: 2026-09-14 07:35:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.52
@@ -1002,7 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Dali Blanch vs Ivan Gakhov | Ivan Gakhov (BUY) | 94% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
