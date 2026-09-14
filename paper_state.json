@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.19698417072127,
+  "bankroll": 99.44498417072127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27130,6 +27130,11 @@
       "timestamp": 1789396708.374524,
       "bankroll": 103.2,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Rodrigo Pacheco vs Sergio Callejon"
+    },
+    {
+      "timestamp": 1789397083.1894035,
+      "bankroll": 99.44,
+      "event": "lost: ferrariChampions2026 \u2014 Ljubljana: Arantxa Rus vs Samira De Stefano"
     }
   ]
 }
