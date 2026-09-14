@@ -1,5 +1,5 @@
 {
-  "bankroll": 102.21588778517909,
+  "bankroll": 103.19698417072127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27125,6 +27125,11 @@
       "timestamp": 1789394815.9474537,
       "bankroll": 102.22,
       "event": "won: ferrariChampions2026 \u2014 Szczecin: Robert Strombachs vs Santiago Rodriguez Taverna"
+    },
+    {
+      "timestamp": 1789396708.374524,
+      "bankroll": 103.2,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Rodrigo Pacheco vs Sergio Callejon"
     }
   ]
 }
