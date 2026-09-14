@@ -135106,5 +135106,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789420059.2077062,
     "fills": 3
+  },
+  {
+    "timestamp": 1789420359,
+    "timestamp_added": 1789420360.0354261,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-nyy-min-2026-09-14-total-8pt5",
+    "title": "New York Yankees vs. Minnesota Twins: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5728.387199999999,
+    "whale_pct": 4.791,
+    "whale_value_at_open": 119566.8933,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789420360.0354397,
+    "fills": 1
   }
 ]

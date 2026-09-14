@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 16:11:55 (hora de Perú)
+Actualizado: 2026-09-14 16:13:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 16:11:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.24 en 19 posiciones abiertas (disponible para nuevas apuestas: $10.79)
+**Capital comprometido ahora mismo:** $96.24 en 20 posiciones abiertas (disponible para nuevas apuestas: $5.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 31 | 31 | 0 | -19.80 USD |
 | Flaznorp | 113 | 45 | 11 | -20.71 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
-| Talvez10 | 18 | 19 | 0 | -23.08 USD |
+| Talvez10 | 18 | 19 | 1 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1006,6 +1006,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 4.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 138.4% | ⏳ pendiente | — |
 | BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
 | Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1035,4 +1036,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ✅ ganada | +6.48 |
-| Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ❌ perdida | -5.13 |
