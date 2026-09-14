@@ -1,5 +1,5 @@
 {
-  "bankroll": 99.44498417072127,
+  "bankroll": 95.11898417072128,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27135,6 +27135,11 @@
       "timestamp": 1789397083.1894035,
       "bankroll": 99.44,
       "event": "lost: ferrariChampions2026 \u2014 Ljubljana: Arantxa Rus vs Samira De Stefano"
+    },
+    {
+      "timestamp": 1789397972.94384,
+      "bankroll": 95.12,
+      "event": "lost: ferrariChampions2026 \u2014 Biella: Jay Clarke vs Jonas Forejtek"
     }
   ]
 }

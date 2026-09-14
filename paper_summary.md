@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 09:58:06 (hora de Perú)
+Actualizado: 2026-09-14 10:00:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $99.44
-**Retorno acumulado:** -80.11%
+**Bankroll actual:** $95.12
+**Retorno acumulado:** -80.98%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 09:58:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.56 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.88)
+**Capital comprometido ahora mismo:** $94.29 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 783 | 489 | 10 | -258.48 USD |
+| ferrariChampions2026 | 783 | 490 | 9 | -262.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5215
+- **Apuestas resueltas:** 5216
 - **Aciertos:** 3260 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,998.32
-- **ROI sobre lo apostado:** -2.02%
-- **Comisiones pagadas (taker fee):** $486.35 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,002.59
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $486.41 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -174,7 +174,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2721 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1533 | 68.4% | 67.8% | +0.6 pp |
+| 60-79% | 1534 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1014,7 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 18.9% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
