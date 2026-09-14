@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 16:16:02 (hora de Perú)
+Actualizado: 2026-09-14 16:18:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $102.03
-**Retorno acumulado:** -79.59%
+**Bankroll actual:** $108.66
+**Retorno acumulado:** -78.27%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 16:16:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $96.24 en 20 posiciones abiertas (disponible para nuevas apuestas: $5.79)
+**Capital comprometido ahora mismo:** $67.45 en 14 posiciones abiertas (disponible para nuevas apuestas: $41.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 104 | 69 | 2 | +56.91 USD |
+| wr0ngw4yb3tt0r | 105 | 69 | 1 | +63.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | pleaseplease123 | 31 | 31 | 0 | -19.80 USD |
-| Flaznorp | 113 | 45 | 11 | -20.71 USD |
+| Flaznorp | 116 | 47 | 6 | -21.13 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 1 | -23.08 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -159,14 +159,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5235
-- **Aciertos:** 3271 (62.5%)
+- **Apuestas resueltas:** 5241
+- **Aciertos:** 3275 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,092.70
-- **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $488.28 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,121.49
+- **ROI sobre lo apostado:** -1.97%
+- **Comisiones pagadas (taker fee):** $488.77 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -174,10 +174,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2732 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1540 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 688 | 85.6% | 86.5% | -0.9 pp |
-| 95-99% (casi seguro) | 275 | 97.1% | 97.3% | -0.2 pp |
+| 40-59% | 2735 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1541 | 68.2% | 67.8% | +0.4 pp |
+| 80-94% | 689 | 85.5% | 86.5% | -1.0 pp |
+| 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1009,18 +1009,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 4.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
 | BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
-| Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
-| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 1.2% | ⏳ pendiente | — |
+| Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
+| Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ❌ perdida | -5.03 |
+| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 1.2% | ❌ perdida | -3.89 |
 | Flaznorp | Spread: Sligo Rovers FC (-1.5) | Galway United FC (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Elvina Kalieva v | Kayla Day (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
-| Flaznorp | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 42% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 42% | 5.00 | 0.1% | ✅ ganada | +6.76 |
 | Flaznorp | Spread: PFC Ludogorets 1945 Razgrad (-1. | PFC Ludogorets 1945 Razgrad (BUY) | 87% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ❌ perdida | -5.08 |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ✅ ganada | +7.05 |
 | ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 3.8% | ❌ perdida | -3.99 |
 | ferrariChampions2026 | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 48% | 4.35 | 0.3% | ✅ ganada | +4.60 |
 | ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ❌ perdida | -5.14 |
@@ -1031,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Guangzhou: Kaichi Uchida vs Rio Noguchi | Rio Noguchi (BUY) | 58% | 5.00 | 0.5% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Ljubljana: Miriam Bulgaru vs Lina Gjorch | Miriam Bulgaru (BUY) | 52% | 5.00 | 13.0% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
-| Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ✅ ganada | +1.69 |
 | SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |
 | Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 102.03227778993242,
+  "bankroll": 108.65942345317565,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27240,6 +27240,36 @@
       "timestamp": 1789420308.7291088,
       "bankroll": 102.03,
       "event": "lost: Flaznorp \u2014 Leeds United FC vs. Newcastle United FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789420620.46857,
+      "bankroll": 103.72,
+      "event": "won: Flaznorp \u2014 Spread: Villarreal CF (-1.5)"
+    },
+    {
+      "timestamp": 1789420620.8897254,
+      "bankroll": 110.77,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Leeds United FC win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789420621.5565805,
+      "bankroll": 117.53,
+      "event": "won: Flaznorp \u2014 Will Leeds United FC win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789420622.1324296,
+      "bankroll": 113.64,
+      "event": "lost: Flaznorp \u2014 Will Villarreal CF win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789420622.2749383,
+      "bankroll": 108.61,
+      "event": "lost: Flaznorp \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789420622.7671108,
+      "bankroll": 108.66,
+      "event": "won: Flaznorp \u2014 Villarreal CF vs. Real Betis Balompi\u00e9: 1st Half O/U 0.5"
     }
   ]
 }
