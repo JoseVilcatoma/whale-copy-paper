@@ -133636,8 +133636,8 @@
     "title": "Spread: Cowboys (-3.5)",
     "outcome": "Cowboys",
     "side": "BUY",
-    "whale_usd": 11257.640652000002,
-    "whale_pct": 5.562,
+    "whale_usd": 15122.326904000001,
+    "whale_pct": 7.472,
     "whale_value_at_open": 202390.5924,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -133650,7 +133650,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789344863.0219176,
-    "fills": 6
+    "last_fill_at": 1789345234.121391,
+    "fills": 10
   }
 ]
