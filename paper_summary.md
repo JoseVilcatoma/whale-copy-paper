@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 13:46:03 (hora de Perú)
+Actualizado: 2026-09-14 13:48:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $109.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 13:46:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.71 en 13 posiciones abiertas (disponible para nuevas apuestas: $48.92)
+**Capital comprometido ahora mismo:** $65.71 en 14 posiciones abiertas (disponible para nuevas apuestas: $43.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 104 | 69 | 0 | +56.91 USD |
+| wr0ngw4yb3tt0r | 104 | 69 | 1 | +56.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -1003,6 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 48% | 4.35 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1032,4 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Biella: Juan Cruz Martin Manzano vs Gera | Gerard Campana Lee (BUY) | 86% | 5.00 | 1.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Biella: Giuseppe La Vela vs Federico Ian | Giuseppe La Vela (BUY) | 59% | 5.00 | 5.4% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Como 1907 vs. Parma Calcio 1913: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |

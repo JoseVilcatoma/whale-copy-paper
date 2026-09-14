@@ -134766,5 +134766,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789410348.3418849,
     "fills": 7
+  },
+  {
+    "timestamp": 1789411587,
+    "timestamp_added": 1789411588.4423573,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "epl-lee-new-2026-09-14-lee",
+    "title": "Will Leeds United FC win on 2026-09-14?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1350.9360000000001,
+    "whale_pct": 0.705,
+    "whale_value_at_open": 191596.7455,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789411588.442368,
+    "fills": 1
   }
 ]
