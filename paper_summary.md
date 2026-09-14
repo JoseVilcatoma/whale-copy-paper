@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 00:33:37 (hora de Perú)
+Actualizado: 2026-09-14 00:35:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $79.07
-**Retorno acumulado:** -84.19%
+**Bankroll actual:** $88.28
+**Retorno acumulado:** -82.34%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 00:33:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.98 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.09)
+**Capital comprometido ahora mismo:** $52.98 en 11 posiciones abiertas (disponible para nuevas apuestas: $35.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 100 | 69 | 2 | +37.71 USD |
+| wr0ngw4yb3tt0r | 102 | 69 | 0 | +48.07 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -106,6 +106,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
+| bands1 | 2 | 2 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -123,7 +124,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| bands1 | 1 | 2 | 1 | -7.54 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 0 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 775 | 485 | 5 | -253.96 USD |
+| ferrariChampions2026 | 775 | 486 | 4 | -259.09 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5193
-- **Aciertos:** 3243 (62.4%)
+- **Apuestas resueltas:** 5197
+- **Aciertos:** 3246 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,892.58
-- **ROI sobre lo apostado:** -2.11%
-- **Comisiones pagadas (taker fee):** $484.36 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,912.58
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $484.86 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2708 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2712 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1528 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 684 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -1015,13 +1015,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 18.9% | ✅ ganada | +3.82 |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Cowboys (BUY) | 46% | 5.00 | 5.8% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cowboys (-3.5) | Cowboys (BUY) | 47% | 5.00 | 7.5% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | San Diego Padres (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | San Diego Padres vs. San Francisco Giant | Under (BUY) | 46% | 5.00 | 1.1% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | bands1 | Cowboys vs. Giants: O/U 47.5 | Under (BUY) | 50% | 5.00 | 21.0% | ❌ perdida | -5.12 |
-| bands1 | Cowboys vs. Giants: O/U 48.5 | Under (BUY) | 55% | 5.00 | 2.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-3.5) | Giants (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
+| bands1 | Cowboys vs. Giants: O/U 48.5 | Under (BUY) | 55% | 5.00 | 2.9% | ✅ ganada | +3.98 |
+| wr0ngw4yb3tt0r | Spread: Cowboys (-3.5) | Giants (BUY) | 54% | 5.00 | 1.7% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Spread: San Diego Padres (-3.5) | San Diego Padres (BUY) | 51% | 5.00 | 1.3% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Cardinals vs. Chargers | Cardinals (BUY) | 45% | 5.00 | 3.2% | ✅ ganada | +5.97 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. San Francisco Giant | Over (BUY) | 50% | 5.00 | 0.1% | ✅ ganada | +4.88 |
@@ -1029,6 +1029,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Cardinals vs. Chargers | Cardinals (BUY) | 41% | 2.88 | 3.0% | ✅ ganada | +4.06 |
 | TAIWANNUMBERONE | Spread: Chargers (-1.5) | Cardinals (BUY) | 51% | 5.00 | 6.8% | ✅ ganada | +4.68 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Athletics | Seattle Mariners (BUY) | 92% | 5.00 | 2.9% | ❌ perdida | -5.02 |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 12.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Cowboys (-2.5) | Giants (BUY) | 44% | 5.00 | 12.7% | ✅ ganada | +6.22 |
 | wr0ngw4yb3tt0r | Spread: Raiders (-14.5) | Raiders (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | theowalcott | Vancouver Whitecaps FC vs. Austin FC: O/ | Over (BUY) | 53% | 5.00 | 35.9% | ❌ perdida | -5.12 |

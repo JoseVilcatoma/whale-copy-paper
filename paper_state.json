@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.0690090728968,
+  "bankroll": 88.28281378670151,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27025,6 +27025,26 @@
       "timestamp": 1789363481.1529303,
       "bankroll": 79.07,
       "event": "lost: bands1 \u2014 Cowboys vs. Giants: O/U 47.5"
+    },
+    {
+      "timestamp": 1789364106.2182276,
+      "bankroll": 85.29,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Cowboys (-2.5)"
+    },
+    {
+      "timestamp": 1789364106.366913,
+      "bankroll": 89.44,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Cowboys (-3.5)"
+    },
+    {
+      "timestamp": 1789364106.6303852,
+      "bankroll": 93.42,
+      "event": "won: bands1 \u2014 Cowboys vs. Giants: O/U 48.5"
+    },
+    {
+      "timestamp": 1789364106.730567,
+      "bankroll": 88.28,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cowboys (-3.5)"
     }
   ]
 }
