@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.82802460871942,
+  "bankroll": 95.64659603729085,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27095,6 +27095,11 @@
       "timestamp": 1789390317.5345848,
       "bankroll": 91.83,
       "event": "won: ferrariChampions2026 \u2014 Szczecin: Dali Blanch vs Ivan Gakhov"
+    },
+    {
+      "timestamp": 1789390754.5453584,
+      "bankroll": 95.65,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ENCE vs Falcons Force (BO3) - Exort Fiesta Group Stage"
     }
   ]
 }

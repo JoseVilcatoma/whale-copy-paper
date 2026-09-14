@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:58:17 (hora de Perú)
+Actualizado: 2026-09-14 08:00:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $91.83
-**Retorno acumulado:** -81.63%
+**Bankroll actual:** $95.65
+**Retorno acumulado:** -80.87%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 07:58:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.52 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.31)
+**Capital comprometido ahora mismo:** $91.52 en 19 posiciones abiertas (disponible para nuevas apuestas: $4.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -124,16 +124,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 103 | 65 | 2 | -6.86 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 0 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | GoalLineGhost | 70 | 31 | 0 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Flaznorp | 110 | 41 | 2 | -9.29 USD |
+| Flaznorp | 110 | 41 | 3 | -9.29 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 102 | 65 | 3 | -10.68 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -158,14 +158,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5207
-- **Aciertos:** 3254 (62.5%)
+- **Apuestas resueltas:** 5208
+- **Aciertos:** 3255 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,961.39
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $485.63 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,966.39
+- **ROI sobre lo apostado:** -2.04%
+- **Comisiones pagadas (taker fee):** $485.74 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -173,7 +173,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2715 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2716 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1533 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 686 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
@@ -997,11 +997,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-ari-lac-2026-09-13 | TAIWANNUMBERONE, wr0ngw4yb3tt0r |
 | nfl-dal-nyg-2026-09-14-spread-away-3pt5 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | nfl-dal-nyg-2026-09-14 | ferrariChampions2026, wr0ngw4yb3tt0r |
+| sea-com-par-2026-09-14-spread-home-1pt5 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 7.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -1031,4 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Millonarios FC win on 2026-09-13? | Yes (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cowboys vs. Giants | Giants (BUY) | 56% | 5.00 | 18.9% | ✅ ganada | +3.82 |
