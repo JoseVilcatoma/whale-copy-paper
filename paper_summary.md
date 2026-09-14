@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 13:23:46 (hora de Perú)
+Actualizado: 2026-09-14 13:25:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.84
@@ -1003,7 +1003,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 48% | 4.35 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Como 1907 (-2.5) | Parma Calcio 1913 (BUY) | 66% | 4.18 | 0.3% | ⏳ pendiente | — |
