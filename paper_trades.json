@@ -134338,8 +134338,8 @@
     "title": "Guangzhou: Colin Sinclair vs Linang Xiao",
     "outcome": "Linang Xiao",
     "side": "BUY",
-    "whale_usd": 4600.543045,
-    "whale_pct": 2.537,
+    "whale_usd": 5393.565773,
+    "whale_pct": 2.975,
     "whale_value_at_open": 181323.3125,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -134350,8 +134350,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789389363.3220487,
-    "fills": 2
+    "last_fill_at": 1789389633.972679,
+    "fills": 3
   },
   {
     "timestamp": 1789389572,
