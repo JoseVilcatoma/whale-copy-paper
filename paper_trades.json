@@ -134994,8 +134994,8 @@
     "title": "Will Villarreal CF win on 2026-09-14?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 9082.275300000001,
-    "whale_pct": 1.06,
+    "whale_usd": 10486.5177,
+    "whale_pct": 1.224,
     "whale_value_at_open": 856459.5085,
     "paper_stake_usd": 3.79,
     "odds_at_bet": 48,
@@ -135006,8 +135006,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789414468.1324232,
-    "fills": 4
+    "last_fill_at": 1789414794.6813326,
+    "fills": 5
   },
   {
     "timestamp": 1789414273,
