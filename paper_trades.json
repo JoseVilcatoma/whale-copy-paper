@@ -134362,8 +134362,8 @@
     "title": "Biella: Jay Clarke vs Jonas Forejtek",
     "outcome": "Jonas Forejtek",
     "side": "BUY",
-    "whale_usd": 14437.346892,
-    "whale_pct": 7.784,
+    "whale_usd": 15035.718321,
+    "whale_pct": 8.107,
     "whale_value_at_open": 185469.9403,
     "paper_stake_usd": 4.27,
     "odds_at_bet": 74,
@@ -134374,8 +134374,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789392993.746187,
-    "fills": 4
+    "last_fill_at": 1789393328.8291082,
+    "fills": 5
   },
   {
     "timestamp": 1789390415,
