@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.11898417072128,
+  "bankroll": 91.31598417072128,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27140,6 +27140,11 @@
       "timestamp": 1789397972.94384,
       "bankroll": 95.12,
       "event": "lost: ferrariChampions2026 \u2014 Biella: Jay Clarke vs Jonas Forejtek"
+    },
+    {
+      "timestamp": 1789400862.0771399,
+      "bankroll": 91.32,
+      "event": "lost: Flaznorp \u2014 Rennes: Justin Boulais vs Matisse Bobichon"
     }
   ]
 }
