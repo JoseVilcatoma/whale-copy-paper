@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 01:29:12 (hora de Perú)
+Actualizado: 2026-09-14 01:31:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.28
@@ -1005,7 +1005,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 57% | 5.00 | 188.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Timofei Derepasko vs Taise | Taisei Ichikawa (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 44% | 5.00 | 2.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 84.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 94.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Moerani Bouzige vs Kenta M | Kenta Miyoshi (BUY) | 76% | 3.81 | 6.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 22.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Rodrigo Pacheco vs Sergio  | Rodrigo Pacheco (BUY) | 83% | 5.00 | 20.6% | ⏳ pendiente | — |
