@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 14:31:15 (hora de Perú)
+Actualizado: 2026-09-14 14:33:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $107.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 14:31:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.59 en 21 posiciones abiertas (disponible para nuevas apuestas: $6.97)
+**Capital comprometido ahora mismo:** $105.59 en 22 posiciones abiertas (disponible para nuevas apuestas: $1.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 111 | 44 | 13 | -15.73 USD |
+| Flaznorp | 111 | 44 | 14 | -15.73 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -1004,8 +1004,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
-| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Sligo Rovers FC (-1.5) | Galway United FC (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Elvina Kalieva v | Kayla Day (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1033,4 +1034,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ❌ perdida | -4.33 |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 18.9% | ❌ perdida | -5.09 |
