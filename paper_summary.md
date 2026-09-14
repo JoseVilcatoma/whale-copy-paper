@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 09:11:08 (hora de Perú)
+Actualizado: 2026-09-14 09:13:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.22
@@ -1013,7 +1013,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 8.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 13.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 14.8% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Dali Blanch vs Ivan Gakhov | Ivan Gakhov (BUY) | 94% | 5.00 | 5.8% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ❌ perdida | -5.12 |
