@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.25180302829848,
+  "bankroll": 91.52387567254921,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27080,6 +27080,16 @@
       "timestamp": 1789387617.2659497,
       "bankroll": 87.25,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ex-RUSTEC vs Azuolas (BO3) - European Pro League Series 9 Group C"
+    },
+    {
+      "timestamp": 1789388869.3991752,
+      "bankroll": 89.03,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Metizport vs Nemiga (BO3) - CCT Europe Series #8 Playoffs"
+    },
+    {
+      "timestamp": 1789388870.4994957,
+      "bankroll": 91.52,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Metizport vs Nemiga - Map 2 Winner"
     }
   ]
 }
