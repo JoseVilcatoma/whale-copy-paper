@@ -134112,5 +134112,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789377642.5537639,
     "fills": 2
+  },
+  {
+    "timestamp": 1789378569,
+    "timestamp_added": 1789378569.9686346,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-manzano-gerardc-2026-09-14",
+    "title": "Biella: Juan Cruz Martin Manzano vs Gerard Campana Lee",
+    "outcome": "Gerard Campana Lee",
+    "side": "BUY",
+    "whale_usd": 1244.371211,
+    "whale_pct": 1.2,
+    "whale_value_at_open": 103715.6423,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789378569.9686427,
+    "fills": 1
   }
 ]
