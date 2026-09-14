@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.64659603729085,
+  "bankroll": 93.95826270395752,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27100,6 +27100,16 @@
       "timestamp": 1789390754.5453584,
       "bankroll": 95.65,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ENCE vs Falcons Force (BO3) - Exort Fiesta Group Stage"
+    },
+    {
+      "timestamp": 1789391664.7727811,
+      "bankroll": 99.08,
+      "event": "won: ferrariChampions2026 \u2014 Guangzhou: Alexandr Binda vs Kosuke Ogura"
+    },
+    {
+      "timestamp": 1789391665.032858,
+      "bankroll": 93.96,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Pazardzhik: Alessandra Mazzola vs Beatrise Zeltina"
     }
   ]
 }
