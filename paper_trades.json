@@ -134170,8 +134170,8 @@
     "title": "Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend",
     "outcome": "Taylor Townsend",
     "side": "BUY",
-    "whale_usd": 5513.459999,
-    "whale_pct": 4.325,
+    "whale_usd": 9554.922499,
+    "whale_pct": 7.495,
     "whale_value_at_open": 127475.9049,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -134182,8 +134182,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789382008.4574363,
-    "fills": 1
+    "last_fill_at": 1789403833.4105659,
+    "fills": 2
   },
   {
     "timestamp": 1789387220,

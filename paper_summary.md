@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 11:35:53 (hora de Perú)
+Actualizado: 2026-09-14 11:37:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.60
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Pazardzhik: Alessandra Mazzola vs Be | Alessandra Mazzola (BUY) | 52% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Guangzhou: Alexandr Binda vs Kosuke Ogur | Alexandr Binda (BUY) | 54% | 4.14 | 2.9% | ✅ ganada | +3.43 |
 | ferrariChampions2026 | Guangzhou: Thijmen Loof vs Jesse Delaney | Jesse Delaney (BUY) | 57% | 5.00 | 11.2% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Guadalajara Open Akron: Tatjana Maria vs | Taylor Townsend (BUY) | 72% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guadalajara Open Akron: Tatjana Maria vs | Taylor Townsend (BUY) | 72% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga - Ma | Nemiga (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Biella: Juan Cruz Martin Manzano vs Gera | Gerard Campana Lee (BUY) | 86% | 5.00 | 1.2% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Biella: Giuseppe La Vela vs Federico Ian | Giuseppe La Vela (BUY) | 59% | 5.00 | 5.4% | ✅ ganada | +3.37 |
