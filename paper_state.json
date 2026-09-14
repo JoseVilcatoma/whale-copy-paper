@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.3095014409969,
+  "bankroll": 87.25180302829848,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27070,6 +27070,16 @@
       "timestamp": 1789386994.2112415,
       "bankroll": 83.31,
       "event": "won: ferrariChampions2026 \u2014 Biella: Giuseppe La Vela vs Federico Iannaccone"
+    },
+    {
+      "timestamp": 1789387616.1176877,
+      "bankroll": 85.38,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Bushido Wildcats vs ENJOY (BO3) - CCT Europe Closed Qualifier: Series #9 Play-In"
+    },
+    {
+      "timestamp": 1789387617.2659497,
+      "bankroll": 87.25,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ex-RUSTEC vs Azuolas (BO3) - European Pro League Series 9 Group C"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 07:05:06 (hora de Perú)
+Actualizado: 2026-09-14 07:07:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.31
-**Retorno acumulado:** -83.34%
+**Bankroll actual:** $87.25
+**Retorno acumulado:** -82.55%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 07:05:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $4.14)
+**Capital comprometido ahora mismo:** $73.31 en 15 posiciones abiertas (disponible para nuevas apuestas: $13.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -136,12 +136,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 100 | 65 | 5 | -14.95 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 98 | 65 | 7 | -18.89 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | pleaseplease123 | 31 | 31 | 0 | -19.80 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -154,18 +154,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 778 | 487 | 7 | -258.91 USD |
+| ferrariChampions2026 | 778 | 487 | 8 | -258.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5202
-- **Aciertos:** 3249 (62.5%)
+- **Apuestas resueltas:** 5204
+- **Aciertos:** 3251 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $25,936.39
-- **ROI sobre lo apostado:** -2.09%
-- **Comisiones pagadas (taker fee):** $485.32 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $25,946.39
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $485.47 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -174,7 +174,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2715 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1529 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1531 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 685 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 273 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1002,6 +1002,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Guangzhou: Alexandr Binda vs Kosuke Ogur | Alexandr Binda (BUY) | 54% | 4.14 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Thijmen Loof vs Jesse Delaney | Jesse Delaney (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guadalajara Open Akron: Tatjana Maria vs | Taylor Townsend (BUY) | 72% | 5.00 | 4.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga - Ma | Nemiga (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1009,13 +1010,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Biella: Giuseppe La Vela vs Federico Ian | Giuseppe La Vela (BUY) | 59% | 5.00 | 5.4% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Como 1907 vs. Parma Calcio 1913: O/U 2.5 | Over (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Azuolas (BO | ex-RUSTEC (BUY) | 72% | 5.00 | 4.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs Azuolas (BO | ex-RUSTEC (BUY) | 72% | 5.00 | 4.2% | ✅ ganada | +1.87 |
 | TAIWANNUMBERONE | LoL: Dplus KIA Challengers vs KT Rolster | KT Rolster Challengers (BUY) | 57% | 5.00 | 340.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Timofei Derepasko vs Taise | Taisei Ichikawa (BUY) | 47% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 44% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Metizport vs Nemiga (BO3 | Nemiga (BUY) | 73% | 5.00 | 103.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Moerani Bouzige vs Kenta M | Kenta Miyoshi (BUY) | 76% | 3.81 | 6.4% | ✅ ganada | +1.16 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 22.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Bushido Wildcats vs ENJO | Bushido Wildcats (BUY) | 70% | 5.00 | 22.4% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Phan Thiet 4: Rodrigo Pacheco vs Sergio  | Rodrigo Pacheco (BUY) | 83% | 5.00 | 20.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Sam Ryan Z | Filip Peliwo (BUY) | 95% | 5.00 | 9.3% | ✅ ganada | +0.25 |
 | wr0ngw4yb3tt0r | Cowboys vs. Giants | Giants (BUY) | 87% | 4.45 | 7.0% | ✅ ganada | +0.64 |
@@ -1031,4 +1032,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tiburon: Andrew Fenty vs Ryan Seggerman | Andrew Fenty (BUY) | 53% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | bands1 | Cowboys vs. Giants: O/U 47.5 | Under (BUY) | 50% | 5.00 | 21.0% | ❌ perdida | -5.12 |
 | bands1 | Cowboys vs. Giants: O/U 48.5 | Under (BUY) | 55% | 5.00 | 2.9% | ✅ ganada | +3.98 |
-| wr0ngw4yb3tt0r | Spread: Cowboys (-3.5) | Giants (BUY) | 54% | 5.00 | 1.7% | ✅ ganada | +4.14 |
