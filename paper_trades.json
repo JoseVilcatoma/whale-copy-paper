@@ -134098,8 +134098,8 @@
     "title": "Biella: Giuseppe La Vela vs Federico Iannaccone",
     "outcome": "Giuseppe La Vela",
     "side": "BUY",
-    "whale_usd": 3089.6268579999996,
-    "whale_pct": 3.053,
+    "whale_usd": 5436.260324999999,
+    "whale_pct": 5.372,
     "whale_value_at_open": 101204.7354,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -134110,8 +134110,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789377642.5537639,
-    "fills": 2
+    "last_fill_at": 1789383994.9756007,
+    "fills": 3
   },
   {
     "timestamp": 1789378569,
