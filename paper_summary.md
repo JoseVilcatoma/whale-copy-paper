@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 17:01:07 (hora de Perú)
+Actualizado: 2026-09-14 17:03:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 17:01:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.45 en 13 posiciones abiertas (disponible para nuevas apuestas: $45.67)
+**Capital comprometido ahora mismo:** $72.45 en 15 posiciones abiertas (disponible para nuevas apuestas: $35.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 105 | 69 | 1 | +63.96 USD |
+| wr0ngw4yb3tt0r | 105 | 69 | 3 | +63.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -1006,6 +1006,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 7.2% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
@@ -1034,5 +1036,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ljubljana: Arantxa Rus vs Samira De Stef | Arantxa Rus (BUY) | 50% | 3.66 | 0.9% | ❌ perdida | -3.75 |
 | Flaznorp | Spread: Villarreal CF (-1.5) | Real Betis Balompié (BUY) | 74% | 5.00 | 0.7% | ✅ ganada | +1.69 |
 | SDTrading | Spread: San Diego Padres (-2.5) | San Diego Padres (BUY) | 44% | 2.45 | 10.6% | ⏳ pendiente | — |
-| Flaznorp | Biella: Gianluca Cadenasso vs Francesco  | Gianluca Cadenasso (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ✅ ganada | +0.93 |
