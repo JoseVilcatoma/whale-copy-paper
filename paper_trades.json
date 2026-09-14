@@ -133968,5 +133968,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789363195.4741964,
     "fills": 1
+  },
+  {
+    "timestamp": 1789364592,
+    "timestamp_added": 1789364592.9798253,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-derepas-ichikaw-2026-09-14",
+    "title": "Phan Thiet 4: Timofei Derepasko vs Taisei Ichikawa",
+    "outcome": "Taisei Ichikawa",
+    "side": "BUY",
+    "whale_usd": 913.3254000000001,
+    "whale_pct": 1.039,
+    "whale_value_at_open": 87901.2632,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789364592.9798365,
+    "fills": 1
   }
 ]
