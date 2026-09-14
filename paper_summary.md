@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 14:10:35 (hora de Perú)
+Actualizado: 2026-09-14 14:12:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $104.50
@@ -1004,7 +1004,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Sligo Rovers FC (-1.5) | Galway United FC (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Elvina Kalieva v | Kayla Day (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
