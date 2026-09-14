@@ -134338,8 +134338,8 @@
     "title": "Guangzhou: Colin Sinclair vs Linang Xiao",
     "outcome": "Linang Xiao",
     "side": "BUY",
-    "whale_usd": 5393.565773,
-    "whale_pct": 2.975,
+    "whale_usd": 6538.229773,
+    "whale_pct": 3.606,
     "whale_value_at_open": 181323.3125,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -134350,8 +134350,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789389633.972679,
-    "fills": 3
+    "last_fill_at": 1789390851.0782998,
+    "fills": 4
   },
   {
     "timestamp": 1789389572,
@@ -134425,6 +134425,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789390798.4740162,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789390827,
+    "timestamp_added": 1789390828.1376483,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-stromba-taverna-2026-09-14",
+    "title": "Szczecin: Robert Strombachs vs Santiago Rodriguez Taverna",
+    "outcome": "Robert Strombachs",
+    "side": "BUY",
+    "whale_usd": 509.787,
+    "whale_pct": 0.284,
+    "whale_value_at_open": 179647.6654,
+    "paper_stake_usd": 4.13,
+    "odds_at_bet": 81,
+    "fee_usd": 0.039,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789390828.1376595,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 08:00:19 (hora de Perú)
+Actualizado: 2026-09-14 08:02:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.65
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 08:00:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.52 en 19 posiciones abiertas (disponible para nuevas apuestas: $4.13)
+**Capital comprometido ahora mismo:** $95.65 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 121 | 86 | 0 | -137.49 USD |
-| ferrariChampions2026 | 779 | 487 | 12 | -258.61 USD |
+| ferrariChampions2026 | 779 | 487 | 13 | -258.61 USD |
 
 ## Análisis general
 
@@ -1003,10 +1003,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Szczecin: Robert Strombachs vs Santiago  | Robert Strombachs (BUY) | 81% | 4.13 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Spread: Como 1907 (-1.5) | Parma Calcio 1913 (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | FC Inter Turku vs. Vaasan Palloseura: O/ | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Jay Clarke vs Jonas Forejtek | Jonas Forejtek (BUY) | 74% | 4.27 | 7.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Guangzhou: Colin Sinclair vs Linang Xiao | Linang Xiao (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Elias Ymer vs Semen Pankin | Semen Pankin (BUY) | 64% | 5.00 | 13.9% | ⏳ pendiente | — |
 | Flaznorp | Will Smouha SC win on 2026-09-14? | No (BUY) | 75% | 3.94 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Dali Blanch vs Ivan Gakhov | Ivan Gakhov (BUY) | 94% | 5.00 | 5.8% | ✅ ganada | +0.30 |
@@ -1032,4 +1033,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Cúcuta Deportivo FC win on 2026-09- | No (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | UpTheBlues | Will Millonarios FC win on 2026-09-13? | Yes (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | UpTheBlues | Will Philadelphia Union win on 2026-09-1 | Yes (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Falcons Force vs NAVI Ju | NAVI Junior (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
