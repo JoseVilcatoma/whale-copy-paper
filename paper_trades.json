@@ -135116,8 +135116,8 @@
     "title": "New York Yankees vs. Minnesota Twins: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5728.387199999999,
-    "whale_pct": 4.791,
+    "whale_usd": 6383.7718159999995,
+    "whale_pct": 5.339,
     "whale_value_at_open": 119566.8933,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -135128,8 +135128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789420360.0354397,
-    "fills": 1
+    "last_fill_at": 1789421057.6922212,
+    "fills": 2
   },
   {
     "timestamp": 1789420900,
