@@ -133906,8 +133906,8 @@
     "title": "Phan Thiet 4: Moerani Bouzige vs Kenta Miyoshi",
     "outcome": "Kenta Miyoshi",
     "side": "BUY",
-    "whale_usd": 6168.7488,
-    "whale_pct": 5.216,
+    "whale_usd": 7021.380379,
+    "whale_pct": 5.937,
     "whale_value_at_open": 118274.2428,
     "paper_stake_usd": 3.81,
     "odds_at_bet": 76,
@@ -133918,8 +133918,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789364833.620265,
-    "fills": 2
+    "last_fill_at": 1789365478.2456388,
+    "fills": 3
   },
   {
     "timestamp": 1789362865,
