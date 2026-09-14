@@ -133848,5 +133848,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789360423.9663582,
     "fills": 1
+  },
+  {
+    "timestamp": 1789361013,
+    "timestamp_added": 1789361015.3175454,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-pacheco-callejo-2026-09-13",
+    "title": "Phan Thiet 4: Rodrigo Pacheco vs Sergio Callejon",
+    "outcome": "Rodrigo Pacheco",
+    "side": "BUY",
+    "whale_usd": 1981.291,
+    "whale_pct": 1.974,
+    "whale_value_at_open": 100361.2869,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789361015.3175578,
+    "fills": 1
   }
 ]
