@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.44581044253412,
+  "bankroll": 87.54285125886065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27510,6 +27510,11 @@
       "timestamp": 1789460349.3249788,
       "bankroll": 87.45,
       "event": "won: ferrariChampions2026 \u2014 W35 Kyoto: Kayo Nishimura vs Natsumi Kawaguchi"
+    },
+    {
+      "timestamp": 1789460538.7399988,
+      "bankroll": 87.54,
+      "event": "won:  \u2014 Phan Thiet 4: Timofei Derepasko vs Ilia Simakin"
     }
   ]
 }
