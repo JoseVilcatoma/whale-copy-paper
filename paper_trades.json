@@ -137067,5 +137067,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789512965.3252113,
     "fills": 1
+  },
+  {
+    "timestamp": 1789513054,
+    "timestamp_added": 1789513054.8327131,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blanc-kozlov-2026-09-14",
+    "title": "Tiburon: Darwin Blanch vs Stefan Kozlov",
+    "outcome": "Darwin Blanch",
+    "side": "BUY",
+    "whale_usd": 681.968572,
+    "whale_pct": 0.198,
+    "whale_value_at_open": 344374.1042,
+    "paper_stake_usd": 4.8,
+    "odds_at_bet": 73,
+    "fee_usd": 0.065,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789513054.8327253,
+    "fills": 1
   }
 ]
