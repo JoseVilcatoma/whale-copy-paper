@@ -135689,5 +135689,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789440111.3520367,
     "fills": 1
+  },
+  {
+    "timestamp": 1789440275,
+    "timestamp_added": 1789440276.4411445,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-sea-laa-2026-09-14-spread-away-1pt5",
+    "title": "Spread: Seattle Mariners (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 769.9900000000001,
+    "whale_pct": 0.214,
+    "whale_value_at_open": 359282.9213,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789440276.4411561,
+    "fills": 1
   }
 ]
