@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 19:14:46 (hora de Perú)
+Actualizado: 2026-09-14 19:16:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $106.76
-**Retorno acumulado:** -78.65%
+**Bankroll actual:** $107.12
+**Retorno acumulado:** -78.58%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 19:14:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $1.52)
+**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $1.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 2 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| GoalLineGhost | 70 | 31 | 2 | -8.91 USD |
+| GoalLineGhost | 70 | 31 | 3 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 31 | 31 | 2 | -19.80 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 18 | 19 | 2 | -23.08 USD |
-| Flaznorp | 119 | 49 | 3 | -24.89 USD |
+| Flaznorp | 120 | 49 | 2 | -24.53 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -159,13 +159,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5247
-- **Aciertos:** 3279 (62.5%)
+- **Apuestas resueltas:** 5248
+- **Aciertos:** 3280 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,151.49
+- **Total apostado (suma de stakes):** $26,156.49
 - **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $489.18 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $489.20 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -176,7 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2737 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1543 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 691 | 85.4% | 86.5% | -1.1 pp |
+| 80-94% | 692 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1007,11 +1007,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 3.2% | ⏳ pendiente | — |
-| Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ✅ ganada | +0.36 |
 | Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 264.1% | ⏳ pendiente | — |
@@ -1036,4 +1037,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ❌ perdida | -5.11 |
 | wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ✅ ganada | +7.05 |
-| ferrariChampions2026 | Caldas da Rainha: Erika Andreeva vs Vikt | Erika Andreeva (BUY) | 59% | 3.91 | 3.8% | ❌ perdida | -3.99 |

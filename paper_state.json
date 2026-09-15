@@ -1,5 +1,5 @@
 {
-  "bankroll": 106.76254396744727,
+  "bankroll": 107.12188805346878,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27300,6 +27300,11 @@
       "timestamp": 1789431022.7077363,
       "bankroll": 106.76,
       "event": "won: Flaznorp \u2014 Will CD Riestra vs. CA Lan\u00fas end in a draw?"
+    },
+    {
+      "timestamp": 1789431339.0928543,
+      "bankroll": 107.12,
+      "event": "won: Flaznorp \u2014 Spread: CA Banfield (-1.5)"
     }
   ]
 }
