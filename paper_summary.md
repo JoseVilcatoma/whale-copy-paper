@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 03:48:40 (hora de Perú)
+Actualizado: 2026-09-15 03:50:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 03:48:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.31 en 17 posiciones abiertas (disponible para nuevas apuestas: $6.92)
+**Capital comprometido ahora mismo:** $87.31 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 127 | 86 | 2 | -130.76 USD |
-| ferrariChampions2026 | 794 | 495 | 2 | -252.57 USD |
+| ferrariChampions2026 | 794 | 495 | 3 | -252.57 USD |
 
 ## Análisis general
 
@@ -1014,6 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Tai Sach | Filip Peliwo (BUY) | 74% | 5.00 | 6.7% | ✅ ganada | +1.69 |
@@ -1043,4 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ✅ ganada | +1.36 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ✅ ganada | +0.65 |
-| Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
