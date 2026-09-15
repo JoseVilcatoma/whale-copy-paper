@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.61325777298146,
+  "bankroll": 86.66076282348651,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27500,6 +27500,11 @@
       "timestamp": 1789458391.8913186,
       "bankroll": 86.61,
       "event": "won:  \u2014 W35 Kyoto: Ayumi Miyamoto vs Rinko Matsuda"
+    },
+    {
+      "timestamp": 1789458959.9236171,
+      "bankroll": 86.66,
+      "event": "won: RN1 \u2014 M25 Guiyang: Alibek Kachmazov vs Shaoyun Liu"
     }
   ]
 }

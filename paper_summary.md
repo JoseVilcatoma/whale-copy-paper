@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 02:55:45 (hora de Perú)
+Actualizado: 2026-09-15 02:57:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.61
-**Retorno acumulado:** -82.68%
+**Bankroll actual:** $86.66
+**Retorno acumulado:** -82.67%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 02:55:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.61 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $86.61 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 1 | -18.99 USD |
-| RN1 | 491 | 230 | 2 | -19.34 USD |
+| RN1 | 492 | 230 | 1 | -19.29 USD |
 | Flaznorp | 124 | 49 | 6 | -20.20 USD |
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
@@ -158,15 +158,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 126 | 86 | 3 | -130.86 USD |
-| ferrariChampions2026 | 792 | 495 | 3 | -255.05 USD |
+| ferrariChampions2026 | 792 | 495 | 4 | -255.05 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5286
-- **Aciertos:** 3304 (62.5%)
+- **Apuestas resueltas:** 5287
+- **Aciertos:** 3305 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,341.24
+- **Total apostado (suma de stakes):** $26,346.24
 - **ROI sobre lo apostado:** -2.04%
 - **Comisiones pagadas (taker fee):** $492.28 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1552 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 702 | 85.6% | 86.5% | -0.9 pp |
-| 95-99% (casi seguro) | 277 | 97.1% | 97.3% | -0.2 pp |
+| 95-99% (casi seguro) | 278 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1013,12 +1013,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Tai Sach | Filip Peliwo (BUY) | 74% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 52% | 3.57 | 1.6% | ⏳ pendiente | — |
 | RN1 | M15 Tsaghkadzor: Artur Kukasian vs Vladi | Vladimir Osminkin (BUY) | 94% | 5.00 | 15.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Real Madrid CF (-2.5) | Real Madrid CF (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Phan Thiet 4: Timofei Derepasko vs Ilia  | Ilia Simakin (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kyoto: Kayo Nishimura vs Natsumi Kaw | Natsumi Kawaguchi (BUY) | 84% | 4.30 | 0.9% | ⏳ pendiente | — |
-| RN1 | M25 Guiyang: Alibek Kachmazov vs Shaoyun | Alibek Kachmazov (BUY) | 99% | 5.00 | 3.3% | ⏳ pendiente | — |
+| RN1 | M25 Guiyang: Alibek Kachmazov vs Shaoyun | Alibek Kachmazov (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
 |  | ILT20 Continent Cup: Sierra Leone vs Uga | Uganda (BUY) | 98% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 89% | 5.00 | 0.8% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
@@ -1042,4 +1043,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
 |  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 12.4% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
-|  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ✅ ganada | +1.05 |
