@@ -136393,5 +136393,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789460413.907771,
     "fills": 1
+  },
+  {
+    "timestamp": 1789460686,
+    "timestamp_added": 1789460687.424953,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-casteln-jasika-2026-09-14",
+    "title": "Guangzhou: Luca Castelnuovo vs Omar Jasika",
+    "outcome": "Omar Jasika",
+    "side": "BUY",
+    "whale_usd": 1767.8882360000002,
+    "whale_pct": 3.576,
+    "whale_value_at_open": 49443.8713,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789460783.4895833,
+    "fills": 2
   }
 ]
