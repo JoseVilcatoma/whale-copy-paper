@@ -136883,8 +136883,8 @@
     "title": "Tiburon: Bryce Nakashima vs Andre Ilagan",
     "outcome": "Andre Ilagan",
     "side": "BUY",
-    "whale_usd": 31784.318776,
-    "whale_pct": 9.916,
+    "whale_usd": 46649.395576,
+    "whale_pct": 14.554,
     "whale_value_at_open": 320535.038,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -136895,8 +136895,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789510710.3662245,
-    "fills": 7
+    "last_fill_at": 1789510895.710471,
+    "fills": 9
   },
   {
     "timestamp": 1789509058,
