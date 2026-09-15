@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.51574948747759,
+  "bankroll": 81.42813043985855,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27475,6 +27475,11 @@
       "timestamp": 1789450481.235967,
       "bankroll": 80.52,
       "event": "won: Flaznorp \u2014 W35 Shenyang: Xinxin Yao vs Wushuang Zheng"
+    },
+    {
+      "timestamp": 1789454684.5183394,
+      "bankroll": 81.43,
+      "event": "won: RN1 \u2014 W35 Kyoto: Sayaka Ishii vs Cheuk Ying Shek"
     }
   ]
 }
