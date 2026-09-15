@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.5300502579834,
+  "bankroll": 77.7898219281737,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27430,6 +27430,26 @@
       "timestamp": 1789446945.2985766,
       "bankroll": 86.53,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Arizona Diamondbacks: O/U 12.5"
+    },
+    {
+      "timestamp": 1789448922.9068577,
+      "bankroll": 87.31,
+      "event": "won: Flaznorp \u2014 Will Am\u00e9rica de Cali win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789448923.4203591,
+      "bankroll": 87.96,
+      "event": "won: GoalLineGhost \u2014 Will AD Pasto win on 2026-09-12?"
+    },
+    {
+      "timestamp": 1789448923.5614336,
+      "bankroll": 82.89,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1789448924.2449267,
+      "bankroll": 77.79,
+      "event": "lost: DimSumConnoisseur. \u2014 Miami Marlins vs. Arizona Diamondbacks"
     }
   ]
 }
