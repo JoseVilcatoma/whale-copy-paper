@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 00:34:12 (hora de Perú)
+Actualizado: 2026-09-15 00:36:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $78.25
-**Retorno acumulado:** -84.35%
+**Bankroll actual:** $80.52
+**Retorno acumulado:** -83.90%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 00:34:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.25 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $73.25 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,8 +146,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 1 | -18.99 USD |
+| Flaznorp | 124 | 49 | 6 | -20.20 USD |
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
-| Flaznorp | 122 | 49 | 8 | -22.47 USD |
 | RN1 | 489 | 230 | 2 | -22.52 USD |
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -158,18 +158,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 125 | 86 | 1 | -131.45 USD |
-| ferrariChampions2026 | 790 | 495 | 2 | -257.37 USD |
+| ferrariChampions2026 | 790 | 495 | 3 | -257.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5279
-- **Aciertos:** 3297 (62.5%)
+- **Apuestas resueltas:** 5281
+- **Aciertos:** 3299 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,306.73
-- **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $491.95 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,316.73
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $492.04 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,9 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1549 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1550 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 699 | 85.6% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
+| 95-99% (casi seguro) | 277 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1011,14 +1011,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.6% | ⏳ pendiente | — |
-| Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ✅ ganada | +2.17 |
+| Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Valencia CF win on 2026-09-15? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks:  | Under (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
@@ -1040,4 +1041,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ✅ ganada | +0.53 |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ❌ perdida | -2.86 |
-| GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |

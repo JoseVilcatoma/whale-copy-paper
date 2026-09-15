@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.25033185955687,
+  "bankroll": 80.51574948747759,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27465,6 +27465,16 @@
       "timestamp": 1789449853.667006,
       "bankroll": 78.25,
       "event": "won:  \u2014 W35 Shenyang: Ruien Zhang vs Rina Saigo"
+    },
+    {
+      "timestamp": 1789450480.992584,
+      "bankroll": 78.35,
+      "event": "won: Flaznorp \u2014 M25 Guiyang: Nikolai Barsukov vs Yuquan Jin"
+    },
+    {
+      "timestamp": 1789450481.235967,
+      "bankroll": 80.52,
+      "event": "won: Flaznorp \u2014 W35 Shenyang: Xinxin Yao vs Wushuang Zheng"
     }
   ]
 }
