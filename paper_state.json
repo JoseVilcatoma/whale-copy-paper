@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.66718849250557,
+  "bankroll": 69.55218849250558,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27585,6 +27585,11 @@
       "timestamp": 1789480810.0807302,
       "bankroll": 74.67,
       "event": "won: GoalLineGhost \u2014 Gamba Osaka vs. Cong An Ha Noi FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789484308.5774915,
+      "bankroll": 69.55,
+      "event": "lost:  \u2014 W75 Le Neubourg: Demi Tran vs Sachia Vickery"
     }
   ]
 }

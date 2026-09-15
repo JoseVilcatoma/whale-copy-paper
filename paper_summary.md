@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 09:57:17 (hora de Perú)
+Actualizado: 2026-09-15 09:59:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.67
-**Retorno acumulado:** -85.07%
-**Peor caída desde un máximo (drawdown):** 88.15%
+**Bankroll actual:** $69.55
+**Retorno acumulado:** -86.09%
+**Peor caída desde un máximo (drawdown):** 88.53%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 09:57:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.60 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.07)
+**Capital comprometido ahora mismo:** $68.60 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,19 +157,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 87 | 1 | -135.78 USD |
+|  | 128 | 88 | 0 | -140.90 USD |
 | ferrariChampions2026 | 797 | 495 | 2 | -246.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5303
+- **Apuestas resueltas:** 5304
 - **Aciertos:** 3315 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,421.10
-- **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $493.24 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,426.10
+- **ROI sobre lo apostado:** -2.10%
+- **Comisiones pagadas (taker fee):** $493.36 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2758 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2759 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1560 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 705 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 280 | 97.1% | 97.3% | -0.2 pp |
@@ -1015,7 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ⏳ pendiente | — |
-|  | W75 Le Neubourg: Demi Tran vs Sachia Vic | Sachia Vickery (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
+|  | W75 Le Neubourg: Demi Tran vs Sachia Vic | Sachia Vickery (BUY) | 54% | 5.00 | 1.6% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ✅ ganada | +1.80 |
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
