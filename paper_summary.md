@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 11:22:56 (hora de Perú)
+Actualizado: 2026-09-15 11:25:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $73.22
-**Retorno acumulado:** -85.36%
-**Peor caída desde un máximo (drawdown):** 88.53%
+**Bankroll actual:** $68.31
+**Retorno acumulado:** -86.34%
+**Peor caída desde un máximo (drawdown):** 88.73%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 11:22:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.22 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $68.36 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -105,7 +105,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
-| GoalLineGhost | 76 | 31 | 4 | -3.19 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
@@ -131,6 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 10 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| GoalLineGhost | 76 | 32 | 3 | -8.09 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -162,14 +162,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5305
+- **Apuestas resueltas:** 5306
 - **Aciertos:** 3316 (62.5%)
-- **Cuota promedio de entrada:** 62.6%
+- **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,431.10
-- **ROI sobre lo apostado:** -2.09%
-- **Comisiones pagadas (taker fee):** $493.47 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,435.96
+- **ROI sobre lo apostado:** -2.10%
+- **Comisiones pagadas (taker fee):** $493.51 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2760 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1560 | 68.3% | 67.8% | +0.4 pp |
-| 80-94% | 705 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 706 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 280 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1018,7 +1018,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will RKS Rakow Czestochowa win on 2026-0 | No (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ✅ ganada | +3.66 |
 |  | W75 Le Neubourg: Demi Tran vs Sachia Vic | Sachia Vickery (BUY) | 54% | 5.00 | 1.6% | ❌ perdida | -5.12 |
-| GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ❌ perdida | -4.90 |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ✅ ganada | +1.80 |
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |

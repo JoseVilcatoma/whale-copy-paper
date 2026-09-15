@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.21611831706699,
+  "bankroll": 68.31211831706699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27595,6 +27595,11 @@
       "timestamp": 1789485241.063003,
       "bankroll": 73.22,
       "event": "won: ferrariChampions2026 \u2014 Szczecin: Johan Nikles vs Laslo Djere"
+    },
+    {
+      "timestamp": 1789489434.8580801,
+      "bankroll": 68.31,
+      "event": "lost: GoalLineGhost \u2014 Will Johor Darul Ta'zim vs. Buriram United end in a draw?"
     }
   ]
 }
