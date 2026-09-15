@@ -136585,5 +136585,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789470918.2106113,
     "fills": 1
+  },
+  {
+    "timestamp": 1789471395,
+    "timestamp_added": 1789471396.5115807,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "acle-gam-con-2026-09-15-total-2pt5",
+    "title": "Gamba Osaka vs. Cong An Ha Noi FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 820.0016999999999,
+    "whale_pct": 0.55,
+    "whale_value_at_open": 149174.3268,
+    "paper_stake_usd": 3.3,
+    "odds_at_bet": 64,
+    "fee_usd": 0.059,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789471396.5115893,
+    "fills": 1
   }
 ]
