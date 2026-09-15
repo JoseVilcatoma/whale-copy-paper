@@ -135533,8 +135533,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.69,
     "overlaps_with": [
       "BreakTheBank",
       "wr0ngw4yb3tt0r"
@@ -135542,6 +135542,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789436026.4023476,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.157,
+    "closed_price": 76
   }
 ]

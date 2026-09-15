@@ -1,5 +1,5 @@
 {
-  "bankroll": 111.10079714437786,
+  "bankroll": 111.78979714437787,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27310,6 +27310,11 @@
       "timestamp": 1789435116.500898,
       "bankroll": 111.1,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1789436434.2368739,
+      "bankroll": 111.79,
+      "event": "venta anticipada:  \u2014 Broncos vs. Chiefs (+0.69 USD)"
     }
   ]
 }
