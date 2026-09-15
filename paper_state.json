@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.30815380810995,
+  "bankroll": 86.61325777298146,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27490,6 +27490,16 @@
       "timestamp": 1789457571.9477763,
       "bankroll": 85.31,
       "event": "won: RN1 \u2014 W35 Shenyang: Kristiana Sidorova vs Ya Yi Yang"
+    },
+    {
+      "timestamp": 1789458391.7911732,
+      "bankroll": 86.02,
+      "event": "won: ferrariChampions2026 \u2014 W35 Kyoto: Ayumi Miyamoto vs Rinko Matsuda"
+    },
+    {
+      "timestamp": 1789458391.8913186,
+      "bankroll": 86.61,
+      "event": "won:  \u2014 W35 Kyoto: Ayumi Miyamoto vs Rinko Matsuda"
     }
   ]
 }
