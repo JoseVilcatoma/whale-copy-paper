@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.2876656425988,
+  "bankroll": 91.6580502579834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27415,6 +27415,16 @@
       "timestamp": 1789446565.4952767,
       "bankroll": 92.29,
       "event": "won: Flaznorp \u2014 Spread: Seattle Mariners (-1.5)"
+    },
+    {
+      "timestamp": 1789446756.4566658,
+      "bankroll": 87.16,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1789446756.556889,
+      "bankroll": 91.66,
+      "event": "won: pleaseplease123 \u2014 Seattle Mariners vs. Los Angeles Angels"
     }
   ]
 }
