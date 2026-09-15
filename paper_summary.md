@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 21:49:51 (hora de Perú)
+Actualizado: 2026-09-14 21:51:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $116.84
-**Retorno acumulado:** -76.63%
+**Bankroll actual:** $117.75
+**Retorno acumulado:** -76.45%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 21:49:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.24 en 23 posiciones abiertas (disponible para nuevas apuestas: $6.60)
+**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,19 +156,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 121 | 86 | 4 | -137.49 USD |
+|  | 122 | 86 | 3 | -136.58 USD |
 | ferrariChampions2026 | 790 | 495 | 1 | -257.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5255
-- **Aciertos:** 3285 (62.5%)
+- **Apuestas resueltas:** 5256
+- **Aciertos:** 3286 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,191.49
+- **Total apostado (suma de stakes):** $26,196.49
 - **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $489.94 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $489.98 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2743 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1543 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 693 | 85.4% | 86.5% | -1.1 pp |
+| 80-94% | 694 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1014,7 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | TKD44 | Spread: Chiefs (-9.5) | Broncos (BUY) | 44% | 5.00 | 177.5% | ⏳ pendiente | — |
-|  | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 84% | 5.00 | 1.6% | ⏳ pendiente | — |
+|  | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 84% | 5.00 | 1.6% | ✅ ganada | +0.91 |
 |  | Spread: Chiefs (-2.5) | Chiefs (BUY) | 71% | 5.00 | 2.5% | ⏳ pendiente | — |
 |  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 19.4% | 💰 vendida anticipada | +0.69 |
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
