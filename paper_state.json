@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.7898219281737,
+  "bankroll": 79.75907544930045,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27450,6 +27450,11 @@
       "timestamp": 1789448924.2449267,
       "bankroll": 77.79,
       "event": "lost: DimSumConnoisseur. \u2014 Miami Marlins vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1789449544.4030101,
+      "bankroll": 79.76,
+      "event": "won:  \u2014 Spread: Chiefs (-2.5)"
     }
   ]
 }
