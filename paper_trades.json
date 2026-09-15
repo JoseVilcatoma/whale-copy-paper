@@ -135545,5 +135545,29 @@
     "fills": 3,
     "fee_total_usd": 0.157,
     "closed_price": 76
+  },
+  {
+    "timestamp": 1789436644,
+    "timestamp_added": 1789436644.786136,
+    "username": "",
+    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "slug": "nfl-den-kc-2026-09-15-spread-home-2pt5",
+    "title": "Spread: Chiefs (-2.5)",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "whale_usd": 1487.5,
+    "whale_pct": 2.472,
+    "whale_value_at_open": 60178.8639,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789436644.786148,
+    "fills": 1
   }
 ]
