@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 04:11:42 (hora de Perú)
+Actualizado: 2026-09-15 04:13:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.23
@@ -1016,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 3.6% | ⏳ pendiente | — |
-| RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 33.3% | ⏳ pendiente | — |
+| RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 41.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Tai Sach | Filip Peliwo (BUY) | 74% | 5.00 | 6.7% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 52% | 3.57 | 2.5% | ⏳ pendiente | — |
 | RN1 | M15 Tsaghkadzor: Artur Kukasian vs Vladi | Vladimir Osminkin (BUY) | 94% | 5.00 | 39.7% | ⏳ pendiente | — |
