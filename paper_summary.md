@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 00:36:13 (hora de Perú)
+Actualizado: 2026-09-15 00:38:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 00:36:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.25 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.27)
+**Capital comprometido ahora mismo:** $78.25 en 16 posiciones abiertas (disponible para nuevas apuestas: $2.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 125 | 86 | 1 | -131.45 USD |
+|  | 125 | 86 | 2 | -131.45 USD |
 | ferrariChampions2026 | 790 | 495 | 3 | -257.37 USD |
 
 ## Análisis general
@@ -1006,11 +1006,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-den-kc-2026-09-15 | , BreakTheBank, wr0ngw4yb3tt0r |
 | mlb-sea-laa-2026-09-14 | pleaseplease123, wr0ngw4yb3tt0r |
 | mlb-mia-ari-2026-09-14 | DimSumConnoisseur., wr0ngw4yb3tt0r |
+| itf-miyamo1-matsud2-2026-09-15 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ⏳ pendiente | — |
@@ -1040,4 +1042,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ✅ ganada | +2.72 |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ✅ ganada | +0.53 |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ❌ perdida | -2.86 |
