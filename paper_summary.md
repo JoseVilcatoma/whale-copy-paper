@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 15:18:19 (hora de Perú)
+Actualizado: 2026-09-15 15:20:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.93
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 15:18:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $43.36 en 9 posiciones abiertas (disponible para nuevas apuestas: $27.57)
+**Capital comprometido ahora mismo:** $58.36 en 12 posiciones abiertas (disponible para nuevas apuestas: $12.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 125 | 51 | 3 | -24.65 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| RN1 | 494 | 235 | 0 | -32.90 USD |
+| RN1 | 494 | 235 | 3 | -32.90 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
@@ -1014,6 +1014,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Peterborough United FC win on 2026- | No (BUY) | 94% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will West Ham United FC win on 2026-09-1 | No (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Tiburon: Blaise Bicknell vs Trevor Svajd | Blaise Bicknell (BUY) | 47% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arsenal FC (-1.5) | Arsenal FC (BUY) | 54% | 4.62 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will RKS Rakow Czestochowa win on 2026-0 | No (BUY) | 48% | 5.00 | 1.7% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ✅ ganada | +3.66 |
@@ -1041,6 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ✅ ganada | +1.61 |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ✅ ganada | +0.91 |
-| RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ✅ ganada | +2.27 |
-| Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 22.4% | ⏳ pendiente | — |
-| Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 1.0% | ✅ ganada | +5.73 |
