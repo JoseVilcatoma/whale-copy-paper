@@ -1,5 +1,5 @@
 {
-  "bankroll": 68.31211831706699,
+  "bankroll": 63.16911831706699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27600,6 +27600,11 @@
       "timestamp": 1789489434.8580801,
       "bankroll": 68.31,
       "event": "lost: GoalLineGhost \u2014 Will Johor Darul Ta'zim vs. Buriram United end in a draw?"
+    },
+    {
+      "timestamp": 1789493485.2738612,
+      "bankroll": 63.17,
+      "event": "lost: Flaznorp \u2014 Biella: Gianluca Cadenasso vs Francesco Forti"
     }
   ]
 }
