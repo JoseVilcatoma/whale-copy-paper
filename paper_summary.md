@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 06:13:58 (hora de Perú)
+Actualizado: 2026-09-15 06:16:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.21
-**Retorno acumulado:** -82.16%
+**Bankroll actual:** $90.73
+**Retorno acumulado:** -81.85%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 06:13:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.43 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.78)
+**Capital comprometido ahora mismo:** $87.43 en 18 posiciones abiertas (disponible para nuevas apuestas: $3.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| GoalLineGhost | 74 | 31 | 3 | -6.04 USD |
+| GoalLineGhost | 74 | 31 | 4 | -6.04 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 10 | 0 | -6.61 USD |
@@ -158,17 +158,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 127 | 86 | 2 | -130.76 USD |
-| ferrariChampions2026 | 796 | 495 | 2 | -247.58 USD |
+| ferrariChampions2026 | 797 | 495 | 1 | -246.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5295
-- **Aciertos:** 3311 (62.5%)
+- **Apuestas resueltas:** 5296
+- **Aciertos:** 3312 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,384.11
-- **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $492.76 (1.87% del capital apostado)
+- **Total apostado (suma de stakes):** $26,389.11
+- **ROI sobre lo apostado:** -2.02%
+- **Comisiones pagadas (taker fee):** $492.82 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2757 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1555 | 68.4% | 67.8% | +0.5 pp |
+| 60-79% | 1556 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 704 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 279 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1014,8 +1014,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ✅ ganada | +1.52 |
 | RN1 | M25 Sintra: Jack Anthrop vs Tiago Torres | Jack Anthrop (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.5% | ⏳ pendiente | — |
 | RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -1043,4 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Valencia CF win on 2026-09-15? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks:  | Under (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
-| DimSumConnoisseur. | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 59% | 5.00 | 144.8% | ❌ perdida | -5.10 |

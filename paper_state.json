@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.20838933214824,
+  "bankroll": 90.7273367005693,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27545,6 +27545,11 @@
       "timestamp": 1789467027.8191075,
       "bankroll": 89.21,
       "event": "lost: RN1 \u2014 Guangzhou: Luca Castelnuovo vs Omar Jasika"
+    },
+    {
+      "timestamp": 1789470879.136175,
+      "bankroll": 90.73,
+      "event": "won: ferrariChampions2026 \u2014 Caldas da Rainha: Aoi Ito vs Gabriela Knutson"
     }
   ]
 }
