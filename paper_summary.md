@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 02:03:41 (hora de Perú)
+Actualizado: 2026-09-15 02:05:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 02:03:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.74 en 16 posiciones abiertas (disponible para nuevas apuestas: $4.30)
+**Capital comprometido ahora mismo:** $83.04 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 125 | 86 | 3 | -131.45 USD |
-| ferrariChampions2026 | 791 | 495 | 2 | -255.76 USD |
+| ferrariChampions2026 | 791 | 495 | 3 | -255.76 USD |
 
 ## Análisis general
 
@@ -1012,6 +1012,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W35 Kyoto: Kayo Nishimura vs Natsumi Kaw | Natsumi Kawaguchi (BUY) | 84% | 4.30 | 0.9% | ⏳ pendiente | — |
 | RN1 | M25 Guiyang: Alibek Kachmazov vs Shaoyun | Alibek Kachmazov (BUY) | 99% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | ILT20 Continent Cup: Sierra Leone vs Uga | Uganda (BUY) | 98% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1041,4 +1042,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 84% | 5.00 | 1.6% | ✅ ganada | +0.91 |
 |  | Spread: Chiefs (-2.5) | Chiefs (BUY) | 71% | 5.00 | 2.5% | ✅ ganada | +1.97 |
 |  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 19.4% | 💰 vendida anticipada | +0.69 |
-|  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ✅ ganada | +2.72 |

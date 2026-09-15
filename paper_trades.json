@@ -136221,5 +136221,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789455788.951138,
     "fills": 1
+  },
+  {
+    "timestamp": 1789455884,
+    "timestamp_added": 1789455884.7021446,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-nishim1-kawagu1-2026-09-15",
+    "title": "W35 Kyoto: Kayo Nishimura vs Natsumi Kawaguchi",
+    "outcome": "Natsumi Kawaguchi",
+    "side": "BUY",
+    "whale_usd": 914.0199970000001,
+    "whale_pct": 0.949,
+    "whale_value_at_open": 96353.6976,
+    "paper_stake_usd": 4.3,
+    "odds_at_bet": 84,
+    "fee_usd": 0.034,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789455884.7021575,
+    "fills": 1
   }
 ]
