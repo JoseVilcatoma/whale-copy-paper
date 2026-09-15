@@ -135516,5 +135516,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789435132.4918005,
     "fills": 1
+  },
+  {
+    "timestamp": 1789435577,
+    "timestamp_added": 1789435578.4202516,
+    "username": "",
+    "wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "slug": "nfl-den-kc-2026-09-15",
+    "title": "Broncos vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "whale_usd": 3971.2896000000005,
+    "whale_pct": 8.288,
+    "whale_value_at_open": 47915.8384,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BreakTheBank",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789435578.4202638,
+    "fills": 1
   }
 ]

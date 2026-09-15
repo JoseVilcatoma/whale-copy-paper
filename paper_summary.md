@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 20:25:54 (hora de Perú)
+Actualizado: 2026-09-14 20:28:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $111.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 20:25:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $5.86)
+**Capital comprometido ahora mismo:** $110.24 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -88,6 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | BreakTheBank | 0 | 0 | 1 | +0.00 USD |
+|  | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -1000,13 +1001,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-dal-nyg-2026-09-14 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | sea-com-par-2026-09-14-spread-home-1pt5 | Flaznorp, ferrariChampions2026, wr0ngw4yb3tt0r |
 | epl-lee-new-2026-09-14-lee | Flaznorp, wr0ngw4yb3tt0r |
-| nfl-den-kc-2026-09-15 | BreakTheBank, wr0ngw4yb3tt0r |
+| nfl-den-kc-2026-09-15 | , BreakTheBank, wr0ngw4yb3tt0r |
 | mlb-sea-laa-2026-09-14 | pleaseplease123, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 8.3% | ⏳ pendiente | — |
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1036,4 +1038,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: PFC Ludogorets 1945 Razgrad (-1. | PFC Ludogorets 1945 Razgrad (BUY) | 87% | 5.00 | 0.1% | ❌ perdida | -5.03 |
 | Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ❌ perdida | -5.08 |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
-| Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ❌ perdida | -5.11 |
