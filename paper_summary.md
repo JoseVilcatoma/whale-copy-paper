@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 21:51:57 (hora de Perú)
+Actualizado: 2026-09-14 21:54:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $117.75
-**Retorno acumulado:** -76.45%
+**Bankroll actual:** $112.62
+**Retorno acumulado:** -77.48%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 21:51:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.51)
+**Capital comprometido ahora mismo:** $110.24 en 23 posiciones abiertas (disponible para nuevas apuestas: $2.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 106 | 69 | 4 | +67.78 USD |
+| wr0ngw4yb3tt0r | 106 | 69 | 5 | +67.78 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -130,7 +130,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
-| GoalLineGhost | 71 | 31 | 2 | -8.50 USD |
+| GoalLineGhost | 71 | 31 | 3 | -8.50 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -143,10 +143,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| Talvez10 | 19 | 19 | 1 | -18.00 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 0 | -18.99 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
+| Talvez10 | 19 | 20 | 0 | -23.13 USD |
 | Flaznorp | 120 | 49 | 4 | -24.53 USD |
 | pleaseplease123 | 31 | 32 | 1 | -24.92 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -161,14 +161,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5256
+- **Apuestas resueltas:** 5257
 - **Aciertos:** 3286 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,196.49
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $489.98 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,201.49
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $490.11 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -176,7 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2743 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2744 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1543 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 694 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
@@ -1009,6 +1009,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1029,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 264.1% | ✅ ganada | +3.98 |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 1.2% | ✅ ganada | +3.82 |
 | wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 39.8% | ❌ perdida | -5.12 |
@@ -1037,5 +1039,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
 | BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
 | Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
-| Flaznorp | Will Real Betis Balompié win on 2026-09- | No (BUY) | 88% | 5.00 | 0.1% | ❌ perdida | -5.03 |
-| Flaznorp | Will Villarreal CF win on 2026-09-14? | Yes (BUY) | 48% | 3.79 | 1.2% | ❌ perdida | -3.89 |
