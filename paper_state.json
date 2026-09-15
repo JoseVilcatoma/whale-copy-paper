@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.36915215458177,
+  "bankroll": 105.24359659902622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27290,6 +27290,11 @@
       "timestamp": 1789426265.301359,
       "bankroll": 103.37,
       "event": "lost: Flaznorp \u2014 Will Shelbourne FC win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789430387.6021047,
+      "bankroll": 105.24,
+      "event": "won: ferrariChampions2026 \u2014 Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend"
     }
   ]
 }
