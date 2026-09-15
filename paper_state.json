@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.13469792892072,
+  "bankroll": 71.29754115570915,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27660,6 +27660,16 @@
       "timestamp": 1789512316.2472804,
       "bankroll": 66.13,
       "event": "won: RN1 \u2014 Will West Ham United FC win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789512941.9882388,
+      "bankroll": 67.47,
+      "event": "won: Flaznorp \u2014 Will Arsenal FC win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789512942.5322523,
+      "bankroll": 71.3,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Arsenal FC (-1.5)"
     }
   ]
 }
