@@ -136245,5 +136245,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789455884.7021575,
     "fills": 1
+  },
+  {
+    "timestamp": 1789457966,
+    "timestamp_added": 1789457967.0789232,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-derepas-simakin-2026-09-15",
+    "title": "Phan Thiet 4: Timofei Derepasko vs Ilia Simakin",
+    "outcome": "Ilia Simakin",
+    "side": "BUY",
+    "whale_usd": 527.8499999999999,
+    "whale_pct": 0.62,
+    "whale_value_at_open": 85080.1595,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789457967.0789344,
+    "fills": 1
   }
 ]
