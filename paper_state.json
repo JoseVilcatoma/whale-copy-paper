@@ -1,5 +1,5 @@
 {
-  "bankroll": 107.12188805346878,
+  "bankroll": 111.10079714437786,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27305,6 +27305,11 @@
       "timestamp": 1789431339.0928543,
       "bankroll": 107.12,
       "event": "won: Flaznorp \u2014 Spread: CA Banfield (-1.5)"
+    },
+    {
+      "timestamp": 1789435116.500898,
+      "bankroll": 111.1,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }

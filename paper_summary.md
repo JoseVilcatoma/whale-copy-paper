@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 20:17:35 (hora de Perú)
+Actualizado: 2026-09-14 20:19:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $107.12
-**Retorno acumulado:** -78.58%
+**Bankroll actual:** $111.10
+**Retorno acumulado:** -77.78%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 20:17:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $1.88)
+**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $5.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -109,6 +109,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 9 | 1 | -3.75 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -126,7 +127,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 8 | 9 | 2 | -7.73 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | GoalLineGhost | 70 | 31 | 3 | -8.91 USD |
@@ -154,19 +154,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 121 | 86 | 0 | -137.49 USD |
+|  | 121 | 86 | 1 | -137.49 USD |
 | ferrariChampions2026 | 789 | 494 | 3 | -258.23 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5248
-- **Aciertos:** 3280 (62.5%)
+- **Apuestas resueltas:** 5249
+- **Aciertos:** 3281 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,156.49
-- **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $489.20 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,161.49
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $489.31 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -174,7 +174,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2737 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 2738 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1543 | 68.2% | 67.8% | +0.4 pp |
 | 80-94% | 692 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
@@ -1007,6 +1007,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ⏳ pendiente | — |
@@ -1015,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ✅ ganada | +0.36 |
 | Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 264.1% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 264.1% | ✅ ganada | +3.98 |
 | pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Talvez10 | San Francisco Giants vs. St. Louis Cardi | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1036,4 +1037,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Leeds United FC vs. Newcastle United FC: | Under (BUY) | 67% | 5.00 | 0.4% | ❌ perdida | -5.08 |
 | Flaznorp | FC Internazionale Milano vs. Udinese Cal | Over (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | Flaznorp | Will Shelbourne FC win on 2026-09-14? | Yes (BUY) | 55% | 5.00 | 0.1% | ❌ perdida | -5.11 |
-| wr0ngw4yb3tt0r | Will Leeds United FC win on 2026-09-14? | Yes (BUY) | 41% | 5.00 | 1.8% | ✅ ganada | +7.05 |
