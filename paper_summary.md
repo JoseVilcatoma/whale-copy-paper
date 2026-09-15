@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 01:59:29 (hora de Perú)
+Actualizado: 2026-09-15 02:01:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.43
-**Retorno acumulado:** -83.71%
+**Bankroll actual:** $83.04
+**Retorno acumulado:** -83.39%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 01:59:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.25 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.18)
+**Capital comprometido ahora mismo:** $73.74 en 15 posiciones abiertas (disponible para nuevas apuestas: $9.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,17 +158,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 125 | 86 | 3 | -131.45 USD |
-| ferrariChampions2026 | 790 | 495 | 3 | -257.37 USD |
+| ferrariChampions2026 | 791 | 495 | 2 | -255.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5282
-- **Aciertos:** 3300 (62.5%)
+- **Apuestas resueltas:** 5283
+- **Aciertos:** 3301 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,321.73
+- **Total apostado (suma de stakes):** $26,326.24
 - **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $492.08 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $492.14 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1550 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1551 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 700 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 277 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1015,7 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ILT20 Continent Cup: Sierra Leone vs Uga | Uganda (BUY) | 98% | 5.00 | 2.0% | ⏳ pendiente | — |
 |  | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ✅ ganada | +1.61 |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ✅ ganada | +0.91 |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |

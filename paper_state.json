@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.42813043985855,
+  "bankroll": 83.03521263163937,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27480,6 +27480,11 @@
       "timestamp": 1789454684.5183394,
       "bankroll": 81.43,
       "event": "won: RN1 \u2014 W35 Kyoto: Sayaka Ishii vs Cheuk Ying Shek"
+    },
+    {
+      "timestamp": 1789455688.855958,
+      "bankroll": 83.04,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Cruz Hewitt vs Digvijaypratap Singh"
     }
   ]
 }
