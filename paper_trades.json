@@ -136336,8 +136336,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.086,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.21,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -136384,8 +136384,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -136465,5 +136465,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789466280.1035852,
     "fills": 1
+  },
+  {
+    "timestamp": 1789466374,
+    "timestamp_added": 1789466374.7459285,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-silva2-agwi1-2026-09-15",
+    "title": "M25 Sintra: Joao Dinis Silva vs Michael Agwi",
+    "outcome": "Joao Dinis Silva",
+    "side": "BUY",
+    "whale_usd": 1434.12,
+    "whale_pct": 0.977,
+    "whale_value_at_open": 146740.0967,
+    "paper_stake_usd": 3.69,
+    "odds_at_bet": 71,
+    "fee_usd": 0.054,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789466375.1828384,
+    "fills": 2
   }
 ]

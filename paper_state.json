@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.00092308411057,
+  "bankroll": 94.28638933214825,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27530,6 +27530,16 @@
       "timestamp": 1789466270.1474214,
       "bankroll": 86.0,
       "event": "won: ferrariChampions2026 \u2014 Biella: Izan Almazan Valiente vs Franco Agamenone"
+    },
+    {
+      "timestamp": 1789466457.4603813,
+      "bankroll": 89.21,
+      "event": "won: ferrariChampions2026 \u2014 Guangzhou: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1789466457.5605848,
+      "bankroll": 94.29,
+      "event": "won: RN1 \u2014 Guangzhou: Shintaro Mochizuki vs Pavel Kotov"
     }
   ]
 }
