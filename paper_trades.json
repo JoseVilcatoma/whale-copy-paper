@@ -135610,8 +135610,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -135795,8 +135795,8 @@
     "title": "San Diego Padres vs. Colorado Rockies",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 6538.358022,
-    "whale_pct": 1.926,
+    "whale_usd": 10985.343622,
+    "whale_pct": 3.236,
     "whale_value_at_open": 339509.4703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -135807,8 +135807,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789442917.4731934,
-    "fills": 7
+    "last_fill_at": 1789443548.964531,
+    "fills": 9
   },
   {
     "timestamp": 1789442657,

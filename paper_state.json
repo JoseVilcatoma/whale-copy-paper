@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.63589435739624,
+  "bankroll": 91.49589435739624,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27390,6 +27390,11 @@
       "timestamp": 1789443292.1031852,
       "bankroll": 96.64,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Broncos Team Total: O/U 20.5"
+    },
+    {
+      "timestamp": 1789443607.3491929,
+      "bankroll": 91.5,
+      "event": "lost: TKD44 \u2014 Spread: Chiefs (-9.5)"
     }
   ]
 }
