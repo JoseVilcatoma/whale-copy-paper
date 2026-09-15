@@ -136061,8 +136061,8 @@
     "title": "W35 Shenyang: Kristiana Sidorova vs Ya Yi Yang",
     "outcome": "Kristiana Sidorova",
     "side": "BUY",
-    "whale_usd": 669.33,
-    "whale_pct": 2.407,
+    "whale_usd": 1228.77,
+    "whale_pct": 4.419,
     "whale_value_at_open": 27808.7796,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -136073,7 +136073,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789450039.3705366,
-    "fills": 1
+    "last_fill_at": 1789450186.7881086,
+    "fills": 2
   }
 ]

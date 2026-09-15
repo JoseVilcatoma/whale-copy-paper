@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 00:28:06 (hora de Perú)
+Actualizado: 2026-09-15 00:30:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.25
@@ -1011,7 +1011,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.6% | ⏳ pendiente | — |
