@@ -135795,8 +135795,8 @@
     "title": "San Diego Padres vs. Colorado Rockies",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 5443.365222,
-    "whale_pct": 1.603,
+    "whale_usd": 6538.358022,
+    "whale_pct": 1.926,
     "whale_value_at_open": 339509.4703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -135807,8 +135807,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789442785.4400177,
-    "fills": 6
+    "last_fill_at": 1789442917.4731934,
+    "fills": 7
   },
   {
     "timestamp": 1789442657,
@@ -135843,8 +135843,8 @@
     "title": "Miami Marlins vs. Arizona Diamondbacks",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 26474.001330000003,
-    "whale_pct": 119.56,
+    "whale_usd": 32053.841330000003,
+    "whale_pct": 144.759,
     "whale_value_at_open": 22142.925,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -135857,7 +135857,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789442797.707585,
-    "fills": 9
+    "last_fill_at": 1789442814.649664,
+    "fills": 10
   }
 ]
