@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 04:03:17 (hora de Perú)
+Actualizado: 2026-09-15 04:05:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.23
