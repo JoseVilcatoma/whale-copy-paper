@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.03521263163937,
+  "bankroll": 85.30815380810995,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27485,6 +27485,11 @@
       "timestamp": 1789455688.855958,
       "bankroll": 83.04,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Cruz Hewitt vs Digvijaypratap Singh"
+    },
+    {
+      "timestamp": 1789457571.9477763,
+      "bankroll": 85.31,
+      "event": "won: RN1 \u2014 W35 Shenyang: Kristiana Sidorova vs Ya Yi Yang"
     }
   ]
 }

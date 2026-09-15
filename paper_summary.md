@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 02:30:52 (hora de Perú)
+Actualizado: 2026-09-15 02:32:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.04
-**Retorno acumulado:** -83.39%
+**Bankroll actual:** $85.31
+**Retorno acumulado:** -82.94%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 02:30:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.04 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $78.04 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,9 +146,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 2 | 5 | 1 | -18.99 USD |
+| RN1 | 491 | 230 | 1 | -19.34 USD |
 | Flaznorp | 124 | 49 | 6 | -20.20 USD |
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
-| RN1 | 490 | 230 | 2 | -21.61 USD |
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -162,14 +162,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5283
-- **Aciertos:** 3301 (62.5%)
+- **Apuestas resueltas:** 5284
+- **Aciertos:** 3302 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,326.24
-- **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $492.14 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,331.24
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $492.22 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1551 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1552 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 700 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 277 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1019,7 +1019,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ✅ ganada | +1.61 |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ✅ ganada | +0.91 |
-| RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ✅ ganada | +2.27 |
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.6% | ⏳ pendiente | — |
