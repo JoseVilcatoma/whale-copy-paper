@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 00:30:07 (hora de Perú)
+Actualizado: 2026-09-15 00:32:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 00:30:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.74 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.51)
+**Capital comprometido ahora mismo:** $78.25 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 2 | 5 | 1 | -18.99 USD |
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
 | Flaznorp | 122 | 49 | 8 | -22.47 USD |
-| RN1 | 489 | 230 | 1 | -22.52 USD |
+| RN1 | 489 | 230 | 2 | -22.52 USD |
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 125 | 86 | 1 | -131.45 USD |
-| ferrariChampions2026 | 790 | 495 | 1 | -257.37 USD |
+| ferrariChampions2026 | 790 | 495 | 2 | -257.37 USD |
 
 ## Análisis general
 
@@ -1011,6 +1011,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ⏳ pendiente | — |
+| RN1 | W35 Kyoto: Sayaka Ishii vs Cheuk Ying Sh | Sayaka Ishii (BUY) | 84% | 5.00 | 5.6% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Ya Y | Kristiana Sidorova (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1039,5 +1041,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ❌ perdida | -2.86 |
 | GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 3.2% | ❌ perdida | -5.12 |
-| Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ✅ ganada | +0.36 |
