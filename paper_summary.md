@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:30:21 (hora de Perú)
+Actualizado: 2026-09-14 23:32:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.29
@@ -1013,7 +1013,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks:  | Under (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
 | DimSumConnoisseur. | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 59% | 5.00 | 144.8% | ⏳ pendiente | — |
-| Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 3.2% | ✅ ganada | +0.98 |
 |  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |

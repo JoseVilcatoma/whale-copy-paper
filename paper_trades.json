@@ -135819,8 +135819,8 @@
     "title": "Spread: Real Madrid CF (-2.5)",
     "outcome": "Elche CF",
     "side": "BUY",
-    "whale_usd": 1191.51,
-    "whale_pct": 0.369,
+    "whale_usd": 2259.084,
+    "whale_pct": 0.7,
     "whale_value_at_open": 322810.0885,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -135831,8 +135831,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789442658.1929145,
-    "fills": 1
+    "last_fill_at": 1789446622.3135993,
+    "fills": 2
   },
   {
     "timestamp": 1789442725,
