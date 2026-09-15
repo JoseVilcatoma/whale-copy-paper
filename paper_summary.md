@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 02:47:39 (hora de Perú)
+Actualizado: 2026-09-15 02:49:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 02:47:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.04 en 17 posiciones abiertas (disponible para nuevas apuestas: $3.57)
+**Capital comprometido ahora mismo:** $86.61 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 126 | 86 | 3 | -130.86 USD |
-| ferrariChampions2026 | 792 | 495 | 2 | -255.05 USD |
+| ferrariChampions2026 | 792 | 495 | 3 | -255.05 USD |
 
 ## Análisis general
 
@@ -1013,6 +1013,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 52% | 3.57 | 1.6% | ⏳ pendiente | — |
 | RN1 | M15 Tsaghkadzor: Artur Kukasian vs Vladi | Vladimir Osminkin (BUY) | 94% | 5.00 | 15.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Real Madrid CF (-2.5) | Real Madrid CF (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Phan Thiet 4: Timofei Derepasko vs Ilia  | Ilia Simakin (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1042,4 +1043,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 12.4% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
 |  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ✅ ganada | +1.05 |
-| TKD44 | Spread: Chiefs (-9.5) | Broncos (BUY) | 44% | 5.00 | 177.5% | ❌ perdida | -5.14 |
