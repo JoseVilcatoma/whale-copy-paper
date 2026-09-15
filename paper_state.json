@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.60733670056929,
+  "bankroll": 80.5423367005693,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27555,6 +27555,11 @@
       "timestamp": 1789472764.4921098,
       "bankroll": 85.61,
       "event": "lost:  \u2014 Game Handicap: T1.A (-1.5) vs KT Rolster Challengers (+1.5)"
+    },
+    {
+      "timestamp": 1789473940.9896262,
+      "bankroll": 80.54,
+      "event": "lost: RN1 \u2014 M25 Sintra: Jack Anthrop vs Tiago Torres"
     }
   ]
 }
