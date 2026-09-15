@@ -136279,8 +136279,8 @@
     "title": "Spread: Real Madrid CF (-2.5)",
     "outcome": "Real Madrid CF",
     "side": "BUY",
-    "whale_usd": 918.0,
-    "whale_pct": 1.004,
+    "whale_usd": 1787.1680000000001,
+    "whale_pct": 1.955,
     "whale_value_at_open": 91427.4211,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -136293,8 +136293,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789458426.1672227,
-    "fills": 1
+    "last_fill_at": 1789467661.958243,
+    "fills": 2
   },
   {
     "timestamp": 1789458425,
@@ -136499,8 +136499,8 @@
     "title": "M25 Sintra: Jack Anthrop vs Tiago Torres",
     "outcome": "Jack Anthrop",
     "side": "BUY",
-    "whale_usd": 1443.26,
-    "whale_pct": 1.002,
+    "whale_usd": 2025.1999999999998,
+    "whale_pct": 1.407,
     "whale_value_at_open": 143972.3504,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -136511,8 +136511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789466498.5383735,
-    "fills": 2
+    "last_fill_at": 1789467571.0140247,
+    "fills": 3
   },
   {
     "timestamp": 1789466513,
