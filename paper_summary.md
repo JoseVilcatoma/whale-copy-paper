@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 16:50:59 (hora de Perú)
+Actualizado: 2026-09-15 16:53:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 16:50:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.93 en 14 posiciones abiertas (disponible para nuevas apuestas: $3.93)
+**Capital comprometido ahora mismo:** $69.86 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 128 | 88 | 0 | -140.90 USD |
-| ferrariChampions2026 | 798 | 495 | 5 | -242.40 USD |
+| ferrariChampions2026 | 798 | 495 | 6 | -242.40 USD |
 
 ## Análisis general
 
@@ -1014,6 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 5.0% | ⏳ pendiente | — |
@@ -1043,4 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: Real Madrid CF (-2.5) | Real Madrid CF (BUY) | 41% | 5.00 | 2.0% | ❌ perdida | -5.15 |
 |  | Phan Thiet 4: Timofei Derepasko vs Ilia  | Ilia Simakin (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | W35 Kyoto: Kayo Nishimura vs Natsumi Kaw | Natsumi Kawaguchi (BUY) | 84% | 4.30 | 0.9% | ✅ ganada | +0.79 |
-| RN1 | M25 Guiyang: Alibek Kachmazov vs Shaoyun | Alibek Kachmazov (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
