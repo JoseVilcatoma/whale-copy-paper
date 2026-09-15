@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.5423367005693,
+  "bankroll": 76.89537751689582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27560,6 +27560,16 @@
       "timestamp": 1789473940.9896262,
       "bankroll": 80.54,
       "event": "lost: RN1 \u2014 M25 Sintra: Jack Anthrop vs Tiago Torres"
+    },
+    {
+      "timestamp": 1789474250.502306,
+      "bankroll": 80.64,
+      "event": "won:  \u2014 ILT20 Continent Cup: Sierra Leone vs Uganda"
+    },
+    {
+      "timestamp": 1789474251.218045,
+      "bankroll": 76.9,
+      "event": "lost: RN1 \u2014 M25 Sintra: Joao Dinis Silva vs Michael Agwi"
     }
   ]
 }

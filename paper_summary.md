@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 07:09:19 (hora de Perú)
+Actualizado: 2026-09-15 07:11:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.54
-**Retorno acumulado:** -83.89%
+**Bankroll actual:** $76.90
+**Retorno acumulado:** -84.62%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 07:09:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.73 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $72.04 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,25 +151,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| RN1 | 493 | 233 | 2 | -29.37 USD |
+| RN1 | 493 | 234 | 1 | -33.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 127 | 87 | 1 | -135.88 USD |
+|  | 128 | 87 | 0 | -135.78 USD |
 | ferrariChampions2026 | 797 | 495 | 1 | -246.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5298
-- **Aciertos:** 3312 (62.5%)
+- **Apuestas resueltas:** 5300
+- **Aciertos:** 3313 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,399.11
-- **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $493.00 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,407.80
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $493.06 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,9 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2758 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1557 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1558 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 704 | 85.5% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 279 | 97.1% | 97.3% | -0.2 pp |
+| 95-99% (casi seguro) | 280 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1019,7 +1019,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ✅ ganada | +1.52 |
 | RN1 | M25 Sintra: Jack Anthrop vs Tiago Torres | Jack Anthrop (BUY) | 74% | 5.00 | 1.4% | ❌ perdida | -5.07 |
-| RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.5% | ⏳ pendiente | — |
+| RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.5% | ❌ perdida | -3.74 |
 | RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 11.0% | ❌ perdida | -5.08 |
@@ -1031,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Phan Thiet 4: Timofei Derepasko vs Ilia  | Ilia Simakin (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | W35 Kyoto: Kayo Nishimura vs Natsumi Kaw | Natsumi Kawaguchi (BUY) | 84% | 4.30 | 0.9% | ✅ ganada | +0.79 |
 | RN1 | M25 Guiyang: Alibek Kachmazov vs Shaoyun | Alibek Kachmazov (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
-|  | ILT20 Continent Cup: Sierra Leone vs Uga | Uganda (BUY) | 98% | 5.00 | 2.0% | ⏳ pendiente | — |
+|  | ILT20 Continent Cup: Sierra Leone vs Uga | Uganda (BUY) | 98% | 5.00 | 2.0% | ✅ ganada | +0.10 |
 |  | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 89% | 5.00 | 0.8% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | W35 Kyoto: Ayumi Miyamoto vs Rinko Matsu | Rinko Matsuda (BUY) | 87% | 5.00 | 1.2% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | Phan Thiet 4: Cruz Hewitt vs Digvijaypra | Cruz Hewitt (BUY) | 73% | 4.51 | 4.8% | ✅ ganada | +1.61 |
