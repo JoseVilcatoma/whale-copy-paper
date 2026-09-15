@@ -135430,8 +135430,8 @@
     "title": "Broncos vs. Chiefs: O/U 43.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4504.0302,
-    "whale_pct": 6.433,
+    "whale_usd": 20444.239999999998,
+    "whale_pct": 29.202,
     "whale_value_at_open": 70009.8872,
     "paper_stake_usd": 2.79,
     "odds_at_bet": 47,
@@ -135442,7 +135442,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789430493.3430343,
-    "fills": 1
+    "last_fill_at": 1789430845.3864396,
+    "fills": 2
   }
 ]
