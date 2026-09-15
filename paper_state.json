@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.23460801561741,
+  "bankroll": 84.21960801561741,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27520,6 +27520,11 @@
       "timestamp": 1789462046.705618,
       "bankroll": 89.23,
       "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Filip Peliwo vs Tai Sach"
+    },
+    {
+      "timestamp": 1789465073.4777954,
+      "bankroll": 84.22,
+      "event": "lost: RN1 \u2014 M15 Tsaghkadzor: Artur Kukasian vs Vladimir Osminkin"
     }
   ]
 }
