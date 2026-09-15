@@ -1,5 +1,5 @@
 {
-  "bankroll": 112.02589435739625,
+  "bankroll": 96.63589435739624,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27375,6 +27375,21 @@
       "timestamp": 1789442977.7226954,
       "bankroll": 112.03,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1789443291.6468234,
+      "bankroll": 106.89,
+      "event": "lost: BreakTheBank \u2014 Broncos vs. Chiefs"
+    },
+    {
+      "timestamp": 1789443291.7470152,
+      "bankroll": 101.76,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Broncos vs. Chiefs"
+    },
+    {
+      "timestamp": 1789443292.1031852,
+      "bankroll": 96.64,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Broncos Team Total: O/U 20.5"
     }
   ]
 }
