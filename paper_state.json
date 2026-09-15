@@ -1,5 +1,5 @@
 {
-  "bankroll": 111.78979714437787,
+  "bankroll": 106.66979714437787,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27315,6 +27315,11 @@
       "timestamp": 1789436434.2368739,
       "bankroll": 111.79,
       "event": "venta anticipada:  \u2014 Broncos vs. Chiefs (+0.69 USD)"
+    },
+    {
+      "timestamp": 1789437316.8256922,
+      "bankroll": 106.67,
+      "event": "lost: pleaseplease123 \u2014 Atlanta Braves vs. Chicago Cubs: O/U 9.5"
     }
   ]
 }
