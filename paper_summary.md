@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 22:24:42 (hora de Perú)
+Actualizado: 2026-09-14 22:26:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $116.62
-**Retorno acumulado:** -76.68%
+**Bankroll actual:** $117.15
+**Retorno acumulado:** -76.57%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 22:24:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.24 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.38)
+**Capital comprometido ahora mismo:** $115.24 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | BreakTheBank | 0 | 0 | 1 | +0.00 USD |
 | TKD44 | 0 | 0 | 1 | +0.00 USD |
+| DimSumConnoisseur. | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -127,9 +128,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
+| GoalLineGhost | 73 | 31 | 1 | -6.69 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| GoalLineGhost | 72 | 31 | 2 | -7.22 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -161,13 +162,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5259
-- **Aciertos:** 3288 (62.5%)
+- **Apuestas resueltas:** 5260
+- **Aciertos:** 3289 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,211.49
+- **Total apostado (suma de stakes):** $26,216.49
 - **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $490.26 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $490.28 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -178,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2744 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1545 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 694 | 85.4% | 86.5% | -1.1 pp |
+| 80-94% | 695 | 85.5% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1004,13 +1005,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | epl-lee-new-2026-09-14-lee | Flaznorp, wr0ngw4yb3tt0r |
 | nfl-den-kc-2026-09-15 | , BreakTheBank, wr0ngw4yb3tt0r |
 | mlb-sea-laa-2026-09-14 | pleaseplease123, wr0ngw4yb3tt0r |
+| mlb-mia-ari-2026-09-14 | DimSumConnoisseur., wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DimSumConnoisseur. | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 59% | 5.00 | 119.6% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1023,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: Chiefs (-2.5) | Chiefs (BUY) | 71% | 5.00 | 2.5% | ⏳ pendiente | — |
 |  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 19.4% | 💰 vendida anticipada | +0.69 |
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ✅ ganada | +2.72 |
-| GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
+| GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ✅ ganada | +0.53 |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
@@ -1038,4 +1041,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Atlanta Braves vs. Chicago Cubs | Chicago Cubs (BUY) | 56% | 5.00 | 1.2% | ✅ ganada | +3.82 |
 | wr0ngw4yb3tt0r | Broncos Team Total: O/U 20.5 | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 39.8% | ❌ perdida | -5.12 |
-| Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 5.3% | ✅ ganada | +5.08 |

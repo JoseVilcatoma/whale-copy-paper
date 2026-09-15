@@ -135485,8 +135485,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -135795,8 +135795,8 @@
     "title": "San Diego Padres vs. Colorado Rockies",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 725.475222,
-    "whale_pct": 0.214,
+    "whale_usd": 5443.365222,
+    "whale_pct": 1.603,
     "whale_value_at_open": 339509.4703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -135807,8 +135807,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789441664.8619878,
-    "fills": 1
+    "last_fill_at": 1789442785.4400177,
+    "fills": 6
   },
   {
     "timestamp": 1789442657,
@@ -135833,5 +135833,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789442658.1929145,
     "fills": 1
+  },
+  {
+    "timestamp": 1789442725,
+    "timestamp_added": 1789442725.5944016,
+    "username": "DimSumConnoisseur.",
+    "wallet": "0xe3c9c84c9917d21351902f3bfde3420543ea4b9c",
+    "slug": "mlb-mia-ari-2026-09-14",
+    "title": "Miami Marlins vs. Arizona Diamondbacks",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 26474.001330000003,
+    "whale_pct": 119.56,
+    "whale_value_at_open": 22142.925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789442797.707585,
+    "fills": 9
   }
 ]
