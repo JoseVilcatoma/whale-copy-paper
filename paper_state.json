@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.29754115570915,
+  "bankroll": 74.6691174268956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27670,6 +27670,11 @@
       "timestamp": 1789512942.5322523,
       "bankroll": 71.3,
       "event": "won: ferrariChampions2026 \u2014 Spread: Arsenal FC (-1.5)"
+    },
+    {
+      "timestamp": 1789513255.032303,
+      "bankroll": 74.67,
+      "event": "won: GoalLineGhost \u2014 Will Liverpool FC win on 2026-09-15?"
     }
   ]
 }
