@@ -137101,8 +137101,8 @@
     "title": "Los Angeles Dodgers vs. Cincinnati Reds",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 5405.9232809999985,
-    "whale_pct": 5.718,
+    "whale_usd": 10234.203280999998,
+    "whale_pct": 10.824,
     "whale_value_at_open": 94547.7388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -137115,8 +137115,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789513482.1038883,
-    "fills": 4
+    "last_fill_at": 1789513758.770233,
+    "fills": 6
   },
   {
     "timestamp": 1789513521,
@@ -137140,6 +137140,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1789513522.1239672,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789513725,
+    "timestamp_added": 1789513725.5002873,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bol1-abb-str-2026-09-15-str",
+    "title": "Will Club The Strongest win on 2026-09-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 647.0038000000001,
+    "whale_pct": 0.325,
+    "whale_value_at_open": 199381.4978,
+    "paper_stake_usd": 4.99,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789513725.5003,
     "fills": 1
   }
 ]
