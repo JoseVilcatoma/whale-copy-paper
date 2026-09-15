@@ -136835,8 +136835,8 @@
     "title": "Boston Red Sox vs. Texas Rangers: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 5171.46,
-    "whale_pct": 17.072,
+    "whale_usd": 17654.516778999998,
+    "whale_pct": 58.281,
     "whale_value_at_open": 30292.0892,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -136847,8 +136847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789503747.000639,
-    "fills": 1
+    "last_fill_at": 1789508252.6572602,
+    "fills": 3
   },
   {
     "timestamp": 1789504199,
