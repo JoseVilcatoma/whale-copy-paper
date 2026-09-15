@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 20:32:12 (hora de Perú)
+Actualizado: 2026-09-14 20:34:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $111.10
@@ -1008,7 +1008,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 8.3% | ⏳ pendiente | — |
+|  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 19.4% | ⏳ pendiente | — |
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
