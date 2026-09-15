@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 21:33:06 (hora de Perú)
+Actualizado: 2026-09-14 21:35:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $117.72
-**Retorno acumulado:** -76.46%
+**Bankroll actual:** $118.13
+**Retorno acumulado:** -76.37%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 21:33:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.48)
+**Capital comprometido ahora mismo:** $100.24 en 21 posiciones abiertas (disponible para nuevas apuestas: $17.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -130,8 +130,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
+| GoalLineGhost | 71 | 31 | 2 | -8.50 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| GoalLineGhost | 70 | 31 | 3 | -8.91 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -161,14 +161,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5252
-- **Aciertos:** 3283 (62.5%)
+- **Apuestas resueltas:** 5253
+- **Aciertos:** 3284 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,176.49
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $489.70 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,181.49
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $489.72 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2741 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1543 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 692 | 85.4% | 86.5% | -1.1 pp |
+| 80-94% | 693 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1015,7 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Broncos vs. Chiefs | Chiefs (BUY) | 65% | 5.00 | 19.4% | 💰 vendida anticipada | +0.69 |
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
-| GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 3.2% | ⏳ pendiente | — |

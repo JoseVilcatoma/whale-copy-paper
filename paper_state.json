@@ -1,5 +1,5 @@
 {
-  "bankroll": 117.71898988814203,
+  "bankroll": 118.13377249683768,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27330,6 +27330,11 @@
       "timestamp": 1789439204.7605612,
       "bankroll": 117.72,
       "event": "won: Talvez10 \u2014 New York Yankees vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1789439645.5357974,
+      "bankroll": 118.13,
+      "event": "won: GoalLineGhost \u2014 Will AA Estudiantes win on 2026-09-14?"
     }
   ]
 }
