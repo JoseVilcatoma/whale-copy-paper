@@ -136475,8 +136475,8 @@
     "title": "M25 Sintra: Joao Dinis Silva vs Michael Agwi",
     "outcome": "Joao Dinis Silva",
     "side": "BUY",
-    "whale_usd": 1434.12,
-    "whale_pct": 0.977,
+    "whale_usd": 2190.94,
+    "whale_pct": 1.493,
     "whale_value_at_open": 146740.0967,
     "paper_stake_usd": 3.69,
     "odds_at_bet": 71,
@@ -136487,8 +136487,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789466375.1828384,
-    "fills": 2
+    "last_fill_at": 1789467552.307088,
+    "fills": 3
   },
   {
     "timestamp": 1789466497,
