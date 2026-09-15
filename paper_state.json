@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.89537751689582,
+  "bankroll": 71.81737751689582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27570,6 +27570,11 @@
       "timestamp": 1789474251.218045,
       "bankroll": 76.9,
       "event": "lost: RN1 \u2014 M25 Sintra: Joao Dinis Silva vs Michael Agwi"
+    },
+    {
+      "timestamp": 1789476752.8950768,
+      "bankroll": 71.82,
+      "event": "lost: RN1 \u2014 W50 Pazardzhik: Jule Niemeier vs Lia Karatancheva"
     }
   ]
 }
