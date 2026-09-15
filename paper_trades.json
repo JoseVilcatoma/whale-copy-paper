@@ -135917,8 +135917,8 @@
     "title": "Will Deportivo Alav\u00e9s vs. Valencia CF end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 892.2887999999999,
-    "whale_pct": 0.8,
+    "whale_usd": 2433.3991,
+    "whale_pct": 2.182,
     "whale_value_at_open": 111515.9677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -135929,8 +135929,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789446970.8331454,
-    "fills": 1
+    "last_fill_at": 1789472495.2047539,
+    "fills": 2
   },
   {
     "timestamp": 1789447003,

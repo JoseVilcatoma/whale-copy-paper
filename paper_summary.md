@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 06:40:15 (hora de Perú)
+Actualizado: 2026-09-15 06:42:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.73
@@ -1042,5 +1042,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ✅ ganada | +2.17 |
 | Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
-| GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
+| GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Flaznorp | Will Valencia CF win on 2026-09-15? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
