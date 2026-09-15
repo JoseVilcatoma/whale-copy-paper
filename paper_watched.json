@@ -8,55 +8,55 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1789319795.5598989,
-    "roi_pct": 701.81,
+    "roi_pct": 700.78,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1789442671.226606,
-    "roi_pct": 2854.3,
-    "short_term_pct": 100.0
+    "roi_pct": 2419.34,
+    "short_term_pct": 80.0
   },
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1789453314.3077345,
-    "roi_pct": 35.37,
-    "short_term_pct": 100.0
+    "roi_pct": 31.56,
+    "short_term_pct": 70.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1789464540.3907225,
-    "roi_pct": 665.48,
+    "roi_pct": 634.09,
     "short_term_pct": 100.0
   },
   "0x2117ae94a97d69b78cbc81b6680a62deb1955c26": {
     "username": "Zzzz87",
     "added_at": 1789475266.6599262,
-    "roi_pct": 38.99,
+    "roi_pct": 39.04,
     "short_term_pct": 80.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1789476216.922036,
-    "roi_pct": 212.54,
+    "roi_pct": 217.38,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789478109.9361124,
-    "roi_pct": 74.03,
+    "roi_pct": 70.05,
     "short_term_pct": 100.0
   },
-  "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
-    "username": "purplegatto",
-    "added_at": 1789481892.9680939,
-    "roi_pct": 27.78,
-    "short_term_pct": 70.0
+  "0x51698a47f840a242abc2ca0351371c7ffac41842": {
+    "username": "00gringo00",
+    "added_at": 1789484717.0799677,
+    "roi_pct": 555.23,
+    "short_term_pct": 100.0
   },
-  "0x7b02b2bac2a30ed5e40b7094e734f4c3dc2a4991": {
-    "username": "foodenjoyer",
-    "added_at": 1789483778.0711708,
-    "roi_pct": 10.2,
-    "short_term_pct": 90.0
+  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
+    "username": "donthackme",
+    "added_at": 1789484717.0799687,
+    "roi_pct": 454.6,
+    "short_term_pct": 40.0
   }
 }
