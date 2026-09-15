@@ -136451,8 +136451,8 @@
     "title": "W50 Pazardzhik: Jule Niemeier vs Lia Karatancheva",
     "outcome": "Jule Niemeier",
     "side": "BUY",
-    "whale_usd": 1328.8400000000001,
-    "whale_pct": 0.708,
+    "whale_usd": 3365.12,
+    "whale_pct": 1.794,
     "whale_value_at_open": 187575.978,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -136463,8 +136463,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789466876.0893798,
-    "fills": 2
+    "last_fill_at": 1789467221.5998623,
+    "fills": 5
   },
   {
     "timestamp": 1789466374,

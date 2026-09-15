@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 05:13:11 (hora de Perú)
+Actualizado: 2026-09-15 05:15:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.21
@@ -1018,7 +1018,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Jack Anthrop vs Tiago Torres | Jack Anthrop (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.0% | ⏳ pendiente | — |
-| RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 11.0% | ❌ perdida | -5.08 |
 | RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 50.8% | ✅ ganada | +5.08 |
