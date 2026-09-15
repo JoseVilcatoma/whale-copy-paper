@@ -1,5 +1,5 @@
 {
-  "bankroll": 118.13377249683768,
+  "bankroll": 113.02177249683768,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27335,6 +27335,11 @@
       "timestamp": 1789439645.5357974,
       "bankroll": 118.13,
       "event": "won: GoalLineGhost \u2014 Will AA Estudiantes win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789439833.1588793,
+      "bankroll": 113.02,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Toronto Blue Jays"
     }
   ]
 }
