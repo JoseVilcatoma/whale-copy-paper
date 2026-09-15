@@ -136377,8 +136377,8 @@
     "title": "Guangzhou: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 2491.68,
-    "whale_pct": 5.38,
+    "whale_usd": 3855.960172,
+    "whale_pct": 8.326,
     "whale_value_at_open": 46312.8641,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -136391,8 +136391,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789460413.907771,
-    "fills": 1
+    "last_fill_at": 1789461982.0403142,
+    "fills": 2
   },
   {
     "timestamp": 1789460686,
