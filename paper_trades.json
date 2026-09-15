@@ -136403,8 +136403,8 @@
     "title": "Guangzhou: Luca Castelnuovo vs Omar Jasika",
     "outcome": "Omar Jasika",
     "side": "BUY",
-    "whale_usd": 4728.492729,
-    "whale_pct": 9.563,
+    "whale_usd": 5448.152955,
+    "whale_pct": 11.019,
     "whale_value_at_open": 49443.8713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -136415,8 +136415,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789463733.1812139,
-    "fills": 3
+    "last_fill_at": 1789463973.2264044,
+    "fills": 4
   },
   {
     "timestamp": 1789462126,
