@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.01055171854816,
+  "bankroll": 92.2876656425988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27410,6 +27410,11 @@
       "timestamp": 1789446374.1289108,
       "bankroll": 91.01,
       "event": "won:  \u2014 W35 Shenyang: Miho Kuramochi vs Priska Madelyn Nugroho"
+    },
+    {
+      "timestamp": 1789446565.4952767,
+      "bankroll": 92.29,
+      "event": "won: Flaznorp \u2014 Spread: Seattle Mariners (-1.5)"
     }
   ]
 }
