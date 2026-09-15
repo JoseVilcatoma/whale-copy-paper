@@ -135675,8 +135675,8 @@
     "title": "Game Handicap: T1.A (-1.5) vs KT Rolster Challengers (+1.5)",
     "outcome": "KT Rolster Challengers",
     "side": "BUY",
-    "whale_usd": 5706.610000000001,
-    "whale_pct": 8.356,
+    "whale_usd": 7936.630000000001,
+    "whale_pct": 11.622,
     "whale_value_at_open": 68290.1444,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -135687,8 +135687,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789447009.9585445,
-    "fills": 2
+    "last_fill_at": 1789447658.7392235,
+    "fills": 3
   },
   {
     "timestamp": 1789440275,
