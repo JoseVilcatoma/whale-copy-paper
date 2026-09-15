@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.7273367005693,
+  "bankroll": 85.60733670056929,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27550,6 +27550,11 @@
       "timestamp": 1789470879.136175,
       "bankroll": 90.73,
       "event": "won: ferrariChampions2026 \u2014 Caldas da Rainha: Aoi Ito vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1789472764.4921098,
+      "bankroll": 85.61,
+      "event": "lost:  \u2014 Game Handicap: T1.A (-1.5) vs KT Rolster Challengers (+1.5)"
     }
   ]
 }
