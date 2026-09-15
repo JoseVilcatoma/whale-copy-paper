@@ -136173,5 +136173,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789450615.6529193,
     "fills": 1
+  },
+  {
+    "timestamp": 1789454813,
+    "timestamp_added": 1789454814.2596714,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "crint-sle-uga-2026-09-15",
+    "title": "ILT20 Continent Cup: Sierra Leone vs Uganda",
+    "outcome": "Uganda",
+    "side": "BUY",
+    "whale_usd": 1597.509993,
+    "whale_pct": 1.952,
+    "whale_value_at_open": 81858.9804,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789454814.2596824,
+    "fills": 1
   }
 ]
