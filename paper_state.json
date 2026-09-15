@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.16911831706699,
+  "bankroll": 70.93166526961811,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27605,6 +27605,26 @@
       "timestamp": 1789493485.2738612,
       "bankroll": 63.17,
       "event": "lost: Flaznorp \u2014 Biella: Gianluca Cadenasso vs Francesco Forti"
+    },
+    {
+      "timestamp": 1789503456.7453024,
+      "bankroll": 58.13,
+      "event": "lost: Flaznorp \u2014 Will Valencia CF win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789503457.0601022,
+      "bankroll": 59.91,
+      "event": "won: GoalLineGhost \u2014 Will Deportivo Alav\u00e9s vs. Valencia CF end in a draw?"
+    },
+    {
+      "timestamp": 1789503457.7223473,
+      "bankroll": 65.64,
+      "event": "won: Flaznorp \u2014 Will Deportivo Alav\u00e9s win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789503458.7754903,
+      "bankroll": 70.93,
+      "event": "won: RN1 \u2014 Will RKS Rakow Czestochowa win on 2026-09-15?"
     }
   ]
 }
