@@ -136377,8 +136377,8 @@
     "title": "Guangzhou: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 19050.939791,
-    "whale_pct": 41.135,
+    "whale_usd": 23515.199791,
+    "whale_pct": 50.775,
     "whale_value_at_open": 46312.8641,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -136391,8 +136391,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789463579.7302322,
-    "fills": 8
+    "last_fill_at": 1789463663.4893134,
+    "fills": 9
   },
   {
     "timestamp": 1789460686,
@@ -136403,8 +136403,8 @@
     "title": "Guangzhou: Luca Castelnuovo vs Omar Jasika",
     "outcome": "Omar Jasika",
     "side": "BUY",
-    "whale_usd": 1767.8882360000002,
-    "whale_pct": 3.576,
+    "whale_usd": 4728.492729,
+    "whale_pct": 9.563,
     "whale_value_at_open": 49443.8713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -136415,8 +136415,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789460783.4895833,
-    "fills": 2
+    "last_fill_at": 1789463733.1812139,
+    "fills": 3
   },
   {
     "timestamp": 1789462126,
