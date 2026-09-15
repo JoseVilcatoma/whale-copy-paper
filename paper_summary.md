@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 00:24:00 (hora de Perú)
+Actualizado: 2026-09-15 00:26:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $79.76
-**Retorno acumulado:** -84.05%
-**Peor caída desde un máximo (drawdown):** 87.17%
+**Bankroll actual:** $78.25
+**Retorno acumulado:** -84.35%
+**Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 00:24:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.53 en 14 posiciones abiertas (disponible para nuevas apuestas: $13.23)
+**Capital comprometido ahora mismo:** $63.74 en 13 posiciones abiertas (disponible para nuevas apuestas: $14.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -109,7 +109,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 9 | 1 | -3.75 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -129,6 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 74 | 31 | 1 | -6.04 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 10 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Zzzz87 | 2 | 5 | 0 | -18.99 USD |
+| Zzzz87 | 2 | 5 | 1 | -18.99 USD |
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
 | Flaznorp | 122 | 49 | 8 | -22.47 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
@@ -157,19 +157,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 124 | 86 | 2 | -132.81 USD |
+|  | 125 | 86 | 1 | -131.45 USD |
 | ferrariChampions2026 | 790 | 495 | 1 | -257.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5277
-- **Aciertos:** 3296 (62.5%)
+- **Apuestas resueltas:** 5279
+- **Aciertos:** 3297 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,298.94
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $491.82 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,306.73
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $491.95 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,8 +177,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2754 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1548 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1549 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 699 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1011,6 +1011,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1021,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DimSumConnoisseur. | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 59% | 5.00 | 144.8% | ❌ perdida | -5.10 |
 | Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 3.2% | ✅ ganada | +0.98 |
-|  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
+|  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ✅ ganada | +1.36 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ✅ ganada | +0.65 |
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
@@ -1035,9 +1036,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | New York Yankees vs. Minnesota Twins | New York Yankees (BUY) | 64% | 5.00 | 1.0% | ✅ ganada | +2.72 |
 | GoalLineGhost | Will EC Bahia vs. Clube do Remo end in a | No (BUY) | 90% | 5.00 | 1.0% | ✅ ganada | +0.53 |
 | GoalLineGhost | Will AA Estudiantes win on 2026-09-14? | No (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Broncos vs. Chiefs: O/U 43.5 | Over (BUY) | 47% | 2.79 | 29.2% | ❌ perdida | -2.86 |
 | GoalLineGhost | Will América FC win on 2026-09-14? | No (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels: | Under (BUY) | 51% | 5.00 | 3.2% | ❌ perdida | -5.12 |
 | Flaznorp | Spread: CA Banfield (-1.5) | CA Barracas Central (BUY) | 93% | 5.00 | 0.1% | ✅ ganada | +0.36 |
 | Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
-| ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ✅ ganada | +5.97 |

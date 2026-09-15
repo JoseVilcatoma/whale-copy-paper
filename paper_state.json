@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.75907544930045,
+  "bankroll": 78.25033185955687,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27455,6 +27455,16 @@
       "timestamp": 1789449544.4030101,
       "bankroll": 79.76,
       "event": "won:  \u2014 Spread: Chiefs (-2.5)"
+    },
+    {
+      "timestamp": 1789449853.090428,
+      "bankroll": 76.9,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Broncos vs. Chiefs: O/U 43.5"
+    },
+    {
+      "timestamp": 1789449853.667006,
+      "bankroll": 78.25,
+      "event": "won:  \u2014 W35 Shenyang: Ruien Zhang vs Rina Saigo"
     }
   ]
 }
