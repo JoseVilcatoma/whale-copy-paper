@@ -136305,8 +136305,8 @@
     "title": "M15 Tsaghkadzor: Artur Kukasian vs Vladimir Osminkin",
     "outcome": "Vladimir Osminkin",
     "side": "BUY",
-    "whale_usd": 4316.039199999999,
-    "whale_pct": 15.843,
+    "whale_usd": 10807.219099999998,
+    "whale_pct": 39.67,
     "whale_value_at_open": 27242.8778,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -136317,8 +136317,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789458456.4206572,
-    "fills": 5
+    "last_fill_at": 1789461535.41394,
+    "fills": 6
   },
   {
     "timestamp": 1789458574,
