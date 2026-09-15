@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.08213695331096,
+  "bankroll": 66.13469792892072,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27655,6 +27655,11 @@
       "timestamp": 1789512007.2932396,
       "bankroll": 65.08,
       "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789512316.2472804,
+      "bankroll": 66.13,
+      "event": "won: RN1 \u2014 Will West Ham United FC win on 2026-09-15?"
     }
   ]
 }
