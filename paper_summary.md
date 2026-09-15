@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:38:27 (hora de Perú)
+Actualizado: 2026-09-14 23:40:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 23:38:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.79 en 17 posiciones abiertas (disponible para nuevas apuestas: $3.74)
+**Capital comprometido ahora mismo:** $86.53 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 32 | 32 | 0 | -20.42 USD |
 | RN1 | 489 | 230 | 0 | -22.52 USD |
 | Talvez10 | 19 | 20 | 0 | -23.13 USD |
-| Flaznorp | 121 | 49 | 7 | -23.25 USD |
+| Flaznorp | 121 | 49 | 8 | -23.25 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1011,6 +1011,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1040,4 +1041,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CD Riestra vs. CA Lanús end in a dr | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Chicago White Sox vs. Cleveland Guardian | Over (BUY) | 45% | 5.00 | 1.2% | ✅ ganada | +5.97 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 55% | 5.00 | 264.1% | ✅ ganada | +3.98 |
-| pleaseplease123 | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 52% | 5.00 | 64.9% | ✅ ganada | +4.50 |

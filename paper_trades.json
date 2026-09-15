@@ -135979,5 +135979,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789447083.5148685,
     "fills": 1
+  },
+  {
+    "timestamp": 1789447189,
+    "timestamp_added": 1789447189.8620088,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "efl-ips-ars-2026-09-15-ars",
+    "title": "Will Arsenal FC win on 2026-09-15?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 4829.79,
+    "whale_pct": 1.607,
+    "whale_value_at_open": 300581.6694,
+    "paper_stake_usd": 3.74,
+    "odds_at_bet": 73,
+    "fee_usd": 0.05,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789447189.8620188,
+    "fills": 1
   }
 ]
