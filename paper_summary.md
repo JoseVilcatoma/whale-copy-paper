@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:24:14 (hora de Perú)
+Actualizado: 2026-09-14 23:26:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.96
-**Retorno acumulado:** -82.01%
+**Bankroll actual:** $91.01
+**Retorno acumulado:** -81.80%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 23:24:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.79 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.17)
+**Capital comprometido ahora mismo:** $82.79 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,19 +157,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 123 | 86 | 3 | -133.86 USD |
+|  | 124 | 86 | 2 | -132.81 USD |
 | ferrariChampions2026 | 790 | 495 | 1 | -257.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5267
-- **Aciertos:** 3290 (62.5%)
+- **Apuestas resueltas:** 5268
+- **Aciertos:** 3291 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,248.94
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $491.04 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,253.94
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $491.09 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2750 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1545 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 696 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 697 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
+|  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ✅ ganada | +1.05 |
 | TKD44 | Spread: Chiefs (-9.5) | Broncos (BUY) | 44% | 5.00 | 177.5% | ❌ perdida | -5.14 |
 |  | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 84% | 5.00 | 1.6% | ✅ ganada | +0.91 |
 |  | Spread: Chiefs (-2.5) | Chiefs (BUY) | 71% | 5.00 | 2.5% | ⏳ pendiente | — |

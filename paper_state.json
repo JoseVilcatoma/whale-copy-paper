@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.9579907429384,
+  "bankroll": 91.01055171854816,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27405,6 +27405,11 @@
       "timestamp": 1789445181.0856578,
       "bankroll": 89.96,
       "event": "lost: SDTrading \u2014 Spread: San Diego Padres (-2.5)"
+    },
+    {
+      "timestamp": 1789446374.1289108,
+      "bankroll": 91.01,
+      "event": "won:  \u2014 W35 Shenyang: Miho Kuramochi vs Priska Madelyn Nugroho"
     }
   ]
 }
