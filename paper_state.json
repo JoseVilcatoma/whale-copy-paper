@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.55218849250558,
+  "bankroll": 73.21611831706699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27590,6 +27590,11 @@
       "timestamp": 1789484308.5774915,
       "bankroll": 69.55,
       "event": "lost:  \u2014 W75 Le Neubourg: Demi Tran vs Sachia Vickery"
+    },
+    {
+      "timestamp": 1789485241.063003,
+      "bankroll": 73.22,
+      "event": "won: ferrariChampions2026 \u2014 Szczecin: Johan Nikles vs Laslo Djere"
     }
   ]
 }

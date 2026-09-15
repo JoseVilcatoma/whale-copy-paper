@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 10:13:38 (hora de Perú)
+Actualizado: 2026-09-15 10:15:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.55
-**Retorno acumulado:** -86.09%
+**Bankroll actual:** $73.22
+**Retorno acumulado:** -85.36%
 **Peor caída desde un máximo (drawdown):** 88.53%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 10:13:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.60 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.95)
+**Capital comprometido ahora mismo:** $68.60 en 14 posiciones abiertas (disponible para nuevas apuestas: $4.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,23 +153,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 493 | 235 | 0 | -38.19 USD |
+| RN1 | 493 | 235 | 1 | -38.19 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 128 | 88 | 0 | -140.90 USD |
-| ferrariChampions2026 | 797 | 495 | 2 | -246.06 USD |
+| ferrariChampions2026 | 798 | 495 | 1 | -242.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5304
-- **Aciertos:** 3315 (62.5%)
+- **Apuestas resueltas:** 5305
+- **Aciertos:** 3316 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,426.10
-- **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $493.36 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,431.10
+- **ROI sobre lo apostado:** -2.09%
+- **Comisiones pagadas (taker fee):** $493.47 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2759 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2760 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1560 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 705 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 280 | 97.1% | 97.3% | -0.2 pp |
@@ -1014,7 +1014,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | Will RKS Rakow Czestochowa win on 2026-0 | No (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ✅ ganada | +3.66 |
 |  | W75 Le Neubourg: Demi Tran vs Sachia Vic | Sachia Vickery (BUY) | 54% | 5.00 | 1.6% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ✅ ganada | +1.80 |
@@ -1043,4 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will Real Madrid CF win on 2026-09-15? | Yes (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.8% | ⏳ pendiente | — |
-| Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ✅ ganada | +2.17 |
