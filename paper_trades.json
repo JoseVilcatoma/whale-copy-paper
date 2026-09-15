@@ -136691,8 +136691,8 @@
     "title": "Will RKS Rakow Czestochowa win on 2026-09-15?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2350.0,
-    "whale_pct": 1.351,
+    "whale_usd": 3037.624963,
+    "whale_pct": 1.746,
     "whale_value_at_open": 173953.0481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -136703,8 +136703,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789485260.1274498,
-    "fills": 1
+    "last_fill_at": 1789494225.0593019,
+    "fills": 2
   },
   {
     "timestamp": 1789485359,
