@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.21960801561741,
+  "bankroll": 86.00092308411057,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27525,6 +27525,11 @@
       "timestamp": 1789465073.4777954,
       "bankroll": 84.22,
       "event": "lost: RN1 \u2014 M15 Tsaghkadzor: Artur Kukasian vs Vladimir Osminkin"
+    },
+    {
+      "timestamp": 1789466270.1474214,
+      "bankroll": 86.0,
+      "event": "won: ferrariChampions2026 \u2014 Biella: Izan Almazan Valiente vs Franco Agamenone"
     }
   ]
 }
