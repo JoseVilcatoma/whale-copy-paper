@@ -136705,5 +136705,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789485260.1274498,
     "fills": 1
+  },
+  {
+    "timestamp": 1789485359,
+    "timestamp_added": 1789485359.7322857,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "efl-ips-ars-2026-09-15-spread-away-1pt5",
+    "title": "Spread: Arsenal FC (-1.5)",
+    "outcome": "Arsenal FC",
+    "side": "BUY",
+    "whale_usd": 7962.2271,
+    "whale_pct": 4.182,
+    "whale_value_at_open": 190384.0369,
+    "paper_stake_usd": 4.62,
+    "odds_at_bet": 54,
+    "fee_usd": 0.106,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789485359.7322998,
+    "fills": 1
   }
 ]
