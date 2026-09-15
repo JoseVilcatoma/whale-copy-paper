@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.81737751689582,
+  "bankroll": 74.66718849250557,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27575,6 +27575,16 @@
       "timestamp": 1789476752.8950768,
       "bankroll": 71.82,
       "event": "lost: RN1 \u2014 W50 Pazardzhik: Jule Niemeier vs Lia Karatancheva"
+    },
+    {
+      "timestamp": 1789480809.775422,
+      "bankroll": 72.87,
+      "event": "won: GoalLineGhost \u2014 Will Gamba Osaka win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789480810.0807302,
+      "bankroll": 74.67,
+      "event": "won: GoalLineGhost \u2014 Gamba Osaka vs. Cong An Ha Noi FC: O/U 2.5"
     }
   ]
 }
