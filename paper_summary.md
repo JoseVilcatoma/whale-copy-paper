@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:50:39 (hora de Perú)
+Actualizado: 2026-09-14 23:52:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.53
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
-|  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 11.6% | ⏳ pendiente | — |
+|  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 12.4% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-12? | No (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | W35 Shenyang: Miho Kuramochi vs Priska M | Priska Madelyn Nugroho (BUY) | 82% | 5.00 | 0.8% | ✅ ganada | +1.05 |
 | TKD44 | Spread: Chiefs (-9.5) | Broncos (BUY) | 44% | 5.00 | 177.5% | ❌ perdida | -5.14 |
