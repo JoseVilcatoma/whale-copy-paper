@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 09:00:15 (hora de Perú)
+Actualizado: 2026-09-15 09:02:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 09:00:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $63.60 en 13 posiciones abiertas (disponible para nuevas apuestas: $11.07)
+**Capital comprometido ahora mismo:** $73.60 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,8 +157,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 87 | 0 | -135.78 USD |
-| ferrariChampions2026 | 797 | 495 | 1 | -246.06 USD |
+|  | 128 | 87 | 1 | -135.78 USD |
+| ferrariChampions2026 | 797 | 495 | 2 | -246.06 USD |
 
 ## Análisis general
 
@@ -1014,6 +1014,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
+|  | W75 Le Neubourg: Demi Tran vs Sachia Vic | Sachia Vickery (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ✅ ganada | +1.80 |
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
@@ -1042,5 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Deportivo Alavés win on 2026-09-15? | No (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Will Arsenal FC win on 2026-09-15? | Yes (BUY) | 73% | 3.74 | 1.8% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ✅ ganada | +2.17 |
-| Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
-| GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 5.0% | ⏳ pendiente | — |
