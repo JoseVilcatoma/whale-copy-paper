@@ -135809,5 +135809,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789441664.8619878,
     "fills": 1
+  },
+  {
+    "timestamp": 1789442657,
+    "timestamp_added": 1789442658.192905,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-elc-rea-2026-09-15-spread-away-2pt5",
+    "title": "Spread: Real Madrid CF (-2.5)",
+    "outcome": "Elche CF",
+    "side": "BUY",
+    "whale_usd": 1191.51,
+    "whale_pct": 0.369,
+    "whale_value_at_open": 322810.0885,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789442658.1929145,
+    "fills": 1
   }
 ]
