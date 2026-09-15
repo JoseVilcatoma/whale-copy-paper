@@ -137077,8 +137077,8 @@
     "title": "Tiburon: Darwin Blanch vs Stefan Kozlov",
     "outcome": "Darwin Blanch",
     "side": "BUY",
-    "whale_usd": 12373.124772,
-    "whale_pct": 3.593,
+    "whale_usd": 14628.769772,
+    "whale_pct": 4.248,
     "whale_value_at_open": 344374.1042,
     "paper_stake_usd": 4.8,
     "odds_at_bet": 73,
@@ -137089,8 +137089,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789514742.9026737,
-    "fills": 3
+    "last_fill_at": 1789515501.855539,
+    "fills": 4
   },
   {
     "timestamp": 1789513428,
