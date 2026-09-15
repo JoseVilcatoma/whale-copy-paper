@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.8634829666357,
+  "bankroll": 64.7304829666357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27640,6 +27640,11 @@
       "timestamp": 1789508888.0567138,
       "bankroll": 69.86,
       "event": "lost: GoalLineGhost \u2014 Spread: Real Madrid CF (-2.5)"
+    },
+    {
+      "timestamp": 1789510757.6206553,
+      "bankroll": 64.73,
+      "event": "lost: RN1 \u2014 Tiburon: Blaise Bicknell vs Trevor Svajda"
     }
   ]
 }
