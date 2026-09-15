@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.28638933214825,
+  "bankroll": 89.20838933214824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27540,6 +27540,11 @@
       "timestamp": 1789466457.5605848,
       "bankroll": 94.29,
       "event": "won: RN1 \u2014 Guangzhou: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1789467027.8191075,
+      "bankroll": 89.21,
+      "event": "lost: RN1 \u2014 Guangzhou: Luca Castelnuovo vs Omar Jasika"
     }
   ]
 }
