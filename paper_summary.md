@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:03:31 (hora de Perú)
+Actualizado: 2026-09-14 23:05:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $91.50
-**Retorno acumulado:** -81.70%
+**Bankroll actual:** $92.48
+**Retorno acumulado:** -81.50%
 **Peor caída desde un máximo (drawdown):** 87.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 23:03:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.24 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.26)
+**Capital comprometido ahora mismo:** $85.24 en 18 posiciones abiertas (disponible para nuevas apuestas: $7.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 106 | 72 | 3 | +52.41 USD |
+| wr0ngw4yb3tt0r | 107 | 72 | 2 | +53.39 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -162,13 +162,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5265
-- **Aciertos:** 3289 (62.5%)
+- **Apuestas resueltas:** 5266
+- **Aciertos:** 3290 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,241.49
+- **Total apostado (suma de stakes):** $26,246.49
 - **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $490.93 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $490.98 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2749 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1545 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 695 | 85.5% | 86.5% | -1.1 pp |
+| 80-94% | 696 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 276 | 97.1% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1013,7 +1013,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | DimSumConnoisseur. | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 59% | 5.00 | 144.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 3.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 3.2% | ✅ ganada | +0.98 |
 |  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
