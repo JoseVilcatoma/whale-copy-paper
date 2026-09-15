@@ -136667,8 +136667,8 @@
     "title": "Szczecin: Johan Nikles vs Laslo Djere",
     "outcome": "Laslo Djere",
     "side": "BUY",
-    "whale_usd": 4600.742619000001,
-    "whale_pct": 2.599,
+    "whale_usd": 5396.7827720000005,
+    "whale_pct": 3.049,
     "whale_value_at_open": 176988.3682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -136679,7 +136679,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789480866.372087,
-    "fills": 2
+    "last_fill_at": 1789481024.6311939,
+    "fills": 3
   }
 ]
