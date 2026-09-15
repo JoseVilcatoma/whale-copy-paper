@@ -1,5 +1,5 @@
 {
-  "bankroll": 115.34022487779006,
+  "bankroll": 116.6173388018407,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27360,6 +27360,11 @@
       "timestamp": 1789441470.2325337,
       "bankroll": 115.34,
       "event": "won:  \u2014 New York Yankees vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1789442408.2154915,
+      "bankroll": 116.62,
+      "event": "won: GoalLineGhost \u2014 Will Am\u00e9rica FC win on 2026-09-14?"
     }
   ]
 }
