@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 09:49:06 (hora de Perú)
+Actualizado: 2026-09-15 09:51:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.67
@@ -1019,7 +1019,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ✅ ganada | +1.80 |
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
-| GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
+| GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ✅ ganada | +1.52 |
 | RN1 | M25 Sintra: Jack Anthrop vs Tiago Torres | Jack Anthrop (BUY) | 74% | 5.00 | 1.4% | ❌ perdida | -5.07 |
 | RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.5% | ❌ perdida | -3.74 |
