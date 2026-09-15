@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 18:05:12 (hora de Perú)
+Actualizado: 2026-09-15 18:07:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.67
-**Retorno acumulado:** -85.07%
+**Bankroll actual:** $72.09
+**Retorno acumulado:** -85.58%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 18:05:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.30 en 15 posiciones abiertas (disponible para nuevas apuestas: $3.37)
+**Capital comprometido ahora mismo:** $67.10 en 14 posiciones abiertas (disponible para nuevas apuestas: $4.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 127 | 51 | 1 | -20.22 USD |
 | pleaseplease123 | 32 | 32 | 1 | -20.42 USD |
-| Talvez10 | 19 | 20 | 0 | -23.13 USD |
+| Talvez10 | 19 | 20 | 1 | -23.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -158,18 +158,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 128 | 88 | 0 | -140.90 USD |
-| ferrariChampions2026 | 799 | 495 | 7 | -238.57 USD |
+| ferrariChampions2026 | 800 | 496 | 5 | -241.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5321
-- **Aciertos:** 3327 (62.5%)
+- **Apuestas resueltas:** 5323
+- **Aciertos:** 3328 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,509.32
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $494.77 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,516.89
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $494.92 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,8 +177,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2767 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1563 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2768 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1564 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 710 | 85.4% | 86.5% | -1.2 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
@@ -1015,6 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Under (BUY) | 51% | 3.37 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 70% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch (BUY) | 73% | 4.80 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1024,8 +1025,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
+| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ✅ ganada | +2.51 |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7. | Under (BUY) | 50% | 5.00 | 81.7% | ⏳ pendiente | — |
 | RN1 | Will Barnsley FC win on 2026-09-15? | No (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | RN1 | Will Peterborough United FC win on 2026- | No (BUY) | 94% | 5.00 | 0.1% | ✅ ganada | +0.30 |
@@ -1044,4 +1045,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Sintra: Joao Dinis Silva vs Michael  | Joao Dinis Silva (BUY) | 71% | 3.69 | 1.5% | ❌ perdida | -3.74 |
 | RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 1.8% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
-| RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 11.0% | ❌ perdida | -5.08 |
