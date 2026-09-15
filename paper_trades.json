@@ -136197,5 +136197,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789454814.2596824,
     "fills": 1
+  },
+  {
+    "timestamp": 1789455788,
+    "timestamp_added": 1789455788.9511266,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kachma1-liu3-2026-09-15",
+    "title": "M25 Guiyang: Alibek Kachmazov vs Shaoyun Liu",
+    "outcome": "Alibek Kachmazov",
+    "side": "BUY",
+    "whale_usd": 972.8399999999999,
+    "whale_pct": 3.331,
+    "whale_value_at_open": 29204.5222,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789455788.951138,
+    "fills": 1
   }
 ]
