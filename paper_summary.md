@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 07:13:22 (hora de Perú)
+Actualizado: 2026-09-15 07:15:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $76.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 07:13:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.04 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.86)
+**Capital comprometido ahora mismo:** $76.90 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -125,7 +125,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| GoalLineGhost | 74 | 31 | 5 | -6.04 USD |
+| GoalLineGhost | 74 | 31 | 6 | -6.04 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 9 | 10 | 0 | -6.61 USD |
@@ -1014,6 +1014,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Johor Darul Ta'zim vs. Buriram Unit | No (BUY) | 82% | 4.86 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Gamba Osaka vs. Cong An Ha Noi FC: O/U 2 | Over (BUY) | 64% | 3.30 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1043,4 +1044,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Shenyang: Xinxin Yao vs Wushuang Zhe | Wushuang Zheng (BUY) | 69% | 5.00 | 0.2% | ✅ ganada | +2.17 |
 | Flaznorp | M25 Guiyang: Nikolai Barsukov vs Yuquan  | Nikolai Barsukov (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | GoalLineGhost | Will Deportivo Alavés vs. Valencia CF en | No (BUY) | 73% | 5.00 | 5.0% | ⏳ pendiente | — |
-| Flaznorp | Will Valencia CF win on 2026-09-15? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -136609,5 +136609,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789471396.5115893,
     "fills": 1
+  },
+  {
+    "timestamp": 1789474417,
+    "timestamp_added": 1789474418.2385254,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "acle-joh-bur-2026-09-15-draw",
+    "title": "Will Johor Darul Ta'zim vs. Buriram United end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1030.92,
+    "whale_pct": 0.579,
+    "whale_value_at_open": 178008.9114,
+    "paper_stake_usd": 4.86,
+    "odds_at_bet": 82,
+    "fee_usd": 0.044,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789474418.2385464,
+    "fills": 1
   }
 ]
