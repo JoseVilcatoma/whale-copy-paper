@@ -136969,5 +136969,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789512058.5741045,
     "fills": 3
+  },
+  {
+    "timestamp": 1789512151,
+    "timestamp_added": 1789512152.14701,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-bal-nym-2026-09-15-total-7pt5",
+    "title": "Baltimore Orioles vs. New York Mets: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2026.2000000000003,
+    "whale_pct": 0.726,
+    "whale_value_at_open": 279084.5855,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789512152.147024,
+    "fills": 1
   }
 ]
