@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 17:25:46 (hora de Perú)
+Actualizado: 2026-09-15 17:27:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.73
@@ -1017,7 +1017,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ⏳ pendiente | — |
 | pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7. | Under (BUY) | 50% | 5.00 | 62.8% | ⏳ pendiente | — |
 | RN1 | Will Barnsley FC win on 2026-09-15? | No (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Peterborough United FC win on 2026- | No (BUY) | 94% | 5.00 | 0.1% | ⏳ pendiente | — |
