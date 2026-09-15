@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.54285125886065,
+  "bankroll": 89.23460801561741,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27515,6 +27515,11 @@
       "timestamp": 1789460538.7399988,
       "bankroll": 87.54,
       "event": "won:  \u2014 Phan Thiet 4: Timofei Derepasko vs Ilia Simakin"
+    },
+    {
+      "timestamp": 1789462046.705618,
+      "bankroll": 89.23,
+      "event": "won: ferrariChampions2026 \u2014 Phan Thiet 4: Filip Peliwo vs Tai Sach"
     }
   ]
 }

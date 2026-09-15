@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 03:46:38 (hora de Perú)
+Actualizado: 2026-09-15 03:48:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $87.54
-**Retorno acumulado:** -82.49%
+**Bankroll actual:** $89.23
+**Retorno acumulado:** -82.15%
 **Peor caída desde un máximo (drawdown):** 87.32%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 03:46:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.31 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.23)
+**Capital comprometido ahora mismo:** $82.31 en 17 posiciones abiertas (disponible para nuevas apuestas: $6.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,18 +158,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 127 | 86 | 2 | -130.76 USD |
-| ferrariChampions2026 | 793 | 495 | 3 | -254.26 USD |
+| ferrariChampions2026 | 794 | 495 | 2 | -252.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5289
-- **Aciertos:** 3307 (62.5%)
+- **Apuestas resueltas:** 5290
+- **Aciertos:** 3308 (62.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,355.54
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $492.32 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,360.54
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $492.38 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2755 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1552 | 68.4% | 67.8% | +0.5 pp |
+| 60-79% | 1553 | 68.4% | 67.8% | +0.6 pp |
 | 80-94% | 703 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 279 | 97.1% | 97.3% | -0.2 pp |
 
@@ -1016,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 8.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Tai Sach | Filip Peliwo (BUY) | 74% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Phan Thiet 4: Filip Peliwo vs Tai Sach | Filip Peliwo (BUY) | 74% | 5.00 | 6.7% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 52% | 3.57 | 1.6% | ⏳ pendiente | — |
 | RN1 | M15 Tsaghkadzor: Artur Kukasian vs Vladi | Vladimir Osminkin (BUY) | 94% | 5.00 | 39.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Real Madrid CF (-2.5) | Real Madrid CF (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
