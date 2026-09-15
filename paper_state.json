@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.93166526961811,
+  "bankroll": 69.8634829666357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27625,6 +27625,21 @@
       "timestamp": 1789503458.7754903,
       "bankroll": 70.93,
       "event": "won: RN1 \u2014 Will RKS Rakow Czestochowa win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789508887.4852877,
+      "bankroll": 74.03,
+      "event": "won: Flaznorp \u2014 Spread: Real Madrid CF (-2.5)"
+    },
+    {
+      "timestamp": 1789508887.9565573,
+      "bankroll": 75.01,
+      "event": "won: Zzzz87 \u2014 Will Real Madrid CF win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789508888.0567138,
+      "bankroll": 69.86,
+      "event": "lost: GoalLineGhost \u2014 Spread: Real Madrid CF (-2.5)"
     }
   ]
 }
