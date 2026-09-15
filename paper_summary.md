@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 22:06:19 (hora de Perú)
+Actualizado: 2026-09-14 22:08:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $115.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-14 22:06:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.24 en 22 posiciones abiertas (disponible para nuevas apuestas: $10.10)
+**Capital comprometido ahora mismo:** $115.24 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 106 | 69 | 5 | +67.78 USD |
+| wr0ngw4yb3tt0r | 106 | 69 | 6 | +67.78 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 123 | 86 | 2 | -133.86 USD |
+|  | 123 | 86 | 3 | -133.86 USD |
 | ferrariChampions2026 | 790 | 495 | 1 | -257.37 USD |
 
 ## Análisis general
@@ -1009,6 +1009,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
+|  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1037,5 +1039,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Atlanta Braves vs. Chicago Cubs: O/U 9.5 | Under (BUY) | 52% | 5.00 | 39.8% | ❌ perdida | -5.12 |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Over (BUY) | 49% | 5.00 | 5.3% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 139.4% | ⏳ pendiente | — |
-| BreakTheBank | Broncos vs. Chiefs | Broncos (BUY) | 46% | 5.00 | 96.2% | ⏳ pendiente | — |
-| Flaznorp | Villarreal CF vs. Real Betis Balompié: 1 | Over (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
