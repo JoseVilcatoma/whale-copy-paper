@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 18:03:06 (hora de Perú)
+Actualizado: 2026-09-15 18:05:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 18:03:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.30 en 14 posiciones abiertas (disponible para nuevas apuestas: $8.37)
+**Capital comprometido ahora mismo:** $71.30 en 15 posiciones abiertas (disponible para nuevas apuestas: $3.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 107 | 75 | 1 | +38.07 USD |
+| wr0ngw4yb3tt0r | 107 | 75 | 2 | +38.07 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -1015,6 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 70% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch (BUY) | 73% | 4.80 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -1044,4 +1045,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W50 Pazardzhik: Jule Niemeier vs Lia Kar | Jule Niemeier (BUY) | 69% | 5.00 | 1.8% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Biella: Izan Almazan Valiente vs Franco  | Izan Almazan Valiente (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | RN1 | Guangzhou: Luca Castelnuovo vs Omar Jasi | Omar Jasika (BUY) | 69% | 5.00 | 11.0% | ❌ perdida | -5.08 |
-| RN1 | Guangzhou: Shintaro Mochizuki vs Pavel K | Pavel Kotov (BUY) | 49% | 5.00 | 50.8% | ✅ ganada | +5.08 |
