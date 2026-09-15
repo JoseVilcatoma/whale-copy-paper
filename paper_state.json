@@ -1,5 +1,5 @@
 {
-  "bankroll": 105.24359659902622,
+  "bankroll": 106.76254396744727,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27295,6 +27295,11 @@
       "timestamp": 1789430387.6021047,
       "bankroll": 105.24,
       "event": "won: ferrariChampions2026 \u2014 Guadalajara Open Akron: Tatjana Maria vs Taylor Townsend"
+    },
+    {
+      "timestamp": 1789431022.7077363,
+      "bankroll": 106.76,
+      "event": "won: Flaznorp \u2014 Will CD Riestra vs. CA Lan\u00fas end in a draw?"
     }
   ]
 }
