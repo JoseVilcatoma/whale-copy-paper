@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.66076282348651,
+  "bankroll": 87.44581044253412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27505,6 +27505,11 @@
       "timestamp": 1789458959.9236171,
       "bankroll": 86.66,
       "event": "won: RN1 \u2014 M25 Guiyang: Alibek Kachmazov vs Shaoyun Liu"
+    },
+    {
+      "timestamp": 1789460349.3249788,
+      "bankroll": 87.45,
+      "event": "won: ferrariChampions2026 \u2014 W35 Kyoto: Kayo Nishimura vs Natsumi Kawaguchi"
     }
   ]
 }
