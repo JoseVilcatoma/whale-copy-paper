@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.7304829666357,
+  "bankroll": 65.08213695331096,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27645,6 +27645,16 @@
       "timestamp": 1789510757.6206553,
       "bankroll": 64.73,
       "event": "lost: RN1 \u2014 Tiburon: Blaise Bicknell vs Trevor Svajda"
+    },
+    {
+      "timestamp": 1789512007.0015793,
+      "bankroll": 65.03,
+      "event": "won: RN1 \u2014 Will Peterborough United FC win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789512007.2932396,
+      "bankroll": 65.08,
+      "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-09-15?"
     }
   ]
 }
