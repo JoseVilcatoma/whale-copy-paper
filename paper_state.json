@@ -1,5 +1,5 @@
 {
-  "bankroll": 117.14789435739625,
+  "bankroll": 112.02589435739625,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27370,6 +27370,11 @@
       "timestamp": 1789442725.4740863,
       "bankroll": 117.15,
       "event": "won: GoalLineGhost \u2014 Will EC Bahia vs. Clube do Remo end in a draw?"
+    },
+    {
+      "timestamp": 1789442977.7226954,
+      "bankroll": 112.03,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels: O/U 7.5"
     }
   ]
 }
