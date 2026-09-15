@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.6580502579834,
+  "bankroll": 86.5300502579834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27425,6 +27425,11 @@
       "timestamp": 1789446756.556889,
       "bankroll": 91.66,
       "event": "won: pleaseplease123 \u2014 Seattle Mariners vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1789446945.2985766,
+      "bankroll": 86.53,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Arizona Diamondbacks: O/U 12.5"
     }
   ]
 }
