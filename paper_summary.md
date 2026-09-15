@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-14 23:42:30 (hora de Perú)
+Actualizado: 2026-09-14 23:44:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.53
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Real Madrid CF (-2.5) | Elche CF (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 83% | 5.00 | 3.2% | ✅ ganada | +0.98 |
 |  | W35 Shenyang: Ruien Zhang vs Rina Saigo | Ruien Zhang (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will AD Pasto win on 2026-09-12? | Yes (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-1.5) | Los Angeles Angels (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
 |  | Game Handicap: T1.A (-1.5) vs KT Rolster | KT Rolster Challengers (BUY) | 52% | 5.00 | 8.4% | ⏳ pendiente | — |
