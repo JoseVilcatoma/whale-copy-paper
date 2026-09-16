@@ -137230,8 +137230,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.034,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.76,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -137419,8 +137419,8 @@
     "title": "Seattle Mariners vs. Los Angeles Angels",
     "outcome": "Los Angeles Angels",
     "side": "BUY",
-    "whale_usd": 34796.891239,
-    "whale_pct": 18.131,
+    "whale_usd": 55873.891555,
+    "whale_pct": 29.114,
     "whale_value_at_open": 191916.3175,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -137431,8 +137431,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789531366.6453745,
-    "fills": 10
+    "last_fill_at": 1789531500.969257,
+    "fills": 20
   },
   {
     "timestamp": 1789529536,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.48082356544185,
+  "bankroll": 78.24287007706975,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27755,6 +27755,11 @@
       "timestamp": 1789529903.6695666,
       "bankroll": 77.48,
       "event": "won: wr0ngw4yb3tt0r \u2014 San Diego Padres vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1789531467.3211293,
+      "bankroll": 78.24,
+      "event": "won: RN1 \u2014 W35 Kyoto: Remika Ohashi vs Kamonwan Yodpetch"
     }
   ]
 }
