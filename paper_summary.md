@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 22:04:32 (hora de Perú)
+Actualizado: 2026-09-15 22:06:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.57
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ⏳ pendiente | — |
 | RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 31.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 32.8% | ⏳ pendiente | — |
 | GoalLineGhost | São Paulo FC vs. CA Boca Juniors: O/U 1. | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will CA Boca Juniors win on 2026-09-15? | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.5% | ⏳ pendiente | — |
