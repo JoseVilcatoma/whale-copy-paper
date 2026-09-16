@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.11877916797884,
+  "bankroll": 81.01225406037481,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27770,6 +27770,21 @@
       "timestamp": 1789532094.5731342,
       "bankroll": 77.12,
       "event": "won: RN1 \u2014 W35 Kyoto: Hikaru Sato vs Natsuki Yoshimoto"
+    },
+    {
+      "timestamp": 1789532971.0985124,
+      "bankroll": 77.96,
+      "event": "won: RN1 \u2014 Guadalajara Open Akron: Sloane Stephens vs Janice Tjen"
+    },
+    {
+      "timestamp": 1789533032.7766368,
+      "bankroll": 73.97,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1789533033.2401261,
+      "bankroll": 81.01,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels"
     }
   ]
 }
