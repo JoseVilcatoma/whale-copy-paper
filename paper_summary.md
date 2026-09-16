@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 23:16:02 (hora de Perú)
+Actualizado: 2026-09-15 23:18:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 23:16:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.59 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.53)
+**Capital comprometido ahora mismo:** $77.12 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 127 | 51 | 1 | -20.22 USD |
+| Flaznorp | 127 | 51 | 2 | -20.22 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1019,6 +1019,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 7.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 63% | 3.67 | 1.1% | ⏳ pendiente | — |
@@ -1048,4 +1049,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ❌ perdida | -4.02 |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ✅ ganada | +2.51 |

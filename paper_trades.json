@@ -137579,5 +137579,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789532117.9208086,
     "fills": 1
+  },
+  {
+    "timestamp": 1789532167,
+    "timestamp_added": 1789532167.256913,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-pacheco-weber-2026-09-15",
+    "title": "Phan Thiet 4: Rodrigo Pacheco vs Arthur Weber",
+    "outcome": "Rodrigo Pacheco",
+    "side": "BUY",
+    "whale_usd": 1067.6727,
+    "whale_pct": 0.314,
+    "whale_value_at_open": 340019.3658,
+    "paper_stake_usd": 4.53,
+    "odds_at_bet": 89,
+    "fee_usd": 0.025,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789532167.256921,
+    "fills": 1
   }
 ]
