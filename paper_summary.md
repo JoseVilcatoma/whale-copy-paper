@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 17:46:00 (hora de Perú)
+Actualizado: 2026-09-16 17:48:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $47.21
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 1.1% | ⏳ pendiente | — |
+| RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ⏳ pendiente | — |
