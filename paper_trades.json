@@ -137703,5 +137703,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789535317.869775,
     "fills": 1
+  },
+  {
+    "timestamp": 1789536410,
+    "timestamp_added": 1789536411.0892677,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-sf-stl-2026-09-16",
+    "title": "San Francisco Giants vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 4285.168,
+    "whale_pct": 1.214,
+    "whale_value_at_open": 352937.0525,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789536449.0856988,
+    "fills": 5
   }
 ]
