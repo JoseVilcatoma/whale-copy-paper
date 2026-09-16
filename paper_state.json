@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.57061144422974,
+  "bankroll": 79.22106598968429,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27730,6 +27730,11 @@
       "timestamp": 1789526925.076698,
       "bankroll": 78.57,
       "event": "won: RN1 \u2014 Will AA Ponte Preta win on 2026-09-15?"
+    },
+    {
+      "timestamp": 1789528493.4803238,
+      "bankroll": 79.22,
+      "event": "won: GoalLineGhost \u2014 Will Club The Strongest win on 2026-09-15?"
     }
   ]
 }
