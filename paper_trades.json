@@ -138193,8 +138193,8 @@
     "title": "Spread: FC Barcelona (-1.5)",
     "outcome": "FC Barcelona",
     "side": "BUY",
-    "whale_usd": 570.24,
-    "whale_pct": 0.133,
+    "whale_usd": 1343.79,
+    "whale_pct": 0.313,
     "whale_value_at_open": 429415.0833,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -138205,7 +138205,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789568164.9348073,
-    "fills": 1
+    "last_fill_at": 1789568636.925968,
+    "fills": 2
   }
 ]

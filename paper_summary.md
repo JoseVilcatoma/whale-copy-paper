@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 09:23:35 (hora de Perú)
+Actualizado: 2026-09-16 09:25:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.48
@@ -1020,7 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
+| nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | AS Omónoia Leukosías vs. RC Celta de Vig | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ⏳ pendiente | — |
 |  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ✅ ganada | +0.41 |
