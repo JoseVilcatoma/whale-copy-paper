@@ -137182,8 +137182,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -137247,8 +137247,8 @@
     "title": "Will CA Boca Juniors win on 2026-09-15?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 624.883,
-    "whale_pct": 0.452,
+    "whale_usd": 1668.583,
+    "whale_pct": 1.207,
     "whale_value_at_open": 138285.9694,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -137259,8 +137259,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789524262.818014,
-    "fills": 1
+    "last_fill_at": 1789524368.7730975,
+    "fills": 2
   },
   {
     "timestamp": 1789524342,
@@ -137285,5 +137285,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789524342.5139632,
     "fills": 1
+  },
+  {
+    "timestamp": 1789524370,
+    "timestamp_added": 1789524371.257291,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-laa-2026-09-15",
+    "title": "Seattle Mariners vs. Los Angeles Angels",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 31012.081499999997,
+    "whale_pct": 20.746,
+    "whale_value_at_open": 149485.3735,
+    "paper_stake_usd": 3.92,
+    "odds_at_bet": 60,
+    "fee_usd": 0.078,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789524387.453633,
+    "fills": 4
   }
 ]
