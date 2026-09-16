@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 05:21:21 (hora de Perú)
+Actualizado: 2026-09-16 05:23:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.74
@@ -1020,7 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
+| Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |
