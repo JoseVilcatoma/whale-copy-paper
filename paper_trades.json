@@ -138425,5 +138425,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789596830.589829,
     "fills": 1
+  },
+  {
+    "timestamp": 1789596959,
+    "timestamp_added": 1789596960.1551921,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-cam-san-2026-09-16-cam",
+    "title": "Will CA Mineiro win on 2026-09-16?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1252.8000000000002,
+    "whale_pct": 0.143,
+    "whale_value_at_open": 876406.3212,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789596960.1552024,
+    "fills": 1
   }
 ]
