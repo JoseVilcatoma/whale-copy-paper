@@ -138459,8 +138459,8 @@
     "title": "Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic",
     "outcome": "Iva Jovic",
     "side": "BUY",
-    "whale_usd": 3000.0,
-    "whale_pct": 0.34,
+    "whale_usd": 9836.711,
+    "whale_pct": 1.116,
     "whale_value_at_open": 881095.5389,
     "paper_stake_usd": 4.07,
     "odds_at_bet": 76,
@@ -138471,7 +138471,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789597220.364441,
-    "fills": 1
+    "last_fill_at": 1789598255.7545624,
+    "fills": 2
   }
 ]
