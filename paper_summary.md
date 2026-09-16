@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 14:18:10 (hora de Perú)
+Actualizado: 2026-09-16 14:20:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $62.29
-**Retorno acumulado:** -87.54%
-**Peor caída desde un máximo (drawdown):** 90.41%
+**Bankroll actual:** $56.87
+**Retorno acumulado:** -88.63%
+**Peor caída desde un máximo (drawdown):** 90.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 14:18:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.29)
+**Capital comprometido ahora mismo:** $56.87 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| wr0ngw4yb3tt0r | 111 | 78 | 1 | +35.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
+| wr0ngw4yb3tt0r | 111 | 79 | 3 | +30.83 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -52,8 +52,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
+| quavoo | 33 | 18 | 4 | +5.39 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| quavoo | 32 | 18 | 5 | +4.68 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
+| purplegatto | 1 | 0 | 0 | +1.87 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -87,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| purplegatto | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 37 | 34 | 0 | -0.05 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
@@ -142,17 +142,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| GoalLineGhost | 80 | 35 | 0 | -15.76 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 136 | 53 | 2 | -23.28 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 507 | 238 | 0 | -28.78 USD |
+| Flaznorp | 136 | 54 | 1 | -28.03 USD |
+| RN1 | 507 | 238 | 1 | -28.78 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5369
-- **Aciertos:** 3360 (62.6%)
+- **Apuestas resueltas:** 5374
+- **Aciertos:** 3363 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,737.17
-- **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $498.05 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,761.79
+- **ROI sobre lo apostado:** -2.12%
+- **Comisiones pagadas (taker fee):** $498.48 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,9 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2783 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1578 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 723 | 85.5% | 86.5% | -1.1 pp |
+| 40-59% | 2785 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1580 | 68.4% | 67.9% | +0.5 pp |
+| 80-94% | 724 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1015,12 +1015,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sud-sao-boc-2026-09-15-total-1pt5 | GoalLineGhost, RN1 |
 | lal-mad-osa-2026-09-16-mad | GoalLineGhost, purplegatto |
 | mlb-mia-ari-2026-09-15 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
+| mlb-det-tor-2026-09-16 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Spread: Club Atlético de Madrid (-1.5) | CA Osasuna (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Will NK Celje win on 2026-09-16? | No (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: Club Atlético de Madrid (-1.5) | CA Osasuna (BUY) | 49% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | AS Omónoia Leukosías vs. RC Celta de Vig | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ✅ ganada | +2.09 |
@@ -1039,14 +1044,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | M25 Guiyang: Lachlan Vickery vs Qian Sun | Qian Sun (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | Flaznorp | Phan Thiet 4: Matthew Dellavedova vs Enz | Matthew Dellavedova (BUY) | 78% | 5.00 | 0.6% | ✅ ganada | +1.36 |
 | nigiri99 | San Diego Padres vs. Colorado Rockies: O | Under (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ⏳ pendiente | — |
-| nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ❌ perdida | -4.75 |
+| nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
 | Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
-| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 24.9% | ⏳ pendiente | — |
+| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 24.9% | ✅ ganada | +1.87 |
 | RN1 | W35 Shenyang: Chengyiyi Yuan vs Daria KH | Daria KHOMUTSIANSKAYA (BUY) | 84% | 5.00 | 2.2% | ✅ ganada | +0.91 |
-| Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ✅ ganada | +0.53 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 10.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 58% | 5.00 | 3.1% | ❌ perdida | -5.11 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 63% | 3.67 | 1.1% | ❌ perdida | -3.74 |

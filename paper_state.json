@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.285921165458234,
+  "bankroll": 56.86893649112874,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27915,6 +27915,31 @@
       "timestamp": 1789581664.1820521,
       "bankroll": 62.29,
       "event": "lost: Flaznorp \u2014 Spread: AGS Ast\u00e9ras Tr\u00edpolis (-1.5)"
+    },
+    {
+      "timestamp": 1789586327.3497462,
+      "bankroll": 64.16,
+      "event": "won: purplegatto \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-09-16?"
+    },
+    {
+      "timestamp": 1789586327.7991827,
+      "bankroll": 66.03,
+      "event": "won: GoalLineGhost \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-09-16?"
+    },
+    {
+      "timestamp": 1789586328.5012112,
+      "bankroll": 66.75,
+      "event": "won: nigiri99 \u2014 Spread: RC Deportivo A Coru\u00f1a (-1.5)"
+    },
+    {
+      "timestamp": 1789586328.847614,
+      "bankroll": 62.0,
+      "event": "lost: Flaznorp \u2014 RC Deportivo A Coru\u00f1a vs. Sevilla FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789586330.4141004,
+      "bankroll": 56.87,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)"
     }
   ]
 }
