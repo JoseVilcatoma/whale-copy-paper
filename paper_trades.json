@@ -136955,8 +136955,8 @@
     "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 24319.0155,
-    "whale_pct": 6.92,
+    "whale_usd": 61193.3355,
+    "whale_pct": 17.411,
     "whale_value_at_open": 351455.2554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -136967,8 +136967,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789512058.5741045,
-    "fills": 3
+    "last_fill_at": 1789518334.541134,
+    "fills": 5
   },
   {
     "timestamp": 1789512151,
