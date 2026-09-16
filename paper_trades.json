@@ -137467,8 +137467,8 @@
     "title": "W35 Kyoto: Haruna Arakawa vs Heerae Im",
     "outcome": "Heerae Im",
     "side": "BUY",
-    "whale_usd": 511.07,
-    "whale_pct": 0.304,
+    "whale_usd": 1572.5738000000001,
+    "whale_pct": 0.936,
     "whale_value_at_open": 167933.1208,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -137479,7 +137479,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789529668.3637345,
-    "fills": 1
+    "last_fill_at": 1789529795.3809416,
+    "fills": 3
   }
 ]
