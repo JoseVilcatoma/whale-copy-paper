@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 06:03:41 (hora de Perú)
+Actualizado: 2026-09-16 06:05:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.74
-**Retorno acumulado:** -86.05%
+**Bankroll actual:** $69.94
+**Retorno acumulado:** -86.01%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 06:03:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.74 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $64.74 en 14 posiciones abiertas (disponible para nuevas apuestas: $5.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 131 | 51 | 5 | -16.07 USD |
+| Flaznorp | 132 | 51 | 4 | -15.87 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5356
-- **Aciertos:** 3350 (62.5%)
+- **Apuestas resueltas:** 5357
+- **Aciertos:** 3351 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,676.46
+- **Total apostado (suma de stakes):** $26,681.46
 - **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $497.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $497.49 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1576 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 719 | 85.5% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
+| 95-99% (casi seguro) | 282 | 97.2% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
+| Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |

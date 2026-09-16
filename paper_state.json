@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.74358317740325,
+  "bankroll": 69.94191651073659,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27850,6 +27850,11 @@
       "timestamp": 1789553699.038241,
       "bankroll": 69.74,
       "event": "won: Flaznorp \u2014 W50 Pazardzhik: Elizara Yaneva vs Gaia Maduzzi"
+    },
+    {
+      "timestamp": 1789556697.4708111,
+      "bankroll": 69.94,
+      "event": "won: Flaznorp \u2014 Rennes: Max Schoenhaus vs Matteo Martineau"
     }
   ]
 }
