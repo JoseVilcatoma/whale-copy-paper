@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.21624984406992,
+  "bankroll": 72.26375489457497,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27865,6 +27865,11 @@
       "timestamp": 1789560357.8492496,
       "bankroll": 72.22,
       "event": "won: RN1 \u2014 W35 Santa Margherita di Pula: Franziska Sziedat vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1789561288.8139262,
+      "bankroll": 72.26,
+      "event": "won: Flaznorp \u2014 Will FK Chornomorets Odesa win on 2026-09-14?"
     }
   ]
 }
