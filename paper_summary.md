@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 17:19:10 (hora de Perú)
+Actualizado: 2026-09-16 17:21:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $47.21
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 17:19:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $43.14 en 9 posiciones abiertas (disponible para nuevas apuestas: $4.07)
+**Capital comprometido ahora mismo:** $47.21 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 507 | 238 | 5 | -28.78 USD |
+| RN1 | 507 | 238 | 6 | -28.78 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Matthew Dellavedova vs Enz | Matthew Dellavedova (BUY) | 78% | 5.00 | 0.6% | ✅ ganada | +1.36 |
 | nigiri99 | San Diego Padres vs. Colorado Rockies: O | Under (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ❌ perdida | -4.75 |
-| nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
