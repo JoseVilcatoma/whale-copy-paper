@@ -137751,5 +137751,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789537924.3320742,
     "fills": 1
+  },
+  {
+    "timestamp": 1789538016,
+    "timestamp_added": 1789538016.7836096,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-dep-sev-2026-09-16-total-2pt5",
+    "title": "RC Deportivo A Coru\u00f1a vs. Sevilla FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 857.64,
+    "whale_pct": 0.285,
+    "whale_value_at_open": 301214.5525,
+    "paper_stake_usd": 4.62,
+    "odds_at_bet": 43,
+    "fee_usd": 0.132,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789538016.7836227,
+    "fills": 1
   }
 ]

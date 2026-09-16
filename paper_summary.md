@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 00:52:17 (hora de Perú)
+Actualizado: 2026-09-16 00:54:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 00:52:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.53 en 12 posiciones abiertas (disponible para nuevas apuestas: $4.62)
+**Capital comprometido ahora mismo:** $64.15 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 127 | 51 | 3 | -20.22 USD |
+| Flaznorp | 127 | 51 | 4 | -20.22 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 70% | 5.00 | 15.8% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch (BUY) | 73% | 4.80 | 5.1% | ✅ ganada | +1.71 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 2.7% | ❌ perdida | -5.14 |
