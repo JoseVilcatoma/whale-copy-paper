@@ -138183,5 +138183,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789565174.294953,
     "fills": 1
+  },
+  {
+    "timestamp": 1789568164,
+    "timestamp_added": 1789568164.9347894,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lal-bar-rrc-2026-09-16-spread-home-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "whale_usd": 570.24,
+    "whale_pct": 0.133,
+    "whale_value_at_open": 429415.0833,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789568164.9348073,
+    "fills": 1
   }
 ]
