@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 08:24:40 (hora de Perú)
+Actualizado: 2026-09-16 08:26:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.97
-**Retorno acumulado:** -85.01%
+**Bankroll actual:** $75.07
+**Retorno acumulado:** -84.99%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 08:24:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.97 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $74.97 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,8 +138,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| UpTheBlues | 8 | 5 | 1 | -11.40 USD |
-| Flaznorp | 136 | 51 | 3 | -13.12 USD |
+| UpTheBlues | 9 | 5 | 0 | -11.30 USD |
+| Flaznorp | 136 | 51 | 4 | -13.12 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -163,11 +163,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5363
-- **Aciertos:** 3357 (62.6%)
+- **Apuestas resueltas:** 5364
+- **Aciertos:** 3358 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,709.20
+- **Total apostado (suma de stakes):** $26,714.20
 - **ROI sobre lo apostado:** -2.06%
 - **Comisiones pagadas (taker fee):** $497.68 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1578 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 721 | 85.6% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 284 | 97.2% | 97.3% | -0.1 pp |
+| 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1020,11 +1020,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | AS Omónoia Leukosías vs. RC Celta de Vig | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ⏳ pendiente | — |
 |  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Port FC vs. Vissel Kobe: O/U 2.5 | Under (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
+| UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ✅ ganada | +0.65 |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 63% | 3.67 | 1.1% | ❌ perdida | -3.74 |
 | RN1 | Guadalajara Open Akron: Sloane Stephens  | Sloane Stephens (BUY) | 85% | 5.00 | 0.8% | ✅ ganada | +0.84 |
 | RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.9% | ❌ perdida | -5.12 |
-| purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.7% | ⏳ pendiente | — |
