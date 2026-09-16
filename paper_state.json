@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.33725740696266,
+  "bankroll": 78.1558288355341,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27720,6 +27720,11 @@
       "timestamp": 1789524476.1137352,
       "bankroll": 74.34,
       "event": "won: RN1 \u2014 Tiburon: Michael Zheng vs Evan Zhu"
+    },
+    {
+      "timestamp": 1789525668.1376681,
+      "bankroll": 78.16,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Baltimore Orioles vs. New York Mets: O/U 7.5"
     }
   ]
 }

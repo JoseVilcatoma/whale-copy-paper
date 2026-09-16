@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 21:26:50 (hora de Perú)
+Actualizado: 2026-09-15 21:28:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.34
-**Retorno acumulado:** -85.13%
+**Bankroll actual:** $78.16
+**Retorno acumulado:** -84.37%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 21:26:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.73 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.61)
+**Capital comprometido ahora mismo:** $67.73 en 14 posiciones abiertas (disponible para nuevas apuestas: $10.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 11 | 10 | 0 | +0.18 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | SDTrading | 37 | 34 | 0 | -0.05 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
@@ -109,7 +110,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 10 | 10 | 1 | -3.64 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -162,14 +162,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5330
-- **Aciertos:** 3333 (62.5%)
+- **Apuestas resueltas:** 5331
+- **Aciertos:** 3334 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,550.06
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $495.53 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,555.06
+- **ROI sobre lo apostado:** -2.06%
+- **Comisiones pagadas (taker fee):** $495.64 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2770 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2771 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1569 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 710 | 85.4% | 86.5% | -1.2 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
@@ -1030,7 +1030,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 2.7% | ❌ perdida | -5.14 |
 | RN1 | Will AA Ponte Preta win on 2026-09-15? | No (BUY) | 92% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
