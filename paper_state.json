@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.0901174268956,
+  "bankroll": 71.98449069878501,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27685,6 +27685,21 @@
       "timestamp": 1789513570.0004008,
       "bankroll": 72.09,
       "event": "lost: ferrariChampions2026 \u2014 Tiburon: Bryce Nakashima vs Andre Ilagan"
+    },
+    {
+      "timestamp": 1789521967.9036791,
+      "bankroll": 66.95,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1789521968.0038953,
+      "bankroll": 69.92,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Los Angeles Dodgers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1789521968.2042687,
+      "bankroll": 71.98,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Cincinnati Reds"
     }
   ]
 }
