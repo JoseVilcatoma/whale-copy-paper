@@ -137943,5 +137943,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789554162.6567366,
     "fills": 2
+  },
+  {
+    "timestamp": 1789555613,
+    "timestamp_added": 1789555614.3685524,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-det-tor-2026-09-16-total-7pt5",
+    "title": "Detroit Tigers vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 596.2,
+    "whale_pct": 0.152,
+    "whale_value_at_open": 393063.3358,
+    "paper_stake_usd": 2.38,
+    "odds_at_bet": 45,
+    "fee_usd": 0.066,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789555614.3685637,
+    "fills": 1
   }
 ]
