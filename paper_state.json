@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.58401596513673,
+  "bankroll": 72.45901596513673,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27800,6 +27800,11 @@
       "timestamp": 1789533346.068619,
       "bankroll": 77.58,
       "event": "won: RN1 \u2014 S\u00e3o Paulo FC vs. CA Boca Juniors: O/U 1.5"
+    },
+    {
+      "timestamp": 1789533780.0384889,
+      "bankroll": 72.46,
+      "event": "lost: RN1 \u2014 W35 Kyoto: Haruna Arakawa vs Heerae Im"
     }
   ]
 }
