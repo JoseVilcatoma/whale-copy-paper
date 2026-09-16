@@ -137967,5 +137967,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789555614.3685637,
     "fills": 1
+  },
+  {
+    "timestamp": 1789556792,
+    "timestamp_added": 1789556792.9059753,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-jones-barthel-2026-09-16",
+    "title": "Ljubljana: Francesca Jones vs Mona Barthel",
+    "outcome": "Mona Barthel",
+    "side": "BUY",
+    "whale_usd": 1254.8999999999999,
+    "whale_pct": 0.759,
+    "whale_value_at_open": 165263.6808,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789556792.9059863,
+    "fills": 1
   }
 ]
