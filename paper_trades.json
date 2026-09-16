@@ -136962,8 +136962,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -137223,8 +137223,8 @@
     "title": "W35 Kyoto: Remika Ohashi vs Kamonwan Yodpetch",
     "outcome": "Kamonwan Yodpetch",
     "side": "BUY",
-    "whale_usd": 1857.8525,
-    "whale_pct": 0.969,
+    "whale_usd": 2900.8925,
+    "whale_pct": 1.514,
     "whale_value_at_open": 191636.7319,
     "paper_stake_usd": 4.89,
     "odds_at_bet": 86,
@@ -137235,7 +137235,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789523099.4857397,
-    "fills": 3
+    "last_fill_at": 1789523777.0037532,
+    "fills": 5
   }
 ]

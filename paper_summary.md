@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 20:55:30 (hora de Perú)
+Actualizado: 2026-09-15 20:57:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $68.53
-**Retorno acumulado:** -86.29%
+**Bankroll actual:** $71.02
+**Retorno acumulado:** -85.80%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 20:55:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.61 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $63.61 en 13 posiciones abiertas (disponible para nuevas apuestas: $7.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,18 +158,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 128 | 88 | 0 | -140.90 USD |
-| ferrariChampions2026 | 800 | 496 | 5 | -241.14 USD |
+| ferrariChampions2026 | 801 | 496 | 4 | -238.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5327
-- **Aciertos:** 3330 (62.5%)
+- **Apuestas resueltas:** 5328
+- **Aciertos:** 3331 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,535.26
-- **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $495.32 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,540.26
+- **ROI sobre lo apostado:** -2.09%
+- **Comisiones pagadas (taker fee):** $495.40 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2770 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1566 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1567 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 710 | 85.4% | 86.5% | -1.2 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
@@ -1015,7 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.0% | ⏳ pendiente | — |
+| RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.5% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Tiburon: Michael Zheng vs Evan Zhu | Michael Zheng (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Club The Strongest win on 2026-09-1 | Yes (BUY) | 88% | 4.99 | 0.3% | ⏳ pendiente | — |
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 2.7% | ❌ perdida | -5.14 |
 | RN1 | Will AA Ponte Preta win on 2026-09-15? | No (BUY) | 92% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
