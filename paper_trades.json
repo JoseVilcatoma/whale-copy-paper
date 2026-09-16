@@ -138339,8 +138339,8 @@
     "title": "Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4466.84,
-    "whale_pct": 3.711,
+    "whale_usd": 6420.950000000001,
+    "whale_pct": 5.334,
     "whale_value_at_open": 120371.3365,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -138351,8 +138351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789595858.6691492,
-    "fills": 6
+    "last_fill_at": 1789597507.6465678,
+    "fills": 7
   },
   {
     "timestamp": 1789595829,
