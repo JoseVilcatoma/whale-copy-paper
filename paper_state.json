@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.98449069878501,
+  "bankroll": 68.531490698785,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27700,6 +27700,11 @@
       "timestamp": 1789521968.2042687,
       "bankroll": 71.98,
       "event": "won: wr0ngw4yb3tt0r \u2014 Los Angeles Dodgers vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1789523287.4706292,
+      "bankroll": 68.53,
+      "event": "lost: Talvez10 \u2014 New York Yankees vs. Minnesota Twins: O/U 7.5"
     }
   ]
 }
