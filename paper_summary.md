@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 20:28:43 (hora de Perú)
+Actualizado: 2026-09-15 20:30:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $71.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 20:28:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.09 en 14 posiciones abiertas (disponible para nuevas apuestas: $4.89)
+**Capital comprometido ahora mismo:** $71.98 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 497 | 236 | 3 | -36.63 USD |
+| RN1 | 497 | 236 | 4 | -36.63 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1015,6 +1015,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 0.4% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Tiburon: Michael Zheng vs Evan Zhu | Michael Zheng (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Club The Strongest win on 2026-09-1 | Yes (BUY) | 88% | 4.99 | 0.3% | ⏳ pendiente | — |
@@ -1044,4 +1045,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Gamba Osaka win on 2026-09-15? | Yes (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | GoalLineGhost | Will Liverpool FC win on 2026-09-15? | Yes (BUY) | 59% | 5.00 | 1.6% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Caldas da Rainha: Aoi Ito vs Gabriela Kn | Gabriela Knutson (BUY) | 76% | 5.00 | 1.5% | ✅ ganada | +1.52 |
-| RN1 | M25 Sintra: Jack Anthrop vs Tiago Torres | Jack Anthrop (BUY) | 74% | 5.00 | 1.4% | ❌ perdida | -5.07 |
