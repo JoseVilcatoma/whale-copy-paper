@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 17:02:44 (hora de Perú)
+Actualizado: 2026-09-16 17:04:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $45.52
-**Retorno acumulado:** -90.90%
+**Bankroll actual:** $47.21
+**Retorno acumulado:** -90.56%
 **Peor caída desde un máximo (drawdown):** 92.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 17:02:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.52 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $33.14 en 7 posiciones abiertas (disponible para nuevas apuestas: $14.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,12 +27,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| wr0ngw4yb3tt0r | 112 | 80 | 1 | +28.74 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 112 | 81 | 0 | +23.61 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -55,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| quavoo | 35 | 19 | 1 | +4.11 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -79,12 +80,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Jsram | 7 | 4 | 0 | +1.40 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
-| quavoo | 34 | 19 | 2 | +1.27 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 12 | 11 | 1 | +0.42 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -110,7 +111,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 11 | 11 | 2 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5379
-- **Aciertos:** 3365 (62.6%)
+- **Apuestas resueltas:** 5382
+- **Aciertos:** 3367 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,786.28
-- **ROI sobre lo apostado:** -2.16%
-- **Comisiones pagadas (taker fee):** $498.98 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,798.66
+- **ROI sobre lo apostado:** -2.15%
+- **Comisiones pagadas (taker fee):** $499.28 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2788 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2791 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1581 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 725 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
@@ -1025,7 +1025,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 3.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
-| wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ❌ perdida | -5.12 |
 | RN1 | Will NK Celje win on 2026-09-16? | No (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Club Atlético de Madrid (-1.5) | CA Osasuna (BUY) | 49% | 5.00 | 0.6% | ❌ perdida | -5.13 |
@@ -1039,7 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ❌ perdida | -5.04 |
 | Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ✅ ganada | +0.65 |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
-| nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ✅ ganada | +2.84 |
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ✅ ganada | +2.08 |

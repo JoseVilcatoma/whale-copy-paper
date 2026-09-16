@@ -1,5 +1,5 @@
 {
-  "bankroll": 45.52020236819634,
+  "bankroll": 47.21200034799431,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27965,6 +27965,21 @@
       "timestamp": 1789595637.7372026,
       "bankroll": 45.52,
       "event": "won: wr0ngw4yb3tt0r \u2014 FC Barcelona vs. Real Racing Club: O/U 4.5"
+    },
+    {
+      "timestamp": 1789596257.7906196,
+      "bankroll": 49.5,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Detroit Tigers vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1789596258.5042794,
+      "bankroll": 52.34,
+      "event": "won: nigiri99 \u2014 Detroit Tigers vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1789596258.9847767,
+      "bankroll": 47.21,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Detroit Tigers vs. Toronto Blue Jays"
     }
   ]
 }
