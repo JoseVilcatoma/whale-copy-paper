@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 01:56:47 (hora de Perú)
+Actualizado: 2026-09-16 01:58:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $65.47
-**Retorno acumulado:** -86.91%
+**Bankroll actual:** $66.00
+**Retorno acumulado:** -86.80%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 01:56:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.15 en 12 posiciones abiertas (disponible para nuevas apuestas: $6.32)
+**Capital comprometido ahora mismo:** $54.15 en 11 posiciones abiertas (disponible para nuevas apuestas: $11.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 504 | 238 | 1 | -31.59 USD |
+| RN1 | 505 | 238 | 0 | -31.06 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5352
-- **Aciertos:** 3346 (62.5%)
+- **Apuestas resueltas:** 5353
+- **Aciertos:** 3347 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,656.46
+- **Total apostado (suma de stakes):** $26,661.46
 - **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $497.30 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $497.33 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1574 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 717 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 718 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1036,7 +1036,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
-| RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ✅ ganada | +0.53 |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ✅ ganada | +2.49 |
 | RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ✅ ganada | +6.76 |

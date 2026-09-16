@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.47373508176888,
+  "bankroll": 66.00429063732443,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27830,6 +27830,11 @@
       "timestamp": 1789538427.5921745,
       "bankroll": 65.47,
       "event": "won: Flaznorp \u2014 W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN"
+    },
+    {
+      "timestamp": 1789541925.9666765,
+      "bankroll": 66.0,
+      "event": "won: RN1 \u2014 W35 Shenyang: Sijia Wei vs Ying Zhang"
     }
   ]
 }
