@@ -138401,5 +138401,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789595857.8640082,
     "fills": 1
+  },
+  {
+    "timestamp": 1789596830,
+    "timestamp_added": 1789596830.5898166,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-cam-san-2026-09-16-san",
+    "title": "Will Santos FC win on 2026-09-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1175.0,
+    "whale_pct": 0.134,
+    "whale_value_at_open": 874472.3276,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789596830.589829,
+    "fills": 1
   }
 ]
