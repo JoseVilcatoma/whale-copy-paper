@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 20:57:35 (hora de Perú)
+Actualizado: 2026-09-15 20:59:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $71.02
@@ -1016,7 +1016,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.5% | ⏳ pendiente | — |
-| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Tiburon: Michael Zheng vs Evan Zhu | Michael Zheng (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Club The Strongest win on 2026-09-1 | Yes (BUY) | 88% | 4.99 | 0.3% | ⏳ pendiente | — |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Under (BUY) | 51% | 3.37 | 0.8% | ❌ perdida | -3.45 |
