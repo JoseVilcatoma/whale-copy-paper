@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 23:34:48 (hora de Perú)
+Actualizado: 2026-09-15 23:36:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.01
-**Retorno acumulado:** -83.80%
+**Bankroll actual:** $77.58
+**Retorno acumulado:** -84.48%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 23:34:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $63.20 en 13 posiciones abiertas (disponible para nuevas apuestas: $17.81)
+**Capital comprometido ahora mismo:** $48.20 en 10 posiciones abiertas (disponible para nuevas apuestas: $29.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,7 +131,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| GoalLineGhost | 79 | 33 | 2 | -7.44 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -145,6 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| GoalLineGhost | 79 | 35 | 0 | -17.63 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
@@ -152,8 +152,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 503 | 237 | 2 | -27.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 502 | 237 | 3 | -34.14 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5343
-- **Aciertos:** 3342 (62.5%)
+- **Apuestas resueltas:** 5346
+- **Aciertos:** 3343 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,612.79
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $496.59 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,627.79
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $496.92 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,8 +178,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2776 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1572 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2778 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1573 | 68.3% | 67.8% | +0.4 pp |
 | 80-94% | 714 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
@@ -1030,10 +1030,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ✅ ganada | +2.49 |
-| RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ✅ ganada | +6.76 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 32.8% | ❌ perdida | -4.00 |
-| GoalLineGhost | São Paulo FC vs. CA Boca Juniors: O/U 1. | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| GoalLineGhost | Will CA Boca Juniors win on 2026-09-15? | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
+| GoalLineGhost | São Paulo FC vs. CA Boca Juniors: O/U 1. | Under (BUY) | 54% | 5.00 | 0.4% | ❌ perdida | -5.12 |
+| GoalLineGhost | Will CA Boca Juniors win on 2026-09-15? | Yes (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.5% | ✅ ganada | +0.76 |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 1.0% | ❌ perdida | -5.10 |
 | RN1 | Tiburon: Michael Zheng vs Evan Zhu | Michael Zheng (BUY) | 75% | 5.00 | 1.0% | ✅ ganada | +1.60 |
