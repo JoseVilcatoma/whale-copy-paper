@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 07:04:41 (hora de Perú)
+Actualizado: 2026-09-16 07:06:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $70.14
-**Retorno acumulado:** -85.97%
+**Bankroll actual:** $72.22
+**Retorno acumulado:** -85.56%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 07:04:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.74 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.40)
+**Capital comprometido ahora mismo:** $71.53 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 132 | 51 | 5 | -15.87 USD |
+| Flaznorp | 132 | 51 | 6 | -15.87 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 506 | 238 | 1 | -30.86 USD |
+| RN1 | 507 | 238 | 0 | -28.78 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5358
-- **Aciertos:** 3352 (62.6%)
+- **Apuestas resueltas:** 5359
+- **Aciertos:** 3353 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,686.46
-- **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $497.50 (1.86% del capital apostado)
+- **Total apostado (suma de stakes):** $26,689.67
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $497.56 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1576 | 68.3% | 67.8% | +0.4 pp |
+| 60-79% | 1577 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 719 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 283 | 97.2% | 97.3% | -0.2 pp |
 
@@ -1020,12 +1020,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ⏳ pendiente | — |
+| RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ✅ ganada | +2.08 |
 | Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |
 | Flaznorp | M25 Guiyang: Lachlan Vickery vs Qian Sun | Qian Sun (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | Flaznorp | Phan Thiet 4: Matthew Dellavedova vs Enz | Matthew Dellavedova (BUY) | 78% | 5.00 | 0.6% | ✅ ganada | +1.36 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ✅ ganada | +2.49 |
 | RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ✅ ganada | +6.76 |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 32.8% | ❌ perdida | -4.00 |
