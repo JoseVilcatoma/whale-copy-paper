@@ -137199,8 +137199,8 @@
     "title": "W35 Kyoto: Hikaru Sato vs Natsuki Yoshimoto",
     "outcome": "Hikaru Sato",
     "side": "BUY",
-    "whale_usd": 1158.7319,
-    "whale_pct": 0.619,
+    "whale_usd": 1895.0019,
+    "whale_pct": 1.012,
     "whale_value_at_open": 187221.7335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -137211,8 +137211,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789523972.3768415,
-    "fills": 2
+    "last_fill_at": 1789524165.8962681,
+    "fills": 3
   },
   {
     "timestamp": 1789522197,
