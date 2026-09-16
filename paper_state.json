@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.48123151028582,
+  "bankroll": 70.35923151028582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27895,6 +27895,11 @@
       "timestamp": 1789567863.9326022,
       "bankroll": 75.48,
       "event": "won:  \u2014 W35 Santa Margherita di Pula: Julia Stusek vs Camilla Gennaro"
+    },
+    {
+      "timestamp": 1789575264.0053263,
+      "bankroll": 70.36,
+      "event": "lost: Flaznorp \u2014 Spread: Vissel Kobe (-1.5)"
     }
   ]
 }
