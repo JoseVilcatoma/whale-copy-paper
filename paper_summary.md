@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 09:09:17 (hora de Perú)
+Actualizado: 2026-09-16 09:11:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $75.07
-**Retorno acumulado:** -84.99%
+**Bankroll actual:** $75.48
+**Retorno acumulado:** -84.90%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 09:09:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.97 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.10)
+**Capital comprometido ahora mismo:** $69.97 en 15 posiciones abiertas (disponible para nuevas apuestas: $5.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,18 +158,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 88 | 3 | -140.90 USD |
+|  | 129 | 88 | 2 | -140.49 USD |
 | ferrariChampions2026 | 802 | 498 | 1 | -246.05 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5364
-- **Aciertos:** 3358 (62.6%)
+- **Apuestas resueltas:** 5365
+- **Aciertos:** 3359 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,714.20
+- **Total apostado (suma de stakes):** $26,719.20
 - **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $497.68 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $497.70 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1578 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 721 | 85.6% | 86.5% | -1.0 pp |
+| 80-94% | 722 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1022,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | AS Omónoia Leukosías vs. RC Celta de Vig | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 |  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ⏳ pendiente | — |
-|  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
+|  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ✅ ganada | +0.41 |
 |  | Port FC vs. Vissel Kobe: O/U 2.5 | Under (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |

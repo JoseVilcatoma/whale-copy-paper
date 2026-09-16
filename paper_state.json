@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.06644890159018,
+  "bankroll": 75.48123151028582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27890,6 +27890,11 @@
       "timestamp": 1789565103.817405,
       "bankroll": 75.07,
       "event": "won: UpTheBlues \u2014 Ljubljana: Weronika Falkowska vs Laura Samson"
+    },
+    {
+      "timestamp": 1789567863.9326022,
+      "bankroll": 75.48,
+      "event": "won:  \u2014 W35 Santa Margherita di Pula: Julia Stusek vs Camilla Gennaro"
     }
   ]
 }
