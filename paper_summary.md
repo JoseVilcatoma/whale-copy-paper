@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 08:06:23 (hora de Perú)
+Actualizado: 2026-09-16 08:08:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $73.45
-**Retorno acumulado:** -85.31%
+**Bankroll actual:** $74.97
+**Retorno acumulado:** -85.01%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 08:06:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.45)
+**Capital comprometido ahora mismo:** $72.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $2.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -139,8 +139,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 1 | -11.40 USD |
+| Flaznorp | 136 | 51 | 3 | -13.12 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Flaznorp | 135 | 51 | 4 | -14.64 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -158,19 +158,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 88 | 1 | -140.90 USD |
+|  | 128 | 88 | 2 | -140.90 USD |
 | ferrariChampions2026 | 802 | 498 | 1 | -246.05 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5362
-- **Aciertos:** 3356 (62.6%)
+- **Apuestas resueltas:** 5363
+- **Aciertos:** 3357 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,704.20
+- **Total apostado (suma de stakes):** $26,709.20
 - **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $497.62 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $497.68 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1577 | 68.3% | 67.8% | +0.5 pp |
+| 60-79% | 1578 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 721 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 284 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Port FC vs. Vissel Kobe: O/U 2.5 | Under (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1028,7 +1029,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
-| Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ✅ ganada | +2.08 |
 | Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |
 | Flaznorp | M25 Guiyang: Lachlan Vickery vs Qian Sun | Qian Sun (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
-| RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ✅ ganada | +0.53 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.4504607168426,
+  "bankroll": 74.96940808526365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27880,6 +27880,11 @@
       "timestamp": 1789562850.7312758,
       "bankroll": 73.45,
       "event": "won: Flaznorp \u2014 Phan Thiet 4: Rodrigo Pacheco vs Arthur Weber"
+    },
+    {
+      "timestamp": 1789564104.5337331,
+      "bankroll": 74.97,
+      "event": "won: Flaznorp \u2014 Will Borneo Samarinda win on 2026-09-16?"
     }
   ]
 }
