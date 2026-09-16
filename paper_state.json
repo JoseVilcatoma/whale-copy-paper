@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.94191651073659,
+  "bankroll": 70.14024984406993,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27855,6 +27855,11 @@
       "timestamp": 1789556697.4708111,
       "bankroll": 69.94,
       "event": "won: Flaznorp \u2014 Rennes: Max Schoenhaus vs Matteo Martineau"
+    },
+    {
+      "timestamp": 1789559730.1825602,
+      "bankroll": 70.14,
+      "event": "won: RN1 \u2014 Ljubljana: Francesca Jones vs Mona Barthel"
     }
   ]
 }
