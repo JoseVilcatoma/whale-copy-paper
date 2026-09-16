@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.00429063732443,
+  "bankroll": 67.35954704758085,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27835,6 +27835,11 @@
       "timestamp": 1789541925.9666765,
       "bankroll": 66.0,
       "event": "won: RN1 \u2014 W35 Shenyang: Sijia Wei vs Ying Zhang"
+    },
+    {
+      "timestamp": 1789549307.8524978,
+      "bankroll": 67.36,
+      "event": "won: Flaznorp \u2014 Phan Thiet 4: Matthew Dellavedova vs Enzo Aguiard"
     }
   ]
 }
