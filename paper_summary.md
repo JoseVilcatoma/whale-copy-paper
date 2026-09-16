@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 00:58:28 (hora de Perú)
+Actualizado: 2026-09-16 01:00:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $65.06
-**Retorno acumulado:** -86.99%
+**Bankroll actual:** $65.47
+**Retorno acumulado:** -86.91%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 00:58:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.15 en 12 posiciones abiertas (disponible para nuevas apuestas: $5.91)
+**Capital comprometido ahora mismo:** $54.15 en 11 posiciones abiertas (disponible para nuevas apuestas: $11.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 127 | 51 | 4 | -20.22 USD |
+| Flaznorp | 128 | 51 | 3 | -19.81 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5351
-- **Aciertos:** 3345 (62.5%)
+- **Apuestas resueltas:** 5352
+- **Aciertos:** 3346 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,651.46
+- **Total apostado (suma de stakes):** $26,656.46
 - **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $497.28 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $497.30 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1574 | 68.2% | 67.8% | +0.4 pp |
-| 80-94% | 716 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 717 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
-| Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Chengyiyi Yuan vs Daria KH | Daria KHOMUTSIANSKAYA (BUY) | 84% | 5.00 | 2.2% | ✅ ganada | +0.91 |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ⏳ pendiente | — |

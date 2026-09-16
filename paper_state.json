@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.05895247307323,
+  "bankroll": 65.47373508176888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27825,6 +27825,11 @@
       "timestamp": 1789538182.7617657,
       "bankroll": 65.06,
       "event": "won: RN1 \u2014 W35 Shenyang: Chengyiyi Yuan vs Daria KHOMUTSIANSKAYA"
+    },
+    {
+      "timestamp": 1789538427.5921745,
+      "bankroll": 65.47,
+      "event": "won: Flaznorp \u2014 W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN"
     }
   ]
 }
