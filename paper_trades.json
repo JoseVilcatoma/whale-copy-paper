@@ -138241,8 +138241,8 @@
     "title": "Will NK Celje win on 2026-09-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1346.224286,
-    "whale_pct": 0.248,
+    "whale_usd": 4398.964285999999,
+    "whale_pct": 0.811,
     "whale_value_at_open": 542102.0943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -138253,8 +138253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789586327.385326,
-    "fills": 1
+    "last_fill_at": 1789586594.6815698,
+    "fills": 2
   },
   {
     "timestamp": 1789586327,
@@ -138265,8 +138265,8 @@
     "title": "Spread: FC Barcelona (-3.5)",
     "outcome": "Real Racing Club",
     "side": "BUY",
-    "whale_usd": 1855.9483,
-    "whale_pct": 0.92,
+    "whale_usd": 7128.6488,
+    "whale_pct": 3.533,
     "whale_value_at_open": 201760.6324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -138277,8 +138277,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789586328.2928135,
-    "fills": 1
+    "last_fill_at": 1789586580.547798,
+    "fills": 2
   },
   {
     "timestamp": 1789586336,
