@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 16:56:36 (hora de Perú)
+Actualizado: 2026-09-16 16:58:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $45.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 16:56:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.38 en 8 posiciones abiertas (disponible para nuevas apuestas: $8.14)
+**Capital comprometido ahora mismo:** $45.52 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 507 | 238 | 1 | -28.78 USD |
+| RN1 | 507 | 238 | 3 | -28.78 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1021,7 +1021,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 3.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ❌ perdida | -5.12 |
@@ -1049,5 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.8% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
-| Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
-| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 24.9% | ✅ ganada | +1.87 |
