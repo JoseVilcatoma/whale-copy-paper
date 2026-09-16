@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.33092116545824,
+  "bankroll": 62.285921165458234,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27910,6 +27910,11 @@
       "timestamp": 1789577955.078561,
       "bankroll": 67.33,
       "event": "won:  \u2014 Will Argentina win on 2026-09-16?"
+    },
+    {
+      "timestamp": 1789581664.1820521,
+      "bankroll": 62.29,
+      "event": "lost: Flaznorp \u2014 Spread: AGS Ast\u00e9ras Tr\u00edpolis (-1.5)"
     }
   ]
 }
