@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 07:35:31 (hora de Perú)
+Actualizado: 2026-09-16 07:37:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.26
-**Retorno acumulado:** -85.55%
+**Bankroll actual:** $72.92
+**Retorno acumulado:** -85.42%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 07:35:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.53 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.73)
+**Capital comprometido ahora mismo:** $66.53 en 14 posiciones abiertas (disponible para nuevas apuestas: $6.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -140,9 +140,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 1 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| Flaznorp | 134 | 51 | 4 | -15.17 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 133 | 51 | 5 | -15.82 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5360
-- **Aciertos:** 3354 (62.6%)
+- **Apuestas resueltas:** 5361
+- **Aciertos:** 3355 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,694.67
+- **Total apostado (suma de stakes):** $26,699.67
 - **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $497.56 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $497.59 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2780 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1577 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 719 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 720 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 284 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1022,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ⏳ pendiente | — |
+| Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ✅ ganada | +0.65 |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |

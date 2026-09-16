@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.26375489457497,
+  "bankroll": 72.91557307639316,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27870,6 +27870,11 @@
       "timestamp": 1789561288.8139262,
       "bankroll": 72.26,
       "event": "won: Flaznorp \u2014 Will FK Chornomorets Odesa win on 2026-09-14?"
+    },
+    {
+      "timestamp": 1789562169.3458703,
+      "bankroll": 72.92,
+      "event": "won: Flaznorp \u2014 W50 Pazardzhik: Loes Ebeling Koning vs Antonia Stoyanov"
     }
   ]
 }
