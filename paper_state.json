@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.1558288355341,
+  "bankroll": 78.57061144422974,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27725,6 +27725,11 @@
       "timestamp": 1789525668.1376681,
       "bankroll": 78.16,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Baltimore Orioles vs. New York Mets: O/U 7.5"
+    },
+    {
+      "timestamp": 1789526925.076698,
+      "bankroll": 78.57,
+      "event": "won: RN1 \u2014 Will AA Ponte Preta win on 2026-09-15?"
     }
   ]
 }

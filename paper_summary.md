@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 21:47:47 (hora de Perú)
+Actualizado: 2026-09-15 21:49:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $78.16
-**Retorno acumulado:** -84.37%
+**Bankroll actual:** $78.57
+**Retorno acumulado:** -84.29%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 21:47:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.73 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.43)
+**Capital comprometido ahora mismo:** $77.73 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 498 | 236 | 5 | -35.03 USD |
+| RN1 | 499 | 236 | 5 | -34.62 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -162,13 +162,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5331
-- **Aciertos:** 3334 (62.5%)
+- **Apuestas resueltas:** 5332
+- **Aciertos:** 3335 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,555.06
+- **Total apostado (suma de stakes):** $26,560.06
 - **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $495.64 (1.87% del capital apostado)
+- **Comisiones pagadas (taker fee):** $495.66 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2771 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1569 | 68.4% | 67.8% | +0.5 pp |
-| 80-94% | 710 | 85.4% | 86.5% | -1.2 pp |
+| 80-94% | 711 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1017,7 +1017,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 2.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ⏳ pendiente | — |
 | RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 31.0% | ⏳ pendiente | — |
@@ -1032,7 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch (BUY) | 73% | 4.80 | 5.1% | ✅ ganada | +1.71 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 2.7% | ❌ perdida | -5.14 |
-| RN1 | Will AA Ponte Preta win on 2026-09-15? | No (BUY) | 92% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will AA Ponte Preta win on 2026-09-15? | No (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ⏳ pendiente | — |
@@ -1046,4 +1047,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tiburon: Blaise Bicknell vs Trevor Svajd | Blaise Bicknell (BUY) | 47% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Arsenal FC (-1.5) | Arsenal FC (BUY) | 54% | 4.62 | 4.2% | ✅ ganada | +3.83 |
 | RN1 | Will RKS Rakow Czestochowa win on 2026-0 | No (BUY) | 48% | 5.00 | 1.7% | ✅ ganada | +5.29 |
-| ferrariChampions2026 | Szczecin: Johan Nikles vs Laslo Djere | Laslo Djere (BUY) | 57% | 5.00 | 3.0% | ✅ ganada | +3.66 |
