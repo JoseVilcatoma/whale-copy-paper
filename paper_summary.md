@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 05:17:10 (hora de Perú)
+Actualizado: 2026-09-16 05:19:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.74
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 05:17:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.36 en 13 posiciones abiertas (disponible para nuevas apuestas: $7.38)
+**Capital comprometido ahora mismo:** $67.36 en 14 posiciones abiertas (disponible para nuevas apuestas: $2.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 131 | 51 | 4 | -16.07 USD |
+| Flaznorp | 131 | 51 | 5 | -16.07 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | São Paulo FC vs. CA Boca Juniors: O/U 1. | Under (BUY) | 54% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will CA Boca Juniors win on 2026-09-15? | Yes (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | RN1 | W35 Kyoto: Remika Ohashi vs Kamonwan Yod | Kamonwan Yodpetch (BUY) | 86% | 4.89 | 1.5% | ✅ ganada | +0.76 |
-| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Hikaru Sato (BUY) | 59% | 5.00 | 1.0% | ❌ perdida | -5.10 |

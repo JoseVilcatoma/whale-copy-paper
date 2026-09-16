@@ -137919,5 +137919,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789552409.7521083,
     "fills": 1
+  },
+  {
+    "timestamp": 1789553846,
+    "timestamp_added": 1789553847.3216605,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-schoenh-martin-2026-09-16",
+    "title": "Rennes: Max Schoenhaus vs Matteo Martineau",
+    "outcome": "Matteo Martineau",
+    "side": "BUY",
+    "whale_usd": 3495.189999,
+    "whale_pct": 0.971,
+    "whale_value_at_open": 359987.6085,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789553847.3216722,
+    "fills": 1
   }
 ]
