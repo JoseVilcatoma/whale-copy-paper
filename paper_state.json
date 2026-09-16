@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.91557307639316,
+  "bankroll": 73.4504607168426,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27875,6 +27875,11 @@
       "timestamp": 1789562169.3458703,
       "bankroll": 72.92,
       "event": "won: Flaznorp \u2014 W50 Pazardzhik: Loes Ebeling Koning vs Antonia Stoyanov"
+    },
+    {
+      "timestamp": 1789562850.7312758,
+      "bankroll": 73.45,
+      "event": "won: Flaznorp \u2014 Phan Thiet 4: Rodrigo Pacheco vs Arthur Weber"
     }
   ]
 }
