@@ -138411,8 +138411,8 @@
     "title": "Will Santos FC win on 2026-09-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1175.0,
-    "whale_pct": 0.134,
+    "whale_usd": 2116.55412,
+    "whale_pct": 0.242,
     "whale_value_at_open": 874472.3276,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -138423,8 +138423,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789596830.589829,
-    "fills": 1
+    "last_fill_at": 1789599359.9534006,
+    "fills": 2
   },
   {
     "timestamp": 1789596959,
