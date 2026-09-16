@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 00:09:19 (hora de Perú)
+Actualizado: 2026-09-16 00:11:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.46
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ⏳ pendiente | — |
-| Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Chengyiyi Yuan vs Daria KH | Daria KHOMUTSIANSKAYA (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ⏳ pendiente | — |

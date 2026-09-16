@@ -137663,8 +137663,8 @@
     "title": "W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN",
     "outcome": "Jiangxue HAN",
     "side": "BUY",
-    "whale_usd": 1052.694,
-    "whale_pct": 0.346,
+    "whale_usd": 1575.813991,
+    "whale_pct": 0.518,
     "whale_value_at_open": 304029.3388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -137675,8 +137675,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789535322.0383217,
-    "fills": 2
+    "last_fill_at": 1789535369.5876012,
+    "fills": 3
   },
   {
     "timestamp": 1789535317,
