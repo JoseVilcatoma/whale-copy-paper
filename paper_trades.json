@@ -137309,5 +137309,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789524387.453633,
     "fills": 4
+  },
+  {
+    "timestamp": 1789524544,
+    "timestamp_added": 1789524545.2751513,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-sao-boc-2026-09-15-total-1pt5",
+    "title": "S\u00e3o Paulo FC vs. CA Boca Juniors: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 626.3488,
+    "whale_pct": 0.601,
+    "whale_value_at_open": 104157.005,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789524545.2751632,
+    "fills": 1
   }
 ]
