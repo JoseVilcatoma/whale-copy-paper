@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.77432965627649,
+  "bankroll": 69.74358317740325,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27845,6 +27845,11 @@
       "timestamp": 1789551941.2903383,
       "bankroll": 67.77,
       "event": "won: Flaznorp \u2014 M25 Guiyang: Lachlan Vickery vs Qian Sun"
+    },
+    {
+      "timestamp": 1789553699.038241,
+      "bankroll": 69.74,
+      "event": "won: Flaznorp \u2014 W50 Pazardzhik: Elizara Yaneva vs Gaia Maduzzi"
     }
   ]
 }
