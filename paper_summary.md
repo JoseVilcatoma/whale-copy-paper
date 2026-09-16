@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 01:00:33 (hora de Perú)
+Actualizado: 2026-09-16 01:02:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 01:00:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $54.15 en 11 posiciones abiertas (disponible para nuevas apuestas: $11.32)
+**Capital comprometido ahora mismo:** $59.15 en 12 posiciones abiertas (disponible para nuevas apuestas: $6.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| quavoo | 32 | 18 | 2 | +4.68 USD |
+| quavoo | 32 | 18 | 3 | +4.68 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | San Diego Padres vs. Colorado Rockies: O | Under (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Under (BUY) | 51% | 3.37 | 0.8% | ❌ perdida | -3.45 |
 | wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 70% | 5.00 | 15.8% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Tiburon: Darwin Blanch vs Stefan Kozlov | Darwin Blanch (BUY) | 73% | 4.80 | 5.1% | ✅ ganada | +1.71 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
