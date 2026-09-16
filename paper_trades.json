@@ -137727,5 +137727,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789536449.0856988,
     "fills": 5
+  },
+  {
+    "timestamp": 1789537923,
+    "timestamp_added": 1789537924.3320599,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lal-dep-sev-2026-09-16-spread-home-1pt5",
+    "title": "Spread: RC Deportivo A Coru\u00f1a (-1.5)",
+    "outcome": "Sevilla FC",
+    "side": "BUY",
+    "whale_usd": 989.4,
+    "whale_pct": 0.265,
+    "whale_value_at_open": 372771.1645,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789537924.3320742,
+    "fills": 1
   }
 ]
