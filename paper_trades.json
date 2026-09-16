@@ -137409,5 +137409,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789527491.7663922,
     "fills": 2
+  },
+  {
+    "timestamp": 1789528539,
+    "timestamp_added": 1789528539.9472203,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-sea-laa-2026-09-15",
+    "title": "Seattle Mariners vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 5025.888000000001,
+    "whale_pct": 2.619,
+    "whale_value_at_open": 191916.3175,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789528540.4043055,
+    "fills": 2
   }
 ]
