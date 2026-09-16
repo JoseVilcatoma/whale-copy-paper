@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 18:23:15 (hora de Perú)
+Actualizado: 2026-09-16 18:25:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $47.26
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 2.6% | ⏳ pendiente | — |
 | RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 9.7% | ⏳ pendiente | — |
