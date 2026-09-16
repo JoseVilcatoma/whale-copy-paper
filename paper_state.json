@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.35954704758085,
+  "bankroll": 67.77432965627649,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27840,6 +27840,11 @@
       "timestamp": 1789549307.8524978,
       "bankroll": 67.36,
       "event": "won: Flaznorp \u2014 Phan Thiet 4: Matthew Dellavedova vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1789551941.2903383,
+      "bankroll": 67.77,
+      "event": "won: Flaznorp \u2014 M25 Guiyang: Lachlan Vickery vs Qian Sun"
     }
   ]
 }
