@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.24223151028582,
+  "bankroll": 67.33092116545824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27905,6 +27905,11 @@
       "timestamp": 1789575511.8995993,
       "bankroll": 65.24,
       "event": "lost:  \u2014 Port FC vs. Vissel Kobe: O/U 2.5"
+    },
+    {
+      "timestamp": 1789577955.078561,
+      "bankroll": 67.33,
+      "event": "won:  \u2014 Will Argentina win on 2026-09-16?"
     }
   ]
 }
