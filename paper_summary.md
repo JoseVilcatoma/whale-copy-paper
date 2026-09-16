@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 06:58:30 (hora de Perú)
+Actualizado: 2026-09-16 07:00:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 06:58:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $64.74 en 14 posiciones abiertas (disponible para nuevas apuestas: $5.40)
+**Capital comprometido ahora mismo:** $69.74 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -142,7 +142,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 132 | 51 | 4 | -15.87 USD |
+| Flaznorp | 132 | 51 | 5 | -15.87 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ✅ ganada | +2.49 |
 | RN1 | São Paulo FC vs. CA Boca Juniors: O/U 1. | Over (BUY) | 42% | 5.00 | 0.6% | ✅ ganada | +6.76 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 60% | 3.92 | 32.8% | ❌ perdida | -4.00 |
-| GoalLineGhost | São Paulo FC vs. CA Boca Juniors: O/U 1. | Under (BUY) | 54% | 5.00 | 0.4% | ❌ perdida | -5.12 |

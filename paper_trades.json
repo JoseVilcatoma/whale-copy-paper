@@ -137991,5 +137991,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789556792.9059863,
     "fills": 1
+  },
+  {
+    "timestamp": 1789559919,
+    "timestamp_added": 1789559919.5283434,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-koning1-stoyan1-2026-09-16",
+    "title": "W50 Pazardzhik: Loes Ebeling Koning vs Antonia Stoyanov",
+    "outcome": "Loes Ebeling Koning",
+    "side": "BUY",
+    "whale_usd": 4000.4689989999997,
+    "whale_pct": 1.06,
+    "whale_value_at_open": 377467.9555,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789559983.2814326,
+    "fills": 2
   }
 ]
