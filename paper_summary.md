@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 07:58:01 (hora de Perú)
+Actualizado: 2026-09-16 08:00:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 07:58:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $6.45)
+**Capital comprometido ahora mismo:** $72.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 88 | 0 | -140.90 USD |
+|  | 128 | 88 | 1 | -140.90 USD |
 | ferrariChampions2026 | 802 | 498 | 1 | -246.05 USD |
 
 ## Análisis general
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Port FC vs. Vissel Kobe: O/U 2.5 | Under (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ✅ ganada | +0.53 |
-| RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
