@@ -137895,5 +137895,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789551437.6284552,
     "fills": 1
+  },
+  {
+    "timestamp": 1789552409,
+    "timestamp_added": 1789552409.7520957,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "idn1-sam-dew-2026-09-16-sam",
+    "title": "Will Borneo Samarinda win on 2026-09-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 872.25,
+    "whale_pct": 0.246,
+    "whale_value_at_open": 355244.7634,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789552409.7521083,
+    "fills": 1
   }
 ]
