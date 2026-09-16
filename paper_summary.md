@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 23:43:05 (hora de Perú)
+Actualizado: 2026-09-15 23:45:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 23:43:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $43.20 en 9 posiciones abiertas (disponible para nuevas apuestas: $29.26)
+**Capital comprometido ahora mismo:** $53.20 en 11 posiciones abiertas (disponible para nuevas apuestas: $19.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| GoalLineGhost | 79 | 35 | 0 | -17.63 USD |
+| GoalLineGhost | 79 | 35 | 1 | -17.63 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 503 | 238 | 1 | -32.50 USD |
+| RN1 | 503 | 238 | 2 | -32.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
@@ -1013,12 +1013,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-col-2026-09-15 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | mlb-lad-cin-2026-09-15 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
 | sud-sao-boc-2026-09-15-total-1pt5 | GoalLineGhost, RN1 |
+| lal-mad-osa-2026-09-16-mad | GoalLineGhost, purplegatto |
 | mlb-mia-ari-2026-09-15 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Chengyiyi Yuan vs Daria KH | Daria KHOMUTSIANSKAYA (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 9.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -1047,5 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ❌ perdida | -4.02 |
-| ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
