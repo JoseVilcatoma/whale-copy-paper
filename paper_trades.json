@@ -137481,5 +137481,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789529795.3809416,
     "fills": 3
+  },
+  {
+    "timestamp": 1789530448,
+    "timestamp_added": 1789530449.2104611,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-stephen-tjen-2026-09-15",
+    "title": "Guadalajara Open Akron: Sloane Stephens vs Janice Tjen",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "whale_usd": 1452.9979999999998,
+    "whale_pct": 0.819,
+    "whale_value_at_open": 177370.8899,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789530449.2104728,
+    "fills": 1
   }
 ]
