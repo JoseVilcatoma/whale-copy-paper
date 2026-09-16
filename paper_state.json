@@ -1,5 +1,5 @@
 {
-  "bankroll": 47.259505398499364,
+  "bankroll": 45.2647685563941,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27985,6 +27985,16 @@
       "timestamp": 1789599678.6612086,
       "bankroll": 47.26,
       "event": "won: RN1 \u2014 Will NK Celje win on 2026-09-16?"
+    },
+    {
+      "timestamp": 1789602104.254927,
+      "bankroll": 44.03,
+      "event": "lost: RN1 \u2014 Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic"
+    },
+    {
+      "timestamp": 1789602104.5554316,
+      "bankroll": 45.26,
+      "event": "won: RN1 \u2014 Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic"
     }
   ]
 }
