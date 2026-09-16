@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 07:39:33 (hora de Perú)
+Actualizado: 2026-09-16 07:41:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.92
@@ -1045,7 +1045,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 63% | 3.67 | 1.1% | ❌ perdida | -3.74 |
 | RN1 | Guadalajara Open Akron: Sloane Stephens  | Sloane Stephens (BUY) | 85% | 5.00 | 0.8% | ✅ ganada | +0.84 |
 | RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.9% | ❌ perdida | -5.12 |
-| purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.2% | ⏳ pendiente | — |
+| purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ✅ ganada | +0.53 |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
