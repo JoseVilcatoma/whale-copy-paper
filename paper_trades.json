@@ -137539,8 +137539,8 @@
     "title": "Miami Marlins vs. Arizona Diamondbacks",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 5806.47199,
-    "whale_pct": 2.32,
+    "whale_usd": 7687.47199,
+    "whale_pct": 3.071,
     "whale_value_at_open": 250306.5591,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -137553,8 +137553,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789532015.0003688,
-    "fills": 3
+    "last_fill_at": 1789534335.865664,
+    "fills": 4
   },
   {
     "timestamp": 1789532117,
