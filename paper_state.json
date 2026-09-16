@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.86893649112874,
+  "bankroll": 51.730936491128745,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27940,6 +27940,11 @@
       "timestamp": 1789586330.4141004,
       "bankroll": 56.87,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)"
+    },
+    {
+      "timestamp": 1789591326.3740742,
+      "bankroll": 51.73,
+      "event": "lost: Flaznorp \u2014 AS Om\u00f3noia Leukos\u00edas vs. RC Celta de Vigo: O/U 2.5"
     }
   ]
 }
