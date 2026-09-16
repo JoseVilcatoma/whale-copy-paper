@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.02224827454258,
+  "bankroll": 72.732590740296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27710,6 +27710,11 @@
       "timestamp": 1789523849.4585896,
       "bankroll": 71.02,
       "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1789524038.3309515,
+      "bankroll": 72.73,
+      "event": "won: ferrariChampions2026 \u2014 Tiburon: Darwin Blanch vs Stefan Kozlov"
     }
   ]
 }
