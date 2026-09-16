@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.35923151028582,
+  "bankroll": 65.24223151028582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27900,6 +27900,11 @@
       "timestamp": 1789575264.0053263,
       "bankroll": 70.36,
       "event": "lost: Flaznorp \u2014 Spread: Vissel Kobe (-1.5)"
+    },
+    {
+      "timestamp": 1789575511.8995993,
+      "bankroll": 65.24,
+      "event": "lost:  \u2014 Port FC vs. Vissel Kobe: O/U 2.5"
     }
   ]
 }
