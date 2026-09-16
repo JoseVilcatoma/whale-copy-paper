@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.14657152069228,
+  "bankroll": 65.05895247307323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27820,6 +27820,11 @@
       "timestamp": 1789537247.4322665,
       "bankroll": 64.15,
       "event": "won: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1789538182.7617657,
+      "bankroll": 65.06,
+      "event": "won: RN1 \u2014 W35 Shenyang: Chengyiyi Yuan vs Daria KHOMUTSIANSKAYA"
     }
   ]
 }
