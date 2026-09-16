@@ -1,5 +1,5 @@
 {
-  "bankroll": 51.730936491128745,
+  "bankroll": 46.632936491128746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27945,6 +27945,11 @@
       "timestamp": 1789591326.3740742,
       "bankroll": 51.73,
       "event": "lost: Flaznorp \u2014 AS Om\u00f3noia Leukos\u00edas vs. RC Celta de Vigo: O/U 2.5"
+    },
+    {
+      "timestamp": 1789591949.6934202,
+      "bankroll": 46.63,
+      "event": "lost: nigiri99 \u2014 San Francisco Giants vs. St. Louis Cardinals"
     }
   ]
 }

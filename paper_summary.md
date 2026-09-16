@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 15:51:32 (hora de Perú)
+Actualizado: 2026-09-16 15:53:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $51.73
-**Retorno acumulado:** -89.65%
-**Peor caída desde un máximo (drawdown):** 91.47%
+**Bankroll actual:** $46.63
+**Retorno acumulado:** -90.67%
+**Peor caída desde un máximo (drawdown):** 92.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 15:51:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $51.87 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $46.87 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
-| quavoo | 33 | 18 | 4 | +5.39 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -85,6 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
+| quavoo | 33 | 19 | 3 | +0.29 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5375
+- **Apuestas resueltas:** 5376
 - **Aciertos:** 3363 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,766.79
-- **ROI sobre lo apostado:** -2.14%
-- **Comisiones pagadas (taker fee):** $498.62 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,771.79
+- **ROI sobre lo apostado:** -2.16%
+- **Comisiones pagadas (taker fee):** $498.72 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2786 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1580 | 68.4% | 67.9% | +0.5 pp |
+| 60-79% | 1581 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 724 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1046,7 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | San Diego Padres vs. Colorado Rockies: O | Under (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ❌ perdida | -4.75 |
 | nigiri99 | Spread: RC Deportivo A Coruña (-1.5) | Sevilla FC (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
-| nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
+| nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.8% | ❌ perdida | -5.10 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
 | Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 24.9% | ✅ ganada | +1.87 |
