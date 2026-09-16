@@ -137529,5 +137529,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789531063.2207048,
     "fills": 1
+  },
+  {
+    "timestamp": 1789531795,
+    "timestamp_added": 1789531796.4733448,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-mia-ari-2026-09-15",
+    "title": "Miami Marlins vs. Arizona Diamondbacks",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 4814.131564,
+    "whale_pct": 1.923,
+    "whale_value_at_open": 250306.5591,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789531853.8759956,
+    "fills": 2
   }
 ]
