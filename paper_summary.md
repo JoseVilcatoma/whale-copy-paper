@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 12:43:46 (hora de Perú)
+Actualizado: 2026-09-16 12:45:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $67.33
@@ -1044,7 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | San Francisco Giants vs. St. Louis Cardi | St. Louis Cardinals (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 90% | 5.00 | 5.5% | ✅ ganada | +0.53 |
 | Flaznorp | W35 Kyoto: Kisa Yoshioka vs Jiangxue HAN | Jiangxue HAN (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
-| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 11.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 11.9% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Chengyiyi Yuan vs Daria KH | Daria KHOMUTSIANSKAYA (BUY) | 84% | 5.00 | 2.2% | ✅ ganada | +0.91 |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Arthur  | Rodrigo Pacheco (BUY) | 89% | 4.53 | 0.3% | ✅ ganada | +0.53 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 55% | 5.00 | 10.3% | ⏳ pendiente | — |
