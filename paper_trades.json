@@ -137823,5 +137823,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789543335.1139112,
     "fills": 1
+  },
+  {
+    "timestamp": 1789543494,
+    "timestamp_added": 1789543495.4465294,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-vicker1-sun5-2026-09-16",
+    "title": "M25 Guiyang: Lachlan Vickery vs Qian Sun",
+    "outcome": "Qian Sun",
+    "side": "BUY",
+    "whale_usd": 540.0,
+    "whale_pct": 0.176,
+    "whale_value_at_open": 306966.0776,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789543495.4465413,
+    "fills": 1
   }
 ]

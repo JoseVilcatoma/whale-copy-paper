@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 02:23:47 (hora de Perú)
+Actualizado: 2026-09-16 02:25:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $66.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 02:23:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.15 en 12 posiciones abiertas (disponible para nuevas apuestas: $6.85)
+**Capital comprometido ahora mismo:** $64.15 en 13 posiciones abiertas (disponible para nuevas apuestas: $1.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 128 | 51 | 4 | -19.81 USD |
+| Flaznorp | 128 | 51 | 5 | -19.81 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | M25 Guiyang: Lachlan Vickery vs Qian Sun | Qian Sun (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Matthew Dellavedova vs Enz | Matthew Dellavedova (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | San Diego Padres vs. Colorado Rockies: O | Under (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | RC Deportivo A Coruña vs. Sevilla FC: O/ | Over (BUY) | 43% | 4.62 | 0.3% | ⏳ pendiente | — |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tiburon: Michael Zheng vs Evan Zhu | Michael Zheng (BUY) | 75% | 5.00 | 1.0% | ✅ ganada | +1.60 |
 | GoalLineGhost | Will Club The Strongest win on 2026-09-1 | Yes (BUY) | 88% | 4.99 | 0.3% | ✅ ganada | +0.65 |
 | Talvez10 | New York Yankees vs. Minnesota Twins: O/ | Under (BUY) | 51% | 3.37 | 0.8% | ❌ perdida | -3.45 |
-| wr0ngw4yb3tt0r | Los Angeles Dodgers vs. Cincinnati Reds | Los Angeles Dodgers (BUY) | 70% | 5.00 | 15.8% | ✅ ganada | +2.07 |
