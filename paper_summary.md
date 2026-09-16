@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 22:26:53 (hora de Perú)
+Actualizado: 2026-09-15 22:28:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $79.22
-**Retorno acumulado:** -84.16%
+**Bankroll actual:** $84.10
+**Retorno acumulado:** -83.18%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 22:26:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.74 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.48)
+**Capital comprometido ahora mismo:** $72.74 en 15 posiciones abiertas (disponible para nuevas apuestas: $11.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -140,6 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 0 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -147,7 +148,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 127 | 51 | 1 | -20.22 USD |
-| pleaseplease123 | 32 | 32 | 1 | -20.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -162,14 +162,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5333
-- **Aciertos:** 3336 (62.6%)
+- **Apuestas resueltas:** 5334
+- **Aciertos:** 3337 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,565.05
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $495.69 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,570.05
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $495.81 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2771 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2772 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1569 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 712 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
@@ -1017,7 +1017,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 5.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ⏳ pendiente | — |
@@ -1041,7 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ✅ ganada | +2.51 |
-| pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7. | Under (BUY) | 50% | 5.00 | 199.5% | ⏳ pendiente | — |
+| pleaseplease123 | Boston Red Sox vs. Texas Rangers: O/U 7. | Under (BUY) | 50% | 5.00 | 199.5% | ✅ ganada | +4.88 |
 | RN1 | Will Barnsley FC win on 2026-09-15? | No (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | RN1 | Will Peterborough United FC win on 2026- | No (BUY) | 94% | 5.00 | 0.1% | ✅ ganada | +0.30 |
 | RN1 | Will West Ham United FC win on 2026-09-1 | No (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
