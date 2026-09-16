@@ -137799,5 +137799,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789538488.6325123,
     "fills": 1
+  },
+  {
+    "timestamp": 1789543334,
+    "timestamp_added": 1789543335.1138988,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-dellave-aguiard-2026-09-16",
+    "title": "Phan Thiet 4: Matthew Dellavedova vs Enzo Aguiard",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "whale_usd": 1851.299998,
+    "whale_pct": 0.608,
+    "whale_value_at_open": 304603.3331,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789543335.1139112,
+    "fills": 1
   }
 ]
