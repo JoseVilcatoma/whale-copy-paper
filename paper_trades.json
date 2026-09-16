@@ -137565,8 +137565,8 @@
     "title": "Detroit Tigers vs. Toronto Blue Jays",
     "outcome": "Toronto Blue Jays",
     "side": "BUY",
-    "whale_usd": 4416.9516,
-    "whale_pct": 9.081,
+    "whale_usd": 4991.511600000001,
+    "whale_pct": 10.262,
     "whale_value_at_open": 48639.7387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -137577,8 +137577,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789533587.5229373,
-    "fills": 2
+    "last_fill_at": 1789536174.1635213,
+    "fills": 3
   },
   {
     "timestamp": 1789532167,
