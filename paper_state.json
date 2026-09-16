@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.24287007706975,
+  "bankroll": 77.11877916797884,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27760,6 +27760,16 @@
       "timestamp": 1789531467.3211293,
       "bankroll": 78.24,
       "event": "won: RN1 \u2014 W35 Kyoto: Remika Ohashi vs Kamonwan Yodpetch"
+    },
+    {
+      "timestamp": 1789532093.6875176,
+      "bankroll": 73.14,
+      "event": "lost: RN1 \u2014 W35 Kyoto: Hikaru Sato vs Natsuki Yoshimoto"
+    },
+    {
+      "timestamp": 1789532094.5731342,
+      "bankroll": 77.12,
+      "event": "won: RN1 \u2014 W35 Kyoto: Hikaru Sato vs Natsuki Yoshimoto"
     }
   ]
 }
