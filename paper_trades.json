@@ -138329,5 +138329,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789586348.0276232,
     "fills": 1
+  },
+  {
+    "timestamp": 1789595692,
+    "timestamp_added": 1789595692.8939307,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-lad-cin-2026-09-16-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3036.9000000000005,
+    "whale_pct": 2.523,
+    "whale_value_at_open": 120371.3365,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789595747.7409308,
+    "fills": 4
   }
 ]
