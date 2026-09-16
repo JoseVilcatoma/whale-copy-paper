@@ -1,5 +1,5 @@
 {
-  "bankroll": 46.632936491128746,
+  "bankroll": 45.52020236819634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27950,6 +27950,21 @@
       "timestamp": 1789591949.6934202,
       "bankroll": 46.63,
       "event": "lost: nigiri99 \u2014 San Francisco Giants vs. St. Louis Cardinals"
+    },
+    {
+      "timestamp": 1789595636.586678,
+      "bankroll": 47.61,
+      "event": "won: nigiri99 \u2014 Spread: FC Barcelona (-1.5)"
+    },
+    {
+      "timestamp": 1789595637.2651775,
+      "bankroll": 42.49,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: FC Barcelona (-3.5)"
+    },
+    {
+      "timestamp": 1789595637.7372026,
+      "bankroll": 45.52,
+      "event": "won: wr0ngw4yb3tt0r \u2014 FC Barcelona vs. Real Racing Club: O/U 4.5"
     }
   ]
 }

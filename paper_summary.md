@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 16:52:32 (hora de Perú)
+Actualizado: 2026-09-16 16:54:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $46.63
-**Retorno acumulado:** -90.67%
-**Peor caída desde un máximo (drawdown):** 92.31%
+**Bankroll actual:** $45.52
+**Retorno acumulado:** -90.90%
+**Peor caída desde un máximo (drawdown):** 92.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 16:52:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $46.87 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $32.38 en 7 posiciones abiertas (disponible para nuevas apuestas: $13.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
-| wr0ngw4yb3tt0r | 111 | 79 | 3 | +30.83 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| wr0ngw4yb3tt0r | 112 | 80 | 1 | +28.74 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Feromont | 11 | 4 | 0 | +25.00 USD |
@@ -79,12 +79,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Jsram | 7 | 4 | 0 | +1.40 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
+| quavoo | 34 | 19 | 2 | +1.27 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
-| quavoo | 33 | 19 | 3 | +0.29 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5376
-- **Aciertos:** 3363 (62.6%)
+- **Apuestas resueltas:** 5379
+- **Aciertos:** 3365 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,771.79
+- **Total apostado (suma de stakes):** $26,786.28
 - **ROI sobre lo apostado:** -2.16%
-- **Comisiones pagadas (taker fee):** $498.72 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $498.98 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -178,9 +178,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2786 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2788 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1581 | 68.3% | 67.8% | +0.5 pp |
-| 80-94% | 724 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 725 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 285 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1021,12 +1021,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ❌ perdida | -5.12 |
 | RN1 | Will NK Celje win on 2026-09-16? | No (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Club Atlético de Madrid (-1.5) | CA Osasuna (BUY) | 49% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
+| nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | Flaznorp | AS Omónoia Leukosías vs. RC Celta de Vig | Over (BUY) | 45% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 |  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ✅ ganada | +2.09 |
 |  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ✅ ganada | +0.41 |
