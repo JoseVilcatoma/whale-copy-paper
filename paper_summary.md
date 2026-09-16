@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 07:43:41 (hora de Perú)
+Actualizado: 2026-09-16 07:45:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 07:43:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.53 en 14 posiciones abiertas (disponible para nuevas apuestas: $6.39)
+**Capital comprometido ahora mismo:** $71.53 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -140,7 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | UpTheBlues | 8 | 5 | 1 | -11.40 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| Flaznorp | 134 | 51 | 4 | -15.17 USD |
+| Flaznorp | 134 | 51 | 5 | -15.17 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Ljubljana: Weronika Falkowska vs Laura S | Laura Samson (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ✅ ganada | +0.65 |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ✅ ganada | +0.53 |
 | RN1 | W35 Kyoto: Hikaru Sato vs Natsuki Yoshim | Natsuki Yoshimoto (BUY) | 55% | 5.00 | 3.5% | ✅ ganada | +3.98 |
-| wr0ngw4yb3tt0r | San Diego Padres vs. Colorado Rockies | Colorado Rockies (BUY) | 66% | 5.00 | 12.9% | ✅ ganada | +2.49 |
