@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 17:27:28 (hora de Perú)
+Actualizado: 2026-09-16 17:29:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $47.21
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 6.4% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 6.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ❌ perdida | -5.12 |
