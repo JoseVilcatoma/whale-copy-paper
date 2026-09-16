@@ -8,55 +8,55 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1789319795.5598989,
-    "roi_pct": 670.14,
+    "roi_pct": 674.54,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1789499902.0736783,
-    "roi_pct": 705.76,
+    "roi_pct": 610.02,
     "short_term_pct": 100.0
-  },
-  "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
-    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-    "added_at": 1789553646.3394556,
-    "roi_pct": 69.42,
-    "short_term_pct": 70.0
-  },
-  "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
-    "username": "purplegatto",
-    "added_at": 1789557665.7277198,
-    "roi_pct": 50.02,
-    "short_term_pct": 80.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1789562288.1325674,
-    "roi_pct": 58.03,
-    "short_term_pct": 100.0
-  },
-  "0xdc41c39b95453c943174f369926018f6963bdd7e": {
-    "username": "nigiri99",
-    "added_at": 1789573578.1751568,
-    "roi_pct": 63.21,
+    "roi_pct": 60.77,
     "short_term_pct": 100.0
   },
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1789576410.7010398,
-    "roi_pct": 542.94,
+    "roi_pct": 652.68,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789584273.2196574,
-    "roi_pct": 51.11,
+    "roi_pct": 44.81,
     "short_term_pct": 100.0
   },
   "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3": {
     "username": "Feromont",
     "added_at": 1789585221.1210957,
-    "roi_pct": 554.76,
+    "roi_pct": 360.26,
+    "short_term_pct": 100.0
+  },
+  "0x03805a13a0b3e058f55f6c6af95389d4f431073d": {
+    "username": "donthackme",
+    "added_at": 1789587114.9446454,
+    "roi_pct": 477.58,
+    "short_term_pct": 30.0
+  },
+  "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
+    "username": "GoalLineGhost",
+    "added_at": 1789587114.9446516,
+    "roi_pct": 20.8,
+    "short_term_pct": 100.0
+  },
+  "0x0af037c59ede5b3b2a6625f23923057d8296d425": {
+    "username": "Protruder",
+    "added_at": 1789587114.9446528,
+    "roi_pct": 17.6,
     "short_term_pct": 100.0
   }
 }
