@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.09606598968429,
+  "bankroll": 80.07706598968429,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27740,6 +27740,11 @@
       "timestamp": 1789529275.3808634,
       "bankroll": 84.1,
       "event": "won: pleaseplease123 \u2014 Boston Red Sox vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1789529589.82075,
+      "bankroll": 80.08,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: San Diego Padres (-1.5)"
     }
   ]
 }

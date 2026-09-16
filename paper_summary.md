@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-15 22:33:02 (hora de Perú)
+Actualizado: 2026-09-15 22:35:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $84.10
-**Retorno acumulado:** -83.18%
+**Bankroll actual:** $80.08
+**Retorno acumulado:** -83.98%
 **Peor caída desde un máximo (drawdown):** 90.41%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-15 22:33:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.74 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.36)
+**Capital comprometido ahora mismo:** $78.81 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,24 +153,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 499 | 236 | 5 | -34.62 USD |
+| RN1 | 499 | 236 | 6 | -34.62 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 128 | 88 | 0 | -140.90 USD |
-| ferrariChampions2026 | 802 | 496 | 3 | -236.94 USD |
+| ferrariChampions2026 | 802 | 497 | 2 | -240.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5334
-- **Aciertos:** 3337 (62.6%)
+- **Apuestas resueltas:** 5335
+- **Aciertos:** 3337 (62.5%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,570.05
-- **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $495.81 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,573.98
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $495.90 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2772 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 2773 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1569 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 712 | 85.4% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 281 | 97.2% | 97.3% | -0.2 pp |
@@ -1018,6 +1018,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 10.1% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Ying Zhang | Sijia Wei (BUY) | 90% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1039,7 +1040,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will AA Ponte Preta win on 2026-09-15? | No (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 56% | 5.00 | 0.7% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Pittsburgh Pirates | Milwaukee Brewers (BUY) | 66% | 5.00 | 17.4% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: San Diego Padres (-1.5) | San Diego Padres (BUY) | 55% | 3.93 | 2.2% | ❌ perdida | -4.02 |
 | ferrariChampions2026 | San Diego Padres vs. Colorado Rockies | San Diego Padres (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Andre Ilagan (BUY) | 66% | 5.00 | 15.1% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Tiburon: Bryce Nakashima vs Andre Ilagan | Bryce Nakashima (BUY) | 50% | 2.57 | 10.7% | ✅ ganada | +2.51 |
@@ -1047,4 +1048,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Barnsley FC win on 2026-09-15? | No (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | RN1 | Will Peterborough United FC win on 2026- | No (BUY) | 94% | 5.00 | 0.1% | ✅ ganada | +0.30 |
 | RN1 | Will West Ham United FC win on 2026-09-1 | No (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
-| RN1 | Tiburon: Blaise Bicknell vs Trevor Svajd | Blaise Bicknell (BUY) | 47% | 5.00 | 0.2% | ❌ perdida | -5.13 |
