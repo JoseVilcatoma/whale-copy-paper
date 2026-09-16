@@ -138135,5 +138135,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789564107.2974162,
     "fills": 1
+  },
+  {
+    "timestamp": 1789564400,
+    "timestamp_added": 1789564401.4201307,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "u20wwc-arg-kor-2026-09-16-arg",
+    "title": "Will Argentina win on 2026-09-16?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 560.1189999999999,
+    "whale_pct": 0.372,
+    "whale_value_at_open": 150435.5602,
+    "paper_stake_usd": 2.97,
+    "odds_at_bet": 58,
+    "fee_usd": 0.062,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789564401.4201465,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 08:12:35 (hora de Perú)
+Actualizado: 2026-09-16 08:14:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 08:12:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $2.97)
+**Capital comprometido ahora mismo:** $74.97 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 9 | 15 | 0 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 128 | 88 | 2 | -140.90 USD |
+|  | 128 | 88 | 3 | -140.90 USD |
 | ferrariChampions2026 | 802 | 498 | 1 | -246.05 USD |
 
 ## Análisis general
@@ -1020,6 +1020,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Argentina win on 2026-09-16? | No (BUY) | 58% | 2.97 | 0.4% | ⏳ pendiente | — |
 |  | W35 Santa Margherita di Pula: Julia Stus | Camilla Gennaro (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Port FC vs. Vissel Kobe: O/U 2.5 | Under (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Vissel Kobe (-1.5) | Vissel Kobe (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1049,4 +1050,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Sloane Stephens  | Sloane Stephens (BUY) | 85% | 5.00 | 0.8% | ✅ ganada | +0.84 |
 | RN1 | W35 Kyoto: Haruna Arakawa vs Heerae Im | Heerae Im (BUY) | 50% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | purplegatto | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 72% | 5.00 | 2.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 31.7% | ✅ ganada | +7.05 |
