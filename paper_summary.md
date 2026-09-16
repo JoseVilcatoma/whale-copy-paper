@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 14:28:21 (hora de Perú)
+Actualizado: 2026-09-16 14:30:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.87
@@ -1023,7 +1023,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ⏳ pendiente | — |
 | RN1 | Will NK Celje win on 2026-09-16? | No (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Club Atlético de Madrid (-1.5) | CA Osasuna (BUY) | 49% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | nigiri99 | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
