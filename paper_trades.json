@@ -139426,13 +139426,15 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -1.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789654282.509011,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.22,
+    "closed_price": 35
   },
   {
     "timestamp": 1789654406,
@@ -139504,6 +139506,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1789655342.6906734,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789672464,
+    "timestamp_added": 1789672465.1185114,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-plz-usg-2026-09-17-usg",
+    "title": "Will RU Saint-Gilloise win on 2026-09-17?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1343.7,
+    "whale_pct": 0.222,
+    "whale_value_at_open": 605235.3151,
+    "paper_stake_usd": 2.95,
+    "odds_at_bet": 46,
+    "fee_usd": 0.08,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789672465.1185253,
     "fills": 1
   }
 ]

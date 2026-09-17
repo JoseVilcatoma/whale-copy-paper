@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.93164252430675,
+  "bankroll": 47.952059190973415,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28195,6 +28195,11 @@
       "timestamp": 1789665102.117008,
       "bankroll": 49.93,
       "event": "lost: RN1 \u2014 Spread: Navbahor (-1.5)"
+    },
+    {
+      "timestamp": 1789672380.78875,
+      "bankroll": 47.95,
+      "event": "venta anticipada: BrotherObama \u2014 Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 (-1.98 USD)"
     }
   ]
 }
