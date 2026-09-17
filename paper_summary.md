@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 01:32:00 (hora de Perú)
+Actualizado: 2026-09-17 01:34:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $50.19
-**Retorno acumulado:** -89.96%
+**Bankroll actual:** $45.17
+**Retorno acumulado:** -90.97%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 01:32:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $10.19)
+**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $10.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,10 +148,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 516 | 240 | 5 | -23.19 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 516 | 241 | 4 | -28.20 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5399
+- **Apuestas resueltas:** 5400
 - **Aciertos:** 3379 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,878.14
-- **ROI sobre lo apostado:** -2.14%
-- **Comisiones pagadas (taker fee):** $500.65 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,883.14
+- **ROI sobre lo apostado:** -2.16%
+- **Comisiones pagadas (taker fee):** $500.67 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2801 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1583 | 68.4% | 67.9% | +0.5 pp |
-| 80-94% | 728 | 85.6% | 86.5% | -1.0 pp |
+| 80-94% | 729 | 85.5% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 3.0% | ❌ perdida | -5.01 |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ✅ ganada | +2.37 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ✅ ganada | +6.22 |

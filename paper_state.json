@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.18723217575755,
+  "bankroll": 45.17223217575755,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28065,6 +28065,11 @@
       "timestamp": 1789622217.932675,
       "bankroll": 50.19,
       "event": "won: wr0ngw4yb3tt0r \u2014 Seattle Mariners vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1789626843.7485986,
+      "bankroll": 45.17,
+      "event": "lost: RN1 \u2014 W35 Shenyang: Alexandra Shubladze vs Kristiana Sidorova"
     }
   ]
 }
