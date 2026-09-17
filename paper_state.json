@@ -1,5 +1,5 @@
 {
-  "bankroll": 52.63398075960087,
+  "bankroll": 56.61288985050996,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28205,6 +28205,11 @@
       "timestamp": 1789674411.8096862,
       "bankroll": 52.63,
       "event": "won: BrotherObama \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1789676587.0546288,
+      "bankroll": 56.61,
+      "event": "won: BrotherObama \u2014 Spread: Tampa Bay Rays (-1.5)"
     }
   ]
 }
