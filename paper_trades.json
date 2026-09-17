@@ -138939,8 +138939,8 @@
     "title": "Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong",
     "outcome": "Mitsuki Wei Kang Leong",
     "side": "BUY",
-    "whale_usd": 5062.1598,
-    "whale_pct": 2.387,
+    "whale_usd": 9365.479800000001,
+    "whale_pct": 4.417,
     "whale_value_at_open": 212040.6578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -138951,8 +138951,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789633725.6153371,
-    "fills": 2
+    "last_fill_at": 1789634449.8146496,
+    "fills": 3
   },
   {
     "timestamp": 1789632434,
@@ -139011,8 +139011,8 @@
     "title": "Counter-Strike: B8 vs Metizport (BO1) - Logitech G Play Connect Group A",
     "outcome": "Metizport",
     "side": "BUY",
-    "whale_usd": 5445.4800000000005,
-    "whale_pct": 2.494,
+    "whale_usd": 6181.160000000001,
+    "whale_pct": 2.831,
     "whale_value_at_open": 218321.8154,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -139023,7 +139023,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789634274.681643,
-    "fills": 4
+    "last_fill_at": 1789634438.8316367,
+    "fills": 5
   }
 ]
