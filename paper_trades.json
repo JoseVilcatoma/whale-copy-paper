@@ -138929,5 +138929,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789631346.549511,
     "fills": 1
+  },
+  {
+    "timestamp": 1789632417,
+    "timestamp_added": 1789632418.2140045,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-trotter-leong-2026-09-17",
+    "title": "Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong",
+    "outcome": "Mitsuki Wei Kang Leong",
+    "side": "BUY",
+    "whale_usd": 1249.9956,
+    "whale_pct": 0.59,
+    "whale_value_at_open": 212040.6578,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789632418.214013,
+    "fills": 1
   }
 ]
