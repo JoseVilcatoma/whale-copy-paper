@@ -1,5 +1,5 @@
 {
-  "bankroll": 45.17223217575755,
+  "bankroll": 45.5870147844532,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28070,6 +28070,11 @@
       "timestamp": 1789626843.7485986,
       "bankroll": 45.17,
       "event": "lost: RN1 \u2014 W35 Shenyang: Alexandra Shubladze vs Kristiana Sidorova"
+    },
+    {
+      "timestamp": 1789627154.3093028,
+      "bankroll": 45.59,
+      "event": "won: UpTheBlues \u2014 Phan Thiet 4: Blake Ellis vs Ilia Simakin"
     }
   ]
 }
