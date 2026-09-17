@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 00:13:53 (hora de Perú)
+Actualizado: 2026-09-17 00:15:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $45.87
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ✅ ganada | +2.37 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
