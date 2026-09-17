@@ -139371,8 +139371,8 @@
     "title": "Minnesota Twins vs. Los Angeles Angels: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 14943.8466,
-    "whale_pct": 19.761,
+    "whale_usd": 27943.8466,
+    "whale_pct": 36.951,
     "whale_value_at_open": 75624.4192,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -139383,8 +139383,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789651765.9607325,
-    "fills": 1
+    "last_fill_at": 1789683123.2955592,
+    "fills": 2
   },
   {
     "timestamp": 1789654243,
@@ -139661,8 +139661,8 @@
     "title": "Sao Paulo Open: Eva Lys vs Nadia Podoroska",
     "outcome": "Nadia Podoroska",
     "side": "BUY",
-    "whale_usd": 27338.204311,
-    "whale_pct": 3.578,
+    "whale_usd": 29435.326861,
+    "whale_pct": 3.853,
     "whale_value_at_open": 763985.841,
     "paper_stake_usd": 4.15,
     "odds_at_bet": 60,
@@ -139673,7 +139673,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789682996.152273,
-    "fills": 10
+    "last_fill_at": 1789683049.2402422,
+    "fills": 11
   }
 ]
