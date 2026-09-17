@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 18:14:22 (hora de Perú)
+Actualizado: 2026-09-17 18:16:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 18:14:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $15.45)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,12 +137,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| UpTheBlues | 11 | 5 | 0 | -10.84 USD |
+| UpTheBlues | 11 | 5 | 1 | -10.84 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| GoalLineGhost | 80 | 35 | 0 | -15.76 USD |
+| GoalLineGhost | 80 | 35 | 1 | -15.76 USD |
 | BrotherObama | 14 | 16 | 0 | -16.39 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 136 | 55 | 1 | -33.17 USD |
+| Flaznorp | 136 | 55 | 2 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 532 | 252 | 3 | -35.47 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1016,11 +1016,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-mad-osa-2026-09-16-mad | GoalLineGhost, purplegatto |
 | mlb-mia-ari-2026-09-15 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
 | mlb-det-tor-2026-09-16 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
+| lib-fla-ind1-2026-09-17-spread-home-1pt5 | Flaznorp, GoalLineGhost, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
+| UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 5.9% | ⏳ pendiente | — |
 | Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Bills: O/U 55.5 | Under (BUY) | 54% | 5.00 | 6.6% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ✅ ganada | +2.68 |
@@ -1048,6 +1052,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ❌ perdida | -5.10 |
 | RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ✅ ganada | +2.89 |
 | RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ✅ ganada | +0.91 |
-| RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ✅ ganada | +5.51 |
-| RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |
