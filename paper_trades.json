@@ -139685,8 +139685,8 @@
     "title": "Lions vs. Bills: O/U 55.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 7589.059400000001,
-    "whale_pct": 5.91,
+    "whale_usd": 8507.019400000001,
+    "whale_pct": 6.624,
     "whale_value_at_open": 128421.0877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -139697,7 +139697,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789686226.1401124,
-    "fills": 2
+    "last_fill_at": 1789686466.073381,
+    "fills": 3
   }
 ]
