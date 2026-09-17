@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 09:09:29 (hora de Perú)
+Actualizado: 2026-09-17 09:11:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $52.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 09:09:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $22.33)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $12.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| BrotherObama | 11 | 15 | 0 | -27.21 USD |
+| BrotherObama | 11 | 15 | 2 | -27.21 USD |
 | RN1 | 528 | 249 | 2 | -32.75 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1021,6 +1021,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | ⏳ pendiente | — |
+| BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 71.9% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. Los Angeles Angels:  | Under (BUY) | 52% | 5.00 | 19.8% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Texas Rangers: O/U 7. | Over (BUY) | 53% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Alice Tubello (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -1049,5 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ✅ ganada | +1.87 |
 | UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 1.5% | ❌ perdida | -5.08 |
-| RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 3.0% | ❌ perdida | -5.01 |
-| RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ✅ ganada | +2.37 |
