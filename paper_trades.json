@@ -138915,8 +138915,8 @@
     "title": "W35 Santa Margherita di Pula: Camilla Gennaro vs Briana Szabo",
     "outcome": "Camilla Gennaro",
     "side": "BUY",
-    "whale_usd": 625.801429,
-    "whale_pct": 0.292,
+    "whale_usd": 4138.187129,
+    "whale_pct": 1.934,
     "whale_value_at_open": 213953.1485,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -138927,8 +138927,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789631346.549511,
-    "fills": 1
+    "last_fill_at": 1789640344.0802996,
+    "fills": 2
   },
   {
     "timestamp": 1789632417,
