@@ -8,25 +8,25 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1789319795.5598989,
-    "roi_pct": 654.91,
+    "roi_pct": 646.67,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1789499902.0736783,
-    "roi_pct": 1510.33,
-    "short_term_pct": 80.0
+    "roi_pct": 1253.49,
+    "short_term_pct": 100.0
   },
   "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38": {
     "username": "SharkbetX-com",
     "added_at": 1789605584.69344,
-    "roi_pct": 1107.19,
+    "roi_pct": 1087.89,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1789611333.6839728,
-    "roi_pct": 302.66,
+    "roi_pct": 294.34,
     "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
@@ -38,25 +38,25 @@
   "0xe9b710551dd82a44e79203c2394a2b10163ace7b": {
     "username": "googleplay",
     "added_at": 1789655447.6359165,
-    "roi_pct": 498.86,
+    "roi_pct": 370.5,
     "short_term_pct": 100.0
   },
   "0xe40ecff63ec661d218a86c048186ac83389a9770": {
     "username": "lllllllIlll",
     "added_at": 1789656389.254161,
-    "roi_pct": 174.93,
+    "roi_pct": 167.28,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789659212.4117541,
-    "roi_pct": 142.71,
+    "roi_pct": 128.56,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1789661093.10053,
-    "roi_pct": 90.08,
+    "roi_pct": 90.11,
     "short_term_pct": 100.0
   }
 }
