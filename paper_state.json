@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.54077943457502,
+  "bankroll": 54.78064252430676,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28175,6 +28175,16 @@
       "timestamp": 1789651635.7778509,
       "bankroll": 43.54,
       "event": "won: RN1 \u2014 Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs"
+    },
+    {
+      "timestamp": 1789653430.211551,
+      "bankroll": 49.28,
+      "event": "won: BrotherObama \u2014 LoL: Top Esports vs Invictus Gaming (BO5) - LPL Regional Finals Playoffs"
+    },
+    {
+      "timestamp": 1789653430.5422187,
+      "bankroll": 54.78,
+      "event": "won: BrotherObama \u2014 LoL: Top Esports vs Invictus Gaming - Game 3 Winner"
     }
   ]
 }
