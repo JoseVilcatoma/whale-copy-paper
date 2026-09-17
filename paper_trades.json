@@ -139661,8 +139661,8 @@
     "title": "Sao Paulo Open: Eva Lys vs Nadia Podoroska",
     "outcome": "Nadia Podoroska",
     "side": "BUY",
-    "whale_usd": 22545.335111,
-    "whale_pct": 2.951,
+    "whale_usd": 27338.204311,
+    "whale_pct": 3.578,
     "whale_value_at_open": 763985.841,
     "paper_stake_usd": 4.15,
     "odds_at_bet": 60,
@@ -139673,7 +139673,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789682105.8095336,
-    "fills": 8
+    "last_fill_at": 1789682996.152273,
+    "fills": 10
   }
 ]
