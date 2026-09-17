@@ -139049,5 +139049,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789634563.8483205,
     "fills": 2
+  },
+  {
+    "timestamp": 1789636686,
+    "timestamp_added": 1789636687.1712923,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-gl1-lg6-2026-09-17",
+    "title": "Counter-Strike: GamerLegion vs Luminosity (BO1) - Logitech G Play Connect Group A",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 697.82,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 259013.5087,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789636687.1713042,
+    "fills": 1
   }
 ]
