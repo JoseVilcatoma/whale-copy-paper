@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 03:42:09 (hora de Perú)
+Actualizado: 2026-09-17 03:44:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.30
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 03:42:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $43.31 en 9 posiciones abiertas (disponible para nuevas apuestas: $5.99)
+**Capital comprometido ahora mismo:** $48.31 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 520 | 242 | 7 | -24.49 USD |
+| RN1 | 520 | 242 | 8 | -24.49 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1021,10 +1021,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ⏳ pendiente | — |
-| RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 6.7% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ❌ perdida | -3.23 |
 | RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ✅ ganada | +0.47 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Los Angeles Dodgers vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 9.7% | ✅ ganada | +4.14 |
-| wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
