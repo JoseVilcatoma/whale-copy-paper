@@ -139241,5 +139241,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789643786.620531,
     "fills": 1
+  },
+  {
+    "timestamp": 1789644893,
+    "timestamp_added": 1789644893.9053187,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-caniato-valient-2026-09-17",
+    "title": "Biella: Carlo Alberto Caniato vs Izan Almazan Valiente",
+    "outcome": "Carlo Alberto Caniato",
+    "side": "BUY",
+    "whale_usd": 1400.42,
+    "whale_pct": 1.012,
+    "whale_value_at_open": 138438.7972,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789644893.9053278,
+    "fills": 1
   }
 ]

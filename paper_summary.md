@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 06:33:02 (hora de Perú)
+Actualizado: 2026-09-17 06:35:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $50.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 06:33:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $42.84 en 9 posiciones abiertas (disponible para nuevas apuestas: $7.39)
+**Capital comprometido ahora mismo:** $47.84 en 10 posiciones abiertas (disponible para nuevas apuestas: $2.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| UpTheBlues | 10 | 5 | 0 | -10.89 USD |
+| UpTheBlues | 10 | 5 | 1 | -10.89 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Ga | Top Esports (BUY) | 47% | 5.00 | 14.4% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 1.7% | ✅ ganada | +0.81 |
-| wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 53% | 5.00 | 1.3% | ✅ ganada | +4.32 |
