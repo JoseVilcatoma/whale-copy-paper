@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 21:25:22 (hora de Perú)
+Actualizado: 2026-09-16 21:27:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $50.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 21:25:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.41 en 9 posiciones abiertas (disponible para nuevas apuestas: $6.05)
+**Capital comprometido ahora mismo:** $49.41 en 10 posiciones abiertas (disponible para nuevas apuestas: $1.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 112 | 81 | 1 | +23.61 USD |
+| wr0ngw4yb3tt0r | 112 | 81 | 2 | +23.61 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Grêmio FBPA win on 2026-09-16? | No (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Rennes: Max Schoenhaus vs Matteo Martine | Matteo Martineau (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
 | Flaznorp | Will Borneo Samarinda win on 2026-09-16? | No (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Franziska Sziedat (BUY) | 60% | 3.21 | 0.4% | ✅ ganada | +2.08 |
-| Flaznorp | W50 Pazardzhik: Elizara Yaneva vs Gaia M | Elizara Yaneva (BUY) | 71% | 5.00 | 0.2% | ✅ ganada | +1.97 |
