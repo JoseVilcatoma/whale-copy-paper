@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 15:49:48 (hora de Perú)
+Actualizado: 2026-09-17 15:51:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.61
@@ -1022,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Real Sociedad de Fútbol vs. AFC Bournemo | Over (BUY) | 67% | 3.98 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will SC União Torreense win on 2026-09-1 | No (BUY) | 50% | 4.68 | 0.3% | ⏳ pendiente | — |
 | RN1 | Celtic FC vs. Ferencvárosi TC: O/U 3.5 | Over (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will RU Saint-Gilloise win on 2026-09-17 | Yes (BUY) | 46% | 2.95 | 0.2% | ⏳ pendiente | — |
