@@ -139395,8 +139395,8 @@
     "title": "San Diego Padres vs. Colorado Rockies: O/U 10.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 30000.000000000004,
-    "whale_pct": 71.918,
+    "whale_usd": 55000.0,
+    "whale_pct": 131.85,
     "whale_value_at_open": 41713.9775,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -139407,8 +139407,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789654244.5525582,
-    "fills": 1
+    "last_fill_at": 1789671963.3076332,
+    "fills": 2
   },
   {
     "timestamp": 1789654281,
