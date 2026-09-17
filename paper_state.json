@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.14716511125059,
+  "bankroll": 52.86966511125058,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28105,6 +28105,11 @@
       "timestamp": 1789636588.681268,
       "bankroll": 50.15,
       "event": "won: RN1 \u2014 W35 Hurghada: Olga Danilova vs Ekaterina Perelygina"
+    },
+    {
+      "timestamp": 1789637709.5933115,
+      "bankroll": 52.87,
+      "event": "won: RN1 \u2014 Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong"
     }
   ]
 }
