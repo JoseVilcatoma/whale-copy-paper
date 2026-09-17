@@ -1,5 +1,5 @@
 {
-  "bankroll": 47.777665111250585,
+  "bankroll": 44.44454011125059,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28115,6 +28115,16 @@
       "timestamp": 1789637772.9820325,
       "bankroll": 47.78,
       "event": "lost: RN1 \u2014 W35 Hurghada: Zeel Desai vs Ann Akasha Ceuca"
+    },
+    {
+      "timestamp": 1789638954.3535454,
+      "bankroll": 49.58,
+      "event": "won: RN1 \u2014 Counter-Strike: B8 vs Metizport (BO1) - Logitech G Play Connect Group A"
+    },
+    {
+      "timestamp": 1789638954.5538433,
+      "bankroll": 44.44,
+      "event": "lost: RN1 \u2014 Counter-Strike: B8 vs Metizport (BO1) - Logitech G Play Connect Group A"
     }
   ]
 }
