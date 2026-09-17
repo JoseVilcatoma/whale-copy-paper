@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 14:45:53 (hora de Perú)
+Actualizado: 2026-09-17 14:47:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $47.95
-**Retorno acumulado:** -90.41%
+**Bankroll actual:** $52.63
+**Retorno acumulado:** -89.47%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 14:45:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $47.95 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $52.63 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,13 +148,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| BrotherObama | 12 | 16 | 2 | -24.51 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| BrotherObama | 11 | 16 | 3 | -29.19 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 528 | 250 | 3 | -35.15 USD |
+| RN1 | 528 | 250 | 5 | -35.15 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5425
-- **Aciertos:** 3395 (62.6%)
+- **Apuestas resueltas:** 5426
+- **Aciertos:** 3396 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,998.48
-- **ROI sobre lo apostado:** -2.13%
-- **Comisiones pagadas (taker fee):** $502.76 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,003.48
+- **ROI sobre lo apostado:** -2.11%
+- **Comisiones pagadas (taker fee):** $502.88 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2813 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2814 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 734 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1021,10 +1021,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will SC União Torreense win on 2026-09-1 | No (BUY) | 50% | 4.68 | 0.3% | ⏳ pendiente | — |
+| RN1 | Celtic FC vs. Ferencvárosi TC: O/U 3.5 | Over (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will RU Saint-Gilloise win on 2026-09-17 | Yes (BUY) | 46% | 2.95 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Navbahor (-1.5) | Navbahor (BUY) | 43% | 2.33 | 0.2% | ❌ perdida | -2.40 |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 55% | 5.00 | 31.2% | ⏳ pendiente | — |
-| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ⏳ pendiente | — |
+| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ✅ ganada | +4.68 |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | 💰 vendida anticipada | -1.98 |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 131.8% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. Los Angeles Angels:  | Under (BUY) | 52% | 5.00 | 19.8% | ⏳ pendiente | — |
@@ -1049,5 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ❌ perdida | -5.09 |
-| RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 1.4% | ✅ ganada | +4.88 |
-| RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ✅ ganada | +0.84 |

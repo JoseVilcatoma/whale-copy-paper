@@ -1,5 +1,5 @@
 {
-  "bankroll": 47.952059190973415,
+  "bankroll": 52.63398075960087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28200,6 +28200,11 @@
       "timestamp": 1789672380.78875,
       "bankroll": 47.95,
       "event": "venta anticipada: BrotherObama \u2014 Los Angeles Dodgers vs. Cincinnati Reds: O/U 9.5 (-1.98 USD)"
+    },
+    {
+      "timestamp": 1789674411.8096862,
+      "bankroll": 52.63,
+      "event": "won: BrotherObama \u2014 Spread: Los Angeles Dodgers (-1.5)"
     }
   ]
 }
