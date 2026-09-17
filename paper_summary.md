@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 00:52:55 (hora de Perú)
+Actualizado: 2026-09-17 00:54:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $50.19
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 3.0% | ⏳ pendiente | — |

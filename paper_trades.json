@@ -138771,8 +138771,8 @@
     "title": "W35 Shenyang: Junhan Zhang vs Daria KHOMUTSIANSKAYA",
     "outcome": "Daria KHOMUTSIANSKAYA",
     "side": "BUY",
-    "whale_usd": 1313.76,
-    "whale_pct": 0.647,
+    "whale_usd": 2627.52,
+    "whale_pct": 1.295,
     "whale_value_at_open": 202954.9362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -138783,7 +138783,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789623618.9969149,
-    "fills": 2
+    "last_fill_at": 1789624420.3106396,
+    "fills": 4
   }
 ]
