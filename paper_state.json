@@ -1,5 +1,5 @@
 {
-  "bankroll": 40.40992212459645,
+  "bankroll": 41.9288694930175,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28020,6 +28020,11 @@
       "timestamp": 1789613970.1581707,
       "bankroll": 40.41,
       "event": "lost: nigiri99 \u2014 San Diego Padres vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1789614280.2934864,
+      "bankroll": 41.93,
+      "event": "won: RN1 \u2014 Will Gr\u00eamio FBPA win on 2026-09-16?"
     }
   ]
 }
