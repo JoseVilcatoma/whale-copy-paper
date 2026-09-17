@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 06:49:31 (hora de Perú)
+Actualizado: 2026-09-17 06:51:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $50.23
@@ -1023,7 +1023,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Ga | Top Esports (BUY) | 47% | 5.00 | 14.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5 | Top Esports (BUY) | 46% | 5.00 | 28.8% | ⏳ pendiente | — |
 | RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ⏳ pendiente | — |

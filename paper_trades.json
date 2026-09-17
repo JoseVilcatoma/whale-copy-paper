@@ -139203,8 +139203,8 @@
     "title": "Counter-Strike: B8 vs GamerLegion (BO1) - Logitech G Play Connect Group A",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 873.2399999999999,
-    "whale_pct": 0.338,
+    "whale_usd": 1501.36,
+    "whale_pct": 0.581,
     "whale_value_at_open": 258392.699,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -139215,8 +139215,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789642882.0869029,
-    "fills": 1
+    "last_fill_at": 1789645880.5070202,
+    "fills": 2
   },
   {
     "timestamp": 1789643786,
