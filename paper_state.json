@@ -1,5 +1,5 @@
 {
-  "bankroll": 57.76790283315895,
+  "bankroll": 60.45156949982562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28240,6 +28240,11 @@
       "timestamp": 1789685991.3924792,
       "bankroll": 57.77,
       "event": "lost: RN1 \u2014 Real Sociedad de F\u00fatbol vs. AFC Bournemouth: O/U 3.5"
+    },
+    {
+      "timestamp": 1789686733.9031785,
+      "bankroll": 60.45,
+      "event": "won: RN1 \u2014 Sao Paulo Open: Eva Lys vs Nadia Podoroska"
     }
   ]
 }
