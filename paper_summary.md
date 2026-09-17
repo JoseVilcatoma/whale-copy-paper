@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 05:56:00 (hora de Perú)
+Actualizado: 2026-09-17 05:58:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $44.44
-**Retorno acumulado:** -91.11%
+**Bankroll actual:** $52.84
+**Retorno acumulado:** -89.43%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 05:56:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.44 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $34.97 en 7 posiciones abiertas (disponible para nuevas apuestas: $17.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,10 +148,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| RN1 | 525 | 244 | 5 | -20.95 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 523 | 244 | 7 | -29.35 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5411
-- **Aciertos:** 3387 (62.6%)
+- **Apuestas resueltas:** 5413
+- **Aciertos:** 3389 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,936.45
-- **ROI sobre lo apostado:** -2.15%
-- **Comisiones pagadas (taker fee):** $501.46 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,945.92
+- **ROI sobre lo apostado:** -2.12%
+- **Comisiones pagadas (taker fee):** $501.68 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,8 +178,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2803 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1588 | 68.3% | 67.9% | +0.5 pp |
+| 40-59% | 2804 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1589 | 68.3% | 67.8% | +0.5 pp |
 | 80-94% | 733 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1022,9 +1022,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ✅ ganada | +2.89 |
 | RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ✅ ganada | +5.51 |
 | RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
