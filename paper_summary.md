@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 04:44:18 (hora de Perú)
+Actualizado: 2026-09-17 04:46:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $47.78
@@ -1023,7 +1023,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 0.2% | ⏳ pendiente | — |
 | RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |

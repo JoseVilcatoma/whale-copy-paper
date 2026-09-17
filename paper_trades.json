@@ -139059,8 +139059,8 @@
     "title": "Counter-Strike: GamerLegion vs Luminosity (BO1) - Logitech G Play Connect Group A",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 1594.94,
-    "whale_pct": 0.616,
+    "whale_usd": 3555.92,
+    "whale_pct": 1.373,
     "whale_value_at_open": 259013.5087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -139071,8 +139071,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789638236.664176,
-    "fills": 2
+    "last_fill_at": 1789638328.589482,
+    "fills": 4
   },
   {
     "timestamp": 1789637879,
