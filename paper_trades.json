@@ -139083,8 +139083,8 @@
     "title": "W75 Le Neubourg: Carson Tanguilig vs Martyna Kubka",
     "outcome": "Martyna Kubka",
     "side": "BUY",
-    "whale_usd": 837.2199999999999,
-    "whale_pct": 0.313,
+    "whale_usd": 2501.45,
+    "whale_pct": 0.936,
     "whale_value_at_open": 267239.2878,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -139095,7 +139095,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789637880.3860292,
-    "fills": 1
+    "last_fill_at": 1789637944.0793746,
+    "fills": 3
   }
 ]
