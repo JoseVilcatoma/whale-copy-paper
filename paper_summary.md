@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 06:14:36 (hora de Perú)
+Actualizado: 2026-09-17 06:16:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $52.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 06:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.97 en 10 posiciones abiertas (disponible para nuevas apuestas: $2.87)
+**Capital comprometido ahora mismo:** $52.84 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 525 | 244 | 6 | -20.95 USD |
+| RN1 | 525 | 244 | 7 | -20.95 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Ga | Top Esports (BUY) | 47% | 5.00 | 14.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5 | Top Esports (BUY) | 46% | 5.00 | 28.8% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 1.7% | ✅ ganada | +0.81 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 53% | 5.00 | 1.3% | ✅ ganada | +4.32 |
-| RN1 | Will Grêmio FBPA win on 2026-09-16? | No (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |

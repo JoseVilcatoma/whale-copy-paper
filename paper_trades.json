@@ -139217,5 +139217,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789642882.0869029,
     "fills": 1
+  },
+  {
+    "timestamp": 1789643786,
+    "timestamp_added": 1789643786.6205196,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mzp-lg6-2026-09-17",
+    "title": "Counter-Strike: Metizport vs Luminosity (BO1) - Logitech G Play Connect Group A",
+    "outcome": "Metizport",
+    "side": "BUY",
+    "whale_usd": 739.6800000000001,
+    "whale_pct": 0.362,
+    "whale_value_at_open": 204536.7197,
+    "paper_stake_usd": 2.87,
+    "odds_at_bet": 47,
+    "fee_usd": 0.076,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789643786.620531,
+    "fills": 1
   }
 ]
