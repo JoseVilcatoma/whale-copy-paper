@@ -1,5 +1,5 @@
 {
-  "bankroll": 47.461459228897645,
+  "bankroll": 48.30581217007412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28080,6 +28080,11 @@
       "timestamp": 1789630626.3564353,
       "bankroll": 47.46,
       "event": "won: RN1 \u2014 W35 Shenyang: Junhan Zhang vs Daria KHOMUTSIANSKAYA"
+    },
+    {
+      "timestamp": 1789632114.8660688,
+      "bankroll": 48.31,
+      "event": "won: RN1 \u2014 W35 Hurghada: Zuzanna Pawlikowska vs Kateryna Diatlova"
     }
   ]
 }

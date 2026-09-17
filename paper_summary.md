@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 03:00:52 (hora de Perú)
+Actualizado: 2026-09-17 03:02:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $47.46
-**Retorno acumulado:** -90.51%
+**Bankroll actual:** $48.31
+**Retorno acumulado:** -90.34%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 03:00:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $2.46)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $8.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,8 +149,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| RN1 | 518 | 241 | 6 | -25.49 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| RN1 | 517 | 241 | 7 | -26.33 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5402
-- **Aciertos:** 3381 (62.6%)
+- **Apuestas resueltas:** 5403
+- **Aciertos:** 3382 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,893.14
-- **ROI sobre lo apostado:** -2.15%
-- **Comisiones pagadas (taker fee):** $500.76 (1.86% del capital apostado)
+- **Total apostado (suma de stakes):** $26,898.14
+- **ROI sobre lo apostado:** -2.14%
+- **Comisiones pagadas (taker fee):** $500.79 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2801 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1584 | 68.4% | 67.9% | +0.5 pp |
-| 80-94% | 730 | 85.5% | 86.6% | -1.1 pp |
+| 80-94% | 731 | 85.5% | 86.5% | -1.1 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1025,7 +1025,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ✅ ganada | +0.84 |
 | RN1 | W35 Hurghada: Olga Danilova vs Ekaterina | Ekaterina Perelygina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ✅ ganada | +1.87 |
 | UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
