@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 21:58:33 (hora de Perú)
+Actualizado: 2026-09-16 22:00:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $45.53
-**Retorno acumulado:** -90.89%
-**Peor caída desde un máximo (drawdown):** 92.99%
+**Bankroll actual:** $40.41
+**Retorno acumulado:** -91.92%
+**Peor caída desde un máximo (drawdown):** 93.33%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 21:58:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.41 en 9 posiciones abiertas (disponible para nuevas apuestas: $1.12)
+**Capital comprometido ahora mismo:** $39.41 en 8 posiciones abiertas (disponible para nuevas apuestas: $1.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| quavoo | 35 | 19 | 1 | +4.11 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -96,6 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| quavoo | 35 | 20 | 0 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5389
+- **Apuestas resueltas:** 5390
 - **Aciertos:** 3372 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,830.87
-- **ROI sobre lo apostado:** -2.16%
-- **Comisiones pagadas (taker fee):** $499.73 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,835.87
+- **ROI sobre lo apostado:** -2.18%
+- **Comisiones pagadas (taker fee):** $499.85 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2794 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2795 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1582 | 68.3% | 67.9% | +0.5 pp |
 | 80-94% | 726 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 45.526922124596446,
+  "bankroll": 40.40992212459645,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28015,6 +28015,11 @@
       "timestamp": 1789612478.844153,
       "bankroll": 45.53,
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Baltimore Orioles vs. New York Mets: O/U 9.5"
+    },
+    {
+      "timestamp": 1789613970.1581707,
+      "bankroll": 40.41,
+      "event": "lost: nigiri99 \u2014 San Diego Padres vs. Colorado Rockies: O/U 11.5"
     }
   ]
 }
