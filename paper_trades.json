@@ -139097,5 +139097,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789637944.0793746,
     "fills": 3
+  },
+  {
+    "timestamp": 1789638045,
+    "timestamp_added": 1789638045.908456,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-nip-m80-2026-09-17",
+    "title": "Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A",
+    "outcome": "M80",
+    "side": "BUY",
+    "whale_usd": 659.4795520000001,
+    "whale_pct": 0.241,
+    "whale_value_at_open": 273082.2549,
+    "paper_stake_usd": 4.47,
+    "odds_at_bet": 60,
+    "fee_usd": 0.089,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789638045.9084673,
+    "fills": 1
   }
 ]
