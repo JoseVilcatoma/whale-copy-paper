@@ -1,5 +1,5 @@
 {
-  "bankroll": 52.327642524306754,
+  "bankroll": 49.93164252430675,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28190,6 +28190,11 @@
       "timestamp": 1789653988.781998,
       "bankroll": 52.33,
       "event": "lost: RN1 \u2014 Counter-Strike: M80 vs GamerLegion (BO1) - Logitech G Play Connect Group A"
+    },
+    {
+      "timestamp": 1789665102.117008,
+      "bankroll": 49.93,
+      "event": "lost: RN1 \u2014 Spread: Navbahor (-1.5)"
     }
   ]
 }
