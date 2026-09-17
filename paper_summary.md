@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 07:12:01 (hora de Perú)
+Actualizado: 2026-09-17 07:14:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $42.18
-**Retorno acumulado:** -91.56%
+**Bankroll actual:** $43.14
+**Retorno acumulado:** -91.37%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 07:12:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $42.39 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $32.39 en 7 posiciones abiertas (disponible para nuevas apuestas: $10.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| UpTheBlues | 10 | 5 | 1 | -10.89 USD |
+| UpTheBlues | 11 | 5 | 0 | -10.84 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 526 | 247 | 4 | -31.61 USD |
+| RN1 | 527 | 247 | 3 | -30.70 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5417
-- **Aciertos:** 3390 (62.6%)
-- **Cuota promedio de entrada:** 62.7%
+- **Apuestas resueltas:** 5419
+- **Aciertos:** 3392 (62.6%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,963.76
+- **Total apostado (suma de stakes):** $26,973.76
 - **ROI sobre lo apostado:** -2.16%
-- **Comisiones pagadas (taker fee):** $502.08 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $502.12 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,8 +180,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2807 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
-| 80-94% | 733 | 85.5% | 86.5% | -1.0 pp |
-| 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
+| 80-94% | 734 | 85.6% | 86.5% | -1.0 pp |
+| 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1021,15 +1021,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: M80 vs GamerLegion (BO1) | GamerLegion (BUY) | 47% | 2.39 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: M80 vs GamerLegion (BO1) | GamerLegion (BUY) | 47% | 2.39 | 1.1% | ⏳ pendiente | — |
+| UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ❌ perdida | -2.95 |
 | RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Ga | Top Esports (BUY) | 47% | 5.00 | 14.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5 | Top Esports (BUY) | 46% | 5.00 | 28.8% | ⏳ pendiente | — |
 | RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ❌ perdida | -5.10 |
 | RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ✅ ganada | +2.89 |
-| RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ✅ ganada | +0.91 |
 | RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ✅ ganada | +5.51 |
 | RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |

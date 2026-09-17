@@ -139090,8 +139090,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -139258,8 +139258,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -139275,8 +139275,8 @@
     "title": "Counter-Strike: M80 vs GamerLegion (BO1) - Logitech G Play Connect Group A",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 597.5400000000001,
-    "whale_pct": 0.415,
+    "whale_usd": 1630.1388000000002,
+    "whale_pct": 1.131,
     "whale_value_at_open": 144090.9249,
     "paper_stake_usd": 2.39,
     "odds_at_bet": 47,
@@ -139287,7 +139287,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789646257.6012099,
-    "fills": 1
+    "last_fill_at": 1789647169.5668952,
+    "fills": 2
   }
 ]

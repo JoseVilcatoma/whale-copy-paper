@@ -1,5 +1,5 @@
 {
-  "bankroll": 42.180595559348596,
+  "bankroll": 43.1404815622346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28155,6 +28155,16 @@
       "timestamp": 1789646626.9336166,
       "bankroll": 42.18,
       "event": "lost: RN1 \u2014 Counter-Strike: Metizport vs Luminosity (BO1) - Logitech G Play Connect Group A"
+    },
+    {
+      "timestamp": 1789647244.4860227,
+      "bankroll": 43.09,
+      "event": "won: RN1 \u2014 W75 Le Neubourg: Carson Tanguilig vs Martyna Kubka"
+    },
+    {
+      "timestamp": 1789647245.4220977,
+      "bankroll": 43.14,
+      "event": "won: UpTheBlues \u2014 Biella: Carlo Alberto Caniato vs Izan Almazan Valiente"
     }
   ]
 }
