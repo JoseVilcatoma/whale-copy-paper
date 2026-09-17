@@ -1,5 +1,5 @@
 {
-  "bankroll": 38.378011351159365,
+  "bankroll": 39.183011351159365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28045,6 +28045,11 @@
       "timestamp": 1789618194.4626179,
       "bankroll": 38.38,
       "event": "lost: RN1 \u2014 Guadalajara Open Akron: Kayla Day vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1789620044.6484213,
+      "bankroll": 39.18,
+      "event": "won: RN1 \u2014 SC Corinthians Paulista vs. Estudiantes de La Plata: O/U 1.5"
     }
   ]
 }
