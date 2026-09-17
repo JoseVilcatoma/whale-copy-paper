@@ -139299,8 +139299,8 @@
     "title": "Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs",
     "outcome": "NRG",
     "side": "BUY",
-    "whale_usd": 3671.6808,
-    "whale_pct": 2.159,
+    "whale_usd": 12972.8142,
+    "whale_pct": 7.63,
     "whale_value_at_open": 170033.1851,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -139311,8 +139311,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789647418.1573899,
-    "fills": 4
+    "last_fill_at": 1789647742.4658167,
+    "fills": 6
   },
   {
     "timestamp": 1789647349,
