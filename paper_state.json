@@ -1,5 +1,5 @@
 {
-  "bankroll": 37.266374987523,
+  "bankroll": 38.378011351159365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28035,6 +28035,16 @@
       "timestamp": 1789615412.9435546,
       "bankroll": 37.27,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Boston Red Sox vs. Texas Rangers: O/U 10.5"
+    },
+    {
+      "timestamp": 1789618194.3624218,
+      "bankroll": 43.49,
+      "event": "won: RN1 \u2014 Guadalajara Open Akron: Kayla Day vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1789618194.4626179,
+      "bankroll": 38.38,
+      "event": "lost: RN1 \u2014 Guadalajara Open Akron: Kayla Day vs Liudmila Samsonova"
     }
   ]
 }

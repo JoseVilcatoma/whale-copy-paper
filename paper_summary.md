@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 23:07:50 (hora de Perú)
+Actualizado: 2026-09-16 23:09:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $37.27
-**Retorno acumulado:** -92.55%
+**Bankroll actual:** $38.38
+**Retorno acumulado:** -92.32%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 23:07:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.27 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $27.27 en 6 posiciones abiertas (disponible para nuevas apuestas: $11.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
+| RN1 | 514 | 240 | 2 | -26.37 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 513 | 239 | 4 | -27.48 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5393
-- **Aciertos:** 3374 (62.6%)
+- **Apuestas resueltas:** 5395
+- **Aciertos:** 3375 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,850.87
-- **ROI sobre lo apostado:** -2.19%
-- **Comisiones pagadas (taker fee):** $500.06 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.33% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,860.87
+- **ROI sobre lo apostado:** -2.18%
+- **Comisiones pagadas (taker fee):** $500.32 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2796 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2798 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1583 | 68.4% | 67.9% | +0.5 pp |
 | 80-94% | 727 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
@@ -1022,8 +1022,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ⏳ pendiente | — |
-| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ⏳ pendiente | — |
+| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
+| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ✅ ganada | +6.22 |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 1.7% | ⏳ pendiente | — |
