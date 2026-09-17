@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 22:47:12 (hora de Perú)
+Actualizado: 2026-09-16 22:49:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $37.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 22:47:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $34.41 en 7 posiciones abiertas (disponible para nuevas apuestas: $2.86)
+**Capital comprometido ahora mismo:** $37.27 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 513 | 239 | 3 | -27.48 USD |
+| RN1 | 513 | 239 | 4 | -27.48 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: AGS Astéras Trípolis (-1.5) | GS Níki Vólou (BUY) | 82% | 5.00 | 0.2% | ❌ perdida | -5.04 |
 | Flaznorp | W50 Pazardzhik: Loes Ebeling Koning vs A | Loes Ebeling Koning (BUY) | 88% | 5.00 | 1.1% | ✅ ganada | +0.65 |
 | RN1 | Ljubljana: Francesca Jones vs Mona Barth | Mona Barthel (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
-| nigiri99 | Detroit Tigers vs. Toronto Blue Jays: O/ | Under (BUY) | 45% | 2.38 | 0.2% | ✅ ganada | +2.84 |

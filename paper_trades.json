@@ -138665,5 +138665,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789614992.766743,
     "fills": 3
+  },
+  {
+    "timestamp": 1789616851,
+    "timestamp_added": 1789616853.0015302,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ishii1-rajeck1-2026-09-17",
+    "title": "W35 Kyoto: Sayaka Ishii vs Amelia Rajecki",
+    "outcome": "Sayaka Ishii",
+    "side": "BUY",
+    "whale_usd": 1071.13,
+    "whale_pct": 0.286,
+    "whale_value_at_open": 373947.4392,
+    "paper_stake_usd": 2.86,
+    "odds_at_bet": 54,
+    "fee_usd": 0.066,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789616853.6451795,
+    "fills": 2
   }
 ]
