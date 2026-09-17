@@ -138699,8 +138699,8 @@
     "title": "W35 Shenyang: Alexandra Shubladze vs Kristiana Sidorova",
     "outcome": "Alexandra Shubladze",
     "side": "BUY",
-    "whale_usd": 939.32,
-    "whale_pct": 0.451,
+    "whale_usd": 5429.59,
+    "whale_pct": 2.608,
     "whale_value_at_open": 208200.151,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -138711,7 +138711,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789621128.2143688,
-    "fills": 1
+    "last_fill_at": 1789621373.9734623,
+    "fills": 7
   }
 ]
