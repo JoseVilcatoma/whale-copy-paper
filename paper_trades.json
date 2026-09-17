@@ -139275,8 +139275,8 @@
     "title": "Counter-Strike: M80 vs GamerLegion (BO1) - Logitech G Play Connect Group A",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 1630.1388000000002,
-    "whale_pct": 1.131,
+    "whale_usd": 2351.9388000000004,
+    "whale_pct": 1.632,
     "whale_value_at_open": 144090.9249,
     "paper_stake_usd": 2.39,
     "odds_at_bet": 47,
@@ -139287,8 +139287,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789647169.5668952,
-    "fills": 2
+    "last_fill_at": 1789647492.3780143,
+    "fills": 3
   },
   {
     "timestamp": 1789647302,
@@ -139299,8 +139299,8 @@
     "title": "Counter-Strike: MOUZ vs NRG (BO3) - StarLadder StarSeries Playoffs",
     "outcome": "NRG",
     "side": "BUY",
-    "whale_usd": 1581.2808,
-    "whale_pct": 0.93,
+    "whale_usd": 3671.6808,
+    "whale_pct": 2.159,
     "whale_value_at_open": 170033.1851,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -139311,8 +139311,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789647338.9955378,
-    "fills": 2
+    "last_fill_at": 1789647418.1573899,
+    "fills": 4
   },
   {
     "timestamp": 1789647349,
