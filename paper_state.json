@@ -1,5 +1,5 @@
 {
-  "bankroll": 45.2647685563941,
+  "bankroll": 49.40902781565336,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -27995,6 +27995,11 @@
       "timestamp": 1789602104.5554316,
       "bankroll": 45.26,
       "event": "won: RN1 \u2014 Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic"
+    },
+    {
+      "timestamp": 1789611418.4292722,
+      "bankroll": 49.41,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5"
     }
   ]
 }
