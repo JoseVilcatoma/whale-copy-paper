@@ -138713,5 +138713,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789621373.9734623,
     "fills": 7
+  },
+  {
+    "timestamp": 1789621866,
+    "timestamp_added": 1789621867.7785742,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-wei1-bai1-2026-09-17",
+    "title": "W35 Shenyang: Sijia Wei vs Zhuoxuan Bai",
+    "outcome": "Zhuoxuan Bai",
+    "side": "BUY",
+    "whale_usd": 704.48,
+    "whale_pct": 0.333,
+    "whale_value_at_open": 211475.4503,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789621867.778583,
+    "fills": 1
   }
 ]
