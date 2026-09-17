@@ -139651,5 +139651,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789680919.2106867,
     "fills": 1
+  },
+  {
+    "timestamp": 1789681131,
+    "timestamp_added": 1789681131.5492327,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-lys-podoros-2026-09-17",
+    "title": "Sao Paulo Open: Eva Lys vs Nadia Podoroska",
+    "outcome": "Nadia Podoroska",
+    "side": "BUY",
+    "whale_usd": 8776.84,
+    "whale_pct": 1.149,
+    "whale_value_at_open": 763985.841,
+    "paper_stake_usd": 4.15,
+    "odds_at_bet": 60,
+    "fee_usd": 0.083,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789681138.026869,
+    "fills": 2
   }
 ]

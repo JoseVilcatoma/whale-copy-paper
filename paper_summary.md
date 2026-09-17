@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 16:37:35 (hora de Perú)
+Actualizado: 2026-09-17 16:39:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.76
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 16:37:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.61 en 12 posiciones abiertas (disponible para nuevas apuestas: $4.15)
+**Capital comprometido ahora mismo:** $60.76 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 528 | 250 | 8 | -35.15 USD |
+| RN1 | 528 | 250 | 9 | -35.15 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 1.1% | ⏳ pendiente | — |
 | RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Real Sociedad de Fútbol vs. AFC Bournemo | Over (BUY) | 67% | 3.98 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ✅ ganada | +1.80 |
-| RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 6.7% | ✅ ganada | +2.72 |
