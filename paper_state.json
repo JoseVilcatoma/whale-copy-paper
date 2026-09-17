@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.1404815622346,
+  "bankroll": 38.035481562234594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28165,6 +28165,11 @@
       "timestamp": 1789647245.4220977,
       "bankroll": 43.14,
       "event": "won: UpTheBlues \u2014 Biella: Carlo Alberto Caniato vs Izan Almazan Valiente"
+    },
+    {
+      "timestamp": 1789648793.9964728,
+      "bankroll": 38.04,
+      "event": "lost: RN1 \u2014 Counter-Strike: B8 vs GamerLegion (BO1) - Logitech G Play Connect Group A"
     }
   ]
 }
