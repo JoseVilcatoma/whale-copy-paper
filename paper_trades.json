@@ -138785,5 +138785,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789624420.3106396,
     "fills": 4
+  },
+  {
+    "timestamp": 1789625715,
+    "timestamp_added": 1789625715.5492187,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-danilo1-perely1-2026-09-17",
+    "title": "W35 Hurghada: Olga Danilova vs Ekaterina Perelygina",
+    "outcome": "Ekaterina Perelygina",
+    "side": "BUY",
+    "whale_usd": 870.67,
+    "whale_pct": 0.436,
+    "whale_value_at_open": 199876.9485,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789625715.5492337,
+    "fills": 1
   }
 ]
