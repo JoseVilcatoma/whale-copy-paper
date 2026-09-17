@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 21:33:41 (hora de Perú)
+Actualizado: 2026-09-16 21:35:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $50.66
-**Retorno acumulado:** -89.87%
+**Bankroll actual:** $45.53
+**Retorno acumulado:** -90.89%
 **Peor caída desde un máximo (drawdown):** 92.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 21:33:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.41 en 10 posiciones abiertas (disponible para nuevas apuestas: $1.25)
+**Capital comprometido ahora mismo:** $44.41 en 9 posiciones abiertas (disponible para nuevas apuestas: $1.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 11 | 1 | +4.56 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | quavoo | 35 | 19 | 1 | +4.11 USD |
@@ -92,6 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 34 | 0 | -0.05 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 12 | 0 | -0.57 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5388
+- **Apuestas resueltas:** 5389
 - **Aciertos:** 3372 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,825.87
-- **ROI sobre lo apostado:** -2.14%
-- **Comisiones pagadas (taker fee):** $499.60 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,830.87
+- **ROI sobre lo apostado:** -2.16%
+- **Comisiones pagadas (taker fee):** $499.73 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2793 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2794 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1582 | 68.3% | 67.9% | +0.5 pp |
 | 80-94% | 726 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 1.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Grêmio FBPA win on 2026-09-16? | No (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 47% | 5.00 | 1.0% | ❌ perdida | -5.13 |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 2.6% | ✅ ganada | +1.24 |
 | RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.4% | ✅ ganada | +0.20 |
