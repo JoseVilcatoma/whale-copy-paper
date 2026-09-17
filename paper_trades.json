@@ -138418,8 +138418,8 @@
     "odds_at_bet": 96,
     "fee_usd": 0.01,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -138555,8 +138555,8 @@
     "title": "SC Corinthians Paulista vs. Estudiantes de La Plata: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1245.4569999999999,
-    "whale_pct": 0.523,
+    "whale_usd": 4136.457,
+    "whale_pct": 1.736,
     "whale_value_at_open": 238341.5867,
     "paper_stake_usd": 4.41,
     "odds_at_bet": 84,
@@ -138567,8 +138567,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789611568.934812,
-    "fills": 1
+    "last_fill_at": 1789612160.2957523,
+    "fills": 2
   },
   {
     "timestamp": 1789611928,
