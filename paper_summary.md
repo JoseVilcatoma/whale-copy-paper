@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 09:13:37 (hora de Perú)
+Actualizado: 2026-09-17 09:15:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $52.33
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 09:13:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $7.33)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $2.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| BrotherObama | 11 | 15 | 3 | -27.21 USD |
+| BrotherObama | 11 | 15 | 4 | -27.21 USD |
 | RN1 | 528 | 249 | 2 | -32.75 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1021,7 +1021,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 20.8% | ⏳ pendiente | — |
+| BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 55% | 5.00 | 31.2% | ⏳ pendiente | — |
+| BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ⏳ pendiente | — |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | ⏳ pendiente | — |
 | BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 71.9% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. Los Angeles Angels:  | Under (BUY) | 52% | 5.00 | 19.8% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ✅ ganada | +0.84 |
 | RN1 | W35 Hurghada: Olga Danilova vs Ekaterina | Ekaterina Perelygina (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ✅ ganada | +1.87 |
-| UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
