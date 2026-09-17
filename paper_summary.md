@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 16:28:55 (hora de Perú)
+Actualizado: 2026-09-17 16:31:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $56.61
-**Retorno acumulado:** -88.68%
+**Bankroll actual:** $60.76
+**Retorno acumulado:** -87.85%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 16:28:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.61 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $51.61 en 11 posiciones abiertas (disponible para nuevas apuestas: $9.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,12 +143,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | GoalLineGhost | 80 | 35 | 0 | -15.76 USD |
+| BrotherObama | 14 | 16 | 0 | -16.39 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| BrotherObama | 13 | 16 | 1 | -20.53 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5427
-- **Aciertos:** 3397 (62.6%)
+- **Apuestas resueltas:** 5428
+- **Aciertos:** 3398 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,008.48
-- **ROI sobre lo apostado:** -2.10%
-- **Comisiones pagadas (taker fee):** $502.99 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,013.48
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $503.11 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2815 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2816 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 734 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1030,7 +1030,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 55% | 5.00 | 31.2% | ✅ ganada | +3.98 |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ✅ ganada | +4.68 |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | 💰 vendida anticipada | -1.98 |
-| BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 131.8% | ⏳ pendiente | — |
+| BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 131.8% | ✅ ganada | +4.14 |
 | SDTrading | Minnesota Twins vs. Los Angeles Angels:  | Under (BUY) | 52% | 5.00 | 19.8% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Texas Rangers: O/U 7. | Over (BUY) | 53% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Alice Tubello (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |

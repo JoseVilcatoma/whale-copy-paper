@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.61288985050996,
+  "bankroll": 60.757149109769216,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28210,6 +28210,11 @@
       "timestamp": 1789676587.0546288,
       "bankroll": 56.61,
       "event": "won: BrotherObama \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1789680644.909533,
+      "bankroll": 60.76,
+      "event": "won: BrotherObama \u2014 San Diego Padres vs. Colorado Rockies: O/U 10.5"
     }
   ]
 }
