@@ -139589,8 +139589,8 @@
     "title": "Will AFC Bournemouth win on 2026-09-17?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5718.388852,
-    "whale_pct": 0.742,
+    "whale_usd": 7224.918852,
+    "whale_pct": 0.937,
     "whale_value_at_open": 770961.489,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -139601,8 +139601,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789677027.1908839,
-    "fills": 3
+    "last_fill_at": 1789677225.3495276,
+    "fills": 4
   },
   {
     "timestamp": 1789676671,
