@@ -138651,8 +138651,8 @@
     "title": "Guadalajara Open Akron: Kayla Day vs Liudmila Samsonova",
     "outcome": "Kayla Day",
     "side": "BUY",
-    "whale_usd": 1868.431078,
-    "whale_pct": 0.634,
+    "whale_usd": 7176.333038999999,
+    "whale_pct": 2.434,
     "whale_value_at_open": 294836.5849,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -138663,7 +138663,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789614838.7971444,
-    "fills": 2
+    "last_fill_at": 1789614992.766743,
+    "fills": 3
   }
 ]

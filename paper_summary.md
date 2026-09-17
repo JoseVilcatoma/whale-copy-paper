@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 22:15:05 (hora de Perú)
+Actualizado: 2026-09-16 22:17:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $42.40
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 3.4% | ⏳ pendiente | — |
