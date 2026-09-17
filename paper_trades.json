@@ -139824,5 +139824,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789687666.6166162,
     "fills": 1
+  },
+  {
+    "timestamp": 1789687986,
+    "timestamp_added": 1789687987.3115437,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-syra-pitt-2026-09-17-spread-home-10pt5",
+    "title": "Spread: Pittsburgh (-10.5)",
+    "outcome": "Syracuse",
+    "side": "BUY",
+    "whale_usd": 918.1277,
+    "whale_pct": 2.13,
+    "whale_value_at_open": 43096.4314,
+    "paper_stake_usd": 2.62,
+    "odds_at_bet": 50,
+    "fee_usd": 0.065,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789687987.311555,
+    "fills": 1
   }
 ]
