@@ -139627,5 +139627,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789676746.31529,
     "fills": 3
+  },
+  {
+    "timestamp": 1789680918,
+    "timestamp_added": 1789680919.2106752,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gojo-martin-2026-09-17",
+    "title": "Rennes: Borna Gojo vs Matteo Martineau",
+    "outcome": "Borna Gojo",
+    "side": "BUY",
+    "whale_usd": 3431.28,
+    "whale_pct": 0.45,
+    "whale_value_at_open": 762676.7275,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789680919.2106867,
+    "fills": 1
   }
 ]
