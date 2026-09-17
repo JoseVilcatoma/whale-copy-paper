@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 17:20:34 (hora de Perú)
+Actualizado: 2026-09-17 17:22:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.76
@@ -1022,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 3.9% | ⏳ pendiente | — |
-| RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Real Sociedad de Fútbol vs. AFC Bournemo | Over (BUY) | 67% | 3.98 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will SC União Torreense win on 2026-09-1 | No (BUY) | 50% | 4.68 | 0.3% | ⏳ pendiente | — |

@@ -139637,8 +139637,8 @@
     "title": "Rennes: Borna Gojo vs Matteo Martineau",
     "outcome": "Borna Gojo",
     "side": "BUY",
-    "whale_usd": 3431.28,
-    "whale_pct": 0.45,
+    "whale_usd": 8224.98,
+    "whale_pct": 1.078,
     "whale_value_at_open": 762676.7275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -139649,8 +139649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789680919.2106867,
-    "fills": 1
+    "last_fill_at": 1789683670.6729822,
+    "fills": 2
   },
   {
     "timestamp": 1789681131,
