@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 18:02:00 (hora de Perú)
+Actualizado: 2026-09-17 18:04:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 18:02:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $39.15 en 8 posiciones abiertas (disponible para nuevas apuestas: $18.62)
+**Capital comprometido ahora mismo:** $44.15 en 9 posiciones abiertas (disponible para nuevas apuestas: $13.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 34 | 2 | -0.05 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 12 | 0 | -0.57 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 12 | 1 | -0.57 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Bills: O/U 55.5 | Under (BUY) | 54% | 5.00 | 5.9% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ⏳ pendiente | — |
 | RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Real Sociedad de Fútbol vs. AFC Bournemo | Over (BUY) | 67% | 3.98 | 0.8% | ❌ perdida | -4.05 |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ❌ perdida | -5.10 |
-| RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ✅ ganada | +1.80 |
