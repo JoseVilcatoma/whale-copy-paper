@@ -138809,5 +138809,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789625715.5492337,
     "fills": 1
+  },
+  {
+    "timestamp": 1789626490,
+    "timestamp_added": 1789626491.0299778,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-pawlik1-diatlo1-2026-09-17",
+    "title": "W35 Hurghada: Zuzanna Pawlikowska vs Kateryna Diatlova",
+    "outcome": "Zuzanna Pawlikowska",
+    "side": "BUY",
+    "whale_usd": 540.0,
+    "whale_pct": 0.268,
+    "whale_value_at_open": 201353.7251,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789626491.0299904,
+    "fills": 1
   }
 ]
