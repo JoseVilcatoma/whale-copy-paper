@@ -1,5 +1,5 @@
 {
-  "bankroll": 54.78064252430676,
+  "bankroll": 52.327642524306754,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28185,6 +28185,11 @@
       "timestamp": 1789653430.5422187,
       "bankroll": 54.78,
       "event": "won: BrotherObama \u2014 LoL: Top Esports vs Invictus Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789653988.781998,
+      "bankroll": 52.33,
+      "event": "lost: RN1 \u2014 Counter-Strike: M80 vs GamerLegion (BO1) - Logitech G Play Connect Group A"
     }
   ]
 }

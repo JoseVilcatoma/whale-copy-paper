@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 09:05:25 (hora de Perú)
+Actualizado: 2026-09-17 09:07:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $54.78
-**Retorno acumulado:** -89.04%
+**Bankroll actual:** $52.33
+**Retorno acumulado:** -89.53%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 09:05:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $32.39 en 7 posiciones abiertas (disponible para nuevas apuestas: $22.39)
+**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $22.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | BrotherObama | 11 | 15 | 0 | -27.21 USD |
-| RN1 | 528 | 248 | 3 | -30.30 USD |
+| RN1 | 528 | 249 | 2 | -32.75 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5423
+- **Apuestas resueltas:** 5424
 - **Aciertos:** 3395 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,993.76
-- **ROI sobre lo apostado:** -2.11%
-- **Comisiones pagadas (taker fee):** $502.63 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,996.15
+- **ROI sobre lo apostado:** -2.12%
+- **Comisiones pagadas (taker fee):** $502.69 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2811 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2812 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 734 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1025,7 +1025,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Boston Red Sox vs. Texas Rangers: O/U 7. | Over (BUY) | 53% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Alice Tubello (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs NRG (BO3) - Star | NRG (BUY) | 47% | 5.00 | 8.0% | ✅ ganada | +5.51 |
-| RN1 | Counter-Strike: M80 vs GamerLegion (BO1) | GamerLegion (BUY) | 47% | 2.39 | 1.6% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: M80 vs GamerLegion (BO1) | GamerLegion (BUY) | 47% | 2.39 | 1.6% | ❌ perdida | -2.45 |
 | UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ❌ perdida | -2.95 |
 | RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.6% | ❌ perdida | -5.11 |
