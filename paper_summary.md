@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 04:15:20 (hora de Perú)
+Actualizado: 2026-09-17 04:17:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $49.30
-**Retorno acumulado:** -90.14%
+**Bankroll actual:** $50.15
+**Retorno acumulado:** -89.97%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 04:15:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.31 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.99)
+**Capital comprometido ahora mismo:** $43.31 en 9 posiciones abiertas (disponible para nuevas apuestas: $6.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 520 | 242 | 8 | -24.49 USD |
+| RN1 | 521 | 242 | 7 | -23.65 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5406
-- **Aciertos:** 3384 (62.6%)
-- **Cuota promedio de entrada:** 62.7%
+- **Apuestas resueltas:** 5407
+- **Aciertos:** 3385 (62.6%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,913.14
-- **ROI sobre lo apostado:** -2.14%
-- **Comisiones pagadas (taker fee):** $501.05 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,918.14
+- **ROI sobre lo apostado:** -2.13%
+- **Comisiones pagadas (taker fee):** $501.08 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2802 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1585 | 68.3% | 67.9% | +0.5 pp |
-| 80-94% | 732 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 733 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1031,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 1.4% | ✅ ganada | +4.88 |
 | RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ✅ ganada | +0.84 |
-| RN1 | W35 Hurghada: Olga Danilova vs Ekaterina | Ekaterina Perelygina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | W35 Hurghada: Olga Danilova vs Ekaterina | Ekaterina Perelygina (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ✅ ganada | +1.87 |
 | UpTheBlues | Phan Thiet 4: Blake Ellis vs Ilia Simaki | Ilia Simakin (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Zhuoxuan Bai (BUY) | 69% | 5.00 | 1.5% | ❌ perdida | -5.08 |

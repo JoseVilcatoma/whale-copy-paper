@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.30281217007412,
+  "bankroll": 50.14716511125059,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28100,6 +28100,11 @@
       "timestamp": 1789633358.3986065,
       "bankroll": 49.3,
       "event": "won: RN1 \u2014 W35 Shenyang: Sijia Wei vs Zhuoxuan Bai"
+    },
+    {
+      "timestamp": 1789636588.681268,
+      "bankroll": 50.15,
+      "event": "won: RN1 \u2014 W35 Hurghada: Olga Danilova vs Ekaterina Perelygina"
     }
   ]
 }
