@@ -139481,5 +139481,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789654456.4085803,
     "fills": 1
+  },
+  {
+    "timestamp": 1789655341,
+    "timestamp_added": 1789655342.6906629,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uzb1-nav-din-2026-09-17-spread-home-1pt5",
+    "title": "Spread: Navbahor (-1.5)",
+    "outcome": "Navbahor",
+    "side": "BUY",
+    "whale_usd": 575.5301999999999,
+    "whale_pct": 0.217,
+    "whale_value_at_open": 265294.2235,
+    "paper_stake_usd": 2.33,
+    "odds_at_bet": 43,
+    "fee_usd": 0.066,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789655342.6906734,
+    "fills": 1
   }
 ]
