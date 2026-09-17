@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 18:26:49 (hora de Perú)
+Actualizado: 2026-09-17 18:28:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $62.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 18:26:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $7.62)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $2.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| UpTheBlues | 11 | 5 | 1 | -10.84 USD |
+| UpTheBlues | 11 | 5 | 2 | -10.84 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1022,6 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 5.9% | ⏳ pendiente | — |
@@ -1051,4 +1052,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5 | Top Esports (BUY) | 46% | 5.00 | 28.8% | ✅ ganada | +5.73 |
 | RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ❌ perdida | -5.10 |
 | RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ✅ ganada | +2.89 |
-| RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ✅ ganada | +0.91 |

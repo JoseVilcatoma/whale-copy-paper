@@ -139800,5 +139800,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789686922.892899,
     "fills": 1
+  },
+  {
+    "timestamp": 1789687666,
+    "timestamp_added": 1789687666.616603,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-zheng-svajd-2026-09-17",
+    "title": "Tiburon: Michael Zheng vs Trevor Svajda",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "whale_usd": 1021.25,
+    "whale_pct": 0.688,
+    "whale_value_at_open": 148424.6468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789687666.6166162,
+    "fills": 1
   }
 ]
