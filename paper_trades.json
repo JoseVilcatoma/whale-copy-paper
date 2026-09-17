@@ -138507,8 +138507,8 @@
     "title": "Will Gr\u00eamio FBPA win on 2026-09-16?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1118.9099999999999,
-    "whale_pct": 0.685,
+    "whale_usd": 1830.27,
+    "whale_pct": 1.12,
     "whale_value_at_open": 163394.4783,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -138519,7 +138519,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789602127.3016005,
-    "fills": 2
+    "last_fill_at": 1789603192.5898688,
+    "fills": 3
   }
 ]
