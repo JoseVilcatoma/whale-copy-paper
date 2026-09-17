@@ -8,55 +8,55 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1789319795.5598989,
-    "roi_pct": 652.4,
+    "roi_pct": 658.22,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1789499902.0736783,
-    "roi_pct": 544.84,
+    "roi_pct": 519.3,
     "short_term_pct": 90.0
   },
   "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3": {
     "username": "Feromont",
     "added_at": 1789585221.1210957,
-    "roi_pct": 969.98,
+    "roi_pct": 1099.08,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1789590887.1142495,
-    "roi_pct": 93.75,
+    "roi_pct": 92.37,
     "short_term_pct": 100.0
   },
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "username": "BreakTheBank",
     "added_at": 1789593729.4164317,
-    "roi_pct": 80.71,
+    "roi_pct": 80.77,
     "short_term_pct": 90.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1789595092.6725914,
-    "roi_pct": 173.65,
+    "roi_pct": 172.51,
     "short_term_pct": 100.0
   },
   "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38": {
     "username": "SharkbetX-com",
     "added_at": 1789605584.69344,
-    "roi_pct": 113.78,
+    "roi_pct": 111.88,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1789605584.6934414,
-    "roi_pct": 102.14,
+    "roi_pct": 97.01,
     "short_term_pct": 100.0
   },
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1789607498.2627833,
-    "roi_pct": 255.56,
+    "roi_pct": 255.3,
     "short_term_pct": 30.0
   }
 }
