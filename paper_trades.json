@@ -138747,8 +138747,8 @@
     "title": "Phan Thiet 4: Blake Ellis vs Ilia Simakin",
     "outcome": "Ilia Simakin",
     "side": "BUY",
-    "whale_usd": 1224.53,
-    "whale_pct": 0.446,
+    "whale_usd": 2089.0299999999997,
+    "whale_pct": 0.761,
     "whale_value_at_open": 274336.15,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -138759,7 +138759,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789622266.8730652,
-    "fills": 2
+    "last_fill_at": 1789623383.440463,
+    "fills": 3
   }
 ]
