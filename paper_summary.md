@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 03:07:04 (hora de Perú)
+Actualizado: 2026-09-17 03:09:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $48.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 03:07:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $3.31)
+**Capital comprometido ahora mismo:** $48.31 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 518 | 241 | 7 | -25.49 USD |
+| RN1 | 518 | 241 | 8 | -25.49 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
@@ -1021,6 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ⏳ pendiente | — |
 | RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | FC Barcelona vs. Real Racing Club: O/U 4 | Over (BUY) | 59% | 4.49 | 1.1% | ✅ ganada | +3.03 |
 | wr0ngw4yb3tt0r | Detroit Tigers vs. Toronto Blue Jays | Detroit Tigers (BUY) | 48% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: FC Barcelona (-3.5) | Real Racing Club (BUY) | 51% | 5.00 | 10.5% | ❌ perdida | -5.12 |
-| RN1 | Will NK Celje win on 2026-09-16? | No (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |

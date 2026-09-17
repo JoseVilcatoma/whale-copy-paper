@@ -138953,5 +138953,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789632418.214013,
     "fills": 1
+  },
+  {
+    "timestamp": 1789632434,
+    "timestamp_added": 1789632435.317249,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-b8-mzp-2026-09-17",
+    "title": "Counter-Strike: B8 vs Metizport (BO1) - Logitech G Play Connect Group A",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 812.2275,
+    "whale_pct": 0.383,
+    "whale_value_at_open": 212040.6578,
+    "paper_stake_usd": 3.31,
+    "odds_at_bet": 64,
+    "fee_usd": 0.06,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789632435.3172576,
+    "fills": 1
   }
 ]
