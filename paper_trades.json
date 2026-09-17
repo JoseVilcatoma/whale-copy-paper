@@ -139613,8 +139613,8 @@
     "title": "Real Sociedad de F\u00fatbol vs. AFC Bournemouth: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2044.68,
-    "whale_pct": 0.265,
+    "whale_usd": 6041.1,
+    "whale_pct": 0.784,
     "whale_value_at_open": 770961.489,
     "paper_stake_usd": 3.98,
     "odds_at_bet": 67,
@@ -139625,7 +139625,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789676671.5780754,
-    "fills": 1
+    "last_fill_at": 1789676746.31529,
+    "fills": 3
   }
 ]
