@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.50581217007412,
+  "bankroll": 49.30281217007412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28090,6 +28090,16 @@
       "timestamp": 1789633234.0443683,
       "bankroll": 49.51,
       "event": "won: RN1 \u2014 W35 Hurghada: Emily Appleton vs Yuliya Hatouka"
+    },
+    {
+      "timestamp": 1789633358.1983113,
+      "bankroll": 44.43,
+      "event": "lost: RN1 \u2014 W35 Shenyang: Sijia Wei vs Zhuoxuan Bai"
+    },
+    {
+      "timestamp": 1789633358.3986065,
+      "bankroll": 49.3,
+      "event": "won: RN1 \u2014 W35 Shenyang: Sijia Wei vs Zhuoxuan Bai"
     }
   ]
 }
