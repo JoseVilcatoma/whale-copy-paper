@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 21:23:18 (hora de Perú)
+Actualizado: 2026-09-16 21:25:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $49.41
-**Retorno acumulado:** -90.12%
+**Bankroll actual:** $50.46
+**Retorno acumulado:** -89.91%
 **Peor caída desde un máximo (drawdown):** 92.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 21:23:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.41 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $44.41 en 9 posiciones abiertas (disponible para nuevas apuestas: $6.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 509 | 239 | 5 | -30.72 USD |
+| RN1 | 510 | 239 | 4 | -29.67 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5386
-- **Aciertos:** 3370 (62.6%)
+- **Apuestas resueltas:** 5387
+- **Aciertos:** 3371 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,815.87
-- **ROI sobre lo apostado:** -2.15%
-- **Comisiones pagadas (taker fee):** $499.54 (1.86% del capital apostado)
+- **Total apostado (suma de stakes):** $26,820.87
+- **ROI sobre lo apostado:** -2.14%
+- **Comisiones pagadas (taker fee):** $499.59 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2793 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1582 | 68.3% | 67.9% | +0.5 pp |
-| 80-94% | 725 | 85.5% | 86.5% | -1.0 pp |
+| 80-94% | 726 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 286 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Grêmio FBPA win on 2026-09-16? | No (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Baltimore Orioles vs. New York Mets: O/U | Over (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Iva Jovic (BUY) | 76% | 4.07 | 2.6% | ✅ ganada | +1.24 |
-| RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will CA Mineiro win on 2026-09-16? | Yes (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | RN1 | Will Santos FC win on 2026-09-16? | No (BUY) | 96% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Zeynep Sonmez vs | Zeynep Sonmez (BUY) | 42% | 3.14 | 0.2% | ❌ perdida | -3.23 |
 | RN1 | Will Portuguesa FC vs. Estudiantes de Me | No (BUY) | 91% | 5.00 | 0.2% | ⏳ pendiente | — |

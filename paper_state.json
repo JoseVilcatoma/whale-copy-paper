@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.40902781565336,
+  "bankroll": 50.46158879126312,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28000,6 +28000,11 @@
       "timestamp": 1789611418.4292722,
       "bankroll": 49.41,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Los Angeles Dodgers vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1789611916.5796733,
+      "bankroll": 50.46,
+      "event": "won: RN1 \u2014 Will CA Mineiro win on 2026-09-16?"
     }
   ]
 }
