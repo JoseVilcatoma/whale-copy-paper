@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 05:48:30 (hora de Perú)
+Actualizado: 2026-09-17 05:50:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $44.44
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 0.9% | ⏳ pendiente | — |
+| RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: NIP vs M80 (BO1) - Logit | M80 (BUY) | 60% | 4.47 | 2.5% | ⏳ pendiente | — |
 | RN1 | W75 Le Neubourg: Carson Tanguilig vs Mar | Martyna Kubka (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |

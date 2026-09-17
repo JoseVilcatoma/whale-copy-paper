@@ -139131,8 +139131,8 @@
     "title": "Rennes: Anton Matusevich vs Tristan Schoolkate",
     "outcome": "Anton Matusevich",
     "side": "BUY",
-    "whale_usd": 2226.4,
-    "whale_pct": 0.879,
+    "whale_usd": 4162.4,
+    "whale_pct": 1.644,
     "whale_value_at_open": 253219.0108,
     "paper_stake_usd": 4.97,
     "odds_at_bet": 47,
@@ -139143,7 +139143,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789638978.2211258,
-    "fills": 1
+    "last_fill_at": 1789642141.7956274,
+    "fills": 2
   }
 ]
