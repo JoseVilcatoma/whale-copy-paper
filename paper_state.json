@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.757149109769216,
+  "bankroll": 57.76790283315895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28215,6 +28215,31 @@
       "timestamp": 1789680644.909533,
       "bankroll": 60.76,
       "event": "won: BrotherObama \u2014 San Diego Padres vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1789685990.2002804,
+      "bankroll": 64.14,
+      "event": "won: RN1 \u2014 Will RU Saint-Gilloise win on 2026-09-17?"
+    },
+    {
+      "timestamp": 1789685990.5170434,
+      "bankroll": 64.92,
+      "event": "won: RN1 \u2014 Celtic FC vs. Ferencv\u00e1rosi TC: O/U 3.5"
+    },
+    {
+      "timestamp": 1789685990.7746105,
+      "bankroll": 60.12,
+      "event": "lost: RN1 \u2014 Will SC Uni\u00e3o Torreense win on 2026-09-17?"
+    },
+    {
+      "timestamp": 1789685991.0697095,
+      "bankroll": 61.81,
+      "event": "won: RN1 \u2014 Will AFC Bournemouth win on 2026-09-17?"
+    },
+    {
+      "timestamp": 1789685991.3924792,
+      "bankroll": 57.77,
+      "event": "lost: RN1 \u2014 Real Sociedad de F\u00fatbol vs. AFC Bournemouth: O/U 3.5"
     }
   ]
 }
