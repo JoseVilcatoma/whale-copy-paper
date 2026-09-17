@@ -138593,5 +138593,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789611928.9882948,
     "fills": 1
+  },
+  {
+    "timestamp": 1789612211,
+    "timestamp_added": 1789612212.2453544,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-tex-2026-09-16-total-10pt5",
+    "title": "Boston Red Sox vs. Texas Rangers: O/U 10.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1358.55,
+    "whale_pct": 0.923,
+    "whale_value_at_open": 147185.5718,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789612212.2453656,
+    "fills": 1
   }
 ]
