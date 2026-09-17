@@ -1,5 +1,5 @@
 {
-  "bankroll": 41.55330764745566,
+  "bankroll": 45.870269911606606,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28055,6 +28055,11 @@
       "timestamp": 1789620905.5376403,
       "bankroll": 41.55,
       "event": "won: RN1 \u2014 W35 Kyoto: Sayaka Ishii vs Amelia Rajecki"
+    },
+    {
+      "timestamp": 1789621275.1044295,
+      "bankroll": 45.87,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Miami Marlins vs. Arizona Diamondbacks"
     }
   ]
 }

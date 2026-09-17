@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 23:59:11 (hora de Perú)
+Actualizado: 2026-09-17 00:01:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $41.55
-**Retorno acumulado:** -91.69%
+**Bankroll actual:** $45.87
+**Retorno acumulado:** -90.83%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 23:59:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $25.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $16.55)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $25.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 11 | 4 | 0 | +25.00 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 113 | 82 | 1 | +22.80 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 112 | 82 | 2 | +18.48 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5397
-- **Aciertos:** 3377 (62.6%)
+- **Apuestas resueltas:** 5398
+- **Aciertos:** 3378 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,868.14
-- **ROI sobre lo apostado:** -2.17%
-- **Comisiones pagadas (taker fee):** $500.42 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,873.14
+- **ROI sobre lo apostado:** -2.15%
+- **Comisiones pagadas (taker fee):** $500.53 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2799 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2800 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1583 | 68.4% | 67.9% | +0.5 pp |
 | 80-94% | 728 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
@@ -1026,7 +1026,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ✅ ganada | +6.22 |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |
-| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Miami Marlins vs. Arizona Diamondbacks | Miami Marlins (BUY) | 53% | 5.00 | 6.1% | ✅ ganada | +4.32 |
 | RN1 | SC Corinthians Paulista vs. Estudiantes  | Under (BUY) | 84% | 4.41 | 1.7% | ✅ ganada | +0.81 |
 | wr0ngw4yb3tt0r | Seattle Mariners vs. Los Angeles Angels | Seattle Mariners (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Grêmio FBPA win on 2026-09-16? | No (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |
