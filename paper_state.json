@@ -1,5 +1,5 @@
 {
-  "bankroll": 45.126595559348594,
+  "bankroll": 42.180595559348596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28150,6 +28150,11 @@
       "timestamp": 1789646316.4998374,
       "bankroll": 45.13,
       "event": "lost: RN1 \u2014 Rennes: Anton Matusevich vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1789646626.9336166,
+      "bankroll": 42.18,
+      "event": "lost: RN1 \u2014 Counter-Strike: Metizport vs Luminosity (BO1) - Logitech G Play Connect Group A"
     }
   ]
 }
