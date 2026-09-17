@@ -138977,5 +138977,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789632435.3172576,
     "fills": 1
+  },
+  {
+    "timestamp": 1789633980,
+    "timestamp_added": 1789633980.3821251,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-brute-qua1-2026-09-17-game1",
+    "title": "Counter-Strike: Brute vs QUAZAR - Map 1 Winner",
+    "outcome": "QUAZAR",
+    "side": "BUY",
+    "whale_usd": 2378.0,
+    "whale_pct": 1.12,
+    "whale_value_at_open": 212243.0173,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789633983.253095,
+    "fills": 2
   }
 ]
