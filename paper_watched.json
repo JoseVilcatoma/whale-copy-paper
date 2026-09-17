@@ -8,25 +8,25 @@
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1789319795.5598989,
-    "roi_pct": 668.98,
+    "roi_pct": 654.91,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1789499902.0736783,
-    "roi_pct": 1512.21,
+    "roi_pct": 1510.88,
     "short_term_pct": 80.0
   },
   "0x2759769cd371bee44ec5bfc5e72c7f1f092b2b38": {
     "username": "SharkbetX-com",
     "added_at": 1789605584.69344,
-    "roi_pct": 1136.94,
+    "roi_pct": 1139.97,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1789611333.6839728,
-    "roi_pct": 309.17,
+    "roi_pct": 307.84,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
@@ -41,22 +41,22 @@
     "roi_pct": 318.24,
     "short_term_pct": 100.0
   },
-  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
-    "username": "TAIWANNUMBERONE",
-    "added_at": 1789651674.312021,
-    "roi_pct": 6620.18,
-    "short_term_pct": 100.0
-  },
   "0xe9b710551dd82a44e79203c2394a2b10163ace7b": {
     "username": "googleplay",
     "added_at": 1789655447.6359165,
-    "roi_pct": 263.34,
+    "roi_pct": 393.51,
     "short_term_pct": 100.0
   },
   "0xe40ecff63ec661d218a86c048186ac83389a9770": {
     "username": "lllllllIlll",
     "added_at": 1789656389.254161,
-    "roi_pct": 158.38,
+    "roi_pct": 187.6,
+    "short_term_pct": 100.0
+  },
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1789659212.4117541,
+    "roi_pct": 182.26,
     "short_term_pct": 100.0
   }
 }
