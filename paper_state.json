@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.22859555934859,
+  "bankroll": 45.126595559348594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28145,6 +28145,11 @@
       "timestamp": 1789644484.079934,
       "bankroll": 50.23,
       "event": "lost: RN1 \u2014 Counter-Strike: Brute vs QUAZAR - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789646316.4998374,
+      "bankroll": 45.13,
+      "event": "lost: RN1 \u2014 Rennes: Anton Matusevich vs Tristan Schoolkate"
     }
   ]
 }
