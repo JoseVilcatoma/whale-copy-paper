@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 06:26:55 (hora de Perú)
+Actualizado: 2026-09-17 06:28:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $52.84
-**Retorno acumulado:** -89.43%
+**Bankroll actual:** $50.23
+**Retorno acumulado:** -89.95%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 06:26:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $52.84 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $42.84 en 9 posiciones abiertas (disponible para nuevas apuestas: $7.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 525 | 244 | 7 | -20.95 USD |
+| RN1 | 526 | 245 | 5 | -23.56 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5413
-- **Aciertos:** 3389 (62.6%)
+- **Apuestas resueltas:** 5415
+- **Aciertos:** 3390 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,945.92
-- **ROI sobre lo apostado:** -2.12%
-- **Comisiones pagadas (taker fee):** $501.68 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,955.92
+- **ROI sobre lo apostado:** -2.13%
+- **Comisiones pagadas (taker fee):** $501.87 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,8 +178,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2804 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1589 | 68.3% | 67.8% | +0.5 pp |
+| 40-59% | 2805 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 733 | 85.5% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1031,10 +1031,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: GamerLegion vs Luminosit | GamerLegion (BUY) | 47% | 5.00 | 1.6% | ✅ ganada | +5.51 |
 | RN1 | Ljubljana: Anastasiia Sobolieva vs Laura | Anastasiia Sobolieva (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | Metizport (BUY) | 46% | 5.00 | 2.8% | ❌ perdida | -5.13 |
-| RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Brute vs QUAZAR - Map 1  | QUAZAR (BUY) | 59% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ✅ ganada | +1.80 |
 | RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 6.7% | ✅ ganada | +2.72 |
-| RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 1.9% | ✅ ganada | +2.49 |
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ❌ perdida | -5.09 |
 | RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 1.4% | ✅ ganada | +4.88 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 52.840837983591015,
+  "bankroll": 50.22859555934859,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28135,6 +28135,16 @@
       "timestamp": 1789642623.5920556,
       "bankroll": 52.84,
       "event": "won: RN1 \u2014 Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A"
+    },
+    {
+      "timestamp": 1789644483.7925835,
+      "bankroll": 55.33,
+      "event": "won: RN1 \u2014 W35 Santa Margherita di Pula: Camilla Gennaro vs Briana Szabo"
+    },
+    {
+      "timestamp": 1789644484.079934,
+      "bankroll": 50.23,
+      "event": "lost: RN1 \u2014 Counter-Strike: Brute vs QUAZAR - Map 1 Winner"
     }
   ]
 }
