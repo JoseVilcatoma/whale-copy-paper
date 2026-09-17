@@ -139251,8 +139251,8 @@
     "title": "Biella: Carlo Alberto Caniato vs Izan Almazan Valiente",
     "outcome": "Carlo Alberto Caniato",
     "side": "BUY",
-    "whale_usd": 1400.42,
-    "whale_pct": 1.012,
+    "whale_usd": 2302.31,
+    "whale_pct": 1.663,
     "whale_value_at_open": 138438.7972,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -139263,7 +139263,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789644893.9053278,
-    "fills": 1
+    "last_fill_at": 1789644942.8554006,
+    "fills": 2
   }
 ]
