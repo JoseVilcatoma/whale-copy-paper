@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.45156949982562,
+  "bankroll": 62.619946311419824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28245,6 +28245,11 @@
       "timestamp": 1789686733.9031785,
       "bankroll": 60.45,
       "event": "won: RN1 \u2014 Sao Paulo Open: Eva Lys vs Nadia Podoroska"
+    },
+    {
+      "timestamp": 1789687541.837235,
+      "bankroll": 62.62,
+      "event": "won: RN1 \u2014 Rennes: Borna Gojo vs Matteo Martineau"
     }
   ]
 }
