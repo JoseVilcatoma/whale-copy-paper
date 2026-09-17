@@ -138881,5 +138881,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789627503.3947425,
     "fills": 1
+  },
+  {
+    "timestamp": 1789627934,
+    "timestamp_added": 1789627935.3204916,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-applet1-hatouk1-2026-09-17",
+    "title": "W35 Hurghada: Emily Appleton vs Yuliya Hatouka",
+    "outcome": "Emily Appleton",
+    "side": "BUY",
+    "whale_usd": 2333.3,
+    "whale_pct": 1.112,
+    "whale_value_at_open": 209874.8287,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789627936.9154594,
+    "fills": 3
   }
 ]
