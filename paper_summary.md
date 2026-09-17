@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 03:27:48 (hora de Perú)
+Actualizado: 2026-09-17 03:29:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.30
@@ -1022,7 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Counter-Strike: B8 vs Metizport (BO1) -  | B8 (BUY) | 64% | 3.31 | 0.4% | ⏳ pendiente | — |
-| RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Guangzhou: James Kent Trotter vs Mitsuki | Mitsuki Wei Kang Leong (BUY) | 64% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Camilla Ge | Camilla Gennaro (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |

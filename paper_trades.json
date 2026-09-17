@@ -138939,8 +138939,8 @@
     "title": "Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong",
     "outcome": "Mitsuki Wei Kang Leong",
     "side": "BUY",
-    "whale_usd": 1249.9956,
-    "whale_pct": 0.59,
+    "whale_usd": 5062.1598,
+    "whale_pct": 2.387,
     "whale_value_at_open": 212040.6578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -138951,8 +138951,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789632418.214013,
-    "fills": 1
+    "last_fill_at": 1789633725.6153371,
+    "fills": 2
   },
   {
     "timestamp": 1789632434,
