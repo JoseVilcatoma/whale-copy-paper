@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 08:26:13 (hora de Perú)
+Actualizado: 2026-09-17 08:28:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $38.04
-**Retorno acumulado:** -92.39%
+**Bankroll actual:** $43.54
+**Retorno acumulado:** -91.29%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 08:26:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.39 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.65)
+**Capital comprometido ahora mismo:** $37.39 en 8 posiciones abiertas (disponible para nuevas apuestas: $6.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| SDTrading | 37 | 34 | 0 | -0.05 USD |
+| SDTrading | 37 | 34 | 1 | -0.05 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 12 | 0 | -0.57 USD |
@@ -151,9 +151,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 528 | 248 | 3 | -30.30 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 527 | 248 | 4 | -35.81 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | BrotherObama | 9 | 15 | 2 | -38.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5420
-- **Aciertos:** 3392 (62.6%)
+- **Apuestas resueltas:** 5421
+- **Aciertos:** 3393 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,978.76
-- **ROI sobre lo apostado:** -2.17%
-- **Comisiones pagadas (taker fee):** $502.23 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,983.76
+- **ROI sobre lo apostado:** -2.15%
+- **Comisiones pagadas (taker fee):** $502.36 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2808 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2809 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1590 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 734 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1021,8 +1021,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Boston Red Sox vs. Texas Rangers: O/U 7. | Over (BUY) | 53% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Alice Tubello (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: MOUZ vs NRG (BO3) - Star | NRG (BUY) | 47% | 5.00 | 8.0% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: MOUZ vs NRG (BO3) - Star | NRG (BUY) | 47% | 5.00 | 8.0% | ✅ ganada | +5.51 |
 | RN1 | Counter-Strike: M80 vs GamerLegion (BO1) | GamerLegion (BUY) | 47% | 2.39 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Biella: Carlo Alberto Caniato vs Izan Al | Carlo Alberto Caniato (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | RN1 | Counter-Strike: Metizport vs Luminosity  | Metizport (BUY) | 47% | 2.87 | 0.4% | ❌ perdida | -2.95 |
@@ -1050,4 +1051,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Shenyang: Alexandra Shubladze vs Kri | Alexandra Shubladze (BUY) | 94% | 5.00 | 3.0% | ❌ perdida | -5.01 |
 | RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ✅ ganada | +2.37 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
-| RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ✅ ganada | +6.22 |
