@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-16 23:53:03 (hora de Perú)
+Actualizado: 2026-09-16 23:55:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $39.18
-**Retorno acumulado:** -92.16%
+**Bankroll actual:** $41.55
+**Retorno acumulado:** -91.69%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-16 23:53:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $22.86 en 5 posiciones abiertas (disponible para nuevas apuestas: $16.32)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $21.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,8 +148,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| RN1 | 516 | 240 | 0 | -23.19 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 515 | 240 | 1 | -25.56 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 136 | 55 | 0 | -33.17 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5396
-- **Aciertos:** 3376 (62.6%)
+- **Apuestas resueltas:** 5397
+- **Aciertos:** 3377 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $26,865.28
-- **ROI sobre lo apostado:** -2.18%
-- **Comisiones pagadas (taker fee):** $500.35 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $26,868.14
+- **ROI sobre lo apostado:** -2.17%
+- **Comisiones pagadas (taker fee):** $500.42 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2798 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2799 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1583 | 68.4% | 67.9% | +0.5 pp |
 | 80-94% | 728 | 85.6% | 86.5% | -1.0 pp |
 | 95-99% (casi seguro) | 287 | 97.2% | 97.3% | -0.1 pp |
@@ -1021,7 +1021,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ⏳ pendiente | — |
+| RN1 | W35 Kyoto: Sayaka Ishii vs Amelia Rajeck | Sayaka Ishii (BUY) | 54% | 2.86 | 0.3% | ✅ ganada | +2.37 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Kayla Day (BUY) | 55% | 5.00 | 2.4% | ❌ perdida | -5.11 |
 | RN1 | Guadalajara Open Akron: Kayla Day vs Liu | Liudmila Samsonova (BUY) | 44% | 5.00 | 12.9% | ✅ ganada | +6.22 |
 | wr0ngw4yb3tt0r | Boston Red Sox vs. Texas Rangers: O/U 10 | Over (BUY) | 46% | 5.00 | 0.9% | ❌ perdida | -5.13 |

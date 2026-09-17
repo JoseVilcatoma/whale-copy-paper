@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.183011351159365,
+  "bankroll": 41.55330764745566,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28050,6 +28050,11 @@
       "timestamp": 1789620044.6484213,
       "bankroll": 39.18,
       "event": "won: RN1 \u2014 SC Corinthians Paulista vs. Estudiantes de La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1789620905.5376403,
+      "bankroll": 41.55,
+      "event": "won: RN1 \u2014 W35 Kyoto: Sayaka Ishii vs Amelia Rajecki"
     }
   ]
 }
