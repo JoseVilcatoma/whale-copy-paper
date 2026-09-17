@@ -138843,8 +138843,8 @@
     "title": "W35 Shenyang: Sijia Wei vs Zhuoxuan Bai",
     "outcome": "Sijia Wei",
     "side": "BUY",
-    "whale_usd": 508.676,
-    "whale_pct": 0.25,
+    "whale_usd": 2807.1040000000003,
+    "whale_pct": 1.377,
     "whale_value_at_open": 203796.8901,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -138855,8 +138855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789627218.17903,
-    "fills": 1
+    "last_fill_at": 1789629634.4702144,
+    "fills": 2
   },
   {
     "timestamp": 1789627502,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 02:19:31 (hora de Perú)
+Actualizado: 2026-09-17 02:21:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $45.59
@@ -1023,7 +1023,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | W35 Hurghada: Emily Appleton vs Yuliya H | Emily Appleton (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Zeel Desai vs Ann Akasha C | Zeel Desai (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Sijia Wei vs Zhuoxuan Bai | Sijia Wei (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Zuzanna Pawlikowska vs Kat | Zuzanna Pawlikowska (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Olga Danilova vs Ekaterina | Ekaterina Perelygina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Junhan Zhang vs Daria KHOM | Daria KHOMUTSIANSKAYA (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
