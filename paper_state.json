@@ -1,5 +1,5 @@
 {
-  "bankroll": 48.30581217007412,
+  "bankroll": 49.50581217007412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28085,6 +28085,11 @@
       "timestamp": 1789632114.8660688,
       "bankroll": 48.31,
       "event": "won: RN1 \u2014 W35 Hurghada: Zuzanna Pawlikowska vs Kateryna Diatlova"
+    },
+    {
+      "timestamp": 1789633234.0443683,
+      "bankroll": 49.51,
+      "event": "won: RN1 \u2014 W35 Hurghada: Emily Appleton vs Yuliya Hatouka"
     }
   ]
 }
