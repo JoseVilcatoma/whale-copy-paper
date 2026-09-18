@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 16:16:09 (hora de Perú)
+Actualizado: 2026-09-18 16:18:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $100.63
-**Retorno acumulado:** -79.87%
+**Bankroll actual:** $101.66
+**Retorno acumulado:** -79.67%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 16:16:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.31 en 18 posiciones abiertas (disponible para nuevas apuestas: $13.32)
+**Capital comprometido ahora mismo:** $77.31 en 16 posiciones abiertas (disponible para nuevas apuestas: $24.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | RN1 | 546 | 256 | 4 | -19.90 USD |
-| Flaznorp | 146 | 55 | 4 | -21.69 USD |
+| Flaznorp | 148 | 55 | 2 | -20.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5490
-- **Aciertos:** 3446 (62.8%)
+- **Apuestas resueltas:** 5492
+- **Aciertos:** 3448 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,302.50
+- **Total apostado (suma de stakes):** $27,312.50
 - **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $507.49 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $507.54 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,8 +181,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2838 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1610 | 68.7% | 67.8% | +0.8 pp |
-| 80-94% | 748 | 85.7% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 294 | 97.3% | 97.3% | -0.1 pp |
+| 80-94% | 749 | 85.7% | 86.6% | -0.8 pp |
+| 95-99% (casi seguro) | 295 | 97.3% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1035,7 +1035,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
+| Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
 | GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ⏳ pendiente | — |
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ✅ ganada | +2.75 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1051,7 +1051,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 13.1% | ❌ perdida | -5.14 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 10.9% | ❌ perdida | -2.99 |
 | BrotherObama | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 46% | 5.00 | 14.5% | 💰 vendida anticipada | +0.49 |
-| Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ✅ ganada | +6.76 |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ❌ perdida | -5.05 |

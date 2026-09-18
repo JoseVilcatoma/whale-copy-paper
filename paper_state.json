@@ -1,5 +1,5 @@
 {
-  "bankroll": 100.63090152328198,
+  "bankroll": 101.6595029593292,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28530,6 +28530,16 @@
       "timestamp": 1789765949.370293,
       "bankroll": 100.63,
       "event": "won: RN1 \u2014 Will Silkeborg IF win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789766260.3434122,
+      "bankroll": 101.61,
+      "event": "won: Flaznorp \u2014 Spread: Chelsea FC (-1.5)"
+    },
+    {
+      "timestamp": 1789766262.621469,
+      "bankroll": 101.66,
+      "event": "won: Flaznorp \u2014 Will Brentford FC vs. Chelsea FC end in a draw?"
     }
   ]
 }
