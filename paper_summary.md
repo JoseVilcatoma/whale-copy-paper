@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 15:49:37 (hora de Perú)
+Actualizado: 2026-09-18 15:51:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 15:49:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.46 en 18 posiciones abiertas (disponible para nuevas apuestas: $8.85)
+**Capital comprometido ahora mismo:** $97.31 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -140,7 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| GoalLineGhost | 84 | 36 | 5 | -12.57 USD |
+| GoalLineGhost | 84 | 36 | 6 | -12.57 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 545 | 256 | 4 | -20.37 USD |
+| RN1 | 545 | 256 | 5 | -20.37 USD |
 | Flaznorp | 146 | 55 | 4 | -21.69 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -1030,6 +1030,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1058,5 +1060,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ✅ ganada | +2.17 |
 | UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | UpTheBlues | Nantong Zhiyun vs. Guangxi Hengchen FC:  | Under (BUY) | 49% | 2.52 | 0.2% | ✅ ganada | +2.56 |
-| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-| GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 6.5% | ⏳ pendiente | — |
