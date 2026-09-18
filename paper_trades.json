@@ -140066,5 +140066,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789708464.6159432,
     "fills": 2
+  },
+  {
+    "timestamp": 1789708903,
+    "timestamp_added": 1789708903.8704317,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-pacheco-sekulic-2026-09-17",
+    "title": "Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic",
+    "outcome": "Rodrigo Pacheco",
+    "side": "BUY",
+    "whale_usd": 3311.4300000000003,
+    "whale_pct": 1.687,
+    "whale_value_at_open": 196305.1625,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789708903.8704405,
+    "fills": 1
   }
 ]
