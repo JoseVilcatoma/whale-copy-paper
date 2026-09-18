@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.42453987702024,
+  "bankroll": 78.50153987702024,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28590,6 +28590,11 @@
       "timestamp": 1789769714.0761662,
       "bankroll": 82.42,
       "event": "lost: RN1 \u2014 Will Manchester City WFC win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789770973.5544746,
+      "bankroll": 78.5,
+      "event": "lost: RN1 \u2014 Counter-Strike: Galorys vs Bounty Hunters Esports (BO3) - Circuit X Curitiba Playoffs"
     }
   ]
 }

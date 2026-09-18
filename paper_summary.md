@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 17:35:39 (hora de Perú)
+Actualizado: 2026-09-18 17:37:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.42
-**Retorno acumulado:** -83.52%
+**Bankroll actual:** $78.50
+**Retorno acumulado:** -84.30%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 17:35:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.47 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $78.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,8 +154,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 547 | 258 | 7 | -29.91 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 547 | 259 | 6 | -33.83 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5502
-- **Aciertos:** 3453 (62.8%)
+- **Apuestas resueltas:** 5503
+- **Aciertos:** 3453 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,362.34
-- **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $508.27 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,366.19
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $508.34 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2842 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1612 | 68.7% | 67.8% | +0.8 pp |
+| 60-79% | 1613 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 750 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 298 | 97.3% | 97.3% | -0.0 pp |
 
@@ -1043,7 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
 | UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ❌ perdida | -3.92 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
 | RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
