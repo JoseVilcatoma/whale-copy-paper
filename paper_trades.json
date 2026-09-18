@@ -140373,8 +140373,8 @@
     "title": "W75 Le Neubourg: Manon Leonard vs Martyna Kubka",
     "outcome": "Manon Leonard",
     "side": "BUY",
-    "whale_usd": 1567.1200000000001,
-    "whale_pct": 1.288,
+    "whale_usd": 3049.6000000000004,
+    "whale_pct": 2.507,
     "whale_value_at_open": 121625.9389,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -140385,7 +140385,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789725015.05341,
-    "fills": 2
+    "last_fill_at": 1789725577.4680748,
+    "fills": 4
   }
 ]
