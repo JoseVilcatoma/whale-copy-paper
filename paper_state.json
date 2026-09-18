@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.43474287816147,
+  "bankroll": 69.41498097339958,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28320,6 +28320,16 @@
       "timestamp": 1789712585.7701056,
       "bankroll": 66.43,
       "event": "won: Flaznorp \u2014 Phan Thiet 4: Moise Kouame vs Florent Bax"
+    },
+    {
+      "timestamp": 1789713834.4513721,
+      "bankroll": 68.5,
+      "event": "won: RN1 \u2014 W35 Shenyang: Kristiana Sidorova vs Yufei Ren"
+    },
+    {
+      "timestamp": 1789713835.1304667,
+      "bankroll": 69.41,
+      "event": "won: Flaznorp \u2014 W35 Shenyang: Kristiana Sidorova vs Yufei Ren"
     }
   ]
 }
