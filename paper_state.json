@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.70868779006116,
+  "bankroll": 93.59168779006116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28455,6 +28455,11 @@
       "timestamp": 1789750863.927808,
       "bankroll": 98.71,
       "event": "won: GoalLineGhost \u2014 Will Bandirmaspor vs. Umraniyespor end in a draw?"
+    },
+    {
+      "timestamp": 1789752117.4507875,
+      "bankroll": 93.59,
+      "event": "lost: lllllllIlll \u2014 Counter-Strike: EYEBALLERS vs BBL (BO1) - Logitech G Play Connect Group B"
     }
   ]
 }

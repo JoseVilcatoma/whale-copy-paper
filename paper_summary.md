@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 12:19:58 (hora de Perú)
+Actualizado: 2026-09-18 12:22:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $98.71
-**Retorno acumulado:** -80.26%
+**Bankroll actual:** $93.59
+**Retorno acumulado:** -81.28%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 12:19:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $96.54 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.17)
+**Capital comprometido ahora mismo:** $91.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
-| lllllllIlll | 2 | 0 | 2 | +9.43 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
@@ -56,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | UpTheBlues | 19 | 5 | 4 | +4.34 USD |
+| lllllllIlll | 2 | 1 | 1 | +4.31 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5475
+- **Apuestas resueltas:** 5476
 - **Aciertos:** 3435 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,229.75
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $506.51 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,234.75
+- **ROI sobre lo apostado:** -1.94%
+- **Comisiones pagadas (taker fee):** $506.62 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2834 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2835 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1606 | 68.6% | 67.9% | +0.8 pp |
 | 80-94% | 745 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 290 | 97.2% | 97.4% | -0.1 pp |
