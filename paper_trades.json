@@ -140699,5 +140699,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789739395.140942,
     "fills": 3
+  },
+  {
+    "timestamp": 1789743320,
+    "timestamp_added": 1789743320.5302572,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-escorih-linana-2026-09-18",
+    "title": "Valencia: Irene Burillo Escorihuela vs Alicia Herrero Linana",
+    "outcome": "Alicia Herrero Linana",
+    "side": "BUY",
+    "whale_usd": 723.87,
+    "whale_pct": 0.114,
+    "whale_value_at_open": 633610.1298,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789743320.5302694,
+    "fills": 1
   }
 ]

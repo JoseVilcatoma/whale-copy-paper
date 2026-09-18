@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 09:53:45 (hora de Perú)
+Actualizado: 2026-09-18 09:55:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.24
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 09:53:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.52 en 15 posiciones abiertas (disponible para nuevas apuestas: $13.72)
+**Capital comprometido ahora mismo:** $77.52 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -110,7 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| UpTheBlues | 15 | 5 | 5 | -3.83 USD |
+| UpTheBlues | 15 | 5 | 6 | -3.83 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -1027,6 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Caldas da Rainha: Malaika Rapolu vs Gabr | Gabriela Knutson (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1056,4 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 5.6% | ✅ ganada | +2.07 |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ✅ ganada | +1.13 |
-| lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ✅ ganada | +2.38 |
