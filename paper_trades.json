@@ -140018,5 +140018,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789706766.8978844,
     "fills": 1
+  },
+  {
+    "timestamp": 1789707121,
+    "timestamp_added": 1789707121.8059518,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-sidoro1-ren1-2026-09-18",
+    "title": "W35 Shenyang: Kristiana Sidorova vs Yufei Ren",
+    "outcome": "Kristiana Sidorova",
+    "side": "BUY",
+    "whale_usd": 1295.5412999999999,
+    "whale_pct": 1.049,
+    "whale_value_at_open": 123480.4126,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789707153.2281911,
+    "fills": 2
   }
 ]
