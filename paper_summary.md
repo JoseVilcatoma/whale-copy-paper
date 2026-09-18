@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 16:22:14 (hora de Perú)
+Actualizado: 2026-09-18 16:24:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $101.66
-**Retorno acumulado:** -79.67%
+**Bankroll actual:** $87.52
+**Retorno acumulado:** -82.50%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 16:22:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.31 en 17 posiciones abiertas (disponible para nuevas apuestas: $19.35)
+**Capital comprometido ahora mismo:** $37.47 en 8 posiciones abiertas (disponible para nuevas apuestas: $50.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| GoalLineGhost | 85 | 36 | 5 | -9.73 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
@@ -146,12 +145,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| GoalLineGhost | 88 | 38 | 0 | -17.95 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 546 | 256 | 4 | -19.90 USD |
-| Flaznorp | 148 | 55 | 2 | -20.66 USD |
+| Flaznorp | 149 | 56 | 0 | -21.66 USD |
+| RN1 | 547 | 257 | 2 | -24.82 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5492
-- **Aciertos:** 3448 (62.8%)
+- **Apuestas resueltas:** 5501
+- **Aciertos:** 3453 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,312.50
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $507.54 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,357.34
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $508.17 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,10 +179,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2838 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1610 | 68.7% | 67.8% | +0.8 pp |
-| 80-94% | 749 | 85.7% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 295 | 97.3% | 97.3% | -0.1 pp |
+| 40-59% | 2842 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1611 | 68.7% | 67.9% | +0.9 pp |
+| 80-94% | 750 | 85.6% | 86.6% | -1.0 pp |
+| 95-99% (casi seguro) | 298 | 97.3% | 97.3% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1032,14 +1032,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ⏳ pendiente | — |
-| GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
+| GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
+| RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
+| GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
+| RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ❌ perdida | -5.12 |
 | Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
-| GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ✅ ganada | +0.24 |
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ✅ ganada | +2.75 |
-| GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
+| GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ❌ perdida | -5.04 |
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ✅ ganada | +0.47 |
@@ -1054,7 +1054,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 46% | 5.00 | 14.5% | 💰 vendida anticipada | +0.49 |
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ✅ ganada | +6.76 |
-| Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ❌ perdida | -5.05 |
 | UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | UpTheBlues | Caldas da Rainha: Malaika Rapolu vs Gabr | Gabriela Knutson (BUY) | 63% | 5.00 | 1.0% | ✅ ganada | +2.84 |

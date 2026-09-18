@@ -1,5 +1,5 @@
 {
-  "bankroll": 101.6595029593292,
+  "bankroll": 87.51653987702024,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28540,6 +28540,51 @@
       "timestamp": 1789766262.621469,
       "bankroll": 101.66,
       "event": "won: Flaznorp \u2014 Will Brentford FC vs. Chelsea FC end in a draw?"
+    },
+    {
+      "timestamp": 1789766571.810293,
+      "bankroll": 105.8,
+      "event": "won: Flaznorp \u2014 RCD Espanyol de Barcelona vs. Elche CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1789766572.5183873,
+      "bankroll": 107.41,
+      "event": "won: GoalLineGhost \u2014 Will RCD Espanyol de Barcelona vs. Elche CF end in a draw?"
+    },
+    {
+      "timestamp": 1789766572.908892,
+      "bankroll": 102.27,
+      "event": "lost: Flaznorp \u2014 RCD Espanyol de Barcelona vs. Elche CF: Both Teams to Score"
+    },
+    {
+      "timestamp": 1789766574.4525113,
+      "bankroll": 97.22,
+      "event": "lost: GoalLineGhost \u2014 Will Elche CF win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789766574.8183198,
+      "bankroll": 97.46,
+      "event": "won: GoalLineGhost \u2014 Will RCD Espanyol de Barcelona win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789766575.181266,
+      "bankroll": 92.34,
+      "event": "lost: RN1 \u2014 RCD Espanyol de Barcelona vs. Elche CF: O/U 4.5"
+    },
+    {
+      "timestamp": 1789766575.2814784,
+      "bankroll": 87.22,
+      "event": "lost: GoalLineGhost \u2014 RCD Espanyol de Barcelona vs. Elche CF: O/U 4.5"
+    },
+    {
+      "timestamp": 1789766575.381682,
+      "bankroll": 87.42,
+      "event": "won: RN1 \u2014 Will RCD Espanyol de Barcelona vs. Elche CF end in a draw?"
+    },
+    {
+      "timestamp": 1789766575.4818509,
+      "bankroll": 87.52,
+      "event": "won: GoalLineGhost \u2014 Will Elche CF win on 2026-09-18?"
     }
   ]
 }
