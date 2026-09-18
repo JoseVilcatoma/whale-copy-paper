@@ -139930,8 +139930,8 @@
     "title": "Counter-Strike: EYEBALLERS vs BBL (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 21777.2152,
-    "whale_pct": 20.669,
+    "whale_usd": 22297.2152,
+    "whale_pct": 21.163,
     "whale_value_at_open": 105359.3197,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -139942,8 +139942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789725983.7620254,
-    "fills": 12
+    "last_fill_at": 1789726316.0771074,
+    "fills": 13
   },
   {
     "timestamp": 1789706467,
