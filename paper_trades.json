@@ -140531,5 +140531,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789730862.1906316,
     "fills": 1
+  },
+  {
+    "timestamp": 1789730993,
+    "timestamp_added": 1789730993.506904,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-stefano-tubello-2026-09-17",
+    "title": "Ljubljana: Samira De Stefano vs Alice Tubello",
+    "outcome": "Samira De Stefano",
+    "side": "BUY",
+    "whale_usd": 4274.1140000000005,
+    "whale_pct": 1.911,
+    "whale_value_at_open": 223619.0395,
+    "paper_stake_usd": 3.33,
+    "odds_at_bet": 57,
+    "fee_usd": 0.072,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789730993.506916,
+    "fills": 1
   }
 ]
