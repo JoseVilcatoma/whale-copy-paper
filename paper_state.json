@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.686547101933655,
+  "bankroll": 58.57154710193365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28260,6 +28260,11 @@
       "timestamp": 1789692338.7572966,
       "bankroll": 63.69,
       "event": "won: UpTheBlues \u2014 Tiburon: Michael Zheng vs Trevor Svajda"
+    },
+    {
+      "timestamp": 1789701182.0219972,
+      "bankroll": 58.57,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Lions vs. Bills: O/U 55.5"
     }
   ]
 }
