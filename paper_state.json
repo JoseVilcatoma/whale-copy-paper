@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.81781097846697,
+  "bankroll": 96.54031097846696,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28445,6 +28445,11 @@
       "timestamp": 1789749924.1273952,
       "bankroll": 93.82,
       "event": "won: Flaznorp \u2014 Will Hapoel Petah Tikva FC win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789750237.5446863,
+      "bankroll": 96.54,
+      "event": "won: UpTheBlues \u2014 Valencia: Irene Burillo Escorihuela vs Alicia Herrero Linana"
     }
   ]
 }
