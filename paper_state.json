@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.1690550940011,
+  "bankroll": 80.04349953844554,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28375,6 +28375,11 @@
       "timestamp": 1789730801.0337367,
       "bankroll": 78.17,
       "event": "won: RN1 \u2014 Counter-Strike: MOUZ vs Natus Vincere - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789734099.2931008,
+      "bankroll": 80.04,
+      "event": "won: RN1 \u2014 M25 Sintra: Patrick Schoen vs Robin Bertrand"
     }
   ]
 }
