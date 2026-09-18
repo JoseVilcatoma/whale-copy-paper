@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 13:28:26 (hora de Perú)
+Actualizado: 2026-09-18 13:30:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $88.54
-**Retorno acumulado:** -82.29%
+**Bankroll actual:** $91.64
+**Retorno acumulado:** -81.67%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 13:28:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.54 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.00)
+**Capital comprometido ahora mismo:** $91.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -55,7 +56,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | UpTheBlues | 19 | 5 | 4 | +4.34 USD |
-| lllllllIlll | 2 | 1 | 1 | +4.31 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -140,7 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| GoalLineGhost | 82 | 36 | 2 | -13.35 USD |
+| GoalLineGhost | 82 | 36 | 3 | -13.35 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 145 | 55 | 4 | -21.94 USD |
-| RN1 | 544 | 256 | 0 | -23.12 USD |
+| RN1 | 544 | 256 | 1 | -23.12 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5477
-- **Aciertos:** 3435 (62.7%)
+- **Apuestas resueltas:** 5478
+- **Aciertos:** 3436 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,239.75
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $506.67 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,244.75
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $506.77 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2835 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1606 | 68.6% | 67.9% | +0.8 pp |
+| 60-79% | 1607 | 68.6% | 67.9% | +0.8 pp |
 | 80-94% | 746 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 290 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1028,10 +1028,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Sarpsborg 08 FF vs. KFUM-Kameratene Oslo | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | BrotherObama | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers (BUY) | 59% | 3.62 | 17.6% | ⏳ pendiente | — |
 | BrotherObama | Kansas City Royals vs. Pittsburgh Pirate | Under (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
-| lllllllIlll | Counter-Strike: Infinite vs EYEBALLERS ( | EYEBALLERS (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: Infinite vs EYEBALLERS ( | EYEBALLERS (BUY) | 61% | 5.00 | 3.1% | ✅ ganada | +3.10 |
 | UpTheBlues | SpVgg Greuther Fürth vs. 1. FC Magdeburg | Under (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 13.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 10.9% | ⏳ pendiente | — |
@@ -1056,5 +1058,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ✅ ganada | +1.87 |
 | RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ✅ ganada | +1.36 |
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 6.1% | ⏳ pendiente | — |
-| RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
-| Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.4% | ✅ ganada | +0.36 |

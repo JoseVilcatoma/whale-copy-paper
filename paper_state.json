@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.54168779006116,
+  "bankroll": 91.64040910153658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28465,6 +28465,11 @@
       "timestamp": 1789754312.0069423,
       "bankroll": 88.54,
       "event": "lost: GoalLineGhost \u2014 Will FC Kyzylzhar SK vs. Kaisar Kyzylorda end in a draw?"
+    },
+    {
+      "timestamp": 1789756184.0995815,
+      "bankroll": 91.64,
+      "event": "won: lllllllIlll \u2014 Counter-Strike: Infinite vs EYEBALLERS (BO1) - Logitech G Play Connect Group B"
     }
   ]
 }
