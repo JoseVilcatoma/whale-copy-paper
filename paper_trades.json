@@ -140028,8 +140028,8 @@
     "title": "W35 Shenyang: Kristiana Sidorova vs Yufei Ren",
     "outcome": "Kristiana Sidorova",
     "side": "BUY",
-    "whale_usd": 2341.3413,
-    "whale_pct": 1.896,
+    "whale_usd": 2889.1413000000002,
+    "whale_pct": 2.34,
     "whale_value_at_open": 123480.4126,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -140040,8 +140040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789708052.7839987,
-    "fills": 4
+    "last_fill_at": 1789708358.3022377,
+    "fills": 5
   },
   {
     "timestamp": 1789707675,
