@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 05:55:12 (hora de Perú)
+Actualizado: 2026-09-18 05:57:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.84
-**Retorno acumulado:** -85.03%
+**Bankroll actual:** $76.20
+**Retorno acumulado:** -84.76%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 05:55:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.84 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $69.84 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 538 | 254 | 5 | -31.22 USD |
+| RN1 | 539 | 254 | 4 | -29.86 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5458
-- **Aciertos:** 3421 (62.7%)
+- **Apuestas resueltas:** 5459
+- **Aciertos:** 3422 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,154.06
-- **ROI sobre lo apostado:** -2.02%
-- **Comisiones pagadas (taker fee):** $505.29 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,159.06
+- **ROI sobre lo apostado:** -2.01%
+- **Comisiones pagadas (taker fee):** $505.34 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2827 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1599 | 68.5% | 67.8% | +0.6 pp |
+| 60-79% | 1600 | 68.5% | 67.9% | +0.6 pp |
 | 80-94% | 744 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1031,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere -  | Natus Vincere (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Team WE vs JD Gaming - Game 3 Winne | Team WE (BUY) | 48% | 2.46 | 19.8% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ✅ ganada | +1.36 |
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
 | Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
