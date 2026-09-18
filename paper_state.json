@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.51710763214054,
+  "bankroll": 90.07596477499769,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28420,6 +28420,11 @@
       "timestamp": 1789743490.8776917,
       "bankroll": 87.52,
       "event": "won: RN1 \u2014 Will Ningbo Professional FC win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789745445.4921913,
+      "bankroll": 90.08,
+      "event": "won: UpTheBlues \u2014 Nantong Zhiyun vs. Guangxi Hengchen FC: O/U 1.5"
     }
   ]
 }
