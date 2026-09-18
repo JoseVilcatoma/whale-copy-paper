@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.41498097339958,
+  "bankroll": 72.19696455303833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28330,6 +28330,16 @@
       "timestamp": 1789713835.1304667,
       "bankroll": 69.41,
       "event": "won: Flaznorp \u2014 W35 Shenyang: Kristiana Sidorova vs Yufei Ren"
+    },
+    {
+      "timestamp": 1789718961.7935302,
+      "bankroll": 71.48,
+      "event": "won: Flaznorp \u2014 Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic"
+    },
+    {
+      "timestamp": 1789718961.8936183,
+      "bankroll": 72.2,
+      "event": "won: UpTheBlues \u2014 Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic"
     }
   ]
 }

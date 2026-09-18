@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 03:07:23 (hora de Perú)
+Actualizado: 2026-09-18 03:09:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.41
-**Retorno acumulado:** -86.12%
+**Bankroll actual:** $72.20
+**Retorno acumulado:** -85.56%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 03:07:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.41 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $59.41 en 12 posiciones abiertas (disponible para nuevas apuestas: $12.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -110,8 +110,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
+| UpTheBlues | 15 | 5 | 2 | -3.83 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| UpTheBlues | 14 | 5 | 3 | -4.54 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | Kch-Temp | 3 | 3 | 0 | -5.06 USD |
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| Flaznorp | 142 | 55 | 2 | -23.06 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 141 | 55 | 3 | -25.13 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | RN1 | 536 | 253 | 3 | -30.78 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5451
-- **Aciertos:** 3415 (62.6%)
+- **Apuestas resueltas:** 5453
+- **Aciertos:** 3417 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,121.86
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $504.79 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,131.86
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $504.90 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,8 +180,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2825 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1596 | 68.4% | 67.8% | +0.6 pp |
-| 80-94% | 742 | 85.7% | 86.6% | -0.8 pp |
+| 60-79% | 1597 | 68.4% | 67.8% | +0.6 pp |
+| 80-94% | 743 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1034,8 +1034,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 4.5% | ⏳ pendiente | — |
-| Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
+| UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 4.5% | ✅ ganada | +0.71 |
+| Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 5.6% | ✅ ganada | +2.07 |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ✅ ganada | +1.13 |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
