@@ -140829,8 +140829,8 @@
     "title": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 1199.9771999999998,
-    "whale_pct": 5.127,
+    "whale_usd": 3399.9772,
+    "whale_pct": 14.528,
     "whale_value_at_open": 23403.5698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -140841,7 +140841,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789745942.2423441,
-    "fills": 1
+    "last_fill_at": 1789745981.9251392,
+    "fills": 2
   }
 ]
