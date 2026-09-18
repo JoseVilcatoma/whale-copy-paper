@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.66936670636534,
+  "bankroll": 79.19287175687039,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28400,6 +28400,16 @@
       "timestamp": 1789738171.5861437,
       "bankroll": 81.67,
       "event": "won: RN1 \u2014 Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs"
+    },
+    {
+      "timestamp": 1789738481.824933,
+      "bankroll": 79.15,
+      "event": "lost: BrotherObama \u2014 LoL: Team WE vs JD Gaming - Game 3 Winner"
+    },
+    {
+      "timestamp": 1789738544.1778727,
+      "bankroll": 79.19,
+      "event": "won: Flaznorp \u2014 Biella: Alex Barrena vs Juan Martin"
     }
   ]
 }

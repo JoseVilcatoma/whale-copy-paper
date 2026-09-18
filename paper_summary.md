@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 08:33:47 (hora de Perú)
+Actualizado: 2026-09-18 08:35:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.67
-**Retorno acumulado:** -83.67%
+**Bankroll actual:** $79.19
+**Retorno acumulado:** -84.16%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 08:33:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.98 en 15 posiciones abiertas (disponible para nuevas apuestas: $11.69)
+**Capital comprometido ahora mismo:** $67.52 en 14 posiciones abiertas (disponible para nuevas apuestas: $11.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -110,7 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| UpTheBlues | 15 | 5 | 3 | -3.83 USD |
+| UpTheBlues | 15 | 5 | 4 | -3.83 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -144,13 +144,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| BrotherObama | 14 | 16 | 1 | -16.39 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 143 | 55 | 4 | -22.35 USD |
+| BrotherObama | 14 | 17 | 0 | -18.91 USD |
+| Flaznorp | 144 | 55 | 3 | -22.30 USD |
 | RN1 | 543 | 256 | 1 | -24.40 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5465
-- **Aciertos:** 3426 (62.7%)
+- **Apuestas resueltas:** 5467
+- **Aciertos:** 3427 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,184.77
-- **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $505.90 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,192.23
+- **ROI sobre lo apostado:** -2.00%
+- **Comisiones pagadas (taker fee):** $505.96 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,10 +179,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2831 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2832 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1602 | 68.5% | 67.9% | +0.7 pp |
 | 80-94% | 744 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
+| 95-99% (casi seguro) | 289 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1027,15 +1027,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Nantong Zhiyun vs. Guangxi Hengchen FC:  | Under (BUY) | 49% | 2.52 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 1.5% | ✅ ganada | +6.76 |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 8.1% | ❌ perdida | -2.45 |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere -  | Natus Vincere (BUY) | 71% | 5.00 | 0.4% | ✅ ganada | +1.97 |
-| BrotherObama | LoL: Team WE vs JD Gaming - Game 3 Winne | Team WE (BUY) | 48% | 2.46 | 19.8% | ⏳ pendiente | — |
+| BrotherObama | LoL: Team WE vs JD Gaming - Game 3 Winne | Team WE (BUY) | 48% | 2.46 | 19.8% | ❌ perdida | -2.52 |
 | RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ✅ ganada | +1.87 |
 | RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ✅ ganada | +1.36 |
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -1056,4 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ✅ ganada | +2.38 |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 31.6% | ⏳ pendiente | — |
-| Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
