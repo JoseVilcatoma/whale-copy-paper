@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 18:17:12 (hora de Perú)
+Actualizado: 2026-09-18 18:19:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.31
@@ -1033,7 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.3% | ⏳ pendiente | — |
+| UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |

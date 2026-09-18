@@ -141731,8 +141731,8 @@
     "title": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3564.63,
-    "whale_pct": 1.301,
+    "whale_usd": 4759.74,
+    "whale_pct": 1.737,
     "whale_value_at_open": 273974.2629,
     "paper_stake_usd": 3.69,
     "odds_at_bet": 46,
@@ -141743,7 +141743,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789773110.7597055,
-    "fills": 1
+    "last_fill_at": 1789773525.1337473,
+    "fills": 2
   }
 ]
