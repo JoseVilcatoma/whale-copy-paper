@@ -140905,8 +140905,8 @@
     "title": "SpVgg Greuther F\u00fcrth vs. 1. FC Magdeburg: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 824.04,
-    "whale_pct": 0.136,
+    "whale_usd": 2500.07,
+    "whale_pct": 0.412,
     "whale_value_at_open": 606710.3107,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -140917,8 +140917,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789748049.6555467,
-    "fills": 1
+    "last_fill_at": 1789751247.526656,
+    "fills": 3
   },
   {
     "timestamp": 1789750092,
