@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.31388809226854,
+  "bankroll": 100.15839602877648,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28520,6 +28520,11 @@
       "timestamp": 1789764571.6990175,
       "bankroll": 97.31,
       "event": "won: RN1 \u2014 FC Bayern M\u00fcnchen vs. 1. FC Union Berlin: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1789765075.92319,
+      "bankroll": 100.16,
+      "event": "won: GoalLineGhost \u2014 Sarpsborg 08 FF vs. KFUM-Kameratene Oslo: O/U 3.5"
     }
   ]
 }
