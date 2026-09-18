@@ -141575,5 +141575,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789768895.8526921,
     "fills": 2
+  },
+  {
+    "timestamp": 1789769233,
+    "timestamp_added": 1789769233.536815,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-shin-tdp-2026-09-18-game1",
+    "title": "Counter-Strike: ShindeN vs Turma do Pagode - Map 1 Winner",
+    "outcome": "Turma do Pagode",
+    "side": "BUY",
+    "whale_usd": 2249.0488000000005,
+    "whale_pct": 1.659,
+    "whale_value_at_open": 135544.3329,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789769238.268596,
+    "fills": 3
   }
 ]
