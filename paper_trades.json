@@ -140709,8 +140709,8 @@
     "title": "Valencia: Irene Burillo Escorihuela vs Alicia Herrero Linana",
     "outcome": "Alicia Herrero Linana",
     "side": "BUY",
-    "whale_usd": 2315.0104,
-    "whale_pct": 0.365,
+    "whale_usd": 5361.3304,
+    "whale_pct": 0.846,
     "whale_value_at_open": 633610.1298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -140721,8 +140721,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789746096.9523199,
-    "fills": 3
+    "last_fill_at": 1789746850.7370512,
+    "fills": 4
   },
   {
     "timestamp": 1789743427,
