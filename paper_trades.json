@@ -140421,8 +140421,8 @@
     "title": "LoL: Team WE vs JD Gaming - Game 3 Winner",
     "outcome": "Team WE",
     "side": "BUY",
-    "whale_usd": 13000.0,
-    "whale_pct": 13.542,
+    "whale_usd": 19000.0,
+    "whale_pct": 19.793,
     "whale_value_at_open": 95995.8954,
     "paper_stake_usd": 2.46,
     "odds_at_bet": 48,
@@ -140433,7 +140433,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789726945.6837158,
-    "fills": 2
+    "last_fill_at": 1789727005.811783,
+    "fills": 3
   }
 ]
