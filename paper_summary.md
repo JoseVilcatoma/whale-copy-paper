@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 16:34:31 (hora de Perú)
+Actualizado: 2026-09-18 16:36:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 16:34:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.47 en 12 posiciones abiertas (disponible para nuevas apuestas: $30.05)
+**Capital comprometido ahora mismo:** $62.47 en 13 posiciones abiertas (disponible para nuevas apuestas: $25.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| UpTheBlues | 22 | 5 | 3 | +7.61 USD |
+| UpTheBlues | 22 | 5 | 4 | +7.61 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -1030,11 +1030,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CA Central Córdoba vs. CSyD Defensa y Ju | Under (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Spread: UMass (-33.5) | Stonehill (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
+| UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
 | RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
@@ -1059,4 +1060,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ✅ ganada | +6.76 |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
-| GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ❌ perdida | -5.05 |
