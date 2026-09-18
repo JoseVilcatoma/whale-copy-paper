@@ -139035,8 +139035,8 @@
     "title": "Ljubljana: Anastasiia Sobolieva vs Laura Samson",
     "outcome": "Anastasiia Sobolieva",
     "side": "BUY",
-    "whale_usd": 4559.463273,
-    "whale_pct": 2.003,
+    "whale_usd": 8087.463273,
+    "whale_pct": 3.552,
     "whale_value_at_open": 227670.9622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -139047,8 +139047,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789719045.1693292,
-    "fills": 4
+    "last_fill_at": 1789720760.7093801,
+    "fills": 5
   },
   {
     "timestamp": 1789636686,
@@ -140200,8 +140200,8 @@
     "title": "Will FC Bayern M\u00fcnchen win on 2026-09-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 53034.17999999999,
-    "whale_pct": 25.727,
+    "whale_usd": 66373.17,
+    "whale_pct": 32.197,
     "whale_value_at_open": 206144.6395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -140212,8 +140212,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789717309.6540625,
-    "fills": 8
+    "last_fill_at": 1789720750.793444,
+    "fills": 10
   },
   {
     "timestamp": 1789713974,
