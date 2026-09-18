@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 07:51:08 (hora de Perú)
+Actualizado: 2026-09-18 07:53:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.04
-**Retorno acumulado:** -83.99%
+**Bankroll actual:** $77.36
+**Retorno acumulado:** -84.53%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 07:51:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.87)
+**Capital comprometido ahora mismo:** $69.84 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,8 +153,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 143 | 55 | 3 | -22.35 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| RN1 | 541 | 254 | 5 | -26.02 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 542 | 255 | 3 | -28.71 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5461
-- **Aciertos:** 3424 (62.7%)
+- **Apuestas resueltas:** 5463
+- **Aciertos:** 3425 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
-- **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,169.06
-- **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $505.49 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
+- **Stake promedio:** $4.97
+- **Total apostado (suma de stakes):** $27,177.39
+- **ROI sobre lo apostado:** -2.01%
+- **Comisiones pagadas (taker fee):** $505.69 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2827 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2829 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1602 | 68.5% | 67.9% | +0.7 pp |
 | 80-94% | 744 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1028,7 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ⏳ pendiente | — |
+| RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 8.1% | ⏳ pendiente | — |

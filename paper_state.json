@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.04349953844554,
+  "bankroll": 77.35560480160343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28380,6 +28380,16 @@
       "timestamp": 1789734099.2931008,
       "bankroll": 80.04,
       "event": "won: RN1 \u2014 M25 Sintra: Patrick Schoen vs Robin Bertrand"
+    },
+    {
+      "timestamp": 1789735977.0549982,
+      "bankroll": 74.92,
+      "event": "lost: RN1 \u2014 Ljubljana: Samira De Stefano vs Alice Tubello"
+    },
+    {
+      "timestamp": 1789735980.2916527,
+      "bankroll": 77.36,
+      "event": "won: RN1 \u2014 Ljubljana: Samira De Stefano vs Alice Tubello"
     }
   ]
 }
