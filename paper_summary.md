@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 18:54:16 (hora de Perú)
+Actualizado: 2026-09-18 18:56:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 18:54:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.31 en 15 posiciones abiertas (disponible para nuevas apuestas: $9.61)
+**Capital comprometido ahora mismo:** $77.31 en 16 posiciones abiertas (disponible para nuevas apuestas: $4.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 550 | 260 | 2 | -32.92 USD |
+| RN1 | 550 | 260 | 3 | -32.92 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1033,6 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1062,4 +1063,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ✅ ganada | +0.47 |
-| GoalLineGhost | Sarpsborg 08 FF vs. KFUM-Kameratene Oslo | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
