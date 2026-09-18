@@ -141537,8 +141537,8 @@
     "title": "Boston Red Sox vs. Tampa Bay Rays: O/U 6.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 15747.1468,
-    "whale_pct": 11.794,
+    "whale_usd": 30787.319199999998,
+    "whale_pct": 23.058,
     "whale_value_at_open": 133521.6479,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -141549,8 +141549,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789768135.0447056,
-    "fills": 1
+    "last_fill_at": 1789770577.7250068,
+    "fills": 2
   },
   {
     "timestamp": 1789768836,
