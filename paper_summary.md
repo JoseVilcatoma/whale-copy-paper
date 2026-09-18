@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 12:57:33 (hora de Perú)
+Actualizado: 2026-09-18 12:59:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $93.59
-**Retorno acumulado:** -81.28%
+**Bankroll actual:** $88.54
+**Retorno acumulado:** -82.29%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 12:57:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.05)
+**Capital comprometido ahora mismo:** $86.54 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,7 +132,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| GoalLineGhost | 82 | 35 | 3 | -8.30 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -141,6 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| GoalLineGhost | 82 | 36 | 2 | -13.35 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5476
+- **Apuestas resueltas:** 5477
 - **Aciertos:** 3435 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,234.75
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $506.62 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,239.75
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $506.67 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2835 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1606 | 68.6% | 67.9% | +0.8 pp |
-| 80-94% | 745 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 746 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 290 | 97.2% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1039,7 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ❌ perdida | -5.05 |
 | UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | UpTheBlues | Caldas da Rainha: Malaika Rapolu vs Gabr | Gabriela Knutson (BUY) | 63% | 5.00 | 1.0% | ✅ ganada | +2.84 |
 | GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ✅ ganada | +2.17 |
