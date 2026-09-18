@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 22:19:21 (hora de Perú)
+Actualizado: 2026-09-17 22:21:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.57
-**Retorno acumulado:** -88.29%
+**Bankroll actual:** $55.89
+**Retorno acumulado:** -88.82%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 22:19:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.62 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.95)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 137 | 55 | 1 | -32.76 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 533 | 252 | 4 | -33.30 USD |
+| RN1 | 533 | 253 | 3 | -35.99 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5438
+- **Apuestas resueltas:** 5439
 - **Aciertos:** 3405 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,059.24
-- **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $503.80 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,061.86
+- **ROI sobre lo apostado:** -2.09%
+- **Comisiones pagadas (taker fee):** $503.86 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -178,7 +178,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2819 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2820 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1594 | 68.4% | 67.8% | +0.5 pp |
 | 80-94% | 737 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Will Independiente del Valle win on 2026 | No (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Spread: Pittsburgh (-10.5) | Syracuse (BUY) | 50% | 2.62 | 2.1% | ⏳ pendiente | — |
+| RN1 | Spread: Pittsburgh (-10.5) | Syracuse (BUY) | 50% | 2.62 | 2.1% | ❌ perdida | -2.69 |
 | UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ✅ ganada | +0.65 |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
