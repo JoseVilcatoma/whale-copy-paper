@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 00:37:39 (hora de Perú)
+Actualizado: 2026-09-18 00:39:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 00:37:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $10.31)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $5.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| lllllllIlll | 0 | 0 | 2 | +0.00 USD |
+| lllllllIlll | 0 | 0 | 3 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -1025,10 +1025,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
@@ -1054,4 +1055,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 55% | 5.00 | 31.2% | ✅ ganada | +3.98 |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ✅ ganada | +4.68 |
 | BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | 💰 vendida anticipada | -1.98 |
-| BrotherObama | San Diego Padres vs. Colorado Rockies: O | Over (BUY) | 54% | 5.00 | 131.8% | ✅ ganada | +4.14 |

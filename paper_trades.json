@@ -140028,8 +140028,8 @@
     "title": "W35 Shenyang: Kristiana Sidorova vs Yufei Ren",
     "outcome": "Kristiana Sidorova",
     "side": "BUY",
-    "whale_usd": 2889.1413000000002,
-    "whale_pct": 2.34,
+    "whale_usd": 4409.9813,
+    "whale_pct": 3.571,
     "whale_value_at_open": 123480.4126,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -140040,8 +140040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789708358.3022377,
-    "fills": 5
+    "last_fill_at": 1789709981.7612503,
+    "fills": 7
   },
   {
     "timestamp": 1789707675,
@@ -140115,6 +140115,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789709113.8532534,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789709915,
+    "timestamp_added": 1789709916.2284467,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-eye-tl1-2026-09-18",
+    "title": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect Group B",
+    "outcome": "EYEBALLERS",
+    "side": "BUY",
+    "whale_usd": 1306.653333,
+    "whale_pct": 1.121,
+    "whale_value_at_open": 116572.7141,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789709916.2284577,
     "fills": 1
   }
 ]
