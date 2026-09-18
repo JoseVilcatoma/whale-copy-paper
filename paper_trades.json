@@ -140092,5 +140092,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789708903.8704405,
     "fills": 1
+  },
+  {
+    "timestamp": 1789709113,
+    "timestamp_added": 1789709113.8532457,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "lal-esp-elc-2026-09-18-total-2pt5",
+    "title": "RCD Espanyol de Barcelona vs. Elche CF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1127.6595750000001,
+    "whale_pct": 0.29,
+    "whale_value_at_open": 388758.5711,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789709113.8532534,
+    "fills": 1
   }
 ]
