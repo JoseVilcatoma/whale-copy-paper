@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 18:10:57 (hora de Perú)
+Actualizado: 2026-09-18 18:13:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 18:10:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.69)
+**Capital comprometido ahora mismo:** $82.31 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| UpTheBlues | 25 | 5 | 4 | +10.11 USD |
+| UpTheBlues | 25 | 5 | 5 | +10.11 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -1033,6 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -1062,4 +1063,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ✅ ganada | +0.47 |
 | GoalLineGhost | Sarpsborg 08 FF vs. KFUM-Kameratene Oslo | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
-| UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 1.6% | ✅ ganada | +2.97 |

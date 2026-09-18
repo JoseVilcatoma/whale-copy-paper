@@ -141721,5 +141721,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789772970.558563,
     "fills": 1
+  },
+  {
+    "timestamp": 1789773110,
+    "timestamp_added": 1789773110.75969,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "epl-tot-ast-2026-09-19-total-2pt5",
+    "title": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3564.63,
+    "whale_pct": 1.301,
+    "whale_value_at_open": 273974.2629,
+    "paper_stake_usd": 3.69,
+    "odds_at_bet": 46,
+    "fee_usd": 0.1,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789773110.7597055,
+    "fills": 1
   }
 ]
