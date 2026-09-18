@@ -141169,8 +141169,8 @@
     "title": "Will RCD Espanyol de Barcelona win on 2026-09-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2718.3900000000003,
-    "whale_pct": 0.288,
+    "whale_usd": 7943.39,
+    "whale_pct": 0.843,
     "whale_value_at_open": 942357.3718,
     "paper_stake_usd": 4.84,
     "odds_at_bet": 95,
@@ -141181,7 +141181,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789763443.8849614,
-    "fills": 1
+    "last_fill_at": 1789763683.240278,
+    "fills": 2
   }
 ]

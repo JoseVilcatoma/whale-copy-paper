@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 15:33:14 (hora de Perú)
+Actualizado: 2026-09-18 15:35:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.29
@@ -1028,7 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 0.8% | ⏳ pendiente | — |
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
