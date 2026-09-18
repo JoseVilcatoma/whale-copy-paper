@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 15:45:27 (hora de Perú)
+Actualizado: 2026-09-18 15:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $93.29
-**Retorno acumulado:** -81.34%
+**Bankroll actual:** $94.57
+**Retorno acumulado:** -81.09%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 15:45:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.29 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $88.29 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| UpTheBlues | 22 | 5 | 1 | +7.61 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
-| UpTheBlues | 21 | 5 | 2 | +7.36 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -140,7 +140,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| GoalLineGhost | 82 | 36 | 6 | -13.35 USD |
+| GoalLineGhost | 84 | 36 | 5 | -12.57 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 145 | 55 | 4 | -21.94 USD |
-| RN1 | 544 | 256 | 3 | -23.12 USD |
+| Flaznorp | 146 | 55 | 4 | -21.69 USD |
+| RN1 | 544 | 256 | 4 | -23.12 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5483
-- **Aciertos:** 3439 (62.7%)
+- **Apuestas resueltas:** 5487
+- **Aciertos:** 3443 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,267.67
+- **Total apostado (suma de stakes):** $27,287.67
 - **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $507.23 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $507.29 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -181,8 +181,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2838 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1608 | 68.7% | 67.9% | +0.8 pp |
-| 80-94% | 746 | 85.7% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 291 | 97.3% | 97.4% | -0.1 pp |
+| 80-94% | 747 | 85.7% | 86.6% | -0.9 pp |
+| 95-99% (casi seguro) | 294 | 97.3% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1023,16 +1023,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-pacheco-sekulic-2026-09-17 | Flaznorp, UpTheBlues |
 | bun-bay-uni-2026-09-18-bay | Flaznorp, GoalLineGhost, UpTheBlues |
 | lol-navi-mkoi-2026-09-18 | BrotherObama, TAIWANNUMBERONE |
+| lal-esp-elc-2026-09-18-total-4pt5 | GoalLineGhost, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ⏳ pendiente | — |
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
-| GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ⏳ pendiente | — |
+| GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Sarpsborg 08 FF vs. KFUM-Kameratene Oslo | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 1.6% | ✅ ganada | +2.97 |
@@ -1055,6 +1059,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
-| RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ✅ ganada | +1.28 |
-| RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 1.5% | ✅ ganada | +6.76 |
-| RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 8.1% | ❌ perdida | -2.45 |

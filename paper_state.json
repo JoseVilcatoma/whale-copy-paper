@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.2851921858358,
+  "bankroll": 94.56622142560188,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28495,6 +28495,26 @@
       "timestamp": 1789763435.4234219,
       "bankroll": 93.29,
       "event": "won: UpTheBlues \u2014 SpVgg Greuther F\u00fcrth vs. 1. FC Magdeburg: O/U 7.5"
+    },
+    {
+      "timestamp": 1789764379.9084299,
+      "bankroll": 93.54,
+      "event": "won: UpTheBlues \u2014 Will FC Bayern M\u00fcnchen win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789764380.0086343,
+      "bankroll": 93.79,
+      "event": "won: Flaznorp \u2014 Will FC Bayern M\u00fcnchen win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789764380.108831,
+      "bankroll": 94.04,
+      "event": "won: GoalLineGhost \u2014 Will FC Bayern M\u00fcnchen win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789764444.4921536,
+      "bankroll": 94.57,
+      "event": "won: GoalLineGhost \u2014 FC Bayern M\u00fcnchen vs. 1. FC Union Berlin: O/U 2.5"
     }
   ]
 }
