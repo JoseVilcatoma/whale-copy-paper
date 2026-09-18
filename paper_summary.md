@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 00:39:43 (hora de Perú)
+Actualizado: 2026-09-18 00:41:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 00:39:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $5.31)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 139 | 55 | 3 | -27.17 USD |
+| Flaznorp | 139 | 55 | 4 | -27.17 USD |
 | RN1 | 535 | 253 | 3 | -32.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1019,17 +1019,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-det-tor-2026-09-16 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, wr0ngw4yb3tt0r |
 | lib-fla-ind1-2026-09-17-spread-home-1pt5 | Flaznorp, GoalLineGhost, UpTheBlues |
 | wta-stearns-stephen-2026-09-17 | Flaznorp, RN1 |
+| itf-sidoro1-ren1-2026-09-18 | Flaznorp, RN1 |
 | atp-pacheco-sekulic-2026-09-17 | Flaznorp, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.1% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
+| RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
@@ -1054,4 +1056,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Navbahor (-1.5) | Navbahor (BUY) | 43% | 2.33 | 0.2% | ❌ perdida | -2.40 |
 | BrotherObama | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 55% | 5.00 | 31.2% | ✅ ganada | +3.98 |
 | BrotherObama | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 51% | 5.00 | 26.0% | ✅ ganada | +4.68 |
-| BrotherObama | Los Angeles Dodgers vs. Cincinnati Reds: | Over (BUY) | 54% | 5.00 | 59.9% | 💰 vendida anticipada | -1.98 |
