@@ -140723,5 +140723,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789743320.5302694,
     "fills": 1
+  },
+  {
+    "timestamp": 1789743427,
+    "timestamp_added": 1789743428.3333082,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "kaz1-kyz-kky-2026-09-18-draw",
+    "title": "Will FC Kyzylzhar SK vs. Kaisar Kyzylorda end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 772.9098,
+    "whale_pct": 0.27,
+    "whale_value_at_open": 286685.3159,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789743428.333324,
+    "fills": 1
   }
 ]
