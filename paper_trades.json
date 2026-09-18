@@ -141649,5 +141649,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789771909.5511465,
     "fills": 2
+  },
+  {
+    "timestamp": 1789772671,
+    "timestamp_added": 1789772672.104529,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-mia-wake-2026-09-18-spread-away-21pt5",
+    "title": "Spread: Miami (FL) (-21.5)",
+    "outcome": "Wake Forest",
+    "side": "BUY",
+    "whale_usd": 5313.280000000001,
+    "whale_pct": 2.318,
+    "whale_value_at_open": 229258.7519,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789772672.104544,
+    "fills": 1
   }
 ]
