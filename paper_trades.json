@@ -140685,8 +140685,8 @@
     "title": "Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson",
     "outcome": "Gabriela Knutson",
     "side": "BUY",
-    "whale_usd": 1890.3288,
-    "whale_pct": 0.347,
+    "whale_usd": 5573.1088,
+    "whale_pct": 1.023,
     "whale_value_at_open": 544579.3219,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -140697,7 +140697,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789738707.8731017,
-    "fills": 2
+    "last_fill_at": 1789739395.140942,
+    "fills": 3
   }
 ]
