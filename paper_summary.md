@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 15:47:30 (hora de Perú)
+Actualizado: 2026-09-18 15:49:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.57
-**Retorno acumulado:** -81.09%
+**Bankroll actual:** $97.31
+**Retorno acumulado:** -80.54%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 15:47:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.29 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.28)
+**Capital comprometido ahora mismo:** $88.46 en 18 posiciones abiertas (disponible para nuevas apuestas: $8.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| RN1 | 545 | 256 | 4 | -20.37 USD |
 | Flaznorp | 146 | 55 | 4 | -21.69 USD |
-| RN1 | 544 | 256 | 4 | -23.12 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5487
-- **Aciertos:** 3443 (62.7%)
+- **Apuestas resueltas:** 5488
+- **Aciertos:** 3444 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,287.67
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $507.29 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,292.50
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $507.38 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2838 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1608 | 68.7% | 67.9% | +0.8 pp |
+| 60-79% | 1609 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 747 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 294 | 97.3% | 97.3% | -0.1 pp |
 
@@ -1022,6 +1022,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-sidoro1-ren1-2026-09-18 | Flaznorp, RN1 |
 | atp-pacheco-sekulic-2026-09-17 | Flaznorp, UpTheBlues |
 | bun-bay-uni-2026-09-18-bay | Flaznorp, GoalLineGhost, UpTheBlues |
+| lal-esp-elc-2026-09-18-draw | GoalLineGhost, RN1 |
 | lol-navi-mkoi-2026-09-18 | BrotherObama, TAIWANNUMBERONE |
 | lal-esp-elc-2026-09-18-total-4pt5 | GoalLineGhost, RN1 |
 
@@ -1029,11 +1030,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Will Brentford FC vs. Chelsea FC end in  | No (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ⏳ pendiente | — |
-| RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ⏳ pendiente | — |
+| RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ✅ ganada | +2.75 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
@@ -1058,4 +1060,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Nantong Zhiyun vs. Guangxi Hengchen FC:  | Under (BUY) | 49% | 2.52 | 0.2% | ✅ ganada | +2.56 |
 | Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 6.5% | ⏳ pendiente | — |
-| RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |

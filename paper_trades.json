@@ -141152,8 +141152,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.089,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.75,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -141193,8 +141193,8 @@
     "title": "Will Brentford FC vs. Chelsea FC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6164.779930000001,
-    "whale_pct": 0.43,
+    "whale_usd": 16049.591932000001,
+    "whale_pct": 1.12,
     "whale_value_at_open": 1432412.7286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -141205,8 +141205,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789764415.4633954,
-    "fills": 2
+    "last_fill_at": 1789764541.590628,
+    "fills": 5
   },
   {
     "timestamp": 1789764386,
@@ -141241,8 +141241,8 @@
     "title": "RCD Espanyol de Barcelona vs. Elche CF: O/U 4.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2665.0,
-    "whale_pct": 0.31,
+    "whale_usd": 3883.0018,
+    "whale_pct": 0.451,
     "whale_value_at_open": 860982.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -141255,7 +141255,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789764420.652281,
-    "fills": 2
+    "last_fill_at": 1789764534.2858124,
+    "fills": 3
+  },
+  {
+    "timestamp": 1789764458,
+    "timestamp_added": 1789764458.9488704,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-esp-elc-2026-09-18-draw",
+    "title": "Will RCD Espanyol de Barcelona vs. Elche CF end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2901.7799999999997,
+    "whale_pct": 0.319,
+    "whale_value_at_open": 910569.0372,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789764458.9488807,
+    "fills": 1
   }
 ]
