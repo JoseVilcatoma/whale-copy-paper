@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.35560480160343,
+  "bankroll": 81.66936670636534,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28390,6 +28390,16 @@
       "timestamp": 1789735980.2916527,
       "bankroll": 77.36,
       "event": "won: RN1 \u2014 Ljubljana: Samira De Stefano vs Alice Tubello"
+    },
+    {
+      "timestamp": 1789738171.4859428,
+      "bankroll": 74.91,
+      "event": "lost: RN1 \u2014 Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs"
+    },
+    {
+      "timestamp": 1789738171.5861437,
+      "bankroll": 81.67,
+      "event": "won: RN1 \u2014 Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs"
     }
   ]
 }
