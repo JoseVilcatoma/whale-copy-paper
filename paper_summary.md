@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 01:04:27 (hora de Perú)
+Actualizado: 2026-09-18 01:06:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.31
@@ -1029,7 +1029,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 2.3% | ⏳ pendiente | — |
+| UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ⏳ pendiente | — |
