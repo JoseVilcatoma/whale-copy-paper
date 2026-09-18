@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.45846689244546,
+  "bankroll": 93.81781097846697,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28440,6 +28440,11 @@
       "timestamp": 1789748041.734218,
       "bankroll": 93.46,
       "event": "venta anticipada: BrotherObama \u2014 LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs (+0.49 USD)"
+    },
+    {
+      "timestamp": 1789749924.1273952,
+      "bankroll": 93.82,
+      "event": "won: Flaznorp \u2014 Will Hapoel Petah Tikva FC win on 2026-09-18?"
     }
   ]
 }
