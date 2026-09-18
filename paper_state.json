@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.92047271150562,
+  "bankroll": 92.96797776201068,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28430,6 +28430,11 @@
       "timestamp": 1789745889.1540902,
       "bankroll": 92.92,
       "event": "won: UpTheBlues \u2014 Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1789747968.8058412,
+      "bankroll": 92.97,
+      "event": "won: UpTheBlues \u2014 Madura United vs. Psim Yogyakarta: O/U 4.5"
     }
   ]
 }
