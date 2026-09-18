@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 13:18:17 (hora de Perú)
+Actualizado: 2026-09-18 13:20:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.54
@@ -1028,7 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
+| UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | BrotherObama | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers (BUY) | 59% | 3.62 | 17.6% | ⏳ pendiente | — |
 | BrotherObama | Kansas City Royals vs. Pittsburgh Pirate | Under (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: Infinite vs EYEBALLERS ( | EYEBALLERS (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
