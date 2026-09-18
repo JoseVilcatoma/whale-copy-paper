@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 17:33:38 (hora de Perú)
+Actualizado: 2026-09-18 17:35:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.42
@@ -1032,7 +1032,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ⏳ pendiente | — |
 | UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |

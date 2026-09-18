@@ -141585,8 +141585,8 @@
     "title": "Counter-Strike: ShindeN vs Turma do Pagode - Map 1 Winner",
     "outcome": "Turma do Pagode",
     "side": "BUY",
-    "whale_usd": 2249.0488000000005,
-    "whale_pct": 1.659,
+    "whale_usd": 2956.9594000000006,
+    "whale_pct": 2.182,
     "whale_value_at_open": 135544.3329,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -141597,7 +141597,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789769238.268596,
-    "fills": 3
+    "last_fill_at": 1789770928.5735128,
+    "fills": 4
   }
 ]
