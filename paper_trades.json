@@ -140166,5 +140166,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789711101.5374143,
     "fills": 3
+  },
+  {
+    "timestamp": 1789712618,
+    "timestamp_added": 1789712618.9143212,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "bel1-kaa-sta-2026-09-18-sta",
+    "title": "Will Standard Liege win on 2026-09-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 573.96,
+    "whale_pct": 0.279,
+    "whale_value_at_open": 205447.1557,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789712618.9143274,
+    "fills": 1
   }
 ]
