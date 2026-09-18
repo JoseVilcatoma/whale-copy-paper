@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.54031097846696,
+  "bankroll": 98.70868779006116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28450,6 +28450,11 @@
       "timestamp": 1789750237.5446863,
       "bankroll": 96.54,
       "event": "won: UpTheBlues \u2014 Valencia: Irene Burillo Escorihuela vs Alicia Herrero Linana"
+    },
+    {
+      "timestamp": 1789750863.927808,
+      "bankroll": 98.71,
+      "event": "won: GoalLineGhost \u2014 Will Bandirmaspor vs. Umraniyespor end in a draw?"
     }
   ]
 }

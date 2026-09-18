@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 11:59:21 (hora de Perú)
+Actualizado: 2026-09-18 12:01:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $96.54
-**Retorno acumulado:** -80.69%
+**Bankroll actual:** $98.71
+**Retorno acumulado:** -80.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 11:59:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $96.54 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $91.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $7.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -132,6 +132,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| GoalLineGhost | 82 | 35 | 3 | -8.30 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -139,7 +140,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 81 | 35 | 4 | -10.47 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5474
-- **Aciertos:** 3434 (62.7%)
+- **Apuestas resueltas:** 5475
+- **Aciertos:** 3435 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,224.75
+- **Total apostado (suma de stakes):** $27,229.75
 - **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $506.43 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $506.51 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2834 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1605 | 68.6% | 67.9% | +0.7 pp |
+| 60-79% | 1606 | 68.6% | 67.9% | +0.8 pp |
 | 80-94% | 745 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 290 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1041,7 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | UpTheBlues | Caldas da Rainha: Malaika Rapolu vs Gabr | Gabriela Knutson (BUY) | 63% | 5.00 | 1.0% | ✅ ganada | +2.84 |
-| GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ✅ ganada | +2.17 |
 | UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | UpTheBlues | Nantong Zhiyun vs. Guangxi Hengchen FC:  | Under (BUY) | 49% | 2.52 | 0.2% | ✅ ganada | +2.56 |
 | Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
