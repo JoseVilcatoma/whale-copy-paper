@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 11:03:34 (hora de Perú)
+Actualizado: 2026-09-18 11:05:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.92
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 11:03:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.92)
+**Capital comprometido ahora mismo:** $92.92 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 |  | 2 | 0 | 0 | +2.66 USD |
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
-| TAIWANNUMBERONE | 38 | 26 | 1 | +2.36 USD |
+| TAIWANNUMBERONE | 38 | 26 | 2 | +2.36 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -1022,11 +1022,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-sidoro1-ren1-2026-09-18 | Flaznorp, RN1 |
 | atp-pacheco-sekulic-2026-09-17 | Flaznorp, UpTheBlues |
 | bun-bay-uni-2026-09-18-bay | Flaznorp, GoalLineGhost, UpTheBlues |
+| lol-navi-mkoi-2026-09-18 | BrotherObama, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 0.9% | ⏳ pendiente | — |
 | BrotherObama | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 46% | 5.00 | 14.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -1056,4 +1058,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 45.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Standard Liege win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
-| lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 11.9% | ✅ ganada | +7.05 |

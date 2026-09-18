@@ -140843,5 +140843,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789745981.9251392,
     "fills": 2
+  },
+  {
+    "timestamp": 1789747529,
+    "timestamp_added": 1789747530.4841785,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-navi-mkoi-2026-09-18",
+    "title": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 510.17811300000005,
+    "whale_pct": 0.876,
+    "whale_value_at_open": 58231.0117,
+    "paper_stake_usd": 2.92,
+    "odds_at_bet": 54,
+    "fee_usd": 0.067,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789747530.4841914,
+    "fills": 1
   }
 ]
