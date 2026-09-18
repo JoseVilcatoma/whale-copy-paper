@@ -139323,8 +139323,8 @@
     "title": "Ljubljana: Samira De Stefano vs Alice Tubello",
     "outcome": "Alice Tubello",
     "side": "BUY",
-    "whale_usd": 6174.7805,
-    "whale_pct": 3.617,
+    "whale_usd": 12368.0405,
+    "whale_pct": 7.245,
     "whale_value_at_open": 170722.6395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -139335,8 +139335,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789726936.8707666,
-    "fills": 3
+    "last_fill_at": 1789728423.9935217,
+    "fills": 4
   },
   {
     "timestamp": 1789651657,
