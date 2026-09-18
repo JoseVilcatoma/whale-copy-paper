@@ -140126,8 +140126,8 @@
     "title": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 11827.901333,
-    "whale_pct": 10.146,
+    "whale_usd": 13817.345333,
+    "whale_pct": 11.853,
     "whale_value_at_open": 116572.7141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -140138,8 +140138,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789736370.4850888,
-    "fills": 6
+    "last_fill_at": 1789736714.2740078,
+    "fills": 7
   },
   {
     "timestamp": 1789710049,
@@ -140603,5 +140603,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789736413.8863864,
     "fills": 2
+  },
+  {
+    "timestamp": 1789736700,
+    "timestamp_added": 1789736701.1397088,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi2-nan-gh-2026-09-18-total-1pt5",
+    "title": "Nantong Zhiyun vs. Guangxi Hengchen FC: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1087.8,
+    "whale_pct": 0.227,
+    "whale_value_at_open": 479790.1717,
+    "paper_stake_usd": 2.52,
+    "odds_at_bet": 49,
+    "fee_usd": 0.064,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789736701.139724,
+    "fills": 1
   }
 ]
