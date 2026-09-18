@@ -139930,8 +139930,8 @@
     "title": "Counter-Strike: EYEBALLERS vs BBL (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 2394.106,
-    "whale_pct": 2.272,
+    "whale_usd": 2914.106,
+    "whale_pct": 2.766,
     "whale_value_at_open": 105359.3197,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -139942,8 +139942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789707634.1365502,
-    "fills": 2
+    "last_fill_at": 1789708125.7725275,
+    "fills": 3
   },
   {
     "timestamp": 1789706467,
@@ -140028,8 +140028,8 @@
     "title": "W35 Shenyang: Kristiana Sidorova vs Yufei Ren",
     "outcome": "Kristiana Sidorova",
     "side": "BUY",
-    "whale_usd": 1813.4613,
-    "whale_pct": 1.469,
+    "whale_usd": 2341.3413,
+    "whale_pct": 1.896,
     "whale_value_at_open": 123480.4126,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -140040,8 +140040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789707882.5273097,
-    "fills": 3
+    "last_fill_at": 1789708052.7839987,
+    "fills": 4
   },
   {
     "timestamp": 1789707675,
