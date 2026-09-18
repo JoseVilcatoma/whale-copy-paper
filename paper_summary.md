@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 03:13:38 (hora de Perú)
+Actualizado: 2026-09-18 03:15:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 03:13:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.41 en 12 posiciones abiertas (disponible para nuevas apuestas: $12.79)
+**Capital comprometido ahora mismo:** $72.20 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,11 +150,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 142 | 55 | 2 | -23.06 USD |
+| Flaznorp | 142 | 55 | 4 | -23.06 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 536 | 253 | 3 | -30.78 USD |
+| RN1 | 536 | 253 | 4 | -30.78 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1027,6 +1027,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 2.9% | ⏳ pendiente | — |
+| Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 6.4% | ⏳ pendiente | — |
 | Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 25.7% | ⏳ pendiente | — |
@@ -1054,6 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ✅ ganada | +2.68 |
 | RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 1.1% | ✅ ganada | +2.17 |
 | RN1 | Real Sociedad de Fútbol vs. AFC Bournemo | Over (BUY) | 67% | 3.98 | 0.8% | ❌ perdida | -4.05 |
-| RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.5% | ✅ ganada | +1.69 |
-| RN1 | Will SC União Torreense win on 2026-09-1 | No (BUY) | 50% | 4.68 | 0.3% | ❌ perdida | -4.80 |
-| RN1 | Celtic FC vs. Ferencvárosi TC: O/U 3.5 | Over (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |
