@@ -141121,8 +141121,8 @@
     "title": "Will Elche CF win on 2026-09-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2218.36,
-    "whale_pct": 0.316,
+    "whale_usd": 3924.4264000000003,
+    "whale_pct": 0.559,
     "whale_value_at_open": 702297.7239,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -141133,8 +141133,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789757886.957553,
-    "fills": 3
+    "last_fill_at": 1789759746.3904197,
+    "fills": 4
   },
   {
     "timestamp": 1789757950,
