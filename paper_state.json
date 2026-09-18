@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.96797776201068,
+  "bankroll": 93.45846689244546,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28435,6 +28435,11 @@
       "timestamp": 1789747968.8058412,
       "bankroll": 92.97,
       "event": "won: UpTheBlues \u2014 Madura United vs. Psim Yogyakarta: O/U 4.5"
+    },
+    {
+      "timestamp": 1789748041.734218,
+      "bankroll": 93.46,
+      "event": "venta anticipada: BrotherObama \u2014 LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs (+0.49 USD)"
     }
   ]
 }
