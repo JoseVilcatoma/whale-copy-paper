@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 14:38:07 (hora de Perú)
+Actualizado: 2026-09-18 14:40:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.22
@@ -1029,7 +1029,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ⏳ pendiente | — |
-| GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
