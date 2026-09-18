@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.19287175687039,
+  "bankroll": 86.2399937080899,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28410,6 +28410,11 @@
       "timestamp": 1789738544.1778727,
       "bankroll": 79.19,
       "event": "won: Flaznorp \u2014 Biella: Alex Barrena vs Juan Martin"
+    },
+    {
+      "timestamp": 1789743178.4766824,
+      "bankroll": 86.24,
+      "event": "won: lllllllIlll \u2014 Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect Group B"
     }
   ]
 }
