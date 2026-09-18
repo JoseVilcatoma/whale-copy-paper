@@ -141427,5 +141427,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789766988.1460416,
     "fills": 1
+  },
+  {
+    "timestamp": 1789767212,
+    "timestamp_added": 1789767213.4483194,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-cac-def-2026-09-18-first-half-total-0pt5",
+    "title": "CA Central C\u00f3rdoba vs. CSyD Defensa y Justicia: 1st Half O/U 0.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1111.68,
+    "whale_pct": 0.678,
+    "whale_value_at_open": 164024.5121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789767213.448336,
+    "fills": 1
   }
 ]
