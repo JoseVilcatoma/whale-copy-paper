@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.19980157287434,
+  "bankroll": 78.1690550940011,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28370,6 +28370,11 @@
       "timestamp": 1789728927.4656796,
       "bankroll": 76.2,
       "event": "won: RN1 \u2014 W75 Le Neubourg: Manon Leonard vs Martyna Kubka"
+    },
+    {
+      "timestamp": 1789730801.0337367,
+      "bankroll": 78.17,
+      "event": "won: RN1 \u2014 Counter-Strike: MOUZ vs Natus Vincere - Map 1 Winner"
     }
   ]
 }
