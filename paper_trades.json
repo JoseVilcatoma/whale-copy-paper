@@ -140102,8 +140102,8 @@
     "title": "RCD Espanyol de Barcelona vs. Elche CF: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1127.6595750000001,
-    "whale_pct": 0.29,
+    "whale_usd": 6603.844575000001,
+    "whale_pct": 1.699,
     "whale_value_at_open": 388758.5711,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -140114,8 +140114,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789709113.8532534,
-    "fills": 1
+    "last_fill_at": 1789763949.6631477,
+    "fills": 2
   },
   {
     "timestamp": 1789709915,
