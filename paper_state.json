@@ -1,5 +1,5 @@
 {
-  "bankroll": 55.88654710193365,
+  "bankroll": 50.769547101933654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28270,6 +28270,11 @@
       "timestamp": 1789701680.5026758,
       "bankroll": 55.89,
       "event": "lost: RN1 \u2014 Spread: Pittsburgh (-10.5)"
+    },
+    {
+      "timestamp": 1789702327.3002508,
+      "bankroll": 50.77,
+      "event": "lost: SDTrading \u2014 Boston Red Sox vs. Texas Rangers: O/U 7.5"
     }
   ]
 }
