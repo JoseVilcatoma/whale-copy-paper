@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 03:47:05 (hora de Perú)
+Actualizado: 2026-09-18 03:49:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.93
@@ -1028,7 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 2.9% | ⏳ pendiente | — |
+| RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ⏳ pendiente | — |
 | Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 6.4% | ✅ ganada | +1.74 |
