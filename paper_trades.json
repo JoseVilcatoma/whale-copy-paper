@@ -141331,5 +141331,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789764625.7824595,
     "fills": 2
+  },
+  {
+    "timestamp": 1789766414,
+    "timestamp_added": 1789766415.5394535,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-zheng-krueger-2026-09-18",
+    "title": "Tiburon: Michael Zheng vs Mitchell Krueger",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "whale_usd": 2575.9500000000003,
+    "whale_pct": 0.515,
+    "whale_value_at_open": 500634.9848,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789766415.5394685,
+    "fills": 1
   }
 ]
