@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 12:01:22 (hora de Perú)
+Actualizado: 2026-09-18 12:03:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 12:01:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $7.17)
+**Capital comprometido ahora mismo:** $96.54 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
-| UpTheBlues | 19 | 5 | 3 | +4.34 USD |
+| UpTheBlues | 19 | 5 | 4 | +4.34 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -1028,6 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
 | BrotherObama | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers (BUY) | 59% | 3.62 | 17.6% | ⏳ pendiente | — |
 | BrotherObama | Kansas City Royals vs. Pittsburgh Pirate | Under (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: Infinite vs EYEBALLERS ( | EYEBALLERS (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -1057,4 +1058,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
 | Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.4% | ✅ ganada | +0.36 |
-| Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
