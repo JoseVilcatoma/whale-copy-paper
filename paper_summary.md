@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 17:47:54 (hora de Perú)
+Actualizado: 2026-09-18 17:50:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $78.50
-**Retorno acumulado:** -84.30%
+**Bankroll actual:** $79.34
+**Retorno acumulado:** -84.13%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 17:47:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $68.62 en 14 posiciones abiertas (disponible para nuevas apuestas: $10.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| UpTheBlues | 23 | 5 | 4 | +7.86 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| UpTheBlues | 22 | 5 | 5 | +7.61 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 547 | 259 | 6 | -33.83 USD |
+| RN1 | 548 | 259 | 5 | -33.24 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5503
-- **Aciertos:** 3453 (62.7%)
+- **Apuestas resueltas:** 5505
+- **Aciertos:** 3455 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,366.19
+- **Total apostado (suma de stakes):** $27,376.19
 - **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $508.34 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $508.38 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -181,8 +181,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2842 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1613 | 68.6% | 67.8% | +0.8 pp |
-| 80-94% | 750 | 85.6% | 86.6% | -1.0 pp |
-| 95-99% (casi seguro) | 298 | 97.3% | 97.3% | -0.0 pp |
+| 80-94% | 751 | 85.6% | 86.6% | -0.9 pp |
+| 95-99% (casi seguro) | 299 | 97.3% | 97.3% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1035,12 +1035,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ⏳ pendiente | — |
-| UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
+| UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CA Central Córdoba vs. CSyD Defensa y Ju | Under (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Spread: UMass (-33.5) | Stonehill (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 5.5% | ⏳ pendiente | — |
+| RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 5.5% | ✅ ganada | +0.59 |
 | RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ❌ perdida | -3.92 |

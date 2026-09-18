@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.50153987702024,
+  "bankroll": 79.34267529984697,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28595,6 +28595,16 @@
       "timestamp": 1789770973.5544746,
       "bankroll": 78.5,
       "event": "lost: RN1 \u2014 Counter-Strike: Galorys vs Bounty Hunters Esports (BO3) - Circuit X Curitiba Playoffs"
+    },
+    {
+      "timestamp": 1789771732.0044343,
+      "bankroll": 79.09,
+      "event": "won: RN1 \u2014 Sao Paulo Open: Mary Stoiana vs Paula Badosa"
+    },
+    {
+      "timestamp": 1789771733.0941567,
+      "bankroll": 79.34,
+      "event": "won: UpTheBlues \u2014 Sao Paulo Open: Mary Stoiana vs Paula Badosa"
     }
   ]
 }
