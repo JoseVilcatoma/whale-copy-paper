@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 06:35:33 (hora de Perú)
+Actualizado: 2026-09-18 06:37:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.17
@@ -1030,7 +1030,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 7.5% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 8.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere -  | Natus Vincere (BUY) | 71% | 5.00 | 0.4% | ✅ ganada | +1.97 |
 | BrotherObama | LoL: Team WE vs JD Gaming - Game 3 Winne | Team WE (BUY) | 48% | 2.46 | 19.8% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
