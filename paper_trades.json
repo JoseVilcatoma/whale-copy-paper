@@ -140052,8 +140052,8 @@
     "title": "Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic",
     "outcome": "Rodrigo Pacheco",
     "side": "BUY",
-    "whale_usd": 611.3399999999999,
-    "whale_pct": 0.156,
+    "whale_usd": 1493.6678729999999,
+    "whale_pct": 0.38,
     "whale_value_at_open": 392601.3813,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -140064,7 +140064,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789707676.288122,
-    "fills": 1
+    "last_fill_at": 1789708464.6159432,
+    "fills": 2
   }
 ]
