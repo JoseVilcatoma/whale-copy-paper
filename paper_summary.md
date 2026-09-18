@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 05:37:51 (hora de Perú)
+Actualizado: 2026-09-18 05:39:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.46
-**Retorno acumulado:** -85.51%
+**Bankroll actual:** $74.84
+**Retorno acumulado:** -85.03%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 05:37:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.46 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $74.84 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 |  | 2 | 0 | 0 | +2.66 USD |
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
+| lllllllIlll | 1 | 0 | 2 | +2.38 USD |
 | TAIWANNUMBERONE | 38 | 26 | 0 | +2.36 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -87,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| lllllllIlll | 0 | 0 | 3 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 538 | 254 | 3 | -31.22 USD |
+| RN1 | 538 | 254 | 5 | -31.22 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5457
-- **Aciertos:** 3420 (62.7%)
+- **Apuestas resueltas:** 5458
+- **Aciertos:** 3421 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,149.06
-- **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $505.21 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,154.06
+- **ROI sobre lo apostado:** -2.02%
+- **Comisiones pagadas (taker fee):** $505.29 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2827 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1598 | 68.5% | 67.8% | +0.6 pp |
+| 60-79% | 1599 | 68.5% | 67.8% | +0.6 pp |
 | 80-94% | 744 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1027,6 +1027,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | Natus Vincere (BUY) | 45% | 2.38 | 1.4% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: MOUZ vs Natus Vincere -  | Natus Vincere (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | BrotherObama | LoL: Team WE vs JD Gaming - Game 3 Winne | Team WE (BUY) | 48% | 2.46 | 19.8% | ⏳ pendiente | — |
 | RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -1045,7 +1047,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | RN1 | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 70% | 5.00 | 5.6% | ✅ ganada | +2.07 |
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ✅ ganada | +1.13 |
-| lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ✅ ganada | +2.38 |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 21.2% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
@@ -1055,5 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ✅ ganada | +0.65 |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ✅ ganada | +5.29 |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ✅ ganada | +5.29 |
-| UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 6.9% | ✅ ganada | +5.29 |
-| Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ✅ ganada | +0.41 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.46385859545374,
+  "bankroll": 74.84454516261792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28360,6 +28360,11 @@
       "timestamp": 1789726486.0201309,
       "bankroll": 72.46,
       "event": "won: Flaznorp \u2014 W35 Santa Margherita di Pula: Alisa Oktiabreva vs Matilde Paoletti"
+    },
+    {
+      "timestamp": 1789727929.338843,
+      "bankroll": 74.84,
+      "event": "won: lllllllIlll \u2014 Counter-Strike: Liquid vs Infinite (BO1) - Logitech G Play Connect Group B"
     }
   ]
 }
