@@ -140795,5 +140795,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789743543.5105886,
     "fills": 1
+  },
+  {
+    "timestamp": 1789745672,
+    "timestamp_added": 1789745673.0335557,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "epl-bre-che-2026-09-18-spread-away-1pt5",
+    "title": "Spread: Chelsea FC (-1.5)",
+    "outcome": "Brentford FC",
+    "side": "BUY",
+    "whale_usd": 3161.109998,
+    "whale_pct": 0.424,
+    "whale_value_at_open": 746014.7143,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789745673.0335727,
+    "fills": 1
   }
 ]
