@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 10:41:20 (hora de Perú)
+Actualizado: 2026-09-18 10:43:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.92
@@ -1032,7 +1032,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | No (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Kyzylzhar SK vs. Kaisar Kyzylord | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Valencia: Irene Burillo Escorihuela vs A | Alicia Herrero Linana (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Caldas da Rainha: Malaika Rapolu vs Gabr | Gabriela Knutson (BUY) | 63% | 5.00 | 1.0% | ✅ ganada | +2.84 |
 | GoalLineGhost | Will Bandirmaspor vs. Umraniyespor end i | No (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
