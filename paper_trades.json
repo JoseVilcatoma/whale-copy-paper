@@ -140661,8 +140661,8 @@
     "title": "Will Bandirmaspor vs. Umraniyespor end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 677.8784,
-    "whale_pct": 0.299,
+    "whale_usd": 1199.0972000000002,
+    "whale_pct": 0.53,
     "whale_value_at_open": 226439.1165,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -140673,8 +140673,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789738575.2055936,
-    "fills": 1
+    "last_fill_at": 1789741165.744878,
+    "fills": 2
   },
   {
     "timestamp": 1789738625,
