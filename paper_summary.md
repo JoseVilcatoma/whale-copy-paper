@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 19:33:15 (hora de Perú)
+Actualizado: 2026-09-17 19:35:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $62.62
-**Retorno acumulado:** -87.48%
+**Bankroll actual:** $63.03
+**Retorno acumulado:** -87.39%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 19:33:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.62 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $62.62 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,9 +152,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 136 | 55 | 2 | -33.17 USD |
+| Flaznorp | 137 | 55 | 1 | -32.76 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 533 | 252 | 3 | -33.30 USD |
+| RN1 | 533 | 252 | 4 | -33.30 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -163,13 +163,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5435
-- **Aciertos:** 3403 (62.6%)
+- **Apuestas resueltas:** 5436
+- **Aciertos:** 3404 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,044.24
+- **Total apostado (suma de stakes):** $27,049.24
 - **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $503.63 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $503.65 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2818 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1594 | 68.4% | 67.8% | +0.5 pp |
-| 80-94% | 735 | 85.6% | 86.5% | -1.0 pp |
+| 80-94% | 736 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1022,12 +1022,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh (-10.5) | Syracuse (BUY) | 50% | 2.62 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 5.9% | ⏳ pendiente | — |
-| Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Bills: O/U 55.5 | Under (BUY) | 54% | 5.00 | 6.6% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ✅ ganada | +2.68 |
 | RN1 | Rennes: Borna Gojo vs Matteo Martineau | Borna Gojo (BUY) | 69% | 5.00 | 1.1% | ✅ ganada | +2.17 |
@@ -1051,4 +1052,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: B8 vs GamerLegion (BO1)  | GamerLegion (BUY) | 58% | 5.00 | 0.6% | ❌ perdida | -5.11 |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming - Ga | Top Esports (BUY) | 47% | 5.00 | 14.4% | ✅ ganada | +5.51 |
 | BrotherObama | LoL: Top Esports vs Invictus Gaming (BO5 | Top Esports (BUY) | 46% | 5.00 | 28.8% | ✅ ganada | +5.73 |
-| RN1 | Rennes: Anton Matusevich vs Tristan Scho | Anton Matusevich (BUY) | 47% | 4.97 | 1.6% | ❌ perdida | -5.10 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.619946311419824,
+  "bankroll": 63.03472892011548,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28250,6 +28250,11 @@
       "timestamp": 1789687541.837235,
       "bankroll": 62.62,
       "event": "won: RN1 \u2014 Rennes: Borna Gojo vs Matteo Martineau"
+    },
+    {
+      "timestamp": 1789691652.842681,
+      "bankroll": 63.03,
+      "event": "won: Flaznorp \u2014 Sao Paulo Open (Doubles): Ovcharenko/Pigossi vs Stoiana/Valdmannova"
     }
   ]
 }
