@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 19:41:34 (hora de Perú)
+Actualizado: 2026-09-17 19:43:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $63.03
@@ -1027,7 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
-| UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 5.9% | ⏳ pendiente | — |
+| UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 6.9% | ⏳ pendiente | — |
 | Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Bills: O/U 55.5 | Under (BUY) | 54% | 5.00 | 6.6% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ✅ ganada | +2.68 |

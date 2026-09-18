@@ -139733,8 +139733,8 @@
     "title": "Spread: CR Flamengo (-1.5)",
     "outcome": "Independiente del Valle",
     "side": "BUY",
-    "whale_usd": 8515.93,
-    "whale_pct": 5.877,
+    "whale_usd": 9932.059000000001,
+    "whale_pct": 6.854,
     "whale_value_at_open": 144903.9681,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -139745,8 +139745,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789686919.500959,
-    "fills": 2
+    "last_fill_at": 1789692200.023752,
+    "fills": 3
   },
   {
     "timestamp": 1789686921,
