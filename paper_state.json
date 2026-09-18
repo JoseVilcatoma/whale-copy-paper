@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.23768713533075,
+  "bankroll": 93.2851921858358,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28490,6 +28490,11 @@
       "timestamp": 1789761543.3034036,
       "bankroll": 93.24,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs"
+    },
+    {
+      "timestamp": 1789763435.4234219,
+      "bankroll": 93.29,
+      "event": "won: UpTheBlues \u2014 SpVgg Greuther F\u00fcrth vs. 1. FC Magdeburg: O/U 7.5"
     }
   ]
 }
