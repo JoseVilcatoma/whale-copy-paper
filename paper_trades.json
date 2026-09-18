@@ -141561,8 +141561,8 @@
     "title": "Will Deportivo Pereira win on 2026-09-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 697.68,
-    "whale_pct": 0.492,
+    "whale_usd": 1396.08,
+    "whale_pct": 0.984,
     "whale_value_at_open": 141835.3923,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -141573,7 +141573,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789768838.0900192,
-    "fills": 1
+    "last_fill_at": 1789768895.8526921,
+    "fills": 2
   }
 ]

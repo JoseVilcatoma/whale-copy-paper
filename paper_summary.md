@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 17:00:57 (hora de Perú)
+Actualizado: 2026-09-18 17:02:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.52
@@ -1032,7 +1032,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 11.8% | ⏳ pendiente | — |
 | UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
