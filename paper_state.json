@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.07596477499769,
+  "bankroll": 92.92047271150562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28425,6 +28425,11 @@
       "timestamp": 1789745445.4921913,
       "bankroll": 90.08,
       "event": "won: UpTheBlues \u2014 Nantong Zhiyun vs. Guangxi Hengchen FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1789745889.1540902,
+      "bankroll": 92.92,
+      "event": "won: UpTheBlues \u2014 Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson"
     }
   ]
 }
