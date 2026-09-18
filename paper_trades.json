@@ -141145,8 +141145,8 @@
     "title": "FC Bayern M\u00fcnchen vs. 1. FC Union Berlin: 1st Half O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4105.4497,
-    "whale_pct": 1.061,
+    "whale_usd": 5787.5329,
+    "whale_pct": 1.496,
     "whale_value_at_open": 386854.2702,
     "paper_stake_usd": 4.83,
     "odds_at_bet": 63,
@@ -141157,7 +141157,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789758178.0496786,
-    "fills": 3
+    "last_fill_at": 1789758219.4909072,
+    "fills": 4
   }
 ]
