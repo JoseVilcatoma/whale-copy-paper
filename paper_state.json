@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.30936271223834,
+  "bankroll": 77.24136271223834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28620,6 +28620,11 @@
       "timestamp": 1789772546.1438828,
       "bankroll": 82.31,
       "event": "won: UpTheBlues \u2014 Will Standard Liege win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789774128.8889143,
+      "bankroll": 77.24,
+      "event": "lost: RN1 \u2014 CA Central C\u00f3rdoba vs. CSyD Defensa y Justicia: 1st Half O/U 0.5"
     }
   ]
 }
