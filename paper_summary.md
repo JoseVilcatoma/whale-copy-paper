@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 16:42:48 (hora de Perú)
+Actualizado: 2026-09-18 16:44:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 16:42:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.47 en 14 posiciones abiertas (disponible para nuevas apuestas: $20.05)
+**Capital comprometido ahora mismo:** $72.47 en 15 posiciones abiertas (disponible para nuevas apuestas: $15.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| UpTheBlues | 22 | 5 | 4 | +7.61 USD |
+| UpTheBlues | 22 | 5 | 5 | +7.61 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -1026,11 +1026,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-navi-mkoi-2026-09-18 | BrotherObama, TAIWANNUMBERONE |
 | lal-esp-elc-2026-09-18-total-4pt5 | GoalLineGhost, RN1 |
 | atp-zheng-krueger-2026-09-18 | RN1, UpTheBlues |
+| wta-stoiana-badosa-2026-09-18 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CA Central Córdoba vs. CSyD Defensa y Ju | Under (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1060,4 +1062,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 10.9% | ❌ perdida | -2.99 |
 | BrotherObama | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 46% | 5.00 | 14.5% | 💰 vendida anticipada | +0.49 |
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ✅ ganada | +0.98 |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ✅ ganada | +6.76 |

@@ -141501,5 +141501,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789767712.5659113,
     "fills": 2
+  },
+  {
+    "timestamp": 1789767868,
+    "timestamp_added": 1789767868.976946,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-stoiana-badosa-2026-09-18",
+    "title": "Sao Paulo Open: Mary Stoiana vs Paula Badosa",
+    "outcome": "Paula Badosa",
+    "side": "BUY",
+    "whale_usd": 1726.0800000000002,
+    "whale_pct": 0.365,
+    "whale_value_at_open": 473250.729,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789767868.9769607,
+    "fills": 1
   }
 ]
