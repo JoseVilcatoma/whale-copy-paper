@@ -140565,8 +140565,8 @@
     "title": "Will RCD Espanyol de Barcelona vs. Elche CF end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3822.3812000000003,
-    "whale_pct": 1.825,
+    "whale_usd": 6301.3812,
+    "whale_pct": 3.008,
     "whale_value_at_open": 209471.9235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -140577,8 +140577,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789743763.6273339,
-    "fills": 2
+    "last_fill_at": 1789754962.5974529,
+    "fills": 3
   },
   {
     "timestamp": 1789736048,
