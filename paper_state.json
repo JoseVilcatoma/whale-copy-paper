@@ -1,5 +1,5 @@
 {
-  "bankroll": 61.868891187955164,
+  "bankroll": 62.70359567968094,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28300,6 +28300,16 @@
       "timestamp": 1789707905.9989998,
       "bankroll": 61.87,
       "event": "lost: SDTrading \u2014 Minnesota Twins vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1789708841.3124263,
+      "bankroll": 62.17,
+      "event": "won: Flaznorp \u2014 Guadalajara Open Akron: Peyton Stearns vs Sloane Stephens"
+    },
+    {
+      "timestamp": 1789708841.7085347,
+      "bankroll": 62.7,
+      "event": "won: RN1 \u2014 Guadalajara Open Akron: Peyton Stearns vs Sloane Stephens"
     }
   ]
 }
