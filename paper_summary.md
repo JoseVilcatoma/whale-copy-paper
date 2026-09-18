@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-17 19:43:39 (hora de Perú)
+Actualizado: 2026-09-17 19:45:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $63.03
-**Retorno acumulado:** -87.39%
+**Bankroll actual:** $63.69
+**Retorno acumulado:** -87.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-17 19:43:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.62 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.41)
+**Capital comprometido ahora mismo:** $57.62 en 12 posiciones abiertas (disponible para nuevas apuestas: $6.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -134,10 +134,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| UpTheBlues | 12 | 5 | 1 | -10.19 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| UpTheBlues | 11 | 5 | 2 | -10.84 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -163,14 +163,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5436
-- **Aciertos:** 3404 (62.6%)
+- **Apuestas resueltas:** 5437
+- **Aciertos:** 3405 (62.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,049.24
+- **Total apostado (suma de stakes):** $27,054.24
 - **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $503.65 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $503.68 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2818 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1594 | 68.4% | 67.8% | +0.5 pp |
-| 80-94% | 736 | 85.6% | 86.5% | -0.9 pp |
+| 80-94% | 737 | 85.6% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1024,7 +1024,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh (-10.5) | Syracuse (BUY) | 50% | 2.62 | 2.1% | ⏳ pendiente | — |
-| UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ⏳ pendiente | — |
+| UpTheBlues | Tiburon: Michael Zheng vs Trevor Svajda | Michael Zheng (BUY) | 88% | 5.00 | 0.7% | ✅ ganada | +0.65 |
 | Flaznorp | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 6.9% | ⏳ pendiente | — |

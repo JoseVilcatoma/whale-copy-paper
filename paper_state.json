@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.03472892011548,
+  "bankroll": 63.686547101933655,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28255,6 +28255,11 @@
       "timestamp": 1789691652.842681,
       "bankroll": 63.03,
       "event": "won: Flaznorp \u2014 Sao Paulo Open (Doubles): Ovcharenko/Pigossi vs Stoiana/Valdmannova"
+    },
+    {
+      "timestamp": 1789692338.7572966,
+      "bankroll": 63.69,
+      "event": "won: UpTheBlues \u2014 Tiburon: Michael Zheng vs Trevor Svajda"
     }
   ]
 }
