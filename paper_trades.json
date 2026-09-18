@@ -139323,8 +139323,8 @@
     "title": "Ljubljana: Samira De Stefano vs Alice Tubello",
     "outcome": "Alice Tubello",
     "side": "BUY",
-    "whale_usd": 3474.7805,
-    "whale_pct": 2.035,
+    "whale_usd": 6174.7805,
+    "whale_pct": 3.617,
     "whale_value_at_open": 170722.6395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -139335,8 +139335,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789647350.2085729,
-    "fills": 2
+    "last_fill_at": 1789726936.8707666,
+    "fills": 3
   },
   {
     "timestamp": 1789651657,
@@ -140411,5 +140411,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789726603.407971,
     "fills": 1
+  },
+  {
+    "timestamp": 1789726895,
+    "timestamp_added": 1789726896.2236376,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-we-jdg-2026-09-18-game3",
+    "title": "LoL: Team WE vs JD Gaming - Game 3 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 13000.0,
+    "whale_pct": 13.542,
+    "whale_value_at_open": 95995.8954,
+    "paper_stake_usd": 2.46,
+    "odds_at_bet": 48,
+    "fee_usd": 0.064,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789726945.6837158,
+    "fills": 2
   }
 ]
