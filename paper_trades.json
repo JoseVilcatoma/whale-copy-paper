@@ -140076,8 +140076,8 @@
     "title": "Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic",
     "outcome": "Rodrigo Pacheco",
     "side": "BUY",
-    "whale_usd": 3311.4300000000003,
-    "whale_pct": 1.687,
+    "whale_usd": 4484.14,
+    "whale_pct": 2.284,
     "whale_value_at_open": 196305.1625,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -140090,8 +140090,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789708903.8704405,
-    "fills": 1
+    "last_fill_at": 1789711152.9059727,
+    "fills": 2
   },
   {
     "timestamp": 1789709113,
@@ -140150,8 +140150,8 @@
     "title": "W35 Shenyang: Kristiana Sidorova vs Yufei Ren",
     "outcome": "Kristiana Sidorova",
     "side": "BUY",
-    "whale_usd": 1335.0,
-    "whale_pct": 0.337,
+    "whale_usd": 1851.0,
+    "whale_pct": 0.468,
     "whale_value_at_open": 395727.9245,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -140164,7 +140164,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789710602.994946,
-    "fills": 2
+    "last_fill_at": 1789711101.5374143,
+    "fills": 3
   }
 ]
