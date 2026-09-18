@@ -141769,5 +141769,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789775735.640337,
     "fills": 1
+  },
+  {
+    "timestamp": 1789775786,
+    "timestamp_added": 1789775786.9863555,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mls-nyc-nyr-2026-09-18-total-4pt5",
+    "title": "New York City FC vs. New York Red Bulls: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 949.8489,
+    "whale_pct": 0.673,
+    "whale_value_at_open": 141220.7059,
+    "paper_stake_usd": 4.61,
+    "odds_at_bet": 89,
+    "fee_usd": 0.025,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789775786.9863644,
+    "fills": 1
   }
 ]
