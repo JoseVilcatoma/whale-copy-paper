@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 07:53:10 (hora de Perú)
+Actualizado: 2026-09-18 07:55:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.36
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 07:53:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.84 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.52)
+**Capital comprometido ahora mismo:** $74.84 en 16 posiciones abiertas (disponible para nuevas apuestas: $2.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 143 | 55 | 3 | -22.35 USD |
+| Flaznorp | 143 | 55 | 4 | -22.35 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1027,6 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -1038,7 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ✅ ganada | +1.36 |
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
-| Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 6.4% | ✅ ganada | +1.74 |
 | Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -1053,7 +1054,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ✅ ganada | +1.13 |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ✅ ganada | +2.38 |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
-| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 23.1% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
 | UpTheBlues | Will Independiente del Valle win on 2026 | No (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
-| RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 3.1% | ✅ ganada | +2.61 |

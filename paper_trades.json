@@ -139930,8 +139930,8 @@
     "title": "Counter-Strike: EYEBALLERS vs BBL (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 24377.2152,
-    "whale_pct": 23.137,
+    "whale_usd": 25438.4364,
+    "whale_pct": 24.144,
     "whale_value_at_open": 105359.3197,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -139942,8 +139942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789732177.6416667,
-    "fills": 15
+    "last_fill_at": 1789736105.5726035,
+    "fills": 16
   },
   {
     "timestamp": 1789706467,
@@ -140298,8 +140298,8 @@
     "title": "Will Hapoel Petah Tikva FC win on 2026-09-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 954.919996,
-    "whale_pct": 0.216,
+    "whale_usd": 1655.659995,
+    "whale_pct": 0.374,
     "whale_value_at_open": 443068.3834,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -140310,8 +140310,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789719249.6705408,
-    "fills": 1
+    "last_fill_at": 1789736034.9471226,
+    "fills": 2
   },
   {
     "timestamp": 1789719282,
@@ -140578,6 +140578,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789734431.4181654,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789736048,
+    "timestamp_added": 1789736049.189636,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-barrena-ma-2026-09-18",
+    "title": "Biella: Alex Barrena vs Juan Martin",
+    "outcome": "Alex Barrena",
+    "side": "BUY",
+    "whale_usd": 1474.3899999999999,
+    "whale_pct": 0.223,
+    "whale_value_at_open": 661282.3258,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789736049.1896527,
     "fills": 1
   }
 ]
