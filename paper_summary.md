@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 02:25:40 (hora de Perú)
+Actualizado: 2026-09-18 02:27:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.41
@@ -1028,8 +1028,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 5.3% | ⏳ pendiente | — |
-| Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 12.8% | ⏳ pendiente | — |
+| Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
+| UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 22.5% | ⏳ pendiente | — |
 | UpTheBlues | Will Standard Liege win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |

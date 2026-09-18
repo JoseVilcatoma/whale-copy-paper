@@ -140200,8 +140200,8 @@
     "title": "Will FC Bayern M\u00fcnchen win on 2026-09-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 26295.75,
-    "whale_pct": 12.756,
+    "whale_usd": 46349.34,
+    "whale_pct": 22.484,
     "whale_value_at_open": 206144.6395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -140212,8 +140212,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789715291.43825,
-    "fills": 4
+    "last_fill_at": 1789716399.1030254,
+    "fills": 7
   },
   {
     "timestamp": 1789713974,
@@ -140224,8 +140224,8 @@
     "title": "Will FC Bayern M\u00fcnchen win on 2026-09-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1551.859991,
-    "whale_pct": 0.375,
+    "whale_usd": 4881.959975,
+    "whale_pct": 1.18,
     "whale_value_at_open": 413612.9378,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -140238,8 +140238,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789713975.208022,
-    "fills": 1
+    "last_fill_at": 1789716376.8882473,
+    "fills": 3
   },
   {
     "timestamp": 1789714751,
