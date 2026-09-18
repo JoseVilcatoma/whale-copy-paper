@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.25680173662859,
+  "bankroll": 82.30936271223834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28615,6 +28615,11 @@
       "timestamp": 1789772421.3500094,
       "bankroll": 81.26,
       "event": "won: RN1 \u2014 Tiburon: Michael Zheng vs Mitchell Krueger"
+    },
+    {
+      "timestamp": 1789772546.1438828,
+      "bankroll": 82.31,
+      "event": "won: UpTheBlues \u2014 Will Standard Liege win on 2026-09-18?"
     }
   ]
 }
