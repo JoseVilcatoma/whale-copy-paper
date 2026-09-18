@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 16:30:25 (hora de Perú)
+Actualizado: 2026-09-18 16:32:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.52
@@ -1033,7 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Spread: UMass (-33.5) | Stonehill (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
+| UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
 | RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |

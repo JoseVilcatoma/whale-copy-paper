@@ -141341,8 +141341,8 @@
     "title": "Tiburon: Michael Zheng vs Mitchell Krueger",
     "outcome": "Michael Zheng",
     "side": "BUY",
-    "whale_usd": 2575.9500000000003,
-    "whale_pct": 0.515,
+    "whale_usd": 3132.21,
+    "whale_pct": 0.626,
     "whale_value_at_open": 500634.9848,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -141353,8 +141353,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789766415.5394685,
-    "fills": 1
+    "last_fill_at": 1789767142.714518,
+    "fills": 2
   },
   {
     "timestamp": 1789766764,
