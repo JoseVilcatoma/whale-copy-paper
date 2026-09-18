@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 04:12:11 (hora de Perú)
+Actualizado: 2026-09-18 04:14:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.93
@@ -1033,7 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 6.4% | ✅ ganada | +1.74 |
 | Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
-| UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 38.7% | ⏳ pendiente | — |
+| UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 41.9% | ⏳ pendiente | — |
 | UpTheBlues | Will Standard Liege win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
 | lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
