@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.88473215867214,
+  "bankroll": 71.74973215867213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28350,6 +28350,11 @@
       "timestamp": 1789724920.8555293,
       "bankroll": 76.88,
       "event": "won: RN1 \u2014 Ljubljana: Mona Barthel vs Mia Ristic"
+    },
+    {
+      "timestamp": 1789725106.8556569,
+      "bankroll": 71.75,
+      "event": "lost: RN1 \u2014 Ljubljana: Anastasiia Sobolieva vs Laura Samson"
     }
   ]
 }
