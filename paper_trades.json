@@ -141001,8 +141001,8 @@
     "title": "Caldas da Rainha: Susan Bandecchi vs Lisa Pigato",
     "outcome": "Lisa Pigato",
     "side": "BUY",
-    "whale_usd": 1265.1399999999999,
-    "whale_pct": 0.197,
+    "whale_usd": 3528.05,
+    "whale_pct": 0.55,
     "whale_value_at_open": 641582.5622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -141013,7 +141013,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789750975.0632453,
-    "fills": 1
+    "last_fill_at": 1789751011.6587422,
+    "fills": 2
   }
 ]
