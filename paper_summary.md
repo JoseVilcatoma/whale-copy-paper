@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 11:05:34 (hora de Perú)
+Actualizado: 2026-09-18 11:07:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.92
@@ -1028,7 +1028,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 0.9% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 54% | 2.92 | 2.9% | ⏳ pendiente | — |
 | BrotherObama | LoL: Natus Vincere vs Movistar KOI (BO5) | Natus Vincere (BUY) | 46% | 5.00 | 14.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: Chelsea FC (-1.5) | Brentford FC (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Movistar KOI - Gam | Natus Vincere (BUY) | 42% | 5.00 | 2.6% | ⏳ pendiente | — |
