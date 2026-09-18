@@ -140257,8 +140257,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.064,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.74,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -140336,5 +140336,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789719283.0474548,
     "fills": 1
+  },
+  {
+    "timestamp": 1789720405,
+    "timestamp_added": 1789720405.98678,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bun-bay-uni-2026-09-18-bay",
+    "title": "Will FC Bayern M\u00fcnchen win on 2026-09-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2484.0021,
+    "whale_pct": 1.705,
+    "whale_value_at_open": 145702.9927,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789720444.628903,
+    "fills": 2
   }
 ]

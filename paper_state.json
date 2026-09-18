@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.19696455303833,
+  "bankroll": 73.93423215867213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28340,6 +28340,11 @@
       "timestamp": 1789718961.8936183,
       "bankroll": 72.2,
       "event": "won: UpTheBlues \u2014 Phan Thiet 4: Rodrigo Pacheco vs Philip Sekulic"
+    },
+    {
+      "timestamp": 1789720405.024576,
+      "bankroll": 73.93,
+      "event": "won: RN1 \u2014 M15 Hurghada: Gabriele Thomas Brancatelli vs Saveliy Ivanov"
     }
   ]
 }
