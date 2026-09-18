@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.64040910153658,
+  "bankroll": 98.40017100629848,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28470,6 +28470,11 @@
       "timestamp": 1789756184.0995815,
       "bankroll": 91.64,
       "event": "won: lllllllIlll \u2014 Counter-Strike: Infinite vs EYEBALLERS (BO1) - Logitech G Play Connect Group B"
+    },
+    {
+      "timestamp": 1789756495.966039,
+      "bankroll": 98.4,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Movistar KOI - Game 1 Winner"
     }
   ]
 }
