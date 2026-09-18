@@ -140967,5 +140967,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789750633.7827291,
     "fills": 1
+  },
+  {
+    "timestamp": 1789750659,
+    "timestamp_added": 1789750659.7958813,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-mil-bal-2026-09-18",
+    "title": "Milwaukee Brewers vs. Baltimore Orioles",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 20000.0,
+    "whale_pct": 17.604,
+    "whale_value_at_open": 113611.5633,
+    "paper_stake_usd": 3.62,
+    "odds_at_bet": 59,
+    "fee_usd": 0.074,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789750659.7958925,
+    "fills": 1
   }
 ]
