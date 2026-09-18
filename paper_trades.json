@@ -139872,5 +139872,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789691687.3141308,
     "fills": 2
+  },
+  {
+    "timestamp": 1789692347,
+    "timestamp_added": 1789692348.4279265,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lib-fla-ind1-2026-09-17-ind1",
+    "title": "Will Independiente del Valle win on 2026-09-17?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 593.32,
+    "whale_pct": 0.313,
+    "whale_value_at_open": 189471.4016,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789692348.427936,
+    "fills": 1
   }
 ]
