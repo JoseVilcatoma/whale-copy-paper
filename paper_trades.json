@@ -141355,5 +141355,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789766415.5394685,
     "fills": 1
+  },
+  {
+    "timestamp": 1789766764,
+    "timestamp_added": 1789766765.233363,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-gdr-dep-2026-09-18-gdr",
+    "title": "Will \u00c1guilas Doradas Rionegro win on 2026-09-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 611.52,
+    "whale_pct": 0.38,
+    "whale_value_at_open": 160814.2182,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789766765.233378,
+    "fills": 1
   }
 ]
