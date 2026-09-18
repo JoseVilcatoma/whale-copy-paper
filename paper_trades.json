@@ -140469,8 +140469,8 @@
     "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 1936.173486,
-    "whale_pct": 1.404,
+    "whale_usd": 3756.2632859999994,
+    "whale_pct": 2.724,
     "whale_value_at_open": 137899.5228,
     "paper_stake_usd": 2.38,
     "odds_at_bet": 45,
@@ -140481,8 +140481,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789727995.2031505,
-    "fills": 2
+    "last_fill_at": 1789729638.5307739,
+    "fills": 3
   },
   {
     "timestamp": 1789729104,
