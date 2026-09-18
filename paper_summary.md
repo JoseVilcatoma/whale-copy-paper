@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 01:58:33 (hora de Perú)
+Actualizado: 2026-09-18 02:00:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.41
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 01:58:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $4.41)
+**Capital comprometido ahora mismo:** $69.41 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 141 | 55 | 3 | -25.13 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 536 | 253 | 2 | -30.78 USD |
+| RN1 | 536 | 253 | 3 | -30.78 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1027,6 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 2.8% | ⏳ pendiente | — |
 | Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 9.5% | ⏳ pendiente | — |
 | UpTheBlues | Will Standard Liege win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1056,4 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will AFC Bournemouth win on 2026-09-17? | Yes (BUY) | 74% | 5.00 | 1.5% | ✅ ganada | +1.69 |
 | RN1 | Will SC União Torreense win on 2026-09-1 | No (BUY) | 50% | 4.68 | 0.3% | ❌ perdida | -4.80 |
 | RN1 | Celtic FC vs. Ferencvárosi TC: O/U 3.5 | Over (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |
-| RN1 | Will RU Saint-Gilloise win on 2026-09-17 | Yes (BUY) | 46% | 2.95 | 0.2% | ✅ ganada | +3.38 |

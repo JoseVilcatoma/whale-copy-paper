@@ -140240,5 +140240,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789713975.208022,
     "fills": 1
+  },
+  {
+    "timestamp": 1789714751,
+    "timestamp_added": 1789714751.9775612,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-branca1-ivanov2-2026-09-18",
+    "title": "M15 Hurghada: Gabriele Thomas Brancatelli vs Saveliy Ivanov",
+    "outcome": "Saveliy Ivanov",
+    "side": "BUY",
+    "whale_usd": 1409.04,
+    "whale_pct": 2.781,
+    "whale_value_at_open": 50663.6913,
+    "paper_stake_usd": 4.41,
+    "odds_at_bet": 71,
+    "fee_usd": 0.064,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789714752.455726,
+    "fills": 2
   }
 ]
