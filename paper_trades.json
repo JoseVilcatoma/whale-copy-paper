@@ -139930,8 +139930,8 @@
     "title": "Counter-Strike: EYEBALLERS vs BBL (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 25438.4364,
-    "whale_pct": 24.144,
+    "whale_usd": 33267.930799999995,
+    "whale_pct": 31.576,
     "whale_value_at_open": 105359.3197,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -139942,8 +139942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789736105.5726035,
-    "fills": 16
+    "last_fill_at": 1789736413.1097806,
+    "fills": 21
   },
   {
     "timestamp": 1789706467,
@@ -140126,8 +140126,8 @@
     "title": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect Group B",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 10427.901333,
-    "whale_pct": 8.945,
+    "whale_usd": 11827.901333,
+    "whale_pct": 10.146,
     "whale_value_at_open": 116572.7141,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -140138,8 +140138,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789735673.8262992,
-    "fills": 5
+    "last_fill_at": 1789736370.4850888,
+    "fills": 6
   },
   {
     "timestamp": 1789710049,
@@ -140589,8 +140589,8 @@
     "title": "Biella: Alex Barrena vs Juan Martin",
     "outcome": "Alex Barrena",
     "side": "BUY",
-    "whale_usd": 1474.3899999999999,
-    "whale_pct": 0.223,
+    "whale_usd": 2204.5447,
+    "whale_pct": 0.333,
     "whale_value_at_open": 661282.3258,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -140601,7 +140601,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789736049.1896527,
-    "fills": 1
+    "last_fill_at": 1789736413.8863864,
+    "fills": 2
   }
 ]

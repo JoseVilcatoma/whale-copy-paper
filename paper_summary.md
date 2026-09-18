@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 07:59:13 (hora de Perú)
+Actualizado: 2026-09-18 08:01:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.36
@@ -1027,7 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -1046,7 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 45.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Standard Liege win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | W35 Shenyang: Kristiana Sidorova vs Yufe | Kristiana Sidorova (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
-| lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: EYEBALLERS vs Liquid (BO | EYEBALLERS (BUY) | 41% | 5.00 | 10.1% | ⏳ pendiente | — |
 | Flaznorp | RCD Espanyol de Barcelona vs. Elche CF:  | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 87% | 5.00 | 4.5% | ✅ ganada | +0.71 |
 | Flaznorp | Phan Thiet 4: Rodrigo Pacheco vs Philip  | Rodrigo Pacheco (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
@@ -1054,6 +1054,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ✅ ganada | +1.13 |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ✅ ganada | +2.38 |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
-| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 31.6% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
 | UpTheBlues | Will Independiente del Valle win on 2026 | No (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
