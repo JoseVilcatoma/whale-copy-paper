@@ -141389,8 +141389,8 @@
     "title": "Sao Paulo Open: Mary Stoiana vs Paula Badosa",
     "outcome": "Paula Badosa",
     "side": "BUY",
-    "whale_usd": 6650.0103,
-    "whale_pct": 4.221,
+    "whale_usd": 8670.2112,
+    "whale_pct": 5.503,
     "whale_value_at_open": 157549.6871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -141401,8 +141401,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789766965.824048,
-    "fills": 1
+    "last_fill_at": 1789767688.828878,
+    "fills": 2
   },
   {
     "timestamp": 1789766987,
@@ -141475,5 +141475,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789767295.4095845,
     "fills": 1
+  },
+  {
+    "timestamp": 1789767711,
+    "timestamp_added": 1789767711.9494188,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zheng-krueger-2026-09-18",
+    "title": "Tiburon: Michael Zheng vs Mitchell Krueger",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "whale_usd": 7063.574075,
+    "whale_pct": 4.309,
+    "whale_value_at_open": 163911.93,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789767712.5659113,
+    "fills": 2
   }
 ]
