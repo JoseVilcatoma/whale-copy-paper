@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 18:08:51 (hora de Perú)
+Actualizado: 2026-09-18 18:10:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 18:08:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.62 en 15 posiciones abiertas (disponible para nuevas apuestas: $8.69)
+**Capital comprometido ahora mismo:** $78.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| GoalLineGhost | 88 | 38 | 0 | -17.95 USD |
+| GoalLineGhost | 88 | 38 | 1 | -17.95 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | BrotherObama | 15 | 17 | 2 | -18.42 USD |
@@ -1033,6 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
 | UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -1062,4 +1063,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Silkeborg IF win on 2026-09-18? | Yes (BUY) | 91% | 5.00 | 0.4% | ✅ ganada | +0.47 |
 | GoalLineGhost | Sarpsborg 08 FF vs. KFUM-Kameratene Oslo | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
 | UpTheBlues | Caldas da Rainha: Susan Bandecchi vs Lis | Lisa Pigato (BUY) | 62% | 5.00 | 1.6% | ✅ ganada | +2.97 |
-| BrotherObama | Milwaukee Brewers vs. Baltimore Orioles | Milwaukee Brewers (BUY) | 59% | 3.62 | 17.6% | ⏳ pendiente | — |
