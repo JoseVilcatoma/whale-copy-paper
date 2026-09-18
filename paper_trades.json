@@ -139035,8 +139035,8 @@
     "title": "Ljubljana: Anastasiia Sobolieva vs Laura Samson",
     "outcome": "Anastasiia Sobolieva",
     "side": "BUY",
-    "whale_usd": 4044.7382730000004,
-    "whale_pct": 1.777,
+    "whale_usd": 4559.463273,
+    "whale_pct": 2.003,
     "whale_value_at_open": 227670.9622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -139047,8 +139047,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789637129.9591856,
-    "fills": 3
+    "last_fill_at": 1789719045.1693292,
+    "fills": 4
   },
   {
     "timestamp": 1789636686,
