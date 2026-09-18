@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 05:14:51 (hora de Perú)
+Actualizado: 2026-09-18 05:16:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 05:14:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $7.46)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $2.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 538 | 254 | 2 | -31.22 USD |
+| RN1 | 538 | 254 | 3 | -31.22 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1027,6 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | M25 Sintra: Patrick Schoen vs Robin Bert | Patrick Schoen (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | W75 Le Neubourg: Manon Leonard vs Martyn | Manon Leonard (BUY) | 78% | 5.00 | 2.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
@@ -1056,4 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Spread: CR Flamengo (-1.5) | Independiente del Valle (BUY) | 48% | 5.00 | 6.9% | ✅ ganada | +5.29 |
 | Flaznorp | Sao Paulo Open (Doubles): Ovcharenko/Pig | Stoiana/Valdmannova (BUY) | 92% | 5.00 | 0.1% | ✅ ganada | +0.41 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Lions vs. Bills: O/U 55.5 | Under (BUY) | 54% | 5.00 | 6.6% | ❌ perdida | -5.12 |
-| RN1 | Sao Paulo Open: Eva Lys vs Nadia Podoros | Nadia Podoroska (BUY) | 60% | 4.15 | 5.8% | ✅ ganada | +2.68 |
