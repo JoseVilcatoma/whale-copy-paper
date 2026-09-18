@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.74973215867213,
+  "bankroll": 72.46385859545374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28355,6 +28355,11 @@
       "timestamp": 1789725106.8556569,
       "bankroll": 71.75,
       "event": "lost: RN1 \u2014 Ljubljana: Anastasiia Sobolieva vs Laura Samson"
+    },
+    {
+      "timestamp": 1789726486.0201309,
+      "bankroll": 72.46,
+      "event": "won: Flaznorp \u2014 W35 Santa Margherita di Pula: Alisa Oktiabreva vs Matilde Paoletti"
     }
   ]
 }

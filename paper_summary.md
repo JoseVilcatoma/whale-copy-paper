@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 05:12:46 (hora de Perú)
+Actualizado: 2026-09-18 05:14:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $71.75
-**Retorno acumulado:** -85.65%
+**Bankroll actual:** $72.46
+**Retorno acumulado:** -85.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 05:12:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $1.75)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $7.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 142 | 55 | 4 | -23.06 USD |
+| Flaznorp | 143 | 55 | 3 | -22.35 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5456
-- **Aciertos:** 3419 (62.7%)
+- **Apuestas resueltas:** 5457
+- **Aciertos:** 3420 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.98
-- **Total apostado (suma de stakes):** $27,144.06
+- **Total apostado (suma de stakes):** $27,149.06
 - **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $505.17 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $505.21 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2827 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1598 | 68.5% | 67.8% | +0.6 pp |
-| 80-94% | 743 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 744 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 288 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1031,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Mona Barthel vs Mia Ristic | Mona Barthel (BUY) | 48% | 2.79 | 3.8% | ✅ ganada | +2.95 |
 | Flaznorp | Will Hapoel Petah Tikva FC win on 2026-0 | No (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | W35 Santa Margherita di Pula: Alisa Okti | Alisa Oktiabreva (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | RN1 | M15 Hurghada: Gabriele Thomas Brancatell | Saveliy Ivanov (BUY) | 71% | 4.41 | 6.4% | ✅ ganada | +1.74 |
 | Flaznorp | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Will FC Bayern München win on 2026-09-18 | Yes (BUY) | 95% | 5.00 | 45.2% | ⏳ pendiente | — |
