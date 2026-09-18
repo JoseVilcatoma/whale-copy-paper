@@ -141551,5 +141551,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789768135.0447056,
     "fills": 1
+  },
+  {
+    "timestamp": 1789768836,
+    "timestamp_added": 1789768838.0900025,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-gdr-dep-2026-09-18-dep",
+    "title": "Will Deportivo Pereira win on 2026-09-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 697.68,
+    "whale_pct": 0.492,
+    "whale_value_at_open": 141835.3923,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789768838.0900192,
+    "fills": 1
   }
 ]
