@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 01:02:23 (hora de Perú)
+Actualizado: 2026-09-18 01:04:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.31
@@ -1035,7 +1035,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Phan Thiet 4: Moise Kouame vs Florent Ba | Moise Kouame (BUY) | 81% | 5.00 | 0.1% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: Liquid vs Infinite (BO1) | Liquid (BUY) | 67% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 90% | 5.00 | 5.4% | ✅ ganada | +0.53 |
-| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: EYEBALLERS vs BBL (BO1)  | EYEBALLERS (BUY) | 53% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
 | UpTheBlues | Will Independiente del Valle win on 2026 | No (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
 | RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 3.1% | ✅ ganada | +2.61 |
