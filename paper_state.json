@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.70359567968094,
+  "bankroll": 65.30890337198863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28310,6 +28310,11 @@
       "timestamp": 1789708841.7085347,
       "bankroll": 62.7,
       "event": "won: RN1 \u2014 Guadalajara Open Akron: Peyton Stearns vs Sloane Stephens"
+    },
+    {
+      "timestamp": 1789709776.1528718,
+      "bankroll": 65.31,
+      "event": "won: RN1 \u2014 Spread: Bills (-6.5)"
     }
   ]
 }
