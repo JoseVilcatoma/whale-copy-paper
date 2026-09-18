@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.24136271223834,
+  "bankroll": 81.9232842808658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28625,6 +28625,11 @@
       "timestamp": 1789774128.8889143,
       "bankroll": 77.24,
       "event": "lost: RN1 \u2014 CA Central C\u00f3rdoba vs. CSyD Defensa y Justicia: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1789775375.2656994,
+      "bankroll": 81.92,
+      "event": "won: RN1 \u2014 Counter-Strike: ShindeN vs Turma do Pagode - Map 1 Winner"
     }
   ]
 }
