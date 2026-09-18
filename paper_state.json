@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.34267529984697,
+  "bankroll": 81.25680173662859,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28605,6 +28605,16 @@
       "timestamp": 1789771733.0941567,
       "bankroll": 79.34,
       "event": "won: UpTheBlues \u2014 Sao Paulo Open: Mary Stoiana vs Paula Badosa"
+    },
+    {
+      "timestamp": 1789772420.485602,
+      "bankroll": 80.54,
+      "event": "won: UpTheBlues \u2014 Tiburon: Michael Zheng vs Mitchell Krueger"
+    },
+    {
+      "timestamp": 1789772421.3500094,
+      "bankroll": 81.26,
+      "event": "won: RN1 \u2014 Tiburon: Michael Zheng vs Mitchell Krueger"
     }
   ]
 }
