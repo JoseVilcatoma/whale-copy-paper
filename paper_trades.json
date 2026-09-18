@@ -140483,5 +140483,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789727995.2031505,
     "fills": 2
+  },
+  {
+    "timestamp": 1789729104,
+    "timestamp_added": 1789729104.810121,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mouz-navi-2026-09-18",
+    "title": "Counter-Strike: MOUZ vs Natus Vincere (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 1111.1,
+    "whale_pct": 0.679,
+    "whale_value_at_open": 163592.8343,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789729105.6695178,
+    "fills": 2
   }
 ]
