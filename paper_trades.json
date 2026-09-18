@@ -140862,8 +140862,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.067,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.99,
     "overlaps_with": [
       "BrotherObama"
     ],

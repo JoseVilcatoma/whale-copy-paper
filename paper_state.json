@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.22468713533074,
+  "bankroll": 93.23768713533075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28485,6 +28485,11 @@
       "timestamp": 1789759646.6244724,
       "bankroll": 96.22,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Movistar KOI - Game 2 Winner"
+    },
+    {
+      "timestamp": 1789761543.3034036,
+      "bankroll": 93.24,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs"
     }
   ]
 }
