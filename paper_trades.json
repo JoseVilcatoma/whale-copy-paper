@@ -140943,5 +140943,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789750093.2538598,
     "fills": 1
+  },
+  {
+    "timestamp": 1789750632,
+    "timestamp_added": 1789750633.7827172,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-kc-pit-2026-09-18-total-8pt5",
+    "title": "Kansas City Royals vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5000.000000000001,
+    "whale_pct": 4.401,
+    "whale_value_at_open": 113611.5633,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789750633.7827291,
+    "fills": 1
   }
 ]
