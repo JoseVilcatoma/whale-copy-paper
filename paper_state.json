@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.40017100629848,
+  "bankroll": 101.36968713533074,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28475,6 +28475,11 @@
       "timestamp": 1789756495.966039,
       "bankroll": 98.4,
       "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Movistar KOI - Game 1 Winner"
+    },
+    {
+      "timestamp": 1789757881.6086454,
+      "bankroll": 101.37,
+      "event": "won: UpTheBlues \u2014 Caldas da Rainha: Susan Bandecchi vs Lisa Pigato"
     }
   ]
 }
