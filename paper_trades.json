@@ -141365,8 +141365,8 @@
     "title": "Will \u00c1guilas Doradas Rionegro win on 2026-09-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1244.88,
-    "whale_pct": 0.774,
+    "whale_usd": 1907.2588890000002,
+    "whale_pct": 1.186,
     "whale_value_at_open": 160814.2182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -141377,8 +141377,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789770813.2318668,
-    "fills": 2
+    "last_fill_at": 1789771559.9518137,
+    "fills": 3
   },
   {
     "timestamp": 1789766965,
