@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.2399937080899,
+  "bankroll": 87.51710763214054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28415,6 +28415,11 @@
       "timestamp": 1789743178.4766824,
       "bankroll": 86.24,
       "event": "won: lllllllIlll \u2014 Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect Group B"
+    },
+    {
+      "timestamp": 1789743490.8776917,
+      "bankroll": 87.52,
+      "event": "won: RN1 \u2014 Will Ningbo Professional FC win on 2026-09-18?"
     }
   ]
 }
