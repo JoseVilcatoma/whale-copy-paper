@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 07:26:40 (hora de Perú)
+Actualizado: 2026-09-18 07:28:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.04
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 07:26:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.87)
+**Capital comprometido ahora mismo:** $78.17 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -139,7 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 81 | 35 | 1 | -10.47 USD |
+| GoalLineGhost | 81 | 35 | 2 | -10.47 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1027,6 +1027,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1056,4 +1057,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Guadalajara Open Akron: Peyton Stearns v | Peyton Stearns (BUY) | 94% | 5.00 | 1.0% | ✅ ganada | +0.30 |
 | UpTheBlues | Will Independiente del Valle win on 2026 | No (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
 | RN1 | Spread: Bills (-6.5) | Bills (BUY) | 65% | 5.00 | 3.1% | ✅ ganada | +2.61 |
-| RN1 | Spread: Pittsburgh (-10.5) | Syracuse (BUY) | 50% | 2.62 | 2.1% | ❌ perdida | -2.69 |
