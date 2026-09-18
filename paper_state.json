@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.769547101933654,
+  "bankroll": 66.98889118795516,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28275,6 +28275,26 @@
       "timestamp": 1789702327.3002508,
       "bankroll": 50.77,
       "event": "lost: SDTrading \u2014 Boston Red Sox vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1789706043.8801208,
+      "bankroll": 56.06,
+      "event": "won: UpTheBlues \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1789706043.980334,
+      "bankroll": 61.34,
+      "event": "won: GoalLineGhost \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1789706044.080546,
+      "bankroll": 66.63,
+      "event": "won: Flaznorp \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1789706044.6314762,
+      "bankroll": 66.99,
+      "event": "won: UpTheBlues \u2014 Will Independiente del Valle win on 2026-09-17?"
     }
   ]
 }
