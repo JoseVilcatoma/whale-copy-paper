@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 14:09:32 (hora de Perú)
+Actualizado: 2026-09-18 14:11:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $101.37
@@ -1052,7 +1052,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Madura United vs. Psim Yogyakarta: O/U 4 | Under (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | UpTheBlues | Nantong Zhiyun vs. Guangxi Hengchen FC:  | Under (BUY) | 49% | 2.52 | 0.2% | ✅ ganada | +2.56 |
 | Flaznorp | Biella: Alex Barrena vs Juan Martin | Alex Barrena (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-| GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 3.0% | ⏳ pendiente | — |
+| GoalLineGhost | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 75% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Alice Tu | Samira De Stefano (BUY) | 57% | 3.33 | 2.7% | ✅ ganada | +2.44 |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 79% | 5.00 | 3.2% | ✅ ganada | +1.28 |
 | RN1 | Counter-Strike: MOUZ vs Natus Vincere (B | MOUZ (BUY) | 42% | 5.00 | 1.5% | ✅ ganada | +6.76 |
