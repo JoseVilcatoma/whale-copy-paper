@@ -140250,8 +140250,8 @@
     "title": "M15 Hurghada: Gabriele Thomas Brancatelli vs Saveliy Ivanov",
     "outcome": "Saveliy Ivanov",
     "side": "BUY",
-    "whale_usd": 1409.04,
-    "whale_pct": 2.781,
+    "whale_usd": 2704.194067,
+    "whale_pct": 5.338,
     "whale_value_at_open": 50663.6913,
     "paper_stake_usd": 4.41,
     "odds_at_bet": 71,
@@ -140262,7 +140262,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789714752.455726,
-    "fills": 2
+    "last_fill_at": 1789715158.5239196,
+    "fills": 4
   }
 ]
