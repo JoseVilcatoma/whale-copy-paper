@@ -140919,5 +140919,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789748049.6555467,
     "fills": 1
+  },
+  {
+    "timestamp": 1789750092,
+    "timestamp_added": 1789750093.2538478,
+    "username": "lllllllIlll",
+    "wallet": "0xe40ecff63ec661d218a86c048186ac83389a9770",
+    "slug": "cs2-inf6-eye-2026-09-18",
+    "title": "Counter-Strike: Infinite vs EYEBALLERS (BO1) - Logitech G Play Connect Group B",
+    "outcome": "EYEBALLERS",
+    "side": "BUY",
+    "whale_usd": 2742.1139999999996,
+    "whale_pct": 3.103,
+    "whale_value_at_open": 88377.1344,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789750093.2538598,
+    "fills": 1
   }
 ]
