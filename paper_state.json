@@ -1,5 +1,5 @@
 {
-  "bankroll": 100.15839602877648,
+  "bankroll": 100.63090152328198,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28525,6 +28525,11 @@
       "timestamp": 1789765075.92319,
       "bankroll": 100.16,
       "event": "won: GoalLineGhost \u2014 Sarpsborg 08 FF vs. KFUM-Kameratene Oslo: O/U 3.5"
+    },
+    {
+      "timestamp": 1789765949.370293,
+      "bankroll": 100.63,
+      "event": "won: RN1 \u2014 Will Silkeborg IF win on 2026-09-18?"
     }
   ]
 }
