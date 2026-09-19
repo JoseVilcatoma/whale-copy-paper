@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.9232842808658,
+  "bankroll": 76.8062842808658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28630,6 +28630,11 @@
       "timestamp": 1789775375.2656994,
       "bankroll": 81.92,
       "event": "won: RN1 \u2014 Counter-Strike: ShindeN vs Turma do Pagode - Map 1 Winner"
+    },
+    {
+      "timestamp": 1789777255.6234055,
+      "bankroll": 76.81,
+      "event": "lost: BrotherObama \u2014 Kansas City Royals vs. Pittsburgh Pirates: O/U 8.5"
     }
   ]
 }

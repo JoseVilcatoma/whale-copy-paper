@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 19:20:48 (hora de Perú)
+Actualizado: 2026-09-18 19:22:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.92
-**Retorno acumulado:** -83.62%
+**Bankroll actual:** $76.81
+**Retorno acumulado:** -84.64%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 19:20:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.92 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $76.92 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,9 +148,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 88 | 38 | 2 | -17.95 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
-| BrotherObama | 15 | 17 | 2 | -18.42 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 149 | 56 | 0 | -21.66 USD |
+| BrotherObama | 15 | 18 | 1 | -23.54 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5510
+- **Apuestas resueltas:** 5511
 - **Aciertos:** 3459 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,401.19
-- **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $508.70 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,406.19
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $508.81 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2843 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2844 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1614 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 754 | 85.7% | 86.5% | -0.9 pp |
 | 95-99% (casi seguro) | 299 | 97.3% | 97.3% | +0.0 pp |
