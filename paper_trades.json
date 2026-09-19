@@ -142009,5 +142009,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789789177.652809,
     "fills": 1
+  },
+  {
+    "timestamp": 1789789239,
+    "timestamp_added": 1789789240.2638817,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-portst-ore-2026-09-18-total-75pt5",
+    "title": "Portland State vs. Oregon: O/U 75.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 635.4399999999999,
+    "whale_pct": 0.174,
+    "whale_value_at_open": 365371.0267,
+    "paper_stake_usd": 3.57,
+    "odds_at_bet": 48,
+    "fee_usd": 0.093,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789789240.263895,
+    "fills": 1
   }
 ]
