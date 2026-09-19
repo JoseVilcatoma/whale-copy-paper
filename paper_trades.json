@@ -142301,5 +142301,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789797183.4937916,
     "fills": 1
+  },
+  {
+    "timestamp": 1789798439,
+    "timestamp_added": 1789798440.097663,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ig1-jdg-2026-09-19",
+    "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 1046.5966,
+    "whale_pct": 19.801,
+    "whale_value_at_open": 5285.4619,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789798440.097673,
+    "fills": 1
   }
 ]
