@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 04:59:49 (hora de Perú)
+Actualizado: 2026-09-19 05:01:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.01
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 04:59:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.23 en 15 posiciones abiertas (disponible para nuevas apuestas: $5.78)
+**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | TAIWANNUMBERONE | 39 | 28 | 1 | +0.99 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-| UpTheBlues | 27 | 7 | 5 | +0.94 USD |
+| UpTheBlues | 27 | 7 | 6 | +0.94 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -1036,6 +1036,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | PSM Makassar vs. Persita Tangerang: O/U  | Under (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 49% | 2.50 | 217.9% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ✅ ganada | +0.78 |
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1065,4 +1066,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ✅ ganada | +2.61 |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
-| RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ✅ ganada | +2.61 |

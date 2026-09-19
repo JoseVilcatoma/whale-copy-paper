@@ -142471,5 +142471,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789808590.645387,
     "fills": 4
+  },
+  {
+    "timestamp": 1789812028,
+    "timestamp_added": 1789812028.6001804,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "idn1-mak-per-2026-09-19-total-3pt5",
+    "title": "PSM Makassar vs. Persita Tangerang: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 602.53,
+    "whale_pct": 0.114,
+    "whale_value_at_open": 526612.3373,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789812028.6001928,
+    "fills": 1
   }
 ]
