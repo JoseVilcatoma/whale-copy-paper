@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.9692320371529,
+  "bankroll": 78.0699243448452,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28705,6 +28705,16 @@
       "timestamp": 1789789705.1678352,
       "bankroll": 70.97,
       "event": "won: RN1 \u2014 Houston vs. Texas Tech: O/U 61.5"
+    },
+    {
+      "timestamp": 1789789893.594237,
+      "bankroll": 75.46,
+      "event": "won: RN1 \u2014 Spread: Texas Tech (-4.5)"
+    },
+    {
+      "timestamp": 1789789954.748118,
+      "bankroll": 78.07,
+      "event": "won: RN1 \u2014 Houston vs. Texas Tech"
     }
   ]
 }
