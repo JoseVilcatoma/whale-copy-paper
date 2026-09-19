@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.47060751318904,
+  "bankroll": 67.35360751318903,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28650,6 +28650,11 @@
       "timestamp": 1789779766.1958354,
       "bankroll": 72.47,
       "event": "won: UpTheBlues \u2014 Will \u00c1guilas Doradas Rionegro win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789781020.3511212,
+      "bankroll": 67.35,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 1H Spread: Miami (FL) (-11.5)"
     }
   ]
 }
