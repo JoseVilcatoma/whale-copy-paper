@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.29383171936622,
+  "bankroll": 58.884809247456104,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28835,6 +28835,11 @@
       "timestamp": 1789832690.5397215,
       "bankroll": 58.29,
       "event": "won: Feromont \u2014 Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs"
+    },
+    {
+      "timestamp": 1789834060.9273415,
+      "bankroll": 58.88,
+      "event": "venta anticipada: Feromont \u2014 Will Newcastle United FC vs. Hull City AFC end in a draw? (+0.59 USD)"
     }
   ]
 }
