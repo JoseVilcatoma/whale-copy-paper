@@ -142253,5 +142253,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789796992.5786898,
     "fills": 1
+  },
+  {
+    "timestamp": 1789797087,
+    "timestamp_added": 1789797087.3928297,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-hontama-eunhyel-2026-09-18",
+    "title": "Korea Open, Qualification: Mai Hontama vs Eun-Hye Lee",
+    "outcome": "Eun-Hye Lee",
+    "side": "BUY",
+    "whale_usd": 1677.86923,
+    "whale_pct": 1.315,
+    "whale_value_at_open": 127595.3745,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789797087.392841,
+    "fills": 1
   }
 ]
