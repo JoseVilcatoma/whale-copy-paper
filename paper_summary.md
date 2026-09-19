@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 03:23:33 (hora de Perú)
+Actualizado: 2026-09-19 03:25:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.24
-**Retorno acumulado:** -85.55%
+**Bankroll actual:** $74.23
+**Retorno acumulado:** -85.15%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 03:23:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.73 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.51)
+**Capital comprometido ahora mismo:** $61.73 en 13 posiciones abiertas (disponible para nuevas apuestas: $12.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| UpTheBlues | 27 | 6 | 6 | +6.00 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
@@ -83,6 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | TAIWANNUMBERONE | 39 | 28 | 1 | +0.99 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
+| UpTheBlues | 27 | 7 | 5 | +0.94 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -151,10 +151,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 18 | 0 | -21.10 USD |
 | Flaznorp | 149 | 56 | 0 | -21.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| RN1 | 561 | 264 | 0 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 560 | 264 | 1 | -32.09 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5537
-- **Aciertos:** 3476 (62.8%)
+- **Apuestas resueltas:** 5539
+- **Aciertos:** 3477 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,530.76
-- **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $510.70 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,540.76
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $510.90 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,8 +179,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2855 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1620 | 68.6% | 67.8% | +0.7 pp |
+| 40-59% | 2856 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1621 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 760 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1041,8 +1041,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 203.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |
-| UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ⏳ pendiente | — |
+| UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ❌ perdida | -5.06 |
+| RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ✅ ganada | +7.05 |
 | GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ⏳ pendiente | — |
 | Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |

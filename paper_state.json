@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.24446552277703,
+  "bankroll": 74.23158747399654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28765,6 +28765,16 @@
       "timestamp": 1789801635.8827803,
       "bankroll": 72.24,
       "event": "won: GoalLineGhost \u2014 Will Tigres de la UANL win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789806333.3783884,
+      "bankroll": 79.29,
+      "event": "won: RN1 \u2014 Phan Thiet 4: Moise Kouame vs Rodrigo Pacheco"
+    },
+    {
+      "timestamp": 1789806333.4785824,
+      "bankroll": 74.23,
+      "event": "lost: UpTheBlues \u2014 Phan Thiet 4: Moise Kouame vs Rodrigo Pacheco"
     }
   ]
 }
