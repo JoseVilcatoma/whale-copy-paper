@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 22:44:20 (hora de Perú)
+Actualizado: 2026-09-18 22:46:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $65.03
-**Retorno acumulado:** -86.99%
+**Bankroll actual:** $67.31
+**Retorno acumulado:** -86.54%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 22:44:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.03 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $60.03 en 13 posiciones abiertas (disponible para nuevas apuestas: $7.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 551 | 262 | 9 | -43.00 USD |
+| RN1 | 552 | 262 | 8 | -40.73 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5523
-- **Aciertos:** 3466 (62.8%)
+- **Apuestas resueltas:** 5524
+- **Aciertos:** 3467 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,464.42
-- **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $509.67 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,469.42
+- **ROI sobre lo apostado:** -2.02%
+- **Comisiones pagadas (taker fee):** $509.75 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2849 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1616 | 68.5% | 67.8% | +0.7 pp |
+| 60-79% | 1617 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 758 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
 
@@ -1039,7 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Over (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Houston vs. Texas Tech: O/U 61.5 | Under (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Texas Tech (-4.5) | Houston (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ✅ ganada | +2.27 |
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ⏳ pendiente | — |

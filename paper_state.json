@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.03236103612092,
+  "bankroll": 67.3053022125915,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28695,6 +28695,11 @@
       "timestamp": 1789789141.941462,
       "bankroll": 65.03,
       "event": "lost: RN1 \u2014 Spread: Miami (FL) (-23.5)"
+    },
+    {
+      "timestamp": 1789789579.630631,
+      "bankroll": 67.31,
+      "event": "won: RN1 \u2014 Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns"
     }
   ]
 }
