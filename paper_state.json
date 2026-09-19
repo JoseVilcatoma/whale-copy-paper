@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.26360751318903,
+  "bankroll": 62.808382794087905,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28660,6 +28660,11 @@
       "timestamp": 1789782897.1332188,
       "bankroll": 62.26,
       "event": "lost: GoalLineGhost \u2014 New York City FC vs. New York Red Bulls: O/U 2.5"
+    },
+    {
+      "timestamp": 1789783022.7530396,
+      "bankroll": 62.81,
+      "event": "won: GoalLineGhost \u2014 New York City FC vs. New York Red Bulls: O/U 4.5"
     }
   ]
 }
