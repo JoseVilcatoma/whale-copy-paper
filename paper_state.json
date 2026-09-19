@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.05591860431707,
+  "bankroll": 80.59291860431708,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28725,6 +28725,16 @@
       "timestamp": 1789795369.412437,
       "bankroll": 83.06,
       "event": "won: RN1 \u2014 Singapore Open, Qualification: Jiaqi Wang vs Anastasia Kulikova"
+    },
+    {
+      "timestamp": 1789796933.0914962,
+      "bankroll": 84.26,
+      "event": "won: RN1 \u2014 Portland State vs. Oregon: O/U 75.5"
+    },
+    {
+      "timestamp": 1789796933.4434383,
+      "bankroll": 80.59,
+      "event": "lost: RN1 \u2014 Portland State vs. Oregon: O/U 75.5"
     }
   ]
 }
