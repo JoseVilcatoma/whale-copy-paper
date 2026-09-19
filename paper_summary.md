@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 01:40:04 (hora de Perú)
+Actualizado: 2026-09-19 01:42:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.06
@@ -1036,7 +1036,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 19.8% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 39.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |
 | UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
