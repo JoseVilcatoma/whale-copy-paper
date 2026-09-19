@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.59291860431708,
+  "bankroll": 80.64042365482213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28735,6 +28735,11 @@
       "timestamp": 1789796933.4434383,
       "bankroll": 80.59,
       "event": "lost: RN1 \u2014 Portland State vs. Oregon: O/U 75.5"
+    },
+    {
+      "timestamp": 1789797871.339298,
+      "bankroll": 80.64,
+      "event": "won: RN1 \u2014 AD Municipal P\u00e9rez Zeled\u00f3n vs. Sporting FC: O/U 4.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 01:02:31 (hora de Perú)
+Actualizado: 2026-09-19 01:04:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.59
-**Retorno acumulado:** -83.88%
+**Bankroll actual:** $80.64
+**Retorno acumulado:** -83.87%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 01:02:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.50 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.09)
+**Capital comprometido ahora mismo:** $74.50 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 558 | 263 | 4 | -27.43 USD |
+| RN1 | 559 | 263 | 3 | -27.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5531
-- **Aciertos:** 3473 (62.8%)
+- **Apuestas resueltas:** 5532
+- **Aciertos:** 3474 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,502.99
+- **Total apostado (suma de stakes):** $27,507.99
 - **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $510.37 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $510.38 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -182,7 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2852 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1620 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 759 | 85.6% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
+| 95-99% (casi seguro) | 301 | 97.3% | 97.3% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1045,7 +1045,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Tottenham Hotspur FC (-2.5) | Aston Villa FC (BUY) | 91% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Under (BUY) | 48% | 3.57 | 0.2% | ❌ perdida | -3.66 |
 | RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.6% | ✅ ganada | +2.38 |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ⏳ pendiente | — |
