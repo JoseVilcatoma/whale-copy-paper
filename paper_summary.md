@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 22:10:58 (hora de Perú)
+Actualizado: 2026-09-18 22:13:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $64.02
-**Retorno acumulado:** -87.20%
+**Bankroll actual:** $66.46
+**Retorno acumulado:** -86.71%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 22:10:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.31 en 13 posiciones abiertas (disponible para nuevas apuestas: $1.71)
+**Capital comprometido ahora mismo:** $58.69 en 12 posiciones abiertas (disponible para nuevas apuestas: $7.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,9 +148,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 0 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| BrotherObama | 16 | 18 | 0 | -21.10 USD |
 | Flaznorp | 149 | 56 | 0 | -21.66 USD |
 | GoalLineGhost | 89 | 39 | 0 | -22.50 USD |
-| BrotherObama | 15 | 18 | 1 | -23.54 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5520
-- **Aciertos:** 3464 (62.8%)
+- **Apuestas resueltas:** 5521
+- **Aciertos:** 3465 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,450.80
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $509.39 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,454.42
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $509.47 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2847 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2848 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1615 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 758 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
@@ -1038,7 +1038,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 13.8% | ⏳ pendiente | — |
+| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 14.7% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |

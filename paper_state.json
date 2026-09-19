@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.01883799122052,
+  "bankroll": 66.46043121155951,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28680,6 +28680,11 @@
       "timestamp": 1789784456.6493568,
       "bankroll": 64.02,
       "event": "lost: UpTheBlues \u2014 Indiana Fever vs. Toronto Tempo: O/U 187.5"
+    },
+    {
+      "timestamp": 1789787576.895302,
+      "bankroll": 66.46,
+      "event": "won: BrotherObama \u2014 Milwaukee Brewers vs. Baltimore Orioles"
     }
   ]
 }
