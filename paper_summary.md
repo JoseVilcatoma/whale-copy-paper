@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 00:52:06 (hora de Perú)
+Actualizado: 2026-09-19 00:54:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 00:52:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.50 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.09)
+**Capital comprometido ahora mismo:** $79.50 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| UpTheBlues | 27 | 6 | 3 | +6.00 USD |
+| UpTheBlues | 27 | 6 | 4 | +6.00 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
@@ -1035,7 +1035,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 1.3% | ⏳ pendiente | — |
+| UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ⏳ pendiente | — |
 | UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ⏳ pendiente | — |
@@ -1064,4 +1065,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ❌ perdida | -5.12 |
 | UpTheBlues | Will Águilas Doradas Rionegro win on 202 | No (BUY) | 88% | 5.00 | 0.2% | ✅ ganada | +0.65 |
 | RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
-| RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
