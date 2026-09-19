@@ -142455,8 +142455,8 @@
     "title": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 60000.0,
-    "whale_pct": 189.518,
+    "whale_usd": 69000.0,
+    "whale_pct": 217.946,
     "whale_value_at_open": 31659.2664,
     "paper_stake_usd": 2.5,
     "odds_at_bet": 49,
@@ -142469,7 +142469,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789807104.7642105,
-    "fills": 2
+    "last_fill_at": 1789808590.645387,
+    "fills": 4
   }
 ]
