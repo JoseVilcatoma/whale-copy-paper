@@ -1,5 +1,5 @@
 {
-  "bankroll": 55.40117802353484,
+  "bankroll": 58.27536951289654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28875,6 +28875,11 @@
       "timestamp": 1789860358.7970142,
       "bankroll": 55.4,
       "event": "won: UpTheBlues \u2014 Spread: UMass (-33.5)"
+    },
+    {
+      "timestamp": 1789861604.9740458,
+      "bankroll": 58.28,
+      "event": "won: RN1 \u2014 Temple vs. Toledo"
     }
   ]
 }
