@@ -141803,8 +141803,8 @@
     "title": "Houston vs. Texas Tech",
     "outcome": "Texas Tech",
     "side": "BUY",
-    "whale_usd": 26263.013985999994,
-    "whale_pct": 12.328,
+    "whale_usd": 29377.410652999995,
+    "whale_pct": 13.79,
     "whale_value_at_open": 213028.8937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -141815,8 +141815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789786042.9226208,
-    "fills": 18
+    "last_fill_at": 1789786299.6337948,
+    "fills": 20
   },
   {
     "timestamp": 1789779771,
@@ -141899,8 +141899,8 @@
     "title": "Spread: Texas Tech (-4.5)",
     "outcome": "Houston",
     "side": "BUY",
-    "whale_usd": 3573.248,
-    "whale_pct": 1.324,
+    "whale_usd": 4211.078828,
+    "whale_pct": 1.561,
     "whale_value_at_open": 269782.3131,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -141911,8 +141911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789785129.9179473,
-    "fills": 3
+    "last_fill_at": 1789786255.7649772,
+    "fills": 4
   },
   {
     "timestamp": 1789784701,
