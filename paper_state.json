@@ -1,5 +1,5 @@
 {
-  "bankroll": 48.3617157593839,
+  "bankroll": 51.084215759383895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28865,6 +28865,11 @@
       "timestamp": 1789851371.6060436,
       "bankroll": 48.36,
       "event": "lost: RN1 \u2014 Spread: Delaware (-1.5)"
+    },
+    {
+      "timestamp": 1789853238.7535632,
+      "bankroll": 51.08,
+      "event": "won: RN1 \u2014 Spread: FC Barcelona (-2.5)"
     }
   ]
 }
