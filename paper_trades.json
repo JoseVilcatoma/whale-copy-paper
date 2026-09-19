@@ -142617,5 +142617,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789827908.4625542,
     "fills": 1
+  },
+  {
+    "timestamp": 1789828300,
+    "timestamp_added": 1789828300.9558842,
+    "username": "Feromont",
+    "wallet": "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3",
+    "slug": "cs2-mouz-furia-2026-09-19",
+    "title": "Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 654.7346,
+    "whale_pct": 0.816,
+    "whale_value_at_open": 80203.9461,
+    "paper_stake_usd": 2.7,
+    "odds_at_bet": 50,
+    "fee_usd": 0.068,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789828300.9558995,
+    "fills": 1
   }
 ]
