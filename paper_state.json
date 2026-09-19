@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.62604096236863,
+  "bankroll": 64.30854645687413,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28795,6 +28795,16 @@
       "timestamp": 1789822784.4664006,
       "bankroll": 67.63,
       "event": "lost: RN1 \u2014 Ljubljana: Samira De Stefano vs Laura Samson"
+    },
+    {
+      "timestamp": 1789826081.9634173,
+      "bankroll": 63.84,
+      "event": "lost: UpTheBlues \u2014 Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789826082.2731822,
+      "bankroll": 64.31,
+      "event": "won: GoalLineGhost \u2014 Spread: Tottenham Hotspur FC (-2.5)"
     }
   ]
 }
