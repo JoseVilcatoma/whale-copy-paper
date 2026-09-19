@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.6748092474561,
+  "bankroll": 50.97895818362632,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28850,6 +28850,11 @@
       "timestamp": 1789837877.3488064,
       "bankroll": 50.67,
       "event": "lost: GoalLineGhost \u2014 Will Arsenal FC win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789841304.5239656,
+      "bankroll": 50.98,
+      "event": "won: GoalLineGhost \u2014 Spread: Ipswich Town FC (-1.5)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 13:06:25 (hora de Perú)
+Actualizado: 2026-09-19 13:08:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $50.67
-**Retorno acumulado:** -89.87%
+**Bankroll actual:** $50.98
+**Retorno acumulado:** -89.80%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 13:06:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.67)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $5.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| GoalLineGhost | 91 | 42 | 1 | -28.82 USD |
+| GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
 | RN1 | 562 | 266 | 1 | -32.92 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5553
-- **Aciertos:** 3483 (62.7%)
+- **Apuestas resueltas:** 5554
+- **Aciertos:** 3484 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,601.19
-- **ROI sobre lo apostado:** -2.08%
-- **Comisiones pagadas (taker fee):** $511.87 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $27,606.19
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $511.89 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2863 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1624 | 68.5% | 67.8% | +0.7 pp |
-| 80-94% | 764 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1051,7 +1051,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ✅ ganada | +2.27 |
 | UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
-| GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 203.9% | ❌ perdida | -5.13 |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
 | RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |
