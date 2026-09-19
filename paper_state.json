@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.30854645687413,
+  "bankroll": 59.24383171936622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28805,6 +28805,26 @@
       "timestamp": 1789826082.2731822,
       "bankroll": 64.31,
       "event": "won: GoalLineGhost \u2014 Spread: Tottenham Hotspur FC (-2.5)"
+    },
+    {
+      "timestamp": 1789827329.9169426,
+      "bankroll": 64.67,
+      "event": "won: UpTheBlues \u2014 Spread: FK Kharkiv (-2.5)"
+    },
+    {
+      "timestamp": 1789827330.2301097,
+      "bankroll": 59.53,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs"
+    },
+    {
+      "timestamp": 1789827330.853089,
+      "bankroll": 61.81,
+      "event": "won: UpTheBlues \u2014 Will Rayo Vallecano de Madrid win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789827331.2576878,
+      "bankroll": 59.24,
+      "event": "lost: BrotherObama \u2014 LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs"
     }
   ]
 }
