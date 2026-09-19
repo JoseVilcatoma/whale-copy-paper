@@ -17,12 +17,6 @@
     "roi_pct": 679.25,
     "short_term_pct": 100.0
   },
-  "0xabb89972b21b304c1bed2bf26f35c8741ac9bba3": {
-    "username": "Feromont",
-    "added_at": 1789815234.053712,
-    "roi_pct": 399.68,
-    "short_term_pct": 100.0
-  },
   "0xcd84d7f9262516865553555751609fb6f52abec6": {
     "username": "Donkey14",
     "added_at": 1789818356.705439,
@@ -58,5 +52,11 @@
     "added_at": 1789838397.3650904,
     "roi_pct": 221.74,
     "short_term_pct": 100.0
+  },
+  "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
+    "username": "Elaran1993",
+    "added_at": 1789839360.4652874,
+    "roi_pct": 1431.63,
+    "short_term_pct": 80.0
   }
 }
