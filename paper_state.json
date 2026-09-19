@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.6752320371529,
+  "bankroll": 83.05591860431707,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28720,6 +28720,11 @@
       "timestamp": 1789795054.9991226,
       "bankroll": 80.68,
       "event": "won: RN1 \u2014 Will Club Independiente Petrolero win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789795369.412437,
+      "bankroll": 83.06,
+      "event": "won: RN1 \u2014 Singapore Open, Qualification: Jiaqi Wang vs Anastasia Kulikova"
     }
   ]
 }
