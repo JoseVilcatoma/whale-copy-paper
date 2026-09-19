@@ -141875,8 +141875,8 @@
     "title": "Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns",
     "outcome": "Peyton Stearns",
     "side": "BUY",
-    "whale_usd": 1340.335,
-    "whale_pct": 0.503,
+    "whale_usd": 3098.8771,
+    "whale_pct": 1.163,
     "whale_value_at_open": 266487.7697,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -141887,8 +141887,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789784535.0549843,
-    "fills": 1
+    "last_fill_at": 1789786848.0646582,
+    "fills": 2
   },
   {
     "timestamp": 1789784578,
