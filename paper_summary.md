@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 15:44:08 (hora de Perú)
+Actualizado: 2026-09-19 15:46:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $53.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 15:44:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $8.47)
+**Capital comprometido ahora mismo:** $53.47 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
-| RN1 | 562 | 266 | 1 | -32.92 USD |
+| RN1 | 562 | 266 | 3 | -32.92 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1038,6 +1038,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ⏳ pendiente | — |
+| RN1 | Spread: FC Barcelona (-2.5) | Sevilla FC (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Donkey14 | SMU vs. Louisville | SMU (BUY) | 44% | 5.00 | 16.9% | ⏳ pendiente | — |
 | RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
@@ -1066,5 +1068,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ❌ perdida | -5.00 |
 | GoalLineGhost | Spread: Tottenham Hotspur FC (-2.5) | Aston Villa FC (BUY) | 91% | 5.00 | 0.9% | ✅ ganada | +0.47 |
 | RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
-| RN1 | Portland State vs. Oregon: O/U 75.5 | Under (BUY) | 48% | 3.57 | 0.2% | ❌ perdida | -3.66 |
-| RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.6% | ✅ ganada | +2.38 |
