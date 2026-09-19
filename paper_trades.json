@@ -141827,8 +141827,8 @@
     "title": "Spread: Miami (FL) (-23.5)",
     "outcome": "Miami (FL)",
     "side": "BUY",
-    "whale_usd": 1044.210527,
-    "whale_pct": 0.49,
+    "whale_usd": 2319.210527,
+    "whale_pct": 1.089,
     "whale_value_at_open": 213028.8937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -141839,7 +141839,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789779771.4147751,
-    "fills": 1
+    "last_fill_at": 1789780138.5074005,
+    "fills": 2
   }
 ]
