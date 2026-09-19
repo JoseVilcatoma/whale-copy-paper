@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 22:27:38 (hora de Perú)
+Actualizado: 2026-09-18 22:29:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $66.46
@@ -1033,7 +1033,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 1.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ⏳ pendiente | — |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Over (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Houston vs. Texas Tech: O/U 61.5 | Under (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Texas Tech (-4.5) | Houston (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
