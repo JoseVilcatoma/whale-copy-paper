@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 21:18:57 (hora de Perú)
+Actualizado: 2026-09-18 21:21:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $62.81
-**Retorno acumulado:** -87.44%
+**Bankroll actual:** $64.02
+**Retorno acumulado:** -87.20%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 21:18:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.31 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.50)
+**Capital comprometido ahora mismo:** $47.31 en 10 posiciones abiertas (disponible para nuevas apuestas: $16.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| UpTheBlues | 26 | 5 | 4 | +10.76 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
@@ -53,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| UpTheBlues | 27 | 6 | 2 | +6.00 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
@@ -113,6 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 14 | 14 | 1 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | Kch-Temp | 3 | 3 | 0 | -5.06 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -138,7 +139,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 13 | 14 | 2 | -10.81 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5517
-- **Aciertos:** 3462 (62.8%)
+- **Apuestas resueltas:** 5520
+- **Aciertos:** 3464 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,435.80
+- **Total apostado (suma de stakes):** $27,450.80
 - **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $509.11 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $509.39 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,9 +179,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2845 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2847 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1615 | 68.5% | 67.8% | +0.7 pp |
-| 80-94% | 757 | 85.6% | 86.6% | -0.9 pp |
+| 80-94% | 758 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1035,21 +1035,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |
+| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 5.2% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
-| UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
+| UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ❌ perdida | -5.12 |
 | UpTheBlues | Will Águilas Doradas Rionegro win on 202 | No (BUY) | 88% | 5.00 | 0.2% | ✅ ganada | +0.65 |
 | RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
 | RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ✅ ganada | +5.97 |
 | UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
-| UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
 | RN1 | CA Central Córdoba vs. CSyD Defensa y Ju | Under (BUY) | 73% | 5.00 | 0.7% | ❌ perdida | -5.07 |
 | UpTheBlues | Spread: UMass (-33.5) | Stonehill (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 5.5% | ✅ ganada | +0.59 |
