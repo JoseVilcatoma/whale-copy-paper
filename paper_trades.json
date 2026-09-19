@@ -142373,5 +142373,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789801711.7821076,
     "fills": 1
+  },
+  {
+    "timestamp": 1789801918,
+    "timestamp_added": 1789801919.0348363,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lal-osa-ray-2026-09-19-ray",
+    "title": "Will Rayo Vallecano de Madrid win on 2026-09-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 660.62,
+    "whale_pct": 0.175,
+    "whale_value_at_open": 376596.0535,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789801919.0348487,
+    "fills": 1
   }
 ]
