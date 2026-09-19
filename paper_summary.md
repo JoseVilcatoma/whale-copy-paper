@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 20:01:53 (hora de Perú)
+Actualizado: 2026-09-18 20:03:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $76.81
-**Retorno acumulado:** -84.64%
+**Bankroll actual:** $72.47
+**Retorno acumulado:** -85.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 20:01:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.92 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $71.92 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,9 +39,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| UpTheBlues | 26 | 5 | 4 | +10.76 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| UpTheBlues | 25 | 5 | 5 | +10.11 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -154,9 +154,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 550 | 260 | 3 | -32.92 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
+| RN1 | 551 | 261 | 3 | -37.91 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5511
-- **Aciertos:** 3459 (62.8%)
-- **Cuota promedio de entrada:** 62.8%
+- **Apuestas resueltas:** 5514
+- **Aciertos:** 3461 (62.8%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,406.19
-- **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $508.81 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,421.19
+- **ROI sobre lo apostado:** -2.01%
+- **Comisiones pagadas (taker fee):** $508.88 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,8 +181,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2844 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1614 | 68.6% | 67.8% | +0.7 pp |
-| 80-94% | 754 | 85.7% | 86.5% | -0.9 pp |
-| 95-99% (casi seguro) | 299 | 97.3% | 97.3% | +0.0 pp |
+| 80-94% | 756 | 85.6% | 86.5% | -1.0 pp |
+| 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1033,6 +1033,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
@@ -1040,9 +1042,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
 | UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
-| UpTheBlues | Will Águilas Doradas Rionegro win on 202 | No (BUY) | 88% | 5.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Will Águilas Doradas Rionegro win on 202 | No (BUY) | 88% | 5.00 | 0.2% | ✅ ganada | +0.65 |
 | RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
-| RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Will Deportivo Pereira win on 2026-09-18 | No (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ⏳ pendiente | — |
 | UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
@@ -1050,7 +1052,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CA Central Córdoba vs. CSyD Defensa y Ju | Under (BUY) | 73% | 5.00 | 0.7% | ❌ perdida | -5.07 |
 | UpTheBlues | Spread: UMass (-33.5) | Stonehill (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 89% | 5.00 | 5.5% | ✅ ganada | +0.59 |
-| RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Will Águilas Doradas Rionegro win on 202 | Yes (BUY) | 86% | 5.00 | 1.2% | ❌ perdida | -5.04 |
 | UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ❌ perdida | -3.92 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
@@ -1061,5 +1063,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will RCD Espanyol de Barcelona win on 20 | No (BUY) | 95% | 4.84 | 1.2% | ✅ ganada | +0.24 |
 | RN1 | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 63% | 4.83 | 1.9% | ✅ ganada | +2.75 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | No (BUY) | 82% | 5.00 | 0.9% | ❌ perdida | -5.04 |
-| RN1 | Will Manchester City WFC win on 2026-09- | No (BUY) | 63% | 5.00 | 0.4% | ❌ perdida | -5.09 |
-| GoalLineGhost | FC Bayern München vs. 1. FC Union Berlin | Over (BUY) | 90% | 5.00 | 1.7% | ✅ ganada | +0.53 |
