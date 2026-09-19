@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 22:38:03 (hora de Perú)
+Actualizado: 2026-09-18 22:40:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $66.46
-**Retorno acumulado:** -86.71%
+**Bankroll actual:** $65.03
+**Retorno acumulado:** -86.99%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 22:38:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.46 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $61.46 en 13 posiciones abiertas (disponible para nuevas apuestas: $3.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -97,6 +97,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | quavoo | 35 | 20 | 0 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 14 | 0 | -1.18 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -113,7 +114,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 14 | 14 | 1 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | Kch-Temp | 3 | 3 | 0 | -5.06 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 551 | 261 | 8 | -37.91 USD |
+| RN1 | 551 | 262 | 8 | -43.00 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5521
-- **Aciertos:** 3465 (62.8%)
+- **Apuestas resueltas:** 5523
+- **Aciertos:** 3466 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,454.42
+- **Total apostado (suma de stakes):** $27,464.42
 - **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $509.47 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $509.67 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,8 +179,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2848 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1615 | 68.5% | 67.8% | +0.7 pp |
+| 40-59% | 2849 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1616 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 758 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 300 | 97.3% | 97.3% | +0.0 pp |
 
@@ -1033,20 +1033,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ⏳ pendiente | — |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Over (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Houston vs. Texas Tech: O/U 61.5 | Under (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Texas Tech (-4.5) | Houston (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ✅ ganada | +3.66 |
 | UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ❌ perdida | -5.12 |
 | UpTheBlues | Will Águilas Doradas Rionegro win on 202 | No (BUY) | 88% | 5.00 | 0.2% | ✅ ganada | +0.65 |
 | RN1 | Counter-Strike: ShindeN vs Turma do Pago | Turma do Pagode (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
@@ -1062,4 +1063,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
 | RN1 | Counter-Strike: Galorys vs Bounty Hunter | Galorys (BUY) | 62% | 3.85 | 0.4% | ❌ perdida | -3.92 |
 | GoalLineGhost | Will Elche CF win on 2026-09-18? | Yes (BUY) | 98% | 5.00 | 0.7% | ✅ ganada | +0.10 |
-| RN1 | Will RCD Espanyol de Barcelona vs. Elche | No (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |

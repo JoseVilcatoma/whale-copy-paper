@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.46043121155951,
+  "bankroll": 65.03236103612092,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28685,6 +28685,16 @@
       "timestamp": 1789787576.895302,
       "bankroll": 66.46,
       "event": "won: BrotherObama \u2014 Milwaukee Brewers vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1789789141.1921165,
+      "bankroll": 70.12,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Miami (FL) (-21.5)"
+    },
+    {
+      "timestamp": 1789789141.941462,
+      "bankroll": 65.03,
+      "event": "lost: RN1 \u2014 Spread: Miami (FL) (-23.5)"
     }
   ]
 }
