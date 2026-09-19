@@ -1,5 +1,5 @@
 {
-  "bankroll": 50.97895818362632,
+  "bankroll": 53.469715759383895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28855,6 +28855,11 @@
       "timestamp": 1789841304.5239656,
       "bankroll": 50.98,
       "event": "won: GoalLineGhost \u2014 Spread: Ipswich Town FC (-1.5)"
+    },
+    {
+      "timestamp": 1789850642.4301617,
+      "bankroll": 53.47,
+      "event": "won: Flaznorp \u2014 AS Roma vs. FC Internazionale Milano: Both Teams to Score"
     }
   ]
 }
