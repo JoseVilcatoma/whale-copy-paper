@@ -142677,8 +142677,8 @@
     "title": "Spread: Delaware (-1.5)",
     "outcome": "Coastal Carolina",
     "side": "BUY",
-    "whale_usd": 1400.0000000000002,
-    "whale_pct": 0.181,
+    "whale_usd": 2750.0,
+    "whale_pct": 0.356,
     "whale_value_at_open": 772609.3654,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -142689,7 +142689,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789834069.7997656,
-    "fills": 1
+    "last_fill_at": 1789834376.1120484,
+    "fills": 2
   }
 ]

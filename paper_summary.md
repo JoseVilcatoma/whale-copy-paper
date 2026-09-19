@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 11:12:50 (hora de Perú)
+Actualizado: 2026-09-19 11:14:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $58.88
@@ -1037,7 +1037,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |
 | Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
