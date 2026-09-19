@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 18:25:51 (hora de Perú)
+Actualizado: 2026-09-19 18:27:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $51.08
-**Retorno acumulado:** -89.78%
+**Bankroll actual:** $55.40
+**Retorno acumulado:** -88.92%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 18:25:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $51.08 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $55.40 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | purplegatto | 1 | 0 | 0 | +1.87 USD |
+| UpTheBlues | 31 | 9 | 0 | +1.80 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -88,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Donkey14 | 0 | 0 | 1 | +0.00 USD |
-| Elaran1993 | 0 | 0 | 1 | +0.00 USD |
+| Elaran1993 | 0 | 0 | 2 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -105,7 +106,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| UpTheBlues | 30 | 9 | 1 | -2.52 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 150 | 56 | 0 | -19.17 USD |
+| Flaznorp | 150 | 56 | 1 | -19.17 USD |
 | Zzzz87 | 3 | 6 | 0 | -23.12 USD |
 | BrotherObama | 16 | 19 | 0 | -23.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -166,14 +166,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5557
-- **Aciertos:** 3486 (62.7%)
+- **Apuestas resueltas:** 5558
+- **Aciertos:** 3487 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,621.19
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $512.17 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,626.19
+- **ROI sobre lo apostado:** -2.06%
+- **Comisiones pagadas (taker fee):** $512.29 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2864 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2865 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1626 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1039,6 +1039,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes (BUY) | 74% | 4.32 | 10.9% | ⏳ pendiente | — |
+| Flaznorp | Will D.C. United SC win on 2026-09-19? | No (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Temple vs. Toledo | Toledo (BUY) | 47% | 2.61 | 0.3% | ⏳ pendiente | — |
 | Elaran1993 | Clube do Remo vs. Santos FC: O/U 2.5 | Under (BUY) | 49% | 5.00 | 34.3% | ⏳ pendiente | — |
 | RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ⏳ pendiente | — |
@@ -1067,5 +1069,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ❌ perdida | -3.10 |
 | Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ❌ perdida | -5.00 |

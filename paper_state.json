@@ -1,5 +1,5 @@
 {
-  "bankroll": 51.084215759383895,
+  "bankroll": 55.40117802353484,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28870,6 +28870,11 @@
       "timestamp": 1789853238.7535632,
       "bankroll": 51.08,
       "event": "won: RN1 \u2014 Spread: FC Barcelona (-2.5)"
+    },
+    {
+      "timestamp": 1789860358.7970142,
+      "bankroll": 55.4,
+      "event": "won: UpTheBlues \u2014 Spread: UMass (-33.5)"
     }
   ]
 }
