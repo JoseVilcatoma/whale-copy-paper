@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 03:27:44 (hora de Perú)
+Actualizado: 2026-09-19 03:29:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 03:27:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $61.73 en 13 posiciones abiertas (disponible para nuevas apuestas: $12.50)
+**Capital comprometido ahora mismo:** $71.73 en 15 posiciones abiertas (disponible para nuevas apuestas: $2.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,9 +149,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 3 | 5 | 1 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 0 | -21.10 USD |
-| Flaznorp | 149 | 56 | 0 | -21.66 USD |
+| Flaznorp | 149 | 56 | 1 | -21.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 561 | 264 | 0 | -25.04 USD |
+| RN1 | 561 | 264 | 1 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1035,6 +1035,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
+| Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1063,5 +1065,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ✅ ganada | +2.61 |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
-| GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ❌ perdida | -5.09 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
