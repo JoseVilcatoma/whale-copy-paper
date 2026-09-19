@@ -141851,8 +141851,8 @@
     "title": "FC Ju\u00e1rez vs. Tigres de la UANL: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5200.0,
-    "whale_pct": 2.238,
+    "whale_usd": 7750.0,
+    "whale_pct": 3.335,
     "whale_value_at_open": 232358.0879,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -141863,7 +141863,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789783218.2591815,
-    "fills": 2
+    "last_fill_at": 1789783451.0555532,
+    "fills": 3
   }
 ]
