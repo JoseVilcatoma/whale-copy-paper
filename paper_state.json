@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.469715759383895,
+  "bankroll": 48.3617157593839,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28860,6 +28860,11 @@
       "timestamp": 1789850642.4301617,
       "bankroll": 53.47,
       "event": "won: Flaznorp \u2014 AS Roma vs. FC Internazionale Milano: Both Teams to Score"
+    },
+    {
+      "timestamp": 1789851371.6060436,
+      "bankroll": 48.36,
+      "event": "lost: RN1 \u2014 Spread: Delaware (-1.5)"
     }
   ]
 }
