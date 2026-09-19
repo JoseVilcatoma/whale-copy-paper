@@ -142091,8 +142091,8 @@
     "title": "Spread: FC Ju\u00e1rez (-1.5)",
     "outcome": "Tigres de la UANL",
     "side": "BUY",
-    "whale_usd": 1848.7014290000002,
-    "whale_pct": 0.903,
+    "whale_usd": 2813.701429,
+    "whale_pct": 1.375,
     "whale_value_at_open": 204630.2758,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -142103,8 +142103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789790736.0455945,
-    "fills": 2
+    "last_fill_at": 1789790912.0875456,
+    "fills": 3
   },
   {
     "timestamp": 1789790721,
