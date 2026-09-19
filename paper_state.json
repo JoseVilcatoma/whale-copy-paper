@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.884809247456104,
+  "bankroll": 50.6748092474561,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28840,6 +28840,16 @@
       "timestamp": 1789834060.9273415,
       "bankroll": 58.88,
       "event": "venta anticipada: Feromont \u2014 Will Newcastle United FC vs. Hull City AFC end in a draw? (+0.59 USD)"
+    },
+    {
+      "timestamp": 1789837877.2486453,
+      "bankroll": 53.78,
+      "event": "lost: Zzzz87 \u2014 Will Arsenal FC win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789837877.3488064,
+      "bankroll": 50.67,
+      "event": "lost: GoalLineGhost \u2014 Will Arsenal FC win on 2026-09-19?"
     }
   ]
 }

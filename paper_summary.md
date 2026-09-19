@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 12:10:19 (hora de Perú)
+Actualizado: 2026-09-19 12:12:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.88
-**Retorno acumulado:** -88.22%
+**Bankroll actual:** $50.67
+**Retorno acumulado:** -89.87%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 12:10:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $58.04 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.84)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,14 +146,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| Zzzz87 | 3 | 5 | 1 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 149 | 56 | 1 | -21.66 USD |
+| Zzzz87 | 3 | 6 | 0 | -23.12 USD |
 | BrotherObama | 16 | 19 | 0 | -23.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| GoalLineGhost | 91 | 41 | 2 | -25.72 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| GoalLineGhost | 91 | 42 | 1 | -28.82 USD |
 | RN1 | 562 | 266 | 1 | -32.92 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5551
+- **Apuestas resueltas:** 5553
 - **Aciertos:** 3483 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,593.15
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $511.70 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,601.19
+- **ROI sobre lo apostado:** -2.08%
+- **Comisiones pagadas (taker fee):** $511.87 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2861 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2863 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1624 | 68.5% | 67.8% | +0.7 pp |
 | 80-94% | 764 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1057,8 +1057,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |
 | UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ❌ perdida | -5.06 |
 | RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ✅ ganada | +7.05 |
-| GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ⏳ pendiente | — |
-| Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ❌ perdida | -3.10 |
+| Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ❌ perdida | -5.00 |
