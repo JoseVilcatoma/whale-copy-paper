@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 13:58:16 (hora de Perú)
+Actualizado: 2026-09-19 14:00:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $50.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 13:58:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $5.98)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| Donkey14 | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -1037,6 +1038,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donkey14 | SMU vs. Louisville | SMU (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |
@@ -1066,4 +1068,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Under (BUY) | 48% | 3.57 | 0.2% | ❌ perdida | -3.66 |
 | RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.6% | ✅ ganada | +2.38 |
-| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ❌ perdida | -2.83 |

@@ -142691,5 +142691,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789834376.1120484,
     "fills": 2
+  },
+  {
+    "timestamp": 1789844400,
+    "timestamp_added": 1789844401.7271614,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "cfb-smu-lou-2026-09-19",
+    "title": "SMU vs. Louisville",
+    "outcome": "SMU",
+    "side": "BUY",
+    "whale_usd": 1508.7719299999999,
+    "whale_pct": 1.42,
+    "whale_value_at_open": 106216.3735,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789844401.7271776,
+    "fills": 1
   }
 ]
