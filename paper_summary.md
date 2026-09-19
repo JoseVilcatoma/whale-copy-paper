@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 06:27:51 (hora de Perú)
+Actualizado: 2026-09-19 06:29:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 06:27:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.50)
+**Capital comprometido ahora mismo:** $77.73 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 1 | -21.10 USD |
 | Flaznorp | 149 | 56 | 1 | -21.66 USD |
-| RN1 | 562 | 264 | 1 | -24.26 USD |
+| RN1 | 562 | 264 | 2 | -24.26 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
@@ -1036,6 +1036,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | 1. FC Kaiserslautern vs. Eintracht Braun | Over (BUY) | 53% | 3.50 | 0.6% | ⏳ pendiente | — |
 | RN1 | Ljubljana: Samira De Stefano vs Laura Sa | Laura Samson (BUY) | 66% | 5.00 | 3.7% | ⏳ pendiente | — |
 | UpTheBlues | PSM Makassar vs. Persita Tangerang: O/U  | Under (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 49% | 2.50 | 217.9% | ⏳ pendiente | — |
@@ -1065,4 +1066,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ✅ ganada | +2.27 |
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ❌ perdida | -5.12 |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
-| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ✅ ganada | +2.61 |

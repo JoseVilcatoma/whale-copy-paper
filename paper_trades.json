@@ -142519,5 +142519,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789817149.9066906,
     "fills": 1
+  },
+  {
+    "timestamp": 1789817317,
+    "timestamp_added": 1789817318.504868,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bl2-fck-bra-2026-09-19-first-half-total-0pt5",
+    "title": "1. FC Kaiserslautern vs. Eintracht Braunschweig: 1st Half O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 758.6800000000001,
+    "whale_pct": 0.567,
+    "whale_value_at_open": 133919.8946,
+    "paper_stake_usd": 3.5,
+    "odds_at_bet": 53,
+    "fee_usd": 0.082,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789817318.5048811,
+    "fills": 1
   }
 ]
