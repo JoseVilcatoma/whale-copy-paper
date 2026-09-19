@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.71104096236863,
+  "bankroll": 67.62604096236863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28790,6 +28790,11 @@
       "timestamp": 1789821726.9927292,
       "bankroll": 72.71,
       "event": "lost: UpTheBlues \u2014 PSM Makassar vs. Persita Tangerang: O/U 3.5"
+    },
+    {
+      "timestamp": 1789822784.4664006,
+      "bankroll": 67.63,
+      "event": "lost: RN1 \u2014 Ljubljana: Samira De Stefano vs Laura Samson"
     }
   ]
 }
