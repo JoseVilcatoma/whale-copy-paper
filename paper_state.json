@@ -1,5 +1,5 @@
 {
-  "bankroll": 55.66183171936622,
+  "bankroll": 58.29383171936622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28830,6 +28830,11 @@
       "timestamp": 1789830134.5907366,
       "bankroll": 55.66,
       "event": "lost: RN1 \u2014 1. FC Kaiserslautern vs. Eintracht Braunschweig: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1789832690.5397215,
+      "bankroll": 58.29,
+      "event": "won: Feromont \u2014 Counter-Strike: MOUZ vs FURIA (BO3) - StarLadder StarSeries Playoffs"
     }
   ]
 }
