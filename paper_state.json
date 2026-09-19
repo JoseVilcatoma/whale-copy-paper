@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.35360751318903,
+  "bankroll": 62.26360751318903,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28655,6 +28655,11 @@
       "timestamp": 1789781020.3511212,
       "bankroll": 67.35,
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 1H Spread: Miami (FL) (-11.5)"
+    },
+    {
+      "timestamp": 1789782897.1332188,
+      "bankroll": 62.26,
+      "event": "lost: GoalLineGhost \u2014 New York City FC vs. New York Red Bulls: O/U 2.5"
     }
   ]
 }
