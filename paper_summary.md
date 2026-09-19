@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 04:55:38 (hora de Perú)
+Actualizado: 2026-09-19 04:57:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.23
-**Retorno acumulado:** -85.15%
+**Bankroll actual:** $75.01
+**Retorno acumulado:** -85.00%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 04:55:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $69.23 en 15 posiciones abiertas (disponible para nuevas apuestas: $5.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,8 +150,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 1 | -21.10 USD |
 | Flaznorp | 149 | 56 | 1 | -21.66 USD |
+| RN1 | 562 | 264 | 0 | -24.26 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 561 | 264 | 1 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -164,13 +164,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5539
-- **Aciertos:** 3477 (62.8%)
+- **Apuestas resueltas:** 5540
+- **Aciertos:** 3478 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,540.76
+- **Total apostado (suma de stakes):** $27,545.76
 - **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $510.90 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $510.94 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2856 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1621 | 68.5% | 67.8% | +0.7 pp |
-| 80-94% | 760 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 761 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1037,7 +1037,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 49% | 2.50 | 217.9% | ⏳ pendiente | — |
-| RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
+| RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ✅ ganada | +0.78 |
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
