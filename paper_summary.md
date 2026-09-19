@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 21:43:56 (hora de Perú)
+Actualizado: 2026-09-18 21:46:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.02
@@ -1038,7 +1038,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 10.8% | ⏳ pendiente | — |
+| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 11.6% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
