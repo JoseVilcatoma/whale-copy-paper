@@ -141803,8 +141803,8 @@
     "title": "Houston vs. Texas Tech",
     "outcome": "Texas Tech",
     "side": "BUY",
-    "whale_usd": 17109.619699999996,
-    "whale_pct": 8.032,
+    "whale_usd": 17945.333985999994,
+    "whale_pct": 8.424,
     "whale_value_at_open": 213028.8937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -141815,8 +141815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789784776.280941,
-    "fills": 12
+    "last_fill_at": 1789785253.698689,
+    "fills": 13
   },
   {
     "timestamp": 1789779771,
