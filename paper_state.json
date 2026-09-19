@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.3053022125915,
+  "bankroll": 70.9692320371529,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28700,6 +28700,11 @@
       "timestamp": 1789789579.630631,
       "bankroll": 67.31,
       "event": "won: RN1 \u2014 Guadalajara Open Akron: Liudmila Samsonova vs Peyton Stearns"
+    },
+    {
+      "timestamp": 1789789705.1678352,
+      "bankroll": 70.97,
+      "event": "won: RN1 \u2014 Houston vs. Texas Tech: O/U 61.5"
     }
   ]
 }

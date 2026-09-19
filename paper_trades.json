@@ -141930,8 +141930,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -141947,8 +141947,8 @@
     "title": "Portland State vs. Oregon: O/U 75.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1649.7,
-    "whale_pct": 0.461,
+    "whale_usd": 2701.66,
+    "whale_pct": 0.754,
     "whale_value_at_open": 358199.2261,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -141959,8 +141959,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789787766.1672754,
-    "fills": 1
+    "last_fill_at": 1789789668.8397524,
+    "fills": 2
   },
   {
     "timestamp": 1789788045,
@@ -142032,6 +142032,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1789789240.263895,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789789673,
+    "timestamp_added": 1789789673.5364802,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fpd-per-spo-2026-09-18-total-4pt5",
+    "title": "AD Municipal P\u00e9rez Zeled\u00f3n vs. Sporting FC: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1472.1299999999999,
+    "whale_pct": 1.011,
+    "whale_value_at_open": 145665.6174,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789789673.5364888,
     "fills": 1
   }
 ]
