@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 16:31:51 (hora de Perú)
+Actualizado: 2026-09-19 16:33:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $51.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 16:31:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.47 en 10 posiciones abiertas (disponible para nuevas apuestas: $2.61)
+**Capital comprometido ahora mismo:** $51.08 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 563 | 267 | 1 | -35.31 USD |
+| RN1 | 563 | 267 | 2 | -35.31 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1039,6 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Temple vs. Toledo | Toledo (BUY) | 47% | 2.61 | 0.3% | ⏳ pendiente | — |
 | Elaran1993 | Clube do Remo vs. Santos FC: O/U 2.5 | Under (BUY) | 49% | 5.00 | 34.3% | ⏳ pendiente | — |
 | RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: FC Barcelona (-2.5) | Sevilla FC (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
@@ -1068,4 +1069,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ❌ perdida | -5.00 |
-| GoalLineGhost | Spread: Tottenham Hotspur FC (-2.5) | Aston Villa FC (BUY) | 91% | 5.00 | 0.9% | ✅ ganada | +0.47 |

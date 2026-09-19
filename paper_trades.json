@@ -142787,5 +142787,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789853254.39936,
     "fills": 1
+  },
+  {
+    "timestamp": 1789853511,
+    "timestamp_added": 1789853511.600106,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-templ-toledo-2026-09-19",
+    "title": "Temple vs. Toledo",
+    "outcome": "Toledo",
+    "side": "BUY",
+    "whale_usd": 897.0,
+    "whale_pct": 0.255,
+    "whale_value_at_open": 351587.1315,
+    "paper_stake_usd": 2.61,
+    "odds_at_bet": 47,
+    "fee_usd": 0.069,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789853511.600122,
+    "fills": 1
   }
 ]
