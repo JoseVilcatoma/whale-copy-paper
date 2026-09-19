@@ -142177,5 +142177,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789791194.3802376,
     "fills": 1
+  },
+  {
+    "timestamp": 1789791524,
+    "timestamp_added": 1789791524.7964132,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "epl-bri-ars-2026-09-19-ars",
+    "title": "Will Arsenal FC win on 2026-09-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 761.0008000000001,
+    "whale_pct": 0.36,
+    "whale_value_at_open": 211682.6103,
+    "paper_stake_usd": 3.04,
+    "odds_at_bet": 57,
+    "fee_usd": 0.065,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Zzzz87"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789791524.7964215,
+    "fills": 1
   }
 ]

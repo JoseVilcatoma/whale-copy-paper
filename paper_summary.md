@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 23:17:41 (hora de Perú)
+Actualizado: 2026-09-18 23:19:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.07
@@ -13,7 +13,7 @@ Actualizado: 2026-09-18 23:17:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.03 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.04)
+**Capital comprometido ahora mismo:** $78.07 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 0 | -21.10 USD |
 | Flaznorp | 149 | 56 | 0 | -21.66 USD |
-| GoalLineGhost | 89 | 39 | 4 | -22.50 USD |
+| GoalLineGhost | 89 | 39 | 5 | -22.50 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1028,11 +1028,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zheng-krueger-2026-09-18 | RN1, UpTheBlues |
 | col1-gdr-dep-2026-09-18-gdr | RN1, UpTheBlues |
 | wta-stoiana-badosa-2026-09-18 | RN1, UpTheBlues |
+| epl-bri-ars-2026-09-19-ars | GoalLineGhost, Zzzz87 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
@@ -1062,4 +1064,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Boston Red Sox vs. Tampa Bay Rays: O/U 6 | Under (BUY) | 45% | 5.00 | 23.1% | ✅ ganada | +5.97 |
 | UpTheBlues | Sao Paulo Open: Mary Stoiana vs Paula Ba | Paula Badosa (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | RN1 | Tiburon: Michael Zheng vs Mitchell Krueg | Michael Zheng (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
-| UpTheBlues | Indiana Fever vs. Toronto Tempo | Indiana Fever (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
