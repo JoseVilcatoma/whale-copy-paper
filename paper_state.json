@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.01054096236864,
+  "bankroll": 77.73304096236863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28780,6 +28780,11 @@
       "timestamp": 1789811858.4908235,
       "bankroll": 75.01,
       "event": "won: RN1 \u2014 W35 Santa Margherita di Pula: Franziska Sziedat vs Alisa Oktiabreva"
+    },
+    {
+      "timestamp": 1789817039.1187942,
+      "bankroll": 77.73,
+      "event": "won: UpTheBlues \u2014 Will Kashima Antlers win on 2026-09-19?"
     }
   ]
 }

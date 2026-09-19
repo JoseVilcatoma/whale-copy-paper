@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 06:23:49 (hora de Perú)
+Actualizado: 2026-09-19 06:25:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $75.01
-**Retorno acumulado:** -85.00%
+**Bankroll actual:** $77.73
+**Retorno acumulado:** -84.45%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 06:23:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.78)
+**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,6 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| UpTheBlues | 28 | 7 | 5 | +3.66 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -82,7 +83,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | TAIWANNUMBERONE | 39 | 28 | 1 | +0.99 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-| UpTheBlues | 27 | 7 | 6 | +0.94 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 1 | -21.10 USD |
 | Flaznorp | 149 | 56 | 1 | -21.66 USD |
-| RN1 | 562 | 264 | 0 | -24.26 USD |
+| RN1 | 562 | 264 | 1 | -24.26 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5540
-- **Aciertos:** 3478 (62.8%)
+- **Apuestas resueltas:** 5541
+- **Aciertos:** 3479 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,545.76
-- **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $510.94 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,550.76
+- **ROI sobre lo apostado:** -1.98%
+- **Comisiones pagadas (taker fee):** $511.03 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2856 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1621 | 68.5% | 67.8% | +0.7 pp |
+| 60-79% | 1622 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 761 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1036,12 +1036,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ljubljana: Samira De Stefano vs Laura Sa | Laura Samson (BUY) | 66% | 5.00 | 3.7% | ⏳ pendiente | — |
 | UpTheBlues | PSM Makassar vs. Persita Tangerang: O/U  | Under (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | BrotherObama | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 49% | 2.50 | 217.9% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ✅ ganada | +0.78 |
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 203.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1065,4 +1066,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ❌ perdida | -5.12 |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ✅ ganada | +2.61 |
-| GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
