@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.05520626351777,
+  "bankroll": 72.24446552277703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28745,6 +28745,26 @@
       "timestamp": 1789799434.8049974,
       "bankroll": 81.06,
       "event": "won: RN1 \u2014 Korea Open, Qualification: Mai Hontama vs Eun-Hye Lee"
+    },
+    {
+      "timestamp": 1789801634.6685581,
+      "bankroll": 75.94,
+      "event": "lost: RN1 \u2014 FC Ju\u00e1rez vs. Tigres de la UANL: O/U 2.5"
+    },
+    {
+      "timestamp": 1789801634.9262125,
+      "bankroll": 73.1,
+      "event": "lost: GoalLineGhost \u2014 Will Tigres de la UANL win on 2026-09-18?"
+    },
+    {
+      "timestamp": 1789801635.5136392,
+      "bankroll": 68.1,
+      "event": "lost: GoalLineGhost \u2014 Spread: FC Ju\u00e1rez (-1.5)"
+    },
+    {
+      "timestamp": 1789801635.8827803,
+      "bankroll": 72.24,
+      "event": "won: GoalLineGhost \u2014 Will Tigres de la UANL win on 2026-09-18?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 02:06:42 (hora de Perú)
+Actualizado: 2026-09-19 02:08:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.06
-**Retorno acumulado:** -83.79%
+**Bankroll actual:** $72.24
+**Retorno acumulado:** -85.55%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 02:06:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.50 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.56)
+**Capital comprometido ahora mismo:** $66.73 en 14 posiciones abiertas (disponible para nuevas apuestas: $5.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| UpTheBlues | 27 | 6 | 4 | +6.00 USD |
+| UpTheBlues | 27 | 6 | 5 | +6.00 USD |
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
@@ -150,11 +150,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | BrotherObama | 16 | 18 | 0 | -21.10 USD |
 | Flaznorp | 149 | 56 | 0 | -21.66 USD |
-| GoalLineGhost | 89 | 39 | 6 | -22.50 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
+| GoalLineGhost | 90 | 41 | 3 | -26.19 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 560 | 263 | 2 | -26.97 USD |
+| RN1 | 560 | 264 | 1 | -32.09 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -164,14 +164,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5533
-- **Aciertos:** 3475 (62.8%)
+- **Apuestas resueltas:** 5537
+- **Aciertos:** 3476 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,512.99
-- **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $510.40 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,530.76
+- **ROI sobre lo apostado:** -2.00%
+- **Comisiones pagadas (taker fee):** $510.70 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -179,10 +179,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2852 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2855 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1620 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 760 | 85.7% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 301 | 97.3% | 97.3% | +0.0 pp |
+| 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1035,6 +1035,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 67.1% | ⏳ pendiente | — |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1043,19 +1044,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 57% | 3.04 | 0.9% | ⏳ pendiente | — |
 | Zzzz87 | Will Arsenal FC win on 2026-09-19? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | No (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | LSU vs. Ole Miss | LSU (BUY) | 60% | 5.00 | 17.2% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: FC Juárez (-1.5) | Tigres de la UANL (BUY) | 99% | 5.00 | 1.4% | ❌ perdida | -5.00 |
 | GoalLineGhost | Spread: Tottenham Hotspur FC (-2.5) | Aston Villa FC (BUY) | 91% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Under (BUY) | 48% | 3.57 | 0.2% | ❌ perdida | -3.66 |
 | RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.6% | ✅ ganada | +2.38 |
-| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ❌ perdida | -2.83 |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Over (BUY) | 80% | 5.00 | 0.8% | ✅ ganada | +1.20 |
 | RN1 | Houston vs. Texas Tech: O/U 61.5 | Under (BUY) | 57% | 5.00 | 0.4% | ✅ ganada | +3.66 |
 | RN1 | Spread: Texas Tech (-4.5) | Houston (BUY) | 52% | 5.00 | 1.6% | ✅ ganada | +4.50 |
 | RN1 | Guadalajara Open Akron: Liudmila Samsono | Peyton Stearns (BUY) | 68% | 5.00 | 1.2% | ✅ ganada | +2.27 |
-| RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ⏳ pendiente | — |
+| RN1 | FC Juárez vs. Tigres de la UANL: O/U 2.5 | Over (BUY) | 53% | 5.00 | 3.3% | ❌ perdida | -5.12 |
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.7% | ❌ perdida | -5.09 |
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ✅ ganada | +2.61 |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
@@ -1064,4 +1065,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Over (BUY) | 64% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1H Spread: Miami (FL) (-11.5) | Wake Forest (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Miami (FL) (-21.5) | Wake Forest (BUY) | 57% | 5.00 | 2.3% | ✅ ganada | +3.66 |
-| UpTheBlues | Indiana Fever vs. Toronto Tempo: O/U 187 | Under (BUY) | 51% | 5.00 | 1.9% | ❌ perdida | -5.12 |
