@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 03:36:06 (hora de Perú)
+Actualizado: 2026-09-19 03:38:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.23
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 03:36:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.73 en 15 posiciones abiertas (disponible para nuevas apuestas: $2.50)
+**Capital comprometido ahora mismo:** $74.23 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | Zzzz87 | 3 | 5 | 1 | -18.01 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| BrotherObama | 16 | 18 | 0 | -21.10 USD |
+| BrotherObama | 16 | 18 | 1 | -21.10 USD |
 | Flaznorp | 149 | 56 | 1 | -21.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 561 | 264 | 1 | -25.04 USD |
@@ -1030,11 +1030,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-stoiana-badosa-2026-09-18 | RN1, UpTheBlues |
 | epl-bri-ars-2026-09-19-ars | GoalLineGhost, Zzzz87 |
 | atp-kouame-pacheco-2026-09-19 | RN1, UpTheBlues |
+| lol-ig1-jdg-2026-09-19 | BrotherObama, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 49% | 2.50 | 126.3% | ⏳ pendiente | — |
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1064,4 +1066,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 16.9% | ✅ ganada | +2.61 |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ✅ ganada | +0.54 |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ✅ ganada | +2.61 |
-| UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
