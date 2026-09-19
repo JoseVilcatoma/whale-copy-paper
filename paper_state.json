@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.73304096236863,
+  "bankroll": 72.71104096236863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28785,6 +28785,11 @@
       "timestamp": 1789817039.1187942,
       "bankroll": 77.73,
       "event": "won: UpTheBlues \u2014 Will Kashima Antlers win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789821726.9927292,
+      "bankroll": 72.71,
+      "event": "lost: UpTheBlues \u2014 PSM Makassar vs. Persita Tangerang: O/U 3.5"
     }
   ]
 }
