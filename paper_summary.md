@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 23:21:53 (hora de Perú)
+Actualizado: 2026-09-18 23:23:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.07
@@ -1042,7 +1042,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: Tottenham Hotspur FC (-2.5) | Aston Villa FC (BUY) | 91% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | AD Municipal Pérez Zeledón vs. Sporting  | Under (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Under (BUY) | 48% | 3.57 | 0.2% | ⏳ pendiente | — |
-| RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Singapore Open, Qualification: Jiaqi Wan | Anastasia Kulikova (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Tigres de la UANL win on 2026-09-18 | Yes (BUY) | 53% | 2.77 | 2.2% | ⏳ pendiente | — |
 | RN1 | Portland State vs. Oregon: O/U 75.5 | Over (BUY) | 80% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Houston vs. Texas Tech: O/U 61.5 | Under (BUY) | 57% | 5.00 | 0.4% | ✅ ganada | +3.66 |

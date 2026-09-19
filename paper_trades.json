@@ -141995,8 +141995,8 @@
     "title": "Singapore Open, Qualification: Jiaqi Wang vs Anastasia Kulikova",
     "outcome": "Anastasia Kulikova",
     "side": "BUY",
-    "whale_usd": 956.730953,
-    "whale_pct": 0.263,
+    "whale_usd": 2312.200453,
+    "whale_pct": 0.636,
     "whale_value_at_open": 363387.7648,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -142007,8 +142007,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789789177.652809,
-    "fills": 1
+    "last_fill_at": 1789791731.523358,
+    "fills": 2
   },
   {
     "timestamp": 1789789239,
