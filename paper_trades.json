@@ -141803,8 +141803,8 @@
     "title": "Houston vs. Texas Tech",
     "outcome": "Texas Tech",
     "side": "BUY",
-    "whale_usd": 34273.350652999994,
-    "whale_pct": 16.089,
+    "whale_usd": 35911.710652999995,
+    "whale_pct": 16.858,
     "whale_value_at_open": 213028.8937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -141815,8 +141815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789787729.953853,
-    "fills": 22
+    "last_fill_at": 1789788034.2338192,
+    "fills": 23
   },
   {
     "timestamp": 1789779771,
@@ -141960,6 +141960,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789787766.1672754,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789788045,
+    "timestamp_added": 1789788045.981913,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "mex-jua-tig-2026-09-18-tig",
+    "title": "Will Tigres de la UANL win on 2026-09-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1133.002,
+    "whale_pct": 0.629,
+    "whale_value_at_open": 180212.7149,
+    "paper_stake_usd": 2.77,
+    "odds_at_bet": 53,
+    "fee_usd": 0.065,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789788045.9819214,
     "fills": 1
   }
 ]
