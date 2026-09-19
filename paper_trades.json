@@ -141803,8 +141803,8 @@
     "title": "Houston vs. Texas Tech",
     "outcome": "Texas Tech",
     "side": "BUY",
-    "whale_usd": 31306.650652999997,
-    "whale_pct": 14.696,
+    "whale_usd": 34273.350652999994,
+    "whale_pct": 16.089,
     "whale_value_at_open": 213028.8937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -141815,8 +141815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789787526.3997316,
-    "fills": 21
+    "last_fill_at": 1789787729.953853,
+    "fills": 22
   },
   {
     "timestamp": 1789779771,
@@ -141936,6 +141936,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789784701.6410444,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789787765,
+    "timestamp_added": 1789787766.1672664,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-portst-ore-2026-09-18-total-75pt5",
+    "title": "Portland State vs. Oregon: O/U 75.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1649.7,
+    "whale_pct": 0.461,
+    "whale_value_at_open": 358199.2261,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789787766.1672754,
     "fills": 1
   }
 ]
