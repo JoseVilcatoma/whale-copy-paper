@@ -142701,8 +142701,8 @@
     "title": "SMU vs. Louisville",
     "outcome": "SMU",
     "side": "BUY",
-    "whale_usd": 4475.77193,
-    "whale_pct": 4.214,
+    "whale_usd": 5550.77193,
+    "whale_pct": 5.226,
     "whale_value_at_open": 106216.3735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -142713,7 +142713,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789844839.8825848,
-    "fills": 3
+    "last_fill_at": 1789845031.205141,
+    "fills": 4
   }
 ]
