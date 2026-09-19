@@ -142057,5 +142057,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789789673.5364888,
     "fills": 1
+  },
+  {
+    "timestamp": 1789790677,
+    "timestamp_added": 1789790677.6452634,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "epl-tot-ast-2026-09-19-spread-home-2pt5",
+    "title": "Spread: Tottenham Hotspur FC (-2.5)",
+    "outcome": "Aston Villa FC",
+    "side": "BUY",
+    "whale_usd": 1750.2295,
+    "whale_pct": 0.864,
+    "whale_value_at_open": 202526.1947,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789790677.6452723,
+    "fills": 1
   }
 ]
