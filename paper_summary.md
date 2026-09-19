@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-18 20:28:59 (hora de Perú)
+Actualizado: 2026-09-18 20:31:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $67.35
@@ -1034,7 +1034,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Spread: Miami (FL) (-23.5) | Miami (FL) (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | Houston vs. Texas Tech | Texas Tech (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
 | GoalLineGhost | New York City FC vs. New York Red Bulls: | Under (BUY) | 89% | 4.61 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Club Independiente Petrolero win on | No (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Tottenham Hotspur FC vs. Aston Villa FC: | Under (BUY) | 46% | 3.69 | 1.7% | ⏳ pendiente | — |
