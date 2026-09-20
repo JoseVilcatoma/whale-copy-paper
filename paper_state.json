@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.29367155897572,
+  "bankroll": 97.02823677636702,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29060,6 +29060,11 @@
       "timestamp": 1789913660.9595778,
       "bankroll": 91.29,
       "event": "won: RN1 \u2014 Feyenoord Rotterdam vs. FC Utrecht: O/U 6.5"
+    },
+    {
+      "timestamp": 1789914600.8088036,
+      "bankroll": 97.03,
+      "event": "won: Flaznorp \u2014 Dewa United vs. PSS Sleman: 1st Half O/U 0.5"
     }
   ]
 }
