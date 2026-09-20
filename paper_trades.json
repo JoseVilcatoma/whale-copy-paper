@@ -142955,5 +142955,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789869508.1296434,
     "fills": 1
+  },
+  {
+    "timestamp": 1789869653,
+    "timestamp_added": 1789869653.8833556,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mls-por-atl-2026-09-19-por",
+    "title": "Will Portland Timbers win on 2026-09-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 23054.646900000003,
+    "whale_pct": 11.332,
+    "whale_value_at_open": 203451.3687,
+    "paper_stake_usd": 4.5,
+    "odds_at_bet": 52,
+    "fee_usd": 0.108,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789869653.8833692,
+    "fills": 1
   }
 ]
