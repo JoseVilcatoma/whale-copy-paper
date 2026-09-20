@@ -144462,8 +144462,8 @@
     "title": "Jaguars vs. Broncos",
     "outcome": "Jaguars",
     "side": "BUY",
-    "whale_usd": 40391.058,
-    "whale_pct": 1.381,
+    "whale_usd": 46224.092899999996,
+    "whale_pct": 1.581,
     "whale_value_at_open": 2924168.1482,
     "paper_stake_usd": 3.1,
     "odds_at_bet": 57,
@@ -144474,8 +144474,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789940823.882611,
-    "fills": 7
+    "last_fill_at": 1789941141.7755237,
+    "fills": 8
   },
   {
     "timestamp": 1789938732,
@@ -144510,8 +144510,8 @@
     "title": "Raiders vs. Chargers",
     "outcome": "Chargers",
     "side": "BUY",
-    "whale_usd": 73246.425,
-    "whale_pct": 2.591,
+    "whale_usd": 76260.595,
+    "whale_pct": 2.698,
     "whale_value_at_open": 2826911.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -144522,8 +144522,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789939665.4283423,
-    "fills": 6
+    "last_fill_at": 1789941165.720837,
+    "fills": 7
   },
   {
     "timestamp": 1789939268,
