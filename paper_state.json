@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.66255450873354,
+  "bankroll": 92.50707063776579,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29080,6 +29080,16 @@
       "timestamp": 1789918195.2311592,
       "bankroll": 94.66,
       "event": "won: RN1 \u2014 Hannover 96 vs. VfL Bochum: O/U 2.5"
+    },
+    {
+      "timestamp": 1789919651.26091,
+      "bankroll": 89.54,
+      "event": "lost: gransaaa \u2014 Will AIK win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789919653.1564398,
+      "bankroll": 92.51,
+      "event": "won: RN1 \u2014 Will AIK win on 2026-09-20?"
     }
   ]
 }
