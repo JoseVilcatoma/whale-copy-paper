@@ -143390,5 +143390,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789891188.318316,
     "fills": 1
+  },
+  {
+    "timestamp": 1789892015,
+    "timestamp_added": 1789892016.0327115,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lal-dep-bet-2026-09-20-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2871.31,
+    "whale_pct": 1.214,
+    "whale_value_at_open": 236502.4539,
+    "paper_stake_usd": 4.2,
+    "odds_at_bet": 53,
+    "fee_usd": 0.099,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789892016.0327222,
+    "fills": 1
   }
 ]

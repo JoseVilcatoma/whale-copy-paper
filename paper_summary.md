@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 03:12:51 (hora de Perú)
+Actualizado: 2026-09-20 03:14:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 03:12:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $4.20)
+**Capital comprometido ahora mismo:** $69.20 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
-| UpTheBlues | 32 | 9 | 1 | +4.29 USD |
+| UpTheBlues | 32 | 9 | 2 | +4.29 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -1041,6 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ⏳ pendiente | — |
 | UpTheBlues | Will FC Machida Zelvia win on 2026-09-20 | No (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1070,4 +1071,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ❌ perdida | -3.56 |
 | RN1 | Spread: FC Barcelona (-2.5) | Sevilla FC (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
 | Donkey14 | SMU vs. Louisville | SMU (BUY) | 44% | 5.00 | 16.9% | ❌ perdida | -5.14 |
-| RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ❌ perdida | -5.11 |
