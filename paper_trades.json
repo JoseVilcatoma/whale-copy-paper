@@ -143970,5 +143970,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789915793.951854,
     "fills": 1
+  },
+  {
+    "timestamp": 1789918454,
+    "timestamp_added": 1789918455.118644,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lal-mad-rea-2026-09-20-total-1pt5",
+    "title": "Club Atl\u00e9tico de Madrid vs. Real Madrid CF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1985.9994,
+    "whale_pct": 0.436,
+    "whale_value_at_open": 455479.8018,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789918455.1186528,
+    "fills": 1
   }
 ]
