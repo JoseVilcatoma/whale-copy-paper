@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 09:34:13 (hora de Perú)
+Actualizado: 2026-09-20 09:36:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 09:34:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.20 en 17 posiciones abiertas (disponible para nuevas apuestas: $12.83)
+**Capital comprometido ahora mismo:** $89.20 en 18 posiciones abiertas (disponible para nuevas apuestas: $7.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
-| Donkey14 | 0 | 1 | 1 | -5.14 USD |
+| Donkey14 | 0 | 1 | 2 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | Flaznorp | 153 | 56 | 4 | -5.66 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 3 | -6.28 USD |
@@ -1043,6 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ⏳ pendiente | — |
 | Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1072,4 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Eagles (-7.5) | Titans (BUY) | 55% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Zzzz87 | Will SSC Napoli win on 2026-09-20? | Yes (BUY) | 44% | 5.00 | 2.5% | ❌ perdida | -5.14 |
 | RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
-| RN1 | W35 Hurghada: Ekaterina Perelygina vs Ek | Ekaterina Perelygina (BUY) | 75% | 5.00 | 1.3% | ✅ ganada | +1.60 |
