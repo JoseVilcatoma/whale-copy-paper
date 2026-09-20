@@ -144462,8 +144462,8 @@
     "title": "Jaguars vs. Broncos",
     "outcome": "Jaguars",
     "side": "BUY",
-    "whale_usd": 46224.092899999996,
-    "whale_pct": 1.581,
+    "whale_usd": 50923.738099999995,
+    "whale_pct": 1.741,
     "whale_value_at_open": 2924168.1482,
     "paper_stake_usd": 3.1,
     "odds_at_bet": 57,
@@ -144474,8 +144474,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789941141.7755237,
-    "fills": 8
+    "last_fill_at": 1789942011.4984312,
+    "fills": 9
   },
   {
     "timestamp": 1789938732,
