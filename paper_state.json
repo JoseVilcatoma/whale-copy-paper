@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.9823706816927,
+  "bankroll": 89.3666694194206,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29010,6 +29010,16 @@
       "timestamp": 1789904564.6413877,
       "bankroll": 85.98,
       "event": "won: RN1 \u2014 Saint Tropez: Daniel Jade vs Ryan Peniston"
+    },
+    {
+      "timestamp": 1789908321.2945497,
+      "bankroll": 88.95,
+      "event": "won: UpTheBlues \u2014 Spread: Borneo Samarinda (-1.5)"
+    },
+    {
+      "timestamp": 1789908321.6068923,
+      "bankroll": 89.37,
+      "event": "won: UpTheBlues \u2014 Spread: Borneo Samarinda (-2.5)"
     }
   ]
 }

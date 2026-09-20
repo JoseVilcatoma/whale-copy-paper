@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 07:44:36 (hora de Perú)
+Actualizado: 2026-09-20 07:46:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $85.98
-**Retorno acumulado:** -82.80%
+**Bankroll actual:** $89.37
+**Retorno acumulado:** -82.13%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 07:44:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.04)
+**Capital comprometido ahora mismo:** $73.94 en 15 posiciones abiertas (disponible para nuevas apuestas: $15.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
+| UpTheBlues | 35 | 9 | 1 | +10.77 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
@@ -48,7 +49,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
-| UpTheBlues | 33 | 9 | 3 | +7.39 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5585
-- **Aciertos:** 3506 (62.8%)
+- **Apuestas resueltas:** 5587
+- **Aciertos:** 3508 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,751.32
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $514.88 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,761.32
+- **ROI sobre lo apostado:** -1.92%
+- **Comisiones pagadas (taker fee):** $515.00 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,8 +184,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2882 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1633 | 68.6% | 67.8% | +0.8 pp |
-| 80-94% | 767 | 85.7% | 86.6% | -0.9 pp |
+| 60-79% | 1634 | 68.7% | 67.8% | +0.8 pp |
+| 80-94% | 768 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1046,8 +1046,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ⏳ pendiente | — |
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ⏳ pendiente | — |
-| UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
+| UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
+| UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ✅ ganada | +2.97 |
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Dewa United vs. PSS Sleman: 1st Half O/U | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ✅ ganada | +4.68 |
