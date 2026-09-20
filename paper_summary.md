@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 05:13:40 (hora de Perú)
+Actualizado: 2026-09-20 05:15:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $75.84
-**Retorno acumulado:** -84.83%
+**Bankroll actual:** $78.94
+**Retorno acumulado:** -84.21%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 05:13:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.20 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.64)
+**Capital comprometido ahora mismo:** $69.20 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
+| UpTheBlues | 33 | 9 | 3 | +7.39 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -56,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 3 | 1 | 0 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
-| UpTheBlues | 32 | 9 | 4 | +4.29 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5583
-- **Aciertos:** 3504 (62.8%)
+- **Apuestas resueltas:** 5584
+- **Aciertos:** 3505 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,741.32
-- **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $514.64 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,746.32
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $514.73 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2881 | 49.7% | 50.1% | -0.3 pp |
-| 60-79% | 1632 | 68.6% | 67.8% | +0.8 pp |
+| 60-79% | 1633 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 767 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1049,7 +1049,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ✅ ganada | +0.30 |
-| UpTheBlues | Will FC Machida Zelvia win on 2026-09-20 | No (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
+| UpTheBlues | Will FC Machida Zelvia win on 2026-09-20 | No (BUY) | 61% | 5.00 | 0.9% | ✅ ganada | +3.10 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Patriots (-4.5) | Steelers (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Cowboys: O/U 50.5 | Under (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Eagles (-7.5) | Titans (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |

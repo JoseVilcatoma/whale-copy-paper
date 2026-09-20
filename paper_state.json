@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.83652741899778,
+  "bankroll": 78.93524873047319,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29000,6 +29000,11 @@
       "timestamp": 1789898464.5291982,
       "bankroll": 75.84,
       "event": "won: RN1 \u2014 Saint Tropez: Michele Ribecai vs Mathys Domenc"
+    },
+    {
+      "timestamp": 1789899340.25296,
+      "bankroll": 78.94,
+      "event": "won: UpTheBlues \u2014 Will FC Machida Zelvia win on 2026-09-20?"
     }
   ]
 }
