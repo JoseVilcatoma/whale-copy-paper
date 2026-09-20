@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 07:22:16 (hora de Perú)
+Actualizado: 2026-09-20 07:24:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.98
@@ -1042,7 +1042,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 5.8% | ⏳ pendiente | — |
+| RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ⏳ pendiente | — |
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ⏳ pendiente | — |

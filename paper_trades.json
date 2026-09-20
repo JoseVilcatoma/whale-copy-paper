@@ -143618,8 +143618,8 @@
     "title": "ACF Fiorentina vs. SSC Napoli: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 8587.419999999998,
-    "whale_pct": 5.821,
+    "whale_usd": 11645.529999999999,
+    "whale_pct": 7.894,
     "whale_value_at_open": 147523.1676,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -143630,7 +143630,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789906882.568079,
-    "fills": 4
+    "last_fill_at": 1789907025.111866,
+    "fills": 5
   }
 ]
