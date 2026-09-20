@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:01:23 (hora de Perú)
+Actualizado: 2026-09-20 17:03:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:01:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.07 en 20 posiciones abiertas (disponible para nuevas apuestas: $3.66)
+**Capital comprometido ahora mismo:** $97.73 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 583 | 273 | 4 | -15.65 USD |
+| RN1 | 583 | 273 | 5 | -15.65 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Londrina EC win on 2026-09-20? | No (BUY) | 67% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ✅ ganada | +3.02 |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | GoalLineGhost | Club Atlético de Madrid vs. Real Madrid  | Over (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
-| Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ❌ perdida | -2.90 |

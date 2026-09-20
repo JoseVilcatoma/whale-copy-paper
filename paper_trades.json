@@ -144668,5 +144668,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789941584.1395998,
     "fills": 1
+  },
+  {
+    "timestamp": 1789941798,
+    "timestamp_added": 1789941799.132193,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-was-dal-2026-09-20-total-51pt5",
+    "title": "Commanders vs. Cowboys: O/U 51.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3105.8,
+    "whale_pct": 0.23,
+    "whale_value_at_open": 1350651.6862,
+    "paper_stake_usd": 3.66,
+    "odds_at_bet": 54,
+    "fee_usd": 0.084,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789941799.1322029,
+    "fills": 1
   }
 ]
