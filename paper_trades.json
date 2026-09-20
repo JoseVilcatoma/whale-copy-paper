@@ -143560,5 +143560,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789900175.9061952,
     "fills": 11
+  },
+  {
+    "timestamp": 1789900933,
+    "timestamp_added": 1789900933.502524,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ere-fey-utr-2026-09-20-total-6pt5",
+    "title": "Feyenoord Rotterdam vs. FC Utrecht: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 620.01,
+    "whale_pct": 1.56,
+    "whale_value_at_open": 39731.9805,
+    "paper_stake_usd": 4.74,
+    "odds_at_bet": 85,
+    "fee_usd": 0.036,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789900933.5025349,
+    "fills": 1
   }
 ]
