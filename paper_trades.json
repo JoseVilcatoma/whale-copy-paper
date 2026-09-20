@@ -143006,5 +143006,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789871590.4435384,
     "fills": 1
+  },
+  {
+    "timestamp": 1789873222,
+    "timestamp_added": 1789873222.771223,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-nyy-ari-2026-09-19",
+    "title": "New York Yankees vs. Arizona Diamondbacks",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 40000.00000000001,
+    "whale_pct": 66.325,
+    "whale_value_at_open": 60308.8349,
+    "paper_stake_usd": 2.49,
+    "odds_at_bet": 46,
+    "fee_usd": 0.067,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789873222.7712374,
+    "fills": 1
   }
 ]

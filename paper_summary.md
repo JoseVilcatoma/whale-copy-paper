@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 21:58:42 (hora de Perú)
+Actualizado: 2026-09-19 22:00:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $59.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 21:58:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.56 en 12 posiciones abiertas (disponible para nuevas apuestas: $2.49)
+**Capital comprometido ahora mismo:** $59.05 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 3 | 6 | 0 | -23.12 USD |
-| BrotherObama | 16 | 19 | 0 | -23.66 USD |
+| BrotherObama | 16 | 19 | 1 | -23.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1040,6 +1040,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ⏳ pendiente | — |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ⏳ pendiente | — |
 | Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1069,4 +1070,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 203.9% | ❌ perdida | -5.13 |
-| UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
