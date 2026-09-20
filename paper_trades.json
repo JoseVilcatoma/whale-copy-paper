@@ -143184,8 +143184,8 @@
     "title": "W35 Hurghada: Ekaterina Perelygina vs Ekaterina Tupitsyna",
     "outcome": "Ekaterina Perelygina",
     "side": "BUY",
-    "whale_usd": 711.88,
-    "whale_pct": 0.437,
+    "whale_usd": 1421.6799999999998,
+    "whale_pct": 0.872,
     "whale_value_at_open": 163068.2347,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -143196,7 +143196,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789888354.1570845,
-    "fills": 1
+    "last_fill_at": 1789888507.2684228,
+    "fills": 2
   }
 ]
