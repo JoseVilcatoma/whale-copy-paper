@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 07:48:39 (hora de Perú)
+Actualizado: 2026-09-20 07:50:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 07:48:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $10.43)
+**Capital comprometido ahora mismo:** $88.94 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 572 | 270 | 4 | -19.20 USD |
+| RN1 | 572 | 270 | 6 | -19.20 USD |
 | Zzzz87 | 3 | 6 | 1 | -23.12 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -1043,6 +1043,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -1071,5 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
-| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ✅ ganada | +4.05 |
-| Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ✅ ganada | +5.29 |
