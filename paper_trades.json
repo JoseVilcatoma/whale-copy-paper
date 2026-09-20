@@ -144140,5 +144140,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789922243.7359002,
     "fills": 1
+  },
+  {
+    "timestamp": 1789922875,
+    "timestamp_added": 1789922875.5514011,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nfl-car-atl-2026-09-20",
+    "title": "Panthers vs. Falcons",
+    "outcome": "Panthers",
+    "side": "BUY",
+    "whale_usd": 36666.3,
+    "whale_pct": 7.385,
+    "whale_value_at_open": 496467.0578,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789922875.5514114,
+    "fills": 1
   }
 ]
