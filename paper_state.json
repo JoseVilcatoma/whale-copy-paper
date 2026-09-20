@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.0989844709888,
+  "bankroll": 96.21554968838011,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29195,6 +29195,16 @@
       "timestamp": 1789939973.639956,
       "bankroll": 94.1,
       "event": "won: Donkey14 \u2014 Atlanta Braves vs. Houston Astros"
+    },
+    {
+      "timestamp": 1789940287.229058,
+      "bankroll": 99.83,
+      "event": "won: GoalLineGhost \u2014 Valencia CF vs. Real Sociedad de F\u00fatbol: O/U 3.5"
+    },
+    {
+      "timestamp": 1789940287.3292897,
+      "bankroll": 96.22,
+      "event": "lost: GoalLineGhost \u2014 Valencia CF vs. Real Sociedad de F\u00fatbol: O/U 3.5"
     }
   ]
 }
