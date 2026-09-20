@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.24579024753346,
+  "bankroll": 70.85045691420012,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28985,6 +28985,11 @@
       "timestamp": 1789893902.8409922,
       "bankroll": 69.25,
       "event": "won: RN1 \u2014 Plovdiv 4: Aleksandar Tolev vs Sebastian Gima"
+    },
+    {
+      "timestamp": 1789894028.178897,
+      "bankroll": 70.85,
+      "event": "won: RN1 \u2014 W35 Hurghada: Ekaterina Perelygina vs Ekaterina Tupitsyna"
     }
   ]
 }
