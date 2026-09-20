@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 19:10:47 (hora de Perú)
+Actualizado: 2026-09-19 19:12:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.28
-**Retorno acumulado:** -88.34%
+**Bankroll actual:** $53.14
+**Retorno acumulado:** -89.37%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 19:10:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.79 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.49)
+**Capital comprometido ahora mismo:** $52.79 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -88,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Donkey14 | 0 | 0 | 1 | +0.00 USD |
 | Elaran1993 | 0 | 0 | 2 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
@@ -129,6 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
+| Donkey14 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
@@ -166,14 +166,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5559
+- **Apuestas resueltas:** 5560
 - **Aciertos:** 3488 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,628.80
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $512.36 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,633.80
+- **ROI sobre lo apostado:** -2.06%
+- **Comisiones pagadas (taker fee):** $512.50 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2866 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2867 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1626 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1046,7 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Elaran1993 | Clube do Remo vs. Santos FC: O/U 2.5 | Under (BUY) | 49% | 5.00 | 34.3% | ⏳ pendiente | — |
 | RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: FC Barcelona (-2.5) | Sevilla FC (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
-| Donkey14 | SMU vs. Louisville | SMU (BUY) | 44% | 5.00 | 16.9% | ⏳ pendiente | — |
+| Donkey14 | SMU vs. Louisville | SMU (BUY) | 44% | 5.00 | 16.9% | ❌ perdida | -5.14 |
 | RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |

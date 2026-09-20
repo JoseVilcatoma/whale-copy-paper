@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.27536951289654,
+  "bankroll": 53.13536951289654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28880,6 +28880,11 @@
       "timestamp": 1789861604.9740458,
       "bankroll": 58.28,
       "event": "won: RN1 \u2014 Temple vs. Toledo"
+    },
+    {
+      "timestamp": 1789863161.0561004,
+      "bankroll": 53.14,
+      "event": "lost: Donkey14 \u2014 SMU vs. Louisville"
     }
   ]
 }
