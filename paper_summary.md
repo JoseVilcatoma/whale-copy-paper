@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 00:27:33 (hora de Perú)
+Actualizado: 2026-09-20 00:29:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.03
-**Retorno acumulado:** -88.39%
+**Bankroll actual:** $62.08
+**Retorno acumulado:** -87.58%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 00:27:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.56 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.47)
+**Capital comprometido ahora mismo:** $52.06 en 11 posiciones abiertas (disponible para nuevas apuestas: $10.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,6 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | UpTheBlues | 32 | 9 | 0 | +4.29 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| Elaran1993 | 1 | 0 | 2 | +4.05 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -89,7 +90,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| Elaran1993 | 0 | 0 | 3 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -167,14 +167,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5569
-- **Aciertos:** 3493 (62.7%)
+- **Apuestas resueltas:** 5570
+- **Aciertos:** 3494 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,674.76
-- **ROI sobre lo apostado:** -2.04%
-- **Comisiones pagadas (taker fee):** $513.45 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,679.26
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $513.56 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -182,7 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2873 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2874 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1629 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1046,7 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
-| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ⏳ pendiente | — |
+| Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ✅ ganada | +4.05 |
 | Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |

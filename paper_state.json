@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.03484292320716,
+  "bankroll": 62.080689077053314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28930,6 +28930,11 @@
       "timestamp": 1789876860.8661096,
       "bankroll": 58.03,
       "event": "lost: kkookkoo \u2014 LSU vs. Ole Miss"
+    },
+    {
+      "timestamp": 1789882132.057685,
+      "bankroll": 62.08,
+      "event": "won: Elaran1993 \u2014 Will Portland Timbers win on 2026-09-19?"
     }
   ]
 }
