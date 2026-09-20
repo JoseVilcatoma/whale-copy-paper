@@ -143150,5 +143150,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789882646.9000964,
     "fills": 1
+  },
+  {
+    "timestamp": 1789882668,
+    "timestamp_added": 1789882669.248063,
+    "username": "gransaaa",
+    "wallet": "0x4d3079bd4c73bc0e8f7d9f64a9f64fadbd17a42d",
+    "slug": "lal-dep-bet-2026-09-20-total-2pt5",
+    "title": "RC Deportivo A Coru\u00f1a vs. Real Betis Balompi\u00e9: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 9400.0,
+    "whale_pct": 16.724,
+    "whale_value_at_open": 56205.2824,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789882723.176207,
+    "fills": 2
   }
 ]
