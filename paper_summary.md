@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 11:50:30 (hora de Perú)
+Actualizado: 2026-09-20 11:52:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 11:50:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.55 en 19 posiciones abiertas (disponible para nuevas apuestas: $7.93)
+**Capital comprometido ahora mismo:** $95.48 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 580 | 271 | 1 | -10.80 USD |
+| RN1 | 580 | 271 | 3 | -10.80 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1044,6 +1044,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Panthers vs. Falcons | Panthers (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Cowboys (-3.5) | Commanders (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Betis Balompié win on 2026-09- | Yes (BUY) | 52% | 2.89 | 3.5% | ⏳ pendiente | — |
@@ -1072,5 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ✅ ganada | +2.97 |
-| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ❌ perdida | -5.11 |
-| Flaznorp | Dewa United vs. PSS Sleman: 1st Half O/U | Under (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
