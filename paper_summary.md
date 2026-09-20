@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 08:57:37 (hora de Perú)
+Actualizado: 2026-09-20 08:59:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 08:57:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.55)
+**Capital comprometido ahora mismo:** $88.94 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| Flaznorp | 152 | 56 | 2 | -11.39 USD |
+| Flaznorp | 152 | 56 | 3 | -11.39 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | RN1 | 575 | 270 | 7 | -15.31 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1043,6 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1072,4 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
 | gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
 | RN1 | Northern Illinois vs. Arizona: O/U 62.5 | Under (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
-| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ✅ ganada | +0.78 |
