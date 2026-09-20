@@ -144874,8 +144874,8 @@
     "title": "Spread: Chargers (-6.5)",
     "outcome": "Raiders",
     "side": "BUY",
-    "whale_usd": 1861.2,
-    "whale_pct": 0.127,
+    "whale_usd": 3807.0,
+    "whale_pct": 0.26,
     "whale_value_at_open": 1464722.7943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -144886,8 +144886,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789943260.1401715,
-    "fills": 1
+    "last_fill_at": 1789943730.9604127,
+    "fills": 2
   },
   {
     "timestamp": 1789943289,
