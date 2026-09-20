@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 18:39:45 (hora de Perú)
+Actualizado: 2026-09-20 18:41:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $120.22
-**Retorno acumulado:** -75.96%
+**Bankroll actual:** $115.14
+**Retorno acumulado:** -76.97%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 18:39:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $97.30 en 21 posiciones abiertas (disponible para nuevas apuestas: $22.92)
+**Capital comprometido ahora mismo:** $92.30 en 20 posiciones abiertas (disponible para nuevas apuestas: $22.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,11 +28,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
-| wr0ngw4yb3tt0r | 115 | 83 | 2 | +27.18 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| wr0ngw4yb3tt0r | 115 | 84 | 1 | +22.10 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5638
-- **Aciertos:** 3544 (62.9%)
+- **Apuestas resueltas:** 5639
+- **Aciertos:** 3544 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,995.79
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $519.39 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,000.79
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $519.47 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2913 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1645 | 68.9% | 67.8% | +1.0 pp |
+| 60-79% | 1646 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1066,7 +1066,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will San Martin de San Juan win on 2026- | Yes (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ❌ perdida | -5.08 |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.8% | ❌ perdida | -3.17 |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |

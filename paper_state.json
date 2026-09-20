@@ -1,5 +1,5 @@
 {
-  "bankroll": 120.22494582705582,
+  "bankroll": 115.14294582705583,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29275,6 +29275,11 @@
       "timestamp": 1789947312.653732,
       "bankroll": 120.22,
       "event": "won: RN1 \u2014 Jaguars vs. Broncos"
+    },
+    {
+      "timestamp": 1789947623.6348743,
+      "bankroll": 115.14,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Raiders vs. Chargers"
     }
   ]
 }
