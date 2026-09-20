@@ -144116,5 +144116,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789921088.4951804,
     "fills": 1
+  },
+  {
+    "timestamp": 1789922243,
+    "timestamp_added": 1789922243.7358882,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "nfl-was-dal-2026-09-20-spread-home-3pt5",
+    "title": "Spread: Cowboys (-3.5)",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "whale_usd": 1440.0,
+    "whale_pct": 0.306,
+    "whale_value_at_open": 470850.8967,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789922243.7359002,
+    "fills": 1
   }
 ]
