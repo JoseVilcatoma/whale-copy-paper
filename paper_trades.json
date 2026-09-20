@@ -144342,8 +144342,8 @@
     "title": "Will Paris Saint-Germain FC win on 2026-09-20?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 14670.2868,
-    "whale_pct": 1.932,
+    "whale_usd": 18537.4068,
+    "whale_pct": 2.442,
     "whale_value_at_open": 759199.5294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -144354,8 +144354,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789936866.4581904,
-    "fills": 9
+    "last_fill_at": 1789936919.1806245,
+    "fills": 10
   },
   {
     "timestamp": 1789930669,

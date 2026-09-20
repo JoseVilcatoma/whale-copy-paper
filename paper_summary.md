@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 15:41:30 (hora de Perú)
+Actualizado: 2026-09-20 15:43:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.94
@@ -1047,7 +1047,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: BAL (-8.5) | BAL (BUY) | 50% | 2.57 | 0.6% | ⏳ pendiente | — |
-| UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 1.9% | ⏳ pendiente | — |
+| UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 2.4% | ⏳ pendiente | — |
 | UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
 | RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 | RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
