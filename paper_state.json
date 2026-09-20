@@ -1,5 +1,5 @@
 {
-  "bankroll": 107.22443551580132,
+  "bankroll": 111.2033446067104,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29230,6 +29230,11 @@
       "timestamp": 1789942945.3495424,
       "bankroll": 107.22,
       "event": "won: UpTheBlues \u2014 CA Rosario Central vs. AA Argentinos Juniors: O/U 2.5"
+    },
+    {
+      "timestamp": 1789943133.369097,
+      "bankroll": 111.2,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Eagles (-7.5)"
     }
   ]
 }
