@@ -144452,5 +144452,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789938090.8692465,
     "fills": 1
+  },
+  {
+    "timestamp": 1789938451,
+    "timestamp_added": 1789938452.1254308,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-jax-den-2026-09-20",
+    "title": "Jaguars vs. Broncos",
+    "outcome": "Jaguars",
+    "side": "BUY",
+    "whale_usd": 8614.995200000001,
+    "whale_pct": 0.295,
+    "whale_value_at_open": 2924168.1482,
+    "paper_stake_usd": 3.1,
+    "odds_at_bet": 57,
+    "fee_usd": 0.067,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789938452.1254518,
+    "fills": 1
   }
 ]
