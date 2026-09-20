@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.3666694194206,
+  "bankroll": 91.47905037180156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29020,6 +29020,16 @@
       "timestamp": 1789908321.6068923,
       "bankroll": 89.37,
       "event": "won: UpTheBlues \u2014 Spread: Borneo Samarinda (-2.5)"
+    },
+    {
+      "timestamp": 1789908694.9420962,
+      "bankroll": 90.57,
+      "event": "won: RN1 \u2014 ACF Fiorentina vs. SSC Napoli: O/U 1.5"
+    },
+    {
+      "timestamp": 1789908756.9570737,
+      "bankroll": 91.48,
+      "event": "won: RN1 \u2014 ACF Fiorentina vs. SSC Napoli: O/U 3.5"
     }
   ]
 }
