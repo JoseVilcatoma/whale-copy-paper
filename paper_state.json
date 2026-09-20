@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.849065299389906,
+  "bankroll": 54.91106529938991,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28950,6 +28950,16 @@
       "timestamp": 1789888054.0475872,
       "bankroll": 62.85,
       "event": "won: kkookkoo \u2014 Fresno State vs. San Jose State"
+    },
+    {
+      "timestamp": 1789888674.3323047,
+      "bankroll": 57.73,
+      "event": "lost: RN1 \u2014 Spread: Florida (-3.5)"
+    },
+    {
+      "timestamp": 1789888674.6156359,
+      "bankroll": 54.91,
+      "event": "lost: RN1 \u2014 Spread: Florida (-2.5)"
     }
   ]
 }
