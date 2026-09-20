@@ -144548,5 +144548,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789939269.4652214,
     "fills": 1
+  },
+  {
+    "timestamp": 1789940076,
+    "timestamp_added": 1789940077.02235,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "arg-pla-new-2026-09-20-total-1pt5",
+    "title": "CA Platense vs. CA Newell's Old Boys: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 938.0999999999999,
+    "whale_pct": 0.165,
+    "whale_value_at_open": 567675.7184,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789940077.0223615,
+    "fills": 1
   }
 ]

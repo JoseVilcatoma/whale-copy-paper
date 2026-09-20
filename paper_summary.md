@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:33:01 (hora de Perú)
+Actualizado: 2026-09-20 16:35:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 16:33:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.61 en 18 posiciones abiertas (disponible para nuevas apuestas: $11.49)
+**Capital comprometido ahora mismo:** $87.61 en 19 posiciones abiertas (disponible para nuevas apuestas: $6.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -135,7 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Flaznorp | 156 | 57 | 0 | -8.07 USD |
+| Flaznorp | 156 | 57 | 1 | -8.07 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ✅ ganada | +3.10 |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ✅ ganada | +1.60 |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ❌ perdida | -5.14 |
-| Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
