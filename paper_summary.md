@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:21:05 (hora de Perú)
+Actualizado: 2026-09-20 02:23:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $54.91
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:21:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.32 en 9 posiciones abiertas (disponible para nuevas apuestas: $10.59)
+**Capital comprometido ahora mismo:** $49.32 en 10 posiciones abiertas (disponible para nuevas apuestas: $5.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,7 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 565 | 270 | 3 | -40.42 USD |
+| RN1 | 565 | 270 | 4 | -40.42 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -1041,6 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Ekaterina Perelygina vs Ek | Ekaterina Perelygina (BUY) | 75% | 5.00 | 0.9% | ⏳ pendiente | — |
 | gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
 | gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
@@ -1070,4 +1071,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ✅ ganada | +4.50 |
 | RN1 | 1. FC Kaiserslautern vs. Eintracht Braun | Over (BUY) | 53% | 3.50 | 0.6% | ❌ perdida | -3.58 |
 | RN1 | Ljubljana: Samira De Stefano vs Laura Sa | Laura Samson (BUY) | 66% | 5.00 | 3.7% | ❌ perdida | -5.08 |
-| UpTheBlues | PSM Makassar vs. Persita Tangerang: O/U  | Under (BUY) | 91% | 5.00 | 0.1% | ❌ perdida | -5.02 |

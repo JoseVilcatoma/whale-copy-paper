@@ -143198,5 +143198,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789888507.2684228,
     "fills": 2
+  },
+  {
+    "timestamp": 1789888874,
+    "timestamp_added": 1789888874.47368,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tolev-gima-2026-09-20",
+    "title": "Plovdiv 4: Aleksandar Tolev vs Sebastian Gima",
+    "outcome": "Sebastian Gima",
+    "side": "BUY",
+    "whale_usd": 1320.357534,
+    "whale_pct": 1.125,
+    "whale_value_at_open": 117387.3648,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789888874.4736924,
+    "fills": 1
   }
 ]
