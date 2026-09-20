@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.04213631777402,
+  "bankroll": 88.24213631777403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29175,6 +29175,11 @@
       "timestamp": 1789938089.7740424,
       "bankroll": 87.04,
       "event": "won: Donkey14 \u2014 Philadelphia Phillies vs. New York Mets"
+    },
+    {
+      "timestamp": 1789938720.4710872,
+      "bankroll": 88.24,
+      "event": "won: Zzzz87 \u2014 Will AC Milan win on 2026-09-20?"
     }
   ]
 }
