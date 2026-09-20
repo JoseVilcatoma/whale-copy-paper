@@ -144500,5 +144500,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789938734.2403355,
     "fills": 2
+  },
+  {
+    "timestamp": 1789939143,
+    "timestamp_added": 1789939144.1947608,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-lv-lac-2026-09-20",
+    "title": "Raiders vs. Chargers",
+    "outcome": "Chargers",
+    "side": "BUY",
+    "whale_usd": 7006.9956,
+    "whale_pct": 0.248,
+    "whale_value_at_open": 2826911.484,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789939144.1947713,
+    "fills": 1
   }
 ]
