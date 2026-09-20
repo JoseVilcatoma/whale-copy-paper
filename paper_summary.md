@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:39:10 (hora de Perú)
+Actualizado: 2026-09-20 16:41:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 16:39:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.07 en 19 posiciones abiertas (disponible para nuevas apuestas: $7.15)
+**Capital comprometido ahora mismo:** $94.07 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| UpTheBlues | 37 | 10 | 1 | +14.05 USD |
+| UpTheBlues | 37 | 10 | 2 | +14.05 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will Londrina EC win on 2026-09-20? | No (BUY) | 67% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will San Martin de San Juan win on 2026- | Yes (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Club Atlético de Madrid vs. Real Madrid  | Over (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
 | Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ❌ perdida | -2.90 |
 | Donkey14 | Atlanta Braves vs. Houston Astros | Atlanta Braves (BUY) | 43% | 5.00 | 19.2% | ✅ ganada | +6.48 |
-| Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ✅ ganada | +3.10 |
