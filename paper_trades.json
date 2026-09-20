@@ -143544,8 +143544,8 @@
     "title": "Will SSC Napoli win on 2026-09-20?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 18521.035600000003,
-    "whale_pct": 61.413,
+    "whale_usd": 61801.83702900001,
+    "whale_pct": 204.926,
     "whale_value_at_open": 30158.0913,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -143558,7 +143558,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789899947.2158942,
-    "fills": 4
+    "last_fill_at": 1789900175.9061952,
+    "fills": 11
   }
 ]
