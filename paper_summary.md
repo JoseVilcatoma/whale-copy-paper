@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 07:52:42 (hora de Perú)
+Actualizado: 2026-09-20 07:54:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 07:52:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.54)
+**Capital comprometido ahora mismo:** $88.94 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 574 | 270 | 5 | -17.09 USD |
+| RN1 | 574 | 270 | 6 | -17.09 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Zzzz87 | 3 | 6 | 1 | -23.12 USD |
@@ -1043,6 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -1072,4 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ✅ ganada | +0.78 |
 | kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ✅ ganada | +2.38 |
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
-| BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
