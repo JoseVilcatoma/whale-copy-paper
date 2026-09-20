@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:37:39 (hora de Perú)
+Actualizado: 2026-09-20 02:39:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $67.74
-**Retorno acumulado:** -86.45%
+**Bankroll actual:** $69.20
+**Retorno acumulado:** -86.16%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:37:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $54.32 en 11 posiciones abiertas (disponible para nuevas apuestas: $13.42)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $19.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,6 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
+| Elaran1993 | 2 | 1 | 0 | +0.38 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -97,7 +98,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | quavoo | 35 | 20 | 0 | -1.01 USD |
-| Elaran1993 | 1 | 1 | 1 | -1.08 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5578
-- **Aciertos:** 3499 (62.7%)
+- **Apuestas resueltas:** 5579
+- **Aciertos:** 3500 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,717.00
-- **ROI sobre lo apostado:** -2.01%
-- **Comisiones pagadas (taker fee):** $514.38 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,721.32
+- **ROI sobre lo apostado:** -2.00%
+- **Comisiones pagadas (taker fee):** $514.43 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2880 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1630 | 68.6% | 67.8% | +0.8 pp |
+| 60-79% | 1631 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 766 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ❌ perdida | -2.82 |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
-| Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes (BUY) | 74% | 4.32 | 10.9% | ⏳ pendiente | — |
+| Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes (BUY) | 74% | 4.32 | 10.9% | ✅ ganada | +1.46 |
 | Flaznorp | Will D.C. United SC win on 2026-09-19? | No (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
 | RN1 | Temple vs. Toledo | Toledo (BUY) | 47% | 2.61 | 0.3% | ✅ ganada | +2.87 |
 | Elaran1993 | Clube do Remo vs. Santos FC: O/U 2.5 | Under (BUY) | 49% | 5.00 | 34.3% | ❌ perdida | -5.13 |
