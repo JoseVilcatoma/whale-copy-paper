@@ -1,5 +1,5 @@
 {
-  "bankroll": 115.14294582705583,
+  "bankroll": 112.16515572568434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29280,6 +29280,21 @@
       "timestamp": 1789947623.6348743,
       "bankroll": 115.14,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Raiders vs. Chargers"
+    },
+    {
+      "timestamp": 1789948571.2781863,
+      "bankroll": 116.5,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Commanders vs. Cowboys"
+    },
+    {
+      "timestamp": 1789948573.0991848,
+      "bankroll": 117.28,
+      "event": "won: RN1 \u2014 Commanders vs. Cowboys"
+    },
+    {
+      "timestamp": 1789948573.7777858,
+      "bankroll": 112.17,
+      "event": "lost: TAIWANNUMBERONE \u2014 Spread: Cowboys (-16.5)"
     }
   ]
 }

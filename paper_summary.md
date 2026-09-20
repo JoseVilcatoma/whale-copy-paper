@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 18:54:10 (hora de Perú)
+Actualizado: 2026-09-20 18:56:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $115.14
-**Retorno acumulado:** -76.97%
+**Bankroll actual:** $112.17
+**Retorno acumulado:** -77.57%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 18:54:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.14 en 25 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $100.14 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 115 | 84 | 1 | +22.10 USD |
+| wr0ngw4yb3tt0r | 116 | 84 | 0 | +23.46 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -99,11 +99,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 35 | 20 | 0 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
+| RN1 | 588 | 274 | 6 | -1.58 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
-| RN1 | 587 | 274 | 7 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -116,7 +116,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 16 | 4 | -3.61 USD |
-| TAIWANNUMBERONE | 39 | 29 | 1 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | Flaznorp | 157 | 57 | 8 | -4.84 USD |
@@ -140,6 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| TAIWANNUMBERONE | 39 | 30 | 0 | -9.25 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5639
-- **Aciertos:** 3544 (62.8%)
-- **Cuota promedio de entrada:** 62.8%
+- **Apuestas resueltas:** 5642
+- **Aciertos:** 3546 (62.9%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $28,000.79
-- **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $519.47 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,015.79
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $519.68 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,9 +183,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2913 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1646 | 68.8% | 67.8% | +1.0 pp |
-| 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
+| 40-59% | 2914 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1647 | 68.9% | 67.9% | +1.0 pp |
+| 80-94% | 774 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1054,10 +1054,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ❌ perdida | -5.11 |
 | RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ✅ ganada | +0.78 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ✅ ganada | +3.23 |
@@ -1074,5 +1074,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ❌ perdida | -5.08 |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.8% | ❌ perdida | -3.17 |
-| wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ✅ ganada | +1.36 |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ❌ perdida | -3.62 |
