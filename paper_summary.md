@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 03:44:05 (hora de Perú)
+Actualizado: 2026-09-20 03:46:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.20
-**Retorno acumulado:** -86.16%
+**Bankroll actual:** $69.25
+**Retorno acumulado:** -86.15%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 03:44:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.20 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $64.20 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
-| RN1 | 567 | 270 | 4 | -32.88 USD |
+| RN1 | 568 | 270 | 3 | -32.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5579
-- **Aciertos:** 3500 (62.7%)
+- **Apuestas resueltas:** 5580
+- **Aciertos:** 3501 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,721.32
+- **Total apostado (suma de stakes):** $27,726.32
 - **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $514.43 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $514.44 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2880 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1631 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 766 | 85.6% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1049,7 +1049,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Cowboys: O/U 50.5 | Under (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Eagles (-7.5) | Titans (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will SSC Napoli win on 2026-09-20? | Yes (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
-| RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
 | RN1 | W35 Hurghada: Ekaterina Perelygina vs Ek | Ekaterina Perelygina (BUY) | 75% | 5.00 | 1.3% | ⏳ pendiente | — |
 | gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
 | gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |

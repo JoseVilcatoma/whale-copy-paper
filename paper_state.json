@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.19828519702841,
+  "bankroll": 69.24579024753346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28980,6 +28980,11 @@
       "timestamp": 1789889916.7187018,
       "bankroll": 69.2,
       "event": "won: Elaran1993 \u2014 Will CR Vasco da Gama win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789893902.8409922,
+      "bankroll": 69.25,
+      "event": "won: RN1 \u2014 Plovdiv 4: Aleksandar Tolev vs Sebastian Gima"
     }
   ]
 }
