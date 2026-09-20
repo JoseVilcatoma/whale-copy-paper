@@ -143376,8 +143376,8 @@
     "title": "Saint Tropez: Daniel Jade vs Ryan Peniston",
     "outcome": "Daniel Jade",
     "side": "BUY",
-    "whale_usd": 1076.361333,
-    "whale_pct": 3.953,
+    "whale_usd": 2698.128826,
+    "whale_pct": 9.91,
     "whale_value_at_open": 27227.2445,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -143388,8 +143388,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789891188.318316,
-    "fills": 1
+    "last_fill_at": 1789900018.3243768,
+    "fills": 2
   },
   {
     "timestamp": 1789892015,
