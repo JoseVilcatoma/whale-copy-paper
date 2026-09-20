@@ -143054,5 +143054,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789876933.551408,
     "fills": 1
+  },
+  {
+    "timestamp": 1789877106,
+    "timestamp_added": 1789877107.4626126,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "cfb-frest-sjst-2026-09-19",
+    "title": "Fresno State vs. San Jose State",
+    "outcome": "Fresno State",
+    "side": "BUY",
+    "whale_usd": 10999.999999999998,
+    "whale_pct": 51.293,
+    "whale_value_at_open": 21445.5975,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789877107.4626276,
+    "fills": 1
   }
 ]
