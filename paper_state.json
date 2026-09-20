@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.13536951289654,
+  "bankroll": 49.57136951289654,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28885,6 +28885,11 @@
       "timestamp": 1789863161.0561004,
       "bankroll": 53.14,
       "event": "lost: Donkey14 \u2014 SMU vs. Louisville"
+    },
+    {
+      "timestamp": 1789863473.4111307,
+      "bankroll": 49.57,
+      "event": "lost: RN1 \u2014 Spread: Liberty (-16.5)"
     }
   ]
 }
