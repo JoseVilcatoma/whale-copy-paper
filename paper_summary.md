@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 15:33:27 (hora de Perú)
+Actualizado: 2026-09-20 15:35:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $85.26
-**Retorno acumulado:** -82.95%
+**Bankroll actual:** $80.12
+**Retorno acumulado:** -83.98%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 15:33:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.40 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $80.40 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -128,7 +128,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
-| Donkey14 | 0 | 1 | 4 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 5 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
@@ -142,6 +141,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
+| Donkey14 | 0 | 2 | 3 | -10.28 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5615
+- **Apuestas resueltas:** 5616
 - **Aciertos:** 3527 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,891.26
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $517.22 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,896.26
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $517.36 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2897 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2898 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1640 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 772 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
@@ -1065,7 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donkey14 | Atlanta Braves vs. Houston Astros | Atlanta Braves (BUY) | 43% | 5.00 | 19.2% | ⏳ pendiente | — |
 | Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ✅ ganada | +1.60 |
-| Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ⏳ pendiente | — |
+| Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ❌ perdida | -5.14 |
 | Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |

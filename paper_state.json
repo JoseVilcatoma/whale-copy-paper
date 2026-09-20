@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.26484357772718,
+  "bankroll": 80.12484357772718,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29160,6 +29160,11 @@
       "timestamp": 1789936240.901066,
       "bankroll": 85.26,
       "event": "lost: RN1 \u2014 Spread: Eagles (-13.5)"
+    },
+    {
+      "timestamp": 1789936490.9611113,
+      "bankroll": 80.12,
+      "event": "lost: Donkey14 \u2014 Boston Red Sox vs. Tampa Bay Rays"
     }
   ]
 }
