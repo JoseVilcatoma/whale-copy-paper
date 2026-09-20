@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 12:49:20 (hora de Perú)
+Actualizado: 2026-09-20 12:51:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.19
@@ -1045,7 +1045,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ✅ ganada | +2.63 |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |

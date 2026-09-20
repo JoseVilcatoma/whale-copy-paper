@@ -144246,8 +144246,8 @@
     "title": "Spread: Packers (-7.5)",
     "outcome": "Jets",
     "side": "BUY",
-    "whale_usd": 1349.625,
-    "whale_pct": 0.17,
+    "whale_usd": 3041.625,
+    "whale_pct": 0.383,
     "whale_value_at_open": 795149.5066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -144258,8 +144258,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789926230.5838504,
-    "fills": 1
+    "last_fill_at": 1789926595.3804772,
+    "fills": 2
   },
   {
     "timestamp": 1789926230,
