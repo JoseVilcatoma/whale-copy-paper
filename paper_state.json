@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.47905037180156,
+  "bankroll": 89.710626642988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29030,6 +29030,16 @@
       "timestamp": 1789908756.9570737,
       "bankroll": 91.48,
       "event": "won: RN1 \u2014 ACF Fiorentina vs. SSC Napoli: O/U 3.5"
+    },
+    {
+      "timestamp": 1789908946.3444502,
+      "bankroll": 86.34,
+      "event": "lost: Zzzz87 \u2014 Will SSC Napoli win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789908947.8609073,
+      "bankroll": 89.71,
+      "event": "won: ripley86alien \u2014 Will SSC Napoli win on 2026-09-20?"
     }
   ]
 }
