@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 14:21:25 (hora de Perú)
+Actualizado: 2026-09-20 14:23:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.40
@@ -1048,7 +1048,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
 | RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ✅ ganada | +2.63 |

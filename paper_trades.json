@@ -144270,8 +144270,8 @@
     "title": "Eagles vs. Titans: O/U 39.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5724.999999999999,
-    "whale_pct": 0.72,
+    "whale_usd": 10704.0,
+    "whale_pct": 1.346,
     "whale_value_at_open": 795149.5066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -144282,8 +144282,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789926248.8071556,
-    "fills": 4
+    "last_fill_at": 1789932117.4628055,
+    "fills": 6
   },
   {
     "timestamp": 1789927399,
