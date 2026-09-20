@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 13:01:42 (hora de Perú)
+Actualizado: 2026-09-20 13:03:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $96.19
-**Retorno acumulado:** -80.76%
+**Bankroll actual:** $97.47
+**Retorno acumulado:** -80.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 13:01:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.92 en 20 posiciones abiertas (disponible para nuevas apuestas: $1.27)
+**Capital comprometido ahora mismo:** $94.92 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 581 | 272 | 4 | -13.31 USD |
+| RN1 | 582 | 272 | 4 | -12.03 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5609
-- **Aciertos:** 3525 (62.8%)
+- **Apuestas resueltas:** 5610
+- **Aciertos:** 3526 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,866.62
+- **Total apostado (suma de stakes):** $27,871.62
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $516.68 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $516.73 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2892 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1639 | 68.8% | 67.8% | +0.9 pp |
+| 60-79% | 1640 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 772 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1066,11 +1067,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ❌ perdida | -5.14 |
-| RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ✅ ganada | +1.69 |
 | RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
 | RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ✅ ganada | +1.78 |
 | RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ✅ ganada | +0.91 |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
-| RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ✅ ganada | +0.80 |

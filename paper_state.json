@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.19320135178975,
+  "bankroll": 97.47031527584039,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29130,6 +29130,11 @@
       "timestamp": 1789926108.1756432,
       "bankroll": 96.19,
       "event": "won: GoalLineGhost \u2014 Fulham FC vs. Manchester United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789927360.5769327,
+      "bankroll": 97.47,
+      "event": "won: RN1 \u2014 Br\u00f8ndby IF vs. FC K\u00f8benhavn: O/U 2.5"
     }
   ]
 }
