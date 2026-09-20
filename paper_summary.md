@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:21:41 (hora de Perú)
+Actualizado: 2026-09-20 17:23:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $103.74
-**Retorno acumulado:** -79.25%
+**Bankroll actual:** $107.22
+**Retorno acumulado:** -78.56%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:21:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $103.74 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $93.74 en 21 posiciones abiertas (disponible para nuevas apuestas: $13.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| UpTheBlues | 37 | 10 | 2 | +14.05 USD |
+| UpTheBlues | 38 | 10 | 1 | +14.30 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -118,6 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 39 | 29 | 0 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
+| Flaznorp | 157 | 57 | 1 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -135,7 +136,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Flaznorp | 156 | 57 | 2 | -8.07 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5627
-- **Aciertos:** 3536 (62.8%)
+- **Apuestas resueltas:** 5629
+- **Aciertos:** 3538 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,947.63
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $518.38 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,957.63
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $518.49 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,9 +184,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2904 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1644 | 68.9% | 67.9% | +1.0 pp |
+| 60-79% | 1645 | 68.9% | 67.8% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1045,19 +1045,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ⏳ pendiente | — |
+| UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ✅ ganada | +0.25 |
 | Flaznorp | Will Londrina EC win on 2026-09-20? | No (BUY) | 67% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will San Martin de San Juan win on 2026- | Yes (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ❌ perdida | -3.62 |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |

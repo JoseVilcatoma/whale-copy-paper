@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.74094428773114,
+  "bankroll": 107.22443551580132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29220,6 +29220,16 @@
       "timestamp": 1789942817.5172517,
       "bankroll": 103.74,
       "event": "won: GoalLineGhost \u2014 Will CA Newell's Old Boys win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789942944.8542593,
+      "bankroll": 106.97,
+      "event": "won: Flaznorp \u2014 CA Platense vs. CA Newell's Old Boys: O/U 1.5"
+    },
+    {
+      "timestamp": 1789942945.3495424,
+      "bankroll": 107.22,
+      "event": "won: UpTheBlues \u2014 CA Rosario Central vs. AA Argentinos Juniors: O/U 2.5"
     }
   ]
 }
