@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 23:07:19 (hora de Perú)
+Actualizado: 2026-09-19 23:09:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $58.03
@@ -1040,7 +1040,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ⏳ pendiente | — |
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
