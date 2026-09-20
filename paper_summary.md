@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:16:38 (hora de Perú)
+Actualizado: 2026-09-20 16:18:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $88.24
-**Retorno acumulado:** -82.35%
+**Bankroll actual:** $87.61
+**Retorno acumulado:** -82.48%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 16:16:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.04 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.20)
+**Capital comprometido ahora mismo:** $79.21 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,9 +36,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| UpTheBlues | 37 | 10 | 0 | +14.05 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| UpTheBlues | 36 | 10 | 1 | +11.78 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -134,11 +134,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Donkey14 | 1 | 2 | 2 | -7.18 USD |
 | Flaznorp | 156 | 57 | 0 | -8.07 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| Donkey14 | 1 | 3 | 1 | -10.08 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5619
-- **Aciertos:** 3530 (62.8%)
+- **Apuestas resueltas:** 5621
+- **Aciertos:** 3531 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,911.26
+- **Total apostado (suma de stakes):** $27,919.09
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $517.62 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $517.77 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,8 +183,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2899 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1641 | 68.8% | 67.8% | +1.0 pp |
+| 40-59% | 2900 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1642 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1045,12 +1045,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 0.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: BAL (-8.5) | BAL (BUY) | 50% | 2.57 | 0.6% | ⏳ pendiente | — |
-| UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 2.4% | ⏳ pendiente | — |
+| UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 2.4% | ✅ ganada | +2.27 |
 | UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
 | RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 | RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1066,7 +1066,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ✅ ganada | +3.02 |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | GoalLineGhost | Club Atlético de Madrid vs. Real Madrid  | Over (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
-| Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ⏳ pendiente | — |
+| Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ❌ perdida | -2.90 |
 | Donkey14 | Atlanta Braves vs. Houston Astros | Atlanta Braves (BUY) | 43% | 5.00 | 19.2% | ⏳ pendiente | — |
 | Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ✅ ganada | +3.10 |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ✅ ganada | +1.60 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.24213631777403,
+  "bankroll": 87.61407749424461,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29180,6 +29180,16 @@
       "timestamp": 1789938720.4710872,
       "bankroll": 88.24,
       "event": "won: Zzzz87 \u2014 Will AC Milan win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789939032.0330424,
+      "bankroll": 85.34,
+      "event": "lost: Donkey14 \u2014 Kansas City Royals vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1789939033.3603828,
+      "bankroll": 87.61,
+      "event": "won: UpTheBlues \u2014 Will Paris Saint-Germain FC win on 2026-09-20?"
     }
   ]
 }
