@@ -143462,5 +143462,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789894261.9423196,
     "fills": 1
+  },
+  {
+    "timestamp": 1789895430,
+    "timestamp_added": 1789895431.1040058,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "epl-lee-cry-2026-09-20-total-2pt5",
+    "title": "Leeds United FC vs. Crystal Palace FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3466.4452779999992,
+    "whale_pct": 0.982,
+    "whale_value_at_open": 353071.1751,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789895462.677629,
+    "fills": 2
   }
 ]
