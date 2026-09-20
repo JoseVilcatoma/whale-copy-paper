@@ -144798,8 +144798,8 @@
     "title": "Jaguars vs. Broncos",
     "outcome": "Broncos",
     "side": "BUY",
-    "whale_usd": 5064.0464,
-    "whale_pct": 0.345,
+    "whale_usd": 8417.6464,
+    "whale_pct": 0.574,
     "whale_value_at_open": 1467344.7937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -144812,8 +144812,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789943059.4412224,
-    "fills": 2
+    "last_fill_at": 1789943601.0617416,
+    "fills": 4
   },
   {
     "timestamp": 1789943076,
@@ -144824,8 +144824,8 @@
     "title": "Spread: Chiefs (-6.5)",
     "outcome": "Colts",
     "side": "BUY",
-    "whale_usd": 8075.700000000001,
-    "whale_pct": 1.926,
+    "whale_usd": 8861.400000000001,
+    "whale_pct": 2.113,
     "whale_value_at_open": 419338.7718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -144836,8 +144836,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789943077.4636483,
-    "fills": 1
+    "last_fill_at": 1789943569.0057163,
+    "fills": 2
   },
   {
     "timestamp": 1789943246,
