@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 04:59:05 (hora de Perú)
+Actualizado: 2026-09-20 05:01:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $71.15
-**Retorno acumulado:** -85.77%
+**Bankroll actual:** $75.84
+**Retorno acumulado:** -84.83%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 04:59:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.20 en 14 posiciones abiertas (disponible para nuevas apuestas: $1.95)
+**Capital comprometido ahora mismo:** $64.20 en 13 posiciones abiertas (disponible para nuevas apuestas: $11.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,9 +156,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
+| RN1 | 571 | 270 | 1 | -26.25 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
-| RN1 | 570 | 270 | 2 | -30.93 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5582
-- **Aciertos:** 3503 (62.8%)
+- **Apuestas resueltas:** 5583
+- **Aciertos:** 3504 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,736.32
-- **ROI sobre lo apostado:** -1.99%
-- **Comisiones pagadas (taker fee):** $514.51 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,741.32
+- **ROI sobre lo apostado:** -1.98%
+- **Comisiones pagadas (taker fee):** $514.64 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2880 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2881 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1632 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 767 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
@@ -1043,7 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Dewa United vs. PSS Sleman: 1st Half O/U | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ⏳ pendiente | — |
+| RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ✅ ganada | +4.68 |
 | UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ✅ ganada | +0.30 |

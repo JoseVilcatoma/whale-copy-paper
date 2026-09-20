@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.15460585037033,
+  "bankroll": 75.83652741899778,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28995,6 +28995,11 @@
       "timestamp": 1789895278.4076,
       "bankroll": 71.15,
       "event": "won: RN1 \u2014 Plovdiv 4: Ryo Tabata vs Svyatoslav Gulin"
+    },
+    {
+      "timestamp": 1789898464.5291982,
+      "bankroll": 75.84,
+      "event": "won: RN1 \u2014 Saint Tropez: Michele Ribecai vs Mathys Domenc"
     }
   ]
 }
