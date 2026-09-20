@@ -1,5 +1,5 @@
 {
-  "bankroll": 111.42223669542275,
+  "bankroll": 120.22494582705582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29255,6 +29255,26 @@
       "timestamp": 1789946999.5312726,
       "bankroll": 111.42,
       "event": "won: RN1 \u2014 Spread: Jaguars (-3.5)"
+    },
+    {
+      "timestamp": 1789947310.3516695,
+      "bankroll": 108.26,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Jaguars vs. Broncos"
+    },
+    {
+      "timestamp": 1789947311.6782987,
+      "bankroll": 111.92,
+      "event": "won: RN1 \u2014 San Diego 2: Daniil Ostapenkov vs Quinn Vandecasteele"
+    },
+    {
+      "timestamp": 1789947312.5535731,
+      "bankroll": 115.15,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Jaguars vs. Broncos"
+    },
+    {
+      "timestamp": 1789947312.653732,
+      "bankroll": 120.22,
+      "event": "won: RN1 \u2014 Jaguars vs. Broncos"
     }
   ]
 }
