@@ -143922,5 +143922,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789914991.5312738,
     "fills": 3
+  },
+  {
+    "timestamp": 1789915165,
+    "timestamp_added": 1789915165.5289638,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-atl-hou-2026-09-20",
+    "title": "Atlanta Braves vs. Houston Astros",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 19999.9968,
+    "whale_pct": 19.249,
+    "whale_value_at_open": 103903.014,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789915165.5289729,
+    "fills": 1
   }
 ]
