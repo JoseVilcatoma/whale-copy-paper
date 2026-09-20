@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:19:38 (hora de Perú)
+Actualizado: 2026-09-20 17:21:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $101.25
-**Retorno acumulado:** -79.75%
+**Bankroll actual:** $103.74
+**Retorno acumulado:** -79.25%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:19:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.25 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $103.74 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
-| wr0ngw4yb3tt0r | 114 | 82 | 3 | +27.12 USD |
+| wr0ngw4yb3tt0r | 114 | 82 | 4 | +27.12 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 15 | 4 | -2.46 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 16 | 15 | 5 | -2.46 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 96 | 43 | 2 | -21.91 USD |
+| GoalLineGhost | 97 | 43 | 1 | -19.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5626
-- **Aciertos:** 3535 (62.8%)
+- **Apuestas resueltas:** 5627
+- **Aciertos:** 3536 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,942.63
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $518.29 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,947.63
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $518.38 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2904 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1643 | 68.8% | 67.9% | +1.0 pp |
+| 60-79% | 1644 | 68.9% | 67.9% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1044,6 +1044,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
@@ -1054,8 +1056,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ⏳ pendiente | — |
-| GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 1.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
+| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ❌ perdida | -3.62 |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
@@ -1072,5 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Cowboys (-3.5) | Commanders (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Betis Balompié win on 2026-09- | Yes (BUY) | 52% | 2.89 | 3.5% | ❌ perdida | -2.96 |
 | Elaran1993 | Bengals vs. Texans: O/U 45.5 | Under (BUY) | 53% | 5.00 | 38.2% | ⏳ pendiente | — |
-| Zzzz87 | Will AC Milan win on 2026-09-20? | Yes (BUY) | 80% | 5.00 | 0.8% | ✅ ganada | +1.20 |
-| GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ✅ ganada | +3.02 |

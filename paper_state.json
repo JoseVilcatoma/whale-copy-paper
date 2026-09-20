@@ -1,5 +1,5 @@
 {
-  "bankroll": 101.25018671197357,
+  "bankroll": 103.74094428773114,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29215,6 +29215,11 @@
       "timestamp": 1789942181.8744218,
       "bankroll": 101.25,
       "event": "won: RN1 \u2014 Eagles vs. Titans: O/U 39.5"
+    },
+    {
+      "timestamp": 1789942817.5172517,
+      "bankroll": 103.74,
+      "event": "won: GoalLineGhost \u2014 Will CA Newell's Old Boys win on 2026-09-20?"
     }
   ]
 }
