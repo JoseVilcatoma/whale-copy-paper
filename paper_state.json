@@ -1,5 +1,5 @@
 {
-  "bankroll": 54.91106529938991,
+  "bankroll": 62.449780692523916,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28960,6 +28960,16 @@
       "timestamp": 1789888674.6156359,
       "bankroll": 54.91,
       "event": "lost: RN1 \u2014 Spread: Florida (-2.5)"
+    },
+    {
+      "timestamp": 1789889295.8394284,
+      "bankroll": 61.67,
+      "event": "won: RN1 \u2014 Will CD Guadalajara win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789889296.1339443,
+      "bankroll": 62.45,
+      "event": "won: RN1 \u2014 Will CF Am\u00e9rica win on 2026-09-19?"
     }
   ]
 }

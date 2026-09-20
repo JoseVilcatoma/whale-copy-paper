@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:27:18 (hora de Perú)
+Actualizado: 2026-09-20 02:29:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $54.91
-**Retorno acumulado:** -89.02%
+**Bankroll actual:** $62.45
+**Retorno acumulado:** -87.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:27:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $54.32 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.59)
+**Capital comprometido ahora mismo:** $44.32 en 9 posiciones abiertas (disponible para nuevas apuestas: $18.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,9 +158,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
+| RN1 | 567 | 270 | 2 | -32.88 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 565 | 270 | 4 | -40.42 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5575
-- **Aciertos:** 3496 (62.7%)
+- **Apuestas resueltas:** 5577
+- **Aciertos:** 3498 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,702.00
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $514.07 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,712.00
+- **ROI sobre lo apostado:** -2.03%
+- **Comisiones pagadas (taker fee):** $514.25 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,9 +183,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2878 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2879 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1630 | 68.6% | 67.8% | +0.8 pp |
-| 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 766 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1047,9 +1047,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
 | gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
 | RN1 | Northern Illinois vs. Arizona: O/U 62.5 | Under (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
-| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ✅ ganada | +0.78 |
 | kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ✅ ganada | +2.38 |
-| RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ✅ ganada | +4.05 |
