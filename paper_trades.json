@@ -143184,8 +143184,8 @@
     "title": "W35 Hurghada: Ekaterina Perelygina vs Ekaterina Tupitsyna",
     "outcome": "Ekaterina Perelygina",
     "side": "BUY",
-    "whale_usd": 1421.6799999999998,
-    "whale_pct": 0.872,
+    "whale_usd": 2123.9399999999996,
+    "whale_pct": 1.302,
     "whale_value_at_open": 163068.2347,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -143196,8 +143196,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789888507.2684228,
-    "fills": 2
+    "last_fill_at": 1789889143.2896423,
+    "fills": 3
   },
   {
     "timestamp": 1789888874,
@@ -143221,6 +143221,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789888874.4736924,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789889124,
+    "timestamp_added": 1789889124.6813118,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "sea-fio-nap-2026-09-20-nap",
+    "title": "Will SSC Napoli win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 4264.6023000000005,
+    "whale_pct": 2.525,
+    "whale_value_at_open": 168917.2494,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789889124.6813207,
     "fills": 1
   }
 ]
