@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.85031527584039,
+  "bankroll": 90.40484357772718,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29140,6 +29140,21 @@
       "timestamp": 1789930197.1935318,
       "bankroll": 94.85,
       "event": "lost: UpTheBlues \u2014 Villarreal CF vs. Levante UD: O/U 3.5"
+    },
+    {
+      "timestamp": 1789930505.8701434,
+      "bankroll": 89.74,
+      "event": "lost: gransaaa \u2014 RC Deportivo A Coru\u00f1a vs. Real Betis Balompi\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1789930506.9394226,
+      "bankroll": 93.36,
+      "event": "won: UpTheBlues \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789930508.4644864,
+      "bankroll": 90.4,
+      "event": "lost: Zzzz87 \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-20?"
     }
   ]
 }
