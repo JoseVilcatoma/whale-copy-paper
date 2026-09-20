@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 21:31:41 (hora de Perú)
+Actualizado: 2026-09-19 21:33:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $56.56
-**Retorno acumulado:** -88.69%
+**Bankroll actual:** $59.05
+**Retorno acumulado:** -88.19%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 21:31:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.56 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $56.56 en 12 posiciones abiertas (disponible para nuevas apuestas: $2.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,6 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Elaran1993 | 0 | 0 | 3 | +0.00 USD |
+| kkookkoo | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | Kch-Temp | 4 | 3 | 2 | -0.56 USD |
@@ -145,11 +146,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| Flaznorp | 151 | 56 | 1 | -16.68 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 150 | 56 | 2 | -19.17 USD |
 | Zzzz87 | 3 | 6 | 0 | -23.12 USD |
 | BrotherObama | 16 | 19 | 0 | -23.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -166,14 +167,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5563
-- **Aciertos:** 3490 (62.7%)
+- **Apuestas resueltas:** 5564
+- **Aciertos:** 3491 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,647.27
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $512.79 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,652.27
+- **ROI sobre lo apostado:** -2.04%
+- **Comisiones pagadas (taker fee):** $512.88 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -182,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2869 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1627 | 68.6% | 67.8% | +0.8 pp |
+| 60-79% | 1628 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1030,7 +1031,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-zheng-krueger-2026-09-18 | RN1, UpTheBlues |
 | col1-gdr-dep-2026-09-18-gdr | RN1, UpTheBlues |
 | wta-stoiana-badosa-2026-09-18 | RN1, UpTheBlues |
-| cfb-lsu-miss-2026-09-19 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Kch-Temp |
+| cfb-lsu-miss-2026-09-19 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Kch-Temp, kkookkoo |
 | epl-bri-ars-2026-09-19-ars | GoalLineGhost, Zzzz87 |
 | atp-kouame-pacheco-2026-09-19 | RN1, UpTheBlues |
 | lol-ig1-jdg-2026-09-19 | BrotherObama, TAIWANNUMBERONE |
@@ -1039,13 +1040,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ⏳ pendiente | — |
 | Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes (BUY) | 74% | 4.32 | 10.9% | ⏳ pendiente | — |
-| Flaznorp | Will D.C. United SC win on 2026-09-19? | No (BUY) | 66% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Will D.C. United SC win on 2026-09-19? | No (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
 | RN1 | Temple vs. Toledo | Toledo (BUY) | 47% | 2.61 | 0.3% | ✅ ganada | +2.87 |
 | Elaran1993 | Clube do Remo vs. Santos FC: O/U 2.5 | Under (BUY) | 49% | 5.00 | 34.3% | ⏳ pendiente | — |
 | RN1 | Spread: Liberty (-16.5) | Ball State (BUY) | 46% | 3.47 | 0.3% | ❌ perdida | -3.56 |
@@ -1068,4 +1070,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: Ipswich Town FC (-1.5) | Everton FC (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
 | TAIWANNUMBERONE | LoL: Invictus Gaming vs JD Gaming (BO5)  | JD Gaming (BUY) | 47% | 5.00 | 203.9% | ❌ perdida | -5.13 |
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
-| RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |

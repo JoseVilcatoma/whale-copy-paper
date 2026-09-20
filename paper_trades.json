@@ -142828,8 +142828,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -142979,5 +142979,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789869945.9172227,
     "fills": 2
+  },
+  {
+    "timestamp": 1789871590,
+    "timestamp_added": 1789871590.4435217,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "cfb-lsu-miss-2026-09-19",
+    "title": "LSU vs. Ole Miss",
+    "outcome": "LSU",
+    "side": "BUY",
+    "whale_usd": 15000.0,
+    "whale_pct": 12.921,
+    "whale_value_at_open": 116087.9917,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+      "Kch-Temp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789871590.4435384,
+    "fills": 1
   }
 ]

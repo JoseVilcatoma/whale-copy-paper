@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.55751170403873,
+  "bankroll": 59.04826927979631,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28900,6 +28900,11 @@
       "timestamp": 1789869066.620193,
       "bankroll": 56.56,
       "event": "won: Kch-Temp \u2014 Spread: South Carolina (-3.5)"
+    },
+    {
+      "timestamp": 1789871559.7337325,
+      "bankroll": 59.05,
+      "event": "won: Flaznorp \u2014 Will D.C. United SC win on 2026-09-19?"
     }
   ]
 }
