@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 20:58:26 (hora de Perú)
+Actualizado: 2026-09-19 21:00:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 20:58:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $47.06 en 10 posiciones abiertas (disponible para nuevas apuestas: $9.50)
+**Capital comprometido ahora mismo:** $52.06 en 11 posiciones abiertas (disponible para nuevas apuestas: $4.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -149,7 +149,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 150 | 56 | 1 | -19.17 USD |
+| Flaznorp | 150 | 56 | 2 | -19.17 USD |
 | Zzzz87 | 3 | 6 | 0 | -23.12 USD |
 | BrotherObama | 16 | 19 | 0 | -23.66 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -1039,6 +1039,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
@@ -1068,4 +1069,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Spread: FK Kharkiv (-2.5) | FSK Bukovyna Chernivtsi (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
 | RN1 | Korea Open, Qualification: Mai Hontama v | Eun-Hye Lee (BUY) | 92% | 5.00 | 3.4% | ✅ ganada | +0.41 |
 | UpTheBlues | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Moise Kouame (BUY) | 76% | 5.00 | 0.7% | ❌ perdida | -5.06 |
-| RN1 | Phan Thiet 4: Moise Kouame vs Rodrigo Pa | Rodrigo Pacheco (BUY) | 41% | 5.00 | 0.8% | ✅ ganada | +7.05 |

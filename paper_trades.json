@@ -142931,5 +142931,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789864165.4699306,
     "fills": 1
+  },
+  {
+    "timestamp": 1789869507,
+    "timestamp_added": 1789869508.1296284,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "col1-adp-onc-2026-09-19-adp",
+    "title": "Will AD Pasto win on 2026-09-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 746.36,
+    "whale_pct": 0.124,
+    "whale_value_at_open": 603704.6185,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789869508.1296434,
+    "fills": 1
   }
 ]
