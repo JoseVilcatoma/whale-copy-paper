@@ -143174,5 +143174,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789885390.3168333,
     "fills": 3
+  },
+  {
+    "timestamp": 1789888353,
+    "timestamp_added": 1789888354.1570716,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-perely1-tupits1-2026-09-20",
+    "title": "W35 Hurghada: Ekaterina Perelygina vs Ekaterina Tupitsyna",
+    "outcome": "Ekaterina Perelygina",
+    "side": "BUY",
+    "whale_usd": 711.88,
+    "whale_pct": 0.437,
+    "whale_value_at_open": 163068.2347,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789888354.1570845,
+    "fills": 1
   }
 ]
