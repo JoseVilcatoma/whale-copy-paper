@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:11:31 (hora de Perú)
+Actualizado: 2026-09-20 17:13:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $101.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:11:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $97.73 en 21 posiciones abiertas (disponible para nuevas apuestas: $3.52)
+**Capital comprometido ahora mismo:** $101.25 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 584 | 273 | 5 | -12.13 USD |
+| RN1 | 584 | 273 | 6 | -12.13 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Elaran1993 | Bengals vs. Texans: O/U 45.5 | Under (BUY) | 53% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Zzzz87 | Will AC Milan win on 2026-09-20? | Yes (BUY) | 80% | 5.00 | 0.8% | ✅ ganada | +1.20 |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ✅ ganada | +3.02 |
-| GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
