@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:14:38 (hora de Perú)
+Actualizado: 2026-09-20 16:16:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.24
@@ -1045,7 +1045,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Under (BUY) | 56% | 3.54 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
