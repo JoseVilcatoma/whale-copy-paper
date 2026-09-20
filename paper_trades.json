@@ -143946,5 +143946,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789915165.5289729,
     "fills": 1
+  },
+  {
+    "timestamp": 1789915793,
+    "timestamp_added": 1789915793.9518447,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-kc-pit-2026-09-20",
+    "title": "Kansas City Royals vs. Pittsburgh Pirates",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 16130.461899999998,
+    "whale_pct": 12.933,
+    "whale_value_at_open": 124720.3926,
+    "paper_stake_usd": 2.83,
+    "odds_at_bet": 50,
+    "fee_usd": 0.071,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789915793.951854,
+    "fills": 1
   }
 ]
