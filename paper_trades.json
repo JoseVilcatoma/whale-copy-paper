@@ -144510,8 +144510,8 @@
     "title": "Raiders vs. Chargers",
     "outcome": "Chargers",
     "side": "BUY",
-    "whale_usd": 13117.9901,
-    "whale_pct": 0.464,
+    "whale_usd": 16567.990100000003,
+    "whale_pct": 0.586,
     "whale_value_at_open": 2826911.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -144522,8 +144522,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789939345.8540282,
-    "fills": 2
+    "last_fill_at": 1789939568.2412627,
+    "fills": 3
   },
   {
     "timestamp": 1789939268,
