@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.47031527584039,
+  "bankroll": 94.85031527584039,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29135,6 +29135,11 @@
       "timestamp": 1789927360.5769327,
       "bankroll": 97.47,
       "event": "won: RN1 \u2014 Br\u00f8ndby IF vs. FC K\u00f8benhavn: O/U 2.5"
+    },
+    {
+      "timestamp": 1789930197.1935318,
+      "bankroll": 94.85,
+      "event": "lost: UpTheBlues \u2014 Villarreal CF vs. Levante UD: O/U 3.5"
     }
   ]
 }
