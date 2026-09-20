@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 18:29:34 (hora de Perú)
+Actualizado: 2026-09-20 18:31:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $107.76
-**Retorno acumulado:** -78.45%
+**Bankroll actual:** $111.42
+**Retorno acumulado:** -77.72%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 18:29:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $107.89 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $102.89 en 23 posiciones abiertas (disponible para nuevas apuestas: $8.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,8 +145,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| RN1 | 585 | 274 | 8 | -11.10 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 584 | 274 | 9 | -14.76 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5633
-- **Aciertos:** 3540 (62.8%)
+- **Apuestas resueltas:** 5634
+- **Aciertos:** 3541 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,975.20
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $518.91 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,980.20
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $519.02 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2908 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2909 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1645 | 68.9% | 67.8% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
@@ -1056,7 +1056,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ⏳ pendiente | — |
-| RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ✅ ganada | +0.25 |
