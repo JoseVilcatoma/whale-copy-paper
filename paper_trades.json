@@ -144308,5 +144308,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789927399.691757,
     "fills": 1
+  },
+  {
+    "timestamp": 1789927466,
+    "timestamp_added": 1789927466.8864071,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "lal-vil-lev-2026-09-20-total-3pt5",
+    "title": "Villarreal CF vs. Levante UD: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1276.44,
+    "whale_pct": 0.136,
+    "whale_value_at_open": 938578.8339,
+    "paper_stake_usd": 2.55,
+    "odds_at_bet": 45,
+    "fee_usd": 0.07,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789927466.8864148,
+    "fills": 1
   }
 ]
