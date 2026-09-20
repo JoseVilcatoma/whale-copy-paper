@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 09:13:45 (hora de Perú)
+Actualizado: 2026-09-20 09:15:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $90.49
-**Retorno acumulado:** -81.90%
+**Bankroll actual:** $91.29
+**Retorno acumulado:** -81.74%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 09:13:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $11.55)
+**Capital comprometido ahora mismo:** $89.20 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
-| Donkey14 | 0 | 1 | 0 | -5.14 USD |
+| Donkey14 | 0 | 1 | 1 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 3 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
@@ -144,11 +144,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| Flaznorp | 152 | 56 | 3 | -11.39 USD |
+| Flaznorp | 152 | 56 | 5 | -11.39 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| RN1 | 577 | 271 | 4 | -15.51 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 576 | 271 | 5 | -16.31 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5594
-- **Aciertos:** 3513 (62.8%)
+- **Apuestas resueltas:** 5595
+- **Aciertos:** 3514 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,796.32
+- **Total apostado (suma de stakes):** $27,801.06
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $515.66 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $515.69 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2886 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1635 | 68.7% | 67.8% | +0.9 pp |
-| 80-94% | 770 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 771 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1043,6 +1043,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
+| Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ⏳ pendiente | — |
+| Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ❌ perdida | -5.14 |
@@ -1053,7 +1056,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ✅ ganada | +0.91 |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |
-| RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ⏳ pendiente | — |
+| RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ✅ ganada | +0.80 |
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ✅ ganada | +2.97 |
@@ -1070,6 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Zzzz87 | Will SSC Napoli win on 2026-09-20? | Yes (BUY) | 44% | 5.00 | 2.5% | ❌ perdida | -5.14 |
 | RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
 | RN1 | W35 Hurghada: Ekaterina Perelygina vs Ek | Ekaterina Perelygina (BUY) | 75% | 5.00 | 1.3% | ✅ ganada | +1.60 |
-| gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
-| gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
-| RN1 | Northern Illinois vs. Arizona: O/U 62.5 | Under (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
