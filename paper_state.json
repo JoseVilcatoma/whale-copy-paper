@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.94341500629861,
+  "bankroll": 87.04213631777402,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29170,6 +29170,11 @@
       "timestamp": 1789936743.111662,
       "bankroll": 83.94,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Panthers vs. Falcons"
+    },
+    {
+      "timestamp": 1789938089.7740424,
+      "bankroll": 87.04,
+      "event": "won: Donkey14 \u2014 Philadelphia Phillies vs. New York Mets"
     }
   ]
 }
