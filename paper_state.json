@@ -1,5 +1,5 @@
 {
-  "bankroll": 59.04826927979631,
+  "bankroll": 56.491269279796306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28905,6 +28905,11 @@
       "timestamp": 1789871559.7337325,
       "bankroll": 59.05,
       "event": "won: Flaznorp \u2014 Will D.C. United SC win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789876735.475311,
+      "bankroll": 56.49,
+      "event": "lost: BrotherObama \u2014 New York Yankees vs. Arizona Diamondbacks"
     }
   ]
 }
