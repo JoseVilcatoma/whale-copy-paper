@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 23:05:14 (hora de Perú)
+Actualizado: 2026-09-19 23:07:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $58.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 23:05:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $46.56 en 10 posiciones abiertas (disponible para nuevas apuestas: $11.47)
+**Capital comprometido ahora mismo:** $51.56 en 11 posiciones abiertas (disponible para nuevas apuestas: $6.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 564 | 268 | 3 | -36.00 USD |
+| RN1 | 564 | 268 | 4 | -36.00 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1040,6 +1040,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ⏳ pendiente | — |
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
@@ -1069,4 +1070,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W35 Santa Margherita di Pula: Franziska  | Alisa Oktiabreva (BUY) | 86% | 5.00 | 5.4% | ✅ ganada | +0.78 |
 | Flaznorp | AS Roma vs. FC Internazionale Milano: Bo | Yes (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
 | UpTheBlues | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 68% | 5.00 | 0.2% | ✅ ganada | +2.27 |
-| UpTheBlues | Will Kashima Antlers win on 2026-09-19? | No (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |

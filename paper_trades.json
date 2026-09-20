@@ -143078,5 +143078,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789877107.4626276,
     "fills": 1
+  },
+  {
+    "timestamp": 1789877117,
+    "timestamp_added": 1789877118.1614108,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-ame-gua-2026-09-19-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-09-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 638.4,
+    "whale_pct": 0.329,
+    "whale_value_at_open": 194027.583,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789877118.161439,
+    "fills": 1
   }
 ]
