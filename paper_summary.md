@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:25:47 (hora de Perú)
+Actualizado: 2026-09-20 17:27:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $111.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:25:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.74 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.46)
+**Capital comprometido ahora mismo:** $108.74 en 24 posiciones abiertas (disponible para nuevas apuestas: $2.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 584 | 273 | 7 | -12.13 USD |
+| RN1 | 584 | 273 | 9 | -12.13 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1039,12 +1039,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swe-hal-aik-2026-09-20-aik | RN1, gransaaa |
 | sea-fio-nap-2026-09-20-nap | Zzzz87, ripley86alien |
 | lal-dep-bet-2026-09-20-bet | UpTheBlues, Zzzz87 |
+| nfl-was-dal-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 | nfl-jax-den-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ⏳ pendiente | — |
@@ -1073,5 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ✅ ganada | +2.63 |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Panthers vs. Falcons | Panthers (BUY) | 56% | 5.00 | 7.4% | ✅ ganada | +3.82 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Cowboys (-3.5) | Commanders (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
