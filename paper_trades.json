@@ -142122,8 +142122,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -142584,8 +142584,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.48,
     "overlaps_with": [
       "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
     ],
@@ -142610,8 +142610,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -142996,8 +142996,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
       "Kch-Temp"

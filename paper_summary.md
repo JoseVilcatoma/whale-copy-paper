@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 22:59:00 (hora de Perú)
+Actualizado: 2026-09-19 23:01:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $56.49
-**Retorno acumulado:** -88.70%
+**Bankroll actual:** $58.03
+**Retorno acumulado:** -88.39%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 22:59:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.56 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $36.56 en 8 posiciones abiertas (disponible para nuevas apuestas: $21.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| Kch-Temp | 6 | 3 | 0 | +11.21 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
@@ -89,17 +90,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | Elaran1993 | 0 | 0 | 3 | +0.00 USD |
-| kkookkoo | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
-| Kch-Temp | 4 | 3 | 2 | -0.56 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | quavoo | 35 | 20 | 0 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 14 | 1 | -1.18 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -128,9 +126,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
+| kkookkoo | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Donkey14 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 0 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -167,14 +167,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5565
-- **Aciertos:** 3491 (62.7%)
+- **Apuestas resueltas:** 5569
+- **Aciertos:** 3493 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,654.76
-- **ROI sobre lo apostado:** -2.05%
-- **Comisiones pagadas (taker fee):** $512.95 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,674.76
+- **ROI sobre lo apostado:** -2.04%
+- **Comisiones pagadas (taker fee):** $513.45 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -182,8 +182,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2870 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1628 | 68.6% | 67.8% | +0.8 pp |
+| 40-59% | 2873 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1629 | 68.6% | 67.8% | +0.7 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1041,7 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
-| kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ⏳ pendiente | — |
+| kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ⏳ pendiente | — |
 | Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ⏳ pendiente | — |
@@ -1057,8 +1057,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Delaware (-1.5) | Coastal Carolina (BUY) | 57% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |
-| Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
-| Kch-Temp | LSU vs. Ole Miss | Ole Miss (BUY) | 43% | 5.00 | 7.6% | ⏳ pendiente | — |
+| Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ✅ ganada | +5.29 |
+| Kch-Temp | LSU vs. Ole Miss | Ole Miss (BUY) | 43% | 5.00 | 7.6% | ✅ ganada | +6.48 |
 | Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ✅ ganada | +4.50 |
 | RN1 | 1. FC Kaiserslautern vs. Eintracht Braun | Over (BUY) | 53% | 3.50 | 0.6% | ❌ perdida | -3.58 |
 | RN1 | Ljubljana: Samira De Stefano vs Laura Sa | Laura Samson (BUY) | 66% | 5.00 | 3.7% | ❌ perdida | -5.08 |
