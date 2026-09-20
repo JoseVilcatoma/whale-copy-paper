@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.21554968838011,
+  "bankroll": 97.73449705680116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29205,6 +29205,11 @@
       "timestamp": 1789940287.3292897,
       "bankroll": 96.22,
       "event": "lost: GoalLineGhost \u2014 Valencia CF vs. Real Sociedad de F\u00fatbol: O/U 3.5"
+    },
+    {
+      "timestamp": 1789941230.8213465,
+      "bankroll": 97.73,
+      "event": "won: RN1 \u2014 Spread: Packers (-7.5)"
     }
   ]
 }
