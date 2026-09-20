@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 08:55:32 (hora de Perú)
+Actualizado: 2026-09-20 08:57:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.71
-**Retorno acumulado:** -82.06%
+**Bankroll actual:** $91.49
+**Retorno acumulado:** -81.70%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 08:55:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.94 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.77)
+**Capital comprometido ahora mismo:** $83.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,11 +146,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Flaznorp | 152 | 56 | 2 | -11.39 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| RN1 | 575 | 270 | 7 | -15.31 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 574 | 270 | 8 | -17.09 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5591
-- **Aciertos:** 3511 (62.8%)
+- **Apuestas resueltas:** 5592
+- **Aciertos:** 3512 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,781.32
+- **Total apostado (suma de stakes):** $27,786.32
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $515.33 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $515.40 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2884 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1634 | 68.7% | 67.8% | +0.8 pp |
+| 60-79% | 1635 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 770 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1048,7 +1048,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ✅ ganada | +1.78 |
 | RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ✅ ganada | +0.91 |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 4.7% | ✅ ganada | +1.20 |

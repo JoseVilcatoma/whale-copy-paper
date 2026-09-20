@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.710626642988,
+  "bankroll": 91.49194171148116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29040,6 +29040,11 @@
       "timestamp": 1789908947.8609073,
       "bankroll": 89.71,
       "event": "won: ripley86alien \u2014 Will SSC Napoli win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789912651.7825863,
+      "bankroll": 91.49,
+      "event": "won: RN1 \u2014 Saint Tropez: Henri Squire vs Maxime Janvier"
     }
   ]
 }
