@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.49194171148116,
+  "bankroll": 90.49320097074042,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29045,6 +29045,16 @@
       "timestamp": 1789912651.7825863,
       "bankroll": 91.49,
       "event": "won: RN1 \u2014 Saint Tropez: Henri Squire vs Maxime Janvier"
+    },
+    {
+      "timestamp": 1789913595.2123756,
+      "bankroll": 86.35,
+      "event": "lost: RN1 \u2014 Counter-Strike: Vitality vs FURIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1789913595.3125205,
+      "bankroll": 90.49,
+      "event": "won: RN1 \u2014 Counter-Strike: Vitality vs FURIA - Map 2 Winner"
     }
   ]
 }

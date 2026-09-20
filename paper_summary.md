@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 09:11:45 (hora de Perú)
+Actualizado: 2026-09-20 09:13:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $91.49
-**Retorno acumulado:** -81.70%
+**Bankroll actual:** $90.49
+**Retorno acumulado:** -81.90%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 09:11:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.94 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.55)
+**Capital comprometido ahora mismo:** $78.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $11.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,9 +146,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Flaznorp | 152 | 56 | 3 | -11.39 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 575 | 270 | 7 | -15.31 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 576 | 271 | 5 | -16.31 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5592
-- **Aciertos:** 3512 (62.8%)
+- **Apuestas resueltas:** 5594
+- **Aciertos:** 3513 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,786.32
+- **Total apostado (suma de stakes):** $27,796.32
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $515.40 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $515.66 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2884 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2886 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1635 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 770 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
@@ -1044,8 +1044,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
+| RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
