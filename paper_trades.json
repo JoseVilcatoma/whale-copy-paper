@@ -143632,5 +143632,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789907025.111866,
     "fills": 5
+  },
+  {
+    "timestamp": 1789908482,
+    "timestamp_added": 1789908483.1036215,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-hal-aik-2026-09-20-aik",
+    "title": "Will AIK win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 918.05,
+    "whale_pct": 0.53,
+    "whale_value_at_open": 173366.4623,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "gransaaa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789908483.1036313,
+    "fills": 1
   }
 ]
