@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.02823677636702,
+  "bankroll": 92.97079775197678,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29065,6 +29065,16 @@
       "timestamp": 1789914600.8088036,
       "bankroll": 97.03,
       "event": "won: Flaznorp \u2014 Dewa United vs. PSS Sleman: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1789917442.0017624,
+      "bankroll": 91.92,
+      "event": "lost: Flaznorp \u2014 Leeds United FC vs. Crystal Palace FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789917442.5023427,
+      "bankroll": 92.97,
+      "event": "won: Flaznorp \u2014 Leeds United FC vs. Crystal Palace FC: O/U 2.5"
     }
   ]
 }

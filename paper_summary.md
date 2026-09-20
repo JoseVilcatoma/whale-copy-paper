@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 10:16:48 (hora de Perú)
+Actualizado: 2026-09-20 10:18:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $97.03
-**Retorno acumulado:** -80.59%
+**Bankroll actual:** $92.97
+**Retorno acumulado:** -81.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 10:16:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $97.03 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $87.03 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,7 +131,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Donkey14 | 0 | 1 | 4 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| Flaznorp | 153 | 56 | 4 | -5.66 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 3 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
@@ -140,6 +139,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| Flaznorp | 154 | 57 | 2 | -9.72 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5596
-- **Aciertos:** 3515 (62.8%)
+- **Apuestas resueltas:** 5598
+- **Aciertos:** 3516 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,806.06
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $515.83 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,816.06
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $515.98 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,9 +183,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2887 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2888 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1635 | 68.7% | 67.8% | +0.9 pp |
-| 80-94% | 771 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 772 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1049,7 +1049,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ⏳ pendiente | — |
 | Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | Vitality (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1063,7 +1063,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ✅ ganada | +2.97 |
-| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
+| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ❌ perdida | -5.11 |
 | Flaznorp | Dewa United vs. PSS Sleman: 1st Half O/U | Under (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
 | RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ✅ ganada | +4.68 |
 | UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
