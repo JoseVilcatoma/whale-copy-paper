@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 17:27:49 (hora de Perú)
+Actualizado: 2026-09-20 17:29:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $111.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 17:27:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $108.74 en 24 posiciones abiertas (disponible para nuevas apuestas: $2.46)
+**Capital comprometido ahora mismo:** $111.20 en 25 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 584 | 273 | 9 | -12.13 USD |
+| RN1 | 584 | 273 | 10 | -12.13 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1046,6 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -1075,4 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
 | RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ✅ ganada | +2.63 |
-| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
