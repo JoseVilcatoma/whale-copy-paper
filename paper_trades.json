@@ -143030,5 +143030,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789873222.7712374,
     "fills": 1
+  },
+  {
+    "timestamp": 1789876933,
+    "timestamp_added": 1789876933.5513937,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-ame-gua-2026-09-19-gua",
+    "title": "Will CD Guadalajara win on 2026-09-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 605.98,
+    "whale_pct": 0.302,
+    "whale_value_at_open": 200416.9092,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789876933.551408,
+    "fills": 1
   }
 ]
