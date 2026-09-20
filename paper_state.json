@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.40484357772718,
+  "bankroll": 85.26484357772718,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29155,6 +29155,11 @@
       "timestamp": 1789930508.4644864,
       "bankroll": 90.4,
       "event": "lost: Zzzz87 \u2014 Will Real Betis Balompi\u00e9 win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789936240.901066,
+      "bankroll": 85.26,
+      "event": "lost: RN1 \u2014 Spread: Eagles (-13.5)"
     }
   ]
 }
