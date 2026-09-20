@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 18:37:44 (hora de Perú)
+Actualizado: 2026-09-20 18:39:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $120.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 18:37:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.30 en 19 posiciones abiertas (disponible para nuevas apuestas: $32.92)
+**Capital comprometido ahora mismo:** $97.30 en 21 posiciones abiertas (disponible para nuevas apuestas: $22.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -103,7 +103,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
-| RN1 | 587 | 274 | 6 | -2.36 USD |
+| RN1 | 587 | 274 | 7 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 39 | 29 | 1 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 157 | 57 | 2 | -4.84 USD |
+| Flaznorp | 157 | 57 | 3 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -1046,6 +1046,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ⏳ pendiente | — |
@@ -1074,5 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 2.4% | ✅ ganada | +2.27 |
 | UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
 | RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
-| RN1 | Eagles vs. Titans: O/U 39.5 | Over (BUY) | 58% | 5.00 | 1.3% | ✅ ganada | +3.52 |
-| RN1 | Spread: Packers (-7.5) | Jets (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
