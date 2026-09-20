@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:20:42 (hora de Perú)
+Actualizado: 2026-09-20 16:22:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 16:20:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.21 en 18 posiciones abiertas (disponible para nuevas apuestas: $3.40)
+**Capital comprometido ahora mismo:** $87.61 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 582 | 273 | 4 | -17.17 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 95 | 42 | 3 | -24.02 USD |
+| GoalLineGhost | 95 | 42 | 4 | -24.02 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -1044,7 +1044,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 1.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Commanders vs. Cowboys | Cowboys (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ✅ ganada | +1.60 |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ❌ perdida | -5.14 |
 | Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ✅ ganada | +0.05 |
-| Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Under (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
