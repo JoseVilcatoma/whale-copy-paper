@@ -144042,5 +144042,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789918832.689276,
     "fills": 1
+  },
+  {
+    "timestamp": 1789920453,
+    "timestamp_added": 1789920454.5160096,
+    "username": "Zzzz87",
+    "wallet": "0x2117ae94a97d69b78cbc81b6680a62deb1955c26",
+    "slug": "sea-mil-lec-2026-09-20-mil",
+    "title": "Will AC Milan win on 2026-09-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1380.6000000000001,
+    "whale_pct": 0.787,
+    "whale_value_at_open": 175325.9719,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789920454.5160174,
+    "fills": 1
   }
 ]
