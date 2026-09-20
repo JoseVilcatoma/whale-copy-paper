@@ -144644,5 +144644,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789940373.505788,
     "fills": 1
+  },
+  {
+    "timestamp": 1789941583,
+    "timestamp_added": 1789941584.1395726,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-ostapen-vandeca-2026-09-20",
+    "title": "San Diego 2: Daniil Ostapenkov vs Quinn Vandecasteele",
+    "outcome": "Daniil Ostapenkov",
+    "side": "BUY",
+    "whale_usd": 2738.96,
+    "whale_pct": 0.199,
+    "whale_value_at_open": 1374936.0263,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789941584.1395998,
+    "fills": 1
   }
 ]
