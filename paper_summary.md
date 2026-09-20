@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 09:36:16 (hora de Perú)
+Actualizado: 2026-09-20 09:38:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.03
@@ -1043,7 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
+| Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ⏳ pendiente | — |
 | Flaznorp | FC Twente vs. PSV: O/U 4.5 | Over (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |

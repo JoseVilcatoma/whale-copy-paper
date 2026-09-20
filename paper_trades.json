@@ -143908,8 +143908,8 @@
     "title": "Philadelphia Phillies vs. New York Mets",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 1262.3999999999999,
-    "whale_pct": 1.266,
+    "whale_usd": 2018.4419999999998,
+    "whale_pct": 2.024,
     "whale_value_at_open": 99729.2868,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -143920,7 +143920,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789914901.4350836,
-    "fills": 2
+    "last_fill_at": 1789914991.5312738,
+    "fills": 3
   }
 ]
