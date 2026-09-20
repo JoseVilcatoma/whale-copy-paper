@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 11:12:05 (hora de Perú)
+Actualizado: 2026-09-20 11:14:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 11:12:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.66 en 18 posiciones abiertas (disponible para nuevas apuestas: $7.89)
+**Capital comprometido ahora mismo:** $89.66 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
-| Elaran1993 | 2 | 1 | 0 | +0.38 USD |
+| Elaran1993 | 2 | 1 | 1 | +0.38 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -1043,6 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Elaran1993 | Bengals vs. Texans: O/U 45.5 | Under (BUY) | 53% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Zzzz87 | Will AC Milan win on 2026-09-20? | Yes (BUY) | 80% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1072,4 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ✅ ganada | +4.68 |
 | UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 9.9% | ✅ ganada | +7.05 |
-| RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ✅ ganada | +0.30 |
