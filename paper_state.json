@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.97079775197678,
+  "bankroll": 94.66255450873354,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29075,6 +29075,11 @@
       "timestamp": 1789917442.5023427,
       "bankroll": 92.97,
       "event": "won: Flaznorp \u2014 Leeds United FC vs. Crystal Palace FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789918195.2311592,
+      "bankroll": 94.66,
+      "event": "won: RN1 \u2014 Hannover 96 vs. VfL Bochum: O/U 2.5"
     }
   ]
 }
