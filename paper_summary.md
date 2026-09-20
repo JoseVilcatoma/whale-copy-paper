@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 18:41:49 (hora de Perú)
+Actualizado: 2026-09-20 18:43:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $115.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 18:41:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.30 en 20 posiciones abiertas (disponible para nuevas apuestas: $22.84)
+**Capital comprometido ahora mismo:** $102.30 en 22 posiciones abiertas (disponible para nuevas apuestas: $12.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -119,7 +119,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 39 | 29 | 1 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 157 | 57 | 3 | -4.84 USD |
+| Flaznorp | 157 | 57 | 5 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -1046,6 +1046,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | CF Pachuca vs. Club Tijuana: O/U 3.5 | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ⏳ pendiente | — |
@@ -1074,5 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Valencia CF vs. Real Sociedad de Fútbol: | Over (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
 | RN1 | Spread: BAL (-8.5) | BAL (BUY) | 50% | 2.57 | 0.6% | ❌ perdida | -2.63 |
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 2.4% | ✅ ganada | +2.27 |
-| UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
-| RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
