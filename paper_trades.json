@@ -143102,5 +143102,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789877325.1499963,
     "fills": 2
+  },
+  {
+    "timestamp": 1789877443,
+    "timestamp_added": 1789877443.7196212,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-nill-arz-2026-09-19-total-62pt5",
+    "title": "Northern Illinois vs. Arizona: O/U 62.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1688.5622999999998,
+    "whale_pct": 0.834,
+    "whale_value_at_open": 202512.7052,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789877443.7196372,
+    "fills": 1
   }
 ]
