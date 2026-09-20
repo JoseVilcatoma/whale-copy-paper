@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 16:30:54 (hora de Perú)
+Actualizado: 2026-09-20 16:33:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $87.61
-**Retorno acumulado:** -82.48%
+**Bankroll actual:** $94.10
+**Retorno acumulado:** -81.18%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 16:30:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.61 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $82.61 en 18 posiciones abiertas (disponible para nuevas apuestas: $11.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -114,6 +114,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
+| Donkey14 | 2 | 3 | 0 | -3.60 USD |
 | TAIWANNUMBERONE | 39 | 29 | 0 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -138,7 +139,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| Donkey14 | 1 | 3 | 1 | -10.08 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5621
-- **Aciertos:** 3531 (62.8%)
+- **Apuestas resueltas:** 5622
+- **Aciertos:** 3532 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,919.09
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $517.77 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,924.09
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $517.91 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2900 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2901 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1642 | 68.8% | 67.8% | +1.0 pp |
 | 80-94% | 773 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 306 | 97.1% | 97.3% | -0.3 pp |
@@ -1069,7 +1069,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | GoalLineGhost | Club Atlético de Madrid vs. Real Madrid  | Over (BUY) | 79% | 5.00 | 0.4% | ✅ ganada | +1.28 |
 | Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ❌ perdida | -2.90 |
-| Donkey14 | Atlanta Braves vs. Houston Astros | Atlanta Braves (BUY) | 43% | 5.00 | 19.2% | ⏳ pendiente | — |
+| Donkey14 | Atlanta Braves vs. Houston Astros | Atlanta Braves (BUY) | 43% | 5.00 | 19.2% | ✅ ganada | +6.48 |
 | Donkey14 | Philadelphia Phillies vs. New York Mets | Philadelphia Phillies (BUY) | 61% | 5.00 | 2.0% | ✅ ganada | +3.10 |
 | Flaznorp | Will Club Atlético de Madrid vs. Real Ma | No (BUY) | 75% | 5.00 | 1.4% | ✅ ganada | +1.60 |
 | Donkey14 | Boston Red Sox vs. Tampa Bay Rays | Boston Red Sox (BUY) | 44% | 5.00 | 54.2% | ❌ perdida | -5.14 |

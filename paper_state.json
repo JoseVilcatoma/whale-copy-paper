@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.61407749424461,
+  "bankroll": 94.0989844709888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29190,6 +29190,11 @@
       "timestamp": 1789939033.3603828,
       "bankroll": 87.61,
       "event": "won: UpTheBlues \u2014 Will Paris Saint-Germain FC win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789939973.639956,
+      "bankroll": 94.1,
+      "event": "won: Donkey14 \u2014 Atlanta Braves vs. Houston Astros"
     }
   ]
 }
