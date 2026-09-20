@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.50707063776579,
+  "bankroll": 92.55457568827084,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29090,6 +29090,11 @@
       "timestamp": 1789919653.1564398,
       "bankroll": 92.51,
       "event": "won: RN1 \u2014 Will AIK win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789920533.9282794,
+      "bankroll": 92.55,
+      "event": "won: RN1 \u2014 Will Real Oviedo win on 2026-09-20?"
     }
   ]
 }

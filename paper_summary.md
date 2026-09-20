@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 11:07:56 (hora de Perú)
+Actualizado: 2026-09-20 11:10:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.51
-**Retorno acumulado:** -81.50%
+**Bankroll actual:** $92.55
+**Retorno acumulado:** -81.49%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 11:07:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.66 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.85)
+**Capital comprometido ahora mismo:** $84.66 en 18 posiciones abiertas (disponible para nuevas apuestas: $7.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,7 +144,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 579 | 271 | 2 | -10.85 USD |
+| RN1 | 580 | 271 | 1 | -10.80 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5601
-- **Aciertos:** 3518 (62.8%)
+- **Apuestas resueltas:** 5602
+- **Aciertos:** 3519 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,831.06
+- **Total apostado (suma de stakes):** $27,836.06
 - **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $516.27 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $516.27 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2889 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1637 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 772 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
+| 95-99% (casi seguro) | 304 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1058,7 +1058,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Vitality vs FURIA - Map  | FURIA (BUY) | 43% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | RN1 | Brøndby IF vs. FC København: O/U 2.5 | Under (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ✅ ganada | +1.69 |
-| RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
 | RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ✅ ganada | +1.78 |
 | RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |
 | RN1 | ACF Fiorentina vs. SSC Napoli: O/U 3.5 | Under (BUY) | 84% | 5.00 | 7.9% | ✅ ganada | +0.91 |
