@@ -145104,5 +145104,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789947847.2322476,
     "fills": 1
+  },
+  {
+    "timestamp": 1789948207,
+    "timestamp_added": 1789948207.941374,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "arg-bel-aae-2026-09-20-total-1pt5",
+    "title": "CA Belgrano vs. AA Estudiantes: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 634.9983,
+    "whale_pct": 0.188,
+    "whale_value_at_open": 337857.2253,
+    "paper_stake_usd": 2.84,
+    "odds_at_bet": 54,
+    "fee_usd": 0.065,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789948207.9413896,
+    "fills": 1
   }
 ]
