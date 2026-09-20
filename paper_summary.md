@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 06:41:41 (hora de Perú)
+Actualizado: 2026-09-20 06:43:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $78.94
-**Retorno acumulado:** -84.21%
+**Bankroll actual:** $85.98
+**Retorno acumulado:** -82.80%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 06:41:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $78.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,11 +152,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| RN1 | 572 | 270 | 2 | -19.20 USD |
 | Zzzz87 | 3 | 6 | 1 | -23.12 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
-| RN1 | 571 | 270 | 2 | -26.25 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 92 | 42 | 0 | -28.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5584
-- **Aciertos:** 3505 (62.8%)
+- **Apuestas resueltas:** 5585
+- **Aciertos:** 3506 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,746.32
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $514.73 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,751.32
+- **ROI sobre lo apostado:** -1.94%
+- **Comisiones pagadas (taker fee):** $514.88 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2881 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2882 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1633 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 767 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 303 | 97.0% | 97.3% | -0.3 pp |
@@ -1042,6 +1042,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ACF Fiorentina vs. SSC Napoli: O/U 1.5 | Over (BUY) | 80% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ⏳ pendiente | — |
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1050,7 +1051,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Dewa United vs. PSS Sleman: 1st Half O/U | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Saint Tropez: Michele Ribecai vs Mathys  | Mathys Domenc (BUY) | 51% | 5.00 | 9.6% | ✅ ganada | +4.68 |
 | UpTheBlues | Will Real Betis Balompié win on 2026-09- | No (BUY) | 53% | 4.20 | 1.2% | ⏳ pendiente | — |
-| RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 9.9% | ⏳ pendiente | — |
+| RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 9.9% | ✅ ganada | +7.05 |
 | RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ✅ ganada | +0.30 |
 | UpTheBlues | Will FC Machida Zelvia win on 2026-09-20 | No (BUY) | 61% | 5.00 | 0.9% | ✅ ganada | +3.10 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Patriots (-4.5) | Steelers (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1071,4 +1072,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ✅ ganada | +5.29 |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ❌ perdida | -2.82 |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
-| UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |

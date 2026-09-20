@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.93524873047319,
+  "bankroll": 85.9823706816927,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29005,6 +29005,11 @@
       "timestamp": 1789899340.25296,
       "bankroll": 78.94,
       "event": "won: UpTheBlues \u2014 Will FC Machida Zelvia win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789904564.6413877,
+      "bankroll": 85.98,
+      "event": "won: RN1 \u2014 Saint Tropez: Daniel Jade vs Ryan Peniston"
     }
   ]
 }
