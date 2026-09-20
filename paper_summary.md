@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 10:39:25 (hora de Perú)
+Actualizado: 2026-09-20 10:41:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 10:39:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.03 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.63)
+**Capital comprometido ahora mismo:** $94.66 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -158,7 +158,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 3 | 7 | 0 | -28.26 USD |
-| GoalLineGhost | 92 | 42 | 2 | -28.52 USD |
+| GoalLineGhost | 92 | 42 | 3 | -28.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1043,6 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Under (BUY) | 46% | 2.63 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Fulham FC vs. Manchester United FC: O/U  | Over (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Club Atlético de Madrid vs. Real Madrid  | Over (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donkey14 | Kansas City Royals vs. Pittsburgh Pirate | Kansas City Royals (BUY) | 50% | 2.83 | 12.9% | ⏳ pendiente | — |
@@ -1072,4 +1073,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Saint Tropez: Daniel Jade vs Ryan Penist | Daniel Jade (BUY) | 41% | 5.00 | 9.9% | ✅ ganada | +7.05 |
 | RN1 | Plovdiv 4: Ryo Tabata vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 94% | 5.00 | 3.8% | ✅ ganada | +0.30 |
 | UpTheBlues | Will FC Machida Zelvia win on 2026-09-20 | No (BUY) | 61% | 5.00 | 0.9% | ✅ ganada | +3.10 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Patriots (-4.5) | Steelers (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
