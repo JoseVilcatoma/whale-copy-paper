@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.85045691420012,
+  "bankroll": 71.15460585037033,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28990,6 +28990,11 @@
       "timestamp": 1789894028.178897,
       "bankroll": 70.85,
       "event": "won: RN1 \u2014 W35 Hurghada: Ekaterina Perelygina vs Ekaterina Tupitsyna"
+    },
+    {
+      "timestamp": 1789895278.4076,
+      "bankroll": 71.15,
+      "event": "won: RN1 \u2014 Plovdiv 4: Ryo Tabata vs Svyatoslav Gulin"
     }
   ]
 }
