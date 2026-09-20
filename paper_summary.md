@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 12:31:06 (hora de Perú)
+Actualizado: 2026-09-20 12:33:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $95.48
-**Retorno acumulado:** -80.90%
+**Bankroll actual:** $92.98
+**Retorno acumulado:** -81.40%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 12:31:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.48 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $92.55 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,8 +144,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 580 | 271 | 3 | -10.80 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| RN1 | 581 | 272 | 2 | -13.31 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5605
-- **Aciertos:** 3522 (62.8%)
+- **Apuestas resueltas:** 5607
+- **Aciertos:** 3523 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,851.06
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $516.39 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,858.99
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $516.60 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2889 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2891 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1639 | 68.8% | 67.8% | +0.9 pp |
 | 80-94% | 772 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 305 | 97.0% | 97.4% | -0.3 pp |
@@ -1044,8 +1044,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Vikings vs. Bears: O/U 39.5 | Over (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Aurora Gaming (BUY) | 52% | 2.93 | 0.1% | ✅ ganada | +2.63 |
+| RN1 | Counter-Strike: Aurora Gaming vs Vitalit | Vitality (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Panthers vs. Falcons | Panthers (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Cowboys (-3.5) | Commanders (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Zzzz87 | Will Real Betis Balompié win on 2026-09- | Yes (BUY) | 52% | 2.89 | 3.5% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Feyenoord Rotterdam vs. FC Utrecht: O/U  | Under (BUY) | 85% | 4.74 | 1.6% | ✅ ganada | +0.80 |
 | ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 204.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
-| UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ✅ ganada | +2.97 |
