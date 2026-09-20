@@ -144848,8 +144848,8 @@
     "title": "Commanders vs. Cowboys",
     "outcome": "Cowboys",
     "side": "BUY",
-    "whale_usd": 3391.9788,
-    "whale_pct": 0.232,
+    "whale_usd": 5193.7788,
+    "whale_pct": 0.355,
     "whale_value_at_open": 1464722.7943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -144862,8 +144862,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789943247.0026724,
-    "fills": 2
+    "last_fill_at": 1789943470.1067598,
+    "fills": 3
   },
   {
     "timestamp": 1789943259,
