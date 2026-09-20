@@ -143136,8 +143136,8 @@
     "title": "Will AIK win on 2026-09-20?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2797.8314,
-    "whale_pct": 4.978,
+    "whale_usd": 5112.1014,
+    "whale_pct": 9.095,
     "whale_value_at_open": 56205.2824,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -143148,8 +143148,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789883521.013627,
-    "fills": 2
+    "last_fill_at": 1789887885.0016997,
+    "fills": 4
   },
   {
     "timestamp": 1789882668,

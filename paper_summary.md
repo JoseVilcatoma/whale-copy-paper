@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:04:31 (hora de Perú)
+Actualizado: 2026-09-20 02:06:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.47
@@ -1042,7 +1042,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | gransaaa | RC Deportivo A Coruña vs. Real Betis Bal | Over (BUY) | 55% | 5.00 | 18.7% | ⏳ pendiente | — |
-| gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
+| gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
 | RN1 | Northern Illinois vs. Arizona: O/U 62.5 | Under (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
 | RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ⏳ pendiente | — |
