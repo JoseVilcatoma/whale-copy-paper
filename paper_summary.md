@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:06:35 (hora de Perú)
+Actualizado: 2026-09-20 02:08:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $60.47
-**Retorno acumulado:** -87.91%
+**Bankroll actual:** $62.85
+**Retorno acumulado:** -87.43%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:06:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $52.06 en 11 posiciones abiertas (disponible para nuevas apuestas: $8.41)
+**Capital comprometido ahora mismo:** $47.06 en 10 posiciones abiertas (disponible para nuevas apuestas: $15.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,6 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
+| kkookkoo | 1 | 1 | 0 | -2.75 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -127,7 +128,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
-| kkookkoo | 0 | 1 | 1 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Donkey14 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5572
-- **Aciertos:** 3495 (62.7%)
+- **Apuestas resueltas:** 5573
+- **Aciertos:** 3496 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,689.26
+- **Total apostado (suma de stakes):** $27,694.26
 - **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $513.79 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.18% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $513.87 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2876 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1629 | 68.6% | 67.8% | +0.7 pp |
+| 60-79% | 1630 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
 
@@ -1045,7 +1045,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | gransaaa | Will AIK win on 2026-09-20? | Yes (BUY) | 50% | 5.00 | 9.1% | ⏳ pendiente | — |
 | RN1 | Northern Illinois vs. Arizona: O/U 62.5 | Under (BUY) | 58% | 5.00 | 1.7% | ✅ ganada | +3.52 |
 | RN1 | Will CF América win on 2026-09-19? | No (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
-| kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ⏳ pendiente | — |
+| kkookkoo | Fresno State vs. San Jose State | Fresno State (BUY) | 67% | 5.00 | 51.3% | ✅ ganada | +2.38 |
 | RN1 | Will CD Guadalajara win on 2026-09-19? | No (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
