@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:33:31 (hora de Perú)
+Actualizado: 2026-09-20 02:35:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $67.74
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:33:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.32 en 9 posiciones abiertas (disponible para nuevas apuestas: $23.42)
+**Capital comprometido ahora mismo:** $54.32 en 11 posiciones abiertas (disponible para nuevas apuestas: $13.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,7 +131,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Donkey14 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 1 | -6.28 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 3 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -1041,6 +1041,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Patriots (-4.5) | Steelers (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Commanders vs. Cowboys: O/U 50.5 | Under (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Eagles (-7.5) | Titans (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will SSC Napoli win on 2026-09-20? | Yes (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1069,5 +1071,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | Will Newcastle United FC vs. Hull City A | No (BUY) | 89% | 5.00 | 0.7% | 💰 vendida anticipada | +0.59 |
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |
 | Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ✅ ganada | +5.29 |
-| Kch-Temp | LSU vs. Ole Miss | Ole Miss (BUY) | 43% | 5.00 | 7.6% | ✅ ganada | +6.48 |
-| Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ✅ ganada | +4.50 |
