@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.55457568827084,
+  "bankroll": 92.6020807387759,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29095,6 +29095,11 @@
       "timestamp": 1789920533.9282794,
       "bankroll": 92.55,
       "event": "won: RN1 \u2014 Will Real Oviedo win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789921713.6653278,
+      "bankroll": 92.6,
+      "event": "won: Flaznorp \u2014 FC Twente vs. PSV: O/U 4.5"
     }
   ]
 }
