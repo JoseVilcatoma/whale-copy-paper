@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 13:56:36 (hora de Perú)
+Actualizado: 2026-09-20 13:58:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.40
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 13:56:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.83 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.57)
+**Capital comprometido ahora mismo:** $90.40 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 582 | 272 | 4 | -12.03 USD |
+| RN1 | 582 | 272 | 5 | -12.03 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1044,6 +1044,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: BAL (-8.5) | BAL (BUY) | 50% | 2.57 | 0.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Paris Saint-Germain FC win on 2026- | Yes (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Villarreal CF vs. Levante UD: O/U 3.5 | Under (BUY) | 45% | 2.55 | 0.1% | ❌ perdida | -2.62 |
 | RN1 | Spread: Eagles (-13.5) | Eagles (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1073,4 +1074,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hannover 96 vs. VfL Bochum: O/U 2.5 | Over (BUY) | 74% | 5.00 | 0.6% | ✅ ganada | +1.69 |
 | RN1 | Will Real Oviedo win on 2026-09-20? | No (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
 | RN1 | Saint Tropez: Henri Squire vs Maxime Jan | Maxime Janvier (BUY) | 73% | 5.00 | 3.2% | ✅ ganada | +1.78 |
-| RN1 | Will AIK win on 2026-09-20? | No (BUY) | 62% | 5.00 | 0.5% | ✅ ganada | +2.97 |

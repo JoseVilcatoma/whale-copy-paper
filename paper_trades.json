@@ -144356,5 +144356,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789930550.4211304,
     "fills": 1
+  },
+  {
+    "timestamp": 1789930669,
+    "timestamp_added": 1789930670.4072366,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-no-bal-2026-09-20-spread-home-8pt5",
+    "title": "Spread: BAL (-8.5)",
+    "outcome": "BAL",
+    "side": "BUY",
+    "whale_usd": 6860.2075,
+    "whale_pct": 0.563,
+    "whale_value_at_open": 1219037.4847,
+    "paper_stake_usd": 2.57,
+    "odds_at_bet": 50,
+    "fee_usd": 0.064,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789930677.5220299,
+    "fills": 4
   }
 ]
