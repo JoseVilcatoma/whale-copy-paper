@@ -1,5 +1,5 @@
 {
-  "bankroll": 52.062127088654115,
+  "bankroll": 56.55751170403873,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28895,6 +28895,11 @@
       "timestamp": 1789864155.9625056,
       "bankroll": 52.06,
       "event": "won: UpTheBlues \u2014 CA River Plate vs. CA Hurac\u00e1n: O/U 3.5"
+    },
+    {
+      "timestamp": 1789869066.620193,
+      "bankroll": 56.56,
+      "event": "won: Kch-Temp \u2014 Spread: South Carolina (-3.5)"
     }
   ]
 }

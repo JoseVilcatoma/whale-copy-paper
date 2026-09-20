@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-19 20:50:09 (hora de Perú)
+Actualizado: 2026-09-19 20:52:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $52.06
-**Retorno acumulado:** -89.59%
+**Bankroll actual:** $56.56
+**Retorno acumulado:** -88.69%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-19 20:50:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $52.06 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $47.06 en 10 posiciones abiertas (disponible para nuevas apuestas: $9.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,6 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Elaran1993 | 0 | 0 | 2 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
+| Kch-Temp | 4 | 3 | 2 | -0.56 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -116,7 +117,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
-| Kch-Temp | 3 | 3 | 3 | -5.06 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -166,14 +166,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5562
-- **Aciertos:** 3489 (62.7%)
+- **Apuestas resueltas:** 5563
+- **Aciertos:** 3490 (62.7%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,642.27
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $512.67 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,647.27
+- **ROI sobre lo apostado:** -2.05%
+- **Comisiones pagadas (taker fee):** $512.79 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2868 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2869 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1627 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 765 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1054,7 +1054,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Feromont | Counter-Strike: MOUZ vs FURIA (BO3) - St | FURIA (BUY) | 50% | 2.70 | 0.8% | ✅ ganada | +2.63 |
 | Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss (BUY) | 43% | 5.00 | 7.6% | ⏳ pendiente | — |
-| Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
+| Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ✅ ganada | +4.50 |
 | RN1 | 1. FC Kaiserslautern vs. Eintracht Braun | Over (BUY) | 53% | 3.50 | 0.6% | ❌ perdida | -3.58 |
 | RN1 | Ljubljana: Samira De Stefano vs Laura Sa | Laura Samson (BUY) | 66% | 5.00 | 3.7% | ❌ perdida | -5.08 |
 | UpTheBlues | PSM Makassar vs. Persita Tangerang: O/U  | Under (BUY) | 91% | 5.00 | 0.1% | ❌ perdida | -5.02 |
