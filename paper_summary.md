@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 05:17:51 (hora de Perú)
+Actualizado: 2026-09-20 05:19:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 05:17:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.20 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.74)
+**Capital comprometido ahora mismo:** $74.20 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| ripley86alien | 3 | 1 | 0 | +5.85 USD |
+| ripley86alien | 3 | 1 | 1 | +5.85 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -1036,11 +1036,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | epl-bri-ars-2026-09-19-ars | GoalLineGhost, Zzzz87 |
 | atp-kouame-pacheco-2026-09-19 | RN1, UpTheBlues |
 | lol-ig1-jdg-2026-09-19 | BrotherObama, TAIWANNUMBERONE |
+| sea-fio-nap-2026-09-20-nap | Zzzz87, ripley86alien |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ripley86alien | Will SSC Napoli win on 2026-09-20? | No (BUY) | 59% | 5.00 | 58.9% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Borneo Samarinda (-2.5) | Bali United (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Borneo Samarinda (-1.5) | Bali United (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Leeds United FC vs. Crystal Palace FC: O | Over (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1070,4 +1072,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
 | Elaran1993 | Will CR Vasco da Gama win on 2026-09-19? | Yes (BUY) | 74% | 4.32 | 10.9% | ✅ ganada | +1.46 |
-| Flaznorp | Will D.C. United SC win on 2026-09-19? | No (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |

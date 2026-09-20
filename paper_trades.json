@@ -143534,5 +143534,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789898737.1788566,
     "fills": 1
+  },
+  {
+    "timestamp": 1789899572,
+    "timestamp_added": 1789899572.707946,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "sea-fio-nap-2026-09-20-nap",
+    "title": "Will SSC Napoli win on 2026-09-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 17769.651400000002,
+    "whale_pct": 58.922,
+    "whale_value_at_open": 30158.0913,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Zzzz87"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789899583.528744,
+    "fills": 3
   }
 ]
