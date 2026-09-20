@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 02:31:27 (hora de Perú)
+Actualizado: 2026-09-20 02:33:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $62.45
-**Retorno acumulado:** -87.51%
+**Bankroll actual:** $67.74
+**Retorno acumulado:** -86.45%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 02:31:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.32 en 9 posiciones abiertas (disponible para nuevas apuestas: $18.13)
+**Capital comprometido ahora mismo:** $44.32 en 9 posiciones abiertas (disponible para nuevas apuestas: $23.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -131,7 +131,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Donkey14 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 0 | -6.28 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 15 | 15 | 1 | -6.28 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -144,10 +144,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| Flaznorp | 152 | 56 | 0 | -11.39 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| Flaznorp | 151 | 56 | 1 | -16.68 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5577
-- **Aciertos:** 3498 (62.7%)
+- **Apuestas resueltas:** 5578
+- **Aciertos:** 3499 (62.7%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $27,712.00
-- **ROI sobre lo apostado:** -2.03%
-- **Comisiones pagadas (taker fee):** $514.25 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $27,717.00
+- **ROI sobre lo apostado:** -2.01%
+- **Comisiones pagadas (taker fee):** $514.38 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2879 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2880 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1630 | 68.6% | 67.8% | +0.8 pp |
 | 80-94% | 766 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 302 | 97.0% | 97.3% | -0.3 pp |
@@ -1041,6 +1041,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Eagles (-7.5) | Titans (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Zzzz87 | Will SSC Napoli win on 2026-09-20? | Yes (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Aleksandar Tolev vs Sebastian | Sebastian Gima (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | W35 Hurghada: Ekaterina Perelygina vs Ek | Ekaterina Perelygina (BUY) | 75% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1053,7 +1054,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | New York Yankees vs. Arizona Diamondback | New York Yankees (BUY) | 46% | 2.49 | 66.3% | ❌ perdida | -2.56 |
 | kkookkoo | LSU vs. Ole Miss | LSU (BUY) | 49% | 5.00 | 12.9% | ❌ perdida | -5.13 |
 | Elaran1993 | Will Portland Timbers win on 2026-09-19? | No (BUY) | 52% | 4.50 | 27.5% | ✅ ganada | +4.05 |
-| Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Will AD Pasto win on 2026-09-19? | Yes (BUY) | 48% | 5.00 | 0.1% | ✅ ganada | +5.29 |
 | RN1 | Spread: Florida (-2.5) | Auburn (BUY) | 41% | 2.74 | 0.2% | ❌ perdida | -2.82 |
 | RN1 | Spread: Florida (-3.5) | Auburn (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | UpTheBlues | CA River Plate vs. CA Huracán: O/U 3.5 | Under (BUY) | 66% | 5.00 | 0.1% | ✅ ganada | +2.49 |
@@ -1070,4 +1071,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Kch-Temp | Spread: LSU (-2.5) | Ole Miss (BUY) | 48% | 5.00 | 2.0% | ✅ ganada | +5.29 |
 | Kch-Temp | LSU vs. Ole Miss | Ole Miss (BUY) | 43% | 5.00 | 7.6% | ✅ ganada | +6.48 |
 | Kch-Temp | Spread: South Carolina (-3.5) | Mississippi State (BUY) | 52% | 5.00 | 2.3% | ✅ ganada | +4.50 |
-| RN1 | 1. FC Kaiserslautern vs. Eintracht Braun | Over (BUY) | 53% | 3.50 | 0.6% | ❌ perdida | -3.58 |

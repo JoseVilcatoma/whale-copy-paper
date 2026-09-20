@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.449780692523916,
+  "bankroll": 67.73644735919058,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -28970,6 +28970,11 @@
       "timestamp": 1789889296.1339443,
       "bankroll": 62.45,
       "event": "won: RN1 \u2014 Will CF Am\u00e9rica win on 2026-09-19?"
+    },
+    {
+      "timestamp": 1789889605.569725,
+      "bankroll": 67.74,
+      "event": "won: Flaznorp \u2014 Will AD Pasto win on 2026-09-19?"
     }
   ]
 }
