@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.10188641671782,
+  "bankroll": 71.16974355957495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29675,6 +29675,11 @@
       "timestamp": 1790006542.3761487,
       "bankroll": 69.1,
       "event": "won: ferrariChampions2026 \u2014 Singapore Open: Storm Hunter vs Joanna Garland"
+    },
+    {
+      "timestamp": 1790006855.8896224,
+      "bankroll": 71.17,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Max Alcala Gurri vs Eliakim Coulibaly"
     }
   ]
 }
