@@ -145530,8 +145530,8 @@
     "title": "Singapore Open: Daria Kasatkina vs Aliaksandra Sasnovich",
     "outcome": "Aliaksandra Sasnovich",
     "side": "BUY",
-    "whale_usd": 1215.20992,
-    "whale_pct": 0.239,
+    "whale_usd": 2395.68992,
+    "whale_pct": 0.471,
     "whale_value_at_open": 508910.3866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -145542,7 +145542,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789964660.2035177,
-    "fills": 1
+    "last_fill_at": 1789964785.2377465,
+    "fills": 2
   }
 ]
