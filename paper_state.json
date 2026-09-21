@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.0838141355123,
+  "bankroll": 82.92816707668877,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29800,6 +29800,11 @@
       "timestamp": 1790032303.518121,
       "bankroll": 82.08,
       "event": "won: GoalLineGhost \u2014 Will FK Cs\u00edkszereda Miercurea Ciuc win on 2026-09-21?"
+    },
+    {
+      "timestamp": 1790032367.422304,
+      "bankroll": 82.93,
+      "event": "won: Flaznorp \u2014 Manta FC vs. Orense SC: O/U 3.5"
     }
   ]
 }

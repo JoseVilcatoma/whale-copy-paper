@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 18:12:19 (hora de Perú)
+Actualizado: 2026-09-21 18:14:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.08
-**Retorno acumulado:** -83.58%
+**Bankroll actual:** $82.93
+**Retorno acumulado:** -83.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 18:12:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.45)
+**Capital comprometido ahora mismo:** $76.63 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,8 +155,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 101 | 44 | 2 | -19.07 USD |
+| Flaznorp | 166 | 63 | 3 | -24.20 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 165 | 63 | 4 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -170,13 +170,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5742
-- **Aciertos:** 3610 (62.9%)
+- **Apuestas resueltas:** 5743
+- **Aciertos:** 3611 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,490.86
+- **Total apostado (suma de stakes):** $28,495.86
 - **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $527.45 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $527.49 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2956 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1677 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 794 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 795 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 315 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1065,7 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ✅ ganada | +0.36 |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ✅ ganada | +0.84 |
 | Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 6.5% | ✅ ganada | +1.36 |
