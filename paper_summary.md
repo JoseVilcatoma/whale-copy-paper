@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 12:11:05 (hora de Perú)
+Actualizado: 2026-09-21 12:13:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.57
@@ -1058,7 +1058,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 5.0% | ⏳ pendiente | — |
 | kkookkoo | Plovdiv 4: Benjamin Hassan vs Pol Martin | Pol Martin Tiffon (BUY) | 60% | 5.00 | 407.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Susan Bandecchi vs Oceane Dodin | Oceane Dodin (BUY) | 83% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-1.5) | Atlanta Dream (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |

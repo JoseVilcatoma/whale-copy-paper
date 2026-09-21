@@ -146931,8 +146931,8 @@
     "title": "Plovdiv 4: Benjamin Hassan vs Pol Martin Tiffon",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 4709.383,
-    "whale_pct": 3.609,
+    "whale_usd": 6478.266988,
+    "whale_pct": 4.965,
     "whale_value_at_open": 130488.2754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -146945,7 +146945,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790010585.0684307,
-    "fills": 1
+    "last_fill_at": 1790010736.395057,
+    "fills": 3
   }
 ]
