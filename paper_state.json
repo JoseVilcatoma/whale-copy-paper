@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.21685269538132,
+  "bankroll": 103.31389351170785,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29340,6 +29340,11 @@
       "timestamp": 1789953929.8803496,
       "bankroll": 103.22,
       "event": "lost: RN1 \u2014 Commanders vs. Cowboys: O/U 52.5"
+    },
+    {
+      "timestamp": 1789954561.0699732,
+      "bankroll": 103.31,
+      "event": "won: UpTheBlues \u2014 Will San Martin de San Juan win on 2026-09-20?"
     }
   ]
 }
