@@ -145602,8 +145602,8 @@
     "title": "Korea Open: Xinxin Yao vs Maya Joint",
     "outcome": "Maya Joint",
     "side": "BUY",
-    "whale_usd": 60273.34788699999,
-    "whale_pct": 32.251,
+    "whale_usd": 70875.25816699999,
+    "whale_pct": 37.924,
     "whale_value_at_open": 186886.7562,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -145614,8 +145614,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789969683.7703533,
-    "fills": 10
+    "last_fill_at": 1789969692.574137,
+    "fills": 12
   },
   {
     "timestamp": 1789967656,
