@@ -146679,5 +146679,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790000897.8588915,
     "fills": 1
+  },
+  {
+    "timestamp": 1790002129,
+    "timestamp_added": 1790002130.0427685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-hunter-garland-2026-09-21",
+    "title": "Singapore Open: Storm Hunter vs Joanna Garland",
+    "outcome": "Joanna Garland",
+    "side": "BUY",
+    "whale_usd": 2885.6603999999998,
+    "whale_pct": 2.496,
+    "whale_value_at_open": 115601.3049,
+    "paper_stake_usd": 2.2,
+    "odds_at_bet": 43,
+    "fee_usd": 0.063,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790002130.0427792,
+    "fills": 1
   }
 ]
