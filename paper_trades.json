@@ -146017,5 +146017,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789975575.2171528,
     "fills": 2
+  },
+  {
+    "timestamp": 1789976399,
+    "timestamp_added": 1789976399.9308329,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-rakhimo-kuderme-2026-09-20",
+    "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
+    "outcome": "Polina Kudermetova",
+    "side": "BUY",
+    "whale_usd": 932.9940819999999,
+    "whale_pct": 0.96,
+    "whale_value_at_open": 97137.7203,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789976399.9308424,
+    "fills": 1
   }
 ]
