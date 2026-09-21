@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:03:27 (hora de Perú)
+Actualizado: 2026-09-20 22:05:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.95
@@ -1047,13 +1047,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 4.9% | ⏳ pendiente | — |
+| RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.1% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 11.6% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 10.1% | ⏳ pendiente | — |
+| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 11.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 13.3% | ⏳ pendiente | — |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |

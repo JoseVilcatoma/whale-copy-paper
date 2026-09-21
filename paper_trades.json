@@ -145234,8 +145234,8 @@
     "title": "Colts vs. Chiefs",
     "outcome": "Chiefs",
     "side": "BUY",
-    "whale_usd": 103099.46722499999,
-    "whale_pct": 10.138,
+    "whale_usd": 135626.83392499998,
+    "whale_pct": 13.337,
     "whale_value_at_open": 1016931.8435,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -145246,8 +145246,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789959803.762677,
-    "fills": 12
+    "last_fill_at": 1789959909.7891717,
+    "fills": 15
   },
   {
     "timestamp": 1789950903,
@@ -145258,8 +145258,8 @@
     "title": "Spread: KC (-5.5)",
     "outcome": "IND",
     "side": "BUY",
-    "whale_usd": 78515.317458,
-    "whale_pct": 11.619,
+    "whale_usd": 80427.927458,
+    "whale_pct": 11.902,
     "whale_value_at_open": 675751.601,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -145270,8 +145270,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789957625.0829165,
-    "fills": 60
+    "last_fill_at": 1789959856.6757348,
+    "fills": 61
   },
   {
     "timestamp": 1789950933,
@@ -145378,8 +145378,8 @@
     "title": "Colts vs. Chiefs",
     "outcome": "Chiefs",
     "side": "BUY",
-    "whale_usd": 22182.787225000004,
-    "whale_pct": 4.888,
+    "whale_usd": 23287.087225000003,
+    "whale_pct": 5.131,
     "whale_value_at_open": 453847.9847,
     "paper_stake_usd": 3.8,
     "odds_at_bet": 59,
@@ -145392,7 +145392,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789959797.5032146,
-    "fills": 14
+    "last_fill_at": 1789959813.5434954,
+    "fills": 15
   }
 ]
