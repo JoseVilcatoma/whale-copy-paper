@@ -147055,8 +147055,8 @@
     "title": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
     "outcome": "Oksana Selekhmeteva",
     "side": "BUY",
-    "whale_usd": 6204.9805000000015,
-    "whale_pct": 7.04,
+    "whale_usd": 6894.130500000001,
+    "whale_pct": 7.822,
     "whale_value_at_open": 88140.9864,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -147067,8 +147067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790013305.6328433,
-    "fills": 2
+    "last_fill_at": 1790013431.7282186,
+    "fills": 3
   },
   {
     "timestamp": 1790013183,
@@ -147116,6 +147116,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790013193.408103,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790013492,
+    "timestamp_added": 1790013493.262061,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-urgesi-selekhm-2026-09-21",
+    "title": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
+    "outcome": "Federica Urgesi",
+    "side": "BUY",
+    "whale_usd": 1139.9128,
+    "whale_pct": 1.221,
+    "whale_value_at_open": 93336.2181,
+    "paper_stake_usd": 3.23,
+    "odds_at_bet": 53,
+    "fee_usd": 0.076,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790013493.2620711,
     "fills": 1
   }
 ]
