@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 10:16:36 (hora de Perú)
+Actualizado: 2026-09-21 10:18:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $61.46
@@ -1056,7 +1056,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |

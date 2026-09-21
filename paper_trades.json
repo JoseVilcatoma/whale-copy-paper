@@ -146689,8 +146689,8 @@
     "title": "Singapore Open: Storm Hunter vs Joanna Garland",
     "outcome": "Joanna Garland",
     "side": "BUY",
-    "whale_usd": 3449.9483999999998,
-    "whale_pct": 2.984,
+    "whale_usd": 4712.675829,
+    "whale_pct": 4.077,
     "whale_value_at_open": 115601.3049,
     "paper_stake_usd": 2.2,
     "odds_at_bet": 43,
@@ -146701,7 +146701,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790003513.1659524,
-    "fills": 2
+    "last_fill_at": 1790003872.4858384,
+    "fills": 3
   }
 ]
