@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.16314250534096,
+  "bankroll": 74.26186381681637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29430,6 +29430,11 @@
       "timestamp": 1789964096.1789896,
       "bankroll": 71.16,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Colts vs. Chiefs"
+    },
+    {
+      "timestamp": 1789965092.7307093,
+      "bankroll": 74.26,
+      "event": "won: RN1 \u2014 Spread: KC (-5.5)"
     }
   ]
 }

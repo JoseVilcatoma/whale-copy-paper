@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 23:29:34 (hora de Perú)
+Actualizado: 2026-09-20 23:31:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $71.16
-**Retorno acumulado:** -85.77%
+**Bankroll actual:** $74.26
+**Retorno acumulado:** -85.15%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 23:29:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $11.16)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $14.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,11 +143,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| RN1 | 593 | 279 | 3 | -12.81 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 18 | 3 | -13.87 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 592 | 279 | 4 | -15.91 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -164,18 +164,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 802 | 498 | 2 | -246.05 USD |
+| ferrariChampions2026 | 802 | 498 | 3 | -246.05 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5669
-- **Aciertos:** 3559 (62.8%)
+- **Apuestas resueltas:** 5670
+- **Aciertos:** 3560 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,138.62
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $521.79 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,143.62
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $521.89 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2928 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1653 | 68.7% | 67.9% | +0.9 pp |
+| 60-79% | 1654 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 779 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1048,6 +1048,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Xinxin Yao (BUY) | 88% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Daria Kasatkina vs Aliak | Aliaksandra Sasnovich (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
@@ -1059,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ❌ perdida | -5.07 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ⏳ pendiente | — |
+| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ✅ ganada | +3.10 |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ✅ ganada | +3.52 |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ✅ ganada | +4.84 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
@@ -1077,4 +1078,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ❌ perdida | -2.52 |
 | RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ✅ ganada | +0.78 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
