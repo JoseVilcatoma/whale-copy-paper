@@ -145378,8 +145378,8 @@
     "title": "Colts vs. Chiefs",
     "outcome": "Chiefs",
     "side": "BUY",
-    "whale_usd": 10087.35,
-    "whale_pct": 2.223,
+    "whale_usd": 11784.7,
+    "whale_pct": 2.597,
     "whale_value_at_open": 453847.9847,
     "paper_stake_usd": 3.8,
     "odds_at_bet": 59,
@@ -145392,7 +145392,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789957609.7913642,
-    "fills": 6
+    "last_fill_at": 1789958061.952575,
+    "fills": 7
   }
 ]
