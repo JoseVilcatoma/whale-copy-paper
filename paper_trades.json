@@ -145520,5 +145520,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789962127.6353207,
     "fills": 1
+  },
+  {
+    "timestamp": 1789964658,
+    "timestamp_added": 1789964660.2034998,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kasatki-sasnovi-2026-09-20",
+    "title": "Singapore Open: Daria Kasatkina vs Aliaksandra Sasnovich",
+    "outcome": "Aliaksandra Sasnovich",
+    "side": "BUY",
+    "whale_usd": 1215.20992,
+    "whale_pct": 0.239,
+    "whale_value_at_open": 508910.3866,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789964660.2035177,
+    "fills": 1
   }
 ]

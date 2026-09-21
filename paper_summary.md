@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 23:23:18 (hora de Perú)
+Actualizado: 2026-09-20 23:25:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $71.16
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 23:23:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $16.16)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $11.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 18 | 3 | -13.87 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 592 | 279 | 3 | -15.91 USD |
+| RN1 | 592 | 279 | 4 | -15.91 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -1048,6 +1048,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Daria Kasatkina vs Aliak | Aliaksandra Sasnovich (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1077,4 +1078,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ✅ ganada | +0.78 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
-| RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
