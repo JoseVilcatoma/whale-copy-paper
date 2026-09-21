@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 02:06:33 (hora de Perú)
+Actualizado: 2026-09-21 02:08:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.51
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 02:06:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $13.51)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $8.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| RN1 | 596 | 279 | 7 | -3.42 USD |
+| RN1 | 596 | 279 | 8 | -3.42 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
@@ -1051,6 +1051,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W50 Plovdiv: Margaux Maquet vs Lucie Pet | Margaux Maquet (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Da-Yeon Back (BUY) | 61% | 5.00 | 26.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 73% | 5.00 | 5.9% | ⏳ pendiente | — |
@@ -1080,4 +1081,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ✅ ganada | +3.10 |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ✅ ganada | +3.52 |
-| UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ✅ ganada | +4.84 |

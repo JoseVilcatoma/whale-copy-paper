@@ -145943,5 +145943,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789974229.4873893,
     "fills": 1
+  },
+  {
+    "timestamp": 1789974481,
+    "timestamp_added": 1789974482.1531274,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-maquet1-petruz1-2026-09-21",
+    "title": "W50 Plovdiv: Margaux Maquet vs Lucie Petruzelova",
+    "outcome": "Margaux Maquet",
+    "side": "BUY",
+    "whale_usd": 691.54,
+    "whale_pct": 0.558,
+    "whale_value_at_open": 123949.5851,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789974482.153138,
+    "fills": 1
   }
 ]
