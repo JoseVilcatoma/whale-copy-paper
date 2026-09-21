@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 16:47:00 (hora de Perú)
+Actualizado: 2026-09-21 16:49:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.66
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 6.8% | ⏳ pendiente | — |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ⏳ pendiente | — |

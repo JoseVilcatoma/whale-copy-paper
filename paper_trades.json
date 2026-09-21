@@ -147367,8 +147367,8 @@
     "title": "San Diego 2: Dinko Dinev vs Dylan Dietrich",
     "outcome": "Dylan Dietrich",
     "side": "BUY",
-    "whale_usd": 2727.4722229999998,
-    "whale_pct": 2.309,
+    "whale_usd": 8068.592423,
+    "whale_pct": 6.831,
     "whale_value_at_open": 118123.8689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -147379,8 +147379,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790026930.5141995,
-    "fills": 2
+    "last_fill_at": 1790027318.4873507,
+    "fills": 3
   },
   {
     "timestamp": 1790027030,
