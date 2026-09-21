@@ -146545,8 +146545,8 @@
     "title": "Plovdiv 4: Daniel Galan vs Calvin Hemery",
     "outcome": "Daniel Galan",
     "side": "BUY",
-    "whale_usd": 2175.911693,
-    "whale_pct": 1.784,
+    "whale_usd": 4104.851693,
+    "whale_pct": 3.366,
     "whale_value_at_open": 121946.6274,
     "paper_stake_usd": 4.26,
     "odds_at_bet": 60,
@@ -146557,8 +146557,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790003624.133601,
-    "fills": 2
+    "last_fill_at": 1790004118.48642,
+    "fills": 3
   },
   {
     "timestamp": 1789997857,
@@ -146689,8 +146689,8 @@
     "title": "Singapore Open: Storm Hunter vs Joanna Garland",
     "outcome": "Joanna Garland",
     "side": "BUY",
-    "whale_usd": 4712.675829,
-    "whale_pct": 4.077,
+    "whale_usd": 8930.728629000001,
+    "whale_pct": 7.725,
     "whale_value_at_open": 115601.3049,
     "paper_stake_usd": 2.2,
     "odds_at_bet": 43,
@@ -146701,7 +146701,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790003872.4858384,
-    "fills": 3
+    "last_fill_at": 1790004167.2197065,
+    "fills": 4
   }
 ]
