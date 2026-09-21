@@ -145674,8 +145674,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
     "outcome": "Kamilla Rakhimova",
     "side": "BUY",
-    "whale_usd": 9497.243199999999,
-    "whale_pct": 6.423,
+    "whale_usd": 13805.873199999998,
+    "whale_pct": 9.337,
     "whale_value_at_open": 147869.8883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -145686,8 +145686,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789972959.0050185,
-    "fills": 4
+    "last_fill_at": 1789973057.9265854,
+    "fills": 5
   },
   {
     "timestamp": 1789971366,
@@ -145724,8 +145724,8 @@
     "title": "Singapore Open: Kristina Mladenovic vs Nao Hibino",
     "outcome": "Kristina Mladenovic",
     "side": "BUY",
-    "whale_usd": 2077.135357,
-    "whale_pct": 1.752,
+    "whale_usd": 3041.220037,
+    "whale_pct": 2.566,
     "whale_value_at_open": 118541.9645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -145738,8 +145738,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789971774.8761225,
-    "fills": 2
+    "last_fill_at": 1789973092.1587646,
+    "fills": 3
   },
   {
     "timestamp": 1789971917,
@@ -145876,8 +145876,8 @@
     "title": "Singapore Open: Talia Gibson vs Fiona Ferro",
     "outcome": "Talia Gibson",
     "side": "BUY",
-    "whale_usd": 2136.65,
-    "whale_pct": 2.944,
+    "whale_usd": 2939.21,
+    "whale_pct": 4.05,
     "whale_value_at_open": 72573.5922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -145890,7 +145890,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789972987.843735,
-    "fills": 3
+    "last_fill_at": 1789973058.61127,
+    "fills": 4
   }
 ]
