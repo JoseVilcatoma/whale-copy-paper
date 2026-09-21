@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 15:58:15 (hora de Perú)
+Actualizado: 2026-09-21 16:00:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.89
@@ -1064,7 +1064,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 16.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
