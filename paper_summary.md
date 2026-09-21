@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 12:09:01 (hora de Perú)
+Actualizado: 2026-09-21 12:11:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 12:09:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $18.57)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $8.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
-| kkookkoo | 2 | 1 | 0 | +0.91 USD |
+| kkookkoo | 2 | 1 | 1 | +0.91 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 819 | 507 | 6 | -257.63 USD |
+| ferrariChampions2026 | 819 | 507 | 7 | -257.63 USD |
 
 ## Análisis general
 
@@ -1052,12 +1052,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-domenc-jade-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-astakho-linette-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-quevedo-podoros-2026-09-20 | ferrariChampions2026, kkookkoo |
+| atp-hassan-tiffon-2026-09-21 | ferrariChampions2026, kkookkoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Porto: Susan Bandecchi vs Oceane Dodin | Oceane Dodin (BUY) | 83% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 3.6% | ⏳ pendiente | — |
+| kkookkoo | Plovdiv 4: Benjamin Hassan vs Pol Martin | Pol Martin Tiffon (BUY) | 60% | 5.00 | 407.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Susan Bandecchi vs Oceane Dodin | Oceane Dodin (BUY) | 83% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-1.5) | Atlanta Dream (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 8.4% | ⏳ pendiente | — |
@@ -1085,5 +1088,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 4: Pavel Lagutin vs Svyatoslav G | Svyatoslav Gulin (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 26.3% | ❌ perdida | -3.48 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 245.6% | ✅ ganada | +5.08 |
-| HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Under (BUY) | 44% | 5.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 7.6% | ✅ ganada | +2.49 |
