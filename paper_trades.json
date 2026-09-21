@@ -146487,5 +146487,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789990175.1369963,
     "fills": 5
+  },
+  {
+    "timestamp": 1789993188,
+    "timestamp_added": 1789993189.0886207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-falei-tian-2026-09-21",
+    "title": "Ankara: Aliona Falei vs Fangran Tian",
+    "outcome": "Fangran Tian",
+    "side": "BUY",
+    "whale_usd": 691.706572,
+    "whale_pct": 0.723,
+    "whale_value_at_open": 95612.7659,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789993189.08863,
+    "fills": 1
   }
 ]
