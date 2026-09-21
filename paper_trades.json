@@ -146415,5 +146415,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789984279.760794,
     "fills": 1
+  },
+  {
+    "timestamp": 1789984723,
+    "timestamp_added": 1789984723.701211,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tor-bal-2026-09-21",
+    "title": "Toronto Blue Jays vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 869.3482,
+    "whale_pct": 4.221,
+    "whale_value_at_open": 20595.1286,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789984723.7012217,
+    "fills": 1
   }
 ]
