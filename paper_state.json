@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.74080317615118,
+  "bankroll": 86.88744235140891,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29760,6 +29760,11 @@
       "timestamp": 1790020221.0555317,
       "bankroll": 86.74,
       "event": "won: GoalLineGhost \u2014 CA Aldosivi vs. CA Tucum\u00e1n: O/U 1.5"
+    },
+    {
+      "timestamp": 1790023195.127216,
+      "bankroll": 86.89,
+      "event": "won: Flaznorp \u2014 San Diego 2: Ozan Baris vs Alex Rybakov"
     }
   ]
 }

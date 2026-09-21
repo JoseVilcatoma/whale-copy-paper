@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 15:38:02 (hora de Perú)
+Actualizado: 2026-09-21 15:40:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.74
-**Retorno acumulado:** -82.65%
+**Bankroll actual:** $86.89
+**Retorno acumulado:** -82.62%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 15:38:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.57 en 17 posiciones abiertas (disponible para nuevas apuestas: $3.17)
+**Capital comprometido ahora mismo:** $81.74 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 99 | 44 | 2 | -19.27 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 164 | 63 | 1 | -25.19 USD |
+| Flaznorp | 165 | 63 | 1 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -170,11 +170,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5734
-- **Aciertos:** 3604 (62.9%)
+- **Apuestas resueltas:** 5735
+- **Aciertos:** 3605 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,450.86
+- **Total apostado (suma de stakes):** $28,455.86
 - **ROI sobre lo apostado:** -1.90%
 - **Comisiones pagadas (taker fee):** $527.03 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2953 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 793 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
+| 95-99% (casi seguro) | 313 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1059,7 +1059,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 16.2% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 4.6% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 6.3% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 7.5% | ✅ ganada | +4.32 |
