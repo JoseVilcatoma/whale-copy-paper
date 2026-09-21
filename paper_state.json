@@ -1,5 +1,5 @@
 {
-  "bankroll": 112.16515572568434,
+  "bankroll": 110.50715572568434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29295,6 +29295,16 @@
       "timestamp": 1789948573.7777858,
       "bankroll": 112.17,
       "event": "lost: TAIWANNUMBERONE \u2014 Spread: Cowboys (-16.5)"
+    },
+    {
+      "timestamp": 1789948887.3451614,
+      "bankroll": 107.08,
+      "event": "lost: RN1 \u2014 Vikings vs. Bears: O/U 39.5"
+    },
+    {
+      "timestamp": 1789948888.7732425,
+      "bankroll": 110.51,
+      "event": "won: RN1 \u2014 Spread: Cowboys (-10.5)"
     }
   ]
 }

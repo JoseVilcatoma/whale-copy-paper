@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 19:00:29 (hora de Perú)
+Actualizado: 2026-09-20 19:02:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $112.17
-**Retorno acumulado:** -77.57%
+**Bankroll actual:** $110.51
+**Retorno acumulado:** -77.90%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 19:00:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.14 en 24 posiciones abiertas (disponible para nuevas apuestas: $2.03)
+**Capital comprometido ahora mismo:** $106.62 en 23 posiciones abiertas (disponible para nuevas apuestas: $3.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -99,7 +99,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 35 | 20 | 0 | -1.01 USD |
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
-| RN1 | 588 | 274 | 6 | -1.58 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -111,6 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kkookkoo | 1 | 1 | 0 | -2.75 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| RN1 | 589 | 275 | 4 | -3.24 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
@@ -118,7 +118,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 16 | 4 | -3.61 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 157 | 57 | 10 | -4.84 USD |
+| Flaznorp | 157 | 57 | 11 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5642
-- **Aciertos:** 3546 (62.9%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 5644
+- **Aciertos:** 3547 (62.8%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $28,015.79
+- **Total apostado (suma de stakes):** $28,024.31
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $519.68 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $519.85 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,8 +183,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2914 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1647 | 68.9% | 67.9% | +1.0 pp |
+| 40-59% | 2915 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1648 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 774 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1046,6 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ⏳ pendiente | — |
@@ -1064,7 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ✅ ganada | +3.23 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |
-| RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ⏳ pendiente | — |
+| RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ✅ ganada | +3.43 |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
@@ -1075,4 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Raiders vs. Chargers | Chargers (BUY) | 67% | 5.00 | 2.7% | ❌ perdida | -5.08 |
 | GoalLineGhost | Will CA Newell's Old Boys win on 2026-09 | Yes (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Jaguars (BUY) | 57% | 3.10 | 2.8% | ❌ perdida | -3.17 |
