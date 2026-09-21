@@ -145592,5 +145592,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789966430.8914964,
     "fills": 1
+  },
+  {
+    "timestamp": 1789967284,
+    "timestamp_added": 1789967284.5592315,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-yao-joint-2026-09-20",
+    "title": "Korea Open: Xinxin Yao vs Maya Joint",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "whale_usd": 508.52293199999997,
+    "whale_pct": 0.272,
+    "whale_value_at_open": 186886.7562,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789967284.5592468,
+    "fills": 1
   }
 ]
