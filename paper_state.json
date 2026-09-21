@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.88744235140891,
+  "bankroll": 88.24269876166532,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29765,6 +29765,11 @@
       "timestamp": 1790023195.127216,
       "bankroll": 86.89,
       "event": "won: Flaznorp \u2014 San Diego 2: Ozan Baris vs Alex Rybakov"
+    },
+    {
+      "timestamp": 1790026023.767649,
+      "bankroll": 88.24,
+      "event": "won: ferrariChampions2026 \u2014 San Diego 2: Aidan Mayo vs Sebastian Gorzny"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 16:26:48 (hora de Perú)
+Actualizado: 2026-09-21 16:28:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.89
-**Retorno acumulado:** -82.62%
+**Bankroll actual:** $88.24
+**Retorno acumulado:** -82.35%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 16:26:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.74 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.15)
+**Capital comprometido ahora mismo:** $81.74 en 17 posiciones abiertas (disponible para nuevas apuestas: $6.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 824 | 509 | 7 | -251.33 USD |
+| ferrariChampions2026 | 825 | 509 | 6 | -249.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5735
-- **Aciertos:** 3605 (62.9%)
+- **Apuestas resueltas:** 5736
+- **Aciertos:** 3606 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,455.86
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $527.03 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,460.86
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $527.09 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2953 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1677 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 793 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 313 | 97.1% | 97.4% | -0.2 pp |
 
@@ -1062,7 +1062,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 6.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 6.5% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
