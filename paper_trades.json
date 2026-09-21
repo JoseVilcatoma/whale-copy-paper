@@ -146521,8 +146521,8 @@
     "title": "Ankara: Aysegul Mert vs Isabella Shinikova",
     "outcome": "Aysegul Mert",
     "side": "BUY",
-    "whale_usd": 5400.3545269999995,
-    "whale_pct": 5.658,
+    "whale_usd": 7177.2710609999995,
+    "whale_pct": 7.52,
     "whale_value_at_open": 95444.1061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -146533,8 +146533,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790009769.3343213,
-    "fills": 3
+    "last_fill_at": 1790009800.991132,
+    "fills": 4
   },
   {
     "timestamp": 1789996342,
@@ -146811,8 +146811,8 @@
     "title": "St. Tropez: David Goffin vs Mark Lajal",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 7564.810993,
-    "whale_pct": 7.593,
+    "whale_usd": 8324.810993,
+    "whale_pct": 8.356,
     "whale_value_at_open": 99626.2493,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -146823,8 +146823,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790009298.1643088,
-    "fills": 3
+    "last_fill_at": 1790009917.154442,
+    "fills": 4
   },
   {
     "timestamp": 1790008717,

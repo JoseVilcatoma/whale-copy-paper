@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 11:56:34 (hora de Perú)
+Actualizado: 2026-09-21 11:58:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.57
@@ -1058,7 +1058,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 8.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1070,7 +1070,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 7.5% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Plovdiv 4: Daniel Galan vs Calvin Hemery | Daniel Galan (BUY) | 60% | 4.26 | 4.0% | ❌ perdida | -4.34 |
-| ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Aliona Falei vs Fangran Tian | Fangran Tian (BUY) | 73% | 5.00 | 7.2% | ✅ ganada | +1.78 |
 | RN1 | Counter-Strike: Astralis vs Sangal (BO3) | Astralis (BUY) | 82% | 4.21 | 2.1% | ✅ ganada | +0.89 |
 | RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.8% | ✅ ganada | +0.25 |
