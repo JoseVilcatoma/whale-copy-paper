@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.82474355957496,
+  "bankroll": 67.11648824042602,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29685,6 +29685,11 @@
       "timestamp": 1790007042.8108284,
       "bankroll": 66.82,
       "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Daniel Galan vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1790008540.8315701,
+      "bankroll": 67.12,
+      "event": "won: ferrariChampions2026 \u2014 Genoa 2: Dali Blanch vs Sandro Kopp"
     }
   ]
 }
