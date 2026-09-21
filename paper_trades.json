@@ -146003,8 +146003,8 @@
     "title": "Korea Open: Yue Yuan vs Da-Yeon Back",
     "outcome": "Yue Yuan",
     "side": "BUY",
-    "whale_usd": 6134.4933,
-    "whale_pct": 5.174,
+    "whale_usd": 16695.476015,
+    "whale_pct": 14.081,
     "whale_value_at_open": 118564.8508,
     "paper_stake_usd": 3.51,
     "odds_at_bet": 68,
@@ -146015,8 +146015,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789975575.2171528,
-    "fills": 2
+    "last_fill_at": 1789978498.0569034,
+    "fills": 5
   },
   {
     "timestamp": 1789976399,
@@ -146117,5 +146117,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789978360.3618252,
     "fills": 2
+  },
+  {
+    "timestamp": 1789978445,
+    "timestamp_added": 1789978445.9956744,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-domenc-jade-2026-09-21",
+    "title": "Saint Tropez: Mathys Domenc vs Daniel Jade",
+    "outcome": "Daniel Jade",
+    "side": "BUY",
+    "whale_usd": 1429.3074,
+    "whale_pct": 1.221,
+    "whale_value_at_open": 117037.3741,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789978445.9956846,
+    "fills": 1
   }
 ]
