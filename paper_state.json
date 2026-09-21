@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.57089351170785,
+  "bankroll": 91.95158007887203,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29360,6 +29360,11 @@
       "timestamp": 1789956134.6132543,
       "bankroll": 89.57,
       "event": "lost: GoalLineGhost \u2014 Spread: CR Flamengo (-1.5)"
+    },
+    {
+      "timestamp": 1789956447.2712417,
+      "bankroll": 91.95,
+      "event": "won: Flaznorp \u2014 Will Londrina EC win on 2026-09-20?"
     }
   ]
 }
