@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 18:10:18 (hora de Perú)
+Actualizado: 2026-09-21 18:12:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.99
-**Retorno acumulado:** -83.60%
+**Bankroll actual:** $82.08
+**Retorno acumulado:** -83.58%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 18:10:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.36)
+**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,14 +147,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 607 | 286 | 0 | -13.82 USD |
+| RN1 | 607 | 286 | 1 | -13.82 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 100 | 44 | 3 | -19.17 USD |
+| GoalLineGhost | 101 | 44 | 2 | -19.07 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | Flaznorp | 165 | 63 | 4 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -170,13 +170,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5741
-- **Aciertos:** 3609 (62.9%)
+- **Apuestas resueltas:** 5742
+- **Aciertos:** 3610 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,485.86
+- **Total apostado (suma de stakes):** $28,490.86
 - **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $527.44 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $527.45 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2956 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1677 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 794 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 314 | 97.1% | 97.4% | -0.2 pp |
+| 95-99% (casi seguro) | 315 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
@@ -1070,7 +1071,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 6.5% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 17.2% | ✅ ganada | +3.52 |
-| GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
+| GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 10.2% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
-| ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |

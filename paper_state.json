@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.98677331918577,
+  "bankroll": 82.0838141355123,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29795,6 +29795,11 @@
       "timestamp": 1790030979.4187765,
       "bankroll": 81.99,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Dinko Dinev vs Dylan Dietrich"
+    },
+    {
+      "timestamp": 1790032303.518121,
+      "bankroll": 82.08,
+      "event": "won: GoalLineGhost \u2014 Will FK Cs\u00edkszereda Miercurea Ciuc win on 2026-09-21?"
     }
   ]
 }
