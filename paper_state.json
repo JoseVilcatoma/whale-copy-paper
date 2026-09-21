@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.73348416443258,
+  "bankroll": 83.51479923292574,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29495,6 +29495,11 @@
       "timestamp": 1789972014.557131,
       "bankroll": 81.73,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Xinxin Yao vs Maya Joint"
+    },
+    {
+      "timestamp": 1789972325.3150992,
+      "bankroll": 83.51,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Alina Korneeva vs Mananchaya Sawangkaew"
     }
   ]
 }
