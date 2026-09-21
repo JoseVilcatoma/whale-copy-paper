@@ -146545,8 +146545,8 @@
     "title": "Plovdiv 4: Daniel Galan vs Calvin Hemery",
     "outcome": "Daniel Galan",
     "side": "BUY",
-    "whale_usd": 4104.851693,
-    "whale_pct": 3.366,
+    "whale_usd": 4896.923693,
+    "whale_pct": 4.016,
     "whale_value_at_open": 121946.6274,
     "paper_stake_usd": 4.26,
     "odds_at_bet": 60,
@@ -146557,8 +146557,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790004118.48642,
-    "fills": 3
+    "last_fill_at": 1790004401.0543242,
+    "fills": 4
   },
   {
     "timestamp": 1789997857,
