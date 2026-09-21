@@ -146339,5 +146339,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789982039.1863809,
     "fills": 1
+  },
+  {
+    "timestamp": 1789983334,
+    "timestamp_added": 1789983334.8858535,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-domenc-jade-2026-09-21",
+    "title": "Saint Tropez: Mathys Domenc vs Daniel Jade",
+    "outcome": "Mathys Domenc",
+    "side": "BUY",
+    "whale_usd": 935.444603,
+    "whale_pct": 1.099,
+    "whale_value_at_open": 85115.9649,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789983334.8858638,
+    "fills": 1
   }
 ]
