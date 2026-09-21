@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 09:26:49 (hora de Perú)
+Actualizado: 2026-09-21 09:28:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $61.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 09:26:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.26 en 10 posiciones abiertas (disponible para nuevas apuestas: $12.20)
+**Capital comprometido ahora mismo:** $59.26 en 12 posiciones abiertas (disponible para nuevas apuestas: $2.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 812 | 505 | 6 | -266.07 USD |
+| ferrariChampions2026 | 812 | 505 | 8 | -266.07 USD |
 
 ## Análisis general
 
@@ -1056,6 +1056,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -1084,5 +1086,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Yue Yuan (BUY) | 68% | 3.51 | 15.9% | ❌ perdida | -3.57 |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 70% | 5.00 | 1.8% | ✅ ganada | +2.07 |
 | RN1 | W50 Plovdiv: Margaux Maquet vs Lucie Pet | Margaux Maquet (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
-| Flaznorp | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 83% | 5.00 | 1.4% | ✅ ganada | +0.98 |
-| RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Da-Yeon Back (BUY) | 61% | 5.00 | 30.8% | ✅ ganada | +3.10 |
