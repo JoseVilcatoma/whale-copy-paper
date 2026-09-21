@@ -146473,8 +146473,8 @@
     "title": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 1999.8,
-    "whale_pct": 1.143,
+    "whale_usd": 3666.8599999999997,
+    "whale_pct": 2.096,
     "whale_value_at_open": 174955.2396,
     "paper_stake_usd": 4.21,
     "odds_at_bet": 82,
@@ -146485,7 +146485,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1789988916.4649298,
-    "fills": 3
+    "last_fill_at": 1789990175.1369963,
+    "fills": 5
   }
 ]
