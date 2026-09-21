@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.7290086503006,
+  "bankroll": 94.49077488406684,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29370,6 +29370,21 @@
       "timestamp": 1789960246.0603127,
       "bankroll": 92.73,
       "event": "won: Flaznorp \u2014 Will CA Bucaramanga vs. Internacional de Bogot\u00e1 end in a draw?"
+    },
+    {
+      "timestamp": 1789960499.0456352,
+      "bankroll": 94.8,
+      "event": "won: Flaznorp \u2014 Will Am\u00e9rica de Cali win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789960499.3744164,
+      "bankroll": 89.65,
+      "event": "lost: Flaznorp \u2014 Will CA Paranaense vs. EC Bahia end in a draw?"
+    },
+    {
+      "timestamp": 1789960499.7592585,
+      "bankroll": 94.49,
+      "event": "won: UpTheBlues \u2014 CA Paranaense vs. EC Bahia: O/U 3.5"
     }
   ]
 }
