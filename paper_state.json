@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.61479491816772,
+  "bankroll": 81.59589130370989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29715,6 +29715,11 @@
       "timestamp": 1790011725.4057968,
       "bankroll": 80.61,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Aysegul Mert vs Isabella Shinikova"
+    },
+    {
+      "timestamp": 1790012604.0769932,
+      "bankroll": 81.6,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Susan Bandecchi vs Oceane Dodin"
     }
   ]
 }
