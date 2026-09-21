@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.10705019313392,
+  "bankroll": 70.7232224044842,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29525,6 +29525,26 @@
       "timestamp": 1789976383.8874145,
       "bankroll": 77.11,
       "event": "won: Flaznorp \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
+    },
+    {
+      "timestamp": 1789977380.6859758,
+      "bankroll": 72.0,
+      "event": "lost: ferrariChampions2026 \u2014 Singapore Open: Talia Gibson vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1789977380.8862896,
+      "bankroll": 66.87,
+      "event": "lost: RN1 \u2014 Singapore Open: Talia Gibson vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1789977380.986486,
+      "bankroll": 68.66,
+      "event": "won: RN1 \u2014 Singapore Open: Talia Gibson vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1789977381.4835906,
+      "bankroll": 70.72,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Talia Gibson vs Fiona Ferro"
     }
   ]
 }
