@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.21082393233274,
+  "bankroll": 68.67943865094746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29610,6 +29610,21 @@
       "timestamp": 1789987700.3406494,
       "bankroll": 69.21,
       "event": "won: RN1 \u2014 Plovdiv 4: Filip Misolic vs Sebastian Gima"
+    },
+    {
+      "timestamp": 1789993050.9830365,
+      "bankroll": 71.28,
+      "event": "won: RN1 \u2014 Saint Tropez: Mathys Domenc vs Daniel Jade"
+    },
+    {
+      "timestamp": 1789993051.0832295,
+      "bankroll": 73.77,
+      "event": "won: ferrariChampions2026 \u2014 Saint Tropez: Mathys Domenc vs Daniel Jade"
+    },
+    {
+      "timestamp": 1789993052.6642756,
+      "bankroll": 68.68,
+      "event": "lost: ferrariChampions2026 \u2014 Saint Tropez: Mathys Domenc vs Daniel Jade"
     }
   ]
 }

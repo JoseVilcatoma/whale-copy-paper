@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 07:15:42 (hora de Perú)
+Actualizado: 2026-09-21 07:17:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.21
-**Retorno acumulado:** -86.16%
+**Bankroll actual:** $68.68
+**Retorno acumulado:** -86.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 07:15:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.21 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $54.21 en 11 posiciones abiertas (disponible para nuevas apuestas: $14.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
+| RN1 | 605 | 283 | 5 | +0.34 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -100,7 +101,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
-| RN1 | 604 | 283 | 6 | -1.73 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -165,17 +165,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 810 | 503 | 4 | -260.22 USD |
+| ferrariChampions2026 | 811 | 504 | 2 | -262.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5705
-- **Aciertos:** 3583 (62.8%)
+- **Apuestas resueltas:** 5708
+- **Aciertos:** 3585 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,314.14
+- **Total apostado (suma de stakes):** $28,329.14
 - **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $524.75 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $525.00 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2941 | 49.6% | 50.1% | -0.4 pp |
-| 60-79% | 1669 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1672 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 784 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
 
@@ -1061,16 +1061,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Mathys Domenc (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Mathys Domenc (BUY) | 64% | 5.00 | 1.1% | ❌ perdida | -5.09 |
 | RN1 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Sebastian Gima (BUY) | 44% | 3.61 | 1.5% | ✅ ganada | +4.49 |
 | RN1 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 85% | 5.00 | 22.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Pavel Lagutin vs Svyatoslav G | Svyatoslav Gulin (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 26.3% | ❌ perdida | -3.48 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 245.6% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Under (BUY) | 44% | 5.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 7.6% | ✅ ganada | +2.49 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ❌ perdida | -5.05 |
-| RN1 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 70% | 5.00 | 9.7% | ⏳ pendiente | — |
+| RN1 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 70% | 5.00 | 9.7% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 85% | 5.00 | 15.7% | ✅ ganada | +0.84 |
 | ferrariChampions2026 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Filip Misolic (BUY) | 70% | 5.00 | 8.8% | ❌ perdida | -5.08 |
 | RN1 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 67% | 5.00 | 6.0% | ✅ ganada | +2.38 |
