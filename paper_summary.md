@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 08:37:26 (hora de Perú)
+Actualizado: 2026-09-21 08:39:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $53.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 08:37:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.47 en 10 posiciones abiertas (disponible para nuevas apuestas: $5.25)
+**Capital comprometido ahora mismo:** $53.47 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 811 | 505 | 4 | -267.85 USD |
+| ferrariChampions2026 | 811 | 505 | 5 | -267.85 USD |
 
 ## Análisis general
 
@@ -1056,6 +1056,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Daniel Galan vs Calvin Hemery | Daniel Galan (BUY) | 60% | 4.26 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Aliona Falei vs Fangran Tian | Fangran Tian (BUY) | 73% | 5.00 | 7.2% | ⏳ pendiente | — |
@@ -1085,4 +1086,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Da-Yeon Back (BUY) | 61% | 5.00 | 30.8% | ✅ ganada | +3.10 |
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 73% | 5.00 | 7.1% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 6.4% | ❌ perdida | -5.15 |
-| RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 49% | 5.00 | 6.3% | ❌ perdida | -5.13 |

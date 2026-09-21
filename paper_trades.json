@@ -146559,5 +146559,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789996342.3458683,
     "fills": 1
+  },
+  {
+    "timestamp": 1789997857,
+    "timestamp_added": 1789997858.3084402,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ristic-rus-2026-09-21",
+    "title": "Tolentino: Mia Ristic vs Arantxa Rus",
+    "outcome": "Mia Ristic",
+    "side": "BUY",
+    "whale_usd": 2708.333334,
+    "whale_pct": 2.349,
+    "whale_value_at_open": 115304.5093,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789997858.30846,
+    "fills": 1
   }
 ]
