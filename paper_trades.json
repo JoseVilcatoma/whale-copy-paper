@@ -146873,5 +146873,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790010092.225676,
     "fills": 1
+  },
+  {
+    "timestamp": 1790010407,
+    "timestamp_added": 1790010407.9911654,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-bandecc-dodin-2026-09-21",
+    "title": "Porto: Susan Bandecchi vs Oceane Dodin",
+    "outcome": "Oceane Dodin",
+    "side": "BUY",
+    "whale_usd": 3648.5191299999997,
+    "whale_pct": 3.048,
+    "whale_value_at_open": 119682.5062,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790010410.924432,
+    "fills": 2
   }
 ]
