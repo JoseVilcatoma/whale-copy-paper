@@ -146177,8 +146177,8 @@
     "title": "Saint Tropez: Mathys Domenc vs Daniel Jade",
     "outcome": "Daniel Jade",
     "side": "BUY",
-    "whale_usd": 650.0,
-    "whale_pct": 0.607,
+    "whale_usd": 2006.9753930000002,
+    "whale_pct": 1.873,
     "whale_value_at_open": 107157.1074,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -146191,8 +146191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789978968.4206514,
-    "fills": 1
+    "last_fill_at": 1789980468.3128903,
+    "fills": 2
   },
   {
     "timestamp": 1789979393,
