@@ -145776,8 +145776,8 @@
     "title": "Singapore Open: Talia Gibson vs Fiona Ferro",
     "outcome": "Fiona Ferro",
     "side": "BUY",
-    "whale_usd": 2204.097,
-    "whale_pct": 2.173,
+    "whale_usd": 4960.808999999999,
+    "whale_pct": 4.892,
     "whale_value_at_open": 101412.4583,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -145788,8 +145788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789972143.713167,
-    "fills": 1
+    "last_fill_at": 1789972416.5396154,
+    "fills": 2
   },
   {
     "timestamp": 1789972342,
@@ -145813,6 +145813,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789972342.836698,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789972415,
+    "timestamp_added": 1789972416.0291622,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-gibson-ferro-2026-09-20",
+    "title": "Singapore Open: Talia Gibson vs Fiona Ferro",
+    "outcome": "Fiona Ferro",
+    "side": "BUY",
+    "whale_usd": 3347.784,
+    "whale_pct": 5.329,
+    "whale_value_at_open": 62817.2641,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789972416.029177,
     "fills": 1
   }
 ]

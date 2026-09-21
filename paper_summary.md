@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 01:33:22 (hora de Perú)
+Actualizado: 2026-09-21 01:35:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.51
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 01:33:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $38.51)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $33.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -111,7 +111,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| RN1 | 596 | 279 | 4 | -3.42 USD |
+| RN1 | 596 | 279 | 5 | -3.42 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
@@ -1045,13 +1045,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-ind-kc-2026-09-21-total-57pt5 | RN1, TAIWANNUMBERONE |
 | wta-mladeno-hibino-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-rakhimo-kuderme-2026-09-20 | RN1, ferrariChampions2026 |
+| wta-gibson-ferro-2026-09-20 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
 | RN1 | W50 Nanao: Moeka Miyata vs Remika Ohashi | Remika Ohashi (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ⏳ pendiente | — |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -1079,4 +1081,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ❌ perdida | -2.90 |
-| Flaznorp | Will CA Paranaense vs. EC Bahia end in a | Yes (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
