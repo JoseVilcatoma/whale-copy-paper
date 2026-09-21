@@ -145674,8 +145674,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
     "outcome": "Kamilla Rakhimova",
     "side": "BUY",
-    "whale_usd": 37257.960545999995,
-    "whale_pct": 25.196,
+    "whale_usd": 37929.32094599999,
+    "whale_pct": 25.65,
     "whale_value_at_open": 147869.8883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -145686,8 +145686,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789975299.0596318,
-    "fills": 9
+    "last_fill_at": 1789978114.7620635,
+    "fills": 10
   },
   {
     "timestamp": 1789971366,
@@ -146042,6 +146042,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789976399.9308424,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789978005,
+    "timestamp_added": 1789978005.8090153,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-sramkov-chwalin-2026-09-20",
+    "title": "Singapore Open: Rebecca Sramkova vs Maja Chwalinska",
+    "outcome": "Maja Chwalinska",
+    "side": "BUY",
+    "whale_usd": 923.779483,
+    "whale_pct": 0.748,
+    "whale_value_at_open": 123538.8906,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789978005.8090262,
     "fills": 1
   }
 ]
