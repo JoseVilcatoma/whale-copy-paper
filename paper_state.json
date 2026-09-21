@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.65538841683774,
+  "bankroll": 81.62742923316426,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29780,6 +29780,16 @@
       "timestamp": 1790026649.271671,
       "bankroll": 86.66,
       "event": "lost: ferrariChampions2026 \u2014 Tolentino: Laura Samson vs Noemi Basiletti"
+    },
+    {
+      "timestamp": 1790028217.5596454,
+      "bankroll": 81.53,
+      "event": "lost: RN1 \u2014 Plovdiv 4: Pavel Lagutin vs Svyatoslav Gulin"
+    },
+    {
+      "timestamp": 1790028219.376836,
+      "bankroll": 81.63,
+      "event": "won: GoalLineGhost \u2014 CSD Tristan Suarez vs. CA Atlanta: O/U 4.5"
     }
   ]
 }
