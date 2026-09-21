@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.68422463704323,
+  "bankroll": 80.88422463704323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29730,6 +29730,11 @@
       "timestamp": 1790014368.5460641,
       "bankroll": 79.68,
       "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Benjamin Hassan vs Pol Martin Tiffon"
+    },
+    {
+      "timestamp": 1790014620.186827,
+      "bankroll": 80.88,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: David Goffin vs Mark Lajal"
     }
   ]
 }
