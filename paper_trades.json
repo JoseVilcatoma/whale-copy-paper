@@ -145674,8 +145674,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
     "outcome": "Kamilla Rakhimova",
     "side": "BUY",
-    "whale_usd": 36678.059199999996,
-    "whale_pct": 24.804,
+    "whale_usd": 37257.960545999995,
+    "whale_pct": 25.196,
     "whale_value_at_open": 147869.8883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -145686,8 +145686,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789974725.8324745,
-    "fills": 8
+    "last_fill_at": 1789975299.0596318,
+    "fills": 9
   },
   {
     "timestamp": 1789971366,
@@ -145993,5 +145993,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789974696.2220044,
     "fills": 3
+  },
+  {
+    "timestamp": 1789975264,
+    "timestamp_added": 1789975264.3932843,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-yuan-back-2026-09-20",
+    "title": "Korea Open: Yue Yuan vs Da-Yeon Back",
+    "outcome": "Yue Yuan",
+    "side": "BUY",
+    "whale_usd": 669.9933000000001,
+    "whale_pct": 0.565,
+    "whale_value_at_open": 118564.8508,
+    "paper_stake_usd": 3.51,
+    "odds_at_bet": 68,
+    "fee_usd": 0.056,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789975264.393294,
+    "fills": 1
   }
 ]
