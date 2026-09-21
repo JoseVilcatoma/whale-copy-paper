@@ -146569,8 +146569,8 @@
     "title": "Tolentino: Mia Ristic vs Arantxa Rus",
     "outcome": "Mia Ristic",
     "side": "BUY",
-    "whale_usd": 4198.948334,
-    "whale_pct": 3.642,
+    "whale_usd": 8646.924933999999,
+    "whale_pct": 7.499,
     "whale_value_at_open": 115304.5093,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -146581,8 +146581,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789998774.8561623,
-    "fills": 3
+    "last_fill_at": 1790002968.428601,
+    "fills": 4
   },
   {
     "timestamp": 1789999880,
