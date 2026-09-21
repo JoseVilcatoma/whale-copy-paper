@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 19:33:33 (hora de Perú)
+Actualizado: 2026-09-20 19:35:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $111.16
-**Retorno acumulado:** -77.77%
+**Bankroll actual:** $111.86
+**Retorno acumulado:** -77.63%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 19:33:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.51 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.65)
+**Capital comprometido ahora mismo:** $110.51 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -105,7 +105,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| RN1 | 590 | 275 | 3 | -2.59 USD |
+| RN1 | 590 | 275 | 4 | -2.59 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | kkookkoo | 1 | 1 | 0 | -2.75 USD |
@@ -115,10 +115,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 16 | 4 | -3.61 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 16 | 5 | -3.61 USD |
+| Flaznorp | 159 | 57 | 9 | -4.14 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 157 | 57 | 11 | -4.84 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5645
-- **Aciertos:** 3548 (62.9%)
+- **Apuestas resueltas:** 5647
+- **Aciertos:** 3550 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.97
-- **Total apostado (suma de stakes):** $28,029.31
+- **Total apostado (suma de stakes):** $28,039.31
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $519.88 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $519.92 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,8 +185,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2915 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1648 | 68.8% | 67.9% | +1.0 pp |
-| 80-94% | 775 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 307 | 97.1% | 97.3% | -0.3 pp |
+| 80-94% | 776 | 85.8% | 86.6% | -0.8 pp |
+| 95-99% (casi seguro) | 308 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1046,11 +1046,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 2.7% | ⏳ pendiente | — |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will CA Paranaense vs. EC Bahia end in a | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1074,5 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ✅ ganada | +0.25 |
 | Flaznorp | Will Londrina EC win on 2026-09-20? | No (BUY) | 67% | 5.00 | 0.1% | ⏳ pendiente | — |
 | UpTheBlues | Will San Martin de San Juan win on 2026- | Yes (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | CA Platense vs. CA Newell's Old Boys: O/ | Under (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
-| GoalLineGhost | Spread: CR Flamengo (-1.5) | CR Flamengo (BUY) | 50% | 3.40 | 0.2% | ⏳ pendiente | — |
