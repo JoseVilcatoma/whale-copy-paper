@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.26186381681637,
+  "bankroll": 74.73436931132187,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29435,6 +29435,11 @@
       "timestamp": 1789965092.7307093,
       "bankroll": 74.26,
       "event": "won: RN1 \u2014 Spread: KC (-5.5)"
+    },
+    {
+      "timestamp": 1789966338.8317757,
+      "bankroll": 74.73,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Katie Volynets vs Elvina Kalieva"
     }
   ]
 }
