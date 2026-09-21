@@ -145258,8 +145258,8 @@
     "title": "Spread: KC (-5.5)",
     "outcome": "IND",
     "side": "BUY",
-    "whale_usd": 69948.847458,
-    "whale_pct": 10.351,
+    "whale_usd": 73840.79745800002,
+    "whale_pct": 10.927,
     "whale_value_at_open": 675751.601,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -145270,8 +145270,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789957017.3567326,
-    "fills": 53
+    "last_fill_at": 1789957173.9480584,
+    "fills": 57
   },
   {
     "timestamp": 1789950933,
