@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.88422463704323,
+  "bankroll": 81.7285775782197,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29735,6 +29735,11 @@
       "timestamp": 1790014620.186827,
       "bankroll": 80.88,
       "event": "won: ferrariChampions2026 \u2014 St. Tropez: David Goffin vs Mark Lajal"
+    },
+    {
+      "timestamp": 1790018032.5392282,
+      "bankroll": 81.73,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Yuki Naito vs Ayla Aksu"
     }
   ]
 }

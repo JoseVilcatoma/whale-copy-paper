@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 14:13:07 (hora de Perú)
+Actualizado: 2026-09-21 14:15:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.88
-**Retorno acumulado:** -83.82%
+**Bankroll actual:** $81.73
+**Retorno acumulado:** -83.65%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 14:13:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.05)
+**Capital comprometido ahora mismo:** $74.83 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 822 | 508 | 7 | -253.54 USD |
+| ferrariChampions2026 | 823 | 508 | 6 | -252.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5729
-- **Aciertos:** 3600 (62.8%)
+- **Apuestas resueltas:** 5730
+- **Aciertos:** 3601 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,429.60
+- **Total apostado (suma de stakes):** $28,434.60
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $526.68 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $526.71 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2950 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 791 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 792 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1065,7 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |
 | maz26 | Spread: Rams (-6.5) | Giants (BUY) | 49% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 5.0% | ❌ perdida | -5.14 |
