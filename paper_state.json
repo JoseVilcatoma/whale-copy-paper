@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.715596545684306,
+  "bankroll": 55.496911614177456,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29645,6 +29645,11 @@
       "timestamp": 1789997625.3007884,
       "bankroll": 53.72,
       "event": "won: RN1 \u2014 Singapore Open: Kyoka Okamura vs Leylah Fernandez"
+    },
+    {
+      "timestamp": 1789998871.034482,
+      "bankroll": 55.5,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Aliona Falei vs Fangran Tian"
     }
   ]
 }
