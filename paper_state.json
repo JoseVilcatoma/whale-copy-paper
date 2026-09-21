@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.27427847778729,
+  "bankroll": 69.21082393233274,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29595,6 +29595,21 @@
       "timestamp": 1789982690.3437583,
       "bankroll": 73.27,
       "event": "lost: RN1 \u2014 Korea Open: Yue Yuan vs Da-Yeon Back"
+    },
+    {
+      "timestamp": 1789987699.139095,
+      "bankroll": 68.2,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Filip Misolic vs Sebastian Gima"
+    },
+    {
+      "timestamp": 1789987700.040152,
+      "bankroll": 64.72,
+      "event": "lost: 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 \u2014 Dota 2: GamerLegion vs  Pipsqueak+4 (BO3) - PGL Wallachia Group Stage"
+    },
+    {
+      "timestamp": 1789987700.3406494,
+      "bankroll": 69.21,
+      "event": "won: RN1 \u2014 Plovdiv 4: Filip Misolic vs Sebastian Gima"
     }
   ]
 }

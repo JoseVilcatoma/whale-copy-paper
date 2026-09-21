@@ -146084,8 +146084,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -146258,8 +146258,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.082,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.48,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -146299,8 +146299,8 @@
     "title": "Korea Open: Darya Astakhova vs Magda Linette",
     "outcome": "Magda Linette",
     "side": "BUY",
-    "whale_usd": 33142.347457,
-    "whale_pct": 20.952,
+    "whale_usd": 36087.776403,
+    "whale_pct": 22.814,
     "whale_value_at_open": 158183.7302,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -146311,8 +146311,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789987606.7279136,
-    "fills": 15
+    "last_fill_at": 1789987687.8223636,
+    "fills": 17
   },
   {
     "timestamp": 1789982038,
@@ -146330,8 +146330,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.101,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.49,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -146375,8 +146375,8 @@
     "title": "Korea Open: Darya Astakhova vs Magda Linette",
     "outcome": "Magda Linette",
     "side": "BUY",
-    "whale_usd": 19183.461037,
-    "whale_pct": 23.882,
+    "whale_usd": 26075.241037,
+    "whale_pct": 32.462,
     "whale_value_at_open": 80326.277,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -146389,8 +146389,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789987589.0081544,
-    "fills": 8
+    "last_fill_at": 1789987688.0573554,
+    "fills": 9
   },
   {
     "timestamp": 1789984279,
@@ -146438,6 +146438,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789984723.7012217,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789987703,
+    "timestamp_added": 1789987704.2363787,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-okamura-fernand-2026-09-21",
+    "title": "Singapore Open: Kyoka Okamura vs Leylah Fernandez",
+    "outcome": "Leylah Fernandez",
+    "side": "BUY",
+    "whale_usd": 3152.2654789999997,
+    "whale_pct": 1.748,
+    "whale_value_at_open": 180382.6117,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789987704.2363899,
     "fills": 1
   }
 ]
