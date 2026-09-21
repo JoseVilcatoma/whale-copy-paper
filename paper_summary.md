@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 03:31:43 (hora de Perú)
+Actualizado: 2026-09-21 03:33:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.04
@@ -1071,10 +1071,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 49% | 5.00 | 6.3% | ❌ perdida | -5.13 |
 | RN1 | W50 Nanao: Moeka Miyata vs Remika Ohashi | Remika Ohashi (BUY) | 53% | 5.00 | 0.8% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ❌ perdida | -5.11 |
-| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 46.4% | ⏳ pendiente | — |
+| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 56.8% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 2.6% | ❌ perdida | -5.15 |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 6.3% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 39.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 58.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Alina Korneeva vs Mananchaya | Alina Korneeva (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Maya Joint (BUY) | 70% | 5.00 | 37.9% | ✅ ganada | +2.07 |
