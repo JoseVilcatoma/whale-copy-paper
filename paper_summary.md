@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 00:58:18 (hora de Perú)
+Actualizado: 2026-09-21 01:00:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $85.77
-**Retorno acumulado:** -82.85%
+**Bankroll actual:** $85.82
+**Retorno acumulado:** -82.84%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 00:58:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $35.77)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $40.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,18 +164,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 803 | 498 | 7 | -245.58 USD |
+| ferrariChampions2026 | 804 | 498 | 6 | -245.53 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5677
-- **Aciertos:** 3566 (62.8%)
+- **Apuestas resueltas:** 5678
+- **Aciertos:** 3567 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,178.62
+- **Total apostado (suma de stakes):** $28,183.62
 - **ROI sobre lo apostado:** -1.91%
 - **Comisiones pagadas (taker fee):** $522.48 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2932 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1655 | 68.8% | 67.8% | +0.9 pp |
 | 80-94% | 780 | 85.9% | 86.6% | -0.7 pp |
-| 95-99% (casi seguro) | 310 | 97.1% | 97.4% | -0.3 pp |
+| 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1049,7 +1049,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Alina Korneeva vs Mananchaya | Alina Korneeva (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Maya Joint (BUY) | 70% | 5.00 | 37.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
