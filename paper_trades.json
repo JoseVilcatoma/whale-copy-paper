@@ -145674,8 +145674,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
     "outcome": "Kamilla Rakhimova",
     "side": "BUY",
-    "whale_usd": 42756.98618899999,
-    "whale_pct": 28.915,
+    "whale_usd": 50108.21818899999,
+    "whale_pct": 33.887,
     "whale_value_at_open": 147869.8883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -145686,8 +145686,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789978605.1364725,
-    "fills": 11
+    "last_fill_at": 1789979340.0997174,
+    "fills": 12
   },
   {
     "timestamp": 1789971366,
