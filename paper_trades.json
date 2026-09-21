@@ -145561,8 +145561,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -145609,8 +145609,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -145740,5 +145740,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789971774.8761225,
     "fills": 2
+  },
+  {
+    "timestamp": 1789971917,
+    "timestamp_added": 1789971918.2703278,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-rakhimo-kuderme-2026-09-20",
+    "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
+    "outcome": "Kamilla Rakhimova",
+    "side": "BUY",
+    "whale_usd": 4187.737499999999,
+    "whale_pct": 7.137,
+    "whale_value_at_open": 58672.9663,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789971918.2703388,
+    "fills": 1
   }
 ]

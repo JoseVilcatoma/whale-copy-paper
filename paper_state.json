@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.69562702157543,
+  "bankroll": 81.73348416443258,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29485,6 +29485,16 @@
       "timestamp": 1789971087.6676373,
       "bankroll": 84.7,
       "event": "lost: Flaznorp \u2014 Quer\u00e9taro FC vs. Club Le\u00f3n FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1789972014.15239,
+      "bankroll": 79.67,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Xinxin Yao vs Maya Joint"
+    },
+    {
+      "timestamp": 1789972014.557131,
+      "bankroll": 81.73,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Xinxin Yao vs Maya Joint"
     }
   ]
 }
