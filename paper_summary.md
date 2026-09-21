@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 23:08:44 (hora de Perú)
+Actualizado: 2026-09-20 23:10:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $90.62
-**Retorno acumulado:** -81.88%
+**Bankroll actual:** $80.38
+**Retorno acumulado:** -83.92%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 23:08:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.80 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.82)
+**Capital comprometido ahora mismo:** $78.80 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -143,7 +143,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Flaznorp | 163 | 60 | 3 | -10.83 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 18 | 3 | -13.87 USD |
@@ -153,6 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| Flaznorp | 163 | 62 | 1 | -21.07 USD |
 | GoalLineGhost | 97 | 44 | 0 | -22.90 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5662
+- **Apuestas resueltas:** 5664
 - **Aciertos:** 3557 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,104.82
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $521.07 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,114.82
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $521.31 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2923 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2925 | 49.6% | 50.1% | -0.4 pp |
 | 60-79% | 1651 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 779 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
@@ -1062,12 +1062,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ⏳ pendiente | — |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ✅ ganada | +4.84 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
-| Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ❌ perdida | -2.90 |
 | Flaznorp | Will CA Paranaense vs. EC Bahia end in a | Yes (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
 | Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.8% | ✅ ganada | +2.07 |
-| Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | Flaznorp | CF Pachuca vs. Club Tijuana: O/U 3.5 | Under (BUY) | 72% | 5.00 | 0.5% | ❌ perdida | -5.07 |
 | Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ✅ ganada | +1.20 |
 | RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ✅ ganada | +0.65 |
