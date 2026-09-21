@@ -146227,8 +146227,8 @@
     "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
     "outcome": "1win",
     "side": "BUY",
-    "whale_usd": 15000.0,
-    "whale_pct": 131.587,
+    "whale_usd": 17000.0,
+    "whale_pct": 149.132,
     "whale_value_at_open": 11399.307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -146239,8 +146239,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789982190.4124794,
-    "fills": 2
+    "last_fill_at": 1789991678.1143665,
+    "fills": 4
   },
   {
     "timestamp": 1789981428,
@@ -146449,8 +146449,8 @@
     "title": "Singapore Open: Kyoka Okamura vs Leylah Fernandez",
     "outcome": "Leylah Fernandez",
     "side": "BUY",
-    "whale_usd": 4566.663617,
-    "whale_pct": 2.532,
+    "whale_usd": 5129.313257,
+    "whale_pct": 2.844,
     "whale_value_at_open": 180382.6117,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -146461,8 +146461,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789987843.7780979,
-    "fills": 2
+    "last_fill_at": 1789991620.6786692,
+    "fills": 3
   },
   {
     "timestamp": 1789987873,
