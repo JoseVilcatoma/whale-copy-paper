@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.51479923292574,
+  "bankroll": 77.10705019313392,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29500,6 +29500,31 @@
       "timestamp": 1789972325.3150992,
       "bankroll": 83.51,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Alina Korneeva vs Mananchaya Sawangkaew"
+    },
+    {
+      "timestamp": 1789976382.7856328,
+      "bankroll": 85.3,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
+    },
+    {
+      "timestamp": 1789976382.9859462,
+      "bankroll": 86.42,
+      "event": "won: RN1 \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
+    },
+    {
+      "timestamp": 1789976383.0861416,
+      "bankroll": 81.27,
+      "event": "lost: RN1 \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
+    },
+    {
+      "timestamp": 1789976383.586988,
+      "bankroll": 76.13,
+      "event": "lost: ferrariChampions2026 \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
+    },
+    {
+      "timestamp": 1789976383.8874145,
+      "bankroll": 77.11,
+      "event": "won: Flaznorp \u2014 Singapore Open: Kristina Mladenovic vs Nao Hibino"
     }
   ]
 }
