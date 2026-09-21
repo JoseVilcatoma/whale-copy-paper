@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 08:33:22 (hora de Perú)
+Actualizado: 2026-09-21 08:35:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $53.47
-**Retorno acumulado:** -89.31%
+**Bankroll actual:** $53.72
+**Retorno acumulado:** -89.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 08:33:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.47 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $48.47 en 10 posiciones abiertas (disponible para nuevas apuestas: $5.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,7 +138,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| RN1 | 605 | 285 | 3 | -9.84 USD |
+| RN1 | 606 | 285 | 2 | -9.59 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -169,13 +169,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5711
-- **Aciertos:** 3585 (62.8%)
+- **Apuestas resueltas:** 5712
+- **Aciertos:** 3586 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,344.14
+- **Total apostado (suma de stakes):** $28,349.14
 - **ROI sobre lo apostado:** -2.01%
-- **Comisiones pagadas (taker fee):** $525.21 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $525.22 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 2942 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 1672 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 786 | 85.6% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
+| 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Aliona Falei vs Fangran Tian | Fangran Tian (BUY) | 73% | 5.00 | 7.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Astralis vs Sangal (BO3) | Astralis (BUY) | 82% | 4.21 | 2.1% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.8% | ✅ ganada | +0.25 |
 | HomeRunHazard | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ❌ perdida | -5.03 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.46543865094746,
+  "bankroll": 53.715596545684306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29640,6 +29640,11 @@
       "timestamp": 1789993987.5132172,
       "bankroll": 53.47,
       "event": "lost: RN1 \u2014 Map Handicap: UNiTY (-1.5) vs Leo Team (+1.5)"
+    },
+    {
+      "timestamp": 1789997625.3007884,
+      "bankroll": 53.72,
+      "event": "won: RN1 \u2014 Singapore Open: Kyoka Okamura vs Leylah Fernandez"
     }
   ]
 }
