@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:22:25 (hora de Perú)
+Actualizado: 2026-09-20 22:24:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:22:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.80 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.69)
+**Capital comprometido ahora mismo:** $88.80 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,7 +164,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 802 | 498 | 1 | -246.05 USD |
+| ferrariChampions2026 | 802 | 498 | 2 | -246.05 USD |
 
 ## Análisis general
 
@@ -1047,7 +1047,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs | Colts (BUY) | 67% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.4% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1076,4 +1077,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ✅ ganada | +3.23 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |
-| RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ✅ ganada | +3.43 |
