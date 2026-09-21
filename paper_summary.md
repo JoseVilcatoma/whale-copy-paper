@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 01:27:10 (hora de Perú)
+Actualizado: 2026-09-21 01:29:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 01:27:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $41.73)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $36.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,7 +164,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 805 | 499 | 4 | -248.49 USD |
+| ferrariChampions2026 | 805 | 499 | 5 | -248.49 USD |
 
 ## Análisis general
 
@@ -1050,6 +1050,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -1079,4 +1080,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ❌ perdida | -2.90 |
 | Flaznorp | Will CA Paranaense vs. EC Bahia end in a | Yes (BUY) | 41% | 5.00 | 0.2% | ❌ perdida | -5.15 |
 | Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.8% | ✅ ganada | +2.07 |
-| Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
