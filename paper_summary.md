@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 18:18:22 (hora de Perú)
+Actualizado: 2026-09-21 18:20:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.93
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |

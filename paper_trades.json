@@ -147463,8 +147463,8 @@
     "title": "Will CA Barracas Central win on 2026-09-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2141.97,
-    "whale_pct": 2.134,
+    "whale_usd": 3574.2899999999995,
+    "whale_pct": 3.56,
     "whale_value_at_open": 100390.5113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -147475,8 +147475,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790032658.7589667,
-    "fills": 3
+    "last_fill_at": 1790032817.3047776,
+    "fills": 5
   },
   {
     "timestamp": 1790032582,
