@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 20:45:35 (hora de Perú)
+Actualizado: 2026-09-20 20:47:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $103.31
-**Retorno acumulado:** -79.34%
+**Bankroll actual:** $98.18
+**Retorno acumulado:** -80.36%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 20:45:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.55 en 21 posiciones abiertas (disponible para nuevas apuestas: $1.76)
+**Capital comprometido ahora mismo:** $96.55 en 20 posiciones abiertas (disponible para nuevas apuestas: $1.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -114,7 +114,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 16 | 5 | -3.61 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -138,6 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 591 | 277 | 3 | -8.32 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 17 | 4 | -8.74 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | TAIWANNUMBERONE | 39 | 30 | 0 | -9.25 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5652
+- **Apuestas resueltas:** 5653
 - **Aciertos:** 3552 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,058.27
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $520.16 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,063.27
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $520.29 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,7 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2918 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2919 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1648 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 777 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
