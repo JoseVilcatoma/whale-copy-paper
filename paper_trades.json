@@ -146521,8 +146521,8 @@
     "title": "Ankara: Aysegul Mert vs Isabella Shinikova",
     "outcome": "Aysegul Mert",
     "side": "BUY",
-    "whale_usd": 1506.695927,
-    "whale_pct": 1.579,
+    "whale_usd": 5400.3545269999995,
+    "whale_pct": 5.658,
     "whale_value_at_open": 95444.1061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -146533,8 +146533,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790008890.4024105,
-    "fills": 2
+    "last_fill_at": 1790009769.3343213,
+    "fills": 3
   },
   {
     "timestamp": 1789996342,
