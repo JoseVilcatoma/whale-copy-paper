@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.69077488406684,
+  "bankroll": 90.62077488406683,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29390,6 +29390,11 @@
       "timestamp": 1789962076.2085786,
       "bankroll": 95.69,
       "event": "won: Flaznorp \u2014 Spread: LDU Quito (-1.5)"
+    },
+    {
+      "timestamp": 1789963528.4767716,
+      "bankroll": 90.62,
+      "event": "lost: Flaznorp \u2014 CF Pachuca vs. Club Tijuana: O/U 3.5"
     }
   ]
 }
