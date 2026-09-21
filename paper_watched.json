@@ -14,43 +14,43 @@
   "0xcd84d7f9262516865553555751609fb6f52abec6": {
     "username": "Donkey14",
     "added_at": 1790016475.33795,
-    "roi_pct": 568.18,
+    "roi_pct": 567.29,
     "short_term_pct": 100.0
   },
   "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
     "username": "Flaznorp",
     "added_at": 1790021964.9945092,
-    "roi_pct": 257.21,
-    "short_term_pct": 90.0
+    "roi_pct": 251.03,
+    "short_term_pct": 60.0
   },
   "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
     "username": "purplegatto",
     "added_at": 1790023820.5403614,
-    "roi_pct": 70.68,
-    "short_term_pct": 90.0
+    "roi_pct": 70.73,
+    "short_term_pct": 70.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790026613.5883732,
-    "roi_pct": 421.46,
+    "roi_pct": 512.09,
     "short_term_pct": 100.0
   },
   "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9": {
     "username": "kkookkoo",
     "added_at": 1790029410.1195989,
-    "roi_pct": 1318.21,
+    "roi_pct": 1220.56,
     "short_term_pct": 100.0
   },
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1790029410.119617,
-    "roi_pct": 307.06,
+    "roi_pct": 303.58,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1790030338.9453413,
-    "roi_pct": 665.04,
+    "roi_pct": 584.96,
     "short_term_pct": 100.0
   }
 }
