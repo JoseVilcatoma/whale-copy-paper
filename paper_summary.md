@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 02:02:23 (hora de Perú)
+Actualizado: 2026-09-21 02:04:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.51
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 02:02:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $18.51)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $13.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 97 | 44 | 0 | -22.90 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
-| Flaznorp | 163 | 63 | 0 | -26.17 USD |
+| Flaznorp | 163 | 63 | 1 | -26.17 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
@@ -1043,7 +1043,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-jax-den-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 | nfl-ind-kc-2026-09-21 | RN1, wr0ngw4yb3tt0r |
 | nfl-ind-kc-2026-09-21-total-57pt5 | RN1, TAIWANNUMBERONE |
-| wta-mladeno-hibino-2026-09-21 | RN1, ferrariChampions2026 |
+| wta-mladeno-hibino-2026-09-21 | Flaznorp, RN1, ferrariChampions2026 |
 | wta-rakhimo-kuderme-2026-09-20 | RN1, ferrariChampions2026 |
 | wta-gibson-ferro-2026-09-20 | RN1, ferrariChampions2026 |
 
@@ -1051,7 +1051,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Da-Yeon Back (BUY) | 61% | 5.00 | 21.2% | ⏳ pendiente | — |
+| Flaznorp | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Da-Yeon Back (BUY) | 61% | 5.00 | 23.6% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 73% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
@@ -1059,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ⏳ pendiente | — |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 5.8% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Alina Korneeva vs Mananchaya | Alina Korneeva (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
@@ -1080,4 +1081,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ✅ ganada | +3.10 |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ✅ ganada | +3.52 |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ✅ ganada | +4.84 |
-| Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
