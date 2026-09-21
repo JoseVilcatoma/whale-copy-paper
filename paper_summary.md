@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 05:49:27 (hora de Perú)
+Actualizado: 2026-09-21 05:51:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.21
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 05:49:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $4.21)
+**Capital comprometido ahora mismo:** $69.21 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -100,7 +100,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 1 | 1 | 0 | -1.14 USD |
 | gambamaster | 1 | 1 | 0 | -1.48 USD |
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
-| RN1 | 604 | 283 | 5 | -1.73 USD |
+| RN1 | 604 | 283 | 6 | -1.73 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
@@ -1056,7 +1056,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Astralis vs Sangal (BO3) | Astralis (BUY) | 82% | 4.21 | 0.3% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 32.5% | ⏳ pendiente | — |
@@ -1085,4 +1086,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W50 Nanao: Moeka Miyata vs Remika Ohashi | Remika Ohashi (BUY) | 53% | 5.00 | 0.8% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ❌ perdida | -5.11 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 56.8% | ✅ ganada | +1.52 |
-| RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 2.6% | ❌ perdida | -5.15 |
