@@ -145698,8 +145698,8 @@
     "title": "Singapore Open: Kristina Mladenovic vs Nao Hibino",
     "outcome": "Nao Hibino",
     "side": "BUY",
-    "whale_usd": 5747.461,
-    "whale_pct": 5.172,
+    "whale_usd": 6455.311320000001,
+    "whale_pct": 5.809,
     "whale_value_at_open": 111124.3812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -145712,8 +145712,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789971366.7851205,
-    "fills": 1
+    "last_fill_at": 1789973504.446881,
+    "fills": 2
   },
   {
     "timestamp": 1789971740,

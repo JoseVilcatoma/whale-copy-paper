@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 01:49:57 (hora de Perú)
+Actualizado: 2026-09-21 01:52:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.51
@@ -1058,7 +1058,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ⏳ pendiente | — |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 5.2% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Alina Korneeva vs Mananchaya | Alina Korneeva (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
