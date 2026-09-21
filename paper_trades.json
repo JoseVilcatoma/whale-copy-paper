@@ -146947,5 +146947,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790010736.395057,
     "fills": 3
+  },
+  {
+    "timestamp": 1790011252,
+    "timestamp_added": 1790011253.638837,
+    "username": "maz26",
+    "wallet": "0x67542c3219b37fd1610aad290676ff91cdbfe3bc",
+    "slug": "nfl-nyg-la-2026-09-22-spread-home-6pt5",
+    "title": "Spread: Rams (-6.5)",
+    "outcome": "Giants",
+    "side": "BUY",
+    "whale_usd": 1096.08,
+    "whale_pct": 7.713,
+    "whale_value_at_open": 14210.2042,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790011253.638852,
+    "fills": 1
   }
 ]
