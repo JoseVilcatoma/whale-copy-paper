@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 11:14:57 (hora de Perú)
+Actualizado: 2026-09-21 11:17:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $66.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 11:14:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.79 en 12 posiciones abiertas (disponible para nuevas apuestas: $7.03)
+**Capital comprometido ahora mismo:** $64.79 en 13 posiciones abiertas (disponible para nuevas apuestas: $2.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 816 | 506 | 7 | -260.70 USD |
+| ferrariChampions2026 | 816 | 506 | 8 | -260.70 USD |
 
 ## Análisis general
 
@@ -1057,6 +1057,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1086,4 +1087,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ❌ perdida | -5.05 |
 | RN1 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 70% | 5.00 | 9.7% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 85% | 5.00 | 15.7% | ✅ ganada | +0.84 |
-| ferrariChampions2026 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Filip Misolic (BUY) | 70% | 5.00 | 8.8% | ❌ perdida | -5.08 |
