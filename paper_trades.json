@@ -146811,8 +146811,8 @@
     "title": "St. Tropez: David Goffin vs Mark Lajal",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 4434.0114,
-    "whale_pct": 4.451,
+    "whale_usd": 5275.450181,
+    "whale_pct": 5.295,
     "whale_value_at_open": 99626.2493,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -146823,7 +146823,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790007390.0346394,
-    "fills": 1
+    "last_fill_at": 1790007606.0131917,
+    "fills": 2
   }
 ]
