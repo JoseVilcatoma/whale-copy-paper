@@ -146077,8 +146077,8 @@
     "title": "Plovdiv 4: Filip Misolic vs Sebastian Gima",
     "outcome": "Filip Misolic",
     "side": "BUY",
-    "whale_usd": 1514.38773,
-    "whale_pct": 1.342,
+    "whale_usd": 4989.692272,
+    "whale_pct": 4.42,
     "whale_value_at_open": 112882.0836,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -146089,8 +146089,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789980337.7615001,
-    "fills": 2
+    "last_fill_at": 1789980926.041844,
+    "fills": 3
   },
   {
     "timestamp": 1789978339,
