@@ -146729,5 +146729,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790005303.3286662,
     "fills": 1
+  },
+  {
+    "timestamp": 1790006240,
+    "timestamp_added": 1790006240.826469,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-dal-phx-2026-09-21-spread-away-5pt5",
+    "title": "Spread: Dallas Wings (-5.5)",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 651.8922,
+    "whale_pct": 0.637,
+    "whale_value_at_open": 102310.0943,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790006240.8264797,
+    "fills": 1
   }
 ]
