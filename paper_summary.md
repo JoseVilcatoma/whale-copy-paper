@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 19:39:43 (hora de Perú)
+Actualizado: 2026-09-20 19:41:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.95
@@ -1055,7 +1055,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will AA Estudiantes win on 2026-09-20? | No (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: O/U 1.5 | Under (BUY) | 54% | 2.84 | 0.2% | ❌ perdida | -2.90 |
 | Flaznorp | Will CA Paranaense vs. EC Bahia end in a | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CF Pachuca vs. Club Tijuana: O/U 3.5 | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |

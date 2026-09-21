@@ -145066,8 +145066,8 @@
     "title": "Will Am\u00e9rica de Cali win on 2026-09-20?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1349.1100000000001,
-    "whale_pct": 0.41,
+    "whale_usd": 2479.0099920000002,
+    "whale_pct": 0.753,
     "whale_value_at_open": 329222.8577,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -145078,8 +145078,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789947839.0857632,
-    "fills": 2
+    "last_fill_at": 1789951294.310178,
+    "fills": 3
   },
   {
     "timestamp": 1789947846,
