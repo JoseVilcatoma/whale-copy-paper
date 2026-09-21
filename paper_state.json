@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.7232224044842,
+  "bankroll": 75.04018466863515,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29545,6 +29545,11 @@
       "timestamp": 1789977381.4835906,
       "bankroll": 70.72,
       "event": "won: ferrariChampions2026 \u2014 Singapore Open: Talia Gibson vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1789978373.1978498,
+      "bankroll": 75.04,
+      "event": "won: RN1 \u2014 W50 Nanao: Moeka Miyata vs Remika Ohashi"
     }
   ]
 }
