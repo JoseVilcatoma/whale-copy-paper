@@ -1,5 +1,5 @@
 {
-  "bankroll": 109.48385269538132,
+  "bankroll": 103.21685269538132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29330,6 +29330,16 @@
       "timestamp": 1789953618.4082067,
       "bankroll": 109.48,
       "event": "won: RN1 \u2014 Spread: Chargers (-6.5)"
+    },
+    {
+      "timestamp": 1789953928.9836876,
+      "bankroll": 105.74,
+      "event": "lost: RN1 \u2014 Commanders vs. Cowboys: O/U 51.5"
+    },
+    {
+      "timestamp": 1789953929.8803496,
+      "bankroll": 103.22,
+      "event": "lost: RN1 \u2014 Commanders vs. Cowboys: O/U 52.5"
     }
   ]
 }
