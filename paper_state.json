@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.69738045757477,
+  "bankroll": 85.76921288016129,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29460,6 +29460,16 @@
       "timestamp": 1789969847.347327,
       "bankroll": 76.7,
       "event": "won: TAIWANNUMBERONE \u2014 Colts vs. Chiefs: O/U 57.5"
+    },
+    {
+      "timestamp": 1789970157.2350905,
+      "bankroll": 79.8,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Chiefs (-7.5)"
+    },
+    {
+      "timestamp": 1789970157.7271583,
+      "bankroll": 85.77,
+      "event": "won: RN1 \u2014 Spread: Chiefs (-4.5)"
     }
   ]
 }
