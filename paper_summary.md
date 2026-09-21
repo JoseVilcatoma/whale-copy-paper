@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 12:00:43 (hora de Perú)
+Actualizado: 2026-09-21 12:02:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 12:00:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $28.57)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $23.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 819 | 507 | 4 | -257.63 USD |
+| ferrariChampions2026 | 819 | 507 | 5 | -257.63 USD |
 
 ## Análisis general
 
@@ -1057,6 +1057,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Dream (-1.5) | Atlanta Dream (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 8.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
@@ -1086,4 +1087,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Under (BUY) | 44% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 7.6% | ✅ ganada | +2.49 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ❌ perdida | -5.05 |
-| RN1 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 70% | 5.00 | 9.7% | ✅ ganada | +2.07 |

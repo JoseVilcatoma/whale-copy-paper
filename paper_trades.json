@@ -146849,5 +146849,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790008718.330316,
     "fills": 1
+  },
+  {
+    "timestamp": 1790010091,
+    "timestamp_added": 1790010092.2256641,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-atl-nyl-2026-09-21-spread-away-1pt5",
+    "title": "Spread: Atlanta Dream (-1.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1655.2796,
+    "whale_pct": 1.502,
+    "whale_value_at_open": 110171.6452,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790010092.225676,
+    "fills": 1
   }
 ]
