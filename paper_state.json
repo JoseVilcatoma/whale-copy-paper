@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.24860734695038,
+  "bankroll": 69.10188641671782,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29670,6 +29670,11 @@
       "timestamp": 1790005665.1691573,
       "bankroll": 66.25,
       "event": "won: ferrariChampions2026 \u2014 Tolentino: Mia Ristic vs Arantxa Rus"
+    },
+    {
+      "timestamp": 1790006542.3761487,
+      "bankroll": 69.1,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Storm Hunter vs Joanna Garland"
     }
   ]
 }
