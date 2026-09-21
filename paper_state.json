@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.66187436182692,
+  "bankroll": 76.69738045757477,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29450,6 +29450,16 @@
       "timestamp": 1789966838.0897243,
       "bankroll": 69.66,
       "event": "won: RN1 \u2014 Singapore Open: Daria Kasatkina vs Aliaksandra Sasnovich"
+    },
+    {
+      "timestamp": 1789969847.2471106,
+      "bankroll": 73.03,
+      "event": "won: RN1 \u2014 Colts vs. Chiefs: O/U 57.5"
+    },
+    {
+      "timestamp": 1789969847.347327,
+      "bankroll": 76.7,
+      "event": "won: TAIWANNUMBERONE \u2014 Colts vs. Chiefs: O/U 57.5"
     }
   ]
 }
