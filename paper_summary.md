@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 17:47:49 (hora de Perú)
+Actualizado: 2026-09-21 17:49:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.63
-**Retorno acumulado:** -83.67%
+**Bankroll actual:** $81.99
+**Retorno acumulado:** -83.60%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 17:47:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 100 | 44 | 3 | -19.17 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 165 | 63 | 3 | -25.04 USD |
+| Flaznorp | 165 | 63 | 4 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 826 | 510 | 5 | -251.55 USD |
+| ferrariChampions2026 | 827 | 510 | 4 | -251.19 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5740
-- **Aciertos:** 3608 (62.9%)
+- **Apuestas resueltas:** 5741
+- **Aciertos:** 3609 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,480.86
+- **Total apostado (suma de stakes):** $28,485.86
 - **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $527.43 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $527.44 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2956 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1677 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 793 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 794 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 314 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1059,9 +1059,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ✅ ganada | +0.36 |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
-| kkookkoo | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 57% | 5.00 | 47.9% | ✅ ganada | +3.66 |
