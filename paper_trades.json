@@ -147199,8 +147199,8 @@
     "title": "Tolentino: Laura Samson vs Noemi Basiletti",
     "outcome": "Noemi Basiletti",
     "side": "BUY",
-    "whale_usd": 4575.0120099999995,
-    "whale_pct": 4.141,
+    "whale_usd": 5750.363143,
+    "whale_pct": 5.205,
     "whale_value_at_open": 110477.8513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -147211,8 +147211,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790019624.7378423,
-    "fills": 2
+    "last_fill_at": 1790020758.0792677,
+    "fills": 3
   },
   {
     "timestamp": 1790020330,
@@ -147237,5 +147237,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790020470.9282918,
     "fills": 4
+  },
+  {
+    "timestamp": 1790020754,
+    "timestamp_added": 1790020754.678425,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-mayo-gorzny-2026-09-21",
+    "title": "San Diego 2: Aidan Mayo vs Sebastian Gorzny",
+    "outcome": "Sebastian Gorzny",
+    "side": "BUY",
+    "whale_usd": 695.182767,
+    "whale_pct": 0.679,
+    "whale_value_at_open": 102455.6498,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790020754.6784356,
+    "fills": 1
   }
 ]
