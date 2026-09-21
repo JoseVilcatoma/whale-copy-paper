@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 17:23:37 (hora de Perú)
+Actualizado: 2026-09-21 17:25:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.63
@@ -1059,7 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ⏳ pendiente | — |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |

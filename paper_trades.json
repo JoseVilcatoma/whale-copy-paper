@@ -147415,8 +147415,8 @@
     "title": "Spread: CS Independiente Rivadavia (-1.5)",
     "outcome": "CA Barracas Central",
     "side": "BUY",
-    "whale_usd": 928.1999999999999,
-    "whale_pct": 0.355,
+    "whale_usd": 1630.4207999999999,
+    "whale_pct": 0.624,
     "whale_value_at_open": 261411.1671,
     "paper_stake_usd": 4.97,
     "odds_at_bet": 86,
@@ -147427,7 +147427,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790028312.9213588,
-    "fills": 1
+    "last_fill_at": 1790029454.4999585,
+    "fills": 2
   }
 ]
