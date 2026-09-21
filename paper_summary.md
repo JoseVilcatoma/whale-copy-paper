@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 23:12:55 (hora de Perú)
+Actualizado: 2026-09-20 23:15:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.38
-**Retorno acumulado:** -83.92%
+**Bankroll actual:** $71.16
+**Retorno acumulado:** -85.77%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 23:12:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.80 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.58)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $16.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 116 | 84 | 2 | +23.46 USD |
+| wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | UpTheBlues | 40 | 10 | 0 | +19.24 USD |
@@ -133,7 +133,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| RN1 | 591 | 277 | 6 | -8.32 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -148,6 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 17 | 18 | 3 | -13.87 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 592 | 279 | 3 | -15.91 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5664
-- **Aciertos:** 3557 (62.8%)
+- **Apuestas resueltas:** 5669
+- **Aciertos:** 3559 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,114.82
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $521.31 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,138.62
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $521.79 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -183,8 +183,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2925 | 49.6% | 50.1% | -0.4 pp |
-| 60-79% | 1651 | 68.8% | 67.9% | +1.0 pp |
+| 40-59% | 2928 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1653 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 779 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
 
@@ -1051,15 +1051,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
-| RN1 | Colts vs. Chiefs | Colts (BUY) | 67% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.8% | ❌ perdida | -5.14 |
+| RN1 | Colts vs. Chiefs | Colts (BUY) | 67% | 5.00 | 0.8% | ❌ perdida | -5.08 |
+| RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.4% | ✅ ganada | +2.56 |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ❌ perdida | -5.07 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.8% | ✅ ganada | +3.52 |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ✅ ganada | +4.84 |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | Flaznorp | Will CF Pachuca win on 2026-09-20? | Yes (BUY) | 57% | 5.00 | 0.2% | ❌ perdida | -5.11 |

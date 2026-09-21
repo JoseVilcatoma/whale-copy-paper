@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.38477488406683,
+  "bankroll": 71.16314250534096,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29405,6 +29405,31 @@
       "timestamp": 1789963843.636678,
       "bankroll": 80.38,
       "event": "lost: Flaznorp \u2014 Will CF Pachuca win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789964033.6833348,
+      "bankroll": 75.31,
+      "event": "lost: RN1 \u2014 Will Deportivo Toluca FC win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789964095.2772453,
+      "bankroll": 78.83,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Colts vs. Chiefs"
+    },
+    {
+      "timestamp": 1789964095.9786124,
+      "bankroll": 81.39,
+      "event": "won: RN1 \u2014 Colts vs. Chiefs"
+    },
+    {
+      "timestamp": 1789964096.0788023,
+      "bankroll": 76.31,
+      "event": "lost: RN1 \u2014 Colts vs. Chiefs"
+    },
+    {
+      "timestamp": 1789964096.1789896,
+      "bankroll": 71.16,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Colts vs. Chiefs"
     }
   ]
 }
