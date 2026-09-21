@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.49077488406684,
+  "bankroll": 95.69077488406684,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29385,6 +29385,11 @@
       "timestamp": 1789960499.7592585,
       "bankroll": 94.49,
       "event": "won: UpTheBlues \u2014 CA Paranaense vs. EC Bahia: O/U 3.5"
+    },
+    {
+      "timestamp": 1789962076.2085786,
+      "bankroll": 95.69,
+      "event": "won: Flaznorp \u2014 Spread: LDU Quito (-1.5)"
     }
   ]
 }

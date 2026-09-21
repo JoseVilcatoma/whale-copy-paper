@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:39:17 (hora de Perú)
+Actualizado: 2026-09-20 22:41:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.49
-**Retorno acumulado:** -81.10%
+**Bankroll actual:** $95.69
+**Retorno acumulado:** -80.86%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:39:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.80 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.69)
+**Capital comprometido ahora mismo:** $88.80 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,11 +129,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
+| Flaznorp | 163 | 59 | 3 | -5.76 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Flaznorp | 162 | 59 | 4 | -6.96 USD |
 | RN1 | 591 | 277 | 6 | -8.32 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5660
-- **Aciertos:** 3556 (62.8%)
+- **Apuestas resueltas:** 5661
+- **Aciertos:** 3557 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,094.82
+- **Total apostado (suma de stakes):** $28,099.82
 - **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $520.95 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $521.00 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2923 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1650 | 68.8% | 67.9% | +1.0 pp |
-| 80-94% | 778 | 85.9% | 86.6% | -0.7 pp |
+| 80-94% | 779 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1068,7 +1068,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will América de Cali win on 2026-09-20? | No (BUY) | 70% | 5.00 | 0.8% | ✅ ganada | +2.07 |
 | Flaznorp | CF Pachuca vs. Club Tijuana: Both Teams  | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CF Pachuca vs. Club Tijuana: O/U 3.5 | Under (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ✅ ganada | +1.20 |
 | RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ✅ ganada | +0.65 |
 | Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ✅ ganada | +0.78 |
 | TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ❌ perdida | -5.11 |
