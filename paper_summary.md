@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 14:37:52 (hora de Perú)
+Actualizado: 2026-09-21 14:40:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.73
-**Retorno acumulado:** -83.65%
+**Bankroll actual:** $83.10
+**Retorno acumulado:** -83.38%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 14:37:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.90)
+**Capital comprometido ahora mismo:** $71.60 en 15 posiciones abiertas (disponible para nuevas apuestas: $11.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 823 | 508 | 6 | -252.70 USD |
+| ferrariChampions2026 | 824 | 509 | 4 | -251.33 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5730
-- **Aciertos:** 3601 (62.8%)
+- **Apuestas resueltas:** 5732
+- **Aciertos:** 3602 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,434.60
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $526.71 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,442.83
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $526.91 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2950 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2952 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 792 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
@@ -1061,10 +1061,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ✅ ganada | +4.68 |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.7285775782197,
+  "bankroll": 83.10449914684715,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29740,6 +29740,16 @@
       "timestamp": 1790018032.5392282,
       "bankroll": 81.73,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Yuki Naito vs Ayla Aksu"
+    },
+    {
+      "timestamp": 1790019596.0221093,
+      "bankroll": 86.41,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Federica Urgesi vs Oksana Selekhmeteva"
+    },
+    {
+      "timestamp": 1790019596.9821382,
+      "bankroll": 83.1,
+      "event": "lost: ferrariChampions2026 \u2014 Tolentino: Federica Urgesi vs Oksana Selekhmeteva"
     }
   ]
 }
