@@ -147189,5 +147189,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790018244.3937774,
     "fills": 1
+  },
+  {
+    "timestamp": 1790019623,
+    "timestamp_added": 1790019624.1758304,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-basilet-2026-09-21",
+    "title": "Tolentino: Laura Samson vs Noemi Basiletti",
+    "outcome": "Noemi Basiletti",
+    "side": "BUY",
+    "whale_usd": 4575.0120099999995,
+    "whale_pct": 4.141,
+    "whale_value_at_open": 110477.8513,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790019624.7378423,
+    "fills": 2
   }
 ]
