@@ -8,31 +8,19 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1789965264.7013707,
-    "roi_pct": 1367.25,
-    "short_term_pct": 90.0
+    "roi_pct": 1351.07,
+    "short_term_pct": 80.0
   },
   "0xa38a455bbdd4b68486548b7e19da99903f4f821d": {
     "username": "takeormake",
     "added_at": 1789970225.1245205,
-    "roi_pct": 313.44,
-    "short_term_pct": 100.0
-  },
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
-    "username": "0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592",
-    "added_at": 1789990333.387777,
-    "roi_pct": 103.22,
+    "roi_pct": 312.27,
     "short_term_pct": 100.0
   },
   "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9": {
     "username": "kkookkoo",
     "added_at": 1789992247.2066698,
-    "roi_pct": 383.95,
-    "short_term_pct": 100.0
-  },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1789993201.8511167,
-    "roi_pct": 307.56,
+    "roi_pct": 382.83,
     "short_term_pct": 100.0
   },
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
@@ -41,10 +29,34 @@
     "roi_pct": 49.99,
     "short_term_pct": 100.0
   },
-  "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
-    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
-    "added_at": 1789993201.8511217,
-    "roi_pct": 5.26,
+  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
+    "username": "TAIWANNUMBERONE",
+    "added_at": 1789994160.794702,
+    "roi_pct": 3695.61,
     "short_term_pct": 100.0
+  },
+  "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
+    "username": "wr0ngw4yb3tt0r",
+    "added_at": 1789994160.7947042,
+    "roi_pct": 2430.49,
+    "short_term_pct": 100.0
+  },
+  "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
+    "username": "theowalcott",
+    "added_at": 1789994160.7947075,
+    "roi_pct": 861.57,
+    "short_term_pct": 100.0
+  },
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
+    "username": "ferrariChampions2026",
+    "added_at": 1789994160.7947118,
+    "roi_pct": 193.95,
+    "short_term_pct": 100.0
+  },
+  "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c": {
+    "username": "Herdonia",
+    "added_at": 1789994160.7947128,
+    "roi_pct": 190.2,
+    "short_term_pct": 60.0
   }
 }

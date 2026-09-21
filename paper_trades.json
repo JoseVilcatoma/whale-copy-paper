@@ -146511,5 +146511,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789993189.08863,
     "fills": 1
+  },
+  {
+    "timestamp": 1789994162,
+    "timestamp_added": 1789994162.9678383,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-mert-shiniko-2026-09-21",
+    "title": "Ankara: Aysegul Mert vs Isabella Shinikova",
+    "outcome": "Aysegul Mert",
+    "side": "BUY",
+    "whale_usd": 602.0,
+    "whale_pct": 0.631,
+    "whale_value_at_open": 95444.1061,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789994162.9678617,
+    "fills": 1
   }
 ]
