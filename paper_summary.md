@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 00:11:16 (hora de Perú)
+Actualizado: 2026-09-21 00:13:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.66
@@ -1050,7 +1050,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Maya Joint (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Xinxin Yao (BUY) | 88% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Xinxin Yao (BUY) | 88% | 5.00 | 4.9% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Daria Kasatkina vs Aliak | Aliaksandra Sasnovich (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
