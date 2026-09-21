@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 08:57:51 (hora de Perú)
+Actualizado: 2026-09-21 08:59:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $55.50
-**Retorno acumulado:** -88.90%
+**Bankroll actual:** $60.57
+**Retorno acumulado:** -87.89%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 08:57:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.47 en 10 posiciones abiertas (disponible para nuevas apuestas: $7.03)
+**Capital comprometido ahora mismo:** $43.47 en 9 posiciones abiertas (disponible para nuevas apuestas: $17.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,6 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 1 | 0 | +1.60 USD |
 | Jsram | 7 | 4 | 0 | +1.40 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
@@ -111,7 +112,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 0 | 1 | 1 | -3.48 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
@@ -169,14 +169,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5713
-- **Aciertos:** 3587 (62.8%)
+- **Apuestas resueltas:** 5714
+- **Aciertos:** 3588 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,354.14
-- **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $525.29 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,359.14
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $525.42 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2942 | 49.6% | 50.1% | -0.5 pp |
+| 40-59% | 2943 | 49.6% | 50.1% | -0.4 pp |
 | 60-79% | 1673 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 786 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
@@ -1070,7 +1070,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 85% | 5.00 | 22.8% | ❌ perdida | -5.04 |
 | RN1 | Plovdiv 4: Pavel Lagutin vs Svyatoslav G | Svyatoslav Gulin (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 26.3% | ❌ perdida | -3.48 |
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 245.6% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 245.6% | ✅ ganada | +5.08 |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Under (BUY) | 44% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 7.6% | ✅ ganada | +2.49 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ❌ perdida | -5.05 |
