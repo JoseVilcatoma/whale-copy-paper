@@ -145554,8 +145554,8 @@
     "title": "Korea Open: Xinxin Yao vs Maya Joint",
     "outcome": "Xinxin Yao",
     "side": "BUY",
-    "whale_usd": 25381.047586999994,
-    "whale_pct": 5.107,
+    "whale_usd": 25983.908306999994,
+    "whale_pct": 5.228,
     "whale_value_at_open": 497024.6552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -145566,8 +145566,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789968668.824875,
-    "fills": 13
+    "last_fill_at": 1789969040.546623,
+    "fills": 14
   },
   {
     "timestamp": 1789966430,
@@ -145626,8 +145626,8 @@
     "title": "Korea Open: Alina Korneeva vs Mananchaya Sawangkaew",
     "outcome": "Alina Korneeva",
     "side": "BUY",
-    "whale_usd": 653.976,
-    "whale_pct": 0.335,
+    "whale_usd": 2372.3994,
+    "whale_pct": 1.215,
     "whale_value_at_open": 195316.059,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -145638,8 +145638,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789967657.63338,
-    "fills": 1
+    "last_fill_at": 1789969037.8609803,
+    "fills": 2
   },
   {
     "timestamp": 1789968143,
