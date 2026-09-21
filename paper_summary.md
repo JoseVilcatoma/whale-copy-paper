@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 14:52:27 (hora de Perú)
+Actualizado: 2026-09-21 14:54:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.74
@@ -1059,7 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
