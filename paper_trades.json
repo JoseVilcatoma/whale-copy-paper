@@ -147309,5 +147309,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790023086.2426982,
     "fills": 1
+  },
+  {
+    "timestamp": 1790023211,
+    "timestamp_added": 1790023211.657885,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "ecu1-man-ore-2026-09-19-total-3pt5",
+    "title": "Manta FC vs. Orense SC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 512.639998,
+    "whale_pct": 0.192,
+    "whale_value_at_open": 267471.7696,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790023211.6578987,
+    "fills": 1
   }
 ]
