@@ -145902,8 +145902,8 @@
     "title": "Korea Open: Yue Yuan vs Da-Yeon Back",
     "outcome": "Da-Yeon Back",
     "side": "BUY",
-    "whale_usd": 30493.1579,
-    "whale_pct": 30.211,
+    "whale_usd": 31125.298499999997,
+    "whale_pct": 30.837,
     "whale_value_at_open": 100934.5581,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -145914,8 +145914,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789974543.2290018,
-    "fills": 10
+    "last_fill_at": 1789980279.4820325,
+    "fills": 11
   },
   {
     "timestamp": 1789974229,
@@ -146077,8 +146077,8 @@
     "title": "Plovdiv 4: Filip Misolic vs Sebastian Gima",
     "outcome": "Filip Misolic",
     "side": "BUY",
-    "whale_usd": 734.51613,
-    "whale_pct": 0.651,
+    "whale_usd": 1514.38773,
+    "whale_pct": 1.342,
     "whale_value_at_open": 112882.0836,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -146089,8 +146089,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789978286.4048457,
-    "fills": 1
+    "last_fill_at": 1789980337.7615001,
+    "fills": 2
   },
   {
     "timestamp": 1789978339,
