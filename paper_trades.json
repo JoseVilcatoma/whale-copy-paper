@@ -145018,8 +145018,8 @@
     "title": "CF Pachuca vs. Club Tijuana: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1381.959999,
-    "whale_pct": 0.378,
+    "whale_usd": 1930.820799,
+    "whale_pct": 0.528,
     "whale_value_at_open": 365635.0012,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -145030,8 +145030,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789947740.6466732,
-    "fills": 1
+    "last_fill_at": 1789951655.4069278,
+    "fills": 2
   },
   {
     "timestamp": 1789947740,
