@@ -1,5 +1,5 @@
 {
-  "bankroll": 61.931645082799434,
+  "bankroll": 66.24860734695038,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29665,6 +29665,11 @@
       "timestamp": 1790004979.6140287,
       "bankroll": 61.93,
       "event": "won: ferrariChampions2026 \u2014 Porto: Lizette Cabrera vs Sinja Kraus"
+    },
+    {
+      "timestamp": 1790005665.1691573,
+      "bankroll": 66.25,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Mia Ristic vs Arantxa Rus"
     }
   ]
 }
