@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 14:17:12 (hora de Perú)
+Actualizado: 2026-09-21 14:19:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 14:17:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.83 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.90)
+**Capital comprometido ahora mismo:** $79.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 97 | 44 | 3 | -22.90 USD |
+| GoalLineGhost | 97 | 44 | 4 | -22.90 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | Flaznorp | 164 | 63 | 0 | -25.19 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ⏳ pendiente | — |
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 7.5% | ✅ ganada | +7.05 |
 | ferrariChampions2026 | Ankara: Aliona Falei vs Fangran Tian | Fangran Tian (BUY) | 73% | 5.00 | 7.2% | ✅ ganada | +1.78 |
 | RN1 | Counter-Strike: Astralis vs Sangal (BO3) | Astralis (BUY) | 82% | 4.21 | 2.1% | ✅ ganada | +0.89 |
-| RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.8% | ✅ ganada | +0.25 |

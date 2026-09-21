@@ -147165,5 +147165,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790017465.1491237,
     "fills": 2
+  },
+  {
+    "timestamp": 1790018243,
+    "timestamp_added": 1790018244.3937664,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "rou1-fpp-fcm-2026-09-21-fcm",
+    "title": "Will FK Cs\u00edkszereda Miercurea Ciuc win on 2026-09-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1087.92,
+    "whale_pct": 0.804,
+    "whale_value_at_open": 135324.4512,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790018244.3937774,
+    "fills": 1
   }
 ]
