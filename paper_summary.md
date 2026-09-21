@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 14:48:17 (hora de Perú)
+Actualizado: 2026-09-21 14:50:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.10
-**Retorno acumulado:** -83.38%
+**Bankroll actual:** $86.74
+**Retorno acumulado:** -82.65%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 14:48:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.60 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.50)
+**Capital comprometido ahora mismo:** $68.57 en 14 posiciones abiertas (disponible para nuevas apuestas: $18.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 97 | 44 | 4 | -22.90 USD |
+| GoalLineGhost | 99 | 44 | 2 | -19.27 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | Flaznorp | 164 | 63 | 0 | -25.19 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -170,14 +170,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5732
-- **Aciertos:** 3602 (62.8%)
+- **Apuestas resueltas:** 5734
+- **Aciertos:** 3604 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,442.83
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $526.91 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,450.86
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $527.03 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,9 +185,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2952 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2953 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 792 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 793 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1064,9 +1064,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ✅ ganada | +4.68 |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ⏳ pendiente | — |
+| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |
 | maz26 | Spread: Rams (-6.5) | Giants (BUY) | 49% | 5.00 | 7.7% | ⏳ pendiente | — |
