@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.24269876166532,
+  "bankroll": 86.65538841683774,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29770,6 +29770,16 @@
       "timestamp": 1790026023.767649,
       "bankroll": 88.24,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Aidan Mayo vs Sebastian Gorzny"
+    },
+    {
+      "timestamp": 1790026649.1714635,
+      "bankroll": 91.76,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Laura Samson vs Noemi Basiletti"
+    },
+    {
+      "timestamp": 1790026649.271671,
+      "bankroll": 86.66,
+      "event": "lost: ferrariChampions2026 \u2014 Tolentino: Laura Samson vs Noemi Basiletti"
     }
   ]
 }
