@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 12:50:47 (hora de Perú)
+Actualizado: 2026-09-21 12:52:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 12:50:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.57 en 15 posiciones abiertas (disponible para nuevas apuestas: $8.03)
+**Capital comprometido ahora mismo:** $78.57 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 821 | 507 | 6 | -249.60 USD |
+| ferrariChampions2026 | 821 | 507 | 7 | -249.60 USD |
 
 ## Análisis general
 
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Mathys Domenc (BUY) | 64% | 5.00 | 1.1% | ❌ perdida | -5.09 |
-| RN1 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Sebastian Gima (BUY) | 44% | 3.61 | 1.5% | ✅ ganada | +4.49 |
