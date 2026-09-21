@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 12:40:19 (hora de Perú)
+Actualizado: 2026-09-21 12:42:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.61
@@ -1067,7 +1067,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Porto: Susan Bandecchi vs Oceane Dodin | Oceane Dodin (BUY) | 83% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-1.5) | Atlanta Dream (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 8.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
