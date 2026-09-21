@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:09:48 (hora de Perú)
+Actualizado: 2026-09-20 22:11:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $91.95
-**Retorno acumulado:** -81.61%
+**Bankroll actual:** $92.73
+**Retorno acumulado:** -81.45%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:09:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.95 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $87.69 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -114,9 +114,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
+| Flaznorp | 161 | 58 | 6 | -3.88 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| Flaznorp | 160 | 58 | 7 | -4.66 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5656
-- **Aciertos:** 3553 (62.8%)
+- **Apuestas resueltas:** 5657
+- **Aciertos:** 3554 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,076.67
+- **Total apostado (suma de stakes):** $28,080.93
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $520.58 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $520.62 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2921 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1649 | 68.8% | 67.9% | +1.0 pp |
-| 80-94% | 777 | 85.8% | 86.6% | -0.7 pp |
+| 80-94% | 778 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 309 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1052,7 +1052,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 11.9% | ⏳ pendiente | — |
+| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 12.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 16.0% | ⏳ pendiente | — |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
@@ -1065,7 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | CF Pachuca vs. Club Tijuana: O/U 3.5 | Under (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Spread: LDU Quito (-1.5) | CD Universidad Catolica del Ecuador (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Andrew Johnson vs Sebastian | Sebastian Gorzny (BUY) | 88% | 5.00 | 0.1% | ✅ ganada | +0.65 |
-| Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ✅ ganada | +0.78 |
 | TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ❌ perdida | -5.11 |
 | RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ❌ perdida | -2.52 |
 | RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |

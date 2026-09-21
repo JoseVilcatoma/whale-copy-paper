@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.95158007887203,
+  "bankroll": 92.7290086503006,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29365,6 +29365,11 @@
       "timestamp": 1789956447.2712417,
       "bankroll": 91.95,
       "event": "won: Flaznorp \u2014 Will Londrina EC win on 2026-09-20?"
+    },
+    {
+      "timestamp": 1789960246.0603127,
+      "bankroll": 92.73,
+      "event": "won: Flaznorp \u2014 Will CA Bucaramanga vs. Internacional de Bogot\u00e1 end in a draw?"
     }
   ]
 }
