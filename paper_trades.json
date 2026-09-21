@@ -145902,8 +145902,8 @@
     "title": "Korea Open: Yue Yuan vs Da-Yeon Back",
     "outcome": "Da-Yeon Back",
     "side": "BUY",
-    "whale_usd": 23799.4367,
-    "whale_pct": 23.579,
+    "whale_usd": 26340.137899999998,
+    "whale_pct": 26.096,
     "whale_value_at_open": 100934.5581,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -145914,8 +145914,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789974262.912914,
-    "fills": 8
+    "last_fill_at": 1789974348.5572574,
+    "fills": 9
   },
   {
     "timestamp": 1789974229,
