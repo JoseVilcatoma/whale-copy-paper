@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.16974355957495,
+  "bankroll": 66.82474355957496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29680,6 +29680,11 @@
       "timestamp": 1790006855.8896224,
       "bankroll": 71.17,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Max Alcala Gurri vs Eliakim Coulibaly"
+    },
+    {
+      "timestamp": 1790007042.8108284,
+      "bankroll": 66.82,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Daniel Galan vs Calvin Hemery"
     }
   ]
 }
