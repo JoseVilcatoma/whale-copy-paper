@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 16:42:58 (hora de Perú)
+Actualizado: 2026-09-21 16:44:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 16:42:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.74 en 17 posiciones abiertas (disponible para nuevas apuestas: $4.92)
+**Capital comprometido ahora mismo:** $86.66 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 99 | 44 | 3 | -19.27 USD |
+| GoalLineGhost | 99 | 44 | 4 | -19.27 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | Flaznorp | 165 | 63 | 2 | -25.04 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | kkookkoo | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 57% | 5.00 | 47.9% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 7.7% | ✅ ganada | +2.85 |
-| ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ✅ ganada | +2.07 |

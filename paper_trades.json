@@ -147381,5 +147381,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790026930.5141995,
     "fills": 2
+  },
+  {
+    "timestamp": 1790027030,
+    "timestamp_added": 1790027030.9551718,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "col2-bog-bar-2026-09-21-draw",
+    "title": "Will Bogota FC vs. Barranquilla FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 501.11050000000006,
+    "whale_pct": 0.444,
+    "whale_value_at_open": 112884.0763,
+    "paper_stake_usd": 4.92,
+    "odds_at_bet": 56,
+    "fee_usd": 0.108,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790027030.9551842,
+    "fills": 1
   }
 ]
