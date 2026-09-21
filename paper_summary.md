@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 10:39:46 (hora de Perú)
+Actualizado: 2026-09-21 10:41:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $61.93
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 10:39:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.46 en 12 posiciones abiertas (disponible para nuevas apuestas: $5.47)
+**Capital comprometido ahora mismo:** $61.46 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
-| kkookkoo | 1 | 1 | 0 | -2.75 USD |
+| kkookkoo | 1 | 1 | 1 | -2.75 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -1051,16 +1051,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-misolic-gima-2026-09-21 | RN1, ferrariChampions2026 |
 | atp-domenc-jade-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-astakho-linette-2026-09-21 | RN1, ferrariChampions2026 |
+| wta-quevedo-podoros-2026-09-20 | ferrariChampions2026, kkookkoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kkookkoo | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 57% | 5.00 | 47.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 4.6% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 15.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Daniel Galan vs Calvin Hemery | Daniel Galan (BUY) | 60% | 4.26 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1085,4 +1087,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 67% | 5.00 | 6.0% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 46% | 5.00 | 18.7% | ❌ perdida | -5.13 |
 | RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Yue Yuan (BUY) | 68% | 3.51 | 15.9% | ❌ perdida | -3.57 |
-| ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 70% | 5.00 | 1.8% | ✅ ganada | +2.07 |

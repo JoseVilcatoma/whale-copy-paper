@@ -146593,8 +146593,8 @@
     "title": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
     "outcome": "Nadia Podoroska",
     "side": "BUY",
-    "whale_usd": 17298.830971,
-    "whale_pct": 15.435,
+    "whale_usd": 22352.802970999997,
+    "whale_pct": 19.945,
     "whale_value_at_open": 112074.6889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -146605,8 +146605,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790004971.26503,
-    "fills": 5
+    "last_fill_at": 1790005303.7649717,
+    "fills": 6
   },
   {
     "timestamp": 1789999883,
@@ -146617,8 +146617,8 @@
     "title": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
     "outcome": "Kaitlin Quevedo",
     "side": "BUY",
-    "whale_usd": 2871.58,
-    "whale_pct": 2.562,
+    "whale_usd": 3375.58,
+    "whale_pct": 3.012,
     "whale_value_at_open": 112074.6889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -146629,8 +146629,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789999883.9419158,
-    "fills": 1
+    "last_fill_at": 1790005195.2390358,
+    "fills": 2
   },
   {
     "timestamp": 1790000896,
@@ -146703,5 +146703,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790004167.2197065,
     "fills": 4
+  },
+  {
+    "timestamp": 1790005303,
+    "timestamp_added": 1790005303.3286545,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "wta-quevedo-podoros-2026-09-20",
+    "title": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
+    "outcome": "Kaitlin Quevedo",
+    "side": "BUY",
+    "whale_usd": 12000.0,
+    "whale_pct": 47.941,
+    "whale_value_at_open": 25030.9678,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790005303.3286662,
+    "fills": 1
   }
 ]
