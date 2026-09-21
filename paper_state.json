@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.81671793066634,
+  "bankroll": 89.79562702157543,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29475,6 +29475,11 @@
       "timestamp": 1789970345.4157045,
       "bankroll": 85.82,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Lanlana Tararudee vs Moyuka Uchijima"
+    },
+    {
+      "timestamp": 1789970469.1916018,
+      "bankroll": 89.8,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Chiefs (-6.5)"
     }
   ]
 }
