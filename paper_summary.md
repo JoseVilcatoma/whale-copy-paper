@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:24:32 (hora de Perú)
+Actualizado: 2026-09-20 22:26:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.49
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:24:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.80 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.69)
+**Capital comprometido ahora mismo:** $93.80 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,7 +138,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| TAIWANNUMBERONE | 39 | 30 | 0 | -9.25 USD |
+| TAIWANNUMBERONE | 39 | 30 | 1 | -9.25 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -1042,13 +1042,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-was-dal-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 | nfl-jax-den-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 | nfl-ind-kc-2026-09-21 | RN1, wr0ngw4yb3tt0r |
+| nfl-ind-kc-2026-09-21-total-57pt5 | RN1, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs | Colts (BUY) | 67% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.4% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1076,4 +1078,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ✅ ganada | +3.23 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |

@@ -145430,8 +145430,8 @@
     "title": "Colts vs. Chiefs",
     "outcome": "Colts",
     "side": "BUY",
-    "whale_usd": 47448.306099999994,
-    "whale_pct": 4.406,
+    "whale_usd": 51963.78876699999,
+    "whale_pct": 4.825,
     "whale_value_at_open": 1076916.6061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -145444,8 +145444,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789961068.0561907,
-    "fills": 7
+    "last_fill_at": 1789961149.7683942,
+    "fills": 8
   },
   {
     "timestamp": 1789960990,
@@ -145469,6 +145469,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789960991.653978,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789961080,
+    "timestamp_added": 1789961081.2433572,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "nfl-ind-kc-2026-09-21-total-57pt5",
+    "title": "Colts vs. Chiefs: O/U 57.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1119.7648000000002,
+    "whale_pct": 4.563,
+    "whale_value_at_open": 24540.658,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789961081.2433755,
     "fills": 1
   }
 ]
