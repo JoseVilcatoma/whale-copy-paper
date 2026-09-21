@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.59589130370989,
+  "bankroll": 84.82922463704323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29720,6 +29720,11 @@
       "timestamp": 1790012604.0769932,
       "bankroll": 81.6,
       "event": "won: ferrariChampions2026 \u2014 Porto: Susan Bandecchi vs Oceane Dodin"
+    },
+    {
+      "timestamp": 1790013190.4455519,
+      "bankroll": 84.83,
+      "event": "venta anticipada: kkookkoo \u2014 Plovdiv 4: Benjamin Hassan vs Pol Martin Tiffon (+3.23 USD)"
     }
   ]
 }
