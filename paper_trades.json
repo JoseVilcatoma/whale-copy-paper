@@ -145824,8 +145824,8 @@
     "title": "Singapore Open: Talia Gibson vs Fiona Ferro",
     "outcome": "Fiona Ferro",
     "side": "BUY",
-    "whale_usd": 3347.784,
-    "whale_pct": 5.329,
+    "whale_usd": 3930.6728000000003,
+    "whale_pct": 6.257,
     "whale_value_at_open": 62817.2641,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -145838,7 +145838,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789972416.029177,
+    "last_fill_at": 1789972652.9415045,
+    "fills": 2
+  },
+  {
+    "timestamp": 1789972728,
+    "timestamp_added": 1789972728.2779534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-mladeno-hibino-2026-09-21",
+    "title": "Singapore Open: Kristina Mladenovic vs Nao Hibino",
+    "outcome": "Kristina Mladenovic",
+    "side": "BUY",
+    "whale_usd": 4560.0611,
+    "whale_pct": 4.407,
+    "whale_value_at_open": 103466.3736,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789972728.2779639,
     "fills": 1
   }
 ]
