@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 13:11:51 (hora de Perú)
+Actualizado: 2026-09-21 13:13:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $84.83
-**Retorno acumulado:** -83.03%
+**Bankroll actual:** $79.68
+**Retorno acumulado:** -84.06%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 13:11:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.83 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $79.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 821 | 507 | 8 | -249.60 USD |
+| ferrariChampions2026 | 821 | 508 | 7 | -254.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5727
+- **Apuestas resueltas:** 5728
 - **Aciertos:** 3599 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,419.60
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $526.48 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,424.60
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $526.63 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2949 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2950 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 790 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
@@ -1063,11 +1063,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 13.8% | ⏳ pendiente | — |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
+| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |
 | maz26 | Spread: Rams (-6.5) | Giants (BUY) | 49% | 5.00 | 7.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Benjamin Hassan vs Pol Martin | Benjamin Hassan (BUY) | 42% | 5.00 | 5.0% | ❌ perdida | -5.14 |
 | kkookkoo | Plovdiv 4: Benjamin Hassan vs Pol Martin | Pol Martin Tiffon (BUY) | 60% | 5.00 | 407.1% | 💰 vendida anticipada | +3.23 |
 | ferrariChampions2026 | Porto: Susan Bandecchi vs Oceane Dodin | Oceane Dodin (BUY) | 83% | 5.00 | 4.3% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | Spread: Atlanta Dream (-1.5) | Atlanta Dream (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |

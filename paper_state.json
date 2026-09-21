@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.82922463704323,
+  "bankroll": 79.68422463704323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29725,6 +29725,11 @@
       "timestamp": 1790013190.4455519,
       "bankroll": 84.83,
       "event": "venta anticipada: kkookkoo \u2014 Plovdiv 4: Benjamin Hassan vs Pol Martin Tiffon (+3.23 USD)"
+    },
+    {
+      "timestamp": 1790014368.5460641,
+      "bankroll": 79.68,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Benjamin Hassan vs Pol Martin Tiffon"
     }
   ]
 }
