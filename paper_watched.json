@@ -14,31 +14,25 @@
   "0xcd84d7f9262516865553555751609fb6f52abec6": {
     "username": "Donkey14",
     "added_at": 1790016475.33795,
-    "roi_pct": 1013.79,
+    "roi_pct": 972.63,
     "short_term_pct": 100.0
   },
   "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
     "username": "Flaznorp",
     "added_at": 1790021964.9945092,
-    "roi_pct": 264.25,
-    "short_term_pct": 90.0
-  },
-  "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
-    "username": "GoalLineGhost",
-    "added_at": 1790023820.540359,
-    "roi_pct": 360.49,
+    "roi_pct": 283.38,
     "short_term_pct": 100.0
   },
   "0x032eb1bc893940263ad0b01889f262fc232f2a9e": {
     "username": "purplegatto",
     "added_at": 1790023820.5403614,
-    "roi_pct": 71.03,
-    "short_term_pct": 60.0
+    "roi_pct": 71.07,
+    "short_term_pct": 50.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790026613.5883732,
-    "roi_pct": 515.94,
+    "roi_pct": 502.57,
     "short_term_pct": 100.0
   }
 }
