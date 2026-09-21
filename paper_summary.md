@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 13:43:22 (hora de Perú)
+Actualizado: 2026-09-21 13:45:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.88
@@ -1064,7 +1064,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ⏳ pendiente | — |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.3% | ⏳ pendiente | — |
+| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ⏳ pendiente | — |
 | maz26 | Spread: Rams (-6.5) | Giants (BUY) | 49% | 5.00 | 7.7% | ⏳ pendiente | — |
