@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 11:04:33 (hora de Perú)
+Actualizado: 2026-09-21 11:06:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.10
@@ -1063,7 +1063,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 7.7% | ✅ ganada | +2.85 |
 | ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 4.6% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 7.5% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Plovdiv 4: Daniel Galan vs Calvin Hemery | Daniel Galan (BUY) | 60% | 4.26 | 4.0% | ⏳ pendiente | — |
