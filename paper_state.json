@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.04018466863515,
+  "bankroll": 76.9146291130796,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29550,6 +29550,11 @@
       "timestamp": 1789978373.1978498,
       "bankroll": 75.04,
       "event": "won: RN1 \u2014 W50 Nanao: Moeka Miyata vs Remika Ohashi"
+    },
+    {
+      "timestamp": 1789981374.9199185,
+      "bankroll": 76.91,
+      "event": "won: RN1 \u2014 W50 Plovdiv: Margaux Maquet vs Lucie Petruzelova"
     }
   ]
 }
