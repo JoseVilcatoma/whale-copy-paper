@@ -1,5 +1,5 @@
 {
-  "bankroll": 61.45913958829394,
+  "bankroll": 61.931645082799434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29660,6 +29660,11 @@
       "timestamp": 1789999800.5225039,
       "bankroll": 61.46,
       "event": "won: RN1 \u2014 Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A"
+    },
+    {
+      "timestamp": 1790004979.6140287,
+      "bankroll": 61.93,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Lizette Cabrera vs Sinja Kraus"
     }
   ]
 }

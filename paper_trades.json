@@ -146593,8 +146593,8 @@
     "title": "Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska",
     "outcome": "Nadia Podoroska",
     "side": "BUY",
-    "whale_usd": 3791.9679710000005,
-    "whale_pct": 3.383,
+    "whale_usd": 17298.830971,
+    "whale_pct": 15.435,
     "whale_value_at_open": 112074.6889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -146605,8 +146605,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790003232.2542188,
-    "fills": 3
+    "last_fill_at": 1790004971.26503,
+    "fills": 5
   },
   {
     "timestamp": 1789999883,
@@ -146648,8 +146648,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
