@@ -146641,8 +146641,8 @@
     "title": "Porto: Lizette Cabrera vs Sinja Kraus",
     "outcome": "Sinja Kraus",
     "side": "BUY",
-    "whale_usd": 746.071628,
-    "whale_pct": 0.666,
+    "whale_usd": 5166.961628,
+    "whale_pct": 4.611,
     "whale_value_at_open": 112065.7571,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -146653,8 +146653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790000897.2037241,
-    "fills": 1
+    "last_fill_at": 1790001774.2001438,
+    "fills": 2
   },
   {
     "timestamp": 1790000896,
