@@ -147487,8 +147487,8 @@
     "title": "CA Barracas Central vs. CS Independiente Rivadavia: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 613.8,
-    "whale_pct": 0.492,
+    "whale_usd": 1215.8000000000002,
+    "whale_pct": 0.974,
     "whale_value_at_open": 124825.0874,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -147499,7 +147499,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790032583.5222106,
-    "fills": 1
+    "last_fill_at": 1790033014.4200253,
+    "fills": 2
   }
 ]
