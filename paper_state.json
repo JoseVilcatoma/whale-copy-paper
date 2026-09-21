@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.11648824042602,
+  "bankroll": 73.56767296694821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29690,6 +29690,26 @@
       "timestamp": 1790008540.8315701,
       "bankroll": 67.12,
       "event": "won: ferrariChampions2026 \u2014 Genoa 2: Dali Blanch vs Sandro Kopp"
+    },
+    {
+      "timestamp": 1790009602.9771354,
+      "bankroll": 61.99,
+      "event": "lost: ferrariChampions2026 \u2014 Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska"
+    },
+    {
+      "timestamp": 1790009603.0773668,
+      "bankroll": 66.67,
+      "event": "won: ferrariChampions2026 \u2014 Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska"
+    },
+    {
+      "timestamp": 1790009603.177551,
+      "bankroll": 70.33,
+      "event": "won: kkookkoo \u2014 Sao Paulo Open: Kaitlin Quevedo vs Nadia Podoroska"
+    },
+    {
+      "timestamp": 1790009664.9163613,
+      "bankroll": 73.57,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Polona Hercog vs Leyre Romero Gormaz"
     }
   ]
 }

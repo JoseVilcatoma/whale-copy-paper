@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 11:52:25 (hora de Perú)
+Actualizado: 2026-09-21 11:54:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $67.12
-**Retorno acumulado:** -86.58%
+**Bankroll actual:** $73.57
+**Retorno acumulado:** -85.29%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 11:52:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $2.12)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $28.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,6 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
+| kkookkoo | 2 | 1 | 0 | +0.91 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
@@ -108,7 +109,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
-| kkookkoo | 1 | 1 | 1 | -2.75 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -165,18 +165,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 817 | 506 | 7 | -260.41 USD |
+| ferrariChampions2026 | 819 | 507 | 4 | -257.63 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5721
-- **Aciertos:** 3594 (62.8%)
+- **Apuestas resueltas:** 5725
+- **Aciertos:** 3597 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,389.60
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $525.83 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,409.60
+- **ROI sobre lo apostado:** -1.94%
+- **Comisiones pagadas (taker fee):** $526.29 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,8 +184,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2945 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1675 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 2948 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1676 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 789 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 312 | 97.1% | 97.4% | -0.2 pp |
 
@@ -1059,15 +1059,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 7.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
 | ferrariChampions2026 | Spread: Dallas Wings (-5.5) | Dallas Wings (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
-| kkookkoo | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 57% | 5.00 | 47.9% | ⏳ pendiente | — |
+| kkookkoo | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 57% | 5.00 | 47.9% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Singapore Open: Storm Hunter vs Joanna G | Joanna Garland (BUY) | 43% | 2.20 | 7.7% | ✅ ganada | +2.85 |
 | ferrariChampions2026 | Plovdiv 4: Max Alcala Gurri vs Eliakim C | Max Alcala Gurri (BUY) | 70% | 5.00 | 1.2% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Porto: Lizette Cabrera vs Sinja Kraus | Sinja Kraus (BUY) | 91% | 5.00 | 4.6% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 6.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Kaitlin Quevedo (BUY) | 51% | 5.00 | 6.3% | ✅ ganada | +4.68 |
+| ferrariChampions2026 | Sao Paulo Open: Kaitlin Quevedo vs Nadia | Nadia Podoroska (BUY) | 49% | 5.00 | 19.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Tolentino: Mia Ristic vs Arantxa Rus | Mia Ristic (BUY) | 53% | 5.00 | 7.5% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Plovdiv 4: Daniel Galan vs Calvin Hemery | Daniel Galan (BUY) | 60% | 4.26 | 4.0% | ❌ perdida | -4.34 |
 | ferrariChampions2026 | Ankara: Aysegul Mert vs Isabella Shiniko | Aysegul Mert (BUY) | 41% | 5.00 | 1.6% | ⏳ pendiente | — |
