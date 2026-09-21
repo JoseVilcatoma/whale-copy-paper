@@ -145394,5 +145394,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789960086.2762225,
     "fills": 16
+  },
+  {
+    "timestamp": 1789960347,
+    "timestamp_added": 1789960347.56076,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Colts",
+    "side": "BUY",
+    "whale_usd": 4584.0342,
+    "whale_pct": 0.709,
+    "whale_value_at_open": 646093.6822,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789960350.9393415,
+    "fills": 2
   }
 ]

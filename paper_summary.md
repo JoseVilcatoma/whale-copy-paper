@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:11:54 (hora de Perú)
+Actualizado: 2026-09-20 22:14:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:11:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.69 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.04)
+**Capital comprometido ahora mismo:** $92.69 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -134,7 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| RN1 | 591 | 277 | 5 | -8.32 USD |
+| RN1 | 591 | 277 | 6 | -8.32 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -1047,6 +1047,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Colts vs. Chiefs | Colts (BUY) | 67% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 5.4% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -1076,4 +1077,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-7.5) | Colts (BUY) | 61% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ✅ ganada | +3.43 |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
-| RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ❌ perdida | -3.74 |
