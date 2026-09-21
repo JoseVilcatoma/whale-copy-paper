@@ -147055,8 +147055,8 @@
     "title": "Tolentino: Federica Urgesi vs Oksana Selekhmeteva",
     "outcome": "Oksana Selekhmeteva",
     "side": "BUY",
-    "whale_usd": 12152.556303,
-    "whale_pct": 13.788,
+    "whale_usd": 12663.257281999999,
+    "whale_pct": 14.367,
     "whale_value_at_open": 88140.9864,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -147067,8 +147067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790014029.93508,
-    "fills": 6
+    "last_fill_at": 1790015059.4895704,
+    "fills": 7
   },
   {
     "timestamp": 1790013183,
