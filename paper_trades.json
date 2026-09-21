@@ -145330,8 +145330,8 @@
     "title": "Spread: Chiefs (-4.5)",
     "outcome": "Colts",
     "side": "BUY",
-    "whale_usd": 6377.607599999999,
-    "whale_pct": 1.586,
+    "whale_usd": 7502.607599999999,
+    "whale_pct": 1.866,
     "whale_value_at_open": 402046.9727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -145342,8 +145342,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789955130.4515429,
-    "fills": 4
+    "last_fill_at": 1789957280.0580068,
+    "fills": 5
   },
   {
     "timestamp": 1789956546,

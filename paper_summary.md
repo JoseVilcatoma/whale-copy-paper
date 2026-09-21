@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 21:21:12 (hora de Perú)
+Actualizado: 2026-09-20 21:23:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.95
@@ -1049,7 +1049,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 0.9% | ⏳ pendiente | — |
 | RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 10.9% | ⏳ pendiente | — |
