@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.9146291130796,
+  "bankroll": 70.51651765797124,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29555,6 +29555,26 @@
       "timestamp": 1789981374.9199185,
       "bankroll": 76.91,
       "event": "won: RN1 \u2014 W50 Plovdiv: Margaux Maquet vs Lucie Petruzelova"
+    },
+    {
+      "timestamp": 1789981625.7275813,
+      "bankroll": 79.19,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Kamilla Rakhimova vs Polina Kudermetova"
+    },
+    {
+      "timestamp": 1789981625.8277628,
+      "bankroll": 80.71,
+      "event": "won: RN1 \u2014 Korea Open: Kamilla Rakhimova vs Polina Kudermetova"
+    },
+    {
+      "timestamp": 1789981626.128284,
+      "bankroll": 75.57,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Kamilla Rakhimova vs Polina Kudermetova"
+    },
+    {
+      "timestamp": 1789981626.6290414,
+      "bankroll": 70.52,
+      "event": "lost: RN1 \u2014 Korea Open: Kamilla Rakhimova vs Polina Kudermetova"
     }
   ]
 }

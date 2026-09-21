@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 04:05:06 (hora de Perú)
+Actualizado: 2026-09-21 04:07:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $76.91
-**Retorno acumulado:** -84.62%
+**Bankroll actual:** $70.52
+**Retorno acumulado:** -85.90%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 04:05:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.91 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $56.91 en 12 posiciones abiertas (disponible para nuevas apuestas: $13.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -117,7 +117,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
-| RN1 | 600 | 281 | 6 | -4.60 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -136,6 +135,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| RN1 | 601 | 282 | 4 | -8.13 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -165,18 +165,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 808 | 501 | 6 | -253.12 USD |
+| ferrariChampions2026 | 809 | 502 | 4 | -255.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5694
-- **Aciertos:** 3577 (62.8%)
+- **Apuestas resueltas:** 5698
+- **Aciertos:** 3579 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,263.62
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $523.88 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,283.62
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $524.21 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,8 +184,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2938 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1662 | 68.8% | 67.9% | +1.0 pp |
+| 40-59% | 2939 | 49.6% | 50.1% | -0.4 pp |
+| 60-79% | 1665 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 783 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
 
@@ -1054,16 +1054,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 8.8% | ⏳ pendiente | — |
+| 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 17.5% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 87.7% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Under (BUY) | 44% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 66% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ⏳ pendiente | — |
+| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 78% | 5.00 | 14.8% | ❌ perdida | -5.05 |
 | RN1 | Saint Tropez: Mathys Domenc vs Daniel Ja | Daniel Jade (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 85% | 5.00 | 15.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Filip Misolic (BUY) | 70% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Rebecca Sramkova vs Maja | Maja Chwalinska (BUY) | 67% | 5.00 | 6.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 46% | 5.00 | 18.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Polina Kudermetova (BUY) | 46% | 5.00 | 18.7% | ❌ perdida | -5.13 |
 | RN1 | Korea Open: Yue Yuan vs Da-Yeon Back | Yue Yuan (BUY) | 68% | 3.51 | 15.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Talia Gibson (BUY) | 70% | 5.00 | 1.8% | ✅ ganada | +2.07 |
 | RN1 | W50 Plovdiv: Margaux Maquet vs Lucie Pet | Margaux Maquet (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
@@ -1074,10 +1074,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 49% | 5.00 | 6.3% | ❌ perdida | -5.13 |
 | RN1 | W50 Nanao: Moeka Miyata vs Remika Ohashi | Remika Ohashi (BUY) | 53% | 5.00 | 0.8% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Fiona Fe | Fiona Ferro (BUY) | 58% | 5.00 | 4.9% | ❌ perdida | -5.11 |
-| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 56.8% | ⏳ pendiente | — |
+| RN1 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 76% | 5.00 | 56.8% | ✅ ganada | +1.52 |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Kristina Mladenovic (BUY) | 41% | 5.00 | 2.6% | ❌ perdida | -5.15 |
 | RN1 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 81% | 5.00 | 6.3% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 58.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Kamilla Rakhimova vs Polina  | Kamilla Rakhimova (BUY) | 68% | 5.00 | 58.4% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Korea Open: Lanlana Tararudee vs Moyuka  | Lanlana Tararudee (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Alina Korneeva vs Mananchaya | Alina Korneeva (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Maya Joint (BUY) | 70% | 5.00 | 37.9% | ✅ ganada | +2.07 |
