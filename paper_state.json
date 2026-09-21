@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.95329713982576,
+  "bankroll": 109.48385269538132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29325,6 +29325,11 @@
       "timestamp": 1789950975.0481799,
       "bankroll": 108.95,
       "event": "lost: Flaznorp \u2014 CA Belgrano vs. AA Estudiantes: O/U 1.5"
+    },
+    {
+      "timestamp": 1789953618.4082067,
+      "bankroll": 109.48,
+      "event": "won: RN1 \u2014 Spread: Chargers (-6.5)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 20:18:55 (hora de Perú)
+Actualizado: 2026-09-20 20:20:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $108.95
-**Retorno acumulado:** -78.21%
+**Bankroll actual:** $109.48
+**Retorno acumulado:** -78.10%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 20:18:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $107.67 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.28)
+**Capital comprometido ahora mismo:** $107.67 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -103,9 +103,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
+| RN1 | 591 | 275 | 4 | -2.06 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| RN1 | 590 | 275 | 4 | -2.59 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | kkookkoo | 1 | 1 | 0 | -2.75 USD |
@@ -168,13 +168,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5648
-- **Aciertos:** 3550 (62.9%)
+- **Apuestas resueltas:** 5649
+- **Aciertos:** 3551 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,042.15
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $519.98 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $28,047.15
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $520.01 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2916 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1648 | 68.8% | 67.9% | +1.0 pp |
-| 80-94% | 776 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 777 | 85.8% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 308 | 97.1% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1046,6 +1046,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 4.0% | ⏳ pendiente | — |
@@ -1063,7 +1064,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CA Bucaramanga vs. Internacional de | No (BUY) | 84% | 4.26 | 0.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Spread: Cowboys (-16.5) | Commanders (BUY) | 55% | 5.00 | 0.6% | ❌ perdida | -5.11 |
 | RN1 | Commanders vs. Cowboys: O/U 52.5 | Under (BUY) | 49% | 2.46 | 0.2% | ⏳ pendiente | — |
-| RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Spread: Chargers (-6.5) | Raiders (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ✅ ganada | +0.78 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
@@ -1075,4 +1076,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
 | UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ✅ ganada | +0.25 |
 | Flaznorp | Will Londrina EC win on 2026-09-20? | No (BUY) | 67% | 5.00 | 0.1% | ⏳ pendiente | — |
-| UpTheBlues | Will San Martin de San Juan win on 2026- | Yes (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
