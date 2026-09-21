@@ -146060,8 +146060,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -146108,8 +146108,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.84,
     "overlaps_with": [
       "RN1"
     ],
@@ -146299,8 +146299,8 @@
     "title": "Korea Open: Darya Astakhova vs Magda Linette",
     "outcome": "Magda Linette",
     "side": "BUY",
-    "whale_usd": 2465.617042,
-    "whale_pct": 1.559,
+    "whale_usd": 8549.615624,
+    "whale_pct": 5.405,
     "whale_value_at_open": 158183.7302,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -146311,7 +146311,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789981849.768712,
+    "last_fill_at": 1789982099.1925306,
+    "fills": 4
+  },
+  {
+    "timestamp": 1789982038,
+    "timestamp_added": 1789982039.1863716,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-misolic-gima-2026-09-21",
+    "title": "Plovdiv 4: Filip Misolic vs Sebastian Gima",
+    "outcome": "Sebastian Gima",
+    "side": "BUY",
+    "whale_usd": 793.9080200000001,
+    "whale_pct": 0.499,
+    "whale_value_at_open": 159225.8853,
+    "paper_stake_usd": 3.61,
+    "odds_at_bet": 44,
+    "fee_usd": 0.101,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789982039.1863809,
     "fills": 1
   }
 ]

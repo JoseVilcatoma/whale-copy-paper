@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.51651765797124,
+  "bankroll": 73.74155716631188,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29575,6 +29575,16 @@
       "timestamp": 1789981626.6290414,
       "bankroll": 70.52,
       "event": "lost: RN1 \u2014 Korea Open: Kamilla Rakhimova vs Polina Kudermetova"
+    },
+    {
+      "timestamp": 1789982127.4433286,
+      "bankroll": 72.9,
+      "event": "won: RN1 \u2014 Singapore Open: Rebecca Sramkova vs Maja Chwalinska"
+    },
+    {
+      "timestamp": 1789982127.6436357,
+      "bankroll": 73.74,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Rebecca Sramkova vs Maja Chwalinska"
     }
   ]
 }
