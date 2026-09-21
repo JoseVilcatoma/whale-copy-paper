@@ -146753,5 +146753,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790006240.8264797,
     "fills": 1
+  },
+  {
+    "timestamp": 1790006347,
+    "timestamp_added": 1790006347.8044593,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-blan-kopp-2026-09-21",
+    "title": "Genoa 2: Dali Blanch vs Sandro Kopp",
+    "outcome": "Dali Blanch",
+    "side": "BUY",
+    "whale_usd": 4101.165577,
+    "whale_pct": 4.003,
+    "whale_value_at_open": 102449.714,
+    "paper_stake_usd": 4.79,
+    "odds_at_bet": 94,
+    "fee_usd": 0.014,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790006347.804468,
+    "fills": 1
   }
 ]
