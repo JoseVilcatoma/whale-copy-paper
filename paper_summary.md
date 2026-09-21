@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 07:21:53 (hora de Perú)
+Actualizado: 2026-09-21 07:23:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $68.68
-**Retorno acumulado:** -86.26%
+**Bankroll actual:** $58.61
+**Retorno acumulado:** -88.28%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 07:21:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.21 en 12 posiciones abiertas (disponible para nuevas apuestas: $9.47)
+**Capital comprometido ahora mismo:** $49.21 en 10 posiciones abiertas (disponible para nuevas apuestas: $9.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
-| RN1 | 605 | 283 | 5 | +0.34 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -118,6 +117,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donkey14 | 2 | 3 | 0 | -3.60 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
+| RN1 | 605 | 284 | 4 | -4.70 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | NordhavenCap | 0 | 1 | 0 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -165,18 +165,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 811 | 504 | 3 | -262.82 USD |
+| ferrariChampions2026 | 811 | 505 | 2 | -267.85 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5708
+- **Apuestas resueltas:** 5710
 - **Aciertos:** 3585 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,329.14
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $525.00 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,339.14
+- **ROI sobre lo apostado:** -1.99%
+- **Comisiones pagadas (taker fee):** $525.07 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2941 | 49.6% | 50.1% | -0.4 pp |
 | 60-79% | 1672 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 784 | 85.8% | 86.6% | -0.7 pp |
+| 80-94% | 786 | 85.6% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1061,10 +1061,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Mathys Domenc (BUY) | 64% | 5.00 | 1.1% | ❌ perdida | -5.09 |
 | RN1 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Sebastian Gima (BUY) | 44% | 3.61 | 1.5% | ✅ ganada | +4.49 |
-| RN1 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 85% | 5.00 | 22.8% | ⏳ pendiente | — |
+| RN1 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 85% | 5.00 | 22.8% | ❌ perdida | -5.04 |
 | RN1 | Plovdiv 4: Pavel Lagutin vs Svyatoslav G | Svyatoslav Gulin (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: GamerLegion vs  Pipsqueak+4 (BO3 |  Pipsqueak+4 (BUY) | 52% | 3.40 | 26.3% | ❌ perdida | -3.48 |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | Dota 2: Conventus Stellarum vs 1win (BO3 | 1win (BUY) | 49% | 5.00 | 245.6% | ⏳ pendiente | — |
