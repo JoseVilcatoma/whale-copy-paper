@@ -147247,8 +147247,8 @@
     "title": "San Diego 2: Aidan Mayo vs Sebastian Gorzny",
     "outcome": "Sebastian Gorzny",
     "side": "BUY",
-    "whale_usd": 695.182767,
-    "whale_pct": 0.679,
+    "whale_usd": 3794.9922909999996,
+    "whale_pct": 3.704,
     "whale_value_at_open": 102455.6498,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -147259,8 +147259,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790020754.6784356,
-    "fills": 1
+    "last_fill_at": 1790021236.0665786,
+    "fills": 3
   },
   {
     "timestamp": 1790020947,

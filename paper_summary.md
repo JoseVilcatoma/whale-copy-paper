@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 15:05:20 (hora de Perú)
+Actualizado: 2026-09-21 15:07:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.74
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego 2: Aidan Mayo vs Sebastian Gor | Sebastian Gorzny (BUY) | 78% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Laura Samson (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Laura Samson vs Noemi Basilet | Noemi Basiletti (BUY) | 58% | 5.00 | 5.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
