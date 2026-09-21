@@ -145258,8 +145258,8 @@
     "title": "Spread: KC (-5.5)",
     "outcome": "IND",
     "side": "BUY",
-    "whale_usd": 54885.678058,
-    "whale_pct": 8.122,
+    "whale_usd": 55938.688058,
+    "whale_pct": 8.278,
     "whale_value_at_open": 675751.601,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -145270,8 +145270,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789955619.961099,
-    "fills": 42
+    "last_fill_at": 1789956628.9534578,
+    "fills": 43
   },
   {
     "timestamp": 1789950933,
@@ -145344,5 +145344,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789955130.4515429,
     "fills": 4
+  },
+  {
+    "timestamp": 1789956546,
+    "timestamp_added": 1789956547.4364972,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-ind-kc-2026-09-21-total-57pt5",
+    "title": "Colts vs. Chiefs: O/U 57.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1990.3600000000001,
+    "whale_pct": 0.439,
+    "whale_value_at_open": 453847.9847,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789956552.5415735,
+    "fills": 2
+  },
+  {
+    "timestamp": 1789956585,
+    "timestamp_added": 1789956585.6959186,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-ind-kc-2026-09-21",
+    "title": "Colts vs. Chiefs",
+    "outcome": "Chiefs",
+    "side": "BUY",
+    "whale_usd": 1186.1,
+    "whale_pct": 0.261,
+    "whale_value_at_open": 453847.9847,
+    "paper_stake_usd": 3.8,
+    "odds_at_bet": 59,
+    "fee_usd": 0.078,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789956585.695932,
+    "fills": 1
   }
 ]

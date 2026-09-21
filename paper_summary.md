@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 21:08:36 (hora de Perú)
+Actualizado: 2026-09-20 21:10:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 21:08:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.15 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.80)
+**Capital comprometido ahora mismo:** $91.95 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -134,7 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| RN1 | 591 | 277 | 3 | -8.32 USD |
+| RN1 | 591 | 277 | 5 | -8.32 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -1041,15 +1041,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-dep-bet-2026-09-20-bet | UpTheBlues, Zzzz87 |
 | nfl-was-dal-2026-09-20 | RN1, wr0ngw4yb3tt0r |
 | nfl-jax-den-2026-09-20 | RN1, wr0ngw4yb3tt0r |
+| nfl-ind-kc-2026-09-21 | RN1, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Colts vs. Chiefs | Chiefs (BUY) | 59% | 3.80 | 0.3% | ⏳ pendiente | — |
+| RN1 | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Chiefs (-4.5) | Colts (BUY) | 45% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Colts vs. Chiefs: O/U 49.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 8.1% | ⏳ pendiente | — |
+| RN1 | Spread: KC (-5.5) | IND (BUY) | 61% | 5.00 | 8.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Chiefs (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
 | UpTheBlues | CA Paranaense vs. EC Bahia: O/U 3.5 | Under (BUY) | 44% | 3.89 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | CA Belgrano vs. AA Estudiantes: Both Tea | Yes (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
@@ -1074,5 +1077,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Cowboys (-10.5) | Cowboys (BUY) | 50% | 3.52 | 0.2% | ✅ ganada | +3.43 |
 | RN1 | Spread: Jaguars (-3.5) | Broncos (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
 | RN1 | Commanders vs. Cowboys: O/U 51.5 | Under (BUY) | 54% | 3.66 | 0.2% | ❌ perdida | -3.74 |
-| RN1 | San Diego 2: Daniil Ostapenkov vs Quinn  | Daniil Ostapenkov (BUY) | 57% | 5.00 | 0.2% | ✅ ganada | +3.66 |
-| UpTheBlues | CA Rosario Central vs. AA Argentinos Jun | Under (BUY) | 95% | 5.00 | 0.1% | ✅ ganada | +0.25 |
