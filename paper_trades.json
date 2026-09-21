@@ -146227,8 +146227,8 @@
     "title": "Dota 2: Conventus Stellarum vs 1win (BO3) - PGL Wallachia Group Stage",
     "outcome": "1win",
     "side": "BUY",
-    "whale_usd": 17000.0,
-    "whale_pct": 149.132,
+    "whale_usd": 28000.0,
+    "whale_pct": 245.629,
     "whale_value_at_open": 11399.307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -146239,8 +146239,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789991678.1143665,
-    "fills": 4
+    "last_fill_at": 1789991810.1451735,
+    "fills": 7
   },
   {
     "timestamp": 1789981428,
