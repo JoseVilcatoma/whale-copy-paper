@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.56767296694821,
+  "bankroll": 80.61479491816772,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29710,6 +29710,11 @@
       "timestamp": 1790009664.9163613,
       "bankroll": 73.57,
       "event": "won: ferrariChampions2026 \u2014 Tolentino: Polona Hercog vs Leyre Romero Gormaz"
+    },
+    {
+      "timestamp": 1790011725.4057968,
+      "bankroll": 80.61,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Aysegul Mert vs Isabella Shinikova"
     }
   ]
 }
