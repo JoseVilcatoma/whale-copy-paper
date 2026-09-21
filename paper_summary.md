@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 18:16:21 (hora de Perú)
+Actualizado: 2026-09-21 18:18:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.93
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 18:16:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.63 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.30)
+**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 101 | 44 | 2 | -19.07 USD |
+| GoalLineGhost | 101 | 44 | 3 | -19.07 USD |
 | Flaznorp | 166 | 63 | 3 | -24.20 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -1059,7 +1059,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 45% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Goffin vs Mark Lajal | Mark Lajal (BUY) | 80% | 5.00 | 10.2% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Tolentino: Polona Hercog vs Leyre Romero | Leyre Romero Gormaz (BUY) | 60% | 5.00 | 1.5% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Genoa 2: Dali Blanch vs Sandro Kopp | Dali Blanch (BUY) | 94% | 4.79 | 4.0% | ✅ ganada | +0.29 |
