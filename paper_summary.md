@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 06:42:44 (hora de Perú)
+Actualizado: 2026-09-21 06:44:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.21
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Kyoka Okamura vs Leylah  | Leylah Fernandez (BUY) | 95% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Map Handicap: UNiTY (-1.5) vs Leo Team ( | Leo Team (BUY) | 43% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 44.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 87% | 5.00 | 45.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Saint Tropez: Mathys Domenc vs Daniel Ja | Mathys Domenc (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Filip Misolic vs Sebastian Gi | Sebastian Gima (BUY) | 44% | 3.61 | 1.5% | ✅ ganada | +4.49 |
 | RN1 | Korea Open: Darya Astakhova vs Magda Lin | Magda Linette (BUY) | 85% | 5.00 | 22.8% | ⏳ pendiente | — |

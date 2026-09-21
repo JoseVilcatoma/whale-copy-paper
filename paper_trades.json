@@ -146375,8 +146375,8 @@
     "title": "Korea Open: Darya Astakhova vs Magda Linette",
     "outcome": "Magda Linette",
     "side": "BUY",
-    "whale_usd": 35951.138537,
-    "whale_pct": 44.756,
+    "whale_usd": 36525.128537,
+    "whale_pct": 45.471,
     "whale_value_at_open": 80326.277,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -146389,8 +146389,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789990017.5106506,
-    "fills": 12
+    "last_fill_at": 1789991011.5544386,
+    "fills": 13
   },
   {
     "timestamp": 1789984279,
