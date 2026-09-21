@@ -145496,5 +145496,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1789961081.2433755,
     "fills": 1
+  },
+  {
+    "timestamp": 1789962126,
+    "timestamp_added": 1789962127.635305,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mex-que-leo-2026-09-20-total-2pt5",
+    "title": "Quer\u00e9taro FC vs. Club Le\u00f3n FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 594.3188,
+    "whale_pct": 0.276,
+    "whale_value_at_open": 215715.0443,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789962127.6353207,
+    "fills": 1
   }
 ]

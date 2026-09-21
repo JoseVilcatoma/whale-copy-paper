@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-20 22:41:23 (hora de Perú)
+Actualizado: 2026-09-20 22:43:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-20 22:41:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.80 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.89)
+**Capital comprometido ahora mismo:** $93.80 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -129,7 +129,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
-| Flaznorp | 163 | 59 | 3 | -5.76 USD |
+| Flaznorp | 163 | 59 | 4 | -5.76 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -1048,6 +1048,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -1077,4 +1078,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Commanders vs. Cowboys | Cowboys (BUY) | 86% | 5.00 | 0.5% | ✅ ganada | +0.78 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Chiefs (-6.5) | Colts (BUY) | 55% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Jaguars vs. Broncos | Broncos (BUY) | 49% | 5.00 | 1.3% | ✅ ganada | +5.08 |
-| wr0ngw4yb3tt0r | Jaguars vs. Broncos | Broncos (BUY) | 43% | 2.49 | 0.3% | ✅ ganada | +3.23 |
