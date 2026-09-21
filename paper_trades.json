@@ -146027,8 +146027,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
     "outcome": "Polina Kudermetova",
     "side": "BUY",
-    "whale_usd": 932.9940819999999,
-    "whale_pct": 0.96,
+    "whale_usd": 18199.867282,
+    "whale_pct": 18.736,
     "whale_value_at_open": 97137.7203,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -146041,8 +146041,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1789976399.9308424,
-    "fills": 1
+    "last_fill_at": 1789978974.8531628,
+    "fills": 3
   },
   {
     "timestamp": 1789978005,
@@ -146140,6 +146140,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1789978445.9956846,
+    "fills": 1
+  },
+  {
+    "timestamp": 1789978942,
+    "timestamp_added": 1789978943.1256049,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-rakhimo-kuderme-2026-09-20",
+    "title": "Korea Open: Kamilla Rakhimova vs Polina Kudermetova",
+    "outcome": "Polina Kudermetova",
+    "side": "BUY",
+    "whale_usd": 17383.48,
+    "whale_pct": 12.462,
+    "whale_value_at_open": 139493.2593,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789978974.7697816,
+    "fills": 3
+  },
+  {
+    "timestamp": 1789978967,
+    "timestamp_added": 1789978968.4206414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-domenc-jade-2026-09-21",
+    "title": "Saint Tropez: Mathys Domenc vs Daniel Jade",
+    "outcome": "Daniel Jade",
+    "side": "BUY",
+    "whale_usd": 650.0,
+    "whale_pct": 0.607,
+    "whale_value_at_open": 107157.1074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1789978968.4206514,
     "fills": 1
   }
 ]
