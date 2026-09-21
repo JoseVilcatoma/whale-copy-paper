@@ -147199,8 +147199,8 @@
     "title": "Tolentino: Laura Samson vs Noemi Basiletti",
     "outcome": "Noemi Basiletti",
     "side": "BUY",
-    "whale_usd": 5750.363143,
-    "whale_pct": 5.205,
+    "whale_usd": 6890.3473429999995,
+    "whale_pct": 6.237,
     "whale_value_at_open": 110477.8513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -147211,8 +147211,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790020758.0792677,
-    "fills": 3
+    "last_fill_at": 1790021597.458187,
+    "fills": 5
   },
   {
     "timestamp": 1790020330,
