@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 01:10:40 (hora de Perú)
+Actualizado: 2026-09-21 01:12:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.80
-**Retorno acumulado:** -82.04%
+**Bankroll actual:** $84.70
+**Retorno acumulado:** -83.06%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 01:10:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $49.80)
+**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $49.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,10 +152,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 163 | 62 | 1 | -21.07 USD |
 | GoalLineGhost | 97 | 44 | 0 | -22.90 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
+| Flaznorp | 163 | 63 | 0 | -26.17 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
@@ -168,14 +168,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5679
+- **Apuestas resueltas:** 5680
 - **Aciertos:** 3568 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,188.62
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $522.59 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,193.62
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $522.69 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2933 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1655 | 68.8% | 67.8% | +0.9 pp |
+| 60-79% | 1656 | 68.7% | 67.8% | +0.9 pp |
 | 80-94% | 780 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 311 | 97.1% | 97.4% | -0.3 pp |
 
@@ -1055,7 +1055,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Kristina Mladenovic vs N | Nao Hibino (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Xinxin Yao vs Maya Joint | Xinxin Yao (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Daria Kasatkina vs Aliak | Aliaksandra Sasnovich (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Querétaro FC vs. Club León FC: O/U 2.5 | Over (BUY) | 60% | 5.00 | 0.3% | ❌ perdida | -5.10 |
 | TAIWANNUMBERONE | Colts vs. Chiefs: O/U 57.5 | Over (BUY) | 57% | 5.00 | 4.6% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Korea Open: Katie Volynets vs Elvina Kal | Katie Volynets (BUY) | 91% | 5.00 | 0.8% | ✅ ganada | +0.47 |
 | wr0ngw4yb3tt0r | Colts vs. Chiefs | Colts (BUY) | 42% | 5.00 | 4.8% | ❌ perdida | -5.14 |
