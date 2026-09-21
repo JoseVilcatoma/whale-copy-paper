@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.60843865094746,
+  "bankroll": 53.46543865094746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29635,6 +29635,11 @@
       "timestamp": 1789993362.0332887,
       "bankroll": 58.61,
       "event": "lost: ferrariChampions2026 \u2014 Korea Open: Darya Astakhova vs Magda Linette"
+    },
+    {
+      "timestamp": 1789993987.5132172,
+      "bankroll": 53.47,
+      "event": "lost: RN1 \u2014 Map Handicap: UNiTY (-1.5) vs Leo Team (+1.5)"
     }
   ]
 }
