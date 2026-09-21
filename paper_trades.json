@@ -147031,8 +147031,8 @@
     "title": "CA Aldosivi vs. CA Tucum\u00e1n: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 746.0032,
-    "whale_pct": 0.679,
+    "whale_usd": 1576.0016,
+    "whale_pct": 1.435,
     "whale_value_at_open": 109858.0771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -147043,8 +147043,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790012855.6236103,
-    "fills": 1
+    "last_fill_at": 1790013810.9757087,
+    "fills": 2
   },
   {
     "timestamp": 1790013152,
