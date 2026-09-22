@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.48816396376962,
+  "bankroll": 75.41816396376962,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30320,6 +30320,11 @@
       "timestamp": 1790090766.1208453,
       "bankroll": 80.49,
       "event": "won: ferrariChampions2026 \u2014 Tolentino: Aurora Zantedeschi vs Marta Lombardini"
+    },
+    {
+      "timestamp": 1790091082.0050323,
+      "bankroll": 75.42,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa 2: Stefano Travaglia vs Marvin Moeller"
     }
   ]
 }

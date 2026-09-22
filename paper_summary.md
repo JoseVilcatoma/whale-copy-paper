@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 10:30:24 (hora de Perú)
+Actualizado: 2026-09-22 10:32:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.49
-**Retorno acumulado:** -83.90%
+**Bankroll actual:** $75.42
+**Retorno acumulado:** -84.92%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 10:30:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.68 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.81)
+**Capital comprometido ahora mismo:** $73.68 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 860 | 527 | 8 | -229.65 USD |
+| ferrariChampions2026 | 860 | 528 | 7 | -234.72 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5846
+- **Apuestas resueltas:** 5847
 - **Aciertos:** 3677 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,979.51
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $536.35 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,984.51
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $536.42 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3008 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1711 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1712 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 807 | 85.9% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1092,7 +1092,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 8.1% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
 | RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 34.1% | ✅ ganada | +0.78 |
 | RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
