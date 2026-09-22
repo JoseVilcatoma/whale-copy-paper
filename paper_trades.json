@@ -148207,5 +148207,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790055454.6531594,
     "fills": 1
+  },
+  {
+    "timestamp": 1790055564,
+    "timestamp_added": 1790055564.8492184,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ibragim-ku-2026-09-21",
+    "title": "Korea Open: Alevtina Ibragimova vs Yeon-Woo Ku",
+    "outcome": "Yeon-Woo Ku",
+    "side": "BUY",
+    "whale_usd": 1563.2863889999999,
+    "whale_pct": 0.831,
+    "whale_value_at_open": 188042.6605,
+    "paper_stake_usd": 3.2,
+    "odds_at_bet": 56,
+    "fee_usd": 0.07,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790055564.849226,
+    "fills": 1
   }
 ]
