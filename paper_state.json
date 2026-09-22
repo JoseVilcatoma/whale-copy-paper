@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.48313525713834,
+  "bankroll": 77.37465138617061,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30150,6 +30150,21 @@
       "timestamp": 1790074492.2412875,
       "bankroll": 84.48,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao"
+    },
+    {
+      "timestamp": 1790074807.6579325,
+      "bankroll": 79.49,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790074807.758085,
+      "bankroll": 74.41,
+      "event": "lost: RN1 \u2014 Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790074807.9583697,
+      "bankroll": 77.37,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov"
     }
   ]
 }
