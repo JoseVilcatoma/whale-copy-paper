@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.74852477245452,
+  "bankroll": 81.61352477245451,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29870,6 +29870,11 @@
       "timestamp": 1790045633.0573132,
       "bankroll": 86.75,
       "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-1.5)"
+    },
+    {
+      "timestamp": 1790047838.8361874,
+      "bankroll": 81.61,
+      "event": "lost: ferrariChampions2026 \u2014 NYG vs. LA: O/U 48.5"
     }
   ]
 }

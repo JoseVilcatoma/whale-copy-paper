@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 22:29:17 (hora de Perú)
+Actualizado: 2026-09-21 22:31:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.75
-**Retorno acumulado:** -82.65%
+**Bankroll actual:** $81.61
+**Retorno acumulado:** -83.68%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 22:29:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.86 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.89)
+**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 829 | 510 | 8 | -245.18 USD |
+| ferrariChampions2026 | 829 | 511 | 7 | -250.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5756
+- **Apuestas resueltas:** 5757
 - **Aciertos:** 3620 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,557.49
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $528.58 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,562.49
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $528.71 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2963 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2964 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1680 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 796 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
@@ -1072,7 +1072,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
 | Flaznorp | Spread: CA Lanús (-2.5) | Estudiantes de La Plata (BUY) | 97% | 5.00 | 1.1% | ✅ ganada | +0.15 |
 | Flaznorp | Central Espanol FC vs. Montevideo City T | Under (BUY) | 63% | 4.67 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | NYG vs. LA: O/U 48.5 | Over (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | NYG vs. LA: O/U 48.5 | Over (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 4.3% | ✅ ganada | +0.15 |
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ✅ ganada | +3.37 |
