@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.1875408095617,
+  "bankroll": 89.6829254249463,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29970,6 +29970,11 @@
       "timestamp": 1790058530.7147746,
       "bankroll": 85.19,
       "event": "won: Flaznorp \u2014 Will Cuiab\u00e1 EC win on 2026-09-21?"
+    },
+    {
+      "timestamp": 1790059729.1594176,
+      "bankroll": 89.68,
+      "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Sakura Hosogi vs Natsuki Yoshimoto"
     }
   ]
 }
