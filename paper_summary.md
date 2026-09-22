@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 09:11:37 (hora de Perú)
+Actualizado: 2026-09-22 09:13:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $76.16
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 09:11:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.86 en 12 posiciones abiertas (disponible para nuevas apuestas: $16.30)
+**Capital comprometido ahora mismo:** $69.86 en 14 posiciones abiertas (disponible para nuevas apuestas: $6.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,13 +161,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 170 | 65 | 0 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 627 | 298 | 5 | -31.89 USD |
+| RN1 | 627 | 298 | 6 | -31.89 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 855 | 526 | 5 | -237.63 USD |
+| ferrariChampions2026 | 855 | 526 | 6 | -237.63 USD |
 
 ## Análisis general
 
@@ -1076,7 +1076,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 9.9% | ⏳ pendiente | — |
+| RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 22.4% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1104,5 +1106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 19.8% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | W50 Plovdiv: Nellie Taraba Wallberg vs S | Nellie Taraba Wallberg (BUY) | 65% | 4.10 | 0.5% | ❌ perdida | -4.17 |
-| RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 7.4% | ✅ ganada | +1.69 |
