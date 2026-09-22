@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:11:10 (hora de Perú)
+Actualizado: 2026-09-22 12:13:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.29
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 12:11:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.09 en 14 posiciones abiertas (disponible para nuevas apuestas: $10.20)
+**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 862 | 531 | 8 | -240.31 USD |
+| ferrariChampions2026 | 862 | 531 | 10 | -240.31 USD |
 
 ## Análisis general
 
@@ -1075,11 +1075,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kjaer-harris-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-palicov-linana-2026-09-21 | HMLSF, ferrariChampions2026 |
 | atp-mayot-boulais-2026-09-22 | Flaznorp, RN1, ferrariChampions2026 |
+| mlb-tb-nyy-2026-05-23 | Donkey14, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 5.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -1108,5 +1111,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
 | RN1 | W50 Yecla: Miriana Tona vs Ashley Lahey | Miriana Tona (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
-| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 6.7% | ❌ perdida | -3.80 |
-| ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ✅ ganada | +5.51 |
