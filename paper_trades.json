@@ -147559,8 +147559,8 @@
     "title": "Spread: CA Lan\u00fas (-2.5)",
     "outcome": "Estudiantes de La Plata",
     "side": "BUY",
-    "whale_usd": 2512.069987,
-    "whale_pct": 0.885,
+    "whale_usd": 3215.569987,
+    "whale_pct": 1.133,
     "whale_value_at_open": 283740.3486,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -147571,8 +147571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790041402.436409,
-    "fills": 3
+    "last_fill_at": 1790041869.4679716,
+    "fills": 4
   },
   {
     "timestamp": 1790036618,
