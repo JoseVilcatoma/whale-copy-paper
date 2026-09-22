@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.6829254249463,
+  "bankroll": 86.07405981229807,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29975,6 +29975,26 @@
       "timestamp": 1790059729.1594176,
       "bankroll": 89.68,
       "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Sakura Hosogi vs Natsuki Yoshimoto"
+    },
+    {
+      "timestamp": 1790060737.7149467,
+      "bankroll": 91.85,
+      "event": "won: RN1 \u2014 Korea Open: Anna Bondar vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1790060737.8150923,
+      "bankroll": 88.68,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1790060738.3158102,
+      "bankroll": 83.58,
+      "event": "lost: RN1 \u2014 Korea Open: Anna Bondar vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1790060738.5160527,
+      "bankroll": 86.07,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Renata Zarazua"
     }
   ]
 }

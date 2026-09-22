@@ -147902,8 +147902,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -147950,8 +147950,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.073,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.17,
     "overlaps_with": [
       "RN1"
     ],
@@ -148124,8 +148124,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -148198,8 +148198,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [
       "RN1"
     ],
@@ -148377,5 +148377,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790060236.1484756,
     "fills": 3
+  },
+  {
+    "timestamp": 1790060764,
+    "timestamp_added": 1790060764.569949,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-prozoro-costoul-2026-09-20",
+    "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+    "outcome": "Sofia Costoulas",
+    "side": "BUY",
+    "whale_usd": 1087.034483,
+    "whale_pct": 0.767,
+    "whale_value_at_open": 141719.3685,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790060764.569959,
+    "fills": 1
   }
 ]
