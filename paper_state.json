@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.68818624907969,
+  "bankroll": 77.72402575525253,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30005,6 +30005,16 @@
       "timestamp": 1790061304.1739008,
       "bankroll": 81.69,
       "event": "won: ferrariChampions2026 \u2014 Singapore Open: Alycia Parks vs Mei Yamaguchi"
+    },
+    {
+      "timestamp": 1790061368.6980085,
+      "bankroll": 82.81,
+      "event": "won: RN1 \u2014 W50 Nanao: Natsumi Kawaguchi vs Kayo Nishimura"
+    },
+    {
+      "timestamp": 1790061430.2416565,
+      "bankroll": 77.72,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Petr Bar Biryukov vs Andre Ilagan"
     }
   ]
 }
