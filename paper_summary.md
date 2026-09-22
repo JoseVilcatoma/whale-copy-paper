@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 13:08:35 (hora de Perú)
+Actualizado: 2026-09-22 13:10:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.70
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 13:08:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $11.61)
+**Capital comprometido ahora mismo:** $89.09 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 172 | 65 | 0 | -19.89 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| GoalLineGhost | 102 | 46 | 2 | -25.50 USD |
+| GoalLineGhost | 102 | 46 | 3 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 864 | 531 | 10 | -230.42 USD |
+| ferrariChampions2026 | 864 | 531 | 11 | -230.42 USD |
 
 ## Análisis general
 
@@ -1081,7 +1081,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Jack Karlsson Wistrand (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 2.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -1109,5 +1111,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 34.1% | ✅ ganada | +0.78 |
-| RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
-| RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ❌ perdida | -5.09 |
