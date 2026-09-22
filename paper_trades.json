@@ -150242,8 +150242,8 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 59017.282811000005,
-    "whale_pct": 38.034,
+    "whale_usd": 63346.30717300001,
+    "whale_pct": 40.823,
     "whale_value_at_open": 155171.6684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -150256,8 +150256,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790098664.7435641,
-    "fills": 11
+    "last_fill_at": 1790099248.805567,
+    "fills": 12
   },
   {
     "timestamp": 1790097180,
