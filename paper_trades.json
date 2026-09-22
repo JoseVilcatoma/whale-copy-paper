@@ -149899,8 +149899,8 @@
     "title": "Ankara: Marie Vogt vs Elena Ruxandra Bertea",
     "outcome": "Elena Ruxandra Bertea",
     "side": "BUY",
-    "whale_usd": 4165.490527,
-    "whale_pct": 2.772,
+    "whale_usd": 5093.726427,
+    "whale_pct": 3.39,
     "whale_value_at_open": 150277.1335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -149911,8 +149911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790092000.1580021,
-    "fills": 3
+    "last_fill_at": 1790092494.006119,
+    "fills": 4
   },
   {
     "timestamp": 1790090573,
