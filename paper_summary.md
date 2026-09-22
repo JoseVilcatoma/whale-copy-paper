@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 10:42:56 (hora de Perú)
+Actualizado: 2026-09-22 10:45:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.42
@@ -1085,7 +1085,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
+| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Aurora Zantedeschi vs Marta L | Marta Lombardini (BUY) | 58% | 5.00 | 0.3% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | W50 Yecla: Isis Louise Van den Broek vs  | Diletta Cherubini (BUY) | 61% | 4.14 | 0.2% | ✅ ganada | +2.57 |
