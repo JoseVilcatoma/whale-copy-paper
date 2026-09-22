@@ -150754,8 +150754,8 @@
     "title": "San Diego 2: Jack Kennedy vs Liam Draxl",
     "outcome": "Liam Draxl",
     "side": "BUY",
-    "whale_usd": 9520.830399999999,
-    "whale_pct": 2.651,
+    "whale_usd": 10060.01896,
+    "whale_pct": 2.801,
     "whale_value_at_open": 359204.2764,
     "paper_stake_usd": 4.57,
     "odds_at_bet": 85,
@@ -150766,7 +150766,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790114239.4154332,
-    "fills": 1
+    "last_fill_at": 1790115046.4403632,
+    "fills": 2
   }
 ]
