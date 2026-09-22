@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.10075358245972,
+  "bankroll": 81.9631947589303,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30110,6 +30110,21 @@
       "timestamp": 1790069217.9824057,
       "bankroll": 82.1,
       "event": "won: RN1 \u2014 Singapore Open: Tatiana Prozorova vs Sofia Costoulas"
+    },
+    {
+      "timestamp": 1790069970.4893918,
+      "bankroll": 84.82,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Jelena Ostapenko vs Anastasia Zakharova"
+    },
+    {
+      "timestamp": 1790069970.5895338,
+      "bankroll": 79.69,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Jelena Ostapenko vs Anastasia Zakharova"
+    },
+    {
+      "timestamp": 1790069970.6896749,
+      "bankroll": 81.96,
+      "event": "won: RN1 \u2014 Korea Open: Jelena Ostapenko vs Anastasia Zakharova"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 04:37:31 (hora de Perú)
+Actualizado: 2026-09-22 04:39:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.10
-**Retorno acumulado:** -83.58%
+**Bankroll actual:** $81.96
+**Retorno acumulado:** -83.61%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 04:37:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.10 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $67.10 en 14 posiciones abiertas (disponible para nuevas apuestas: $14.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -140,13 +140,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
+| RN1 | 622 | 291 | 4 | -9.48 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 621 | 291 | 5 | -11.75 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -167,17 +167,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 844 | 520 | 10 | -240.09 USD |
+| ferrariChampions2026 | 845 | 521 | 8 | -242.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5804
-- **Aciertos:** 3650 (62.9%)
+- **Apuestas resueltas:** 5807
+- **Aciertos:** 3652 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,782.20
+- **Total apostado (suma de stakes):** $28,797.20
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $532.79 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $533.09 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -186,8 +186,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2987 | 49.7% | 50.1% | -0.3 pp |
-| 60-79% | 1696 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 2988 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1698 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1083,12 +1083,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | Harry Wendelken (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
-| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ⏳ pendiente | — |
+| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ✅ ganada | +2.27 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ✅ ganada | +4.32 |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ❌ perdida | -5.13 |
+| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ❌ perdida | -2.36 |
 | ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ❌ perdida | -5.13 |
