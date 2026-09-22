@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.55216396376962,
+  "bankroll": 66.46216396376961,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30330,6 +30330,11 @@
       "timestamp": 1790094284.052079,
       "bankroll": 71.55,
       "event": "lost: ferrariChampions2026 \u2014 Buenos Aires 2: Matheus Pucinelli de Almeida vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1790094347.6973786,
+      "bankroll": 66.46,
+      "event": "lost: RN1 \u2014 Counter-Strike: B8 vs Luminosity - Map 2 Winner"
     }
   ]
 }

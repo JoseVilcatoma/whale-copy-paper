@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 11:24:49 (hora de Perú)
+Actualizado: 2026-09-22 11:26:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $71.55
-**Retorno acumulado:** -85.69%
+**Bankroll actual:** $66.46
+**Retorno acumulado:** -86.71%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 11:24:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.86 en 14 posiciones abiertas (disponible para nuevas apuestas: $1.69)
+**Capital comprometido ahora mismo:** $64.86 en 13 posiciones abiertas (disponible para nuevas apuestas: $1.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,8 +162,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 170 | 65 | 2 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 628 | 299 | 4 | -36.31 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
+| RN1 | 628 | 300 | 3 | -41.40 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
@@ -171,14 +171,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5848
+- **Apuestas resueltas:** 5849
 - **Aciertos:** 3677 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,988.33
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $536.47 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,993.33
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $536.56 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3008 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1713 | 68.7% | 67.9% | +0.8 pp |
+| 60-79% | 1714 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 807 | 85.9% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1095,7 +1095,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 34.1% | ✅ ganada | +0.78 |
 | RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
 | RN1 | W50 Yecla: Miriana Tona vs Ashley Lahey | Miriana Tona (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
