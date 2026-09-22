@@ -150050,8 +150050,8 @@
     "title": "Spread: New York Yankees (-1.5)",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 1915.52,
-    "whale_pct": 3.062,
+    "whale_usd": 2860.8,
+    "whale_pct": 4.573,
     "whale_value_at_open": 62559.7266,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -150062,8 +150062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790095595.8580914,
-    "fills": 2
+    "last_fill_at": 1790096148.898246,
+    "fills": 3
   },
   {
     "timestamp": 1790095589,
@@ -150146,8 +150146,8 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 1164.06,
-    "whale_pct": 1.638,
+    "whale_usd": 4755.116191,
+    "whale_pct": 6.693,
     "whale_value_at_open": 71048.3203,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -150158,7 +150158,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790096008.968727,
-    "fills": 2
+    "last_fill_at": 1790096144.2292957,
+    "fills": 5
+  },
+  {
+    "timestamp": 1790096113,
+    "timestamp_added": 1790096114.1852632,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-karma1-wistra1-2026-09-22",
+    "title": "M25 Falun: Noah Karma vs Jack Karlsson Wistrand",
+    "outcome": "Noah Karma",
+    "side": "BUY",
+    "whale_usd": 6647.093999999999,
+    "whale_pct": 4.45,
+    "whale_value_at_open": 149363.3921,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790096161.5279598,
+    "fills": 3
   }
 ]
