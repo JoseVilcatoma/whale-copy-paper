@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 06:55:10 (hora de Perú)
+Actualizado: 2026-09-22 06:57:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 06:55:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.06 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.07)
+**Capital comprometido ahora mismo:** $65.06 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 850 | 525 | 5 | -250.53 USD |
+| ferrariChampions2026 | 850 | 525 | 6 | -250.53 USD |
 
 ## Análisis general
 
@@ -1069,13 +1069,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-carbaj1-petrov1-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-su-dellave-2026-09-22 | RN1, ferrariChampions2026 |
 | wta-pridank-egorova-2026-09-22 | HMLSF, RN1, ferrariChampions2026 |
+| wta-kubka-cengiz-2026-09-22 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 3.3% | ⏳ pendiente | — |
+| RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ✅ ganada | +2.45 |
@@ -1103,4 +1105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ✅ ganada | +4.32 |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ❌ perdida | -5.13 |
