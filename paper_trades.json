@@ -148241,8 +148241,8 @@
     "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
     "outcome": "Sofia Costoulas",
     "side": "BUY",
-    "whale_usd": 2400.0,
-    "whale_pct": 4.039,
+    "whale_usd": 9068.781500000001,
+    "whale_pct": 15.262,
     "whale_value_at_open": 59419.5949,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -148253,8 +148253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790056666.20941,
-    "fills": 1
+    "last_fill_at": 1790060932.021572,
+    "fills": 3
   },
   {
     "timestamp": 1790056892,
@@ -148402,6 +148402,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790060764.569959,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790060820,
+    "timestamp_added": 1790060821.390167,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-weber-matsuok-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "whale_usd": 13937.8448,
+    "whale_pct": 10.42,
+    "whale_value_at_open": 133758.665,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790060852.7006962,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790060820,
+    "timestamp_added": 1790060821.820659,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-weber-matsuok-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka",
+    "outcome": "Hayato Matsuoka",
+    "side": "BUY",
+    "whale_usd": 3136.25,
+    "whale_pct": 2.673,
+    "whale_value_at_open": 117349.0124,
+    "paper_stake_usd": 4.49,
+    "odds_at_bet": 66,
+    "fee_usd": 0.076,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790060821.820667,
     "fills": 1
   }
 ]
