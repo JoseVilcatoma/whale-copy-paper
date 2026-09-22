@@ -149817,5 +149817,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790086566.8100948,
     "fills": 1
+  },
+  {
+    "timestamp": 1790086982,
+    "timestamp_added": 1790086983.1028047,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-zantede-lombard-2026-09-21",
+    "title": "Tolentino: Aurora Zantedeschi vs Marta Lombardini",
+    "outcome": "Marta Lombardini",
+    "side": "BUY",
+    "whale_usd": 539.1590239999999,
+    "whale_pct": 0.282,
+    "whale_value_at_open": 191416.2636,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790086983.1028154,
+    "fills": 1
   }
 ]
