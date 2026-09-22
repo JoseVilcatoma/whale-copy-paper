@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.69028517287097,
+  "bankroll": 85.16279066737647,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30505,6 +30505,11 @@
       "timestamp": 1790117956.5428736,
       "bankroll": 84.69,
       "event": "won: GoalLineGhost \u2014 Will HB K\u00f8ge win on 2026-09-22?"
+    },
+    {
+      "timestamp": 1790121480.0313067,
+      "bankroll": 85.16,
+      "event": "won: Flaznorp \u2014 W50 Berkeley, CA: Madison Brengle vs Anne Christine Lutkemeyer"
     }
   ]
 }
