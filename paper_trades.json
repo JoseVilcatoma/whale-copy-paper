@@ -150816,5 +150816,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790115364.739748,
     "fills": 1
+  },
+  {
+    "timestamp": 1790117361,
+    "timestamp_added": 1790117362.1979384,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-det-2026-09-22-spread-home-1pt5",
+    "title": "Spread: Detroit Tigers (-1.5)",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 1980.1010210000002,
+    "whale_pct": 0.62,
+    "whale_value_at_open": 319290.8943,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790117362.19795,
+    "fills": 1
   }
 ]
