@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:18:40 (hora de Perú)
+Actualizado: 2026-09-22 00:20:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.96
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 00:18:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.72 en 12 posiciones abiertas (disponible para nuevas apuestas: $19.24)
+**Capital comprometido ahora mismo:** $66.72 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Elaran1993 | 3 | 1 | 0 | +4.70 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| kkookkoo | 3 | 1 | 0 | +4.14 USD |
+| kkookkoo | 3 | 1 | 1 | +4.14 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 834 | 514 | 5 | -243.99 USD |
+| ferrariChampions2026 | 834 | 514 | 6 | -243.99 USD |
 
 ## Análisis general
 
@@ -1056,15 +1056,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hassan-tiffon-2026-09-21 | ferrariChampions2026, kkookkoo |
 | wta-bondar-zarazua-2026-09-20 | RN1, ferrariChampions2026 |
 | wta-park-montgom-2026-09-20 | RN1, ferrariChampions2026 |
+| atp-muller-pavlovi-2026-09-21 | ferrariChampions2026, kkookkoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 1.3% | ⏳ pendiente | — |
+| kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 5.4% | ⏳ pendiente | — |
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1089,5 +1092,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ✅ ganada | +3.37 |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ✅ ganada | +0.77 |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ✅ ganada | +3.76 |
-| ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ✅ ganada | +0.36 |
-| GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |

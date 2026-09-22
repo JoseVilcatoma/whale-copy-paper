@@ -147969,8 +147969,8 @@
     "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
     "outcome": "So-Hyun Park",
     "side": "BUY",
-    "whale_usd": 11033.930667,
-    "whale_pct": 4.383,
+    "whale_usd": 15373.948667,
+    "whale_pct": 6.107,
     "whale_value_at_open": 251761.3871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -147981,8 +147981,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790053687.7899323,
-    "fills": 2
+    "last_fill_at": 1790054387.713654,
+    "fills": 3
   },
   {
     "timestamp": 1790053686,
@@ -147993,8 +147993,8 @@
     "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
     "outcome": "So-Hyun Park",
     "side": "BUY",
-    "whale_usd": 10285.145867,
-    "whale_pct": 3.466,
+    "whale_usd": 12672.404867,
+    "whale_pct": 4.27,
     "whale_value_at_open": 296779.5241,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -148007,8 +148007,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790053729.5698097,
-    "fills": 3
+    "last_fill_at": 1790054372.553361,
+    "fills": 4
   },
   {
     "timestamp": 1790054165,
@@ -148056,6 +148056,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790054166.7958045,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790054330,
+    "timestamp_added": 1790054330.3409648,
+    "username": "kkookkoo",
+    "wallet": "0x26b46988d027c6c03cfa12a7c0c6d778be49b8a9",
+    "slug": "atp-muller-pavlovi-2026-09-21",
+    "title": "Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "whale_usd": 32110.084172999996,
+    "whale_pct": 45569.036,
+    "whale_value_at_open": 70.4647,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790054354.3537421,
+    "fills": 8
+  },
+  {
+    "timestamp": 1790054401,
+    "timestamp_added": 1790054401.2007375,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-parks-yamaguc-2026-09-22",
+    "title": "Singapore Open: Alycia Parks vs Mei Yamaguchi",
+    "outcome": "Alycia Parks",
+    "side": "BUY",
+    "whale_usd": 2005.9404999999997,
+    "whale_pct": 1.252,
+    "whale_value_at_open": 160278.5637,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790054401.2007475,
     "fills": 1
   }
 ]
