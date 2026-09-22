@@ -150308,5 +150308,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790097793.2471523,
     "fills": 2
+  },
+  {
+    "timestamp": 1790100203,
+    "timestamp_added": 1790100204.3571796,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uwcl-bm-mci-2026-09-22-mci",
+    "title": "Will Manchester City WFC win on 2026-09-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3052.7298,
+    "whale_pct": 2.246,
+    "whale_value_at_open": 135903.7138,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790100204.9097593,
+    "fills": 4
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 13:02:26 (hora de Perú)
+Actualizado: 2026-09-22 13:04:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 13:02:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $13.77)
+**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 172 | 65 | 0 | -19.89 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| GoalLineGhost | 102 | 46 | 1 | -25.50 USD |
+| GoalLineGhost | 102 | 46 | 2 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1081,6 +1081,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 87.9% | ⏳ pendiente | — |
@@ -1110,4 +1111,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
 | RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
