@@ -149875,8 +149875,8 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 1935.396409,
-    "whale_pct": 12.051,
+    "whale_usd": 6901.596409000001,
+    "whale_pct": 42.975,
     "whale_value_at_open": 16059.5057,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -149887,8 +149887,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790091799.0586112,
-    "fills": 2
+    "last_fill_at": 1790093240.9251032,
+    "fills": 5
   },
   {
     "timestamp": 1790089461,
@@ -149999,8 +149999,8 @@
     "title": "St. Tropez: Harold Mayot vs Justin Boulais",
     "outcome": "Justin Boulais",
     "side": "BUY",
-    "whale_usd": 10406.560540999999,
-    "whale_pct": 5.348,
+    "whale_usd": 18895.011741,
+    "whale_pct": 9.71,
     "whale_value_at_open": 194585.0552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -150014,7 +150014,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790092759.2052674,
-    "fills": 5
+    "last_fill_at": 1790093168.034054,
+    "fills": 6
   }
 ]
