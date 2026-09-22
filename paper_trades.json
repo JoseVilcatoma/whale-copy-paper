@@ -148339,8 +148339,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te",
     "outcome": "Bernard Tomic",
     "side": "BUY",
-    "whale_usd": 2939.7875000000004,
-    "whale_pct": 2.597,
+    "whale_usd": 6681.77,
+    "whale_pct": 5.902,
     "whale_value_at_open": 113215.4388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -148351,8 +148351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062775.7256813,
-    "fills": 2
+    "last_fill_at": 1790062822.4413264,
+    "fills": 3
   },
   {
     "timestamp": 1790059777,
@@ -148363,8 +148363,8 @@
     "title": "Korea Open: Tamara Zidansek vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 14904.750205,
-    "whale_pct": 17.968,
+    "whale_usd": 16263.294993,
+    "whale_pct": 19.606,
     "whale_value_at_open": 82949.8075,
     "paper_stake_usd": 4.49,
     "odds_at_bet": 71,
@@ -148375,8 +148375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062567.6157513,
-    "fills": 5
+    "last_fill_at": 1790062898.9495308,
+    "fills": 6
   },
   {
     "timestamp": 1790060764,
@@ -148502,6 +148502,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790061410.1950967,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790062823,
+    "timestamp_added": 1790062823.908827,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-uemura1-murama1-2026-09-22",
+    "title": "W50 Nanao: Mutsumi Uemura vs Chihiro Muramatsu",
+    "outcome": "Chihiro Muramatsu",
+    "side": "BUY",
+    "whale_usd": 586.506667,
+    "whale_pct": 0.33,
+    "whale_value_at_open": 177800.0043,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790062823.9088368,
     "fills": 1
   }
 ]
