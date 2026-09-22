@@ -148167,8 +148167,8 @@
     "title": "W50 Nanao: Sakura Hosogi vs Natsuki Yoshimoto",
     "outcome": "Sakura Hosogi",
     "side": "BUY",
-    "whale_usd": 2990.3999999999996,
-    "whale_pct": 1.443,
+    "whale_usd": 4160.9603,
+    "whale_pct": 2.007,
     "whale_value_at_open": 207292.6206,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -148179,8 +148179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790055375.6320825,
-    "fills": 3
+    "last_fill_at": 1790056160.906628,
+    "fills": 4
   },
   {
     "timestamp": 1790055453,
