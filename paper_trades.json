@@ -148019,8 +148019,8 @@
     "title": "Chengdu Open, Qualification: Petr Bar Biryukov vs Andre Ilagan",
     "outcome": "Andre Ilagan",
     "side": "BUY",
-    "whale_usd": 1276.7733249999999,
-    "whale_pct": 0.795,
+    "whale_usd": 1803.234295,
+    "whale_pct": 1.122,
     "whale_value_at_open": 160658.7062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -148031,8 +148031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790054166.284316,
-    "fills": 1
+    "last_fill_at": 1790055690.350368,
+    "fills": 2
   },
   {
     "timestamp": 1790054165,
@@ -148117,8 +148117,8 @@
     "title": "Korea Open: Anna Bondar vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 4747.126,
-    "whale_pct": 3.642,
+    "whale_usd": 6521.126,
+    "whale_pct": 5.003,
     "whale_value_at_open": 130343.2171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148131,8 +148131,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790055275.8039281,
-    "fills": 6
+    "last_fill_at": 1790055749.3816133,
+    "fills": 8
   },
   {
     "timestamp": 1790054989,

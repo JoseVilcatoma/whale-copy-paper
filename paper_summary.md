@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:41:07 (hora de Perú)
+Actualizado: 2026-09-22 00:43:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.30
@@ -1066,11 +1066,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Nanao: Sakura Hosogi vs Natsuki Yosh | Sakura Hosogi (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
+| RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 1.3% | ⏳ pendiente | — |
 | kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 22.2% | ⏳ pendiente | — |
