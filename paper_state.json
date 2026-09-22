@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.53547585580199,
+  "bankroll": 81.51438494671108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30465,6 +30465,11 @@
       "timestamp": 1790113263.5411873,
       "bankroll": 77.54,
       "event": "won: ferrariChampions2026 \u2014 Genoa 2: Matthew William Donald vs Gianluca Cadenasso"
+    },
+    {
+      "timestamp": 1790114196.3729236,
+      "bankroll": 81.51,
+      "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. New York Yankees: O/U 7.5"
     }
   ]
 }

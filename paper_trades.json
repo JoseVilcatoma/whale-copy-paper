@@ -149614,8 +149614,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -150717,6 +150717,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790113268.25422,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790114198,
+    "timestamp_added": 1790114198.6657503,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-boyer-johnso-2026-09-22",
+    "title": "San Diego 2: Tristan Boyer vs Spencer Johnson",
+    "outcome": "Tristan Boyer",
+    "side": "BUY",
+    "whale_usd": 3640.4132,
+    "whale_pct": 1.013,
+    "whale_value_at_open": 359204.2764,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790114198.6657608,
     "fills": 1
   }
 ]

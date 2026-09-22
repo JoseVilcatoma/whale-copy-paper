@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 16:55:12 (hora de Perú)
+Actualizado: 2026-09-22 16:57:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $77.54
-**Retorno acumulado:** -84.49%
+**Bankroll actual:** $81.51
+**Retorno acumulado:** -83.70%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 16:55:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.60)
+**Capital comprometido ahora mismo:** $76.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $4.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 869 | 535 | 7 | -238.99 USD |
+| ferrariChampions2026 | 870 | 535 | 7 | -235.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5875
-- **Aciertos:** 3695 (62.9%)
+- **Apuestas resueltas:** 5876
+- **Aciertos:** 3696 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,119.87
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $538.88 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,124.87
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $538.99 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3019 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3020 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1724 | 68.6% | 67.9% | +0.8 pp |
 | 80-94% | 810 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 322 | 97.2% | 97.4% | -0.1 pp |
@@ -1078,11 +1078,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-mayot-boulais-2026-09-22 | Flaznorp, RN1, ferrariChampions2026 |
 | mlb-tb-nyy-2026-05-23 | Donkey14, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-22 | ferrariChampions2026, goshkam |
+| atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 9.1% | ⏳ pendiente | — |
 | Donkey14 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 62% | 4.68 | 22.2% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Tristan Boyer vs Spencer Jo | Spencer Johnson (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1112,4 +1114,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
 | Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 4.6% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 3.4% | ✅ ganada | +2.84 |
-| ferrariChampions2026 | St. Tropez: Harold Mayot vs Justin Boula | Justin Boulais (BUY) | 50% | 5.00 | 9.7% | ❌ perdida | -5.12 |
