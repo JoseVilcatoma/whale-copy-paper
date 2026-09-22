@@ -149923,8 +149923,8 @@
     "title": "St. Tropez: Nicolai Budkov Kjaer vs Billy Harris",
     "outcome": "Nicolai Budkov Kjaer",
     "side": "BUY",
-    "whale_usd": 10120.8881,
-    "whale_pct": 5.523,
+    "whale_usd": 12410.012761,
+    "whale_pct": 6.772,
     "whale_value_at_open": 183249.0718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -149937,8 +149937,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790093781.6956983,
-    "fills": 5
+    "last_fill_at": 1790094007.2333944,
+    "fills": 7
   },
   {
     "timestamp": 1790090582,
