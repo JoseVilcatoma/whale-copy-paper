@@ -150122,8 +150122,8 @@
     "title": "St. Tropez: Matteo Martineau vs Tristan Schoolkate",
     "outcome": "Matteo Martineau",
     "side": "BUY",
-    "whale_usd": 512.364,
-    "whale_pct": 0.343,
+    "whale_usd": 4312.188,
+    "whale_pct": 2.889,
     "whale_value_at_open": 149262.3097,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -150134,8 +150134,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790095756.8012636,
-    "fills": 1
+    "last_fill_at": 1790097488.8577778,
+    "fills": 3
   },
   {
     "timestamp": 1790095976,

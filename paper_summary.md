@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:17:17 (hora de Perú)
+Actualizado: 2026-09-22 12:19:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.29
@@ -1087,7 +1087,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Matteo Martineau vs Tristan  | Matteo Martineau (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Matteo Martineau vs Tristan  | Matteo Martineau (BUY) | 41% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 4.6% | ⏳ pendiente | — |
