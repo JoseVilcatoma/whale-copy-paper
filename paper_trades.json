@@ -148585,8 +148585,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
     "outcome": "Anastasia Zakharova",
     "side": "BUY",
-    "whale_usd": 1304.9918,
-    "whale_pct": 0.784,
+    "whale_usd": 2626.9918,
+    "whale_pct": 1.579,
     "whale_value_at_open": 166358.4015,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -148597,7 +148597,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790064142.3243036,
-    "fills": 2
+    "last_fill_at": 1790064375.6127615,
+    "fills": 3
+  },
+  {
+    "timestamp": 1790064443,
+    "timestamp_added": 1790064443.3663945,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-vekic-wa-2026-09-20",
+    "title": "Singapore Open: Donna Vekic vs Xinyu Wang",
+    "outcome": "Xinyu Wang",
+    "side": "BUY",
+    "whale_usd": 1492.0793999999999,
+    "whale_pct": 1.48,
+    "whale_value_at_open": 100811.6069,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790064443.3664038,
+    "fills": 1
   }
 ]
