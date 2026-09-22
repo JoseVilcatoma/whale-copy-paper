@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.40769626846578,
+  "bankroll": 66.20351979787755,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30250,6 +30250,11 @@
       "timestamp": 1790085665.804163,
       "bankroll": 64.41,
       "event": "won: RN1 \u2014 W50 Yecla: Miriana Tona vs Ashley Lahey"
+    },
+    {
+      "timestamp": 1790085979.1506722,
+      "bankroll": 66.2,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Fiona Crawley vs Carole Monnet"
     }
   ]
 }
