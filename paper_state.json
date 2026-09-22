@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.78521348323227,
+  "bankroll": 81.30416085165332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29950,6 +29950,11 @@
       "timestamp": 1790054451.6586537,
       "bankroll": 79.79,
       "event": "won: RN1 \u2014 Spread: Rams (-7.5)"
+    },
+    {
+      "timestamp": 1790055389.7670221,
+      "bankroll": 81.3,
+      "event": "won: RN1 \u2014 M25 Yinchuan: Kazuki Nakajima vs Ivan Dorokhov"
     }
   ]
 }
