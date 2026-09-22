@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:12:32 (hora de Perú)
+Actualizado: 2026-09-22 00:14:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $76.71
@@ -1063,7 +1063,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 4.0% | ⏳ pendiente | — |
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 1.6% | ✅ ganada | +3.09 |
