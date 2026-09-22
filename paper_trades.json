@@ -150026,8 +150026,8 @@
     "title": "Plovdiv 4: Iliyan Radulov vs Pavel Lagutin",
     "outcome": "Iliyan Radulov",
     "side": "BUY",
-    "whale_usd": 6199.302044000001,
-    "whale_pct": 3.049,
+    "whale_usd": 6888.7006440000005,
+    "whale_pct": 3.388,
     "whale_value_at_open": 203331.9983,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -150038,8 +150038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790095596.0921247,
-    "fills": 2
+    "last_fill_at": 1790097875.7752483,
+    "fills": 3
   },
   {
     "timestamp": 1790095367,
@@ -150242,8 +150242,8 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 8021.881899999999,
-    "whale_pct": 5.17,
+    "whale_usd": 30147.1669,
+    "whale_pct": 19.428,
     "whale_value_at_open": 155171.6684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -150256,8 +150256,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790097172.406283,
-    "fills": 1
+    "last_fill_at": 1790097827.4415793,
+    "fills": 6
   },
   {
     "timestamp": 1790097180,

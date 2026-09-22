@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:23:24 (hora de Perú)
+Actualizado: 2026-09-22 12:25:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.81
@@ -1083,7 +1083,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 19.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -1092,7 +1092,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 4.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Harold Mayot vs Justin Boula | Justin Boulais (BUY) | 50% | 5.00 | 9.7% | ❌ perdida | -5.12 |
 | Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
