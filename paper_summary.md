@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:32:05 (hora de Perú)
+Actualizado: 2026-09-22 07:34:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.67
@@ -1075,7 +1075,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ✅ ganada | +0.71 |
