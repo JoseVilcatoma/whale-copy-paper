@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.9631947589303,
+  "bankroll": 79.99531720790989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30125,6 +30125,16 @@
       "timestamp": 1790069970.6896749,
       "bankroll": 81.96,
       "event": "won: RN1 \u2014 Korea Open: Jelena Ostapenko vs Anastasia Zakharova"
+    },
+    {
+      "timestamp": 1790071165.6129537,
+      "bankroll": 76.86,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: David Jorda Sanchis vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1790071165.713098,
+      "bankroll": 80.0,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: David Jorda Sanchis vs Harry Wendelken"
     }
   ]
 }
