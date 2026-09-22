@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:14:36 (hora de Perú)
+Actualizado: 2026-09-22 00:16:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $76.71
-**Retorno acumulado:** -84.66%
+**Bankroll actual:** $75.96
+**Retorno acumulado:** -84.81%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 00:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.72 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.99)
+**Capital comprometido ahora mismo:** $56.72 en 12 posiciones abiertas (disponible para nuevas apuestas: $19.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| maz26 | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -129,6 +128,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xabidaking | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
+| maz26 | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
@@ -147,9 +147,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 609 | 287 | 6 | -14.62 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 610 | 288 | 4 | -15.75 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 833 | 514 | 4 | -249.50 USD |
+| ferrariChampions2026 | 834 | 514 | 5 | -243.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5767
-- **Aciertos:** 3625 (62.9%)
+- **Apuestas resueltas:** 5771
+- **Aciertos:** 3627 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,607.11
+- **Total apostado (suma de stakes):** $28,627.11
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $529.64 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $530.12 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2970 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2974 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1683 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 797 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
@@ -1061,23 +1061,25 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 5.4% | ⏳ pendiente | — |
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 1.6% | ✅ ganada | +3.09 |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Under (BUY) | 50% | 5.00 | 0.4% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
-| RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury | Dallas Wings (BUY) | 80% | 5.00 | 0.8% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ✅ ganada | +3.98 |
 | Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 6.8% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ✅ ganada | +1.69 |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ❌ perdida | -2.64 |
-| ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
 | Flaznorp | Spread: CA Lanús (-2.5) | Estudiantes de La Plata (BUY) | 97% | 5.00 | 1.1% | ✅ ganada | +0.15 |
 | Flaznorp | Central Espanol FC vs. Montevideo City T | Under (BUY) | 63% | 4.67 | 0.3% | ❌ perdida | -4.76 |
@@ -1089,5 +1091,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ✅ ganada | +3.76 |
 | ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ✅ ganada | +0.36 |
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ✅ ganada | +0.84 |
-| Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ❌ perdida | -3.23 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.7093398533161,
+  "bankroll": 75.9575468165656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29925,6 +29925,26 @@
       "timestamp": 1790053371.383793,
       "bankroll": 76.71,
       "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. San Francisco Giants: O/U 9.5"
+    },
+    {
+      "timestamp": 1790054139.0604882,
+      "bankroll": 71.58,
+      "event": "lost: maz26 \u2014 Spread: Rams (-6.5)"
+    },
+    {
+      "timestamp": 1790054139.4781294,
+      "bankroll": 77.09,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Rams (-10.5)"
+    },
+    {
+      "timestamp": 1790054140.04855,
+      "bankroll": 81.07,
+      "event": "won: RN1 \u2014 Giants vs. Rams: O/U 39.5"
+    },
+    {
+      "timestamp": 1790054140.1486955,
+      "bankroll": 75.96,
+      "event": "lost: RN1 \u2014 Giants vs. Rams: O/U 39.5"
     }
   ]
 }
