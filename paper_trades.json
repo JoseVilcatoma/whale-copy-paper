@@ -148117,8 +148117,8 @@
     "title": "Korea Open: Anna Bondar vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 3928.5099999999998,
-    "whale_pct": 3.014,
+    "whale_usd": 4747.126,
+    "whale_pct": 3.642,
     "whale_value_at_open": 130343.2171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148131,8 +148131,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790055174.996105,
-    "fills": 5
+    "last_fill_at": 1790055275.8039281,
+    "fills": 6
   },
   {
     "timestamp": 1790054989,
@@ -148156,6 +148156,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790054989.3235092,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790055281,
+    "timestamp_added": 1790055282.1769814,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-hosogi1-yoshim1-2026-09-22",
+    "title": "W50 Nanao: Sakura Hosogi vs Natsuki Yoshimoto",
+    "outcome": "Sakura Hosogi",
+    "side": "BUY",
+    "whale_usd": 561.51,
+    "whale_pct": 0.271,
+    "whale_value_at_open": 207292.6206,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790055282.1769907,
     "fills": 1
   }
 ]
