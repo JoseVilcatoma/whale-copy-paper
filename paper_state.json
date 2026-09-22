@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.72267318664943,
+  "bankroll": 71.67267318664943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29905,6 +29905,11 @@
       "timestamp": 1790052558.907674,
       "bankroll": 76.72,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Eva Lys vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790052747.7056637,
+      "bankroll": 71.67,
+      "event": "lost: ferrariChampions2026 \u2014 Dallas Wings vs. Phoenix Mercury"
     }
   ]
 }
