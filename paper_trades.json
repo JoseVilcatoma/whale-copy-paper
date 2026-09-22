@@ -148761,8 +148761,8 @@
     "title": "St. Tropez: David Jorda Sanchis vs Harry Wendelken",
     "outcome": "David Jorda Sanchis",
     "side": "BUY",
-    "whale_usd": 3845.2728,
-    "whale_pct": 3.415,
+    "whale_usd": 7223.608343,
+    "whale_pct": 6.416,
     "whale_value_at_open": 112595.1513,
     "paper_stake_usd": 3.09,
     "odds_at_bet": 49,
@@ -148773,8 +148773,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790067149.7235098,
-    "fills": 3
+    "last_fill_at": 1790067667.3544004,
+    "fills": 5
   },
   {
     "timestamp": 1790066643,
