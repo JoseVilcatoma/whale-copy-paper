@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.7713259172065,
+  "bankroll": 83.54026957917833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30085,6 +30085,11 @@
       "timestamp": 1790068337.9148958,
       "bankroll": 81.77,
       "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Max Wiskandt vs Andrey Chepelev"
+    },
+    {
+      "timestamp": 1790068904.8223875,
+      "bankroll": 83.54,
+      "event": "won: RN1 \u2014 Korea Open: Tamara Zidansek vs Kimberly Birrell"
     }
   ]
 }

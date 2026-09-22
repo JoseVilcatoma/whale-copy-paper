@@ -148370,8 +148370,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.065,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.77,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 16751.5091,
-    "whale_pct": 16.9,
+    "whale_usd": 18776.5285,
+    "whale_pct": 18.943,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790068775.0799809,
-    "fills": 5
+    "last_fill_at": 1790068873.38688,
+    "fills": 6
   },
   {
     "timestamp": 1790067412,
@@ -148873,5 +148873,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790067412.6139264,
     "fills": 1
+  },
+  {
+    "timestamp": 1790068918,
+    "timestamp_added": 1790068918.795732,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-casteln-kotov-2026-09-21",
+    "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
+    "outcome": "Pavel Kotov",
+    "side": "BUY",
+    "whale_usd": 10022.7421,
+    "whale_pct": 7.065,
+    "whale_value_at_open": 141870.5524,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790068937.120168,
+    "fills": 2
   }
 ]
