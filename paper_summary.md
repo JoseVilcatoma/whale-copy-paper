@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 15:33:39 (hora de Perú)
+Actualizado: 2026-09-22 15:35:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.35
-**Retorno acumulado:** -83.73%
+**Bankroll actual:** $77.69
+**Retorno acumulado:** -84.46%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 15:33:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.35 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $76.35 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -115,7 +115,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| Donkey14 | 2 | 3 | 3 | -3.60 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -132,6 +131,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | maz26 | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
+| Donkey14 | 3 | 4 | 1 | -5.36 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 172 | 65 | 0 | -19.89 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| GoalLineGhost | 102 | 46 | 3 | -25.50 USD |
+| GoalLineGhost | 102 | 46 | 6 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 866 | 533 | 10 | -239.77 USD |
+| ferrariChampions2026 | 867 | 534 | 8 | -241.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5864
-- **Aciertos:** 3688 (62.9%)
+- **Apuestas resueltas:** 5868
+- **Aciertos:** 3690 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,068.19
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $537.95 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,088.19
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $538.42 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,8 +186,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3014 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1720 | 68.7% | 67.9% | +0.8 pp |
+| 40-59% | 3017 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1721 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 809 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 321 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1081,6 +1081,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Real Madrid CF Femenino win on 2026 | No (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves: O/U  | Under (BUY) | 41% | 2.26 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -1088,13 +1091,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
 | GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 90.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 90.3% | ✅ ganada | +3.23 |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ❌ perdida | -5.06 |
-| Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ⏳ pendiente | — |
+| Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | St. Tropez: Matteo Martineau vs Tristan  | Matteo Martineau (BUY) | 41% | 5.00 | 2.9% | ✅ ganada | +7.05 |
 | ferrariChampions2026 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
@@ -1105,9 +1108,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 3.4% | ✅ ganada | +5.73 |
-| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ⏳ pendiente | — |
+| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ❌ perdida | -3.87 |
 | ferrariChampions2026 | Tolentino: Aurora Zantedeschi vs Marta L | Marta Lombardini (BUY) | 58% | 5.00 | 0.3% | ✅ ganada | +3.52 |
-| ferrariChampions2026 | W50 Yecla: Isis Louise Van den Broek vs  | Diletta Cherubini (BUY) | 61% | 4.14 | 0.2% | ✅ ganada | +2.57 |
-| ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 8.1% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
