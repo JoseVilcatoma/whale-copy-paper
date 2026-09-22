@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:19:21 (hora de Perú)
+Actualizado: 2026-09-22 12:21:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $79.29
-**Retorno acumulado:** -84.14%
+**Bankroll actual:** $80.81
+**Retorno acumulado:** -83.84%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 12:19:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.20)
+**Capital comprometido ahora mismo:** $74.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 171 | 65 | 1 | -21.41 USD |
+| Flaznorp | 172 | 65 | 0 | -19.89 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | GoalLineGhost | 102 | 46 | 1 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -171,14 +171,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5857
-- **Aciertos:** 3683 (62.9%)
+- **Apuestas resueltas:** 5858
+- **Aciertos:** 3684 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,033.19
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $537.40 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,038.19
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $537.46 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3012 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1717 | 68.7% | 67.9% | +0.8 pp |
+| 60-79% | 1718 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 808 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1094,7 +1094,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Harold Mayot vs Justin Boula | Justin Boulais (BUY) | 50% | 5.00 | 9.7% | ❌ perdida | -5.12 |
 | Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
-| Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 3.4% | ✅ ganada | +5.73 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ⏳ pendiente | — |

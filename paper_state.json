@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.29269567146073,
+  "bankroll": 80.81164303988179,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30375,6 +30375,11 @@
       "timestamp": 1790097017.2977936,
       "bankroll": 79.29,
       "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Nicolai Budkov Kjaer vs Billy Harris"
+    },
+    {
+      "timestamp": 1790097641.4764407,
+      "bankroll": 80.81,
+      "event": "won: Flaznorp \u2014 Tolentino: Ekaterine Gorgodze vs Laura Pigossi"
     }
   ]
 }
