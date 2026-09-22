@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.53865054528339,
+  "bankroll": 88.7664821780345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30035,6 +30035,26 @@
       "timestamp": 1790064128.0177512,
       "bankroll": 81.54,
       "event": "lost: RN1 \u2014 Korea Open: Emerson Jones vs Yexin Ma"
+    },
+    {
+      "timestamp": 1790064315.83428,
+      "bankroll": 82.52,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1790064316.5020988,
+      "bankroll": 85.01,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1790064316.602251,
+      "bankroll": 87.25,
+      "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1790064316.7023902,
+      "bankroll": 88.77,
+      "event": "won: RN1 \u2014 Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau"
     }
   ]
 }
