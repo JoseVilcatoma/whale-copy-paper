@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:42:18 (hora de Perú)
+Actualizado: 2026-09-22 07:44:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 07:42:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.81 en 11 posiciones abiertas (disponible para nuevas apuestas: $6.76)
+**Capital comprometido ahora mismo:** $58.81 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 852 | 526 | 5 | -245.53 USD |
+| ferrariChampions2026 | 852 | 526 | 6 | -245.53 USD |
 
 ## Análisis general
 
@@ -1075,6 +1075,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 2.9% | ⏳ pendiente | — |
 | HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -1104,4 +1105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 11.8% | ❌ perdida | -4.99 |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ✅ ganada | +3.14 |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | Harry Wendelken (BUY) | 58% | 5.00 | 0.4% | ❌ perdida | -5.11 |
-| RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
