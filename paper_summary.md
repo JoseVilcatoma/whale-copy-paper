@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 23:26:18 (hora de Perú)
+Actualizado: 2026-09-21 23:28:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.67
-**Retorno acumulado:** -83.87%
+**Bankroll actual:** $75.91
+**Retorno acumulado:** -84.82%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 23:26:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.67 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $76.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,11 +155,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 102 | 45 | 1 | -20.40 USD |
-| Flaznorp | 169 | 64 | 2 | -23.14 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| Flaznorp | 169 | 65 | 1 | -27.90 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -170,14 +170,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5759
+- **Apuestas resueltas:** 5760
 - **Aciertos:** 3621 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,570.06
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $528.84 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,574.73
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $528.93 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2965 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1681 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1682 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 796 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1073,7 +1073,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
 | Flaznorp | Spread: CA Lanús (-2.5) | Estudiantes de La Plata (BUY) | 97% | 5.00 | 1.1% | ✅ ganada | +0.15 |
-| Flaznorp | Central Espanol FC vs. Montevideo City T | Under (BUY) | 63% | 4.67 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Central Espanol FC vs. Montevideo City T | Under (BUY) | 63% | 4.67 | 0.3% | ❌ perdida | -4.76 |
 | ferrariChampions2026 | NYG vs. LA: O/U 48.5 | Over (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 4.3% | ✅ ganada | +0.15 |

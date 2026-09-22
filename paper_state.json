@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.66728152921127,
+  "bankroll": 75.91128152921127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29885,6 +29885,11 @@
       "timestamp": 1790048215.228603,
       "bankroll": 80.67,
       "event": "lost: RN1 \u2014 Spread: LA (-9.5)"
+    },
+    {
+      "timestamp": 1790051299.6056876,
+      "bankroll": 75.91,
+      "event": "lost: Flaznorp \u2014 Central Espanol FC vs. Montevideo City Torque: O/U 4.5"
     }
   ]
 }
