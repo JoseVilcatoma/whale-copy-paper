@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.81161033526749,
+  "bankroll": 60.5713722400294,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30225,6 +30225,11 @@
       "timestamp": 1790080483.3310862,
       "bankroll": 53.81,
       "event": "lost: RN1 \u2014 W50 Yecla: Nahia Berecoechea vs Martha MATOULA"
+    },
+    {
+      "timestamp": 1790080793.1372325,
+      "bankroll": 60.57,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Alina Charaeva vs Sofia Kenin"
     }
   ]
 }
