@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:09:08 (hora de Perú)
+Actualizado: 2026-09-22 12:11:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $79.09
-**Retorno acumulado:** -84.18%
+**Bankroll actual:** $79.29
+**Retorno acumulado:** -84.14%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 12:09:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $69.09 en 14 posiciones abiertas (disponible para nuevas apuestas: $10.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,23 +161,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
+| RN1 | 631 | 300 | 0 | -32.14 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 630 | 300 | 1 | -37.43 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 862 | 530 | 9 | -235.22 USD |
+| ferrariChampions2026 | 862 | 531 | 8 | -240.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5855
-- **Aciertos:** 3682 (62.9%)
+- **Apuestas resueltas:** 5857
+- **Aciertos:** 3683 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,023.19
+- **Total apostado (suma de stakes):** $29,033.19
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $537.18 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $537.40 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -186,8 +186,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3011 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1716 | 68.7% | 67.9% | +0.8 pp |
+| 40-59% | 3012 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1717 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 808 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1080,7 +1080,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 2.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ⏳ pendiente | — |
@@ -1092,7 +1092,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Harold Mayot vs Justin Boula | Justin Boulais (BUY) | 50% | 5.00 | 9.7% | ❌ perdida | -5.12 |
 | Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 3.4% | ✅ ganada | +5.73 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ❌ perdida | -3.87 |
@@ -1103,7 +1103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 34.1% | ✅ ganada | +0.78 |
-| RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
 | RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |

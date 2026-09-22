@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.09302900479408,
+  "bankroll": 79.29269567146073,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30365,6 +30365,16 @@
       "timestamp": 1790095909.482662,
       "bankroll": 79.09,
       "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Harold Mayot vs Justin Boulais"
+    },
+    {
+      "timestamp": 1790097016.9717364,
+      "bankroll": 84.38,
+      "event": "won: RN1 \u2014 St. Tropez: Nicolai Budkov Kjaer vs Billy Harris"
+    },
+    {
+      "timestamp": 1790097017.2977936,
+      "bankroll": 79.29,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Nicolai Budkov Kjaer vs Billy Harris"
     }
   ]
 }
