@@ -147679,8 +147679,8 @@
     "title": "Spread: Rams (-7.5)",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 941.0622,
-    "whale_pct": 0.677,
+    "whale_usd": 2428.6872,
+    "whale_pct": 1.747,
     "whale_value_at_open": 139020.6078,
     "paper_stake_usd": 3.62,
     "odds_at_bet": 48,
@@ -147691,7 +147691,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790037230.969776,
-    "fills": 1
+    "last_fill_at": 1790038771.0142138,
+    "fills": 2
   }
 ]
