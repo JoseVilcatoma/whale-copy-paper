@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.99531720790989,
+  "bankroll": 81.27243113196053,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30135,6 +30135,11 @@
       "timestamp": 1790071165.713098,
       "bankroll": 80.0,
       "event": "won: ferrariChampions2026 \u2014 St. Tropez: David Jorda Sanchis vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1790073487.443956,
+      "bankroll": 81.27,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Izan Almazan Valiente vs Geoffrey Blancaneaux"
     }
   ]
 }
