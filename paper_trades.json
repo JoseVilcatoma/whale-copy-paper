@@ -149407,8 +149407,8 @@
     "title": "Ankara: Fiona Crawley vs Carole Monnet",
     "outcome": "Carole Monnet",
     "side": "BUY",
-    "whale_usd": 15371.006000000001,
-    "whale_pct": 2.908,
+    "whale_usd": 34871.468,
+    "whale_pct": 6.598,
     "whale_value_at_open": 528544.9307,
     "paper_stake_usd": 3.95,
     "odds_at_bet": 68,
@@ -149419,8 +149419,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790080629.3605332,
-    "fills": 2
+    "last_fill_at": 1790082780.2486637,
+    "fills": 4
   },
   {
     "timestamp": 1790080842,
