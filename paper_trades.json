@@ -147151,8 +147151,8 @@
     "title": "Korea Open: Eva Lys vs Gabriela Ruse",
     "outcome": "Gabriela Ruse",
     "side": "BUY",
-    "whale_usd": 16082.0486,
-    "whale_pct": 15.983,
+    "whale_usd": 24187.164134,
+    "whale_pct": 24.038,
     "whale_value_at_open": 100619.8038,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -147163,8 +147163,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790047670.9857347,
-    "fills": 5
+    "last_fill_at": 1790048720.3226361,
+    "fills": 6
   },
   {
     "timestamp": 1790018243,
@@ -147871,8 +147871,8 @@
     "title": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1564.4244,
-    "whale_pct": 0.554,
+    "whale_usd": 2265.2399,
+    "whale_pct": 0.803,
     "whale_value_at_open": 282235.4263,
     "paper_stake_usd": 2.38,
     "odds_at_bet": 43,
@@ -147883,7 +147883,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790048310.638062,
-    "fills": 1
+    "last_fill_at": 1790048728.3771853,
+    "fills": 2
   }
 ]
