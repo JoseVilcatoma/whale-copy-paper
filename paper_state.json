@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.18780290336743,
+  "bankroll": 84.69028517287097,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30495,6 +30495,16 @@
       "timestamp": 1790117701.1647248,
       "bankroll": 84.19,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Jack Kennedy vs Liam Draxl"
+    },
+    {
+      "timestamp": 1790117956.1978416,
+      "bankroll": 84.49,
+      "event": "won: GoalLineGhost \u2014 Will Sport Lisboa e Benfica win on 2026-09-22?"
+    },
+    {
+      "timestamp": 1790117956.5428736,
+      "bankroll": 84.69,
+      "event": "won: GoalLineGhost \u2014 Will HB K\u00f8ge win on 2026-09-22?"
     }
   ]
 }

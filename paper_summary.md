@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 17:59:01 (hora de Perú)
+Actualizado: 2026-09-22 18:01:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $84.19
-**Retorno acumulado:** -83.16%
+**Bankroll actual:** $84.69
+**Retorno acumulado:** -83.06%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 17:59:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.25)
+**Capital comprometido ahora mismo:** $71.94 en 15 posiciones abiertas (disponible para nuevas apuestas: $12.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 106 | 46 | 2 | -21.73 USD |
+| GoalLineGhost | 108 | 46 | 0 | -21.23 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | Flaznorp | 172 | 66 | 3 | -24.99 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5881
-- **Aciertos:** 3700 (62.9%)
+- **Apuestas resueltas:** 5883
+- **Aciertos:** 3702 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,149.44
+- **Total apostado (suma de stakes):** $29,159.44
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $539.33 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $539.36 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3022 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1725 | 68.6% | 67.9% | +0.8 pp |
-| 80-94% | 811 | 85.9% | 86.5% | -0.6 pp |
-| 95-99% (casi seguro) | 323 | 97.2% | 97.3% | -0.1 pp |
+| 80-94% | 812 | 86.0% | 86.5% | -0.6 pp |
+| 95-99% (casi seguro) | 324 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1098,8 +1098,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ⏳ pendiente | — |
-| GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
-| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
+| GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
+| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
 | GoalLineGhost | Will Real Madrid CF Femenino win on 2026 | No (BUY) | 76% | 5.00 | 0.3% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves: O/U  | Under (BUY) | 41% | 2.26 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |
