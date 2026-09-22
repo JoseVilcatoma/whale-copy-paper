@@ -148751,5 +148751,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790065161.9794328,
     "fills": 1
+  },
+  {
+    "timestamp": 1790065822,
+    "timestamp_added": 1790065822.5336063,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sanchis-wendelk-2026-09-21",
+    "title": "St. Tropez: David Jorda Sanchis vs Harry Wendelken",
+    "outcome": "David Jorda Sanchis",
+    "side": "BUY",
+    "whale_usd": 1328.784,
+    "whale_pct": 1.18,
+    "whale_value_at_open": 112595.1513,
+    "paper_stake_usd": 3.09,
+    "odds_at_bet": 49,
+    "fee_usd": 0.079,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790065822.533615,
+    "fills": 1
   }
 ]
