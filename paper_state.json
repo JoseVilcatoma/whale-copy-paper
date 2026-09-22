@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.2833259172065,
+  "bankroll": 84.1353259172065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30075,6 +30075,11 @@
       "timestamp": 1790067017.3014517,
       "bankroll": 89.28,
       "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te"
+    },
+    {
+      "timestamp": 1790068085.3722463,
+      "bankroll": 84.14,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Nanao: Mutsumi Uemura vs Chihiro Muramatsu"
     }
   ]
 }
