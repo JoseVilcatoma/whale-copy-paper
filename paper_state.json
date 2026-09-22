@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.65365054528338,
+  "bankroll": 81.53865054528339,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30030,6 +30030,11 @@
       "timestamp": 1790063626.883899,
       "bankroll": 86.65,
       "event": "won: kkookkoo \u2014 Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic"
+    },
+    {
+      "timestamp": 1790064128.0177512,
+      "bankroll": 81.54,
+      "event": "lost: RN1 \u2014 Korea Open: Emerson Jones vs Yexin Ma"
     }
   ]
 }

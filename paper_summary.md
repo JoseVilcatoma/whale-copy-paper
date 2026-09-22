@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 03:01:11 (hora de Perú)
+Actualizado: 2026-09-22 03:03:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.65
-**Retorno acumulado:** -82.67%
+**Bankroll actual:** $81.54
+**Retorno acumulado:** -83.69%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 03:01:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $11.48)
+**Capital comprometido ahora mismo:** $75.17 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,11 +145,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| RN1 | 615 | 289 | 5 | -11.48 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 615 | 290 | 4 | -16.60 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 840 | 516 | 10 | -235.82 USD |
+| ferrariChampions2026 | 840 | 516 | 11 | -235.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5788
+- **Apuestas resueltas:** 5789
 - **Aciertos:** 3640 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,707.03
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $531.42 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,712.03
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $531.53 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2979 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 2980 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1691 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 801 | 85.8% | 86.5% | -0.8 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
@@ -1065,6 +1065,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1082,7 +1083,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Alevtina Ibragimova vs Yeon- | Yeon-Woo Ku (BUY) | 56% | 3.20 | 5.8% | ✅ ganada | +2.44 |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 66% | 5.00 | 1.0% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | W50 Nanao: Sakura Hosogi vs Natsuki Yosh | Sakura Hosogi (BUY) | 52% | 5.00 | 2.0% | ✅ ganada | +4.50 |
-| RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 3.7% | ⏳ pendiente | — |
+| RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 3.7% | ❌ perdida | -5.12 |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 6.9% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 3.2% | ✅ ganada | +0.71 |
 | kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ✅ ganada | +2.17 |
@@ -1094,4 +1095,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.1% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 1.6% | ✅ ganada | +3.09 |
-| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Under (BUY) | 50% | 5.00 | 0.4% | ✅ ganada | +4.88 |
