@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 18:01:05 (hora de Perú)
+Actualizado: 2026-09-22 18:03:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.69
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 18:01:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.94 en 15 posiciones abiertas (disponible para nuevas apuestas: $12.75)
+**Capital comprometido ahora mismo:** $81.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,9 +155,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 108 | 46 | 0 | -21.23 USD |
+| GoalLineGhost | 108 | 46 | 1 | -21.23 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 172 | 66 | 3 | -24.99 USD |
+| Flaznorp | 172 | 66 | 4 | -24.99 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1079,11 +1079,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-nyy-2026-05-23 | Donkey14, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-22 | ferrariChampions2026, goshkam |
 | atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
+| bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1112,5 +1115,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 90.3% | ✅ ganada | +3.23 |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ✅ ganada | +1.46 |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ✅ ganada | +5.29 |
-| ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ❌ perdida | -5.06 |
