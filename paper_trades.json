@@ -149071,5 +149071,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790070048.0134082,
     "fills": 1
+  },
+  {
+    "timestamp": 1790071287,
+    "timestamp_added": 1790071287.8820868,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-su-dellave-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "whale_usd": 2136.67,
+    "whale_pct": 1.895,
+    "whale_value_at_open": 112742.8832,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790071287.8820944,
+    "fills": 1
   }
 ]
