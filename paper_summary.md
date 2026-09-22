@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 01:26:51 (hora de Perú)
+Actualizado: 2026-09-22 01:28:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.99
-**Retorno acumulado:** -83.20%
+**Bankroll actual:** $85.19
+**Retorno acumulado:** -82.96%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 01:26:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.30 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.69)
+**Capital comprometido ahora mismo:** $76.30 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -159,7 +159,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 169 | 65 | 1 | -27.90 USD |
+| Flaznorp | 170 | 65 | 0 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -170,13 +170,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5775
-- **Aciertos:** 3631 (62.9%)
+- **Apuestas resueltas:** 5776
+- **Aciertos:** 3632 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,645.73
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $530.38 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $28,650.73
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $530.43 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 2975 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1685 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 798 | 85.7% | 86.6% | -0.8 pp |
+| 80-94% | 799 | 85.7% | 86.5% | -0.8 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1085,7 +1085,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury | Dallas Wings (BUY) | 80% | 5.00 | 0.8% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ✅ ganada | +3.98 |
-| Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
+| Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 6.8% | ✅ ganada | +3.83 |
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ✅ ganada | +1.69 |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ❌ perdida | -2.64 |

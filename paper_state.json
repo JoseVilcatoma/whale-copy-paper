@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.9875408095617,
+  "bankroll": 85.1875408095617,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29965,6 +29965,11 @@
       "timestamp": 1790056646.4982336,
       "bankroll": 83.99,
       "event": "won: RN1 \u2014 Korea Open: So-Hyun Park vs Robin Montgomery"
+    },
+    {
+      "timestamp": 1790058530.7147746,
+      "bankroll": 85.19,
+      "event": "won: Flaznorp \u2014 Will Cuiab\u00e1 EC win on 2026-09-21?"
     }
   ]
 }
