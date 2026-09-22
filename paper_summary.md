@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 19:06:43 (hora de Perú)
+Actualizado: 2026-09-21 19:08:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.93
-**Retorno acumulado:** -83.41%
+**Bankroll actual:** $86.30
+**Retorno acumulado:** -82.74%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 19:06:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.63 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.30)
+**Capital comprometido ahora mismo:** $76.63 en 16 posiciones abiertas (disponible para nuevas apuestas: $9.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 101 | 44 | 3 | -19.07 USD |
-| Flaznorp | 166 | 63 | 3 | -24.20 USD |
+| Flaznorp | 167 | 63 | 2 | -20.83 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -170,14 +170,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5743
-- **Aciertos:** 3611 (62.9%)
+- **Apuestas resueltas:** 5744
+- **Aciertos:** 3612 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,495.86
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $527.49 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,500.86
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $527.59 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2956 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2957 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1677 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 795 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 315 | 97.1% | 97.4% | -0.2 pp |
@@ -1061,7 +1061,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 4.3% | ⏳ pendiente | — |
-| Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ✅ ganada | +3.37 |
 | Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Bogota FC vs. Barranquilla FC end i | No (BUY) | 56% | 4.92 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Dinko Dinev vs Dylan Dietri | Dylan Dietrich (BUY) | 93% | 5.00 | 15.7% | ✅ ganada | +0.36 |

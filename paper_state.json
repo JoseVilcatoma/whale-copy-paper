@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.92816707668877,
+  "bankroll": 86.29974334787521,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29805,6 +29805,11 @@
       "timestamp": 1790032367.422304,
       "bankroll": 82.93,
       "event": "won: Flaznorp \u2014 Manta FC vs. Orense SC: O/U 3.5"
+    },
+    {
+      "timestamp": 1790035698.856328,
+      "bankroll": 86.3,
+      "event": "won: Flaznorp \u2014 San Diego 2: Braden Shick vs Patrick Maloney"
     }
   ]
 }
