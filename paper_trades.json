@@ -147559,8 +147559,8 @@
     "title": "Spread: CA Lan\u00fas (-2.5)",
     "outcome": "Estudiantes de La Plata",
     "side": "BUY",
-    "whale_usd": 1025.989987,
-    "whale_pct": 0.362,
+    "whale_usd": 1781.989987,
+    "whale_pct": 0.628,
     "whale_value_at_open": 283740.3486,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -147571,8 +147571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790036232.1615605,
-    "fills": 1
+    "last_fill_at": 1790041269.6980822,
+    "fills": 2
   },
   {
     "timestamp": 1790036618,
@@ -147655,8 +147655,8 @@
     "title": "Giants vs. Rams",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 24028.09799,
-    "whale_pct": 17.284,
+    "whale_usd": 26033.11799,
+    "whale_pct": 18.726,
     "whale_value_at_open": 139020.6078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -147667,8 +147667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790041174.50373,
-    "fills": 9
+    "last_fill_at": 1790041305.887048,
+    "fills": 10
   },
   {
     "timestamp": 1790037230,
