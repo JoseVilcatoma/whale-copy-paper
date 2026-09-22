@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.80552283195458,
+  "bankroll": 79.09302900479408,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30350,6 +30350,21 @@
       "timestamp": 1790095533.137449,
       "bankroll": 77.81,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Marie Vogt vs Elena Ruxandra Bertea"
+    },
+    {
+      "timestamp": 1790095908.892568,
+      "bankroll": 78.93,
+      "event": "won: RN1 \u2014 St. Tropez: Harold Mayot vs Justin Boulais"
+    },
+    {
+      "timestamp": 1790095909.3825138,
+      "bankroll": 84.22,
+      "event": "won: Flaznorp \u2014 St. Tropez: Harold Mayot vs Justin Boulais"
+    },
+    {
+      "timestamp": 1790095909.482662,
+      "bankroll": 79.09,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Harold Mayot vs Justin Boulais"
     }
   ]
 }
