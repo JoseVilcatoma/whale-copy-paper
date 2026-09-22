@@ -149248,5 +149248,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790075055.4450645,
     "fills": 1
+  },
+  {
+    "timestamp": 1790075372,
+    "timestamp_added": 1790075373.0234432,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-bereco1-matoul1-2026-09-22",
+    "title": "W50 Yecla: Nahia Berecoechea vs Martha MATOULA",
+    "outcome": "Martha MATOULA",
+    "side": "BUY",
+    "whale_usd": 552.96,
+    "whale_pct": 0.263,
+    "whale_value_at_open": 210571.0641,
+    "paper_stake_usd": 2.8,
+    "odds_at_bet": 55,
+    "fee_usd": 0.063,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790075373.0234525,
+    "fills": 1
   }
 ]

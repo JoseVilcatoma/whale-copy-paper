@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 06:09:07 (hora de Perú)
+Actualizado: 2026-09-22 06:11:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 06:09:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.57 en 16 posiciones abiertas (disponible para nuevas apuestas: $2.80)
+**Capital comprometido ahora mismo:** $77.37 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
-| RN1 | 623 | 292 | 6 | -12.87 USD |
+| RN1 | 623 | 292 | 7 | -12.87 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1074,6 +1074,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ⏳ pendiente | — |
 | RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -1103,4 +1104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ❌ perdida | -2.36 |
-| ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
