@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.1353259172065,
+  "bankroll": 81.7713259172065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30080,6 +30080,11 @@
       "timestamp": 1790068085.3722463,
       "bankroll": 84.14,
       "event": "lost: ferrariChampions2026 \u2014 W50 Nanao: Mutsumi Uemura vs Chihiro Muramatsu"
+    },
+    {
+      "timestamp": 1790068337.9148958,
+      "bankroll": 81.77,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Max Wiskandt vs Andrey Chepelev"
     }
   ]
 }

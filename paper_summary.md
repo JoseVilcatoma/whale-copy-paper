@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 04:10:18 (hora de Perú)
+Actualizado: 2026-09-22 04:12:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $84.14
-**Retorno acumulado:** -83.17%
+**Bankroll actual:** $81.77
+**Retorno acumulado:** -83.65%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 04:10:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.68 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.46)
+**Capital comprometido ahora mismo:** $81.38 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 843 | 518 | 10 | -237.12 USD |
+| ferrariChampions2026 | 843 | 519 | 9 | -239.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5798
+- **Apuestas resueltas:** 5799
 - **Aciertos:** 3647 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,756.52
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $532.22 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $28,758.82
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $532.28 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2983 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 2984 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1694 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
@@ -1082,7 +1082,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ❌ perdida | -2.36 |
 | ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ✅ ganada | +1.52 |
