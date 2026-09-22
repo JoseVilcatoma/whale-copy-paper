@@ -148289,8 +148289,8 @@
     "title": "Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 9810.750005,
-    "whale_pct": 9.328,
+    "whale_usd": 10356.358314,
+    "whale_pct": 9.847,
     "whale_value_at_open": 105173.1648,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -148301,8 +148301,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062141.596934,
-    "fills": 3
+    "last_fill_at": 1790062234.280093,
+    "fills": 4
   },
   {
     "timestamp": 1790059046,
