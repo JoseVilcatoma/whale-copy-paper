@@ -150218,8 +150218,8 @@
     "title": "Will FC Internazionale Milano win on 2026-09-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1205.753,
-    "whale_pct": 1.233,
+    "whale_usd": 2104.756,
+    "whale_pct": 2.152,
     "whale_value_at_open": 97785.3309,
     "paper_stake_usd": 4.09,
     "odds_at_bet": 73,
@@ -150230,7 +150230,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790096655.1011612,
-    "fills": 2
+    "last_fill_at": 1790096780.8140848,
+    "fills": 3
   }
 ]
