@@ -149397,5 +149397,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790080434.215979,
     "fills": 4
+  },
+  {
+    "timestamp": 1790080623,
+    "timestamp_added": 1790080623.975568,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-crawley-monnet-2026-09-22",
+    "title": "Ankara: Fiona Crawley vs Carole Monnet",
+    "outcome": "Carole Monnet",
+    "side": "BUY",
+    "whale_usd": 15371.006000000001,
+    "whale_pct": 2.908,
+    "whale_value_at_open": 528544.9307,
+    "paper_stake_usd": 3.95,
+    "odds_at_bet": 68,
+    "fee_usd": 0.063,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790080629.3605332,
+    "fills": 2
   }
 ]

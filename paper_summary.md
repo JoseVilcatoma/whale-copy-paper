@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:36:10 (hora de Perú)
+Actualizado: 2026-09-22 07:38:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $53.81
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 07:36:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.86 en 10 posiciones abiertas (disponible para nuevas apuestas: $3.95)
+**Capital comprometido ahora mismo:** $53.81 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 851 | 526 | 4 | -252.29 USD |
+| ferrariChampions2026 | 851 | 526 | 5 | -252.29 USD |
 
 ## Análisis general
 
@@ -1075,6 +1075,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 2.9% | ⏳ pendiente | — |
 | HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ⏳ pendiente | — |
@@ -1104,4 +1105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | Harry Wendelken (BUY) | 58% | 5.00 | 0.4% | ❌ perdida | -5.11 |
 | RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ✅ ganada | +2.27 |
-| RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
