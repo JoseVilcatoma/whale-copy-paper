@@ -148117,8 +148117,8 @@
     "title": "Korea Open: Anna Bondar vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 3414.7999999999997,
-    "whale_pct": 2.62,
+    "whale_usd": 3928.5099999999998,
+    "whale_pct": 3.014,
     "whale_value_at_open": 130343.2171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148131,8 +148131,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790054793.0311992,
-    "fills": 4
+    "last_fill_at": 1790055174.996105,
+    "fills": 5
   },
   {
     "timestamp": 1790054989,
