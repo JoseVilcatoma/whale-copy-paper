@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.8587649911013,
+  "bankroll": 90.70327292760923,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30385,6 +30385,11 @@
       "timestamp": 1790100140.473962,
       "bankroll": 87.86,
       "event": "won: ferrariChampions2026 \u2014 St. Tropez: Matteo Martineau vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1790100451.284074,
+      "bankroll": 90.7,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Iliyan Radulov vs Pavel Lagutin"
     }
   ]
 }
