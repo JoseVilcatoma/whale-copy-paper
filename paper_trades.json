@@ -149333,8 +149333,8 @@
     "title": "Ankara: Martyna Kubka vs Berfu Cengiz",
     "outcome": "Berfu Cengiz",
     "side": "BUY",
-    "whale_usd": 30355.760800000004,
-    "whale_pct": 9.352,
+    "whale_usd": 51003.3808,
+    "whale_pct": 15.713,
     "whale_value_at_open": 324590.7059,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -149347,7 +149347,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790078861.755342,
-    "fills": 4
+    "last_fill_at": 1790079043.5612476,
+    "fills": 6
   }
 ]
