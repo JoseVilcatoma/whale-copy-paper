@@ -149421,5 +149421,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790080629.3605332,
     "fills": 2
+  },
+  {
+    "timestamp": 1790080842,
+    "timestamp_added": 1790080843.2302244,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-droguet-poling-2026-09-22",
+    "title": "St. Tropez: Titouan Droguet vs Karl Poling",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "whale_usd": 3229.2645,
+    "whale_pct": 0.781,
+    "whale_value_at_open": 413332.4816,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790080843.2302346,
+    "fills": 1
   }
 ]
