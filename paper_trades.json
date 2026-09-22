@@ -148303,5 +148303,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790059001.6001396,
     "fills": 2
+  },
+  {
+    "timestamp": 1790059046,
+    "timestamp_added": 1790059046.2874627,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-prozoro-costoul-2026-09-20",
+    "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+    "outcome": "Tatiana Prozorova",
+    "side": "BUY",
+    "whale_usd": 888.320946,
+    "whale_pct": 0.772,
+    "whale_value_at_open": 115027.5463,
+    "paper_stake_usd": 3.89,
+    "odds_at_bet": 46,
+    "fee_usd": 0.105,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790059046.2874713,
+    "fills": 1
   }
 ]

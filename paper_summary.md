@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 01:37:20 (hora de Perú)
+Actualizado: 2026-09-22 01:39:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 01:37:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.30 en 17 posiciones abiertas (disponible para nuevas apuestas: $3.89)
+**Capital comprometido ahora mismo:** $85.19 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 835 | 514 | 9 | -242.02 USD |
+| ferrariChampions2026 | 835 | 514 | 10 | -242.02 USD |
 
 ## Análisis general
 
@@ -1057,11 +1057,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-bondar-zarazua-2026-09-20 | RN1, ferrariChampions2026 |
 | wta-park-montgom-2026-09-20 | RN1, ferrariChampions2026 |
 | atp-muller-pavlovi-2026-09-21 | ferrariChampions2026, kkookkoo |
+| wta-prozoro-costoul-2026-09-20 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 46% | 3.89 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 83% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | W50 Nanao: Natsumi Kawaguchi vs Kayo Nis | Natsumi Kawaguchi (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 41% | 5.00 | 4.0% | ⏳ pendiente | — |
@@ -1091,4 +1093,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ✅ ganada | +1.69 |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ❌ perdida | -2.64 |
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
