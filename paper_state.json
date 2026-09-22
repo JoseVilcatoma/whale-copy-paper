@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.43156250830357,
+  "bankroll": 86.74852477245452,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29865,6 +29865,11 @@
       "timestamp": 1790044123.22607,
       "bankroll": 82.43,
       "event": "won: Flaznorp \u2014 Spread: CA Lan\u00fas (-2.5)"
+    },
+    {
+      "timestamp": 1790045633.0573132,
+      "bankroll": 86.75,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-1.5)"
     }
   ]
 }
