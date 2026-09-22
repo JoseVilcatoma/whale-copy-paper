@@ -148339,8 +148339,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te",
     "outcome": "Bernard Tomic",
     "side": "BUY",
-    "whale_usd": 6681.77,
-    "whale_pct": 5.902,
+    "whale_usd": 13521.77,
+    "whale_pct": 11.943,
     "whale_value_at_open": 113215.4388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -148351,8 +148351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062822.4413264,
-    "fills": 3
+    "last_fill_at": 1790063447.1007724,
+    "fills": 4
   },
   {
     "timestamp": 1790059777,
