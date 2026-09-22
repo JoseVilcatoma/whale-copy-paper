@@ -150452,5 +150452,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790105631.765482,
     "fills": 1
+  },
+  {
+    "timestamp": 1790105939,
+    "timestamp_added": 1790105939.8585308,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-atl-2026-09-22-total-8pt5",
+    "title": "Cincinnati Reds vs. Atlanta Braves: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 917.672,
+    "whale_pct": 0.223,
+    "whale_value_at_open": 411063.4083,
+    "paper_stake_usd": 2.26,
+    "odds_at_bet": 41,
+    "fee_usd": 0.067,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790105939.8585398,
+    "fills": 1
   }
 ]
