@@ -1,5 +1,5 @@
 {
-  "bankroll": 71.42267318664943,
+  "bankroll": 76.7093398533161,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29920,6 +29920,11 @@
       "timestamp": 1790052875.3972378,
       "bankroll": 71.42,
       "event": "won: ferrariChampions2026 \u2014 Dallas Wings vs. Phoenix Mercury: O/U 173.5"
+    },
+    {
+      "timestamp": 1790053371.383793,
+      "bankroll": 76.71,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. San Francisco Giants: O/U 9.5"
     }
   ]
 }
