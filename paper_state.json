@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.80105161337774,
+  "bankroll": 81.89638494671108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30475,6 +30475,16 @@
       "timestamp": 1790115136.524523,
       "bankroll": 86.8,
       "event": "won: ferrariChampions2026 \u2014 Tampa Bay Rays vs. New York Yankees: O/U 6.5"
+    },
+    {
+      "timestamp": 1790117325.736647,
+      "bankroll": 81.7,
+      "event": "lost: Flaznorp \u2014 San Diego 2: Tristan Boyer vs Spencer Johnson"
+    },
+    {
+      "timestamp": 1790117326.3488917,
+      "bankroll": 81.9,
+      "event": "won: ferrariChampions2026 \u2014 San Diego 2: Tristan Boyer vs Spencer Johnson"
     }
   ]
 }
