@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.07095761456327,
+  "bankroll": 77.80552283195458,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30345,6 +30345,11 @@
       "timestamp": 1790095220.9780185,
       "bankroll": 72.07,
       "event": "won: ferrariChampions2026 \u2014 M25 Sabadell: Alejandro Garcia Carbajal vs Alexander Petrov"
+    },
+    {
+      "timestamp": 1790095533.137449,
+      "bankroll": 77.81,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Marie Vogt vs Elena Ruxandra Bertea"
     }
   ]
 }
