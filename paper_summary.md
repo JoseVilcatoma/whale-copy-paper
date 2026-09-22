@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 15:45:51 (hora de Perú)
+Actualizado: 2026-09-22 15:47:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.85
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 15:45:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $62.26 en 13 posiciones abiertas (disponible para nuevas apuestas: $12.59)
+**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $7.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 867 | 534 | 8 | -241.67 USD |
+| ferrariChampions2026 | 867 | 534 | 9 | -241.67 USD |
 
 ## Análisis general
 
@@ -1083,7 +1083,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 256.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Madrid CF Femenino win on 2026 | No (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1112,4 +1113,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 3.4% | ✅ ganada | +5.73 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ❌ perdida | -3.87 |
