@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.89638494671108,
+  "bankroll": 84.18780290336743,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30485,6 +30485,16 @@
       "timestamp": 1790117326.3488917,
       "bankroll": 81.9,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Tristan Boyer vs Spencer Johnson"
+    },
+    {
+      "timestamp": 1790117637.0506513,
+      "bankroll": 83.42,
+      "event": "won: GoalLineGhost \u2014 Will Real Madrid CF Femenino win on 2026-09-22?"
+    },
+    {
+      "timestamp": 1790117701.1647248,
+      "bankroll": 84.19,
+      "event": "won: ferrariChampions2026 \u2014 San Diego 2: Jack Kennedy vs Liam Draxl"
     }
   ]
 }
