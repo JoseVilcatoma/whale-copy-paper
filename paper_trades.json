@@ -149431,8 +149431,8 @@
     "title": "St. Tropez: Titouan Droguet vs Karl Poling",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 13096.63291,
-    "whale_pct": 3.169,
+    "whale_usd": 24784.34801,
+    "whale_pct": 5.996,
     "whale_value_at_open": 413332.4816,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -149443,8 +149443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790083994.7874746,
-    "fills": 6
+    "last_fill_at": 1790084641.4720418,
+    "fills": 8
   },
   {
     "timestamp": 1790080975,
