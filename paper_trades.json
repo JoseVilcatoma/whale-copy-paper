@@ -147765,5 +147765,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790043444.927798,
     "fills": 1
+  },
+  {
+    "timestamp": 1790044224,
+    "timestamp_added": 1790044225.0771544,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-dal-phx-2026-09-21",
+    "title": "Dallas Wings vs. Phoenix Mercury",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 1342.0914,
+    "whale_pct": 0.78,
+    "whale_value_at_open": 172076.9791,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790044225.0771723,
+    "fills": 1
   }
 ]
