@@ -150938,5 +150938,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790118162.1605706,
     "fills": 1
+  },
+  {
+    "timestamp": 1790118320,
+    "timestamp_added": 1790118320.5400412,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "col1-inm-jdc-2026-09-18-spread-home-1pt5",
+    "title": "Spread: Independiente Medell\u00edn (-1.5)",
+    "outcome": "Jaguares de C\u00f3rdoba FC",
+    "side": "BUY",
+    "whale_usd": 2883.63,
+    "whale_pct": 1.054,
+    "whale_value_at_open": 273663.4606,
+    "paper_stake_usd": 2.75,
+    "odds_at_bet": 51,
+    "fee_usd": 0.067,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790118321.3666835,
+    "fills": 2
   }
 ]
