@@ -148363,8 +148363,8 @@
     "title": "Korea Open: Tamara Zidansek vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 14304.612709,
-    "whale_pct": 17.245,
+    "whale_usd": 14904.750205,
+    "whale_pct": 17.968,
     "whale_value_at_open": 82949.8075,
     "paper_stake_usd": 4.49,
     "odds_at_bet": 71,
@@ -148375,8 +148375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062491.9101188,
-    "fills": 4
+    "last_fill_at": 1790062567.6157513,
+    "fills": 5
   },
   {
     "timestamp": 1790060764,
