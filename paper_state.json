@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.9981652501415,
+  "bankroll": 76.72267318664943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29895,6 +29895,16 @@
       "timestamp": 1790051802.7314644,
       "bankroll": 79.0,
       "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1790052557.8249803,
+      "bankroll": 73.88,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Dallas Wings (-5.5)"
+    },
+    {
+      "timestamp": 1790052558.907674,
+      "bankroll": 76.72,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Eva Lys vs Gabriela Ruse"
     }
   ]
 }
