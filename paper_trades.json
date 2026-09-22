@@ -148043,8 +148043,8 @@
     "title": "Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic",
     "outcome": "Alexandre Muller",
     "side": "BUY",
-    "whale_usd": 1033.9225000000001,
-    "whale_pct": 0.644,
+    "whale_usd": 2483.5223830000004,
+    "whale_pct": 1.546,
     "whale_value_at_open": 160658.7062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -148055,8 +148055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790054166.7958045,
-    "fills": 1
+    "last_fill_at": 1790058614.8346844,
+    "fills": 2
   },
   {
     "timestamp": 1790054330,
