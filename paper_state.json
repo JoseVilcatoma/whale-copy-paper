@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.63991210286697,
+  "bankroll": 81.35403853964858,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30405,6 +30405,11 @@
       "timestamp": 1790102972.3683965,
       "bankroll": 80.64,
       "event": "won: ferrariChampions2026 \u2014 M25 Falun: Noah Karma vs Jack Karlsson Wistrand"
+    },
+    {
+      "timestamp": 1790105488.041767,
+      "bankroll": 81.35,
+      "event": "won: ferrariChampions2026 \u2014 Buenos Aires 2: Francisco Comesana vs Juan Estevez"
     }
   ]
 }

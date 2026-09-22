@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 14:30:06 (hora de Perú)
+Actualizado: 2026-09-22 14:32:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.64
-**Retorno acumulado:** -83.87%
+**Bankroll actual:** $81.35
+**Retorno acumulado:** -83.73%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 14:30:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.55)
+**Capital comprometido ahora mismo:** $74.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,17 +167,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 865 | 533 | 9 | -240.48 USD |
+| ferrariChampions2026 | 866 | 533 | 8 | -239.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5863
-- **Aciertos:** 3687 (62.9%)
+- **Apuestas resueltas:** 5864
+- **Aciertos:** 3688 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,063.19
+- **Total apostado (suma de stakes):** $29,068.19
 - **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $537.91 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $537.95 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3014 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1720 | 68.7% | 67.9% | +0.8 pp |
-| 80-94% | 808 | 85.9% | 86.5% | -0.6 pp |
+| 80-94% | 809 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 321 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1084,7 +1084,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Jack Karlsson Wistrand (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
 | GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
