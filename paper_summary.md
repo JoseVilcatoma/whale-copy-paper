@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 09:13:43 (hora de Perú)
+Actualizado: 2026-09-22 09:15:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $76.16
-**Retorno acumulado:** -84.77%
+**Bankroll actual:** $79.00
+**Retorno acumulado:** -84.20%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 09:13:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.86 en 14 posiciones abiertas (disponible para nuevas apuestas: $6.30)
+**Capital comprometido ahora mismo:** $74.86 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 855 | 526 | 6 | -237.63 USD |
+| ferrariChampions2026 | 856 | 526 | 7 | -234.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5837
-- **Aciertos:** 3670 (62.9%)
+- **Apuestas resueltas:** 5838
+- **Aciertos:** 3671 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,935.37
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $535.68 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,940.37
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $535.77 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3005 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1708 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1709 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 804 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1071,14 +1071,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-pridank-egorova-2026-09-22 | HMLSF, RN1, ferrariChampions2026 |
 | wta-kubka-cengiz-2026-09-22 | RN1, ferrariChampions2026 |
 | wta-krejcik-friedsa-2026-09-21 | HMLSF, RN1, ferrariChampions2026 |
+| wta-sebov-knutson-2026-09-21 | RN1, ferrariChampions2026 |
+| wta-palicov-linana-2026-09-21 | HMLSF, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 22.4% | ⏳ pendiente | — |
+| HMLSF | Tolentino: Barbora Palicova vs Alicia He | Barbora Palicova (BUY) | 86% | 5.00 | 34.1% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Billy Harris (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: B8 vs Luminosity - Map 2 | B8 (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1087,7 +1091,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 6.7% | ❌ perdida | -3.80 |
 | ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ✅ ganada | +5.51 |
 | RN1 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |
-| ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 1.0% | ✅ ganada | +2.84 |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 10.5% | ✅ ganada | +1.80 |
 | HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 6.3% | ✅ ganada | +3.37 |
@@ -1104,5 +1108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ✅ ganada | +3.52 |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
-| RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 19.8% | ✅ ganada | +1.28 |

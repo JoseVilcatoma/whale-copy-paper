@@ -149462,8 +149462,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -149679,8 +149679,8 @@
     "title": "Tolentino: Barbora Palicova vs Alicia Herrero Linana",
     "outcome": "Barbora Palicova",
     "side": "BUY",
-    "whale_usd": 58564.059400000006,
-    "whale_pct": 22.397,
+    "whale_usd": 89285.9209,
+    "whale_pct": 34.146,
     "whale_value_at_open": 261484.4972,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -149691,8 +149691,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790086400.1759005,
-    "fills": 3
+    "last_fill_at": 1790086529.8655744,
+    "fills": 6
   },
   {
     "timestamp": 1790086344,
@@ -149741,5 +149741,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790086371.287525,
     "fills": 1
+  },
+  {
+    "timestamp": 1790086466,
+    "timestamp_added": 1790086466.8887765,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-sebov-knutson-2026-09-21",
+    "title": "Porto: Katherine Sebov vs Gabriela Knutson",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "whale_usd": 604.707134,
+    "whale_pct": 0.23,
+    "whale_value_at_open": 262745.1238,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790086466.888787,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790086516,
+    "timestamp_added": 1790086516.372505,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-palicov-linana-2026-09-21",
+    "title": "Tolentino: Barbora Palicova vs Alicia Herrero Linana",
+    "outcome": "Alicia Herrero Linana",
+    "side": "BUY",
+    "whale_usd": 15485.7015,
+    "whale_pct": 5.894,
+    "whale_value_at_open": 262745.1238,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HMLSF"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790086529.8633738,
+    "fills": 3
   }
 ]

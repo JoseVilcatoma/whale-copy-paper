@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.15839394140441,
+  "bankroll": 79.00290187791235,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30275,6 +30275,11 @@
       "timestamp": 1790086167.2558851,
       "bankroll": 76.16,
       "event": "lost: RN1 \u2014 Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam"
+    },
+    {
+      "timestamp": 1790086481.389789,
+      "bankroll": 79.0,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Filip Jianu vs Ivan Ivanov"
     }
   ]
 }
