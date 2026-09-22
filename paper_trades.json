@@ -147871,8 +147871,8 @@
     "title": "Minnesota Twins vs. San Francisco Giants: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2265.2399,
-    "whale_pct": 0.803,
+    "whale_usd": 4451.5061000000005,
+    "whale_pct": 1.577,
     "whale_value_at_open": 282235.4263,
     "paper_stake_usd": 2.38,
     "odds_at_bet": 43,
@@ -147883,7 +147883,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790048728.3771853,
-    "fills": 2
+    "last_fill_at": 1790050379.9127772,
+    "fills": 3
   }
 ]

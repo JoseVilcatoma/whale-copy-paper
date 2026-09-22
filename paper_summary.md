@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 23:12:01 (hora de Perú)
+Actualizado: 2026-09-21 23:14:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.67
@@ -1059,7 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Under (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
