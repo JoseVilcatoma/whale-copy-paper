@@ -148339,8 +148339,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te",
     "outcome": "Bernard Tomic",
     "side": "BUY",
-    "whale_usd": 13521.77,
-    "whale_pct": 11.943,
+    "whale_usd": 15094.002759,
+    "whale_pct": 13.332,
     "whale_value_at_open": 113215.4388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -148351,8 +148351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790063447.1007724,
-    "fills": 4
+    "last_fill_at": 1790064902.3464792,
+    "fills": 6
   },
   {
     "timestamp": 1790059777,
@@ -148625,5 +148625,83 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790064443.3664038,
     "fills": 1
+  },
+  {
+    "timestamp": 1790064823,
+    "timestamp_added": 1790064823.5127718,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-prozoro-costoul-2026-09-20",
+    "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
+    "outcome": "Tatiana Prozorova",
+    "side": "BUY",
+    "whale_usd": 2360.8,
+    "whale_pct": 2.223,
+    "whale_value_at_open": 106215.2232,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790064823.5127802,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790064918,
+    "timestamp_added": 1790064918.870381,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tomic-te-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te",
+    "outcome": "Bernard Tomic",
+    "side": "BUY",
+    "whale_usd": 957.0,
+    "whale_pct": 0.881,
+    "whale_value_at_open": 108605.3694,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790064918.8703902,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790064934,
+    "timestamp_added": 1790064934.4285693,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-ostapen-zakharo-2026-09-20",
+    "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
+    "outcome": "Jelena Ostapenko",
+    "side": "BUY",
+    "whale_usd": 1311.4336,
+    "whale_pct": 1.208,
+    "whale_value_at_open": 108605.3694,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790064935.8117497,
+    "fills": 2
   }
 ]

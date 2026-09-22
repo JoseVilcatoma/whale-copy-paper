@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 03:13:41 (hora de Perú)
+Actualizado: 2026-09-22 03:15:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 03:13:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.68 en 13 posiciones abiertas (disponible para nuevas apuestas: $28.09)
+**Capital comprometido ahora mismo:** $75.68 en 16 posiciones abiertas (disponible para nuevas apuestas: $13.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
-| RN1 | 617 | 290 | 3 | -12.84 USD |
+| RN1 | 617 | 290 | 6 | -12.84 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1059,13 +1059,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-muller-pavlovi-2026-09-21 | ferrariChampions2026, kkookkoo |
 | wta-prozoro-costoul-2026-09-20 | RN1, ferrariChampions2026 |
 | atp-ymer-galarne-2026-09-21 | RN1, ferrariChampions2026 |
+| atp-tomic-te-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-weber-matsuok-2026-09-22 | RN1, ferrariChampions2026 |
 | wta-vekic-wa-2026-09-20 | RN1, ferrariChampions2026 |
+| wta-ostapen-zakharo-2026-09-20 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1077,7 +1082,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 27.5% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 72% | 5.00 | 10.7% | ⏳ pendiente | — |
 | RN1 | Korea Open: Tamara Zidansek vs Kimberly  | Kimberly Birrell (BUY) | 71% | 4.49 | 19.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 47% | 5.00 | 11.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 47% | 5.00 | 13.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 46% | 3.89 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 83% | 5.00 | 9.8% | ✅ ganada | +0.98 |
 | RN1 | W50 Nanao: Natsumi Kawaguchi vs Kayo Nis | Natsumi Kawaguchi (BUY) | 81% | 5.00 | 1.1% | ✅ ganada | +1.13 |
@@ -1093,6 +1098,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 1.1% | ❌ perdida | -5.09 |
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 6.1% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 22.2% | ❌ perdida | -3.17 |
-| RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
-| RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.1% | ✅ ganada | +2.17 |
