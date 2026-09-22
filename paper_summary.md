@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:50:33 (hora de Perú)
+Actualizado: 2026-09-22 07:52:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $62.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 07:50:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.81 en 10 posiciones abiertas (disponible para nuevas apuestas: $13.71)
+**Capital comprometido ahora mismo:** $62.52 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,12 +162,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 170 | 65 | 0 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 624 | 297 | 3 | -34.86 USD |
+| RN1 | 624 | 297 | 5 | -34.86 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 853 | 526 | 5 | -244.94 USD |
+| ferrariChampions2026 | 853 | 526 | 6 | -244.94 USD |
 
 ## Análisis general
 
@@ -1070,15 +1070,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-su-dellave-2026-09-22 | RN1, ferrariChampions2026 |
 | wta-pridank-egorova-2026-09-22 | HMLSF, RN1, ferrariChampions2026 |
 | wta-kubka-cengiz-2026-09-22 | RN1, ferrariChampions2026 |
+| wta-krejcik-friedsa-2026-09-21 | HMLSF, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 2.9% | ⏳ pendiente | — |
-| HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ✅ ganada | +0.71 |
@@ -1102,6 +1106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 13.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 50.7% | ✅ ganada | +1.52 |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 18.5% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 11.8% | ❌ perdida | -4.99 |
-| ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ✅ ganada | +3.14 |
-| ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | Harry Wendelken (BUY) | 58% | 5.00 | 0.4% | ❌ perdida | -5.11 |
