@@ -148143,8 +148143,8 @@
     "title": "Korea Open: Emerson Jones vs Yexin Ma",
     "outcome": "Emerson Jones",
     "side": "BUY",
-    "whale_usd": 530.0,
-    "whale_pct": 0.393,
+    "whale_usd": 3970.34,
+    "whale_pct": 2.943,
     "whale_value_at_open": 134891.5258,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -148155,8 +148155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790054989.3235092,
-    "fills": 1
+    "last_fill_at": 1790059024.1826768,
+    "fills": 2
   },
   {
     "timestamp": 1790055281,
@@ -148289,8 +148289,8 @@
     "title": "Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 1989.7863160000002,
-    "whale_pct": 1.892,
+    "whale_usd": 3606.8090190000003,
+    "whale_pct": 3.429,
     "whale_value_at_open": 105173.1648,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -148301,7 +148301,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790058671.7423804,
-    "fills": 1
+    "last_fill_at": 1790059001.6001396,
+    "fills": 2
   }
 ]
