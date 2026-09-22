@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.46216396376961,
+  "bankroll": 72.07095761456327,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30335,6 +30335,16 @@
       "timestamp": 1790094347.6973786,
       "bankroll": 66.46,
       "event": "lost: RN1 \u2014 Counter-Strike: B8 vs Luminosity - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790095220.87791,
+      "bankroll": 69.31,
+      "event": "won: RN1 \u2014 M25 Sabadell: Alejandro Garcia Carbajal vs Alexander Petrov"
+    },
+    {
+      "timestamp": 1790095220.9780185,
+      "bankroll": 72.07,
+      "event": "won: ferrariChampions2026 \u2014 M25 Sabadell: Alejandro Garcia Carbajal vs Alexander Petrov"
     }
   ]
 }
