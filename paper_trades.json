@@ -150146,8 +150146,8 @@
     "title": "Tampa Bay Rays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 4755.116191,
-    "whale_pct": 6.693,
+    "whale_usd": 18352.485391,
+    "whale_pct": 25.831,
     "whale_value_at_open": 71048.3203,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -150158,8 +150158,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790096144.2292957,
-    "fills": 5
+    "last_fill_at": 1790096260.286819,
+    "fills": 6
   },
   {
     "timestamp": 1790096113,
@@ -150184,5 +150184,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790096161.5279598,
     "fills": 3
+  },
+  {
+    "timestamp": 1790096170,
+    "timestamp_added": 1790096170.798014,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-nyy-2026-05-23-total-6pt5",
+    "title": "Tampa Bay Rays vs. New York Yankees: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1273.7564,
+    "whale_pct": 0.853,
+    "whale_value_at_open": 149363.3921,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790096170.7980237,
+    "fills": 1
   }
 ]
