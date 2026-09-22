@@ -149851,8 +149851,8 @@
     "title": "Buenos Aires 2: Matheus Pucinelli de Almeida vs Hugo Dellien",
     "outcome": "Matheus Pucinelli de Almeida",
     "side": "BUY",
-    "whale_usd": 1945.8224999999998,
-    "whale_pct": 1.014,
+    "whale_usd": 2488.845,
+    "whale_pct": 1.297,
     "whale_value_at_open": 191857.7105,
     "paper_stake_usd": 3.82,
     "odds_at_bet": 76,
@@ -149863,7 +149863,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790087061.5133994,
-    "fills": 1
+    "last_fill_at": 1790087528.463557,
+    "fills": 2
   }
 ]
