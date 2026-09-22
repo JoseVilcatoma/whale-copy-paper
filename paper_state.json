@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.96131204075752,
+  "bankroll": 76.97247430859721,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30305,6 +30305,16 @@
       "timestamp": 1790089383.9752789,
       "bankroll": 75.96,
       "event": "lost: ferrariChampions2026 \u2014 Tolentino: Barbora Palicova vs Alicia Herrero Linana"
+    },
+    {
+      "timestamp": 1790090451.871993,
+      "bankroll": 76.61,
+      "event": "won: RN1 \u2014 Porto: Katherine Sebov vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1790090452.746814,
+      "bankroll": 76.97,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Katherine Sebov vs Gabriela Knutson"
     }
   ]
 }
