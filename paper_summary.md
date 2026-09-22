@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 21:15:47 (hora de Perú)
+Actualizado: 2026-09-21 21:17:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $77.41
-**Retorno acumulado:** -84.52%
+**Bankroll actual:** $82.28
+**Retorno acumulado:** -83.54%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 21:15:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.86 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.55)
+**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,6 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| HomeRunHazard | 432 | 230 | 0 | -2.68 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -135,7 +136,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| HomeRunHazard | 431 | 230 | 1 | -7.56 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 608 | 286 | 3 | -13.67 USD |
+| RN1 | 608 | 286 | 4 | -13.67 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -166,18 +166,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 828 | 510 | 6 | -249.50 USD |
+| ferrariChampions2026 | 828 | 510 | 7 | -249.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5753
-- **Aciertos:** 3617 (62.9%)
+- **Apuestas resueltas:** 5754
+- **Aciertos:** 3618 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,542.49
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $528.33 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,547.49
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $528.45 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2961 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2962 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1680 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 796 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 316 | 97.2% | 97.4% | -0.2 pp |
@@ -1059,6 +1059,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 6.8% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ⏳ pendiente | — |
@@ -1087,5 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Oksana Selekhmeteva (BUY) | 51% | 5.00 | 16.2% | ✅ ganada | +4.68 |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |

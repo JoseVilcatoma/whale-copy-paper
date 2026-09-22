@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.40992333304584,
+  "bankroll": 82.28492333304584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29855,6 +29855,11 @@
       "timestamp": 1790040281.518039,
       "bankroll": 77.41,
       "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1790043431.7181983,
+      "bankroll": 82.28,
+      "event": "won: HomeRunHazard \u2014 Toronto Blue Jays vs. Baltimore Orioles"
     }
   ]
 }
