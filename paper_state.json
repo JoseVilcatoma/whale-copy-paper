@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.54792333304584,
+  "bankroll": 77.40992333304584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29850,6 +29850,11 @@
       "timestamp": 1790039464.2500818,
       "bankroll": 82.55,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Keegan Smith vs Edward Winter"
+    },
+    {
+      "timestamp": 1790040281.518039,
+      "bankroll": 77.41,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Detroit Tigers"
     }
   ]
 }
