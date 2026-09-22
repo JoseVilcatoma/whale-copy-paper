@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 11:58:11 (hora de Perú)
+Actualizado: 2026-09-22 12:00:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.09
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 11:58:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.09)
+**Capital comprometido ahora mismo:** $79.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 171 | 65 | 1 | -21.41 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| GoalLineGhost | 102 | 46 | 0 | -25.50 USD |
+| GoalLineGhost | 102 | 46 | 1 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -1080,6 +1080,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ⏳ pendiente | — |
@@ -1109,4 +1110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W50 Yecla: Miriana Tona vs Ashley Lahey | Miriana Tona (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
 | RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 6.7% | ❌ perdida | -3.80 |
 | ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ✅ ganada | +5.51 |
-| RN1 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |

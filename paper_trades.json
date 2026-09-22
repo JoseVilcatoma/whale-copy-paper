@@ -150208,5 +150208,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790096170.7980237,
     "fills": 1
+  },
+  {
+    "timestamp": 1790096336,
+    "timestamp_added": 1790096337.0879111,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uwcl-im-bhf-2026-09-22-im",
+    "title": "Will FC Internazionale Milano win on 2026-09-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 696.9528,
+    "whale_pct": 0.713,
+    "whale_value_at_open": 97785.3309,
+    "paper_stake_usd": 4.09,
+    "odds_at_bet": 73,
+    "fee_usd": 0.055,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790096337.0879207,
+    "fills": 1
   }
 ]
