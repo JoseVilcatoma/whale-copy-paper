@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:03:23 (hora de Perú)
+Actualizado: 2026-09-22 07:05:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $65.13
@@ -1075,7 +1075,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 6.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.5% | ⏳ pendiente | — |
