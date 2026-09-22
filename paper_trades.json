@@ -148413,8 +148413,8 @@
     "title": "Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 13937.8448,
-    "whale_pct": 10.42,
+    "whale_usd": 22240.925300000003,
+    "whale_pct": 16.628,
     "whale_value_at_open": 133758.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -148425,8 +148425,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790060852.7006962,
-    "fills": 2
+    "last_fill_at": 1790061623.4527504,
+    "fills": 3
   },
   {
     "timestamp": 1790060820,
@@ -148463,8 +148463,8 @@
     "title": "Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 3642.0,
-    "whale_pct": 2.753,
+    "whale_usd": 4372.526787,
+    "whale_pct": 3.305,
     "whale_value_at_open": 132288.1978,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148477,8 +148477,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790061353.5602603,
-    "fills": 1
+    "last_fill_at": 1790061684.8842463,
+    "fills": 2
   },
   {
     "timestamp": 1790061409,

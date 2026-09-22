@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 02:19:22 (hora de Perú)
+Actualizado: 2026-09-22 02:21:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.72
@@ -1066,9 +1066,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 4.49 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 10.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 16.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 72% | 5.00 | 6.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Tamara Zidansek vs Kimberly  | Kimberly Birrell (BUY) | 71% | 4.49 | 13.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
