@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.38735855238542,
+  "bankroll": 80.31735855238543,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30290,6 +30290,11 @@
       "timestamp": 1790088817.4686632,
       "bankroll": 85.39,
       "event": "won: ferrariChampions2026 \u2014 W50 Yecla: Isis Louise Van den Broek vs Diletta Cherubini"
+    },
+    {
+      "timestamp": 1790089256.2663283,
+      "bankroll": 80.32,
+      "event": "lost: RN1 \u2014 M15 Forbach: Tom Zeuch vs Lars Wagenaar"
     }
   ]
 }
