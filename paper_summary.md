@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 05:38:13 (hora de Perú)
+Actualizado: 2026-09-22 05:40:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 05:38:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.87 en 15 posiciones abiertas (disponible para nuevas apuestas: $7.40)
+**Capital comprometido ahora mismo:** $81.27 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| HMLSF | 0 | 0 | 1 | +0.00 USD |
+| HMLSF | 0 | 0 | 2 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 847 | 522 | 7 | -243.19 USD |
+| ferrariChampions2026 | 847 | 522 | 8 | -243.19 USD |
 
 ## Análisis general
 
@@ -1067,11 +1067,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-casteln-kotov-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-zaar-masarov-2026-09-22 | HMLSF, RN1 |
 | itf-carbaj1-petrov1-2026-09-22 | RN1, ferrariChampions2026 |
+| wta-pridank-egorova-2026-09-22 | HMLSF, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 0.5% | ⏳ pendiente | — |
+| HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1100,5 +1103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ✅ ganada | +1.52 |
 | RN1 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 4.49 | 7.6% | ✅ ganada | +2.24 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 27.5% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 72% | 5.00 | 10.7% | ❌ perdida | -5.07 |
-| RN1 | Korea Open: Tamara Zidansek vs Kimberly  | Kimberly Birrell (BUY) | 71% | 4.49 | 23.3% | ✅ ganada | +1.77 |
