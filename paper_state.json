@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.55527292760924,
+  "bankroll": 80.63991210286697,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30395,6 +30395,16 @@
       "timestamp": 1790101712.2209241,
       "bankroll": 85.56,
       "event": "lost: ferrariChampions2026 \u2014 Porto: Erika Andreeva vs Reese Brantmeier"
+    },
+    {
+      "timestamp": 1790102970.8143032,
+      "bankroll": 80.49,
+      "event": "lost: ferrariChampions2026 \u2014 M25 Falun: Noah Karma vs Jack Karlsson Wistrand"
+    },
+    {
+      "timestamp": 1790102972.3683965,
+      "bankroll": 80.64,
+      "event": "won: ferrariChampions2026 \u2014 M25 Falun: Noah Karma vs Jack Karlsson Wistrand"
     }
   ]
 }
