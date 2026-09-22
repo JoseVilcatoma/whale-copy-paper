@@ -148255,5 +148255,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790056666.20941,
     "fills": 1
+  },
+  {
+    "timestamp": 1790056892,
+    "timestamp_added": 1790056893.084483,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kawagu1-nishim1-2026-09-22",
+    "title": "W50 Nanao: Natsumi Kawaguchi vs Kayo Nishimura",
+    "outcome": "Natsumi Kawaguchi",
+    "side": "BUY",
+    "whale_usd": 776.57,
+    "whale_pct": 1.133,
+    "whale_value_at_open": 68513.2177,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790056893.0844924,
+    "fills": 1
   }
 ]
