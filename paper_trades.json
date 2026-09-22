@@ -147976,8 +147976,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -148000,8 +148000,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -148093,8 +148093,8 @@
     "title": "Singapore Open: Alycia Parks vs Mei Yamaguchi",
     "outcome": "Alycia Parks",
     "side": "BUY",
-    "whale_usd": 2005.9404999999997,
-    "whale_pct": 1.252,
+    "whale_usd": 4345.2654999999995,
+    "whale_pct": 2.711,
     "whale_value_at_open": 160278.5637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -148105,8 +148105,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790054401.2007475,
-    "fills": 1
+    "last_fill_at": 1790056625.9900498,
+    "fills": 2
   },
   {
     "timestamp": 1790054757,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.30416085165332,
+  "bankroll": 83.9875408095617,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29955,6 +29955,16 @@
       "timestamp": 1790055389.7670221,
       "bankroll": 81.3,
       "event": "won: RN1 \u2014 M25 Yinchuan: Kazuki Nakajima vs Ivan Dorokhov"
+    },
+    {
+      "timestamp": 1790056646.398079,
+      "bankroll": 83.27,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: So-Hyun Park vs Robin Montgomery"
+    },
+    {
+      "timestamp": 1790056646.4982336,
+      "bankroll": 83.99,
+      "event": "won: RN1 \u2014 Korea Open: So-Hyun Park vs Robin Montgomery"
     }
   ]
 }
