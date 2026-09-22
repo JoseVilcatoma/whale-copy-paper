@@ -150282,5 +150282,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790097181.432161,
     "fills": 1
+  },
+  {
+    "timestamp": 1790097755,
+    "timestamp_added": 1790097755.2547672,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-nyy-2026-05-23",
+    "title": "Tampa Bay Rays vs. New York Yankees",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 12388.563,
+    "whale_pct": 6.754,
+    "whale_value_at_open": 183425.8256,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Donkey14"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790097793.2471523,
+    "fills": 2
   }
 ]
