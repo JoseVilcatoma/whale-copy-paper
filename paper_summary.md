@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:28:54 (hora de Perú)
+Actualizado: 2026-09-22 00:30:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 00:28:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.10 en 14 posiciones abiertas (disponible para nuevas apuestas: $11.69)
+**Capital comprometido ahora mismo:** $73.10 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
-| RN1 | 611 | 288 | 4 | -11.92 USD |
+| RN1 | 611 | 288 | 5 | -11.92 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1062,6 +1062,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 1.3% | ⏳ pendiente | — |
 | kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ⏳ pendiente | — |
@@ -1091,4 +1092,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CA Barracas Central vs. CS Independiente | Over (BUY) | 63% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | RN1 | Will CA Barracas Central win on 2026-09- | No (BUY) | 97% | 5.00 | 4.3% | ✅ ganada | +0.15 |
 | Flaznorp | San Diego 2: Braden Shick vs Patrick Mal | Patrick Maloney (BUY) | 59% | 5.00 | 0.2% | ✅ ganada | +3.37 |
-| Flaznorp | Spread: CS Independiente Rivadavia (-1.5 | CA Barracas Central (BUY) | 86% | 4.97 | 0.9% | ✅ ganada | +0.77 |
