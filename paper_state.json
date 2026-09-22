@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.67461033526749,
+  "bankroll": 53.81161033526749,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30220,6 +30220,11 @@
       "timestamp": 1790080176.269086,
       "bankroll": 56.67,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Elena Pridankina vs Daria Egorova"
+    },
+    {
+      "timestamp": 1790080483.3310862,
+      "bankroll": 53.81,
+      "event": "lost: RN1 \u2014 W50 Yecla: Nahia Berecoechea vs Martha MATOULA"
     }
   ]
 }
