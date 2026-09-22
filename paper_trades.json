@@ -150342,8 +150342,8 @@
     "title": "Buenos Aires 2: Francisco Comesana vs Juan Estevez",
     "outcome": "Francisco Comesana",
     "side": "BUY",
-    "whale_usd": 12988.90856,
-    "whale_pct": 3.103,
+    "whale_usd": 17806.964659999998,
+    "whale_pct": 4.254,
     "whale_value_at_open": 418557.1877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -150354,8 +150354,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790101087.4913,
-    "fills": 4
+    "last_fill_at": 1790101254.9135919,
+    "fills": 5
   },
   {
     "timestamp": 1790100543,
