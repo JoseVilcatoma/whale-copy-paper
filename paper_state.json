@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.30528152921127,
+  "bankroll": 80.66728152921127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29880,6 +29880,11 @@
       "timestamp": 1790047961.29931,
       "bankroll": 83.31,
       "event": "won: RN1 \u2014 Giants vs. Rams"
+    },
+    {
+      "timestamp": 1790048215.228603,
+      "bankroll": 80.67,
+      "event": "lost: RN1 \u2014 Spread: LA (-9.5)"
     }
   ]
 }
