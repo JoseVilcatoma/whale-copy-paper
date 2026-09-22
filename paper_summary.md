@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 22:31:21 (hora de Perú)
+Actualizado: 2026-09-21 22:33:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.61
-**Retorno acumulado:** -83.68%
+**Bankroll actual:** $83.31
+**Retorno acumulado:** -83.34%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 22:31:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.75)
+**Capital comprometido ahora mismo:** $75.86 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,8 +146,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
+| RN1 | 609 | 286 | 4 | -11.98 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 608 | 286 | 5 | -13.67 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -170,14 +170,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5757
-- **Aciertos:** 3620 (62.9%)
+- **Apuestas resueltas:** 5758
+- **Aciertos:** 3621 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,562.49
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $528.71 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,567.49
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $528.78 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2964 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1680 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1681 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 796 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1066,7 +1066,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 6.8% | ⏳ pendiente | — |
-| RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ⏳ pendiente | — |
+| RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 20.2% | ✅ ganada | +1.69 |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
