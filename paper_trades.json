@@ -149258,8 +149258,8 @@
     "title": "W50 Yecla: Nahia Berecoechea vs Martha MATOULA",
     "outcome": "Martha MATOULA",
     "side": "BUY",
-    "whale_usd": 552.96,
-    "whale_pct": 0.263,
+    "whale_usd": 1085.44,
+    "whale_pct": 0.515,
     "whale_value_at_open": 210571.0641,
     "paper_stake_usd": 2.8,
     "odds_at_bet": 55,
@@ -149270,7 +149270,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790075373.0234525,
-    "fills": 1
+    "last_fill_at": 1790076029.436013,
+    "fills": 2
   }
 ]
