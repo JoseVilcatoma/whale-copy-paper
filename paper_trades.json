@@ -149129,8 +149129,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Daria Egorova",
     "side": "BUY",
-    "whale_usd": 7864.0050999999985,
-    "whale_pct": 2.235,
+    "whale_usd": 15664.217099999998,
+    "whale_pct": 4.451,
     "whale_value_at_open": 351928.6846,
     "paper_stake_usd": 2.4,
     "odds_at_bet": 44,
@@ -149143,8 +149143,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790074498.9456215,
-    "fills": 3
+    "last_fill_at": 1790075077.2719355,
+    "fills": 4
   },
   {
     "timestamp": 1790074072,
@@ -149179,8 +149179,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Daria Egorova",
     "side": "BUY",
-    "whale_usd": 623.6290670000001,
-    "whale_pct": 0.261,
+    "whale_usd": 5746.749067000001,
+    "whale_pct": 2.401,
     "whale_value_at_open": 239332.1552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -149194,8 +149194,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790074498.9496582,
-    "fills": 1
+    "last_fill_at": 1790075077.4666214,
+    "fills": 2
   },
   {
     "timestamp": 1790074581,
@@ -149222,5 +149222,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790074624.271087,
     "fills": 2
+  },
+  {
+    "timestamp": 1790075054,
+    "timestamp_added": 1790075055.445054,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-su-dellave-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova",
+    "outcome": "Matthew Dellavedova",
+    "side": "BUY",
+    "whale_usd": 502.45,
+    "whale_pct": 0.165,
+    "whale_value_at_open": 304770.3071,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790075055.4450645,
+    "fills": 1
   }
 ]
