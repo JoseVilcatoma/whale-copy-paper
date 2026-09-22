@@ -149129,8 +149129,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Daria Egorova",
     "side": "BUY",
-    "whale_usd": 15664.217099999998,
-    "whale_pct": 4.451,
+    "whale_usd": 24611.519099999998,
+    "whale_pct": 6.993,
     "whale_value_at_open": 351928.6846,
     "paper_stake_usd": 2.4,
     "odds_at_bet": 44,
@@ -149143,8 +149143,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790075077.2719355,
-    "fills": 4
+    "last_fill_at": 1790075200.095408,
+    "fills": 5
   },
   {
     "timestamp": 1790074072,
