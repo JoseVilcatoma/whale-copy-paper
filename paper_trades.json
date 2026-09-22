@@ -148849,5 +148849,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790067325.1824222,
     "fills": 2
+  },
+  {
+    "timestamp": 1790067412,
+    "timestamp_added": 1790067412.6139183,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-zaar-masarov-2026-09-22",
+    "title": "Tolentino: Lisa Zaar vs Rebeka Masarova",
+    "outcome": "Lisa Zaar",
+    "side": "BUY",
+    "whale_usd": 1911.5774999999999,
+    "whale_pct": 1.956,
+    "whale_value_at_open": 97742.7606,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790067412.6139264,
+    "fills": 1
   }
 ]
