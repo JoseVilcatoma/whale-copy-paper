@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.29974334787521,
+  "bankroll": 81.98181311531707,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29810,6 +29810,16 @@
       "timestamp": 1790035698.856328,
       "bankroll": 86.3,
       "event": "won: Flaznorp \u2014 San Diego 2: Braden Shick vs Patrick Maloney"
+    },
+    {
+      "timestamp": 1790036198.4158912,
+      "bankroll": 87.07,
+      "event": "won: Flaznorp \u2014 Spread: CS Independiente Rivadavia (-1.5)"
+    },
+    {
+      "timestamp": 1790036199.2010915,
+      "bankroll": 81.98,
+      "event": "lost: GoalLineGhost \u2014 CA Barracas Central vs. CS Independiente Rivadavia: O/U 1.5"
     }
   ]
 }
