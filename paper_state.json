@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.39125900559158,
+  "bankroll": 74.84899873161898,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30445,6 +30445,11 @@
       "timestamp": 1790109694.3175874,
       "bankroll": 73.39,
       "event": "won: GoalLineGhost \u2014 Spread: FC Bayern M\u00fcnchen (-2.5)"
+    },
+    {
+      "timestamp": 1790109883.6681652,
+      "bankroll": 74.85,
+      "event": "won: GoalLineGhost \u2014 Will FC Internazionale Milano win on 2026-09-22?"
     }
   ]
 }
