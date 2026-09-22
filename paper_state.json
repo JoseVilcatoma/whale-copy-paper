@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.31735855238543,
+  "bankroll": 75.96131204075752,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30295,6 +30295,16 @@
       "timestamp": 1790089256.2663283,
       "bankroll": 80.32,
       "event": "lost: RN1 \u2014 M15 Forbach: Tom Zeuch vs Lars Wagenaar"
+    },
+    {
+      "timestamp": 1790089383.5746245,
+      "bankroll": 81.1,
+      "event": "won: HMLSF \u2014 Tolentino: Barbora Palicova vs Alicia Herrero Linana"
+    },
+    {
+      "timestamp": 1790089383.9752789,
+      "bankroll": 75.96,
+      "event": "lost: ferrariChampions2026 \u2014 Tolentino: Barbora Palicova vs Alicia Herrero Linana"
     }
   ]
 }
