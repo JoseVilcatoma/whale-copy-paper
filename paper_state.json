@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.97405981229808,
+  "bankroll": 81.68818624907969,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30000,6 +30000,11 @@
       "timestamp": 1790061052.0473547,
       "bankroll": 80.97,
       "event": "lost: GoalLineGhost \u2014 Cuiab\u00e1 EC vs. Clube N\u00e1utico Capibaribe: O/U 2.5"
+    },
+    {
+      "timestamp": 1790061304.1739008,
+      "bankroll": 81.69,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Alycia Parks vs Mei Yamaguchi"
     }
   ]
 }
