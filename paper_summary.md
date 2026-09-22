@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 21:54:36 (hora de Perú)
+Actualizado: 2026-09-21 21:56:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 21:54:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.86 en 16 posiciones abiertas (disponible para nuevas apuestas: $10.89)
+**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 608 | 286 | 4 | -13.67 USD |
+| RN1 | 608 | 286 | 5 | -13.67 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury | Dallas Wings (BUY) | 80% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
 | GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
-| GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 1.5 | Under (BUY) | 52% | 3.03 | 0.5% | ✅ ganada | +2.72 |

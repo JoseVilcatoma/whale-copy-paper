@@ -147789,5 +147789,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790044225.0771723,
     "fills": 1
+  },
+  {
+    "timestamp": 1790045692,
+    "timestamp_added": 1790045693.1531212,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-nyg-la-2026-09-22-total-39pt5",
+    "title": "Giants vs. Rams: O/U 39.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1549.17,
+    "whale_pct": 0.505,
+    "whale_value_at_open": 306624.1672,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790045743.077682,
+    "fills": 2
   }
 ]
