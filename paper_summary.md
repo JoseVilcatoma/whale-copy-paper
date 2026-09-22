@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 03:15:46 (hora de Perú)
+Actualizado: 2026-09-22 03:17:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.77
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 03:15:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.68 en 16 posiciones abiertas (disponible para nuevas apuestas: $13.09)
+**Capital comprometido ahora mismo:** $80.68 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -146,7 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
-| RN1 | 617 | 290 | 6 | -12.84 USD |
+| RN1 | 617 | 290 | 7 | -12.84 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -1068,12 +1068,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -1097,4 +1098,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 15.4% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 1.1% | ❌ perdida | -5.09 |
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
-| ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 6.1% | ✅ ganada | +1.97 |

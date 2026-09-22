@@ -148561,8 +148561,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
     "outcome": "Jelena Ostapenko",
     "side": "BUY",
-    "whale_usd": 1876.054344,
-    "whale_pct": 1.043,
+    "whale_usd": 2645.812844,
+    "whale_pct": 1.471,
     "whale_value_at_open": 179898.3085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -148573,8 +148573,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790063837.9463077,
-    "fills": 2
+    "last_fill_at": 1790064961.2189941,
+    "fills": 3
   },
   {
     "timestamp": 1790064106,
@@ -148687,8 +148687,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
     "outcome": "Jelena Ostapenko",
     "side": "BUY",
-    "whale_usd": 1311.4336,
-    "whale_pct": 1.208,
+    "whale_usd": 3209.6508000000003,
+    "whale_pct": 2.955,
     "whale_value_at_open": 108605.3694,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -148701,7 +148701,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790064935.8117497,
-    "fills": 2
+    "last_fill_at": 1790064983.6032355,
+    "fills": 4
+  },
+  {
+    "timestamp": 1790065003,
+    "timestamp_added": 1790065003.3602548,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-zeuch1-wagena1-2026-09-22",
+    "title": "M15 Forbach: Tom Zeuch vs Lars Wagenaar",
+    "outcome": "Lars Wagenaar",
+    "side": "BUY",
+    "whale_usd": 5183.990199999999,
+    "whale_pct": 4.744,
+    "whale_value_at_open": 109264.163,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790065003.3602626,
+    "fills": 1
   }
 ]
