@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 15:35:41 (hora de Perú)
+Actualizado: 2026-09-22 15:37:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.69
@@ -1082,7 +1082,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
-| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Madrid CF Femenino win on 2026 | No (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves: O/U  | Under (BUY) | 41% | 2.26 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |

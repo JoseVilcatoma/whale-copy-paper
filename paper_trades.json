@@ -150510,8 +150510,8 @@
     "title": "Will Sport Lisboa e Benfica win on 2026-09-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 895.0036000000001,
-    "whale_pct": 0.399,
+    "whale_usd": 1767.004,
+    "whale_pct": 0.788,
     "whale_value_at_open": 224147.0085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -150522,8 +150522,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790109268.162652,
-    "fills": 1
+    "last_fill_at": 1790109451.458396,
+    "fills": 2
   },
   {
     "timestamp": 1790109268,
