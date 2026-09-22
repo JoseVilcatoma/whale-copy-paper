@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.82147330648378,
+  "bankroll": 85.38735855238542,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30285,6 +30285,11 @@
       "timestamp": 1790086794.9846442,
       "bankroll": 82.82,
       "event": "won: ferrariChampions2026 \u2014 St. Tropez: Titouan Droguet vs Karl Poling"
+    },
+    {
+      "timestamp": 1790088817.4686632,
+      "bankroll": 85.39,
+      "event": "won: ferrariChampions2026 \u2014 W50 Yecla: Isis Louise Van den Broek vs Diletta Cherubini"
     }
   ]
 }
