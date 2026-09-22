@@ -148043,8 +148043,8 @@
     "title": "Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic",
     "outcome": "Alexandre Muller",
     "side": "BUY",
-    "whale_usd": 2483.5223830000004,
-    "whale_pct": 1.546,
+    "whale_usd": 8990.792383,
+    "whale_pct": 5.596,
     "whale_value_at_open": 160658.7062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -148055,8 +148055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790058614.8346844,
-    "fills": 2
+    "last_fill_at": 1790059600.0779576,
+    "fills": 3
   },
   {
     "timestamp": 1790054330,
@@ -148217,8 +148217,8 @@
     "title": "Korea Open: Alevtina Ibragimova vs Yeon-Woo Ku",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 3269.199189,
-    "whale_pct": 1.739,
+    "whale_usd": 3931.627755,
+    "whale_pct": 2.091,
     "whale_value_at_open": 188042.6605,
     "paper_stake_usd": 3.2,
     "odds_at_bet": 56,
@@ -148229,8 +148229,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790059455.0023699,
-    "fills": 3
+    "last_fill_at": 1790059666.1509247,
+    "fills": 4
   },
   {
     "timestamp": 1790056665,
