@@ -148363,8 +148363,8 @@
     "title": "Korea Open: Tamara Zidansek vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 16263.294993,
-    "whale_pct": 19.606,
+    "whale_usd": 17156.942493,
+    "whale_pct": 20.684,
     "whale_value_at_open": 82949.8075,
     "paper_stake_usd": 4.49,
     "odds_at_bet": 71,
@@ -148375,8 +148375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790062898.9495308,
-    "fills": 6
+    "last_fill_at": 1790065123.3378901,
+    "fills": 7
   },
   {
     "timestamp": 1790060764,
@@ -148726,6 +148726,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790065003.3602626,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790065161,
+    "timestamp_added": 1790065161.979424,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sanchis-wendelk-2026-09-21",
+    "title": "St. Tropez: David Jorda Sanchis vs Harry Wendelken",
+    "outcome": "Harry Wendelken",
+    "side": "BUY",
+    "whale_usd": 570.0,
+    "whale_pct": 0.447,
+    "whale_value_at_open": 127392.3108,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790065161.9794328,
     "fills": 1
   }
 ]
