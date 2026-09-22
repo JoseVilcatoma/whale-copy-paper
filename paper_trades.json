@@ -149841,5 +149841,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790086983.1028154,
     "fills": 1
+  },
+  {
+    "timestamp": 1790087061,
+    "timestamp_added": 1790087061.513392,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-almeida-dellien-2026-09-21",
+    "title": "Buenos Aires 2: Matheus Pucinelli de Almeida vs Hugo Dellien",
+    "outcome": "Matheus Pucinelli de Almeida",
+    "side": "BUY",
+    "whale_usd": 1945.8224999999998,
+    "whale_pct": 1.014,
+    "whale_value_at_open": 191857.7105,
+    "paper_stake_usd": 3.82,
+    "odds_at_bet": 76,
+    "fee_usd": 0.046,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790087061.5133994,
+    "fills": 1
   }
 ]
