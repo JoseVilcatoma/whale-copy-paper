@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:30:01 (hora de Perú)
+Actualizado: 2026-09-22 07:32:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 07:30:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $47.66 en 10 posiciones abiertas (disponible para nuevas apuestas: $9.01)
+**Capital comprometido ahora mismo:** $52.66 en 11 posiciones abiertas (disponible para nuevas apuestas: $4.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| HMLSF | 2 | 0 | 0 | +8.40 USD |
+| HMLSF | 2 | 0 | 1 | +8.40 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -1075,6 +1075,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ✅ ganada | +0.71 |
@@ -1104,4 +1105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ✅ ganada | +2.27 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
-| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ✅ ganada | +4.32 |

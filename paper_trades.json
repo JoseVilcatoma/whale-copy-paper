@@ -149373,5 +149373,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790080180.6694355,
     "fills": 1
+  },
+  {
+    "timestamp": 1790080201,
+    "timestamp_added": 1790080201.8445013,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-krejcik-friedsa-2026-09-21",
+    "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
+    "outcome": "Barbora Krejcikova",
+    "side": "BUY",
+    "whale_usd": 505.79479999999995,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 178668.6192,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790080201.844512,
+    "fills": 1
   }
 ]
