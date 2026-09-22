@@ -148883,8 +148883,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 118765.9619,
-    "whale_pct": 83.714,
+    "whale_usd": 140790.2819,
+    "whale_pct": 99.239,
     "whale_value_at_open": 141870.5524,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148897,8 +148897,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790072492.7683387,
-    "fills": 13
+    "last_fill_at": 1790072758.4892826,
+    "fills": 15
   },
   {
     "timestamp": 1790069254,
@@ -148909,8 +148909,8 @@
     "title": "Tolentino: Lisa Zaar vs Rebeka Masarova",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 7184.3104,
-    "whale_pct": 9.272,
+    "whale_usd": 19499.283199999998,
+    "whale_pct": 25.165,
     "whale_value_at_open": 77484.8289,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -148923,8 +148923,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790072339.9587336,
-    "fills": 2
+    "last_fill_at": 1790072857.9075696,
+    "fills": 3
   },
   {
     "timestamp": 1790069314,
