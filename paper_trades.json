@@ -150898,8 +150898,8 @@
     "title": "Crici\u00fama EC vs. Oper\u00e1rio Ferrovi\u00e1rio EC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1216.002868,
-    "whale_pct": 1.343,
+    "whale_usd": 1776.005068,
+    "whale_pct": 1.961,
     "whale_value_at_open": 90566.5294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -150910,8 +150910,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790119280.7038996,
-    "fills": 2
+    "last_fill_at": 1790119879.6920087,
+    "fills": 3
   },
   {
     "timestamp": 1790118161,
