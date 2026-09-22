@@ -148181,5 +148181,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790055375.6320825,
     "fills": 3
+  },
+  {
+    "timestamp": 1790055453,
+    "timestamp_added": 1790055454.653149,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-bondar-zarazua-2026-09-20",
+    "title": "Korea Open: Anna Bondar vs Renata Zarazua",
+    "outcome": "Anna Bondar",
+    "side": "BUY",
+    "whale_usd": 1950.0,
+    "whale_pct": 1.035,
+    "whale_value_at_open": 188333.7248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790055454.6531594,
+    "fills": 1
   }
 ]
