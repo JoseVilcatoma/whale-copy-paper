@@ -148050,8 +148050,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -148074,8 +148074,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -148550,6 +148550,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790062989.7013395,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790063662,
+    "timestamp_added": 1790063662.5059118,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ostapen-zakharo-2026-09-20",
+    "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
+    "outcome": "Jelena Ostapenko",
+    "side": "BUY",
+    "whale_usd": 702.1413,
+    "whale_pct": 0.39,
+    "whale_value_at_open": 179898.3085,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790063662.5059202,
     "fills": 1
   }
 ]

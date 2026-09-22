@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.16831146953824,
+  "bankroll": 86.65365054528338,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30020,6 +30020,16 @@
       "timestamp": 1790062809.570566,
       "bankroll": 80.17,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Alevtina Ibragimova vs Yeon-Woo Ku"
+    },
+    {
+      "timestamp": 1790063626.7835443,
+      "bankroll": 84.49,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic"
+    },
+    {
+      "timestamp": 1790063626.883899,
+      "bankroll": 86.65,
+      "event": "won: kkookkoo \u2014 Chengdu Open, Qualification: Alexandre Muller vs Luka Pavlovic"
     }
   ]
 }
