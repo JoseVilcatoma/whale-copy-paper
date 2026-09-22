@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.00290187791235,
+  "bankroll": 82.82147330648378,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30280,6 +30280,11 @@
       "timestamp": 1790086481.389789,
       "bankroll": 79.0,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Filip Jianu vs Ivan Ivanov"
+    },
+    {
+      "timestamp": 1790086794.9846442,
+      "bankroll": 82.82,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: Titouan Droguet vs Karl Poling"
     }
   ]
 }
