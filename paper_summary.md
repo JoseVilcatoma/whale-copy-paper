@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 11:45:38 (hora de Perú)
+Actualizado: 2026-09-22 11:47:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.81
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 11:45:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $17.81)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $7.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 862 | 529 | 5 | -230.10 USD |
+| ferrariChampions2026 | 862 | 529 | 7 | -230.10 USD |
 
 ## Análisis general
 
@@ -1080,8 +1080,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Iliyan Radulov vs Pavel Lagut | Iliyan Radulov (BUY) | 63% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Harold Mayot vs Justin Boula | Justin Boulais (BUY) | 50% | 5.00 | 9.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1108,5 +1110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 6.0% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 10.5% | ✅ ganada | +1.80 |
 | HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 6.3% | ✅ ganada | +3.37 |
-| RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ✅ ganada | +0.59 |
