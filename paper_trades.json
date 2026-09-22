@@ -149289,8 +149289,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -149340,8 +149340,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [
       "RN1"
     ],
@@ -149431,8 +149431,8 @@
     "title": "St. Tropez: Titouan Droguet vs Karl Poling",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 3229.2645,
-    "whale_pct": 0.781,
+    "whale_usd": 7556.522,
+    "whale_pct": 1.828,
     "whale_value_at_open": 413332.4816,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -149443,8 +149443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790080843.2302346,
-    "fills": 1
+    "last_fill_at": 1790081345.6879668,
+    "fills": 2
   },
   {
     "timestamp": 1790080975,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.5713722400294,
+  "bankroll": 62.517606178375694,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30230,6 +30230,16 @@
       "timestamp": 1790080793.1372325,
       "bankroll": 60.57,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Alina Charaeva vs Sofia Kenin"
+    },
+    {
+      "timestamp": 1790081417.7298582,
+      "bankroll": 61.93,
+      "event": "won: RN1 \u2014 Ankara: Martyna Kubka vs Berfu Cengiz"
+    },
+    {
+      "timestamp": 1790081417.829997,
+      "bankroll": 62.52,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Martyna Kubka vs Berfu Cengiz"
     }
   ]
 }
