@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 08:13:16 (hora de Perú)
+Actualizado: 2026-09-22 08:15:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $62.72
@@ -1077,7 +1077,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | W50 Yecla: Miriana Tona vs Ashley Lahey | Miriana Tona (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 6.3% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |

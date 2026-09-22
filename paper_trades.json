@@ -149532,8 +149532,8 @@
     "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
     "outcome": "Anna-Lena Friedsam",
     "side": "BUY",
-    "whale_usd": 9616.951728,
-    "whale_pct": 6.29,
+    "whale_usd": 10246.359728,
+    "whale_pct": 6.702,
     "whale_value_at_open": 152884.425,
     "paper_stake_usd": 3.71,
     "odds_at_bet": 53,
@@ -149547,8 +149547,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790082611.835528,
-    "fills": 7
+    "last_fill_at": 1790082846.721762,
+    "fills": 8
   },
   {
     "timestamp": 1790082669,
