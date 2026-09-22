@@ -148809,8 +148809,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Luca Castelnuovo",
     "side": "BUY",
-    "whale_usd": 9946.499,
-    "whale_pct": 10.585,
+    "whale_usd": 12369.349,
+    "whale_pct": 13.163,
     "whale_value_at_open": 93970.4496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -148823,8 +148823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790071943.373434,
-    "fills": 4
+    "last_fill_at": 1790072220.7265105,
+    "fills": 5
   },
   {
     "timestamp": 1790067260,
@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 47448.37947199999,
-    "whale_pct": 47.869,
+    "whale_usd": 50241.74047199999,
+    "whale_pct": 50.687,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790072024.1706758,
-    "fills": 20
+    "last_fill_at": 1790072150.5430892,
+    "fills": 21
   },
   {
     "timestamp": 1790067412,
