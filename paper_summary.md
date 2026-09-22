@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 03:30:27 (hora de Perú)
+Actualizado: 2026-09-22 03:32:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.77
@@ -1068,10 +1068,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | Harry Wendelken (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
-| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 5.3% | ⏳ pendiente | — |
+| RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |

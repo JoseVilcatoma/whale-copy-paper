@@ -148687,8 +148687,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
     "outcome": "Jelena Ostapenko",
     "side": "BUY",
-    "whale_usd": 5708.8308,
-    "whale_pct": 5.256,
+    "whale_usd": 6473.8308,
+    "whale_pct": 5.961,
     "whale_value_at_open": 108605.3694,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -148701,8 +148701,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790065307.9017053,
-    "fills": 5
+    "last_fill_at": 1790065883.7045202,
+    "fills": 6
   },
   {
     "timestamp": 1790065003,
@@ -148761,8 +148761,8 @@
     "title": "St. Tropez: David Jorda Sanchis vs Harry Wendelken",
     "outcome": "David Jorda Sanchis",
     "side": "BUY",
-    "whale_usd": 1328.784,
-    "whale_pct": 1.18,
+    "whale_usd": 2352.3070000000002,
+    "whale_pct": 2.089,
     "whale_value_at_open": 112595.1513,
     "paper_stake_usd": 3.09,
     "odds_at_bet": 49,
@@ -148773,7 +148773,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790065822.533615,
-    "fills": 1
+    "last_fill_at": 1790065952.8785074,
+    "fills": 2
   }
 ]
