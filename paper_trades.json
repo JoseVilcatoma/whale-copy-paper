@@ -149455,8 +149455,8 @@
     "title": "Plovdiv 4: Filip Jianu vs Ivan Ivanov",
     "outcome": "Ivan Ivanov",
     "side": "BUY",
-    "whale_usd": 1890.411156,
-    "whale_pct": 0.455,
+    "whale_usd": 4334.634756,
+    "whale_pct": 1.042,
     "whale_value_at_open": 415794.6848,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -149467,8 +149467,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790081076.5954866,
-    "fills": 2
+    "last_fill_at": 1790083747.3549979,
+    "fills": 3
   },
   {
     "timestamp": 1790081450,
