@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.53092030024644,
+  "bankroll": 77.53547585580199,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30455,6 +30455,16 @@
       "timestamp": 1790110762.7692676,
       "bankroll": 79.53,
       "event": "won: ferrariChampions2026 \u2014 Tolentino: Jennifer Ruggeri vs Julia Grabher"
+    },
+    {
+      "timestamp": 1790113263.071186,
+      "bankroll": 74.44,
+      "event": "lost: ferrariChampions2026 \u2014 Genoa 2: Matthew William Donald vs Gianluca Cadenasso"
+    },
+    {
+      "timestamp": 1790113263.5411873,
+      "bankroll": 77.54,
+      "event": "won: ferrariChampions2026 \u2014 Genoa 2: Matthew William Donald vs Gianluca Cadenasso"
     }
   ]
 }
