@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 14:50:22 (hora de Perú)
+Actualizado: 2026-09-22 14:52:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.35
@@ -1083,7 +1083,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves: O/U  | Under (BUY) | 41% | 2.26 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Jack Karlsson Wistrand (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
