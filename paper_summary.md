@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 05:46:36 (hora de Perú)
+Actualizado: 2026-09-22 05:48:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.27
-**Retorno acumulado:** -83.75%
+**Bankroll actual:** $82.96
+**Retorno acumulado:** -83.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 05:46:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.27 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $81.27 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,10 +137,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| RN1 | 623 | 291 | 6 | -7.79 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
-| RN1 | 622 | 291 | 6 | -9.48 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -171,13 +171,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5810
-- **Aciertos:** 3654 (62.9%)
+- **Apuestas resueltas:** 5811
+- **Aciertos:** 3655 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,810.29
+- **Total apostado (suma de stakes):** $28,815.29
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $533.33 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $533.39 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2990 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1699 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1700 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1073,6 +1073,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 0.5% | ⏳ pendiente | — |
 | HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -1080,7 +1081,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 19.8% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | W50 Plovdiv: Nellie Taraba Wallberg vs S | Nellie Taraba Wallberg (BUY) | 65% | 4.10 | 0.5% | ⏳ pendiente | — |
-| RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 7.4% | ⏳ pendiente | — |
+| RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 7.4% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Korea Open: Alina Charaeva vs Sofia Keni | Alina Charaeva (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 99.2% | ⏳ pendiente | — |
@@ -1102,4 +1103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ✅ ganada | +1.52 |
 | RN1 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 4.49 | 7.6% | ✅ ganada | +2.24 |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 27.5% | ✅ ganada | +2.49 |
