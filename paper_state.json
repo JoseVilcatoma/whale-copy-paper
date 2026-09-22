@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.37465138617061,
+  "bankroll": 72.94265138617061,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30165,6 +30165,21 @@
       "timestamp": 1790074807.9583697,
       "bankroll": 77.37,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790077362.8860478,
+      "bankroll": 72.24,
+      "event": "lost: RN1 \u2014 Tolentino: Lisa Zaar vs Rebeka Masarova"
+    },
+    {
+      "timestamp": 1790077362.9861617,
+      "bankroll": 77.11,
+      "event": "won: HMLSF \u2014 Tolentino: Lisa Zaar vs Rebeka Masarova"
+    },
+    {
+      "timestamp": 1790077363.471466,
+      "bankroll": 72.94,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Plovdiv: Nellie Taraba Wallberg vs Sapfo Sakellaridi"
     }
   ]
 }

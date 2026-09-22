@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 06:41:45 (hora de Perú)
+Actualizado: 2026-09-22 06:43:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $77.37
-**Retorno acumulado:** -84.53%
+**Bankroll actual:** $72.94
+**Retorno acumulado:** -85.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 06:41:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.37 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $63.27 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| HMLSF | 1 | 0 | 1 | +4.88 USD |
 | Elaran1993 | 3 | 1 | 0 | +4.70 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -92,7 +93,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| HMLSF | 0 | 0 | 2 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -147,13 +147,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
-| RN1 | 623 | 292 | 7 | -12.87 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
+| RN1 | 623 | 293 | 6 | -18.00 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | GoalLineGhost | 102 | 46 | 0 | -25.50 USD |
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 849 | 523 | 7 | -243.69 USD |
+| ferrariChampions2026 | 849 | 524 | 6 | -247.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5815
-- **Aciertos:** 3657 (62.9%)
+- **Apuestas resueltas:** 5818
+- **Aciertos:** 3658 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,835.20
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $533.71 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,849.30
+- **ROI sobre lo apostado:** -1.92%
+- **Comisiones pagadas (taker fee):** $534.05 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,8 +186,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2990 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1704 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 2992 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1705 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1085,12 +1085,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 19.8% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | W50 Plovdiv: Nellie Taraba Wallberg vs S | Nellie Taraba Wallberg (BUY) | 65% | 4.10 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Plovdiv: Nellie Taraba Wallberg vs S | Nellie Taraba Wallberg (BUY) | 65% | 4.10 | 0.5% | ❌ perdida | -4.17 |
 | RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 7.4% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Korea Open: Alina Charaeva vs Sofia Keni | Alina Charaeva (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
-| HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 25.2% | ⏳ pendiente | — |
+| HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 25.2% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 99.2% | ✅ ganada | +2.97 |
-| RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 13.3% | ⏳ pendiente | — |
+| RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 13.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 50.7% | ✅ ganada | +1.52 |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 18.5% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 11.8% | ❌ perdida | -4.99 |
