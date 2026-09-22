@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.68098722853955,
+  "bankroll": 89.2833259172065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30065,6 +30065,16 @@
       "timestamp": 1790066640.246155,
       "bankroll": 83.68,
       "event": "won: RN1 \u2014 Singapore Open: Donna Vekic vs Xinyu Wang"
+    },
+    {
+      "timestamp": 1790067016.4502761,
+      "bankroll": 89.19,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te"
+    },
+    {
+      "timestamp": 1790067017.3014517,
+      "bankroll": 89.28,
+      "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Rigele Te"
     }
   ]
 }
