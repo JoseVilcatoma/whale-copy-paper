@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 09:56:51 (hora de Perú)
+Actualizado: 2026-09-22 09:58:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.39
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 09:56:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.68 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.71)
+**Capital comprometido ahora mismo:** $83.68 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -115,7 +115,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
-| Donkey14 | 2 | 3 | 0 | -3.60 USD |
+| Donkey14 | 2 | 3 | 1 | -3.60 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
@@ -1078,6 +1078,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Aurora Zantedeschi vs Marta L | Marta Lombardini (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Yecla: Isis Louise Van den Broek vs  | Diletta Cherubini (BUY) | 61% | 4.14 | 0.2% | ✅ ganada | +2.57 |
@@ -1107,4 +1108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ✅ ganada | +2.45 |
 | RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 8.2% | ❌ perdida | -5.12 |
 | RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 13.2% | ❌ perdida | -2.47 |
