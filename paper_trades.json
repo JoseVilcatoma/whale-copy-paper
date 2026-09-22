@@ -148785,8 +148785,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Luca Castelnuovo",
     "side": "BUY",
-    "whale_usd": 1497.328858,
-    "whale_pct": 1.425,
+    "whale_usd": 6429.811557999999,
+    "whale_pct": 6.117,
     "whale_value_at_open": 105105.3293,
     "paper_stake_usd": 4.91,
     "odds_at_bet": 66,
@@ -148797,8 +148797,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790066644.375048,
-    "fills": 1
+    "last_fill_at": 1790071834.7481165,
+    "fills": 2
   },
   {
     "timestamp": 1790067068,
@@ -148809,8 +148809,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Luca Castelnuovo",
     "side": "BUY",
-    "whale_usd": 3067.129,
-    "whale_pct": 3.264,
+    "whale_usd": 7523.648999999999,
+    "whale_pct": 8.006,
     "whale_value_at_open": 93970.4496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -148823,8 +148823,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790067069.3416405,
-    "fills": 1
+    "last_fill_at": 1790071834.828011,
+    "fills": 3
   },
   {
     "timestamp": 1790067260,
@@ -148883,8 +148883,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 93390.2809,
-    "whale_pct": 65.828,
+    "whale_usd": 97430.18089999999,
+    "whale_pct": 68.675,
     "whale_value_at_open": 141870.5524,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148897,8 +148897,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790071562.6280086,
-    "fills": 10
+    "last_fill_at": 1790071787.5543633,
+    "fills": 11
   },
   {
     "timestamp": 1790069254,
