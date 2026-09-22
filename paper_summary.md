@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 22:10:50 (hora de Perú)
+Actualizado: 2026-09-21 22:12:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 22:10:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.89)
+**Capital comprometido ahora mismo:** $85.86 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 829 | 510 | 7 | -245.18 USD |
+| ferrariChampions2026 | 829 | 510 | 8 | -245.18 USD |
 
 ## Análisis general
 
@@ -1059,6 +1059,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury | Dallas Wings (BUY) | 80% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FK Csíkszereda Miercurea Ciuc win o | No (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Korea Open: Eva Lys vs Gabriela Ruse | Gabriela Ruse (BUY) | 63% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Federica Urgesi vs Oksana Sel | Federica Urgesi (BUY) | 53% | 3.23 | 8.4% | ❌ perdida | -3.31 |
-| GoalLineGhost | CSD Tristan Suarez vs. CA Atlanta: O/U 4 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
