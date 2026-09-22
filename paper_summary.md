@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 00:07:09 (hora de Perú)
+Actualizado: 2026-09-22 00:09:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $76.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 00:07:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $61.72 en 13 posiciones abiertas (disponible para nuevas apuestas: $14.99)
+**Capital comprometido ahora mismo:** $66.72 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 609 | 287 | 5 | -14.62 USD |
+| RN1 | 609 | 287 | 6 | -14.62 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1055,12 +1055,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-quevedo-podoros-2026-09-20 | ferrariChampions2026, kkookkoo |
 | atp-hassan-tiffon-2026-09-21 | ferrariChampions2026, kkookkoo |
 | wta-bondar-zarazua-2026-09-20 | RN1, ferrariChampions2026 |
+| wta-park-montgom-2026-09-20 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 53% | 3.10 | 3.0% | ⏳ pendiente | — |
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1089,4 +1091,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Cuiabá EC vs. Clube Náutico Capibaribe:  | Under (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Manta FC vs. Orense SC: O/U 3.5 | Under (BUY) | 85% | 5.00 | 0.2% | ✅ ganada | +0.84 |
 | Flaznorp | Bogota FC vs. Barranquilla FC: O/U 2.5 | Under (BUY) | 60% | 3.17 | 0.8% | ❌ perdida | -3.23 |
-| Flaznorp | San Diego 2: Ozan Baris vs Alex Rybakov | Ozan Baris (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |

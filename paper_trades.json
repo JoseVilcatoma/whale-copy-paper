@@ -147969,8 +147969,8 @@
     "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
     "outcome": "So-Hyun Park",
     "side": "BUY",
-    "whale_usd": 1283.699667,
-    "whale_pct": 0.51,
+    "whale_usd": 11033.930667,
+    "whale_pct": 4.383,
     "whale_value_at_open": 251761.3871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -147981,7 +147981,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790053369.2108552,
-    "fills": 1
+    "last_fill_at": 1790053687.7899323,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790053686,
+    "timestamp_added": 1790053687.240486,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-park-montgom-2026-09-20",
+    "title": "Korea Open: So-Hyun Park vs Robin Montgomery",
+    "outcome": "So-Hyun Park",
+    "side": "BUY",
+    "whale_usd": 10285.145867,
+    "whale_pct": 3.466,
+    "whale_value_at_open": 296779.5241,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790053729.5698097,
+    "fills": 3
   }
 ]
