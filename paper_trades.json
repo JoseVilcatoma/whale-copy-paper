@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 22551.124,
-    "whale_pct": 22.751,
+    "whale_usd": 32150.806923999997,
+    "whale_pct": 32.436,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790069323.5844045,
-    "fills": 8
+    "last_fill_at": 1790070977.8890898,
+    "fills": 14
   },
   {
     "timestamp": 1790067412,
@@ -148959,8 +148959,8 @@
     "title": "W15 Constanta: Yeva Galiievska vs Virginia Proietti",
     "outcome": "Virginia Proietti",
     "side": "BUY",
-    "whale_usd": 565.2937000000001,
-    "whale_pct": 0.672,
+    "whale_usd": 6259.572700000001,
+    "whale_pct": 7.442,
     "whale_value_at_open": 84112.136,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -148971,8 +148971,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790069351.7745085,
-    "fills": 1
+    "last_fill_at": 1790070971.5527306,
+    "fills": 2
   },
   {
     "timestamp": 1790069465,

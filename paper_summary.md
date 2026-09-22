@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 04:54:16 (hora de Perú)
+Actualizado: 2026-09-22 04:56:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $81.96
@@ -1076,12 +1076,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Nellie Taraba Wallberg vs S | Nellie Taraba Wallberg (BUY) | 65% | 4.10 | 0.5% | ⏳ pendiente | — |
-| RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | W15 Constanta: Yeva Galiievska vs Virgin | Virginia Proietti (BUY) | 74% | 5.00 | 7.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Alina Charaeva vs Sofia Keni | Alina Charaeva (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 22.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 32.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ⏳ pendiente | — |
