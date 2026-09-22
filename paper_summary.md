@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 17:55:02 (hora de Perú)
+Actualizado: 2026-09-22 17:57:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 17:55:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.25)
+**Capital comprometido ahora mismo:** $81.94 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 873 | 535 | 7 | -228.75 USD |
+| ferrariChampions2026 | 873 | 535 | 8 | -228.75 USD |
 
 ## Análisis general
 
@@ -1084,6 +1084,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 2.7% | ⏳ pendiente | — |
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1113,4 +1114,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ✅ ganada | +1.46 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ❌ perdida | -5.06 |
-| Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ✅ ganada | +3.37 |

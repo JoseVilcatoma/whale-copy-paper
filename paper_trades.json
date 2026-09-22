@@ -150864,5 +150864,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790117660.8303137,
     "fills": 1
+  },
+  {
+    "timestamp": 1790117748,
+    "timestamp_added": 1790117749.2818708,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tb-nyy-2026-09-22-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 7975.909999,
+    "whale_pct": 2.714,
+    "whale_value_at_open": 293849.8562,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790117749.2818832,
+    "fills": 1
   }
 ]
