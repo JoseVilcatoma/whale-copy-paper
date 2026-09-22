@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 17:11:28 (hora de Perú)
+Actualizado: 2026-09-22 17:13:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $81.51
-**Retorno acumulado:** -83.70%
+**Bankroll actual:** $86.80
+**Retorno acumulado:** -82.64%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 17:11:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.51 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $81.51 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 172 | 65 | 2 | -19.89 USD |
+| Flaznorp | 172 | 65 | 3 | -19.89 USD |
 | GoalLineGhost | 105 | 46 | 3 | -23.25 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 870 | 535 | 8 | -235.01 USD |
+| ferrariChampions2026 | 871 | 535 | 7 | -229.72 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5876
-- **Aciertos:** 3696 (62.9%)
+- **Apuestas resueltas:** 5877
+- **Aciertos:** 3697 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,124.87
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $538.99 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,129.87
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $539.12 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3020 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3021 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1724 | 68.6% | 67.9% | +0.8 pp |
 | 80-94% | 810 | 85.9% | 86.5% | -0.6 pp |
 | 95-99% (casi seguro) | 322 | 97.2% | 97.4% | -0.1 pp |
@@ -1084,6 +1084,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 9.1% | ⏳ pendiente | — |
@@ -1107,10 +1108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 90.3% | ✅ ganada | +3.23 |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ✅ ganada | +1.46 |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ❌ perdida | -5.06 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 59% | 5.00 | 25.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | St. Tropez: Matteo Martineau vs Tristan  | Matteo Martineau (BUY) | 41% | 5.00 | 2.9% | ✅ ganada | +7.05 |
 | ferrariChampions2026 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Erika Andreeva vs Reese Brantmeie | Erika Andreeva (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
-| Donkey14 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 65% | 5.00 | 4.6% | ❌ perdida | -5.09 |
