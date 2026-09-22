@@ -149272,5 +149272,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790076029.436013,
     "fills": 2
+  },
+  {
+    "timestamp": 1790077883,
+    "timestamp_added": 1790077884.2217786,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-kubka-cengiz-2026-09-22",
+    "title": "Ankara: Martyna Kubka vs Berfu Cengiz",
+    "outcome": "Berfu Cengiz",
+    "side": "BUY",
+    "whale_usd": 5797.28,
+    "whale_pct": 3.313,
+    "whale_value_at_open": 174976.3772,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790077884.2217894,
+    "fills": 1
   }
 ]

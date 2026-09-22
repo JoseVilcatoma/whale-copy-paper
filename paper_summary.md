@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 06:50:05 (hora de Perú)
+Actualizado: 2026-09-22 06:52:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 06:50:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $63.27 en 14 posiciones abiertas (disponible para nuevas apuestas: $9.67)
+**Capital comprometido ahora mismo:** $68.27 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,7 +153,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
-| RN1 | 623 | 293 | 6 | -18.00 USD |
+| RN1 | 623 | 293 | 7 | -18.00 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | GoalLineGhost | 102 | 46 | 0 | -25.50 USD |
@@ -1074,6 +1074,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ⏳ pendiente | — |
@@ -1103,4 +1104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ✅ ganada | +2.72 |
-| ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ❌ perdida | -2.36 |
