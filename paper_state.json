@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.13179424331346,
+  "bankroll": 56.67461033526749,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30195,6 +30195,31 @@
       "timestamp": 1790077986.7918797,
       "bankroll": 65.13,
       "event": "lost: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova"
+    },
+    {
+      "timestamp": 1790080175.008622,
+      "bankroll": 68.65,
+      "event": "won: HMLSF \u2014 Ankara: Elena Pridankina vs Daria Egorova"
+    },
+    {
+      "timestamp": 1790080175.1088095,
+      "bankroll": 66.18,
+      "event": "lost: ferrariChampions2026 \u2014 Ankara: Elena Pridankina vs Daria Egorova"
+    },
+    {
+      "timestamp": 1790080175.422355,
+      "bankroll": 61.08,
+      "event": "lost: RN1 \u2014 Counter-Strike: Virtus.pro vs BBL - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790080175.5225043,
+      "bankroll": 55.96,
+      "event": "lost: RN1 \u2014 Ankara: Elena Pridankina vs Daria Egorova"
+    },
+    {
+      "timestamp": 1790080176.269086,
+      "bankroll": 56.67,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Elena Pridankina vs Daria Egorova"
     }
   ]
 }

@@ -149112,8 +149112,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -149136,8 +149136,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.067,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.47,
     "overlaps_with": [
       "HMLSF"
     ],
@@ -149162,8 +149162,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -149186,8 +149186,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "HMLSF",
       "ferrariChampions2026"
@@ -149313,8 +149313,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "HMLSF",
       "RN1"
@@ -149349,5 +149349,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790079134.6883945,
     "fills": 7
+  },
+  {
+    "timestamp": 1790080180,
+    "timestamp_added": 1790080180.669425,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mashtak-mrva-2026-09-22",
+    "title": "Plovdiv 4: Nikita Mashtakov vs Maxim Mrva",
+    "outcome": "Maxim Mrva",
+    "side": "BUY",
+    "whale_usd": 1628.7274579999998,
+    "whale_pct": 0.715,
+    "whale_value_at_open": 227838.705,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790080180.6694355,
+    "fills": 1
   }
 ]

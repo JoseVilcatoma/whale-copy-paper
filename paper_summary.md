@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 07:28:00 (hora de Perú)
+Actualizado: 2026-09-22 07:30:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $65.13
-**Retorno acumulado:** -86.97%
+**Bankroll actual:** $56.67
+**Retorno acumulado:** -88.67%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 07:28:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.06 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.07)
+**Capital comprometido ahora mismo:** $47.66 en 10 posiciones abiertas (disponible para nuevas apuestas: $9.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| HMLSF | 2 | 0 | 0 | +8.40 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | lllllllIlll | 3 | 1 | 0 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -57,7 +58,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| HMLSF | 1 | 0 | 1 | +4.88 USD |
 | Elaran1993 | 3 | 1 | 0 | +4.70 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -154,7 +154,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 623 | 294 | 6 | -23.14 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | GoalLineGhost | 102 | 46 | 0 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -163,22 +162,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 170 | 65 | 0 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 623 | 296 | 5 | -33.36 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 850 | 525 | 6 | -250.53 USD |
+| ferrariChampions2026 | 851 | 526 | 4 | -252.29 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5821
-- **Aciertos:** 3659 (62.9%)
+- **Apuestas resueltas:** 5826
+- **Aciertos:** 3661 (62.8%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,862.51
-- **ROI sobre lo apostado:** -1.95%
-- **Comisiones pagadas (taker fee):** $534.38 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,884.91
+- **ROI sobre lo apostado:** -1.97%
+- **Comisiones pagadas (taker fee):** $534.80 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,9 +186,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2995 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2999 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1705 | 68.7% | 67.9% | +0.9 pp |
-| 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
+| 80-94% | 803 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1075,16 +1075,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 89% | 5.00 | 19.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ✅ ganada | +0.71 |
 | RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ✅ ganada | +2.45 |
-| RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 8.2% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 13.2% | ⏳ pendiente | — |
-| HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ⏳ pendiente | — |
+| RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 8.2% | ❌ perdida | -5.12 |
+| RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ❌ perdida | -5.10 |
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 13.2% | ❌ perdida | -2.47 |
+| HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ✅ ganada | +3.52 |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1104,4 +1105,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ✅ ganada | +2.27 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ✅ ganada | +4.32 |
-| RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
