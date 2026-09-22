@@ -150268,8 +150268,8 @@
     "title": "St. Tropez: Murphy Cassone vs Clement Tabur",
     "outcome": "Clement Tabur",
     "side": "BUY",
-    "whale_usd": 1980.9981669999997,
-    "whale_pct": 1.277,
+    "whale_usd": 3618.8595669999995,
+    "whale_pct": 2.332,
     "whale_value_at_open": 155171.6684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -150280,8 +150280,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790099026.0006251,
-    "fills": 2
+    "last_fill_at": 1790099692.5689604,
+    "fills": 3
   },
   {
     "timestamp": 1790097755,

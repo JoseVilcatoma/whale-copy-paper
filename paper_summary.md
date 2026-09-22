@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 12:54:07 (hora de Perú)
+Actualizado: 2026-09-22 12:56:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.81
@@ -1082,7 +1082,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 40.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
