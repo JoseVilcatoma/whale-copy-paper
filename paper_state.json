@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.98181311531707,
+  "bankroll": 80.3314522905748,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29820,6 +29820,21 @@
       "timestamp": 1790036199.2010915,
       "bankroll": 81.98,
       "event": "lost: GoalLineGhost \u2014 CA Barracas Central vs. CS Independiente Rivadavia: O/U 1.5"
+    },
+    {
+      "timestamp": 1790036508.0358093,
+      "bankroll": 76.84,
+      "event": "lost: HomeRunHazard \u2014 Washington Nationals vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1790036510.4541829,
+      "bankroll": 80.18,
+      "event": "won: HomeRunHazard \u2014 Washington Nationals vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1790036512.3707187,
+      "bankroll": 80.33,
+      "event": "won: RN1 \u2014 Will CA Barracas Central win on 2026-09-21?"
     }
   ]
 }
