@@ -149282,8 +149282,8 @@
     "title": "Ankara: Martyna Kubka vs Berfu Cengiz",
     "outcome": "Berfu Cengiz",
     "side": "BUY",
-    "whale_usd": 12433.64,
-    "whale_pct": 7.106,
+    "whale_usd": 18536.04,
+    "whale_pct": 10.593,
     "whale_value_at_open": 174976.3772,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -149294,8 +149294,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790078171.5629015,
-    "fills": 2
+    "last_fill_at": 1790078861.7968855,
+    "fills": 3
   },
   {
     "timestamp": 1790078034,
@@ -149333,8 +149333,8 @@
     "title": "Ankara: Martyna Kubka vs Berfu Cengiz",
     "outcome": "Berfu Cengiz",
     "side": "BUY",
-    "whale_usd": 21179.040800000002,
-    "whale_pct": 6.525,
+    "whale_usd": 30355.760800000004,
+    "whale_pct": 9.352,
     "whale_value_at_open": 324590.7059,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -149347,7 +149347,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790078607.1847737,
-    "fills": 3
+    "last_fill_at": 1790078861.755342,
+    "fills": 4
   }
 ]
