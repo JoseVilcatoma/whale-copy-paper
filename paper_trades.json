@@ -147151,8 +147151,8 @@
     "title": "Korea Open: Eva Lys vs Gabriela Ruse",
     "outcome": "Gabriela Ruse",
     "side": "BUY",
-    "whale_usd": 5575.2506,
-    "whale_pct": 5.541,
+    "whale_usd": 11149.5874,
+    "whale_pct": 11.081,
     "whale_value_at_open": 100619.8038,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -147163,8 +147163,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790017465.1491237,
-    "fills": 2
+    "last_fill_at": 1790046614.3885448,
+    "fills": 4
   },
   {
     "timestamp": 1790018243,
