@@ -150744,5 +150744,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790114198.6657608,
     "fills": 1
+  },
+  {
+    "timestamp": 1790114238,
+    "timestamp_added": 1790114239.4154193,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kennedy-draxl-2026-09-21",
+    "title": "San Diego 2: Jack Kennedy vs Liam Draxl",
+    "outcome": "Liam Draxl",
+    "side": "BUY",
+    "whale_usd": 9520.830399999999,
+    "whale_pct": 2.651,
+    "whale_value_at_open": 359204.2764,
+    "paper_stake_usd": 4.57,
+    "odds_at_bet": 85,
+    "fee_usd": 0.034,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790114239.4154332,
+    "fills": 1
   }
 ]
