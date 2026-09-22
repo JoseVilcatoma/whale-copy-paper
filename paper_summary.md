@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 13:04:27 (hora de Perú)
+Actualizado: 2026-09-22 13:06:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.86
@@ -1084,7 +1084,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 87.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 88.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Internazionale Milano win on 202 | Yes (BUY) | 73% | 4.09 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 48% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Noah Karma (BUY) | 75% | 5.00 | 4.5% | ⏳ pendiente | — |
