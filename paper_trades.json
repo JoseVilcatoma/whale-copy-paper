@@ -148387,8 +148387,8 @@
     "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
     "outcome": "Sofia Costoulas",
     "side": "BUY",
-    "whale_usd": 1087.034483,
-    "whale_pct": 0.767,
+    "whale_usd": 8772.537483,
+    "whale_pct": 6.19,
     "whale_value_at_open": 141719.3685,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -148401,8 +148401,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790060764.569959,
-    "fills": 1
+    "last_fill_at": 1790061114.5602586,
+    "fills": 2
   },
   {
     "timestamp": 1790060820,
