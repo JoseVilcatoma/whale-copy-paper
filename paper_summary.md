@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 06:13:13 (hora de Perú)
+Actualizado: 2026-09-22 06:15:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.37
@@ -1077,9 +1077,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ⏳ pendiente | — |
-| RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 5.2% | ⏳ pendiente | — |
+| RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 7.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 13.2% | ⏳ pendiente | — |
 | HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
