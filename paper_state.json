@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.72402575525253,
+  "bankroll": 80.16831146953824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30015,6 +30015,11 @@
       "timestamp": 1790061430.2416565,
       "bankroll": 77.72,
       "event": "lost: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Petr Bar Biryukov vs Andre Ilagan"
+    },
+    {
+      "timestamp": 1790062809.570566,
+      "bankroll": 80.17,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Alevtina Ibragimova vs Yeon-Woo Ku"
     }
   ]
 }
