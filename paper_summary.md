@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 02:02:34 (hora de Perú)
+Actualizado: 2026-09-22 02:04:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.68
@@ -1076,7 +1076,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 3.2% | ⏳ pendiente | — |
 | kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 8.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 53% | 5.00 | 15.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Petr Bar Bi | Andre Ilagan (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | Korea Open: So-Hyun Park vs Robin Montgo | So-Hyun Park (BUY) | 71% | 5.00 | 6.1% | ✅ ganada | +1.97 |
