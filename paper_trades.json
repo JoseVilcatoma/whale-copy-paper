@@ -148289,8 +148289,8 @@
     "title": "Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 3606.8090190000003,
-    "whale_pct": 3.429,
+    "whale_usd": 9810.750005,
+    "whale_pct": 9.328,
     "whale_value_at_open": 105173.1648,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -148301,8 +148301,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790059001.6001396,
-    "fills": 2
+    "last_fill_at": 1790062141.596934,
+    "fills": 3
   },
   {
     "timestamp": 1790059046,
@@ -148387,8 +148387,8 @@
     "title": "Singapore Open: Tatiana Prozorova vs Sofia Costoulas",
     "outcome": "Sofia Costoulas",
     "side": "BUY",
-    "whale_usd": 9368.937483,
-    "whale_pct": 6.611,
+    "whale_usd": 15119.113098000002,
+    "whale_pct": 10.668,
     "whale_value_at_open": 141719.3685,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -148401,8 +148401,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790061424.0351105,
-    "fills": 3
+    "last_fill_at": 1790062127.9357617,
+    "fills": 4
   },
   {
     "timestamp": 1790060820,
