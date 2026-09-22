@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.517606178375694,
+  "bankroll": 62.715939511709024,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30240,6 +30240,11 @@
       "timestamp": 1790081417.829997,
       "bankroll": 62.52,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Martyna Kubka vs Berfu Cengiz"
+    },
+    {
+      "timestamp": 1790082665.665157,
+      "bankroll": 62.72,
+      "event": "won: RN1 \u2014 Plovdiv 4: Nikita Mashtakov vs Maxim Mrva"
     }
   ]
 }
