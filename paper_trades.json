@@ -149999,8 +149999,8 @@
     "title": "St. Tropez: Harold Mayot vs Justin Boulais",
     "outcome": "Justin Boulais",
     "side": "BUY",
-    "whale_usd": 4724.700841,
-    "whale_pct": 2.428,
+    "whale_usd": 10406.560540999999,
+    "whale_pct": 5.348,
     "whale_value_at_open": 194585.0552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -150014,7 +150014,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790092650.9827812,
-    "fills": 3
+    "last_fill_at": 1790092759.2052674,
+    "fills": 5
   }
 ]
