@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 23:52:48 (hora de Perú)
+Actualizado: 2026-09-21 23:54:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $71.67
-**Retorno acumulado:** -85.67%
+**Bankroll actual:** $71.42
+**Retorno acumulado:** -85.72%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 23:52:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.72 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $61.72 en 13 posiciones abiertas (disponible para nuevas apuestas: $9.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 831 | 513 | 6 | -254.55 USD |
+| ferrariChampions2026 | 832 | 514 | 4 | -254.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5764
-- **Aciertos:** 3623 (62.9%)
+- **Apuestas resueltas:** 5766
+- **Aciertos:** 3624 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,592.11
+- **Total apostado (suma de stakes):** $28,602.11
 - **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $529.26 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $529.51 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,7 +185,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2967 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 2969 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1683 | 68.7% | 67.9% | +0.9 pp |
 | 80-94% | 797 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 317 | 97.2% | 97.4% | -0.2 pp |
@@ -1064,11 +1064,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M25 Yinchuan: Kazuki Nakajima vs Ivan Do | Kazuki Nakajima (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 43% | 2.38 | 1.6% | ✅ ganada | +3.09 |
-| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Under (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Under (BUY) | 50% | 5.00 | 0.4% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams: O/U 39.5 | Over (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury | Dallas Wings (BUY) | 80% | 5.00 | 0.8% | ❌ perdida | -5.05 |
-| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dallas Wings vs. Phoenix Mercury: O/U 17 | Over (BUY) | 50% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | RN1 | Giants vs. Rams: O/U 39.5 | Under (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 6.8% | ⏳ pendiente | — |
