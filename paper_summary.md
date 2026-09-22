@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 08:00:48 (hora de Perú)
+Actualizado: 2026-09-22 08:02:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $62.52
@@ -1076,11 +1076,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 3.1% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Barbora Krejcikova vs An | Anna-Lena Friedsam (BUY) | 53% | 3.71 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Filip Jianu vs Ivan Ivanov | Ivan Ivanov (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Titouan Droguet vs Karl Poli | Titouan Droguet (BUY) | 56% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Fiona Crawley vs Carole Monnet | Carole Monnet (BUY) | 68% | 3.95 | 2.9% | ⏳ pendiente | — |
 | HMLSF | Singapore Open: Barbora Krejcikova vs An | Barbora Krejcikova (BUY) | 59% | 5.00 | 6.3% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Nikita Mashtakov vs Maxim Mrv | Maxim Mrva (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |

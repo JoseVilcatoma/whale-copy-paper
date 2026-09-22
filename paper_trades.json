@@ -149431,8 +149431,8 @@
     "title": "St. Tropez: Titouan Droguet vs Karl Poling",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 7556.522,
-    "whale_pct": 1.828,
+    "whale_usd": 9576.63291,
+    "whale_pct": 2.317,
     "whale_value_at_open": 413332.4816,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -149443,8 +149443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790081345.6879668,
-    "fills": 2
+    "last_fill_at": 1790082142.890159,
+    "fills": 4
   },
   {
     "timestamp": 1790080975,
@@ -149532,8 +149532,8 @@
     "title": "Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam",
     "outcome": "Anna-Lena Friedsam",
     "side": "BUY",
-    "whale_usd": 4743.100894,
-    "whale_pct": 3.102,
+    "whale_usd": 7273.730228,
+    "whale_pct": 4.758,
     "whale_value_at_open": 152884.425,
     "paper_stake_usd": 3.71,
     "odds_at_bet": 53,
@@ -149547,7 +149547,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790081763.6085005,
-    "fills": 3
+    "last_fill_at": 1790082121.8372846,
+    "fills": 4
   }
 ]
