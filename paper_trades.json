@@ -148561,8 +148561,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Anastasia Zakharova",
     "outcome": "Jelena Ostapenko",
     "side": "BUY",
-    "whale_usd": 2645.812844,
-    "whale_pct": 1.471,
+    "whale_usd": 7392.717444,
+    "whale_pct": 4.109,
     "whale_value_at_open": 179898.3085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -148573,8 +148573,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790064961.2189941,
-    "fills": 3
+    "last_fill_at": 1790065549.20769,
+    "fills": 6
   },
   {
     "timestamp": 1790064106,
