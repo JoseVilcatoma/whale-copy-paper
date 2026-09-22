@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.81164303988179,
+  "bankroll": 87.8587649911013,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30380,6 +30380,11 @@
       "timestamp": 1790097641.4764407,
       "bankroll": 80.81,
       "event": "won: Flaznorp \u2014 Tolentino: Ekaterine Gorgodze vs Laura Pigossi"
+    },
+    {
+      "timestamp": 1790100140.473962,
+      "bankroll": 87.86,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: Matteo Martineau vs Tristan Schoolkate"
     }
   ]
 }
