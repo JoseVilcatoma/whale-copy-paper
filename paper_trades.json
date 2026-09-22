@@ -147621,5 +147621,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790036770.1073558,
     "fills": 1
+  },
+  {
+    "timestamp": 1790036906,
+    "timestamp_added": 1790036906.831113,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-nyg-la-2026-09-22-spread-home-9pt5",
+    "title": "Spread: LA (-9.5)",
+    "outcome": "NYG",
+    "side": "BUY",
+    "whale_usd": 1380.0,
+    "whale_pct": 1.135,
+    "whale_value_at_open": 121558.1307,
+    "paper_stake_usd": 2.57,
+    "odds_at_bet": 47,
+    "fee_usd": 0.068,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790036906.831131,
+    "fills": 1
   }
 ]
