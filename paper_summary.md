@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 20:34:59 (hora de Perú)
+Actualizado: 2026-09-21 20:37:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.41
@@ -1060,7 +1060,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Flaznorp | Will Cuiabá EC win on 2026-09-21? | Yes (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 1.7% | ⏳ pendiente | — |
+| RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 5.7% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 14.5% | ⏳ pendiente | — |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
