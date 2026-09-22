@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.41816396376962,
+  "bankroll": 71.55216396376962,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30325,6 +30325,11 @@
       "timestamp": 1790091082.0050323,
       "bankroll": 75.42,
       "event": "lost: ferrariChampions2026 \u2014 Genoa 2: Stefano Travaglia vs Marvin Moeller"
+    },
+    {
+      "timestamp": 1790094284.052079,
+      "bankroll": 71.55,
+      "event": "lost: ferrariChampions2026 \u2014 Buenos Aires 2: Matheus Pucinelli de Almeida vs Hugo Dellien"
     }
   ]
 }
