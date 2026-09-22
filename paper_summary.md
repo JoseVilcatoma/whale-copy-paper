@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 09:15:49 (hora de Perú)
+Actualizado: 2026-09-22 09:17:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 09:15:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.86 en 15 posiciones abiertas (disponible para nuevas apuestas: $4.14)
+**Capital comprometido ahora mismo:** $79.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 856 | 526 | 7 | -234.79 USD |
+| ferrariChampions2026 | 856 | 526 | 8 | -234.79 USD |
 
 ## Análisis general
 
@@ -1078,7 +1078,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Yecla: Isis Louise Van den Broek vs  | Diletta Cherubini (BUY) | 61% | 4.14 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 8.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Stefano Travaglia vs Marvin Moe | Stefano Travaglia (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1107,4 +1108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 13.2% | ❌ perdida | -2.47 |
 | HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ✅ ganada | +3.52 |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
