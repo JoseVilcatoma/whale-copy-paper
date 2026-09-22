@@ -148883,8 +148883,8 @@
     "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 10022.7421,
-    "whale_pct": 7.065,
+    "whale_usd": 93390.2809,
+    "whale_pct": 65.828,
     "whale_value_at_open": 141870.5524,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -148897,8 +148897,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790068937.120168,
-    "fills": 2
+    "last_fill_at": 1790071562.6280086,
+    "fills": 10
   },
   {
     "timestamp": 1790069254,
