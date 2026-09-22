@@ -148842,8 +148842,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -149081,8 +149081,8 @@
     "title": "Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova",
     "outcome": "Matthew Dellavedova",
     "side": "BUY",
-    "whale_usd": 2136.67,
-    "whale_pct": 1.895,
+    "whale_usd": 4571.48,
+    "whale_pct": 4.055,
     "whale_value_at_open": 112742.8832,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -149093,8 +149093,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790071287.8820944,
-    "fills": 1
+    "last_fill_at": 1790074415.5682485,
+    "fills": 2
   },
   {
     "timestamp": 1790073556,
@@ -149105,8 +149105,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Elena Pridankina",
     "side": "BUY",
-    "whale_usd": 6820.454699999999,
-    "whale_pct": 2.43,
+    "whale_usd": 11869.1973,
+    "whale_pct": 4.229,
     "whale_value_at_open": 280646.4331,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -149117,8 +149117,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790073556.3282974,
-    "fills": 1
+    "last_fill_at": 1790074449.20613,
+    "fills": 2
   },
   {
     "timestamp": 1790073556,
@@ -149129,8 +149129,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Daria Egorova",
     "side": "BUY",
-    "whale_usd": 1899.1422999999998,
-    "whale_pct": 0.54,
+    "whale_usd": 7093.271499999999,
+    "whale_pct": 2.016,
     "whale_value_at_open": 351928.6846,
     "paper_stake_usd": 2.4,
     "odds_at_bet": 44,
@@ -149143,8 +149143,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790073556.9602532,
-    "fills": 1
+    "last_fill_at": 1790074449.2109132,
+    "fills": 2
   },
   {
     "timestamp": 1790074072,

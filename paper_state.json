@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.96418788871729,
+  "bankroll": 84.48313525713834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30145,6 +30145,11 @@
       "timestamp": 1790074053.8744843,
       "bankroll": 82.96,
       "event": "won: RN1 \u2014 W15 Constanta: Yeva Galiievska vs Virginia Proietti"
+    },
+    {
+      "timestamp": 1790074492.2412875,
+      "bankroll": 84.48,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao"
     }
   ]
 }

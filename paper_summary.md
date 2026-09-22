@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 05:52:53 (hora de Perú)
+Actualizado: 2026-09-22 05:54:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.96
-**Retorno acumulado:** -83.41%
+**Bankroll actual:** $84.48
+**Retorno acumulado:** -83.10%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 05:52:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.27 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.69)
+**Capital comprometido ahora mismo:** $76.27 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 847 | 522 | 8 | -243.19 USD |
+| ferrariChampions2026 | 848 | 522 | 7 | -241.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5811
-- **Aciertos:** 3655 (62.9%)
+- **Apuestas resueltas:** 5812
+- **Aciertos:** 3656 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,815.29
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $533.39 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,820.29
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $533.45 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 2990 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1700 | 68.8% | 67.9% | +1.0 pp |
+| 60-79% | 1701 | 68.8% | 67.9% | +1.0 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1074,9 +1074,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 0.5% | ⏳ pendiente | — |
-| HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 2.0% | ⏳ pendiente | — |
+| HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
 | RN1 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Izan Almazan Valiente vs Geof | Izan Almazan Valiente (BUY) | 79% | 5.00 | 19.8% | ✅ ganada | +1.28 |
@@ -1086,7 +1086,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 99.2% | ⏳ pendiente | — |
 | RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 13.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 50.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 50.7% | ✅ ganada | +1.52 |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 18.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 11.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ✅ ganada | +3.14 |
