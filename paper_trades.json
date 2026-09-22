@@ -147631,8 +147631,8 @@
     "title": "Spread: LA (-9.5)",
     "outcome": "NYG",
     "side": "BUY",
-    "whale_usd": 1380.0,
-    "whale_pct": 1.135,
+    "whale_usd": 3512.8,
+    "whale_pct": 2.89,
     "whale_value_at_open": 121558.1307,
     "paper_stake_usd": 2.57,
     "odds_at_bet": 47,
@@ -147643,8 +147643,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790036906.831131,
-    "fills": 1
+    "last_fill_at": 1790037926.6472406,
+    "fills": 3
   },
   {
     "timestamp": 1790037215,

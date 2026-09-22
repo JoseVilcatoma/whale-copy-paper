@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 19:43:49 (hora de Perú)
+Actualizado: 2026-09-21 19:45:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.86
@@ -1061,7 +1061,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 0.7% | ⏳ pendiente | — |
 | RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 11.2% | ⏳ pendiente | — |
-| RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 1.1% | ⏳ pendiente | — |
+| RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: CA Lanús (-2.5) | Estudiantes de La Plata (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
