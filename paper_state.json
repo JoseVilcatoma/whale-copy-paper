@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.94265138617061,
+  "bankroll": 65.13179424331346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30180,6 +30180,21 @@
       "timestamp": 1790077363.471466,
       "bankroll": 72.94,
       "event": "lost: ferrariChampions2026 \u2014 W50 Plovdiv: Nellie Taraba Wallberg vs Sapfo Sakellaridi"
+    },
+    {
+      "timestamp": 1790077985.804512,
+      "bankroll": 67.8,
+      "event": "lost: RN1 \u2014 Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova"
+    },
+    {
+      "timestamp": 1790077986.6916974,
+      "bankroll": 70.25,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova"
+    },
+    {
+      "timestamp": 1790077986.7918797,
+      "bankroll": 65.13,
+      "event": "lost: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova"
     }
   ]
 }
