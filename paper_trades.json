@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 19438.894,
-    "whale_pct": 19.611,
+    "whale_usd": 22551.124,
+    "whale_pct": 22.751,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790069129.9587672,
-    "fills": 7
+    "last_fill_at": 1790069323.5844045,
+    "fills": 8
   },
   {
     "timestamp": 1790067412,
@@ -148899,5 +148899,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790068937.120168,
     "fills": 2
+  },
+  {
+    "timestamp": 1790069254,
+    "timestamp_added": 1790069255.0865288,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-zaar-masarov-2026-09-22",
+    "title": "Tolentino: Lisa Zaar vs Rebeka Masarova",
+    "outcome": "Rebeka Masarova",
+    "side": "BUY",
+    "whale_usd": 1708.6594,
+    "whale_pct": 2.205,
+    "whale_value_at_open": 77484.8289,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790069255.0865388,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790069314,
+    "timestamp_added": 1790069314.9136949,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-charaev-kenin-2026-09-20",
+    "title": "Korea Open: Alina Charaeva vs Sofia Kenin",
+    "outcome": "Alina Charaeva",
+    "side": "BUY",
+    "whale_usd": 980.0516999999999,
+    "whale_pct": 0.587,
+    "whale_value_at_open": 167073.2324,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790069314.913703,
+    "fills": 1
   }
 ]

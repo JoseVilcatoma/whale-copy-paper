@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 04:27:04 (hora de Perú)
+Actualizado: 2026-09-22 04:29:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.10
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 04:27:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $63.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $19.10)
+**Capital comprometido ahora mismo:** $73.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $9.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| HMLSF | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 0 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -166,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 844 | 520 | 8 | -240.09 USD |
+| ferrariChampions2026 | 844 | 520 | 9 | -240.09 USD |
 
 ## Análisis general
 
@@ -1064,14 +1065,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-vekic-wa-2026-09-20 | RN1, ferrariChampions2026 |
 | wta-ostapen-zakharo-2026-09-20 | RN1, ferrariChampions2026 |
 | atp-casteln-kotov-2026-09-21 | RN1, ferrariChampions2026 |
+| wta-zaar-masarov-2026-09-22 | HMLSF, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Korea Open: Alina Charaeva vs Sofia Keni | Alina Charaeva (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HMLSF | Tolentino: Lisa Zaar vs Rebeka Masarova | Rebeka Masarova (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 19.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 22.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ⏳ pendiente | — |
@@ -1097,5 +1101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W50 Nanao: Natsumi Kawaguchi vs Kayo Nis | Natsumi Kawaguchi (BUY) | 81% | 5.00 | 1.1% | ✅ ganada | +1.13 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 41% | 5.00 | 15.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Korea Open: Alevtina Ibragimova vs Yeon- | Yeon-Woo Ku (BUY) | 56% | 3.20 | 5.8% | ✅ ganada | +2.44 |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 66% | 5.00 | 1.0% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | W50 Nanao: Sakura Hosogi vs Natsuki Yosh | Sakura Hosogi (BUY) | 52% | 5.00 | 2.0% | ✅ ganada | +4.50 |
