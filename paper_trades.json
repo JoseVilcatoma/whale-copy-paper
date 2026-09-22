@@ -149889,5 +149889,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790089020.0666022,
     "fills": 1
+  },
+  {
+    "timestamp": 1790089461,
+    "timestamp_added": 1790089462.1990988,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-vogt-bertea-2026-09-22",
+    "title": "Ankara: Marie Vogt vs Elena Ruxandra Bertea",
+    "outcome": "Elena Ruxandra Bertea",
+    "side": "BUY",
+    "whale_usd": 867.267818,
+    "whale_pct": 0.577,
+    "whale_value_at_open": 150277.1335,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790089462.1991081,
+    "fills": 1
   }
 ]
