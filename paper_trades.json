@@ -148413,8 +148413,8 @@
     "title": "Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 22240.925300000003,
-    "whale_pct": 16.628,
+    "whale_usd": 36811.7885,
+    "whale_pct": 27.521,
     "whale_value_at_open": 133758.665,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -148425,8 +148425,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790061623.4527504,
-    "fills": 3
+    "last_fill_at": 1790061883.0185258,
+    "fills": 5
   },
   {
     "timestamp": 1790060820,
@@ -148437,8 +148437,8 @@
     "title": "Hangzhou Open, Qualification: Arthur Weber vs Hayato Matsuoka",
     "outcome": "Hayato Matsuoka",
     "side": "BUY",
-    "whale_usd": 3136.25,
-    "whale_pct": 2.673,
+    "whale_usd": 8911.752,
+    "whale_pct": 7.594,
     "whale_value_at_open": 117349.0124,
     "paper_stake_usd": 4.49,
     "odds_at_bet": 66,
@@ -148451,8 +148451,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790060821.820667,
-    "fills": 1
+    "last_fill_at": 1790061895.9977891,
+    "fills": 3
   },
   {
     "timestamp": 1790061353,
