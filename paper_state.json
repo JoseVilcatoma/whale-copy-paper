@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.85616657628908,
+  "bankroll": 82.54792333304584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29845,6 +29845,11 @@
       "timestamp": 1790037136.8388567,
       "bankroll": 80.86,
       "event": "won: GoalLineGhost \u2014 Will Bogota FC vs. Barranquilla FC end in a draw?"
+    },
+    {
+      "timestamp": 1790039464.2500818,
+      "bankroll": 82.55,
+      "event": "won: ferrariChampions2026 \u2014 San Diego 2: Keegan Smith vs Edward Winter"
     }
   ]
 }
