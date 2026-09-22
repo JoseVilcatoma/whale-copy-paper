@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 01:52:03 (hora de Perú)
+Actualizado: 2026-09-22 01:54:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.68
@@ -1072,7 +1072,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Alevtina Ibragimova vs Yeon- | Yeon-Woo Ku (BUY) | 56% | 3.20 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Nanao: Sakura Hosogi vs Natsuki Yosh | Sakura Hosogi (BUY) | 52% | 5.00 | 2.0% | ✅ ganada | +4.50 |
-| RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | Korea Open: Emerson Jones vs Yexin Ma | Emerson Jones (BUY) | 54% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Renata Zarazu | Renata Zarazua (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Alycia Parks vs Mei Yama | Alycia Parks (BUY) | 87% | 5.00 | 3.2% | ⏳ pendiente | — |
 | kkookkoo | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 69% | 5.00 | 45569.0% | ⏳ pendiente | — |

@@ -148143,8 +148143,8 @@
     "title": "Korea Open: Emerson Jones vs Yexin Ma",
     "outcome": "Emerson Jones",
     "side": "BUY",
-    "whale_usd": 3970.34,
-    "whale_pct": 2.943,
+    "whale_usd": 5013.3288,
+    "whale_pct": 3.717,
     "whale_value_at_open": 134891.5258,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -148155,8 +148155,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790059024.1826768,
-    "fills": 2
+    "last_fill_at": 1790059980.4040937,
+    "fills": 3
   },
   {
     "timestamp": 1790055281,
