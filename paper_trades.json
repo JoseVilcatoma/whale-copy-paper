@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 7125.5879,
-    "whale_pct": 7.189,
+    "whale_usd": 12841.0131,
+    "whale_pct": 12.955,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790067325.1824222,
-    "fills": 2
+    "last_fill_at": 1790068397.7053368,
+    "fills": 3
   },
   {
     "timestamp": 1790067412,
