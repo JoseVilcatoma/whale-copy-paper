@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.97247430859721,
+  "bankroll": 80.48816396376962,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30315,6 +30315,11 @@
       "timestamp": 1790090452.746814,
       "bankroll": 76.97,
       "event": "won: ferrariChampions2026 \u2014 Porto: Katherine Sebov vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1790090766.1208453,
+      "bankroll": 80.49,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Aurora Zantedeschi vs Marta Lombardini"
     }
   ]
 }

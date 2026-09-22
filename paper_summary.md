@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 10:24:06 (hora de Perú)
+Actualizado: 2026-09-22 10:26:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $76.97
-**Retorno acumulado:** -84.61%
+**Bankroll actual:** $80.49
+**Retorno acumulado:** -83.90%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 10:24:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.68 en 15 posiciones abiertas (disponible para nuevas apuestas: $3.29)
+**Capital comprometido ahora mismo:** $73.68 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -159,7 +159,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 170 | 65 | 1 | -26.70 USD |
+| Flaznorp | 170 | 65 | 2 | -26.70 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 628 | 299 | 4 | -36.31 USD |
@@ -167,18 +167,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 859 | 527 | 8 | -233.17 USD |
+| ferrariChampions2026 | 860 | 527 | 7 | -229.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5845
-- **Aciertos:** 3676 (62.9%)
+- **Apuestas resueltas:** 5846
+- **Aciertos:** 3677 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,974.51
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $536.25 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $28,979.51
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $536.35 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3007 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3008 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1711 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 807 | 85.9% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 320 | 97.2% | 97.4% | -0.2 pp |
@@ -1074,17 +1074,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-sebov-knutson-2026-09-21 | RN1, ferrariChampions2026 |
 | atp-kjaer-harris-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-palicov-linana-2026-09-21 | HMLSF, ferrariChampions2026 |
+| atp-mayot-boulais-2026-09-22 | Flaznorp, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Matheus Pucinelli de Alm | Matheus Pucinelli de Almeida (BUY) | 76% | 3.82 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Aurora Zantedeschi vs Marta L | Marta Lombardini (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Aurora Zantedeschi vs Marta L | Marta Lombardini (BUY) | 58% | 5.00 | 0.3% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | W50 Yecla: Isis Louise Van den Broek vs  | Diletta Cherubini (BUY) | 61% | 4.14 | 0.2% | ✅ ganada | +2.57 |
 | ferrariChampions2026 | Tolentino: Barbora Palicova vs Alicia He | Alicia Herrero Linana (BUY) | 46% | 5.00 | 8.1% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Porto: Katherine Sebov vs Gabriela Knuts | Gabriela Knutson (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
@@ -1108,4 +1110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 87% | 5.00 | 3.1% | ✅ ganada | +0.71 |
 | RN1 | Ankara: Martyna Kubka vs Berfu Cengiz | Berfu Cengiz (BUY) | 78% | 5.00 | 11.7% | ✅ ganada | +1.36 |
 | RN1 | W50 Yecla: Nahia Berecoechea vs Martha M | Martha MATOULA (BUY) | 55% | 2.80 | 0.5% | ❌ perdida | -2.86 |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
