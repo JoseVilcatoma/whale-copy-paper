@@ -148217,8 +148217,8 @@
     "title": "Korea Open: Alevtina Ibragimova vs Yeon-Woo Ku",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 3931.627755,
-    "whale_pct": 2.091,
+    "whale_usd": 10824.396555000001,
+    "whale_pct": 5.756,
     "whale_value_at_open": 188042.6605,
     "paper_stake_usd": 3.2,
     "odds_at_bet": 56,
@@ -148229,8 +148229,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790059666.1509247,
-    "fills": 4
+    "last_fill_at": 1790059919.9024508,
+    "fills": 5
   },
   {
     "timestamp": 1790056665,
