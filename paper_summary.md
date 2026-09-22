@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 15:39:44 (hora de Perú)
+Actualizado: 2026-09-22 15:41:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.60
-**Retorno acumulado:** -85.48%
+**Bankroll actual:** $73.39
+**Retorno acumulado:** -85.32%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 15:39:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.35 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.25)
+**Capital comprometido ahora mismo:** $61.35 en 13 posiciones abiertas (disponible para nuevas apuestas: $12.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,8 +155,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Flaznorp | 172 | 65 | 0 | -19.89 USD |
+| GoalLineGhost | 104 | 46 | 4 | -24.71 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| GoalLineGhost | 102 | 46 | 6 | -25.50 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
@@ -171,13 +171,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5869
-- **Aciertos:** 3690 (62.9%)
+- **Apuestas resueltas:** 5871
+- **Aciertos:** 3692 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,093.19
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $538.51 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $29,103.19
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $538.54 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,8 +188,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3017 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1722 | 68.6% | 67.9% | +0.8 pp |
-| 80-94% | 809 | 85.9% | 86.5% | -0.6 pp |
-| 95-99% (casi seguro) | 321 | 97.2% | 97.4% | -0.2 pp |
+| 80-94% | 810 | 85.9% | 86.5% | -0.6 pp |
+| 95-99% (casi seguro) | 322 | 97.2% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1088,9 +1088,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 4.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Falun: Noah Karma vs Jack Karlsson W | Jack Karlsson Wistrand (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
-| GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: FC Bayern München (-2.5) | Manchester City WFC (BUY) | 89% | 5.00 | 0.4% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Ju | Francisco Comesana (BUY) | 87% | 5.00 | 4.3% | ✅ ganada | +0.71 |
-| GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Manchester City WFC win on 2026-09- | No (BUY) | 96% | 5.00 | 2.2% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 6.8% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Clement Tabur (BUY) | 41% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees | New York Yankees (BUY) | 60% | 5.00 | 90.3% | ✅ ganada | +3.23 |

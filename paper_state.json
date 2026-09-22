@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.60194814416835,
+  "bankroll": 73.39125900559158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30435,6 +30435,16 @@
       "timestamp": 1790109572.0539513,
       "bankroll": 72.6,
       "event": "lost: Donkey14 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1790109632.6101568,
+      "bankroll": 72.8,
+      "event": "won: GoalLineGhost \u2014 Will Manchester City WFC win on 2026-09-22?"
+    },
+    {
+      "timestamp": 1790109694.3175874,
+      "bankroll": 73.39,
+      "event": "won: GoalLineGhost \u2014 Spread: FC Bayern M\u00fcnchen (-2.5)"
     }
   ]
 }
