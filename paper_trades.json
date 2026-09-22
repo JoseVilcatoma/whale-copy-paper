@@ -148248,8 +148248,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -148320,8 +148320,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.105,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.46,
     "overlaps_with": [
       "RN1"
     ],
@@ -148394,8 +148394,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [
       "RN1"
     ],
@@ -148642,8 +148642,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -148835,8 +148835,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 18776.5285,
-    "whale_pct": 18.943,
+    "whale_usd": 19438.894,
+    "whale_pct": 19.611,
     "whale_value_at_open": 99120.6749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -148847,8 +148847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790068873.38688,
-    "fills": 6
+    "last_fill_at": 1790069129.9587672,
+    "fills": 7
   },
   {
     "timestamp": 1790067412,

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 04:24:58 (hora de Perú)
+Actualizado: 2026-09-22 04:27:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.54
-**Retorno acumulado:** -83.29%
+**Bankroll actual:** $82.10
+**Retorno acumulado:** -83.58%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 04:24:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.89 en 17 posiciones abiertas (disponible para nuevas apuestas: $1.65)
+**Capital comprometido ahora mismo:** $63.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $19.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -144,8 +144,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 620 | 290 | 6 | -10.92 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
+| RN1 | 621 | 291 | 4 | -11.75 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -166,17 +166,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 843 | 519 | 10 | -239.48 USD |
+| ferrariChampions2026 | 844 | 520 | 8 | -240.09 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5800
-- **Aciertos:** 3648 (62.9%)
+- **Apuestas resueltas:** 5804
+- **Aciertos:** 3650 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $28,763.31
+- **Total apostado (suma de stakes):** $28,782.20
 - **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $532.35 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $532.79 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -185,8 +185,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 2984 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1695 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 2987 | 49.7% | 50.1% | -0.3 pp |
+| 60-79% | 1696 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 802 | 85.8% | 86.5% | -0.7 pp |
 | 95-99% (casi seguro) | 319 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1071,7 +1071,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Pavel Kotov (BUY) | 62% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | Tolentino: Lisa Zaar vs Rebeka Masarova | Lisa Zaar (BUY) | 46% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 18.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 76% | 5.00 | 19.6% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Luca Castel | Luca Castelnuovo (BUY) | 66% | 4.91 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: David Jorda Sanchis vs Harry | David Jorda Sanchis (BUY) | 49% | 3.09 | 6.4% | ⏳ pendiente | — |
@@ -1079,7 +1079,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | M15 Forbach: Tom Zeuch vs Lars Wagenaar | Lars Wagenaar (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 68% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 98% | 5.00 | 0.9% | ✅ ganada | +0.10 |
-| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 53% | 5.00 | 2.2% | ✅ ganada | +4.32 |
 | RN1 | Singapore Open: Donna Vekic vs Xinyu Wan | Xinyu Wang (BUY) | 99% | 5.00 | 1.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Anastasia Zakharova (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Jelena Ostapenko vs Anastasi | Jelena Ostapenko (BUY) | 64% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -1089,13 +1089,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ✅ ganada | +1.52 |
 | RN1 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 4.49 | 7.6% | ✅ ganada | +2.24 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 5.00 | 27.5% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 72% | 5.00 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 72% | 5.00 | 10.7% | ❌ perdida | -5.07 |
 | RN1 | Korea Open: Tamara Zidansek vs Kimberly  | Kimberly Birrell (BUY) | 71% | 4.49 | 23.3% | ✅ ganada | +1.77 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 47% | 5.00 | 13.3% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 46% | 3.89 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Tatiana Prozorova vs Sof | Tatiana Prozorova (BUY) | 46% | 3.89 | 0.8% | ✅ ganada | +4.46 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 83% | 5.00 | 9.8% | ✅ ganada | +0.98 |
 | RN1 | W50 Nanao: Natsumi Kawaguchi vs Kayo Nis | Natsumi Kawaguchi (BUY) | 81% | 5.00 | 1.1% | ✅ ganada | +1.13 |
-| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 41% | 5.00 | 15.3% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Tatiana Prozorova vs Sof | Sofia Costoulas (BUY) | 41% | 5.00 | 15.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Korea Open: Alevtina Ibragimova vs Yeon- | Yeon-Woo Ku (BUY) | 56% | 3.20 | 5.8% | ✅ ganada | +2.44 |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Renata Zarazu | Anna Bondar (BUY) | 66% | 5.00 | 1.0% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | W50 Nanao: Sakura Hosogi vs Natsuki Yosh | Sakura Hosogi (BUY) | 52% | 5.00 | 2.0% | ✅ ganada | +4.50 |

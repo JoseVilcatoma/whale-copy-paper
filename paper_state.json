@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.54026957917833,
+  "bankroll": 82.10075358245972,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30090,6 +30090,26 @@
       "timestamp": 1790068904.8223875,
       "bankroll": 83.54,
       "event": "won: RN1 \u2014 Korea Open: Tamara Zidansek vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790069217.4816978,
+      "bankroll": 78.39,
+      "event": "lost: RN1 \u2014 Singapore Open: Tatiana Prozorova vs Sofia Costoulas"
+    },
+    {
+      "timestamp": 1790069217.5818381,
+      "bankroll": 82.85,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Tatiana Prozorova vs Sofia Costoulas"
+    },
+    {
+      "timestamp": 1790069217.6819785,
+      "bankroll": 77.78,
+      "event": "lost: ferrariChampions2026 \u2014 Singapore Open: Tatiana Prozorova vs Sofia Costoulas"
+    },
+    {
+      "timestamp": 1790069217.9824057,
+      "bankroll": 82.1,
+      "event": "won: RN1 \u2014 Singapore Open: Tatiana Prozorova vs Sofia Costoulas"
     }
   ]
 }
