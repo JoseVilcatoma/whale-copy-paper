@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.70327292760923,
+  "bankroll": 85.55527292760924,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30390,6 +30390,11 @@
       "timestamp": 1790100451.284074,
       "bankroll": 90.7,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Iliyan Radulov vs Pavel Lagutin"
+    },
+    {
+      "timestamp": 1790101712.2209241,
+      "bankroll": 85.56,
+      "event": "lost: ferrariChampions2026 \u2014 Porto: Erika Andreeva vs Reese Brantmeier"
     }
   ]
 }
