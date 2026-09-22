@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-21 19:33:40 (hora de Perú)
+Actualizado: 2026-09-21 19:35:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-21 19:33:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.24 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.62)
+**Capital comprometido ahora mismo:** $80.86 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| RN1 | 608 | 286 | 2 | -13.67 USD |
+| RN1 | 608 | 286 | 3 | -13.67 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1059,7 +1059,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Spread: Rams (-7.5) | Rams (BUY) | 48% | 3.62 | 0.7% | ⏳ pendiente | — |
+| RN1 | Giants vs. Rams | Rams (BUY) | 74% | 5.00 | 11.2% | ⏳ pendiente | — |
 | RN1 | Spread: LA (-9.5) | NYG (BUY) | 47% | 2.57 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Rams (-10.5) | Rams (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Keegan Smith vs Edward Wint | Keegan Smith (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1088,4 +1089,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CA Aldosivi vs. CA Tucumán: O/U 0.5 | Over (BUY) | 84% | 5.00 | 3.9% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Ankara: Yuki Naito vs Ayla Aksu | Ayla Aksu (BUY) | 85% | 5.00 | 4.2% | ✅ ganada | +0.84 |
 | HomeRunHazard | Washington Nationals vs. Detroit Tigers: | Over (BUY) | 51% | 3.57 | 6.2% | ✅ ganada | +3.34 |
-| maz26 | Spread: Rams (-6.5) | Giants (BUY) | 49% | 5.00 | 7.7% | ⏳ pendiente | — |
