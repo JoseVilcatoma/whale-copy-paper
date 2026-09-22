@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.68894814416835,
+  "bankroll": 72.60194814416835,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30430,6 +30430,11 @@
       "timestamp": 1790109258.7880652,
       "bankroll": 77.69,
       "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. New York Yankees"
+    },
+    {
+      "timestamp": 1790109572.0539513,
+      "bankroll": 72.6,
+      "event": "lost: Donkey14 \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }
