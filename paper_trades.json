@@ -147573,5 +147573,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790036232.1615605,
     "fills": 1
+  },
+  {
+    "timestamp": 1790036618,
+    "timestamp_added": 1790036619.8727646,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-smit-winter-2026-09-21",
+    "title": "San Diego 2: Keegan Smith vs Edward Winter",
+    "outcome": "Keegan Smith",
+    "side": "BUY",
+    "whale_usd": 1841.757556,
+    "whale_pct": 0.76,
+    "whale_value_at_open": 242284.7916,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790036619.8727841,
+    "fills": 1
   }
 ]
