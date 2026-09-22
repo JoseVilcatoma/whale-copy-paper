@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 05:54:58 (hora de Perú)
+Actualizado: 2026-09-22 05:57:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 05:54:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.27 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.21)
+**Capital comprometido ahora mismo:** $84.48 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| RN1 | 623 | 291 | 6 | -7.79 USD |
+| RN1 | 623 | 291 | 7 | -7.79 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 848 | 522 | 7 | -241.67 USD |
+| ferrariChampions2026 | 848 | 522 | 8 | -241.67 USD |
 
 ## Análisis general
 
@@ -1067,14 +1067,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-casteln-kotov-2026-09-21 | RN1, ferrariChampions2026 |
 | wta-zaar-masarov-2026-09-22 | HMLSF, RN1 |
 | itf-carbaj1-petrov1-2026-09-22 | RN1, ferrariChampions2026 |
-| wta-pridank-egorova-2026-09-22 | HMLSF, ferrariChampions2026 |
+| atp-su-dellave-2026-09-22 | RN1, ferrariChampions2026 |
+| wta-pridank-egorova-2026-09-22 | HMLSF, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hangzhou Open, Qualification: Fajing Sun | Fajing Sun (BUY) | 56% | 3.21 | 0.5% | ⏳ pendiente | — |
+| RN1 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Virtus.pro vs BBL - Map  | Virtus.pro (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Ankara: Elena Pridankina vs Daria Egorov | Daria Egorova (BUY) | 44% | 2.40 | 2.2% | ⏳ pendiente | — |
 | HMLSF | Ankara: Elena Pridankina vs Daria Egorov | Elena Pridankina (BUY) | 58% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Fajing Sun | Matthew Dellavedova (BUY) | 44% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Sabadell: Alejandro Garcia Carbajal  | Alejandro Garcia Carbajal (BUY) | 63% | 4.86 | 0.6% | ⏳ pendiente | — |
@@ -1101,5 +1104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 4: Max Wiskandt vs Andrey Chepel | Andrey Chepelev (BUY) | 44% | 2.30 | 0.7% | ❌ perdida | -2.36 |
 | ferrariChampions2026 | W50 Nanao: Mutsumi Uemura vs Chihiro Mur | Chihiro Muramatsu (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Singapore Open: Donna Vekic vs Xinyu Wan | Donna Vekic (BUY) | 47% | 5.00 | 1.9% | ❌ perdida | -5.13 |
-| RN1 | Chengdu Open, Qualification: Elias Ymer  | Alexis Galarneau (BUY) | 76% | 5.00 | 3.3% | ✅ ganada | +1.52 |
-| RN1 | Hangzhou Open, Qualification: Arthur Web | Hayato Matsuoka (BUY) | 66% | 4.49 | 7.6% | ✅ ganada | +2.24 |

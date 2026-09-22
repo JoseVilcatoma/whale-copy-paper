@@ -149129,8 +149129,8 @@
     "title": "Ankara: Elena Pridankina vs Daria Egorova",
     "outcome": "Daria Egorova",
     "side": "BUY",
-    "whale_usd": 7093.271499999999,
-    "whale_pct": 2.016,
+    "whale_usd": 7864.0050999999985,
+    "whale_pct": 2.235,
     "whale_value_at_open": 351928.6846,
     "paper_stake_usd": 2.4,
     "odds_at_bet": 44,
@@ -149143,8 +149143,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790074449.2109132,
-    "fills": 2
+    "last_fill_at": 1790074498.9456215,
+    "fills": 3
   },
   {
     "timestamp": 1790074072,
@@ -149169,5 +149169,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790074073.5473702,
     "fills": 1
+  },
+  {
+    "timestamp": 1790074497,
+    "timestamp_added": 1790074498.949649,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-pridank-egorova-2026-09-22",
+    "title": "Ankara: Elena Pridankina vs Daria Egorova",
+    "outcome": "Daria Egorova",
+    "side": "BUY",
+    "whale_usd": 623.6290670000001,
+    "whale_pct": 0.261,
+    "whale_value_at_open": 239332.1552,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HMLSF",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790074498.9496582,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790074581,
+    "timestamp_added": 1790074581.9776607,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-su-dellave-2026-09-22",
+    "title": "Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova",
+    "outcome": "Fajing Sun",
+    "side": "BUY",
+    "whale_usd": 1930.9529,
+    "whale_pct": 0.466,
+    "whale_value_at_open": 414134.0838,
+    "paper_stake_usd": 3.21,
+    "odds_at_bet": 56,
+    "fee_usd": 0.071,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790074624.271087,
+    "fills": 2
   }
 ]
