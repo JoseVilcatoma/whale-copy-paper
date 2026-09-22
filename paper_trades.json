@@ -148496,8 +148496,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -148616,8 +148616,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -148775,5 +148775,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790065952.8785074,
     "fills": 2
+  },
+  {
+    "timestamp": 1790066643,
+    "timestamp_added": 1790066644.3750403,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-casteln-kotov-2026-09-21",
+    "title": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
+    "outcome": "Luca Castelnuovo",
+    "side": "BUY",
+    "whale_usd": 1497.328858,
+    "whale_pct": 1.425,
+    "whale_value_at_open": 105105.3293,
+    "paper_stake_usd": 4.91,
+    "odds_at_bet": 66,
+    "fee_usd": 0.083,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790066644.375048,
+    "fills": 1
   }
 ]

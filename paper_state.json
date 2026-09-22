@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.7664821780345,
+  "bankroll": 83.68098722853955,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30055,6 +30055,16 @@
       "timestamp": 1790064316.7023902,
       "bankroll": 88.77,
       "event": "won: RN1 \u2014 Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1790066639.7454658,
+      "bankroll": 83.63,
+      "event": "lost: ferrariChampions2026 \u2014 Singapore Open: Donna Vekic vs Xinyu Wang"
+    },
+    {
+      "timestamp": 1790066640.246155,
+      "bankroll": 83.68,
+      "event": "won: RN1 \u2014 Singapore Open: Donna Vekic vs Xinyu Wang"
     }
   ]
 }
