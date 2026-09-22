@@ -147559,8 +147559,8 @@
     "title": "Spread: CA Lan\u00fas (-2.5)",
     "outcome": "Estudiantes de La Plata",
     "side": "BUY",
-    "whale_usd": 1781.989987,
-    "whale_pct": 0.628,
+    "whale_usd": 2512.069987,
+    "whale_pct": 0.885,
     "whale_value_at_open": 283740.3486,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -147571,8 +147571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790041269.6980822,
-    "fills": 2
+    "last_fill_at": 1790041402.436409,
+    "fills": 3
   },
   {
     "timestamp": 1790036618,
@@ -147703,8 +147703,8 @@
     "title": "Will Cuiab\u00e1 EC win on 2026-09-21?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1089.66,
-    "whale_pct": 0.462,
+    "whale_usd": 2769.66,
+    "whale_pct": 1.173,
     "whale_value_at_open": 236039.6234,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -147715,7 +147715,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790039507.7692003,
-    "fills": 1
+    "last_fill_at": 1790041402.5981717,
+    "fills": 2
   }
 ]
