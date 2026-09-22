@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 15:47:56 (hora de Perú)
+Actualizado: 2026-09-22 15:50:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.85
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 15:47:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.26 en 14 posiciones abiertas (disponible para nuevas apuestas: $7.59)
+**Capital comprometido ahora mismo:** $74.85 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,7 +155,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| Flaznorp | 172 | 65 | 0 | -19.89 USD |
+| Flaznorp | 172 | 65 | 1 | -19.89 USD |
 | GoalLineGhost | 105 | 46 | 3 | -23.25 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 867 | 534 | 9 | -241.67 USD |
+| ferrariChampions2026 | 867 | 534 | 10 | -241.67 USD |
 
 ## Análisis general
 
@@ -1083,6 +1083,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Matthew William Donald (BUY) | 45% | 2.59 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1111,5 +1113,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | St. Tropez: Harold Mayot vs Justin Boula | Harold Mayot (BUY) | 48% | 5.00 | 0.8% | ✅ ganada | +5.29 |
 | Flaznorp | Tolentino: Ekaterine Gorgodze vs Laura P | Ekaterine Gorgodze (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | St. Tropez: Nicolai Budkov Kjaer vs Bill | Nicolai Budkov Kjaer (BUY) | 65% | 5.00 | 6.8% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Ankara: Marie Vogt vs Elena Ruxandra Ber | Elena Ruxandra Bertea (BUY) | 46% | 5.00 | 3.4% | ✅ ganada | +5.73 |
-| Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 104.0% | ❌ perdida | -5.13 |
