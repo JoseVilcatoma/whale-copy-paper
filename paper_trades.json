@@ -148527,5 +148527,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790062823.9088368,
     "fills": 1
+  },
+  {
+    "timestamp": 1790062989,
+    "timestamp_added": 1790062989.7013314,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wiskand-chepele-2026-09-21",
+    "title": "Plovdiv 4: Max Wiskandt vs Andrey Chepelev",
+    "outcome": "Andrey Chepelev",
+    "side": "BUY",
+    "whale_usd": 1207.0175439999998,
+    "whale_pct": 0.659,
+    "whale_value_at_open": 183294.3676,
+    "paper_stake_usd": 2.3,
+    "odds_at_bet": 44,
+    "fee_usd": 0.064,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790062989.7013395,
+    "fills": 1
   }
 ]
