@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.715939511709024,
+  "bankroll": 64.40769626846578,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30245,6 +30245,11 @@
       "timestamp": 1790082665.665157,
       "bankroll": 62.72,
       "event": "won: RN1 \u2014 Plovdiv 4: Nikita Mashtakov vs Maxim Mrva"
+    },
+    {
+      "timestamp": 1790085665.804163,
+      "bankroll": 64.41,
+      "event": "won: RN1 \u2014 W50 Yecla: Miriana Tona vs Ashley Lahey"
     }
   ]
 }
