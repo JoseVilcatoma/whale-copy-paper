@@ -148935,8 +148935,8 @@
     "title": "Korea Open: Alina Charaeva vs Sofia Kenin",
     "outcome": "Alina Charaeva",
     "side": "BUY",
-    "whale_usd": 980.0516999999999,
-    "whale_pct": 0.587,
+    "whale_usd": 5703.655723,
+    "whale_pct": 3.414,
     "whale_value_at_open": 167073.2324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -148947,8 +148947,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790069314.913703,
-    "fills": 1
+    "last_fill_at": 1790076187.1140919,
+    "fills": 3
   },
   {
     "timestamp": 1790069351,
