@@ -149923,8 +149923,8 @@
     "title": "St. Tropez: Nicolai Budkov Kjaer vs Billy Harris",
     "outcome": "Nicolai Budkov Kjaer",
     "side": "BUY",
-    "whale_usd": 3812.0,
-    "whale_pct": 2.08,
+    "whale_usd": 7713.8891,
+    "whale_pct": 4.21,
     "whale_value_at_open": 183249.0718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -149937,8 +149937,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790090976.744896,
-    "fills": 3
+    "last_fill_at": 1790092612.3408134,
+    "fills": 4
   },
   {
     "timestamp": 1790090582,
@@ -149999,8 +149999,8 @@
     "title": "St. Tropez: Harold Mayot vs Justin Boulais",
     "outcome": "Justin Boulais",
     "side": "BUY",
-    "whale_usd": 2812.5422280000003,
-    "whale_pct": 1.445,
+    "whale_usd": 4724.700841,
+    "whale_pct": 2.428,
     "whale_value_at_open": 194585.0552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -150014,7 +150014,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790092240.173639,
-    "fills": 2
+    "last_fill_at": 1790092650.9827812,
+    "fills": 3
   }
 ]
