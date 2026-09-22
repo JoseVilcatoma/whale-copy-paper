@@ -147655,8 +147655,8 @@
     "title": "Giants vs. Rams",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 17438.59,
-    "whale_pct": 12.544,
+    "whale_usd": 20192.9028,
+    "whale_pct": 14.525,
     "whale_value_at_open": 139020.6078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -147667,8 +147667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790038621.4138558,
-    "fills": 6
+    "last_fill_at": 1790039030.8645542,
+    "fills": 7
   },
   {
     "timestamp": 1790037230,
