@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.07405981229807,
+  "bankroll": 80.97405981229808,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -29995,6 +29995,11 @@
       "timestamp": 1790060738.5160527,
       "bankroll": 86.07,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1790061052.0473547,
+      "bankroll": 80.97,
+      "event": "lost: GoalLineGhost \u2014 Cuiab\u00e1 EC vs. Clube N\u00e1utico Capibaribe: O/U 2.5"
     }
   ]
 }
