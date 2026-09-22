@@ -148279,5 +148279,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790056893.0844924,
     "fills": 1
+  },
+  {
+    "timestamp": 1790058671,
+    "timestamp_added": 1790058671.7423708,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-ymer-galarne-2026-09-21",
+    "title": "Chengdu Open, Qualification: Elias Ymer vs Alexis Galarneau",
+    "outcome": "Alexis Galarneau",
+    "side": "BUY",
+    "whale_usd": 1989.7863160000002,
+    "whale_pct": 1.892,
+    "whale_value_at_open": 105173.1648,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790058671.7423804,
+    "fills": 1
   }
 ]
