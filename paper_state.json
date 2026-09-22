@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.20351979787755,
+  "bankroll": 76.15839394140441,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30255,6 +30255,26 @@
       "timestamp": 1790085979.1506722,
       "bankroll": 66.2,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Fiona Crawley vs Carole Monnet"
+    },
+    {
+      "timestamp": 1790086166.3759644,
+      "bankroll": 69.58,
+      "event": "won: HMLSF \u2014 Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam"
+    },
+    {
+      "timestamp": 1790086167.0553348,
+      "bankroll": 74.45,
+      "event": "won: RN1 \u2014 Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam"
+    },
+    {
+      "timestamp": 1790086167.1554594,
+      "bankroll": 79.96,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam"
+    },
+    {
+      "timestamp": 1790086167.2558851,
+      "bankroll": 76.16,
+      "event": "lost: RN1 \u2014 Singapore Open: Barbora Krejcikova vs Anna-Lena Friedsam"
     }
   ]
 }
