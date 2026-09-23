@@ -151985,8 +151985,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
     "outcome": "Fajing Sun",
     "side": "BUY",
-    "whale_usd": 4691.7,
-    "whale_pct": 9.102,
+    "whale_usd": 5756.4,
+    "whale_pct": 11.167,
     "whale_value_at_open": 51548.5834,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -151999,8 +151999,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790149850.9038646,
-    "fills": 2
+    "last_fill_at": 1790150408.8631895,
+    "fills": 3
   },
   {
     "timestamp": 1790148411,
