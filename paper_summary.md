@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 05:24:11 (hora de Perú)
+Actualizado: 2026-09-23 05:26:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 05:24:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.55)
+**Capital comprometido ahora mismo:** $88.55 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,12 +163,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 187 | 71 | 6 | -32.71 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 647 | 307 | 3 | -34.90 USD |
+| RN1 | 647 | 307 | 4 | -34.90 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 884 | 542 | 6 | -229.14 USD |
+| ferrariChampions2026 | 884 | 542 | 7 | -229.14 USD |
 
 ## Análisis general
 
@@ -1099,6 +1099,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 0.6% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Aleksandar Vukic (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Oriol Roca Batalla vs Calvin  | Calvin Hemery (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 83% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Gibraltar vs. São Tomé e Príncipe: O/U 2 | Under (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -1127,5 +1129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 15.8% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ❌ perdida | -2.81 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ✅ ganada | +6.76 |
-| Flaznorp | M25 Yinchuan: Seonyong Han vs Nikolai Ba | Nikolai Barsukov (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 13.5% | ✅ ganada | +3.52 |
