@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.40306743004032,
+  "bankroll": 80.43126255199155,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30530,6 +30530,21 @@
       "timestamp": 1790127784.2908957,
       "bankroll": 87.4,
       "event": "won: ferrariChampions2026 \u2014 Spread: Detroit Tigers (-1.5)"
+    },
+    {
+      "timestamp": 1790129308.58962,
+      "bankroll": 82.32,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1790129308.9690955,
+      "bankroll": 85.5,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1790129309.0692575,
+      "bankroll": 80.43,
+      "event": "lost: goshkam \u2014 Cincinnati Reds vs. Atlanta Braves"
     }
   ]
 }
