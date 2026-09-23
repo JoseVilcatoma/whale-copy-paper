@@ -151756,8 +151756,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 2227.216445,
-    "whale_pct": 1.136,
+    "whale_usd": 5335.276444,
+    "whale_pct": 2.721,
     "whale_value_at_open": 196101.2938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -151770,8 +151770,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790147509.8599272,
-    "fills": 2
+    "last_fill_at": 1790149704.6367004,
+    "fills": 3
   },
   {
     "timestamp": 1790145813,
