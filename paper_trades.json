@@ -151887,8 +151887,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
     "outcome": "Fajing Sun",
     "side": "BUY",
-    "whale_usd": 3627.4629,
-    "whale_pct": 1.92,
+    "whale_usd": 10944.5061,
+    "whale_pct": 5.793,
     "whale_value_at_open": 188913.4496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -151901,8 +151901,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790146567.1693373,
-    "fills": 1
+    "last_fill_at": 1790147370.4071014,
+    "fills": 2
   },
   {
     "timestamp": 1790146722,
@@ -151950,6 +151950,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790146756.669887,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790147401,
+    "timestamp_added": 1790147401.8545318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-basilas-cina-2026-09-23",
+    "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
+    "outcome": "Federico Cina",
+    "side": "BUY",
+    "whale_usd": 2314.6704,
+    "whale_pct": 1.073,
+    "whale_value_at_open": 215812.6291,
+    "paper_stake_usd": 2.74,
+    "odds_at_bet": 51,
+    "fee_usd": 0.067,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790147401.854542,
     "fills": 1
   }
 ]
