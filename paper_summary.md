@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 00:17:34 (hora de Perú)
+Actualizado: 2026-09-23 00:19:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 00:17:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $40.95)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $35.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,7 +162,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 178 | 69 | 1 | -29.47 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 636 | 302 | 4 | -31.63 USD |
+| RN1 | 636 | 302 | 5 | -31.63 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1087,6 +1087,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
@@ -1116,4 +1117,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ✅ ganada | +0.77 |
-| ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ✅ ganada | +0.20 |
