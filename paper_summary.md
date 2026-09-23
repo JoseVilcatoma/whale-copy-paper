@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 04:00:05 (hora de Perú)
+Actualizado: 2026-09-23 04:02:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 04:00:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $13.54)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 882 | 540 | 7 | -222.74 USD |
+| ferrariChampions2026 | 882 | 540 | 8 | -222.74 USD |
 
 ## Análisis general
 
@@ -1096,7 +1096,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1125,4 +1126,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 24.0% | ✅ ganada | +4.18 |
 | ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ✅ ganada | +1.36 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ❌ perdida | -5.11 |
-| Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ❌ perdida | -5.03 |
