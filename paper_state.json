@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.4446542497397,
+  "bankroll": 83.42669506606623,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30610,6 +30610,16 @@
       "timestamp": 1790137106.374022,
       "bankroll": 88.44,
       "event": "won: RN1 \u2014 San Diego 2: Keaton Hance vs Andres Martin"
+    },
+    {
+      "timestamp": 1790138356.7438078,
+      "bankroll": 83.33,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-16.5)"
+    },
+    {
+      "timestamp": 1790138358.1299474,
+      "bankroll": 83.43,
+      "event": "won: RN1 \u2014 Los Angeles Sparks vs. Las Vegas Aces"
     }
   ]
 }

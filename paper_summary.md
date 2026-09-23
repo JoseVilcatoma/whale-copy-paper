@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 23:38:39 (hora de Perú)
+Actualizado: 2026-09-22 23:40:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $88.44
-**Retorno acumulado:** -82.31%
+**Bankroll actual:** $83.43
+**Retorno acumulado:** -83.31%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 23:38:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.90 en 16 posiciones abiertas (disponible para nuevas apuestas: $10.54)
+**Capital comprometido ahora mismo:** $67.90 en 14 posiciones abiertas (disponible para nuevas apuestas: $15.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,23 +163,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 177 | 69 | 2 | -30.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 633 | 301 | 7 | -36.02 USD |
+| RN1 | 634 | 301 | 6 | -35.92 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 878 | 536 | 5 | -220.89 USD |
+| ferrariChampions2026 | 878 | 537 | 4 | -226.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5904
-- **Aciertos:** 3717 (63.0%)
+- **Apuestas resueltas:** 5906
+- **Aciertos:** 3718 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,258.62
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $540.78 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,268.62
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $540.90 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,10 +187,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3027 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3028 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1736 | 68.5% | 67.9% | +0.7 pp |
 | 80-94% | 816 | 85.9% | 86.6% | -0.6 pp |
-| 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
+| 95-99% (casi seguro) | 326 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1096,7 +1096,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ✅ ganada | +4.68 |
 | Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ❌ perdida | -5.04 |
-| RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ✅ ganada | +0.10 |
 | Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ❌ perdida | -5.06 |
 | RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 8.8% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ❌ perdida | -5.06 |
@@ -1112,7 +1112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 2.7% | ✅ ganada | +2.38 |
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ✅ ganada | +0.77 |
 | ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ✅ ganada | +0.20 |
