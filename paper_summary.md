@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 08:56:56 (hora de Perú)
+Actualizado: 2026-09-23 08:58:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.26
-**Retorno acumulado:** -81.55%
+**Bankroll actual:** $92.31
+**Retorno acumulado:** -81.54%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 08:56:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $92.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
-| HMLSF | 7 | 0 | 0 | +19.67 USD |
-| UpTheBlues | 40 | 10 | 3 | +19.24 USD |
+| HMLSF | 7 | 0 | 1 | +19.67 USD |
+| UpTheBlues | 41 | 10 | 2 | +19.29 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -172,11 +172,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5979
-- **Aciertos:** 3772 (63.1%)
+- **Apuestas resueltas:** 5980
+- **Aciertos:** 3773 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,623.85
+- **Total apostado (suma de stakes):** $29,628.85
 - **ROI sobre lo apostado:** -1.80%
 - **Comisiones pagadas (taker fee):** $545.60 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3054 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1749 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 839 | 85.6% | 86.6% | -1.0 pp |
-| 95-99% (casi seguro) | 337 | 97.3% | 97.4% | -0.0 pp |
+| 95-99% (casi seguro) | 338 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1096,15 +1096,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-prizmic-sanchis-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | itf-yaneva1-maquet1-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | wta-dodin-malygin-2026-09-23 | RN1, ferrariChampions2026 |
+| wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 8.7% | ⏳ pendiente | — |
 | RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Spain win on 2026-09-23? | Yes (BUY) | 91% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
-| UpTheBlues | St. Tropez: Thomas Faurel vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 4.3% | ⏳ pendiente | — |
+| UpTheBlues | St. Tropez: Thomas Faurel vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 4.3% | ✅ ganada | +0.05 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | St. Louis Cardinals vs. Pittsburgh Pirat | Under (BUY) | 54% | 5.00 | 18.1% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 3.53 | 1.7% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 8.3% | ⏳ pendiente | — |
@@ -1130,4 +1132,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 2.8% | ✅ ganada | +2.50 |
-| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Aleksandar Vukic (BUY) | 52% | 5.00 | 1.7% | ❌ perdida | -5.12 |

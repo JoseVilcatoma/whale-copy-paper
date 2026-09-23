@@ -153275,8 +153275,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -153354,5 +153354,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790171063.3030453,
     "fills": 1
+  },
+  {
+    "timestamp": 1790171920,
+    "timestamp_added": 1790171921.2787116,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "wta-akli-knutson-2026-09-23",
+    "title": "Porto: Ayana Akli vs Gabriela Knutson",
+    "outcome": "Gabriela Knutson",
+    "side": "BUY",
+    "whale_usd": 2665.2925000000005,
+    "whale_pct": 8.677,
+    "whale_value_at_open": 30715.4227,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790171925.8492503,
+    "fills": 2
   }
 ]
