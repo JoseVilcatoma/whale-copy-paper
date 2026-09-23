@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 08:24:10 (hora de Perú)
+Actualizado: 2026-09-23 08:26:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.41
@@ -1105,7 +1105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | St. Tropez: Thomas Faurel vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 4.3% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | St. Louis Cardinals vs. Pittsburgh Pirat | Under (BUY) | 54% | 5.00 | 18.1% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 3.53 | 1.7% | ⏳ pendiente | — |
-| UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 2.5% | ⏳ pendiente | — |
+| UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W15 Monastir: Iveta Dapkute vs Sarina Sc | Iveta Dapkute (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 4.6% | ⏳ pendiente | — |

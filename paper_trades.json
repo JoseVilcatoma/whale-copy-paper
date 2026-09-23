@@ -153196,8 +153196,8 @@
     "title": "Singapore Open: Alycia Parks vs Leylah Fernandez",
     "outcome": "Leylah Fernandez",
     "side": "BUY",
-    "whale_usd": 2118.54,
-    "whale_pct": 2.549,
+    "whale_usd": 5395.86,
+    "whale_pct": 6.491,
     "whale_value_at_open": 83122.6206,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -153208,8 +153208,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790168962.0824661,
-    "fills": 2
+    "last_fill_at": 1790169863.3993165,
+    "fills": 4
   },
   {
     "timestamp": 1790167696,
