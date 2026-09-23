@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 04:06:18 (hora de Perú)
+Actualizado: 2026-09-23 04:08:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.54
@@ -1096,9 +1096,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 5.0% | ⏳ pendiente | — |
 | Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -1106,10 +1106,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 6.0% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ✅ ganada | +0.25 |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ✅ ganada | +5.51 |

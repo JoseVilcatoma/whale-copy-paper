@@ -152116,8 +152116,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 4216.213176,
-    "whale_pct": 3.564,
+    "whale_usd": 7058.4349760000005,
+    "whale_pct": 5.967,
     "whale_value_at_open": 118300.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -152128,8 +152128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790152295.1100497,
-    "fills": 3
+    "last_fill_at": 1790154433.8411267,
+    "fills": 6
   },
   {
     "timestamp": 1790152139,
@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 1143.78,
-    "whale_pct": 0.449,
+    "whale_usd": 3139.1512,
+    "whale_pct": 1.231,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790153424.5600884,
-    "fills": 2
+    "last_fill_at": 1790154429.1569197,
+    "fills": 4
   },
   {
     "timestamp": 1790152760,
@@ -152384,8 +152384,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 5557.2718540000005,
-    "whale_pct": 3.674,
+    "whale_usd": 7508.009154,
+    "whale_pct": 4.963,
     "whale_value_at_open": 151276.272,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -152399,8 +152399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790154099.2670476,
-    "fills": 3
+    "last_fill_at": 1790154417.4443858,
+    "fills": 5
   },
   {
     "timestamp": 1790154077,
@@ -152435,8 +152435,8 @@
     "title": "W50 Plovdiv: Elizara Yaneva vs Margaux Maquet",
     "outcome": "Elizara Yaneva",
     "side": "BUY",
-    "whale_usd": 527.989997,
-    "whale_pct": 0.227,
+    "whale_usd": 2742.2739890000003,
+    "whale_pct": 1.178,
     "whale_value_at_open": 232733.1948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -152447,7 +152447,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790154314.3501434,
-    "fills": 1
+    "last_fill_at": 1790154501.4878979,
+    "fills": 5
   }
 ]
