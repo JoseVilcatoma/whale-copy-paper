@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.92934067889833,
+  "bankroll": 96.67822956778723,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30570,6 +30570,16 @@
       "timestamp": 1790132591.7543294,
       "bankroll": 92.93,
       "event": "won: RN1 \u2014 Will Crici\u00fama EC win on 2026-09-21?"
+    },
+    {
+      "timestamp": 1790132718.7454684,
+      "bankroll": 94.8,
+      "event": "won: GoalLineGhost \u2014 Crici\u00fama EC vs. Oper\u00e1rio Ferrovi\u00e1rio EC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790132718.8456323,
+      "bankroll": 96.68,
+      "event": "won: Flaznorp \u2014 Crici\u00fama EC vs. Oper\u00e1rio Ferrovi\u00e1rio EC: O/U 2.5"
     }
   ]
 }

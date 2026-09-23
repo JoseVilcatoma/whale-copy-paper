@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 22:03:18 (hora de Perú)
+Actualizado: 2026-09-22 22:05:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.93
-**Retorno acumulado:** -81.41%
+**Bankroll actual:** $96.68
+**Retorno acumulado:** -80.66%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 22:03:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.39 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.54)
+**Capital comprometido ahora mismo:** $77.39 en 16 posiciones abiertas (disponible para nuevas apuestas: $19.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,12 +155,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 108 | 46 | 1 | -21.23 USD |
+| GoalLineGhost | 109 | 46 | 0 | -19.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
+| Flaznorp | 176 | 67 | 5 | -25.10 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 175 | 67 | 6 | -26.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | RN1 | 632 | 300 | 3 | -31.61 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5896
-- **Aciertos:** 3712 (63.0%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 5898
+- **Aciertos:** 3714 (63.0%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,219.13
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $540.26 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,229.13
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $540.40 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3026 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1731 | 68.6% | 67.9% | +0.7 pp |
+| 60-79% | 1733 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 814 | 86.0% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1100,8 +1100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ✅ ganada | +0.53 |
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ✅ ganada | +2.58 |
-| Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
-| GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 2.0% | ⏳ pendiente | — |
+| Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ✅ ganada | +1.87 |
+| GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 2.0% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 2.7% | ✅ ganada | +2.38 |
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
