@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:34:54 (hora de Perú)
+Actualizado: 2026-09-23 07:36:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 07:34:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $94.41 en 19 posiciones abiertas (disponible para nuevas apuestas: $7.59)
+**Capital comprometido ahora mismo:** $99.41 en 20 posiciones abiertas (disponible para nuevas apuestas: $2.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | HMLSF | 7 | 0 | 0 | +19.67 USD |
-| UpTheBlues | 40 | 10 | 0 | +19.24 USD |
+| UpTheBlues | 40 | 10 | 1 | +19.24 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -1101,9 +1101,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Valentin Royer vs Adam Wa | Valentin Royer (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Valentin Royer vs Adam Wa | Valentin Royer (BUY) | 72% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 63% | 5.00 | 4.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
@@ -1130,4 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 14.2% | ✅ ganada | +5.08 |
-| Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
