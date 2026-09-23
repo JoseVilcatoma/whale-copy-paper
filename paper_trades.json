@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 3139.1512,
-    "whale_pct": 1.231,
+    "whale_usd": 3902.6711999999998,
+    "whale_pct": 1.531,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790154429.1569197,
-    "fills": 4
+    "last_fill_at": 1790154805.0865633,
+    "fills": 5
   },
   {
     "timestamp": 1790152760,
