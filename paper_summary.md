@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 14:54:09 (hora de Perú)
+Actualizado: 2026-09-23 14:56:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.43
@@ -1134,4 +1134,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 6.2% | ✅ ganada | +1.13 |
 | UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 8.2% | ✅ ganada | +0.91 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
