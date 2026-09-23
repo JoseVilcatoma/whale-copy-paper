@@ -151402,5 +151402,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790135610.6169772,
     "fills": 1
+  },
+  {
+    "timestamp": 1790138077,
+    "timestamp_added": 1790138077.9589684,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-daniel-matsuok-2026-09-23",
+    "title": "Hangzhou Open, Qualification: Taro Daniel vs Hayato Matsuoka",
+    "outcome": "Taro Daniel",
+    "side": "BUY",
+    "whale_usd": 3024.617346,
+    "whale_pct": 4.371,
+    "whale_value_at_open": 69204.9517,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790138077.9589813,
+    "fills": 1
   }
 ]
