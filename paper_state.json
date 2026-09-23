@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.13529741802957,
+  "bankroll": 86.07029741802957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31035,6 +31035,11 @@
       "timestamp": 1790180152.9752314,
       "bankroll": 91.14,
       "event": "won: ferrariChampions2026 \u2014 W15 Monastir: Iveta Dapkute vs Sarina Schnyder"
+    },
+    {
+      "timestamp": 1790180597.249238,
+      "bankroll": 86.07,
+      "event": "lost: ferrariChampions2026 \u2014 W35 Santa Margherita di Pula: Viola Turini vs Mia Horvit"
     }
   ]
 }
