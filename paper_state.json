@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.23264961997108,
+  "bankroll": 98.89657944453249,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30825,6 +30825,11 @@
       "timestamp": 1790157023.572291,
       "bankroll": 95.23,
       "event": "won: Flaznorp \u2014 W35 Santa Margherita di Pula: Anna Petkovic vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1790158286.2667356,
+      "bankroll": 98.9,
+      "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Aleksandar Vukic vs Kyrian Jacquet"
     }
   ]
 }
