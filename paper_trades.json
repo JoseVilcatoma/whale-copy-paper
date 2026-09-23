@@ -153612,8 +153612,8 @@
     "title": "Counter-Strike: Luminosity vs 3DMAX - Map 1 Winner",
     "outcome": "3DMAX",
     "side": "BUY",
-    "whale_usd": 11379.27,
-    "whale_pct": 8.405,
+    "whale_usd": 14952.8171,
+    "whale_pct": 11.045,
     "whale_value_at_open": 135386.5151,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -153624,8 +153624,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790184909.512319,
-    "fills": 12
+    "last_fill_at": 1790185667.2182336,
+    "fills": 13
   },
   {
     "timestamp": 1790183502,
