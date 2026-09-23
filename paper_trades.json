@@ -152806,8 +152806,8 @@
     "title": "Ankara: Weronika Falkowska vs Polina Iatcenko",
     "outcome": "Polina Iatcenko",
     "side": "BUY",
-    "whale_usd": 6681.6,
-    "whale_pct": 7.12,
+    "whale_usd": 7791.393534000001,
+    "whale_pct": 8.303,
     "whale_value_at_open": 93842.2025,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -152818,7 +152818,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790161987.6609719,
-    "fills": 1
+    "last_fill_at": 1790162109.2491786,
+    "fills": 2
   }
 ]

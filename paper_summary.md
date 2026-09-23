@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:13:35 (hora de Perú)
+Actualizado: 2026-09-23 06:15:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.45
@@ -1099,7 +1099,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 7.1% | ⏳ pendiente | — |
+| RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
