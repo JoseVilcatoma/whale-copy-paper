@@ -152384,8 +152384,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 20481.225621,
-    "whale_pct": 13.539,
+    "whale_usd": 21426.38865,
+    "whale_pct": 14.164,
     "whale_value_at_open": 151276.272,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -152399,8 +152399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790158884.4862003,
-    "fills": 8
+    "last_fill_at": 1790161322.274164,
+    "fills": 9
   },
   {
     "timestamp": 1790154077,
@@ -152723,6 +152723,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790160130.7280753,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790161393,
+    "timestamp_added": 1790161394.54593,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-dodin-malygin-2026-09-23",
+    "title": "Porto: Oceane Dodin vs Elena Malygina",
+    "outcome": "Oceane Dodin",
+    "side": "BUY",
+    "whale_usd": 756.2,
+    "whale_pct": 0.875,
+    "whale_value_at_open": 86404.7707,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790161394.5459418,
     "fills": 1
   }
 ]
