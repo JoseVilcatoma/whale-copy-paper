@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.83677062573327,
+  "bankroll": 94.81786701127544,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30815,6 +30815,11 @@
       "timestamp": 1790155320.844209,
       "bankroll": 93.84,
       "event": "won: RN1 \u2014 Chengdu Open: Vit Kopriva vs Jia Hu"
+    },
+    {
+      "timestamp": 1790155635.1396434,
+      "bankroll": 94.82,
+      "event": "won: Flaznorp \u2014 W50 Plovdiv: Alessandra Mazzola vs Rositsa Dencheva"
     }
   ]
 }

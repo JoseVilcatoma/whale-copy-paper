@@ -152221,8 +152221,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152475,5 +152475,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790154897.5278096,
     "fills": 2
+  },
+  {
+    "timestamp": 1790155620,
+    "timestamp_added": 1790155620.9633825,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-prizmic-sanchis-2026-09-23",
+    "title": "St. Tropez: Dino Prizmic vs David Jorda Sanchis",
+    "outcome": "Dino Prizmic",
+    "side": "BUY",
+    "whale_usd": 501.027857,
+    "whale_pct": 0.407,
+    "whale_value_at_open": 123215.8056,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790155620.9633934,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790155625,
+    "timestamp_added": 1790155625.538249,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-sierra-dilek-2026-09-22",
+    "title": "Ankara: Solana Sierra vs Deniz Dilek",
+    "outcome": "Deniz Dilek",
+    "side": "BUY",
+    "whale_usd": 2558.3219999999997,
+    "whale_pct": 6.106,
+    "whale_value_at_open": 41896.4205,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790155625.5382597,
+    "fills": 1
   }
 ]
