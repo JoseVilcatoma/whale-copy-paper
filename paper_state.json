@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.95165570975166,
+  "bankroll": 93.2018136044885,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30750,6 +30750,11 @@
       "timestamp": 1790152113.617755,
       "bankroll": 92.95,
       "event": "won: Flaznorp \u2014 Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina"
+    },
+    {
+      "timestamp": 1790152364.52241,
+      "bankroll": 93.2,
+      "event": "won: HMLSF \u2014 Hangzhou Open, Qualification: Dalibor Svrcina vs Rio Noguchi"
     }
   ]
 }

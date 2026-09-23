@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:30:44 (hora de Perú)
+Actualizado: 2026-09-23 03:32:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.95
-**Retorno acumulado:** -81.41%
+**Bankroll actual:** $93.20
+**Retorno acumulado:** -81.36%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 03:30:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $9.86)
+**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | UpTheBlues | 40 | 10 | 0 | +19.24 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| HMLSF | 5 | 0 | 2 | +13.91 USD |
+| HMLSF | 6 | 0 | 1 | +14.16 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -168,17 +168,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 880 | 539 | 7 | -225.83 USD |
+| ferrariChampions2026 | 880 | 539 | 8 | -225.83 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5932
-- **Aciertos:** 3738 (63.0%)
+- **Apuestas resueltas:** 5933
+- **Aciertos:** 3739 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,394.26
+- **Total apostado (suma de stakes):** $29,399.26
 - **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $542.57 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $542.58 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3036 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1742 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 824 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 330 | 97.3% | 97.4% | -0.1 pp |
+| 95-99% (casi seguro) | 331 | 97.3% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1094,10 +1094,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
-| HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ⏳ pendiente | — |
+| HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ✅ ganada | +0.25 |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 15.8% | ⏳ pendiente | — |
@@ -1123,4 +1124,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ✅ ganada | +2.97 |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ❌ perdida | -5.14 |
-| RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ✅ ganada | +1.20 |

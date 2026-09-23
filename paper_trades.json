@@ -152073,8 +152073,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152116,8 +152116,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 3491.115327,
-    "whale_pct": 2.951,
+    "whale_usd": 4216.213176,
+    "whale_pct": 3.564,
     "whale_value_at_open": 118300.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -152128,8 +152128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790152214.0309608,
-    "fills": 2
+    "last_fill_at": 1790152295.1100497,
+    "fills": 3
   },
   {
     "timestamp": 1790152139,
@@ -152153,6 +152153,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790152139.3191087,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790152284,
+    "timestamp_added": 1790152285.202038,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vukic-jacquet-2026-09-22-first-set-winner-Vukic-vs-Jacquet",
+    "title": "Set 1 Winner: Aleksandar Vukic vs Kyrian Jacquet",
+    "outcome": "Kyrian Jacquet",
+    "side": "BUY",
+    "whale_usd": 1723.8816000000002,
+    "whale_pct": 1.19,
+    "whale_value_at_open": 144895.8418,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790152285.20205,
     "fills": 1
   }
 ]
