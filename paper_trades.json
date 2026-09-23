@@ -154123,8 +154123,8 @@
     "title": "Spread: Atlanta Braves (-1.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 955.0196080000002,
-    "whale_pct": 1.016,
+    "whale_usd": 1662.0896080000002,
+    "whale_pct": 1.768,
     "whale_value_at_open": 94036.05,
     "paper_stake_usd": 4.93,
     "odds_at_bet": 50,
@@ -154135,7 +154135,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790199175.1098032,
-    "fills": 1
+    "last_fill_at": 1790200651.978354,
+    "fills": 2
   }
 ]
