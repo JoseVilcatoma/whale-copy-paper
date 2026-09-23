@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:26:32 (hora de Perú)
+Actualizado: 2026-09-23 03:28:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $86.39
-**Retorno acumulado:** -82.72%
+**Bankroll actual:** $92.95
+**Retorno acumulado:** -81.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 03:26:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.83 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.56)
+**Capital comprometido ahora mismo:** $73.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $19.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,26 +160,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| Flaznorp | 184 | 70 | 2 | -29.51 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | RN1 | 643 | 304 | 4 | -31.25 USD |
-| Flaznorp | 183 | 70 | 3 | -32.12 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 879 | 538 | 8 | -229.78 USD |
+| ferrariChampions2026 | 880 | 539 | 6 | -225.83 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5929
-- **Aciertos:** 3736 (63.0%)
+- **Apuestas resueltas:** 5932
+- **Aciertos:** 3738 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,381.52
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $542.27 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,394.26
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $542.57 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,8 +187,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3034 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1741 | 68.6% | 67.9% | +0.7 pp |
+| 40-59% | 3036 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1742 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 824 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 330 | 97.3% | 97.4% | -0.1 pp |
 
@@ -1094,13 +1094,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ⏳ pendiente | — |
+| Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ⏳ pendiente | — |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 15.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ❌ perdida | -2.81 |
+| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ✅ ganada | +6.76 |
 | Flaznorp | M25 Yinchuan: Seonyong Han vs Nikolai Ba | Nikolai Barsukov (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 13.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 1.5% | ⏳ pendiente | — |

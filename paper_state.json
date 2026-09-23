@@ -1,5 +1,5 @@
 {
-  "bankroll": 86.39358611268207,
+  "bankroll": 92.95165570975166,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30735,6 +30735,21 @@
       "timestamp": 1790148530.7939901,
       "bankroll": 86.39,
       "event": "lost: Flaznorp \u2014 W50 Nanao: Kurea Hayasaka vs Amelia Rajecki"
+    },
+    {
+      "timestamp": 1790152113.0168188,
+      "bankroll": 93.15,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina"
+    },
+    {
+      "timestamp": 1790152113.1169684,
+      "bankroll": 90.35,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina"
+    },
+    {
+      "timestamp": 1790152113.617755,
+      "bankroll": 92.95,
+      "event": "won: Flaznorp \u2014 Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina"
     }
   ]
 }
