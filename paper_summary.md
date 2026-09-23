@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 22:20:38 (hora de Perú)
+Actualizado: 2026-09-22 22:22:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 22:20:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $77.39 en 16 posiciones abiertas (disponible para nuevas apuestas: $19.29)
+**Capital comprometido ahora mismo:** $82.39 en 17 posiciones abiertas (disponible para nuevas apuestas: $14.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,7 +162,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 632 | 300 | 3 | -31.61 USD |
+| RN1 | 632 | 300 | 4 | -31.61 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1081,11 +1081,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
 | atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
+| wta-tararud-park-2026-09-22 | Flaznorp, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1115,4 +1117,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Matthew William Donald (BUY) | 45% | 2.59 | 0.3% | ✅ ganada | +3.09 |
 | Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ❌ perdida | -5.09 |
-| goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ❌ perdida | -5.07 |
