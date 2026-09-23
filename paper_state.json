@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.42058611268207,
+  "bankroll": 86.39358611268207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30730,6 +30730,11 @@
       "timestamp": 1790148405.83617,
       "bankroll": 91.42,
       "event": "won: HMLSF \u2014 Chengdu Open: Sebastian Baez vs Jenson Brooksby"
+    },
+    {
+      "timestamp": 1790148530.7939901,
+      "bankroll": 86.39,
+      "event": "lost: Flaznorp \u2014 W50 Nanao: Kurea Hayasaka vs Amelia Rajecki"
     }
   ]
 }
