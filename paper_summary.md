@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 16:01:56 (hora de Perú)
+Actualizado: 2026-09-23 16:03:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $114.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 16:01:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $106.83 en 22 posiciones abiertas (disponible para nuevas apuestas: $7.92)
+**Capital comprometido ahora mismo:** $114.75 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Donkey14 | 5 | 6 | 2 | -7.07 USD |
+| Donkey14 | 5 | 6 | 3 | -7.07 USD |
 | SDTrading | 38 | 36 | 4 | -7.42 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 899 | 547 | 9 | -230.52 USD |
+| ferrariChampions2026 | 899 | 547 | 10 | -230.52 USD |
 
 ## Análisis general
 
@@ -1101,11 +1101,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-cengiz-mert-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
 | mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
+| mlb-ari-col-2026-09-23 | Donkey14, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 5.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ⏳ pendiente | — |
@@ -1134,5 +1137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 55.2% | ✅ ganada | +2.49 |
 | RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ❌ perdida | -3.86 |
-| GoalLineGhost | Will Spain win on 2026-09-23? | Yes (BUY) | 91% | 5.00 | 6.7% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
