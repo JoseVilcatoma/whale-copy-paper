@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.99018982682509,
+  "bankroll": 93.00855212493582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30770,6 +30770,36 @@
       "timestamp": 1790152741.5714703,
       "bankroll": 93.99,
       "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun"
+    },
+    {
+      "timestamp": 1790153495.3297963,
+      "bankroll": 98.17,
+      "event": "won: RN1 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153495.4299963,
+      "bankroll": 102.85,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153495.5302026,
+      "bankroll": 97.73,
+      "event": "lost: Flaznorp \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153495.6304247,
+      "bankroll": 92.62,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153495.8308115,
+      "bankroll": 87.5,
+      "event": "lost: RN1 \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153495.9310336,
+      "bankroll": 93.01,
+      "event": "won: HMLSF \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
     }
   ]
 }

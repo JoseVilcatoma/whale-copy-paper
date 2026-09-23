@@ -151739,8 +151739,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.09,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.18,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -151763,8 +151763,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "RN1"
     ],
@@ -151816,8 +151816,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -151867,8 +151867,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "Flaznorp",
       "RN1"
@@ -152018,8 +152018,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "Flaznorp",
       "ferrariChampions2026"
@@ -152045,8 +152045,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "Flaznorp",
       "RN1",
@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 641.8199999999999,
-    "whale_pct": 0.252,
+    "whale_usd": 1143.78,
+    "whale_pct": 0.449,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790152499.4814863,
-    "fills": 1
+    "last_fill_at": 1790153424.5600884,
+    "fills": 2
   },
   {
     "timestamp": 1790152760,
@@ -152288,8 +152288,8 @@
     "title": "W35 Sharm ElSheikh: Leonie Rabl vs Sandra Samir",
     "outcome": "Sandra Samir",
     "side": "BUY",
-    "whale_usd": 1019.979996,
-    "whale_pct": 0.48,
+    "whale_usd": 1547.979996,
+    "whale_pct": 0.729,
     "whale_value_at_open": 212447.3501,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -152300,7 +152300,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790153280.8851473,
-    "fills": 2
+    "last_fill_at": 1790153396.7367926,
+    "fills": 3
   }
 ]
