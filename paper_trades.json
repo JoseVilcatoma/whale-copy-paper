@@ -153148,8 +153148,8 @@
     "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2087.8715999999995,
-    "whale_pct": 1.016,
+    "whale_usd": 13894.301599999999,
+    "whale_pct": 6.76,
     "whale_value_at_open": 205545.4696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -153160,8 +153160,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790168541.2370276,
-    "fills": 2
+    "last_fill_at": 1790204883.3867307,
+    "fills": 3
   },
   {
     "timestamp": 1790167551,
@@ -153828,8 +153828,8 @@
     "title": "Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs",
     "outcome": "3DMAX",
     "side": "BUY",
-    "whale_usd": 9641.74,
-    "whale_pct": 4.62,
+    "whale_usd": 12952.836,
+    "whale_pct": 6.207,
     "whale_value_at_open": 208694.2395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -153840,8 +153840,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790204768.1646543,
-    "fills": 4
+    "last_fill_at": 1790204912.366556,
+    "fills": 6
   },
   {
     "timestamp": 1790194366,
