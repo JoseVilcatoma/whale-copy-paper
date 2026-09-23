@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 09:38:05 (hora de Perú)
+Actualizado: 2026-09-23 09:40:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.68
@@ -1106,7 +1106,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Ankara: Berfu Cengiz vs Aysegul Mert | Berfu Cengiz (BUY) | 98% | 5.00 | 6.0% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 42.3% | ⏳ pendiente | — |
+| HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 55.2% | ⏳ pendiente | — |
 | RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Spain win on 2026-09-23? | Yes (BUY) | 91% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
