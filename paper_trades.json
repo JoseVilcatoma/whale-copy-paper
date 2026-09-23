@@ -152930,8 +152930,8 @@
     "title": "Plovdiv 4: Tommaso Compagnucci vs Pol Martin Tiffon",
     "outcome": "Pol Martin Tiffon",
     "side": "BUY",
-    "whale_usd": 11889.342760999998,
-    "whale_pct": 9.458,
+    "whale_usd": 13361.047152999998,
+    "whale_pct": 10.629,
     "whale_value_at_open": 125701.2385,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -152942,8 +152942,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790165897.978403,
-    "fills": 9
+    "last_fill_at": 1790166120.8477504,
+    "fills": 10
   },
   {
     "timestamp": 1790164173,
