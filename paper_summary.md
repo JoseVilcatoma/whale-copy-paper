@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 10:08:47 (hora de Perú)
+Actualizado: 2026-09-23 10:10:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 10:08:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.53 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.30)
+**Capital comprometido ahora mismo:** $83.53 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 895 | 546 | 6 | -233.79 USD |
+| ferrariChampions2026 | 895 | 546 | 7 | -233.79 USD |
 
 ## Análisis general
 
@@ -1104,6 +1104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W35 Santa Margherita di Pula: Viola Turi | Viola Turini (BUY) | 74% | 5.00 | 1.7% | ⏳ pendiente | — |
 | GoalLineGhost | Azerbaijan vs. Tajikistan: O/U 0.5 | Over (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Berfu Cengiz vs Aysegul Mert | Berfu Cengiz (BUY) | 98% | 5.00 | 6.0% | ✅ ganada | +0.10 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -1133,4 +1134,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |
-| RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 5.7% | ❌ perdida | -5.05 |
