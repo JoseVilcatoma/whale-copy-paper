@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 21:25:42 (hora de Perú)
+Actualizado: 2026-09-22 21:27:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.43
-**Retorno acumulado:** -83.91%
+**Bankroll actual:** $81.71
+**Retorno acumulado:** -83.66%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 21:25:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.14 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.29)
+**Capital comprometido ahora mismo:** $75.14 en 16 posiciones abiertas (disponible para nuevas apuestas: $6.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,17 +168,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 875 | 536 | 8 | -226.15 USD |
+| ferrariChampions2026 | 876 | 536 | 7 | -224.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5891
-- **Aciertos:** 3707 (62.9%)
+- **Apuestas resueltas:** 5892
+- **Aciertos:** 3708 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,196.38
+- **Total apostado (suma de stakes):** $29,201.38
 - **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $539.90 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $539.95 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3024 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1729 | 68.5% | 67.9% | +0.7 pp |
+| 60-79% | 1730 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 813 | 86.0% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1089,7 +1089,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | New York Mets (BUY) | 73% | 4.49 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
 | Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ⏳ pendiente | — |
