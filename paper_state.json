@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.54674281676222,
+  "bankroll": 103.59424786726727,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30905,6 +30905,11 @@
       "timestamp": 1790164959.8992136,
       "bankroll": 103.55,
       "event": "won: RN1 \u2014 Ankara: Weronika Falkowska vs Polina Iatcenko"
+    },
+    {
+      "timestamp": 1790166222.6453385,
+      "bankroll": 103.59,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Mirra Andreeva vs Aliaksandra Sasnovich"
     }
   ]
 }
