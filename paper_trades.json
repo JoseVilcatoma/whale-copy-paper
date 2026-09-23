@@ -154211,5 +154211,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790204247.0322742,
     "fills": 1
+  },
+  {
+    "timestamp": 1790204408,
+    "timestamp_added": 1790204408.7320368,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-bartas1-doming2-2026-09-23",
+    "title": "W50 Berkeley, CA: Yara Bartashevich vs Sofia Elena Cabezas Dominguez",
+    "outcome": "Sofia Elena Cabezas Dominguez",
+    "side": "BUY",
+    "whale_usd": 623.5168090000001,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 220100.4894,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790204408.7320495,
+    "fills": 1
   }
 ]
