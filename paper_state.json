@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.81786701127544,
+  "bankroll": 95.23264961997108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30820,6 +30820,11 @@
       "timestamp": 1790155635.1396434,
       "bankroll": 94.82,
       "event": "won: Flaznorp \u2014 W50 Plovdiv: Alessandra Mazzola vs Rositsa Dencheva"
+    },
+    {
+      "timestamp": 1790157023.572291,
+      "bankroll": 95.23,
+      "event": "won: Flaznorp \u2014 W35 Santa Margherita di Pula: Anna Petkovic vs Angella Okutoyi"
     }
   ]
 }
