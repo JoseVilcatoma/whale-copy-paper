@@ -152123,8 +152123,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152195,8 +152195,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [
       "RN1"
     ],
@@ -152295,8 +152295,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152391,8 +152391,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "Flaznorp",
       "RN1"
@@ -152642,8 +152642,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "Flaznorp",
       "ferrariChampions2026"
@@ -152662,8 +152662,8 @@
     "title": "St. Tropez: Murphy Cassone vs Clement Tabur",
     "outcome": "Murphy Cassone",
     "side": "BUY",
-    "whale_usd": 2410.4071410000006,
-    "whale_pct": 1.611,
+    "whale_usd": 4257.927141,
+    "whale_pct": 2.846,
     "whale_value_at_open": 149594.2358,
     "paper_stake_usd": 3.55,
     "odds_at_bet": 58,
@@ -152674,8 +152674,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790162538.973493,
-    "fills": 2
+    "last_fill_at": 1790163807.7198265,
+    "fills": 3
   },
   {
     "timestamp": 1790159958,
@@ -152820,5 +152820,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790162109.2491786,
     "fills": 2
+  },
+  {
+    "timestamp": 1790163829,
+    "timestamp_added": 1790163830.3380475,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andreev-sasnovi-2026-09-22",
+    "title": "Singapore Open: Mirra Andreeva vs Aliaksandra Sasnovich",
+    "outcome": "Mirra Andreeva",
+    "side": "BUY",
+    "whale_usd": 676.8284600000001,
+    "whale_pct": 0.471,
+    "whale_value_at_open": 143822.3626,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790163830.3380568,
+    "fills": 1
   }
 ]

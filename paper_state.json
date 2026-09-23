@@ -1,5 +1,5 @@
 {
-  "bankroll": 94.4529052999143,
+  "bankroll": 102.95576528867232,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30875,6 +30875,31 @@
       "timestamp": 1790161887.6427307,
       "bankroll": 94.45,
       "event": "won: RN1 \u2014 Plovdiv 4: Oriol Roca Batalla vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1790163775.5244563,
+      "bankroll": 98.77,
+      "event": "won: RN1 \u2014 Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet"
+    },
+    {
+      "timestamp": 1790163775.6246045,
+      "bankroll": 102.29,
+      "event": "won: Flaznorp \u2014 Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet"
+    },
+    {
+      "timestamp": 1790163775.9534142,
+      "bankroll": 103.0,
+      "event": "won: Flaznorp \u2014 W35 Sharm ElSheikh: Leonie Rabl vs Sandra Samir"
+    },
+    {
+      "timestamp": 1790163776.4255812,
+      "bankroll": 108.08,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet"
+    },
+    {
+      "timestamp": 1790163777.5369818,
+      "bankroll": 102.96,
+      "event": "lost: RN1 \u2014 Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet"
     }
   ]
 }
