@@ -154147,8 +154147,8 @@
     "title": "Milwaukee Brewers vs. Philadelphia Phillies",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 4946.73,
-    "whale_pct": 2.304,
+    "whale_usd": 6441.958379,
+    "whale_pct": 3.001,
     "whale_value_at_open": 214666.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -154161,8 +154161,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790203928.395452,
-    "fills": 1
+    "last_fill_at": 1790204262.2849784,
+    "fills": 2
   },
   {
     "timestamp": 1790204110,
@@ -154186,6 +154186,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790204111.0491428,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790204246,
+    "timestamp_added": 1790204247.0322578,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-phi-2026-09-23-total-7pt5",
+    "title": "Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1840.701755,
+    "whale_pct": 0.86,
+    "whale_value_at_open": 213950.4903,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790204247.0322742,
     "fills": 1
   }
 ]
