@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 02:57:14 (hora de Perú)
+Actualizado: 2026-09-23 02:59:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.39
@@ -1108,7 +1108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 4.6% | ⏳ pendiente | — |
+| RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 8.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ✅ ganada | +1.36 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ❌ perdida | -5.03 |
