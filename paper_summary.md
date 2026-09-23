@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 18:00:21 (hora de Perú)
+Actualizado: 2026-09-23 18:02:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $116.45
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 18:00:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $106.38 en 22 posiciones abiertas (disponible para nuevas apuestas: $10.07)
+**Capital comprometido ahora mismo:** $116.38 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 45 | 10 | 1 | +23.80 USD |
+| UpTheBlues | 45 | 10 | 2 | +23.80 USD |
 | HMLSF | 8 | 0 | 1 | +22.16 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 901 | 548 | 10 | -227.82 USD |
+| ferrariChampions2026 | 901 | 548 | 11 | -227.82 USD |
 
 ## Análisis general
 
@@ -1108,6 +1108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
+| UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Over (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1136,5 +1138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 11.0% | ✅ ganada | +4.32 |
 | GoalLineGhost | Will Gibraltar win on 2026-09-23? | No (BUY) | 43% | 5.00 | 0.4% | ✅ ganada | +6.48 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 3.61 | 32.4% | ✅ ganada | +2.87 |
-| Donkey14 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays (BUY) | 47% | 5.00 | 25.8% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Ankara: Han Shi vs Ayla Aksu | Han Shi (BUY) | 80% | 5.00 | 2.3% | ✅ ganada | +1.20 |
