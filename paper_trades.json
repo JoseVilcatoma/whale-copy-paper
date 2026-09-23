@@ -151140,8 +151140,8 @@
     "title": "Golden State Valkyries vs. Portland Fire",
     "outcome": "Golden State Valkyries",
     "side": "BUY",
-    "whale_usd": 2062.809,
-    "whale_pct": 2.789,
+    "whale_usd": 3235.392,
+    "whale_pct": 4.374,
     "whale_value_at_open": 73968.8721,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -151152,8 +151152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790133567.8459692,
-    "fills": 2
+    "last_fill_at": 1790136101.2167253,
+    "fills": 3
   },
   {
     "timestamp": 1790131837,
