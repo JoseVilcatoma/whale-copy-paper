@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.4435406612728,
+  "bankroll": 91.13529741802957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31030,6 +31030,11 @@
       "timestamp": 1790177436.0615478,
       "bankroll": 89.44,
       "event": "won: HMLSF \u2014 Porto: Ayana Akli vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1790180152.9752314,
+      "bankroll": 91.14,
+      "event": "won: ferrariChampions2026 \u2014 W15 Monastir: Iveta Dapkute vs Sarina Schnyder"
     }
   ]
 }
