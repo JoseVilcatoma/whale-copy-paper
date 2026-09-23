@@ -152278,5 +152278,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790153045.5655684,
     "fills": 3
+  },
+  {
+    "timestamp": 1790153263,
+    "timestamp_added": 1790153263.935797,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-rabl1-samir1-2026-09-23",
+    "title": "W35 Sharm ElSheikh: Leonie Rabl vs Sandra Samir",
+    "outcome": "Sandra Samir",
+    "side": "BUY",
+    "whale_usd": 1019.979996,
+    "whale_pct": 0.48,
+    "whale_value_at_open": 212447.3501,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790153280.8851473,
+    "fills": 2
   }
 ]
