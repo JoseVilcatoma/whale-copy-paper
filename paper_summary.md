@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 16:08:09 (hora de Perú)
+Actualizado: 2026-09-23 16:10:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $114.75
@@ -1110,7 +1110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
-| Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 14.6% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ⏳ pendiente | — |
 | RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Facundo Mena vs Guido Ju | Facundo Mena (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |

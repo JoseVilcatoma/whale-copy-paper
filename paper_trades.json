@@ -153974,8 +153974,8 @@
     "title": "Spread: Chicago Cubs (-1.5)",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 550.42,
-    "whale_pct": 0.876,
+    "whale_usd": 9207.21,
+    "whale_pct": 14.648,
     "whale_value_at_open": 62855.4682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -153986,8 +153986,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790196780.5785651,
-    "fills": 1
+    "last_fill_at": 1790197694.635474,
+    "fills": 2
   },
   {
     "timestamp": 1790197232,
