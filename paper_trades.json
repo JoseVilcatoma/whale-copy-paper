@@ -152116,8 +152116,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 7745.571643,
-    "whale_pct": 6.547,
+    "whale_usd": 13839.370843,
+    "whale_pct": 11.698,
     "whale_value_at_open": 118300.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -152128,8 +152128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790155005.6114209,
-    "fills": 7
+    "last_fill_at": 1790157371.5104032,
+    "fills": 9
   },
   {
     "timestamp": 1790152139,
@@ -152384,8 +152384,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 7508.009154,
-    "whale_pct": 4.963,
+    "whale_usd": 19921.627621,
+    "whale_pct": 13.169,
     "whale_value_at_open": 151276.272,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -152399,8 +152399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790154417.4443858,
-    "fills": 5
+    "last_fill_at": 1790157371.4917674,
+    "fills": 7
   },
   {
     "timestamp": 1790154077,
@@ -152485,8 +152485,8 @@
     "title": "St. Tropez: Dino Prizmic vs David Jorda Sanchis",
     "outcome": "Dino Prizmic",
     "side": "BUY",
-    "whale_usd": 10686.697961,
-    "whale_pct": 8.673,
+    "whale_usd": 11736.361961,
+    "whale_pct": 9.525,
     "whale_value_at_open": 123215.8056,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -152499,8 +152499,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790157122.0073366,
-    "fills": 3
+    "last_fill_at": 1790157312.9573781,
+    "fills": 4
   },
   {
     "timestamp": 1790155625,
