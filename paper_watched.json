@@ -5,58 +5,58 @@
     "roi_pct": 22416.81,
     "short_term_pct": 100.0
   },
-  "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487": {
-    "username": "ratatatatatatatataaaa",
-    "added_at": 1790113634.8289506,
-    "roi_pct": 2538.35,
-    "short_term_pct": 90.0
-  },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1790115538.4696724,
-    "roi_pct": 9334.76,
-    "short_term_pct": 100.0
-  },
-  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
-    "username": "UpTheBlues",
-    "added_at": 1790115538.4696765,
-    "roi_pct": 1145.0,
+    "roi_pct": 9326.71,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1790118385.1326509,
-    "roi_pct": 421.34,
+    "roi_pct": 535.71,
     "short_term_pct": 100.0
-  },
-  "0xe639e41094bbeae18f3e6d1790c17299183f082a": {
-    "username": "0xe639e41094bbeae18g3e6d1790c17299183f082a",
-    "added_at": 1790124075.209604,
-    "roi_pct": 1125.92,
-    "short_term_pct": 90.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1790124075.2096167,
-    "roi_pct": 250.6,
+    "roi_pct": 262.71,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
     "added_at": 1790127862.6012232,
-    "roi_pct": 635.38,
+    "roi_pct": 1012.78,
     "short_term_pct": 100.0
   },
   "0xcd84d7f9262516865553555751609fb6f52abec6": {
     "username": "Donkey14",
     "added_at": 1790127862.6012247,
-    "roi_pct": 411.78,
+    "roi_pct": 299.71,
     "short_term_pct": 100.0
   },
   "0x1610db79f753a80207e1d66716be9e91e627ae49": {
     "username": "HMLSF",
     "added_at": 1790129750.391692,
-    "roi_pct": 674.18,
+    "roi_pct": 711.32,
     "short_term_pct": 100.0
+  },
+  "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
+    "username": "Flaznorp",
+    "added_at": 1790131651.5632796,
+    "roi_pct": 141.15,
+    "short_term_pct": 70.0
+  },
+  "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "added_at": 1790131651.5632825,
+    "roi_pct": 105.94,
+    "short_term_pct": 80.0
+  },
+  "0xee00ba338c59557141789b127927a55f5cc5cea1": {
+    "username": "S-Works",
+    "added_at": 1790131651.5632849,
+    "roi_pct": 60.48,
+    "short_term_pct": 40.0
   }
 }
