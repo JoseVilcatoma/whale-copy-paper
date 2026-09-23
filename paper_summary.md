@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 17:51:56 (hora de Perú)
+Actualizado: 2026-09-23 17:54:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 17:51:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $99.68 en 21 posiciones abiertas (disponible para nuevas apuestas: $9.03)
+**Capital comprometido ahora mismo:** $104.68 en 22 posiciones abiertas (disponible para nuevas apuestas: $4.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 901 | 548 | 7 | -227.82 USD |
+| ferrariChampions2026 | 901 | 548 | 8 | -227.82 USD |
 
 ## Análisis general
 
@@ -1102,11 +1102,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
 | mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
 | mlb-ari-col-2026-09-23 | Donkey14, HMLSF, ferrariChampions2026 |
+| mlb-mil-phi-2026-09-23 | Donkey14, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Donkey14 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 50% | 4.93 | 18.6% | ⏳ pendiente | — |
 | HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ⏳ pendiente | — |
 | Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 26.3% | ⏳ pendiente | — |
@@ -1136,4 +1138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 41% | 2.30 | 1.3% | ✅ ganada | +3.24 |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Viola Turi | Viola Turini (BUY) | 74% | 5.00 | 1.7% | ❌ perdida | -5.07 |
 | GoalLineGhost | Azerbaijan vs. Tajikistan: O/U 0.5 | Over (BUY) | 93% | 5.00 | 1.3% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Ankara: Berfu Cengiz vs Aysegul Mert | Berfu Cengiz (BUY) | 98% | 5.00 | 6.0% | ✅ ganada | +0.10 |
