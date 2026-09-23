@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.08439537385331,
+  "bankroll": 93.79852181063492,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30995,6 +30995,11 @@
       "timestamp": 1790172529.3630202,
       "bankroll": 93.08,
       "event": "won: ferrariChampions2026 \u2014 W50 Yecla: Margaux Rouvroy vs Amandine Hesse"
+    },
+    {
+      "timestamp": 1790172903.69892,
+      "bankroll": 93.8,
+      "event": "won: UpTheBlues \u2014 Singapore Open: Alycia Parks vs Leylah Fernandez"
     }
   ]
 }
