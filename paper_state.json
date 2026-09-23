@@ -1,5 +1,5 @@
 {
-  "bankroll": 111.08770362174926,
+  "bankroll": 114.32945971931024,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31080,6 +31080,11 @@
       "timestamp": 1790193838.1833608,
       "bankroll": 111.09,
       "event": "won: UpTheBlues \u2014 Will Gibraltar vs. S\u00e3o Tom\u00e9 e Pr\u00edncipe end in a draw?"
+    },
+    {
+      "timestamp": 1790194777.2811413,
+      "bankroll": 114.33,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Detroit Tigers"
     }
   ]
 }
