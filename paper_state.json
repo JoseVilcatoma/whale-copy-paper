@@ -1,5 +1,5 @@
 {
-  "bankroll": 112.5416015774521,
+  "bankroll": 114.75420475205527,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31100,6 +31100,11 @@
       "timestamp": 1790196107.27107,
       "bankroll": 112.54,
       "event": "won: GoalLineGhost \u2014 Will Oud-Heverlee Leuven Women win on 2026-09-23?"
+    },
+    {
+      "timestamp": 1790197310.1098416,
+      "bankroll": 114.75,
+      "event": "won: ferrariChampions2026 \u2014 San Diego 2: Henry Searle vs Liam Draxl"
     }
   ]
 }
