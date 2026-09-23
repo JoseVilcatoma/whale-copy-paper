@@ -1,5 +1,5 @@
 {
-  "bankroll": 101.08857669769742,
+  "bankroll": 102.00095765007838,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30925,6 +30925,11 @@
       "timestamp": 1790166541.8031766,
       "bankroll": 101.09,
       "event": "won: Flaznorp \u2014 St. Tropez: Murphy Cassone vs Clement Tabur"
+    },
+    {
+      "timestamp": 1790166856.5151002,
+      "bankroll": 102.0,
+      "event": "won: ferrariChampions2026 \u2014 W35 Santa Margherita di Pula: Ilary Pistola vs Yuliana Lizarazo"
     }
   ]
 }
