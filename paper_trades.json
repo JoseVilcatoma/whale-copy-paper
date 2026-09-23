@@ -153442,8 +153442,8 @@
     "title": "Azerbaijan vs. Tajikistan: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 714.3227,
-    "whale_pct": 0.609,
+    "whale_usd": 1554.5627,
+    "whale_pct": 1.326,
     "whale_value_at_open": 117227.4099,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -153454,8 +153454,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790174937.3847513,
-    "fills": 1
+    "last_fill_at": 1790181806.9628186,
+    "fills": 2
   },
   {
     "timestamp": 1790176173,
