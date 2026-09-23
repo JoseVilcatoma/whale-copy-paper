@@ -151722,5 +151722,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790145208.7085636,
     "fills": 3
+  },
+  {
+    "timestamp": 1790145310,
+    "timestamp_added": 1790145310.8139029,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mochizu-kotov-2026-09-23",
+    "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
+    "outcome": "Shintaro Mochizuki",
+    "side": "BUY",
+    "whale_usd": 1356.2925089999999,
+    "whale_pct": 1.325,
+    "whale_value_at_open": 102385.7106,
+    "paper_stake_usd": 3.09,
+    "odds_at_bet": 42,
+    "fee_usd": 0.09,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790145310.8139114,
+    "fills": 1
   }
 ]

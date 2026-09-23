@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:33:38 (hora de Perú)
+Actualizado: 2026-09-23 01:35:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.09
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:33:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.09)
+**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 180 | 69 | 4 | -28.54 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 637 | 303 | 7 | -35.41 USD |
+| RN1 | 637 | 303 | 8 | -35.41 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1091,6 +1091,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -1120,4 +1121,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ✅ ganada | +2.31 |
 | ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
-| Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
