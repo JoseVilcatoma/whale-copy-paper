@@ -1,5 +1,5 @@
 {
-  "bankroll": 99.96498689602622,
+  "bankroll": 94.93798689602622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30965,6 +30965,11 @@
       "timestamp": 1790168118.731884,
       "bankroll": 99.96,
       "event": "won: ferrariChampions2026 \u2014 W50 Plovdiv: Ilinca Dalina Amariei vs Selena Janicijevic"
+    },
+    {
+      "timestamp": 1790168427.980396,
+      "bankroll": 94.94,
+      "event": "lost: Flaznorp \u2014 W35 Santa Margherita di Pula: Galatea Ferro vs Aurora Nosei"
     }
   ]
 }
