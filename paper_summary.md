@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:51:42 (hora de Perú)
+Actualizado: 2026-09-23 03:53:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.01
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 03:51:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $28.01)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $18.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,7 +162,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Flaznorp | 184 | 71 | 4 | -34.63 USD |
+| Flaznorp | 184 | 71 | 6 | -34.63 USD |
 | RN1 | 645 | 306 | 2 | -34.91 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1096,6 +1096,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
+| Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Sharm ElSheikh: Leonie Rabl vs Sandr | Sandra Samir (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -1124,5 +1126,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ❌ perdida | -5.03 |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ✅ ganada | +0.10 |
 | Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 4.5% | ✅ ganada | +0.10 |
-| Flaznorp | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
-| RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ✅ ganada | +4.68 |
