@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 05:19:59 (hora de Perú)
+Actualizado: 2026-09-23 05:22:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.90
@@ -1108,7 +1108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 13.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 13.5% | ⏳ pendiente | — |
 | Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
