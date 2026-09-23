@@ -150438,8 +150438,8 @@
     "title": "Cincinnati Reds vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 14625.93,
-    "whale_pct": 3.83,
+    "whale_usd": 55277.520000000004,
+    "whale_pct": 14.476,
     "whale_value_at_open": 381860.4663,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -150450,8 +150450,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790105631.765482,
-    "fills": 1
+    "last_fill_at": 1790121549.5679116,
+    "fills": 4
   },
   {
     "timestamp": 1790105939,
@@ -150962,5 +150962,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790118321.3666835,
     "fills": 2
+  },
+  {
+    "timestamp": 1790121537,
+    "timestamp_added": 1790121538.3247752,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra2-cri-ope-2026-09-21-cri",
+    "title": "Will Crici\u00fama EC win on 2026-09-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1381.6,
+    "whale_pct": 2.462,
+    "whale_value_at_open": 56110.3724,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790121538.3247862,
+    "fills": 1
   }
 ]
