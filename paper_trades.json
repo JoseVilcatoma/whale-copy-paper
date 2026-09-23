@@ -152038,8 +152038,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 10048.260000000002,
-    "whale_pct": 14.563,
+    "whale_usd": 11710.485500000003,
+    "whale_pct": 16.972,
     "whale_value_at_open": 69000.8157,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -152054,8 +152054,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148573.1067672,
-    "fills": 3
+    "last_fill_at": 1790148814.055019,
+    "fills": 4
   },
   {
     "timestamp": 1790148580,
@@ -152079,6 +152079,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790148580.783934,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790148768,
+    "timestamp_added": 1790148769.2871795,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-basilas-cina-2026-09-23",
+    "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
+    "outcome": "Nikoloz Basilashvili",
+    "side": "BUY",
+    "whale_usd": 623.36,
+    "whale_pct": 0.299,
+    "whale_value_at_open": 208810.9088,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790148769.2871878,
     "fills": 1
   }
 ]
