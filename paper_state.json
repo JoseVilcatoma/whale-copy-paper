@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.39878512334278,
+  "bankroll": 92.92934067889833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30565,6 +30565,11 @@
       "timestamp": 1790132211.8604934,
       "bankroll": 92.4,
       "event": "won: Flaznorp \u2014 Spread: Independiente Medell\u00edn (-1.5)"
+    },
+    {
+      "timestamp": 1790132591.7543294,
+      "bankroll": 92.93,
+      "event": "won: RN1 \u2014 Will Crici\u00fama EC win on 2026-09-21?"
     }
   ]
 }

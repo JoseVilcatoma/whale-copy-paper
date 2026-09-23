@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 22:01:11 (hora de Perú)
+Actualizado: 2026-09-22 22:03:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.40
-**Retorno acumulado:** -81.52%
+**Bankroll actual:** $92.93
+**Retorno acumulado:** -81.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 22:01:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.39 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.01)
+**Capital comprometido ahora mismo:** $87.39 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,9 +160,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 175 | 67 | 4 | -26.97 USD |
+| Flaznorp | 175 | 67 | 6 | -26.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 631 | 300 | 4 | -32.14 USD |
+| RN1 | 632 | 300 | 3 | -31.61 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5895
-- **Aciertos:** 3711 (63.0%)
+- **Apuestas resueltas:** 5896
+- **Aciertos:** 3712 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,214.13
+- **Total apostado (suma de stakes):** $29,219.13
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $540.23 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $540.26 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3026 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1731 | 68.6% | 67.9% | +0.7 pp |
-| 80-94% | 813 | 86.0% | 86.6% | -0.6 pp |
+| 80-94% | 814 | 86.0% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1086,6 +1086,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1096,7 +1098,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
 | Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ⏳ pendiente | — |
+| RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ✅ ganada | +0.53 |
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ✅ ganada | +2.58 |
 | Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -1114,5 +1116,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ❌ perdida | -5.07 |
-| GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
-| GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
