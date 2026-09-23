@@ -1,5 +1,5 @@
 {
-  "bankroll": 103.59424786726727,
+  "bankroll": 101.08857669769742,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30910,6 +30910,21 @@
       "timestamp": 1790166222.6453385,
       "bankroll": 103.59,
       "event": "won: ferrariChampions2026 \u2014 Singapore Open: Mirra Andreeva vs Aliaksandra Sasnovich"
+    },
+    {
+      "timestamp": 1790166538.111205,
+      "bankroll": 98.45,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Murphy Cassone vs Clement Tabur"
+    },
+    {
+      "timestamp": 1790166539.4834826,
+      "bankroll": 100.94,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: Murphy Cassone vs Clement Tabur"
+    },
+    {
+      "timestamp": 1790166541.8031766,
+      "bankroll": 101.09,
+      "event": "won: Flaznorp \u2014 St. Tropez: Murphy Cassone vs Clement Tabur"
     }
   ]
 }

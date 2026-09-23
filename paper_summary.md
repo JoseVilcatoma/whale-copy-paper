@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:28:46 (hora de Perú)
+Actualizado: 2026-09-23 07:30:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $103.59
-**Retorno acumulado:** -79.28%
+**Bankroll actual:** $101.09
+**Retorno acumulado:** -79.78%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 07:28:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $102.96 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.63)
+**Capital comprometido ahora mismo:** $99.41 en 20 posiciones abiertas (disponible para nuevas apuestas: $1.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| SDTrading | 37 | 36 | 0 | -10.29 USD |
+| SDTrading | 37 | 36 | 1 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -160,7 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 191 | 71 | 4 | -27.75 USD |
+| Flaznorp | 192 | 71 | 3 | -27.60 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | RN1 | 650 | 308 | 4 | -30.97 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -168,17 +168,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 888 | 542 | 12 | -222.98 USD |
+| ferrariChampions2026 | 889 | 543 | 11 | -225.63 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5964
-- **Aciertos:** 3762 (63.1%)
+- **Apuestas resueltas:** 5967
+- **Aciertos:** 3764 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,550.89
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $544.79 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $29,564.44
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $545.02 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,10 +187,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3052 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3054 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1744 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 832 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 336 | 97.3% | 97.4% | -0.0 pp |
+| 95-99% (casi seguro) | 337 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1101,10 +1101,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Valentin Royer vs Adam Wa | Valentin Royer (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 63% | 5.00 | 4.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ⏳ pendiente | — |
-| Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 10.6% | ⏳ pendiente | — |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 64% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -1116,7 +1118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 2.8% | ✅ ganada | +2.50 |
 | RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Aleksandar Vukic (BUY) | 52% | 5.00 | 1.7% | ❌ perdida | -5.12 |
 | RN1 | Plovdiv 4: Oriol Roca Batalla vs Calvin  | Calvin Hemery (BUY) | 54% | 5.00 | 2.1% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 83% | 5.00 | 2.2% | ✅ ganada | +0.98 |
@@ -1129,5 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 14.2% | ✅ ganada | +5.08 |
 | Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ✅ ganada | +0.20 |
-| Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
