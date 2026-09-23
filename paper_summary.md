@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 12:32:37 (hora de Perú)
+Actualizado: 2026-09-23 12:34:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.74
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 12:32:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $81.54 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.20)
+**Capital comprometido ahora mismo:** $86.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 653 | 310 | 2 | -35.79 USD |
+| RN1 | 653 | 310 | 3 | -35.79 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1105,8 +1105,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 4.8% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 7.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gibraltar win on 2026-09-23? | No (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 3.61 | 32.4% | ⏳ pendiente | — |
 | Donkey14 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays (BUY) | 47% | 5.00 | 25.8% | ⏳ pendiente | — |
@@ -1134,4 +1135,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 63% | 5.00 | 4.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ✅ ganada | +1.42 |
 | Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
-| RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 10.6% | ✅ ganada | +0.47 |
