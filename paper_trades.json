@@ -153876,8 +153876,8 @@
     "title": "Cleveland Guardians vs. Boston Red Sox",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 1796.19,
-    "whale_pct": 2.0,
+    "whale_usd": 2581.81,
+    "whale_pct": 2.875,
     "whale_value_at_open": 89816.573,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -153890,8 +153890,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790194368.9112244,
-    "fills": 1
+    "last_fill_at": 1790196548.1566548,
+    "fills": 2
   },
   {
     "timestamp": 1790194402,

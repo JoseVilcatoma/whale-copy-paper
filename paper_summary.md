@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 15:47:30 (hora de Perú)
+Actualizado: 2026-09-23 15:49:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $112.54
@@ -1109,7 +1109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ⏳ pendiente | — |
 | RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Facundo Mena vs Guido Ju | Facundo Mena (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
+| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX (BO5 | 3DMAX (BUY) | 75% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
