@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.70880403979969,
+  "bankroll": 116.45078528078093,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31135,6 +31135,21 @@
       "timestamp": 1790203788.3535676,
       "bankroll": 108.71,
       "event": "won: ferrariChampions2026 \u2014 W50 Berkeley, CA: Connie Ma vs Akasha Urhobo"
+    },
+    {
+      "timestamp": 1790204101.6429634,
+      "bankroll": 108.76,
+      "event": "won: UpTheBlues \u2014 Will FK Austria Wien win on 2026-09-23?"
+    },
+    {
+      "timestamp": 1790204102.6660633,
+      "bankroll": 111.99,
+      "event": "won: RN1 \u2014 Chelsea FC vs. FK Austria Wien: O/U 2.5"
+    },
+    {
+      "timestamp": 1790204103.0484538,
+      "bankroll": 116.45,
+      "event": "won: RN1 \u2014 FC Barcelona vs. Paris FC: O/U 6.5"
     }
   ]
 }
