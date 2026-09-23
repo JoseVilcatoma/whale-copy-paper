@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.83105211263194,
+  "bankroll": 90.87855716313699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30705,6 +30705,11 @@
       "timestamp": 1790146705.0382755,
       "bankroll": 90.83,
       "event": "won: RN1 \u2014 Chengdu Open, Qualification: Alexandre Muller vs Petr Bar Biryukov"
+    },
+    {
+      "timestamp": 1790148027.9845345,
+      "bankroll": 90.88,
+      "event": "won: RN1 \u2014 Chengdu Open, Qualification: Lloyd Harris vs Alexis Galarneau"
     }
   ]
 }
