@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:01:25 (hora de Perú)
+Actualizado: 2026-09-23 03:03:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.39
@@ -1098,7 +1098,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ⏳ pendiente | — |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 11.2% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 15.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ⏳ pendiente | — |
 | Flaznorp | M25 Yinchuan: Seonyong Han vs Nikolai Ba | Nikolai Barsukov (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
