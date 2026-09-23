@@ -154147,8 +154147,8 @@
     "title": "Milwaukee Brewers vs. Philadelphia Phillies",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 6441.958379,
-    "whale_pct": 3.001,
+    "whale_usd": 7943.785978999999,
+    "whale_pct": 3.701,
     "whale_value_at_open": 214666.3368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -154161,8 +154161,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790204262.2849784,
-    "fills": 2
+    "last_fill_at": 1790207010.507611,
+    "fills": 4
   },
   {
     "timestamp": 1790204110,
@@ -154282,6 +154282,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790204541.8895655,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790207009,
+    "timestamp_added": 1790207009.5940099,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-atl-2026-09-23",
+    "title": "Cincinnati Reds vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 2446.6504580000005,
+    "whale_pct": 0.841,
+    "whale_value_at_open": 291062.8516,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790207009.5940208,
     "fills": 1
   }
 ]
