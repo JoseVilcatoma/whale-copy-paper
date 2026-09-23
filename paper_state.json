@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.30864604065505,
+  "bankroll": 94.4529052999143,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30870,6 +30870,11 @@
       "timestamp": 1790161259.0423064,
       "bankroll": 90.31,
       "event": "won: ferrariChampions2026 \u2014 W50 Plovdiv: Elizara Yaneva vs Margaux Maquet"
+    },
+    {
+      "timestamp": 1790161887.6427307,
+      "bankroll": 94.45,
+      "event": "won: RN1 \u2014 Plovdiv 4: Oriol Roca Batalla vs Calvin Hemery"
     }
   ]
 }
