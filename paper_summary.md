@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:39:07 (hora de Perú)
+Actualizado: 2026-09-23 03:41:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.99
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 03:39:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $20.90)
+**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,10 +160,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 184 | 70 | 3 | -29.51 USD |
+| Flaznorp | 184 | 70 | 4 | -29.51 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 644 | 305 | 3 | -33.98 USD |
+| RN1 | 644 | 305 | 4 | -33.98 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1090,11 +1090,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-mochizu-kotov-2026-09-23 | Flaznorp, HMLSF, RN1, ferrariChampions2026 |
 | atp-basilas-cina-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | atp-vukic-jacquet-2026-09-22 | Flaznorp, RN1 |
+| atp-kopriva-hu-2026-09-22 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
+| Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -1123,5 +1126,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ✅ ganada | +4.68 |
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ✅ ganada | +0.30 |
-| Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
-| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ✅ ganada | +2.97 |
