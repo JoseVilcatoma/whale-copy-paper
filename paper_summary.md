@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 15:12:24 (hora de Perú)
+Actualizado: 2026-09-23 15:14:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $111.09
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 15:12:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.33 en 20 posiciones abiertas (disponible para nuevas apuestas: $17.76)
+**Capital comprometido ahora mismo:** $108.33 en 23 posiciones abiertas (disponible para nuevas apuestas: $2.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| Donkey14 | 5 | 5 | 1 | -1.94 USD |
+| Donkey14 | 5 | 5 | 2 | -1.94 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -156,7 +156,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 656 | 310 | 1 | -22.13 USD |
+| RN1 | 656 | 310 | 3 | -22.13 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -1100,11 +1100,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
 | wta-cengiz-mert-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
+| mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Buenos Aires 2: Facundo Mena vs Guido Ju | Facundo Mena (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX (BO5 | 3DMAX (BUY) | 75% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -1132,6 +1136,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | St. Louis Cardinals vs. Pittsburgh Pirat | Under (BUY) | 54% | 5.00 | 18.1% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 3.53 | 1.7% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 8.3% | ✅ ganada | +0.71 |
-| ferrariChampions2026 | W15 Monastir: Iveta Dapkute vs Sarina Sc | Iveta Dapkute (BUY) | 74% | 5.00 | 0.8% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 6.2% | ✅ ganada | +1.13 |
