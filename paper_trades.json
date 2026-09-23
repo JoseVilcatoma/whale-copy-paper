@@ -151484,8 +151484,8 @@
     "title": "Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska",
     "outcome": "Maja Chwalinska",
     "side": "BUY",
-    "whale_usd": 37692.254071999996,
-    "whale_pct": 17.817,
+    "whale_usd": 51514.07406299999,
+    "whale_pct": 24.35,
     "whale_value_at_open": 211553.1795,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -151496,8 +151496,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790141959.8142738,
-    "fills": 9
+    "last_fill_at": 1790143073.1068256,
+    "fills": 10
   },
   {
     "timestamp": 1790141601,
