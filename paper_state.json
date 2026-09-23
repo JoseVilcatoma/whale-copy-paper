@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.94755088814354,
+  "bankroll": 83.09419006340127,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30665,6 +30665,11 @@
       "timestamp": 1790140846.5875738,
       "bankroll": 82.95,
       "event": "lost: RN1 \u2014 Korea Open: Lanlana Tararudee vs So-Hyun Park"
+    },
+    {
+      "timestamp": 1790144197.6150992,
+      "bankroll": 83.09,
+      "event": "won: Flaznorp \u2014 M25 Yinchuan: Reiya Komagata vs Aziz Dougaz"
     }
   ]
 }
