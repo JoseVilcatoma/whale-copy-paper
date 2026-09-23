@@ -152178,5 +152178,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790152285.20205,
     "fills": 1
+  },
+  {
+    "timestamp": 1790152499,
+    "timestamp_added": 1790152499.481476,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-vukic-jacquet-2026-09-22",
+    "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
+    "outcome": "Kyrian Jacquet",
+    "side": "BUY",
+    "whale_usd": 641.8199999999999,
+    "whale_pct": 0.252,
+    "whale_value_at_open": 254940.8902,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790152499.4814863,
+    "fills": 1
   }
 ]
