@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 12:07:22 (hora de Perú)
+Actualizado: 2026-09-23 12:09:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.54
@@ -1105,7 +1105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 2.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gibraltar win on 2026-09-23? | No (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 3.61 | 32.4% | ⏳ pendiente | — |
 | Donkey14 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays (BUY) | 47% | 5.00 | 25.8% | ⏳ pendiente | — |
