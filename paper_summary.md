@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:54:19 (hora de Perú)
+Actualizado: 2026-09-23 01:56:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:54:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.55)
+**Capital comprometido ahora mismo:** $88.09 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 878 | 538 | 6 | -231.14 USD |
+| ferrariChampions2026 | 878 | 538 | 7 | -231.14 USD |
 
 ## Análisis general
 
@@ -1086,12 +1086,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-oliynyk-chwalin-2026-09-22 | Flaznorp, RN1 |
 | atp-bolt-santill-2026-09-23 | Flaznorp, RN1 |
 | atp-muller-biryuko-2026-09-23 | Flaznorp, RN1 |
+| atp-tomic-su-2026-09-23 | RN1, ferrariChampions2026 |
 | atp-mochizu-kotov-2026-09-23 | Flaznorp, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Lloyd Harri | Lloyd Harris (BUY) | 99% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1121,4 +1123,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ❌ perdida | -5.04 |
 | RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ✅ ganada | +0.10 |
 | Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ❌ perdida | -5.06 |
-| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 8.8% | ❌ perdida | -5.03 |
