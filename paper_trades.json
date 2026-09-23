@@ -154072,8 +154072,8 @@
     "title": "Milwaukee Brewers vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 8184.998928000001,
-    "whale_pct": 11.04,
+    "whale_usd": 10437.210039000001,
+    "whale_pct": 14.078,
     "whale_value_at_open": 74137.2202,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -154084,7 +154084,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790198474.2712393,
-    "fills": 3
+    "last_fill_at": 1790198822.8396342,
+    "fills": 4
   }
 ]
