@@ -1,5 +1,5 @@
 {
-  "bankroll": 85.95134098951503,
+  "bankroll": 82.94755088814354,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30650,6 +30650,21 @@
       "timestamp": 1790140537.6537862,
       "bankroll": 85.95,
       "event": "won: RN1 \u2014 Golden State Valkyries vs. Portland Fire"
+    },
+    {
+      "timestamp": 1790140846.3872116,
+      "bankroll": 86.73,
+      "event": "won: Flaznorp \u2014 Korea Open: Lanlana Tararudee vs So-Hyun Park"
+    },
+    {
+      "timestamp": 1790140846.4874063,
+      "bankroll": 88.09,
+      "event": "won: RN1 \u2014 Korea Open: Lanlana Tararudee vs So-Hyun Park"
+    },
+    {
+      "timestamp": 1790140846.5875738,
+      "bankroll": 82.95,
+      "event": "lost: RN1 \u2014 Korea Open: Lanlana Tararudee vs So-Hyun Park"
     }
   ]
 }
