@@ -151412,8 +151412,8 @@
     "title": "Hangzhou Open, Qualification: Taro Daniel vs Hayato Matsuoka",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 3024.617346,
-    "whale_pct": 4.371,
+    "whale_usd": 6687.658346,
+    "whale_pct": 9.664,
     "whale_value_at_open": 69204.9517,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -151424,8 +151424,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790138077.9589813,
-    "fills": 1
+    "last_fill_at": 1790143863.8154871,
+    "fills": 2
   },
   {
     "timestamp": 1790139625,
@@ -151647,6 +151647,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790143676.2601583,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790143812,
+    "timestamp_added": 1790143812.4099112,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-hayasa1-rajeck1-2026-09-23",
+    "title": "W50 Nanao: Kurea Hayasaka vs Amelia Rajecki",
+    "outcome": "Amelia Rajecki",
+    "side": "BUY",
+    "whale_usd": 521.989995,
+    "whale_pct": 0.136,
+    "whale_value_at_open": 382722.0263,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790143812.4099224,
     "fills": 1
   }
 ]
