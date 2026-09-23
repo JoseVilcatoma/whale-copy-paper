@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:48:19 (hora de Perú)
+Actualizado: 2026-09-23 06:50:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.96
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 06:48:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.55 en 18 posiciones abiertas (disponible para nuevas apuestas: $14.41)
+**Capital comprometido ahora mismo:** $98.55 en 20 posiciones abiertas (disponible para nuevas apuestas: $4.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,9 +160,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 191 | 71 | 2 | -27.75 USD |
+| Flaznorp | 191 | 71 | 3 | -27.75 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 649 | 308 | 4 | -31.56 USD |
+| RN1 | 649 | 308 | 5 | -31.56 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1078,6 +1078,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-mayot-boulais-2026-09-22 | Flaznorp, RN1, ferrariChampions2026 |
 | mlb-tb-nyy-2026-05-23 | Donkey14, ferrariChampions2026 |
 | wta-sierra-dilek-2026-09-22 | RN1, ferrariChampions2026 |
+| atp-cassone-tabur-2026-09-22 | Flaznorp, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-22 | ferrariChampions2026, goshkam |
 | atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
@@ -1100,6 +1101,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 64% | 5.00 | 7.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1128,5 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Sharm ElSheikh: Leonie Rabl vs Sandr | Sandra Samir (BUY) | 87% | 5.00 | 0.7% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ❌ perdida | -5.04 |
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ✅ ganada | +0.25 |
-| Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
-| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.9% | ✅ ganada | +3.52 |
