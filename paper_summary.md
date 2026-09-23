@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:36:56 (hora de Perú)
+Actualizado: 2026-09-23 07:38:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.00
@@ -1104,7 +1104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Valentin Royer vs Adam Wa | Valentin Royer (BUY) | 72% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Valentin Royer vs Adam Wa | Valentin Royer (BUY) | 72% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 63% | 5.00 | 4.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
