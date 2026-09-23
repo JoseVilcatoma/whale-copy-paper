@@ -152868,5 +152868,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790163914.6418955,
     "fills": 1
+  },
+  {
+    "timestamp": 1790164005,
+    "timestamp_added": 1790164006.1554234,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-dodin-malygin-2026-09-23",
+    "title": "Porto: Oceane Dodin vs Elena Malygina",
+    "outcome": "Elena Malygina",
+    "side": "BUY",
+    "whale_usd": 11043.914594999998,
+    "whale_pct": 7.364,
+    "whale_value_at_open": 149962.0515,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790164007.4798357,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790164005,
+    "timestamp_added": 1790164006.8587418,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-dodin-malygin-2026-09-23",
+    "title": "Porto: Oceane Dodin vs Elena Malygina",
+    "outcome": "Elena Malygina",
+    "side": "BUY",
+    "whale_usd": 11046.737892000001,
+    "whale_pct": 11.148,
+    "whale_value_at_open": 99088.0725,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790164042.2669222,
+    "fills": 3
   }
 ]

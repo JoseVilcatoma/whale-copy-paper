@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:46:11 (hora de Perú)
+Actualizado: 2026-09-23 06:48:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.96
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 06:46:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.55 en 16 posiciones abiertas (disponible para nuevas apuestas: $24.41)
+**Capital comprometido ahora mismo:** $88.55 en 18 posiciones abiertas (disponible para nuevas apuestas: $14.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,13 +162,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 191 | 71 | 2 | -27.75 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 649 | 308 | 3 | -31.56 USD |
+| RN1 | 649 | 308 | 4 | -31.56 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 887 | 542 | 10 | -223.03 USD |
+| ferrariChampions2026 | 887 | 542 | 11 | -223.03 USD |
 
 ## Análisis general
 
@@ -1094,11 +1094,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kopriva-hu-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-prizmic-sanchis-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | itf-yaneva1-maquet1-2026-09-23 | Flaznorp, ferrariChampions2026 |
+| wta-dodin-malygin-2026-09-23 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 64% | 5.00 | 7.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Mirra Andreeva vs Aliaks | Mirra Andreeva (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ⏳ pendiente | — |
@@ -1127,5 +1130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ✅ ganada | +0.25 |
 | Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
 | Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.9% | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
