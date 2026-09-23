@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.63697047997888,
+  "bankroll": 90.83105211263194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30695,6 +30695,16 @@
       "timestamp": 1790146453.1375728,
       "bankroll": 90.64,
       "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Taro Daniel vs Hayato Matsuoka"
+    },
+    {
+      "timestamp": 1790146704.938155,
+      "bankroll": 90.73,
+      "event": "won: Flaznorp \u2014 Chengdu Open, Qualification: Alexandre Muller vs Petr Bar Biryukov"
+    },
+    {
+      "timestamp": 1790146705.0382755,
+      "bankroll": 90.83,
+      "event": "won: RN1 \u2014 Chengdu Open, Qualification: Alexandre Muller vs Petr Bar Biryukov"
     }
   ]
 }

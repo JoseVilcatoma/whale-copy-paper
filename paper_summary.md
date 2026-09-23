@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:56:25 (hora de Perú)
+Actualizado: 2026-09-23 01:58:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $90.64
-**Retorno acumulado:** -81.87%
+**Bankroll actual:** $90.83
+**Retorno acumulado:** -81.83%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:56:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.09 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.55)
+**Capital comprometido ahora mismo:** $78.09 en 16 posiciones abiertas (disponible para nuevas apuestas: $12.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,8 +160,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 182 | 69 | 3 | -27.19 USD |
-| RN1 | 640 | 303 | 6 | -29.23 USD |
+| Flaznorp | 183 | 69 | 2 | -27.09 USD |
+| RN1 | 641 | 303 | 5 | -29.13 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5921
-- **Aciertos:** 3730 (63.0%)
+- **Apuestas resueltas:** 5923
+- **Aciertos:** 3732 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,341.52
+- **Total apostado (suma de stakes):** $29,351.52
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $541.89 (1.85% del capital apostado)
+- **Comisiones pagadas (taker fee):** $541.90 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3033 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1738 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 823 | 85.9% | 86.6% | -0.7 pp |
-| 95-99% (casi seguro) | 327 | 97.2% | 97.3% | -0.1 pp |
+| 95-99% (casi seguro) | 329 | 97.3% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1103,8 +1103,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
-| Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 4.5% | ⏳ pendiente | — |
+| RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ✅ ganada | +0.10 |
+| Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 4.5% | ✅ ganada | +0.10 |
 | Flaznorp | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ✅ ganada | +4.68 |
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
