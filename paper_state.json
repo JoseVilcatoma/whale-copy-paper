@@ -1,5 +1,5 @@
 {
-  "bankroll": 99.31316871420803,
+  "bankroll": 99.96498689602622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30960,6 +30960,11 @@
       "timestamp": 1790167798.798159,
       "bankroll": 99.31,
       "event": "won: Flaznorp \u2014 M25 Sharm ElSheikh: Tomas Lanik vs Paul Jubb"
+    },
+    {
+      "timestamp": 1790168118.731884,
+      "bankroll": 99.96,
+      "event": "won: ferrariChampions2026 \u2014 W50 Plovdiv: Ilinca Dalina Amariei vs Selena Janicijevic"
     }
   ]
 }
