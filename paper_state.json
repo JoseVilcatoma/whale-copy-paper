@@ -1,5 +1,5 @@
 {
-  "bankroll": 116.45078528078093,
+  "bankroll": 116.70094317551778,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31150,6 +31150,11 @@
       "timestamp": 1790204103.0484538,
       "bankroll": 116.45,
       "event": "won: RN1 \u2014 FC Barcelona vs. Paris FC: O/U 6.5"
+    },
+    {
+      "timestamp": 1790206944.4279392,
+      "bankroll": 116.7,
+      "event": "won: UpTheBlues \u2014 Buenos Aires 2: Nicolas Kicker vs Hugo Dellien"
     }
   ]
 }

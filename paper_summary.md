@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 18:41:23 (hora de Perú)
+Actualizado: 2026-09-23 18:43:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $116.45
-**Retorno acumulado:** -76.71%
+**Bankroll actual:** $116.70
+**Retorno acumulado:** -76.66%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 18:41:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $116.38 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.07)
+**Capital comprometido ahora mismo:** $111.38 en 23 posiciones abiertas (disponible para nuevas apuestas: $5.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 45 | 10 | 2 | +23.80 USD |
+| UpTheBlues | 46 | 10 | 1 | +24.05 USD |
 | HMLSF | 8 | 0 | 1 | +22.16 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6012
-- **Aciertos:** 3798 (63.2%)
+- **Apuestas resueltas:** 6013
+- **Aciertos:** 3799 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,777.80
+- **Total apostado (suma de stakes):** $29,782.80
 - **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $548.11 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $548.12 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3070 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1755 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 340 | 97.4% | 97.4% | -0.0 pp |
+| 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1112,7 +1112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Over (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
-| UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Donkey14 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 50% | 4.93 | 18.6% | ⏳ pendiente | — |
 | HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ⏳ pendiente | — |
