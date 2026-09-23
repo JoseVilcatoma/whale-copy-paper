@@ -153514,8 +153514,8 @@
     "title": "Ankara: Han Shi vs Ayla Aksu",
     "outcome": "Han Shi",
     "side": "BUY",
-    "whale_usd": 1952.057073,
-    "whale_pct": 1.326,
+    "whale_usd": 3351.1890729999996,
+    "whale_pct": 2.277,
     "whale_value_at_open": 147206.7101,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -153526,8 +153526,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790177623.3985736,
-    "fills": 1
+    "last_fill_at": 1790179948.3009052,
+    "fills": 2
   },
   {
     "timestamp": 1790177739,
