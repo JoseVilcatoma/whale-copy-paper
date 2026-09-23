@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 08:46:46 (hora de Perú)
+Actualizado: 2026-09-23 08:48:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $97.28
@@ -1110,7 +1110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W15 Monastir: Iveta Dapkute vs Sarina Sc | Iveta Dapkute (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 4.6% | ⏳ pendiente | — |
+| RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 6.2% | ⏳ pendiente | — |
 | UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 5.9% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
