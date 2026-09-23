@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 21:48:33 (hora de Perú)
+Actualizado: 2026-09-22 21:50:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 21:48:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.14 en 14 posiciones abiertas (disponible para nuevas apuestas: $24.68)
+**Capital comprometido ahora mismo:** $75.14 en 16 posiciones abiertas (disponible para nuevas apuestas: $14.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,9 +160,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 174 | 67 | 3 | -29.55 USD |
+| Flaznorp | 174 | 67 | 4 | -29.55 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 631 | 300 | 2 | -32.14 USD |
+| RN1 | 631 | 300 | 3 | -32.14 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1080,12 +1080,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-atl-2026-09-22 | ferrariChampions2026, goshkam |
 | atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
+| atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 2.7% | ⏳ pendiente | — |
+| Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | New York Mets (BUY) | 73% | 4.49 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ⏳ pendiente | — |
@@ -1113,5 +1116,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
 | GoalLineGhost | Will Real Madrid CF Femenino win on 2026 | No (BUY) | 76% | 5.00 | 0.3% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves: O/U  | Under (BUY) | 41% | 2.26 | 0.2% | ✅ ganada | +3.19 |
-| ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 14.5% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Tolentino: Jennifer Ruggeri vs Julia Gra | Julia Grabher (BUY) | 51% | 5.00 | 4.8% | ✅ ganada | +4.68 |
