@@ -1,5 +1,5 @@
 {
-  "bankroll": 82.90768281465571,
+  "bankroll": 87.40306743004032,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30525,6 +30525,11 @@
       "timestamp": 1790127085.2326415,
       "bankroll": 82.91,
       "event": "won: Donkey14 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1790127784.2908957,
+      "bankroll": 87.4,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Detroit Tigers (-1.5)"
     }
   ]
 }
