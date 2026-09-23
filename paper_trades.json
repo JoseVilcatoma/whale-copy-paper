@@ -152116,8 +152116,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 13839.370843,
-    "whale_pct": 11.698,
+    "whale_usd": 17341.450843,
+    "whale_pct": 14.659,
     "whale_value_at_open": 118300.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -152128,8 +152128,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790157371.5104032,
-    "fills": 9
+    "last_fill_at": 1790158407.3987381,
+    "fills": 10
   },
   {
     "timestamp": 1790152139,
@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 5482.861199,
-    "whale_pct": 2.151,
+    "whale_usd": 6988.041998999999,
+    "whale_pct": 2.741,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790157902.0323136,
-    "fills": 7
+    "last_fill_at": 1790158335.3385372,
+    "fills": 9
   },
   {
     "timestamp": 1790152760,
@@ -152574,6 +152574,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790157219.4297101,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790158299,
+    "timestamp_added": 1790158299.2570276,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-yaneva1-maquet1-2026-09-23",
+    "title": "W50 Plovdiv: Elizara Yaneva vs Margaux Maquet",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "whale_usd": 3293.7044100000003,
+    "whale_pct": 2.223,
+    "whale_value_at_open": 148137.8288,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790158342.2188692,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790158307,
+    "timestamp_added": 1790158307.5055296,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-batalla-hemery-2026-09-23",
+    "title": "Plovdiv 4: Oriol Roca Batalla vs Calvin Hemery",
+    "outcome": "Calvin Hemery",
+    "side": "BUY",
+    "whale_usd": 1574.1000000000001,
+    "whale_pct": 2.076,
+    "whale_value_at_open": 75840.9591,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790158307.5055375,
     "fills": 1
   }
 ]

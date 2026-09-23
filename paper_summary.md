@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 05:11:32 (hora de Perú)
+Actualizado: 2026-09-23 05:13:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.90
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 05:11:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.54 en 18 posiciones abiertas (disponible para nuevas apuestas: $10.36)
+**Capital comprometido ahora mismo:** $98.54 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,12 +163,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 187 | 71 | 6 | -32.71 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 646 | 306 | 4 | -34.66 USD |
+| RN1 | 646 | 306 | 5 | -34.66 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 884 | 540 | 7 | -219.03 USD |
+| ferrariChampions2026 | 884 | 540 | 8 | -219.03 USD |
 
 ## Análisis general
 
@@ -1093,11 +1093,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-vukic-jacquet-2026-09-22 | Flaznorp, RN1, ferrariChampions2026 |
 | atp-kopriva-hu-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-prizmic-sanchis-2026-09-23 | Flaznorp, ferrariChampions2026 |
+| itf-yaneva1-maquet1-2026-09-23 | Flaznorp, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Plovdiv 4: Oriol Roca Batalla vs Calvin  | Calvin Hemery (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 83% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Gibraltar vs. São Tomé e Príncipe: O/U 2 | Under (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Galatea Fe | Aurora Nosei (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ⏳ pendiente | — |
@@ -1113,10 +1116,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ✅ ganada | +0.25 |
 | Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
-| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.2% | ⏳ pendiente | — |
+| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
-| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 11.7% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 14.7% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ✅ ganada | +0.25 |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ✅ ganada | +5.51 |
@@ -1126,5 +1129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ✅ ganada | +6.76 |
 | Flaznorp | M25 Yinchuan: Seonyong Han vs Nikolai Ba | Nikolai Barsukov (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 13.5% | ✅ ganada | +3.52 |
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 1.5% | ❌ perdida | -5.11 |
-| RN1 | Chengdu Open, Qualification: Lloyd Harri | Lloyd Harris (BUY) | 99% | 5.00 | 4.0% | ✅ ganada | +0.05 |
