@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 23:05:53 (hora de Perú)
+Actualizado: 2026-09-22 23:07:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.96
@@ -1091,7 +1091,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | So-Hyun Park (BUY) | 45% | 5.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Keaton Hance (BUY) | 88% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Korea Open: Kamilla Rakhimova vs Katie V | Katie Volynets (BUY) | 61% | 5.00 | 9.2% | ⏳ pendiente | — |
-| RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 10.4% | ⏳ pendiente | — |
+| RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 24.7% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ✅ ganada | +4.68 |
 | Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
