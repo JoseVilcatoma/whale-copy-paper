@@ -150986,5 +150986,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790123344.1614778,
     "fills": 3
+  },
+  {
+    "timestamp": 1790125373,
+    "timestamp_added": 1790125373.9284365,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "col1-isf-adc-2026-09-22-total-3pt5",
+    "title": "Independiente Santa Fe vs. AD Cali: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 532.2,
+    "whale_pct": 0.172,
+    "whale_value_at_open": 309838.5105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790125373.9284477,
+    "fills": 1
   }
 ]
