@@ -154046,8 +154046,8 @@
     "title": "Arizona Diamondbacks vs. Colorado Rockies",
     "outcome": "Colorado Rockies",
     "side": "BUY",
-    "whale_usd": 2819.9680000000003,
-    "whale_pct": 5.006,
+    "whale_usd": 8026.632000000001,
+    "whale_pct": 14.25,
     "whale_value_at_open": 56328.0701,
     "paper_stake_usd": 2.92,
     "odds_at_bet": 41,
@@ -154060,8 +154060,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790197344.273412,
-    "fills": 1
+    "last_fill_at": 1790199164.1595907,
+    "fills": 2
   },
   {
     "timestamp": 1790197978,
@@ -154086,5 +154086,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790199069.522036,
     "fills": 5
+  },
+  {
+    "timestamp": 1790199163,
+    "timestamp_added": 1790199164.3481417,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "mlb-ari-col-2026-09-23",
+    "title": "Arizona Diamondbacks vs. Colorado Rockies",
+    "outcome": "Arizona Diamondbacks",
+    "side": "BUY",
+    "whale_usd": 7809.995999999999,
+    "whale_pct": 13.857,
+    "whale_value_at_open": 56363.1537,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Donkey14",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790199164.348166,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790199174,
+    "timestamp_added": 1790199175.109794,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-cin-atl-2026-09-23-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 955.0196080000002,
+    "whale_pct": 1.016,
+    "whale_value_at_open": 94036.05,
+    "paper_stake_usd": 4.93,
+    "odds_at_bet": 50,
+    "fee_usd": 0.123,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790199175.1098032,
+    "fills": 1
   }
 ]
