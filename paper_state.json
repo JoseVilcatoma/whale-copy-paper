@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.79699409955732,
+  "bankroll": 90.30864604065505,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30860,6 +30860,16 @@
       "timestamp": 1790159864.9643238,
       "bankroll": 88.8,
       "event": "won: ferrariChampions2026 \u2014 St. Tropez: Dino Prizmic vs David Jorda Sanchis"
+    },
+    {
+      "timestamp": 1790161258.2793093,
+      "bankroll": 89.33,
+      "event": "won: Flaznorp \u2014 W50 Plovdiv: Elizara Yaneva vs Margaux Maquet"
+    },
+    {
+      "timestamp": 1790161259.0423064,
+      "bankroll": 90.31,
+      "event": "won: ferrariChampions2026 \u2014 W50 Plovdiv: Elizara Yaneva vs Margaux Maquet"
     }
   ]
 }
