@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 09:07:13 (hora de Perú)
+Actualizado: 2026-09-23 09:09:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.31
-**Retorno acumulado:** -81.54%
+**Bankroll actual:** $93.08
+**Retorno acumulado:** -81.38%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 09:07:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.03)
+**Capital comprometido ahora mismo:** $92.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| SDTrading | 37 | 36 | 3 | -10.29 USD |
+| SDTrading | 37 | 36 | 4 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -168,17 +168,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 893 | 545 | 8 | -229.55 USD |
+| ferrariChampions2026 | 894 | 545 | 7 | -228.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5980
-- **Aciertos:** 3773 (63.1%)
+- **Apuestas resueltas:** 5981
+- **Aciertos:** 3774 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,628.85
+- **Total apostado (suma de stakes):** $29,633.85
 - **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $545.60 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $545.63 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3054 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1749 | 68.7% | 67.9% | +0.8 pp |
-| 80-94% | 839 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 840 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 338 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1096,12 +1096,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-prizmic-sanchis-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | itf-yaneva1-maquet1-2026-09-23 | Flaznorp, ferrariChampions2026 |
 | wta-dodin-malygin-2026-09-23 | RN1, ferrariChampions2026 |
+| mlb-min-sf-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
 | wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 42.3% | ⏳ pendiente | — |
 | RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Spain win on 2026-09-23? | Yes (BUY) | 91% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -1127,8 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Mirra Andreeva vs Aliaks | Mirra Andreeva (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ✅ ganada | +0.59 |
 | ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 5.7% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 2.8% | ✅ ganada | +2.50 |

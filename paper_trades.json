@@ -152765,8 +152765,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -153380,5 +153380,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790172313.589717,
     "fills": 8
+  },
+  {
+    "timestamp": 1790172534,
+    "timestamp_added": 1790172534.8162634,
+    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-min-sf-2026-09-23",
+    "title": "Minnesota Twins vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 1936.1799,
+    "whale_pct": 3.016,
+    "whale_value_at_open": 64197.2328,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790172534.8162766,
+    "fills": 1
   }
 ]

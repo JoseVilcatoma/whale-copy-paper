@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.30544188548122,
+  "bankroll": 93.08439537385331,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30990,6 +30990,11 @@
       "timestamp": 1790171903.0283082,
       "bankroll": 92.31,
       "event": "won: UpTheBlues \u2014 St. Tropez: Thomas Faurel vs Mark Lajal"
+    },
+    {
+      "timestamp": 1790172529.3630202,
+      "bankroll": 93.08,
+      "event": "won: ferrariChampions2026 \u2014 W50 Yecla: Margaux Rouvroy vs Amandine Hesse"
     }
   ]
 }
