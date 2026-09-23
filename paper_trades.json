@@ -153715,8 +153715,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -153859,8 +153859,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -154072,8 +154072,8 @@
     "title": "Milwaukee Brewers vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 10437.210039000001,
-    "whale_pct": 14.078,
+    "whale_usd": 19490.014639,
+    "whale_pct": 26.289,
     "whale_value_at_open": 74137.2202,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -154084,7 +154084,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790198822.8396342,
-    "fills": 4
+    "last_fill_at": 1790199069.522036,
+    "fills": 5
   }
 ]

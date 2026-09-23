@@ -1,5 +1,5 @@
 {
-  "bankroll": 116.27315212047633,
+  "bankroll": 114.67684177564874,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31110,6 +31110,16 @@
       "timestamp": 1790197880.106066,
       "bankroll": 116.27,
       "event": "won: RN1 \u2014 Buenos Aires 2: Facundo Mena vs Guido Justo"
+    },
+    {
+      "timestamp": 1790199136.651109,
+      "bankroll": 119.79,
+      "event": "won: ferrariChampions2026 \u2014 Tolentino: Noemi Basiletti vs Mia Ristic"
+    },
+    {
+      "timestamp": 1790199137.570182,
+      "bankroll": 114.68,
+      "event": "lost: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX - Map 3 Winner"
     }
   ]
 }
