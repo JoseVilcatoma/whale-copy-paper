@@ -151860,8 +151860,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 1531.1423080000002,
-    "whale_pct": 0.831,
+    "whale_usd": 2758.4773080000004,
+    "whale_pct": 1.497,
     "whale_value_at_open": 184220.6214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -151875,8 +151875,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790146274.979831,
-    "fills": 2
+    "last_fill_at": 1790149756.190146,
+    "fills": 3
   },
   {
     "timestamp": 1790146566,
@@ -151937,8 +151937,8 @@
     "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 8487.693095999999,
-    "whale_pct": 4.219,
+    "whale_usd": 10830.909677999998,
+    "whale_pct": 5.383,
     "whale_value_at_open": 201201.1462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -151949,8 +151949,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790149107.8266838,
-    "fills": 6
+    "last_fill_at": 1790149752.569483,
+    "fills": 7
   },
   {
     "timestamp": 1790147401,
@@ -151985,8 +151985,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
     "outcome": "Fajing Sun",
     "side": "BUY",
-    "whale_usd": 3175.92,
-    "whale_pct": 6.161,
+    "whale_usd": 4691.7,
+    "whale_pct": 9.102,
     "whale_value_at_open": 51548.5834,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -151999,8 +151999,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148206.446038,
-    "fills": 1
+    "last_fill_at": 1790149850.9038646,
+    "fills": 2
   },
   {
     "timestamp": 1790148411,
@@ -152038,8 +152038,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 11710.485500000003,
-    "whale_pct": 16.972,
+    "whale_usd": 13986.796700000003,
+    "whale_pct": 20.27,
     "whale_value_at_open": 69000.8157,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -152054,8 +152054,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148814.055019,
-    "fills": 4
+    "last_fill_at": 1790149756.5118723,
+    "fills": 5
   },
   {
     "timestamp": 1790148580,
