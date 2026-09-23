@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 15:41:23 (hora de Perú)
+Actualizado: 2026-09-23 15:43:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $112.07
-**Retorno acumulado:** -77.59%
+**Bankroll actual:** $112.54
+**Retorno acumulado:** -77.49%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 15:41:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.72 en 22 posiciones abiertas (disponible para nuevas apuestas: $6.35)
+**Capital comprometido ahora mismo:** $100.72 en 21 posiciones abiertas (disponible para nuevas apuestas: $11.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,7 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| GoalLineGhost | 112 | 46 | 1 | -12.05 USD |
+| GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6001
-- **Aciertos:** 3790 (63.2%)
+- **Apuestas resueltas:** 6002
+- **Aciertos:** 3791 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,725.61
+- **Total apostado (suma de stakes):** $29,730.61
 - **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $547.14 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $547.16 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3064 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1752 | 68.7% | 67.9% | +0.7 pp |
-| 80-94% | 846 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 339 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1117,7 +1117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will FK Austria Wien win on 2026-09-23? | No (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
-| GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ✅ ganada | +0.47 |
 | RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 8.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ✅ ganada | +2.84 |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 11.0% | ✅ ganada | +4.32 |

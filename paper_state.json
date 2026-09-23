@@ -1,5 +1,5 @@
 {
-  "bankroll": 112.0690960829466,
+  "bankroll": 112.5416015774521,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31095,6 +31095,11 @@
       "timestamp": 1790196047.4291844,
       "bankroll": 112.07,
       "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Toronto Blue Jays vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1790196107.27107,
+      "bankroll": 112.54,
+      "event": "won: GoalLineGhost \u2014 Will Oud-Heverlee Leuven Women win on 2026-09-23?"
     }
   ]
 }
