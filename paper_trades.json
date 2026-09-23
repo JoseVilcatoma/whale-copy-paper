@@ -151460,8 +151460,8 @@
     "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
     "outcome": "Jenson Brooksby",
     "side": "BUY",
-    "whale_usd": 12022.83,
-    "whale_pct": 52.166,
+    "whale_usd": 15993.07,
+    "whale_pct": 69.393,
     "whale_value_at_open": 23047.1066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -151472,8 +151472,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790144330.9650004,
-    "fills": 4
+    "last_fill_at": 1790145069.4737632,
+    "fills": 5
   },
   {
     "timestamp": 1790141601,
@@ -151672,5 +151672,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790143812.4099224,
     "fills": 1
+  },
+  {
+    "timestamp": 1790145015,
+    "timestamp_added": 1790145015.6119542,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tomic-su-2026-09-23",
+    "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
+    "outcome": "Bernard Tomic",
+    "side": "BUY",
+    "whale_usd": 2523.1360000000004,
+    "whale_pct": 2.645,
+    "whale_value_at_open": 95404.3359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790145015.6119654,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790145069,
+    "timestamp_added": 1790145069.6534224,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-baez-brooksb-2026-09-22",
+    "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
+    "outcome": "Jenson Brooksby",
+    "side": "BUY",
+    "whale_usd": 9440.8625,
+    "whale_pct": 2.984,
+    "whale_value_at_open": 316404.7396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790145092.0085008,
+    "fills": 2
   }
 ]

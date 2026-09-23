@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:29:32 (hora de Perú)
+Actualizado: 2026-09-23 01:31:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.09
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:29:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $13.09)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $3.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,12 +163,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 180 | 69 | 4 | -28.54 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 637 | 303 | 6 | -35.41 USD |
+| RN1 | 637 | 303 | 7 | -35.41 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 878 | 538 | 3 | -231.14 USD |
+| ferrariChampions2026 | 878 | 538 | 4 | -231.14 USD |
 
 ## Análisis general
 
@@ -1082,6 +1082,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
 | atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
 | wta-tararud-park-2026-09-22 | Flaznorp, RN1 |
+| atp-baez-brooksb-2026-09-22 | RN1, ferrariChampions2026 |
 | wta-oliynyk-chwalin-2026-09-22 | Flaznorp, RN1 |
 | atp-bolt-santill-2026-09-23 | Flaznorp, RN1 |
 | atp-muller-biryuko-2026-09-23 | Flaznorp, RN1 |
@@ -1090,6 +1091,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -1098,7 +1101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ⏳ pendiente | — |
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 52.2% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 69.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
@@ -1118,5 +1121,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ✅ ganada | +2.31 |
 | ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
 | Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
-| RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ✅ ganada | +0.53 |
-| Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ✅ ganada | +2.58 |
