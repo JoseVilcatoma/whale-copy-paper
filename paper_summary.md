@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 00:58:49 (hora de Perú)
+Actualizado: 2026-09-23 01:00:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 00:58:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $27.95)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $17.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,7 +160,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 179 | 69 | 2 | -28.69 USD |
+| Flaznorp | 179 | 69 | 4 | -28.69 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 637 | 303 | 5 | -35.41 USD |
@@ -1083,11 +1083,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
 | wta-tararud-park-2026-09-22 | Flaznorp, RN1 |
 | wta-oliynyk-chwalin-2026-09-22 | Flaznorp, RN1 |
+| atp-bolt-santill-2026-09-23 | Flaznorp, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 3.4% | ⏳ pendiente | — |
+| Flaznorp | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ⏳ pendiente | — |
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ⏳ pendiente | — |
@@ -1116,5 +1119,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ✅ ganada | +2.58 |
 | Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ✅ ganada | +1.87 |
 | GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 2.0% | ✅ ganada | +1.87 |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 67% | 5.00 | 2.7% | ✅ ganada | +2.38 |
-| Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
