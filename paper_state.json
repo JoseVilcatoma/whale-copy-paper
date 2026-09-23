@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.2018136044885,
+  "bankroll": 93.99018982682509,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30755,6 +30755,21 @@
       "timestamp": 1790152364.52241,
       "bankroll": 93.2,
       "event": "won: HMLSF \u2014 Hangzhou Open, Qualification: Dalibor Svrcina vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1790152740.6601665,
+      "bankroll": 88.09,
+      "event": "lost: RN1 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun"
+    },
+    {
+      "timestamp": 1790152741.1607678,
+      "bankroll": 91.61,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun"
+    },
+    {
+      "timestamp": 1790152741.5714703,
+      "bankroll": 93.99,
+      "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun"
     }
   ]
 }
