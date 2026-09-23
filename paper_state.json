@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.70248793574169,
+  "bankroll": 89.43697047997888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30680,6 +30680,16 @@
       "timestamp": 1790145699.635138,
       "bankroll": 83.7,
       "event": "won: RN1 \u2014 Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska"
+    },
+    {
+      "timestamp": 1790145763.4185035,
+      "bankroll": 88.38,
+      "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Alex Bolt vs Akira Santillan"
+    },
+    {
+      "timestamp": 1790145763.5187037,
+      "bankroll": 89.44,
+      "event": "won: Flaznorp \u2014 Hangzhou Open, Qualification: Alex Bolt vs Akira Santillan"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:41:45 (hora de Perú)
+Actualizado: 2026-09-23 01:43:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $83.70
-**Retorno acumulado:** -83.26%
+**Bankroll actual:** $89.44
+**Retorno acumulado:** -82.11%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:41:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $10.61)
+**Capital comprometido ahora mismo:** $73.09 en 15 posiciones abiertas (disponible para nuevas apuestas: $16.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| HMLSF | 4 | 0 | 0 | +12.55 USD |
+| HMLSF | 4 | 0 | 1 | +12.55 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -160,26 +160,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 181 | 69 | 3 | -28.24 USD |
+| Flaznorp | 182 | 69 | 2 | -27.19 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
+| RN1 | 639 | 303 | 6 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 638 | 303 | 7 | -35.11 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 878 | 538 | 4 | -231.14 USD |
+| ferrariChampions2026 | 878 | 538 | 5 | -231.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5918
-- **Aciertos:** 3727 (63.0%)
+- **Apuestas resueltas:** 5920
+- **Aciertos:** 3729 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,326.52
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $541.67 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,336.52
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $541.84 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,9 +187,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3032 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3033 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1738 | 68.6% | 67.9% | +0.7 pp |
-| 80-94% | 821 | 85.9% | 86.6% | -0.7 pp |
+| 80-94% | 822 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 327 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1082,23 +1082,26 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
 | atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
 | wta-tararud-park-2026-09-22 | Flaznorp, RN1 |
-| atp-baez-brooksb-2026-09-22 | RN1, ferrariChampions2026 |
+| atp-baez-brooksb-2026-09-22 | HMLSF, RN1, ferrariChampions2026 |
 | wta-oliynyk-chwalin-2026-09-22 | Flaznorp, RN1 |
 | atp-bolt-santill-2026-09-23 | Flaznorp, RN1 |
 | atp-muller-biryuko-2026-09-23 | Flaznorp, RN1 |
+| atp-mochizu-kotov-2026-09-23 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 4.5% | ⏳ pendiente | — |
-| Flaznorp | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ⏳ pendiente | — |
+| Flaznorp | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
+| RN1 | Hangzhou Open, Qualification: Alex Bolt  | Alex Bolt (BUY) | 51% | 5.00 | 3.2% | ✅ ganada | +4.68 |
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ✅ ganada | +0.30 |
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
@@ -1119,5 +1122,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | New York Mets (BUY) | 73% | 4.49 | 0.2% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ❌ perdida | -5.13 |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ✅ ganada | +2.31 |
-| ferrariChampions2026 | San Diego 2: Darwin Blanch vs J.J. Wolf | Darwin Blanch (BUY) | 79% | 5.00 | 0.6% | ✅ ganada | +1.28 |
