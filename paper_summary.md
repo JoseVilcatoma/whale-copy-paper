@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 08:05:49 (hora de Perú)
+Actualizado: 2026-09-23 08:07:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.41
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 08:05:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.53 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.88)
+**Capital comprometido ahora mismo:** $93.53 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 892 | 544 | 9 | -226.39 USD |
+| ferrariChampions2026 | 892 | 544 | 10 | -226.39 USD |
 
 ## Análisis general
 
@@ -1101,6 +1101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | UpTheBlues | St. Tropez: Thomas Faurel vs Mark Lajal | Mark Lajal (BUY) | 99% | 5.00 | 4.3% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | St. Louis Cardinals vs. Pittsburgh Pirat | Under (BUY) | 54% | 5.00 | 18.1% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 3.53 | 1.7% | ⏳ pendiente | — |
@@ -1130,4 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Aleksandar Vukic (BUY) | 52% | 5.00 | 1.7% | ❌ perdida | -5.12 |
 | RN1 | Plovdiv 4: Oriol Roca Batalla vs Calvin  | Calvin Hemery (BUY) | 54% | 5.00 | 2.1% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 83% | 5.00 | 2.2% | ✅ ganada | +0.98 |
-| RN1 | Gibraltar vs. São Tomé e Príncipe: O/U 2 | Under (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
