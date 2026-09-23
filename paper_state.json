@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.55115571571893,
+  "bankroll": 88.79699409955732,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30850,6 +30850,16 @@
       "timestamp": 1790159046.3229225,
       "bankroll": 88.55,
       "event": "won: RN1 \u2014 Ankara: Solana Sierra vs Deniz Dilek"
+    },
+    {
+      "timestamp": 1790159864.4633756,
+      "bankroll": 88.75,
+      "event": "won: Flaznorp \u2014 St. Tropez: Dino Prizmic vs David Jorda Sanchis"
+    },
+    {
+      "timestamp": 1790159864.9643238,
+      "bankroll": 88.8,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: Dino Prizmic vs David Jorda Sanchis"
     }
   ]
 }
