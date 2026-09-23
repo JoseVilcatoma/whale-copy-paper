@@ -151123,8 +151123,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -151140,8 +151140,8 @@
     "title": "Golden State Valkyries vs. Portland Fire",
     "outcome": "Golden State Valkyries",
     "side": "BUY",
-    "whale_usd": 5615.0380000000005,
-    "whale_pct": 7.591,
+    "whale_usd": 6478.138000000001,
+    "whale_pct": 8.758,
     "whale_value_at_open": 73968.8721,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -151152,8 +151152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790137072.140053,
-    "fills": 6
+    "last_fill_at": 1790137160.3770888,
+    "fills": 7
   },
   {
     "timestamp": 1790131837,
@@ -151171,8 +151171,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [
       "RN1"
     ],
@@ -151343,8 +151343,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [
       "Flaznorp"
     ],

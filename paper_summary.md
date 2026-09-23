@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 23:18:11 (hora de Perú)
+Actualizado: 2026-09-22 23:20:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $97.92
-**Retorno acumulado:** -80.42%
+**Bankroll actual:** $88.44
+**Retorno acumulado:** -82.31%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 23:18:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $87.90 en 18 posiciones abiertas (disponible para nuevas apuestas: $10.02)
+**Capital comprometido ahora mismo:** $72.90 en 15 posiciones abiertas (disponible para nuevas apuestas: $15.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,13 +157,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 109 | 46 | 0 | -19.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| Flaznorp | 177 | 68 | 3 | -25.46 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 632 | 300 | 8 | -31.61 USD |
+| Flaznorp | 177 | 69 | 2 | -30.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 633 | 301 | 6 | -36.02 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5901
-- **Aciertos:** 3716 (63.0%)
+- **Apuestas resueltas:** 5904
+- **Aciertos:** 3717 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,243.62
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $540.62 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,258.62
+- **ROI sobre lo apostado:** -1.84%
+- **Comisiones pagadas (taker fee):** $540.78 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,8 +188,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3027 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1734 | 68.6% | 67.9% | +0.7 pp |
-| 80-94% | 815 | 85.9% | 86.6% | -0.7 pp |
+| 60-79% | 1736 | 68.5% | 67.9% | +0.7 pp |
+| 80-94% | 816 | 85.9% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1089,16 +1089,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | So-Hyun Park (BUY) | 45% | 5.00 | 8.1% | ⏳ pendiente | — |
-| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Keaton Hance (BUY) | 88% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Keaton Hance (BUY) | 88% | 5.00 | 2.3% | ✅ ganada | +0.65 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Katie V | Katie Volynets (BUY) | 61% | 5.00 | 9.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 24.7% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ✅ ganada | +4.68 |
 | Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ❌ perdida | -5.04 |
 | RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 7.6% | ⏳ pendiente | — |
-| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
+| Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ❌ perdida | -5.06 |
+| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 8.8% | ⏳ pendiente | — |
+| RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | New York Mets (BUY) | 73% | 4.49 | 0.2% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 55% | 2.90 | 29.9% | ⏳ pendiente | — |

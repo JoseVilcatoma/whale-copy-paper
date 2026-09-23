@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.91683606792151,
+  "bankroll": 88.4446542497397,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30595,6 +30595,21 @@
       "timestamp": 1790136790.0077522,
       "bankroll": 97.92,
       "event": "lost: Flaznorp \u2014 Miami Marlins vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1790137105.1368644,
+      "bankroll": 92.85,
+      "event": "lost: RN1 \u2014 San Diego 2: Keaton Hance vs Andres Martin"
+    },
+    {
+      "timestamp": 1790137105.5157082,
+      "bankroll": 87.79,
+      "event": "lost: Flaznorp \u2014 San Diego 2: Keaton Hance vs Andres Martin"
+    },
+    {
+      "timestamp": 1790137106.374022,
+      "bankroll": 88.44,
+      "event": "won: RN1 \u2014 San Diego 2: Keaton Hance vs Andres Martin"
     }
   ]
 }
