@@ -1,5 +1,5 @@
 {
-  "bankroll": 114.67684177564874,
+  "bankroll": 108.70880403979969,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31120,6 +31120,21 @@
       "timestamp": 1790199137.570182,
       "bankroll": 114.68,
       "event": "lost: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX - Map 3 Winner"
+    },
+    {
+      "timestamp": 1790203786.690408,
+      "bankroll": 109.54,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1790203787.7363482,
+      "bankroll": 104.39,
+      "event": "lost: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Minnesota Twins vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1790203788.3535676,
+      "bankroll": 108.71,
+      "event": "won: ferrariChampions2026 \u2014 W50 Berkeley, CA: Connie Ma vs Akasha Urhobo"
     }
   ]
 }
