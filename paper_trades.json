@@ -152734,8 +152734,8 @@
     "title": "Porto: Oceane Dodin vs Elena Malygina",
     "outcome": "Oceane Dodin",
     "side": "BUY",
-    "whale_usd": 1503.2,
-    "whale_pct": 1.74,
+    "whale_usd": 4888.523,
+    "whale_pct": 5.658,
     "whale_value_at_open": 86404.7707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -152746,8 +152746,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790161781.442249,
-    "fills": 2
+    "last_fill_at": 1790162733.624001,
+    "fills": 3
   },
   {
     "timestamp": 1790161453,

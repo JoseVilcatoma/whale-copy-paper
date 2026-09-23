@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:23:47 (hora de Perú)
+Actualizado: 2026-09-23 06:25:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $94.45
@@ -1102,7 +1102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 1.6% | ⏳ pendiente | — |
