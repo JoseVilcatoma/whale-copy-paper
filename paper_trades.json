@@ -152090,8 +152090,8 @@
     "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 2620.5340000000006,
-    "whale_pct": 1.255,
+    "whale_usd": 11887.493998000002,
+    "whale_pct": 5.693,
     "whale_value_at_open": 208810.9088,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -152104,7 +152104,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148959.0955348,
-    "fills": 3
+    "last_fill_at": 1790149232.3471503,
+    "fills": 4
   }
 ]
