@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.29869506606623,
+  "bankroll": 79.35125604167598,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30625,6 +30625,11 @@
       "timestamp": 1790139291.9073248,
       "bankroll": 78.3,
       "event": "lost: ferrariChampions2026 \u2014 Golden State Valkyries vs. Portland Fire: O/U 157.5"
+    },
+    {
+      "timestamp": 1790139602.3811762,
+      "bankroll": 79.35,
+      "event": "won: Flaznorp \u2014 Independiente Santa Fe vs. AD Cali: O/U 3.5"
     }
   ]
 }
