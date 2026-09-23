@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 02:34:10 (hora de Perú)
+Actualizado: 2026-09-23 02:36:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.39
@@ -1094,7 +1094,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ⏳ pendiente | — |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 17.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ⏳ pendiente | — |
