@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 08:03:41 (hora de Perú)
+Actualizado: 2026-09-23 08:05:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $94.94
-**Retorno acumulado:** -81.01%
+**Bankroll actual:** $95.41
+**Retorno acumulado:** -80.92%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 08:03:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.53 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.41)
+**Capital comprometido ahora mismo:** $88.53 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,8 +162,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
+| RN1 | 652 | 309 | 2 | -33.06 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 651 | 309 | 3 | -33.53 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5976
-- **Aciertos:** 3770 (63.1%)
+- **Apuestas resueltas:** 5977
+- **Aciertos:** 3771 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,608.85
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $545.48 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $29,613.85
+- **ROI sobre lo apostado:** -1.79%
+- **Comisiones pagadas (taker fee):** $545.50 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3054 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1748 | 68.6% | 67.9% | +0.7 pp |
-| 80-94% | 837 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 838 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 337 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1115,7 +1115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Tampa Bay Rays (BUY) | 63% | 5.00 | 4.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ✅ ganada | +1.42 |
 | Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
-| RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 10.6% | ⏳ pendiente | — |
+| RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 10.6% | ✅ ganada | +0.47 |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 64% | 5.00 | 7.4% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
