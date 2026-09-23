@@ -151460,8 +151460,8 @@
     "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
     "outcome": "Jenson Brooksby",
     "side": "BUY",
-    "whale_usd": 894.26,
-    "whale_pct": 3.88,
+    "whale_usd": 3990.21,
+    "whale_pct": 17.313,
     "whale_value_at_open": 23047.1066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -151472,8 +151472,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790140683.1350992,
-    "fills": 1
+    "last_fill_at": 1790141914.0523753,
+    "fills": 2
   },
   {
     "timestamp": 1790141601,
@@ -151484,8 +151484,8 @@
     "title": "Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska",
     "outcome": "Maja Chwalinska",
     "side": "BUY",
-    "whale_usd": 13372.934077999998,
-    "whale_pct": 6.321,
+    "whale_usd": 37692.254071999996,
+    "whale_pct": 17.817,
     "whale_value_at_open": 211553.1795,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -151496,8 +151496,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790141777.262008,
-    "fills": 8
+    "last_fill_at": 1790141959.8142738,
+    "fills": 9
   },
   {
     "timestamp": 1790141601,
@@ -151524,5 +151524,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790141684.1065028,
     "fills": 2
+  },
+  {
+    "timestamp": 1790141974,
+    "timestamp_added": 1790141975.4170735,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-komaga1-dougaz1-2026-09-23",
+    "title": "M25 Yinchuan: Reiya Komagata vs Aziz Dougaz",
+    "outcome": "Reiya Komagata",
+    "side": "BUY",
+    "whale_usd": 3244.6570199999996,
+    "whale_pct": 1.418,
+    "whale_value_at_open": 228796.0147,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790141975.4170823,
+    "fills": 1
   }
 ]
