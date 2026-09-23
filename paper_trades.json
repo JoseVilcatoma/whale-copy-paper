@@ -151302,5 +151302,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790133717.5723417,
     "fills": 1
+  },
+  {
+    "timestamp": 1790134182,
+    "timestamp_added": 1790134182.5276659,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-rakhimo-volynet-2026-09-22",
+    "title": "Korea Open: Kamilla Rakhimova vs Katie Volynets",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 2226.18,
+    "whale_pct": 3.554,
+    "whale_value_at_open": 62639.2726,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790134182.527679,
+    "fills": 1
   }
 ]
