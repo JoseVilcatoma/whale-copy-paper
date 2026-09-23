@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 3902.6711999999998,
-    "whale_pct": 1.531,
+    "whale_usd": 4843.7112,
+    "whale_pct": 1.9,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790154805.0865633,
-    "fills": 5
+    "last_fill_at": 1790156322.3542554,
+    "fills": 6
   },
   {
     "timestamp": 1790152760,
@@ -152511,8 +152511,8 @@
     "title": "Ankara: Solana Sierra vs Deniz Dilek",
     "outcome": "Deniz Dilek",
     "side": "BUY",
-    "whale_usd": 7126.766,
-    "whale_pct": 17.01,
+    "whale_usd": 7633.834545,
+    "whale_pct": 18.221,
     "whale_value_at_open": 41896.4205,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -152525,8 +152525,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790155691.5644176,
-    "fills": 2
+    "last_fill_at": 1790156281.119341,
+    "fills": 3
   },
   {
     "timestamp": 1790155661,
