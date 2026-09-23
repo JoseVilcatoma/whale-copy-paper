@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 12:11:36 (hora de Perú)
+Actualizado: 2026-09-23 12:13:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $86.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 12:11:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.44 en 18 posiciones abiertas (disponible para nuevas apuestas: $2.10)
+**Capital comprometido ahora mismo:** $86.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HMLSF | 8 | 0 | 0 | +22.16 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| UpTheBlues | 43 | 10 | 0 | +20.91 USD |
+| UpTheBlues | 43 | 10 | 1 | +20.91 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -1105,6 +1105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 2.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gibraltar win on 2026-09-23? | No (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 3.61 | 32.4% | ⏳ pendiente | — |
@@ -1134,4 +1135,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | St. Tropez: Daniil Glinka vs Ugo Blanche | Daniil Glinka (BUY) | 75% | 4.41 | 1.3% | ✅ ganada | +1.42 |
 | Flaznorp | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | RN1 | Plovdiv 4: Tommaso Compagnucci vs Pol Ma | Pol Martin Tiffon (BUY) | 91% | 5.00 | 10.6% | ✅ ganada | +0.47 |
-| RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ✅ ganada | +2.49 |
