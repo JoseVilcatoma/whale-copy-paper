@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 00:31:57 (hora de Perú)
+Actualizado: 2026-09-23 00:34:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 00:31:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $47.95)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $37.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -160,10 +160,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 179 | 69 | 0 | -28.69 USD |
+| Flaznorp | 179 | 69 | 1 | -28.69 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 637 | 303 | 3 | -35.41 USD |
+| RN1 | 637 | 303 | 4 | -35.41 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1082,11 +1082,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
 | atp-hance-marti-2026-09-21 | Flaznorp, RN1 |
 | wta-tararud-park-2026-09-22 | Flaznorp, RN1 |
+| wta-oliynyk-chwalin-2026-09-22 | Flaznorp, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 21.8% | ⏳ pendiente | — |
+| Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -1115,5 +1118,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
-| Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ✅ ganada | +0.77 |
