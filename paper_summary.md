@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 19:27:03 (hora de Perú)
+Actualizado: 2026-09-22 19:29:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $85.16
@@ -1085,7 +1085,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 3.9% | ⏳ pendiente | — |
+| RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 2.0% | ⏳ pendiente | — |
