@@ -1,5 +1,5 @@
 {
-  "bankroll": 83.09419006340127,
+  "bankroll": 83.70248793574169,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30670,6 +30670,16 @@
       "timestamp": 1790144197.6150992,
       "bankroll": 83.09,
       "event": "won: Flaznorp \u2014 M25 Yinchuan: Reiya Komagata vs Aziz Dougaz"
+    },
+    {
+      "timestamp": 1790145699.5350325,
+      "bankroll": 83.4,
+      "event": "won: Flaznorp \u2014 Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska"
+    },
+    {
+      "timestamp": 1790145699.635138,
+      "bankroll": 83.7,
+      "event": "won: RN1 \u2014 Singapore Open: Oleksandra Oliynykova vs Maja Chwalinska"
     }
   ]
 }
