@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.43697047997888,
+  "bankroll": 90.63697047997888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30690,6 +30690,11 @@
       "timestamp": 1790145763.5187037,
       "bankroll": 89.44,
       "event": "won: Flaznorp \u2014 Hangzhou Open, Qualification: Alex Bolt vs Akira Santillan"
+    },
+    {
+      "timestamp": 1790146453.1375728,
+      "bankroll": 90.64,
+      "event": "won: RN1 \u2014 Hangzhou Open, Qualification: Taro Daniel vs Hayato Matsuoka"
     }
   ]
 }

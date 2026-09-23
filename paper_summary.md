@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:52:13 (hora de Perú)
+Actualizado: 2026-09-23 01:54:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $89.44
-**Retorno acumulado:** -82.11%
+**Bankroll actual:** $90.64
+**Retorno acumulado:** -81.87%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 01:52:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $88.09 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.35)
+**Capital comprometido ahora mismo:** $83.09 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,8 +161,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 182 | 69 | 3 | -27.19 USD |
+| RN1 | 640 | 303 | 6 | -29.23 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 639 | 303 | 7 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5920
-- **Aciertos:** 3729 (63.0%)
+- **Apuestas resueltas:** 5921
+- **Aciertos:** 3730 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,336.52
+- **Total apostado (suma de stakes):** $29,341.52
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $541.84 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $541.89 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3033 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1738 | 68.6% | 67.9% | +0.7 pp |
-| 80-94% | 822 | 85.9% | 86.6% | -0.7 pp |
+| 80-94% | 823 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 327 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1110,7 +1110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ✅ ganada | +1.20 |
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | So-Hyun Park (BUY) | 45% | 5.00 | 8.1% | ❌ perdida | -5.14 |
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Keaton Hance (BUY) | 88% | 5.00 | 2.3% | ✅ ganada | +0.65 |
