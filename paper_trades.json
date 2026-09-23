@@ -151378,5 +151378,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790135026.7801359,
     "fills": 3
+  },
+  {
+    "timestamp": 1790135610,
+    "timestamp_added": 1790135610.6169655,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wnba-gsv-por-2026-09-22",
+    "title": "Golden State Valkyries vs. Portland Fire",
+    "outcome": "Portland Fire",
+    "side": "BUY",
+    "whale_usd": 532.656,
+    "whale_pct": 0.639,
+    "whale_value_at_open": 83404.5177,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790135610.6169772,
+    "fills": 1
   }
 ]
