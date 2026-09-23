@@ -152425,5 +152425,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790154077.6537602,
     "fills": 1
+  },
+  {
+    "timestamp": 1790154313,
+    "timestamp_added": 1790154314.350133,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "itf-yaneva1-maquet1-2026-09-23",
+    "title": "W50 Plovdiv: Elizara Yaneva vs Margaux Maquet",
+    "outcome": "Elizara Yaneva",
+    "side": "BUY",
+    "whale_usd": 527.989997,
+    "whale_pct": 0.227,
+    "whale_value_at_open": 232733.1948,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790154314.3501434,
+    "fills": 1
   }
 ]
