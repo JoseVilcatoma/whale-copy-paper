@@ -153316,8 +153316,8 @@
     "title": "Will Spain win on 2026-09-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5664.0331,
-    "whale_pct": 5.497,
+    "whale_usd": 6911.5633,
+    "whale_pct": 6.708,
     "whale_value_at_open": 103032.8035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -153328,8 +153328,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790171171.3693278,
-    "fills": 5
+    "last_fill_at": 1790173001.5059483,
+    "fills": 6
   },
   {
     "timestamp": 1790171062,
