@@ -152551,5 +152551,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790155662.4952364,
     "fills": 1
+  },
+  {
+    "timestamp": 1790157219,
+    "timestamp_added": 1790157219.4297004,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fif-gib-stp-2026-09-23-total-2pt5",
+    "title": "Gibraltar vs. S\u00e3o Tom\u00e9 e Pr\u00edncipe: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1314.250772,
+    "whale_pct": 2.368,
+    "whale_value_at_open": 55495.3902,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790157219.4297101,
+    "fills": 1
   }
 ]
