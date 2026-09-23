@@ -1,5 +1,5 @@
 {
-  "bankroll": 114.75420475205527,
+  "bankroll": 116.27315212047633,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31105,6 +31105,11 @@
       "timestamp": 1790197310.1098416,
       "bankroll": 114.75,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Henry Searle vs Liam Draxl"
+    },
+    {
+      "timestamp": 1790197880.106066,
+      "bankroll": 116.27,
+      "event": "won: RN1 \u2014 Buenos Aires 2: Facundo Mena vs Guido Justo"
     }
   ]
 }
