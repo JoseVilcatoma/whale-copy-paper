@@ -151020,8 +151020,8 @@
     "title": "San Diego 2: Darwin Blanch vs J.J. Wolf",
     "outcome": "Darwin Blanch",
     "side": "BUY",
-    "whale_usd": 1717.5626470000002,
-    "whale_pct": 0.318,
+    "whale_usd": 3236.7684470000004,
+    "whale_pct": 0.598,
     "whale_value_at_open": 540870.4036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -151032,8 +151032,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790127380.6267726,
-    "fills": 2
+    "last_fill_at": 1790127482.6393926,
+    "fills": 3
   },
   {
     "timestamp": 1790127290,
