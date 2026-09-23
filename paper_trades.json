@@ -151286,8 +151286,8 @@
     "title": "Korea Open: Lanlana Tararudee vs So-Hyun Park",
     "outcome": "Lanlana Tararudee",
     "side": "BUY",
-    "whale_usd": 3111.392267,
-    "whale_pct": 5.177,
+    "whale_usd": 6278.400119,
+    "whale_pct": 10.446,
     "whale_value_at_open": 60105.5611,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -151300,8 +151300,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790135189.0376997,
-    "fills": 2
+    "last_fill_at": 1790135361.7735167,
+    "fills": 3
   },
   {
     "timestamp": 1790134182,
