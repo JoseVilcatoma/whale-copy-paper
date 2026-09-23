@@ -151608,8 +151608,8 @@
     "title": "Chengdu Open, Qualification: Alexandre Muller vs Petr Bar Biryukov",
     "outcome": "Alexandre Muller",
     "side": "BUY",
-    "whale_usd": 12420.369983999999,
-    "whale_pct": 3.437,
+    "whale_usd": 16209.024303999999,
+    "whale_pct": 4.486,
     "whale_value_at_open": 361350.415,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -151620,7 +151620,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790143219.9057505,
+    "last_fill_at": 1790143623.1068308,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790143676,
+    "timestamp_added": 1790143676.260148,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-muller-biryuko-2026-09-23",
+    "title": "Chengdu Open, Qualification: Alexandre Muller vs Petr Bar Biryukov",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "whale_usd": 1068.21738,
+    "whale_pct": 1.329,
+    "whale_value_at_open": 80362.6092,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790143676.2601583,
     "fills": 1
   }
 ]
