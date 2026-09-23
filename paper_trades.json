@@ -152700,5 +152700,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790159959.6341245,
     "fills": 1
+  },
+  {
+    "timestamp": 1790160130,
+    "timestamp_added": 1790160130.7280648,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-stamat2-garnev1-2026-09-23",
+    "title": "W50 Plovdiv: Julia Stamatova vs Valeria Garnevska",
+    "outcome": "Julia Stamatova",
+    "side": "BUY",
+    "whale_usd": 616.16,
+    "whale_pct": 0.445,
+    "whale_value_at_open": 138437.6173,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790160130.7280753,
+    "fills": 1
   }
 ]
