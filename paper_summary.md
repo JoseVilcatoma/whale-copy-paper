@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 04:50:29 (hora de Perú)
+Actualizado: 2026-09-23 04:52:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.23
@@ -1100,7 +1100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Flaznorp | W35 Santa Margherita di Pula: Galatea Fe | Aurora Nosei (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 7.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 8.7% | ⏳ pendiente | — |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |

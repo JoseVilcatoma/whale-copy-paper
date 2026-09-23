@@ -152485,8 +152485,8 @@
     "title": "St. Tropez: Dino Prizmic vs David Jorda Sanchis",
     "outcome": "Dino Prizmic",
     "side": "BUY",
-    "whale_usd": 9011.027857,
-    "whale_pct": 7.313,
+    "whale_usd": 10686.697961,
+    "whale_pct": 8.673,
     "whale_value_at_open": 123215.8056,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -152499,8 +152499,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790156978.064971,
-    "fills": 2
+    "last_fill_at": 1790157122.0073366,
+    "fills": 3
   },
   {
     "timestamp": 1790155625,
