@@ -1,5 +1,5 @@
 {
-  "bankroll": 102.00095765007838,
+  "bankroll": 97.11921522583593,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30930,6 +30930,26 @@
       "timestamp": 1790166856.5151002,
       "bankroll": 102.0,
       "event": "won: ferrariChampions2026 \u2014 W35 Santa Margherita di Pula: Ilary Pistola vs Yuliana Lizarazo"
+    },
+    {
+      "timestamp": 1790167170.1649425,
+      "bankroll": 96.96,
+      "event": "lost: ferrariChampions2026 \u2014 M25 Pardubice: Petros Tsitsipas vs Oleksii Krutykh"
+    },
+    {
+      "timestamp": 1790167171.3485239,
+      "bankroll": 91.91,
+      "event": "lost: RN1 \u2014 Porto: Oceane Dodin vs Elena Malygina"
+    },
+    {
+      "timestamp": 1790167172.4314485,
+      "bankroll": 94.63,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Oceane Dodin vs Elena Malygina"
+    },
+    {
+      "timestamp": 1790167172.531646,
+      "bankroll": 97.12,
+      "event": "won: RN1 \u2014 Porto: Oceane Dodin vs Elena Malygina"
     }
   ]
 }
