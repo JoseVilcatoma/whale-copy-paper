@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.53421522583594,
+  "bankroll": 99.31316871420803,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30955,6 +30955,11 @@
       "timestamp": 1790167298.6319675,
       "bankroll": 98.53,
       "event": "won: Flaznorp \u2014 St. Tropez: Daniil Glinka vs Ugo Blanchet"
+    },
+    {
+      "timestamp": 1790167798.798159,
+      "bankroll": 99.31,
+      "event": "won: Flaznorp \u2014 M25 Sharm ElSheikh: Tomas Lanik vs Paul Jubb"
     }
   ]
 }

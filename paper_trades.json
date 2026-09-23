@@ -152367,8 +152367,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -153028,8 +153028,8 @@
     "title": "Hangzhou Open: Valentin Royer vs Adam Walton",
     "outcome": "Valentin Royer",
     "side": "BUY",
-    "whale_usd": 8698.445357,
-    "whale_pct": 4.656,
+    "whale_usd": 9524.220257,
+    "whale_pct": 5.098,
     "whale_value_at_open": 186828.7515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -153040,8 +153040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790167112.687902,
-    "fills": 3
+    "last_fill_at": 1790167827.4854205,
+    "fills": 4
   },
   {
     "timestamp": 1790166575,
