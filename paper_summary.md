@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:43:01 (hora de Perú)
+Actualizado: 2026-09-23 07:45:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 07:43:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $18.53)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $13.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 891 | 544 | 8 | -227.04 USD |
+| ferrariChampions2026 | 891 | 544 | 9 | -227.04 USD |
 
 ## Análisis general
 
@@ -1101,6 +1101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 4.6% | ⏳ pendiente | — |
 | UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 42% | 5.00 | 187.0% | ⏳ pendiente | — |
@@ -1130,4 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 9.5% | ✅ ganada | +0.05 |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ❌ perdida | -3.61 |
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ❌ perdida | -5.04 |

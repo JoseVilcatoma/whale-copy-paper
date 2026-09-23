@@ -153138,5 +153138,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790167340.1609054,
     "fills": 2
+  },
+  {
+    "timestamp": 1790167461,
+    "timestamp_added": 1790167461.8436568,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cle-bos-2026-09-23-total-6pt5",
+    "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1527.9276999999997,
+    "whale_pct": 0.743,
+    "whale_value_at_open": 205545.4696,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790167461.8436697,
+    "fills": 1
   }
 ]
