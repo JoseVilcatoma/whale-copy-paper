@@ -153100,8 +153100,8 @@
     "title": "Porto: Matilde Jorge vs Sinja Kraus",
     "outcome": "Sinja Kraus",
     "side": "BUY",
-    "whale_usd": 4448.5599999999995,
-    "whale_pct": 5.855,
+    "whale_usd": 6209.76,
+    "whale_pct": 8.173,
     "whale_value_at_open": 75981.0863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -153112,8 +153112,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790170070.6126165,
-    "fills": 2
+    "last_fill_at": 1790172203.1695411,
+    "fills": 4
   },
   {
     "timestamp": 1790167338,
@@ -153364,8 +153364,8 @@
     "title": "Porto: Ayana Akli vs Gabriela Knutson",
     "outcome": "Gabriela Knutson",
     "side": "BUY",
-    "whale_usd": 5657.537500000001,
-    "whale_pct": 18.419,
+    "whale_usd": 6190.469200000001,
+    "whale_pct": 20.154,
     "whale_value_at_open": 30715.4227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -153378,7 +153378,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790172144.9279366,
-    "fills": 6
+    "last_fill_at": 1790172191.5707846,
+    "fills": 7
   }
 ]
