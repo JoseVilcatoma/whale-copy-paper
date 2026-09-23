@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 10:33:48 (hora de Perú)
+Actualizado: 2026-09-23 10:35:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.44
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 10:33:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.61)
+**Capital comprometido ahora mismo:** $89.44 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | lucidarderi | 1 | 1 | 0 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| Donkey14 | 5 | 5 | 0 | -1.94 USD |
+| Donkey14 | 5 | 5 | 1 | -1.94 USD |
 | thatguythatguy | 1 | 1 | 0 | -2.03 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| SDTrading | 37 | 36 | 4 | -10.29 USD |
+| SDTrading | 37 | 36 | 5 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -1099,11 +1099,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-sf-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
 | wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
 | wta-cengiz-mert-2026-09-23 | RN1, ferrariChampions2026 |
+| mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Toronto Blue Jays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 3.61 | 32.4% | ⏳ pendiente | — |
+| Donkey14 | Toronto Blue Jays vs. Baltimore Orioles | Toronto Blue Jays (BUY) | 47% | 5.00 | 25.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Ankara: Han Shi vs Ayla Aksu | Han Shi (BUY) | 80% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 41% | 2.30 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Viola Turi | Viola Turini (BUY) | 74% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -1132,5 +1135,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 66% | 5.00 | 11.1% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Porto: Oceane Dodin vs Elena Malygina | Elena Malygina (BUY) | 64% | 5.00 | 7.4% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
-| ferrariChampions2026 | Singapore Open: Mirra Andreeva vs Aliaks | Mirra Andreeva (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ✅ ganada | +0.59 |
