@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 16:12:11 (hora de Perú)
+Actualizado: 2026-09-23 16:14:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $116.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 16:12:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $109.75 en 23 posiciones abiertas (disponible para nuevas apuestas: $6.52)
+**Capital comprometido ahora mismo:** $114.75 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,7 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
-| Donkey14 | 5 | 6 | 3 | -7.07 USD |
+| Donkey14 | 5 | 6 | 4 | -7.07 USD |
 | SDTrading | 38 | 36 | 4 | -7.42 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -1107,6 +1107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -1136,4 +1137,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Berfu Cengiz vs Aysegul Mert | Berfu Cengiz (BUY) | 98% | 5.00 | 6.0% | ✅ ganada | +0.10 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 55.2% | ✅ ganada | +2.49 |
-| RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ❌ perdida | -3.86 |

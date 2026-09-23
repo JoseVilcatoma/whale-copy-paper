@@ -153052,8 +153052,8 @@
     "title": "Minnesota Twins vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 18594.977866999998,
-    "whale_pct": 10.474,
+    "whale_usd": 20017.561467,
+    "whale_pct": 11.275,
     "whale_value_at_open": 177535.6616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -153064,8 +153064,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790193334.3677294,
-    "fills": 5
+    "last_fill_at": 1790198026.8925772,
+    "fills": 7
   },
   {
     "timestamp": 1790166575,
@@ -154061,6 +154061,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790197344.273412,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790197978,
+    "timestamp_added": 1790197979.1560671,
+    "username": "Donkey14",
+    "wallet": "0xcd84d7f9262516865553555751609fb6f52abec6",
+    "slug": "mlb-mil-phi-2026-09-23",
+    "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 1213.9204080000002,
+    "whale_pct": 1.637,
+    "whale_value_at_open": 74137.2202,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790197979.156079,
     "fills": 1
   }
 ]
