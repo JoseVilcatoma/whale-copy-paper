@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 05:22:04 (hora de Perú)
+Actualizado: 2026-09-23 05:24:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $98.90
-**Retorno acumulado:** -80.22%
+**Bankroll actual:** $88.55
+**Retorno acumulado:** -82.29%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 05:22:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.54 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.36)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $8.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,23 +163,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 187 | 71 | 6 | -32.71 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 646 | 306 | 5 | -34.66 USD |
+| RN1 | 647 | 307 | 3 | -34.90 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 884 | 540 | 8 | -219.03 USD |
+| ferrariChampions2026 | 884 | 542 | 6 | -229.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5948
-- **Aciertos:** 3750 (63.0%)
+- **Apuestas resueltas:** 5952
+- **Aciertos:** 3751 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
-- **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,472.35
-- **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $543.78 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
+- **Stake promedio:** $4.95
+- **Total apostado (suma de stakes):** $29,490.89
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $544.06 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,9 +187,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3045 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1743 | 68.7% | 67.9% | +0.8 pp |
-| 80-94% | 827 | 85.9% | 86.6% | -0.7 pp |
+| 40-59% | 3047 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1744 | 68.6% | 67.9% | +0.7 pp |
+| 80-94% | 828 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 333 | 97.3% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1103,9 +1103,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 83% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Gibraltar vs. São Tomé e Príncipe: O/U 2 | Under (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Galatea Fe | Aurora Nosei (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ⏳ pendiente | — |
+| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 9.5% | ⏳ pendiente | — |
-| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ⏳ pendiente | — |
+| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ❌ perdida | -3.61 |
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 13.5% | ⏳ pendiente | — |
@@ -1113,10 +1113,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | Flaznorp | W35 Sharm ElSheikh: Leonie Rabl vs Sandr | Sandra Samir (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ❌ perdida | -5.04 |
 | RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ✅ ganada | +0.25 |
 | Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
-| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.7% | ⏳ pendiente | — |
+| Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
 | RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 14.7% | ⏳ pendiente | — |

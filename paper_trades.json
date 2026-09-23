@@ -150105,8 +150105,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152188,8 +152188,8 @@
     "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 6988.041998999999,
-    "whale_pct": 2.741,
+    "whale_usd": 7514.366998999999,
+    "whale_pct": 2.947,
     "whale_value_at_open": 254940.8902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -152202,8 +152202,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790158335.3385372,
-    "fills": 9
+    "last_fill_at": 1790158976.541931,
+    "fills": 10
   },
   {
     "timestamp": 1790152760,
@@ -152271,8 +152271,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152466,8 +152466,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.074,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.61,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -152518,8 +152518,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "ferrariChampions2026"
     ],

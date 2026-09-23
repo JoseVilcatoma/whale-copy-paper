@@ -1,5 +1,5 @@
 {
-  "bankroll": 98.89657944453249,
+  "bankroll": 88.55115571571893,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30830,6 +30830,26 @@
       "timestamp": 1790158286.2667356,
       "bankroll": 98.9,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Aleksandar Vukic vs Kyrian Jacquet"
+    },
+    {
+      "timestamp": 1790159044.4021351,
+      "bankroll": 93.83,
+      "event": "lost: ferrariChampions2026 \u2014 Ankara: Solana Sierra vs Deniz Dilek"
+    },
+    {
+      "timestamp": 1790159045.0320053,
+      "bankroll": 88.79,
+      "event": "lost: ferrariChampions2026 \u2014 W35 Santa Margherita di Pula: Denise Valente vs Franziska Sziedat"
+    },
+    {
+      "timestamp": 1790159046.1226423,
+      "bankroll": 85.18,
+      "event": "lost: RN1 \u2014 Ankara: Solana Sierra vs Deniz Dilek"
+    },
+    {
+      "timestamp": 1790159046.3229225,
+      "bankroll": 88.55,
+      "event": "won: RN1 \u2014 Ankara: Solana Sierra vs Deniz Dilek"
     }
   ]
 }
