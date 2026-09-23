@@ -152360,8 +152360,8 @@
     "title": "M25 Sharm ElSheikh: Tomas Lanik vs Paul Jubb",
     "outcome": "Paul Jubb",
     "side": "BUY",
-    "whale_usd": 504.0,
-    "whale_pct": 0.219,
+    "whale_usd": 1560.0,
+    "whale_pct": 0.677,
     "whale_value_at_open": 230294.6501,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -152372,7 +152372,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790153685.5637937,
-    "fills": 1
+    "last_fill_at": 1790153806.0718193,
+    "fills": 3
   }
 ]

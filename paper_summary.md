@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 03:55:53 (hora de Perú)
+Actualizado: 2026-09-23 03:57:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.01
@@ -1096,7 +1096,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | M25 Sharm ElSheikh: Tomas Lanik vs Paul  | Paul Jubb (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 96% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Sharm ElSheikh: Leonie Rabl vs Sandr | Sandra Samir (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
