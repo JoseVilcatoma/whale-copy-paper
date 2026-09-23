@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:45:04 (hora de Perú)
+Actualizado: 2026-09-23 07:47:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 07:45:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $13.53)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $3.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | HMLSF | 7 | 0 | 0 | +19.67 USD |
-| UpTheBlues | 40 | 10 | 1 | +19.24 USD |
+| UpTheBlues | 40 | 10 | 2 | +19.24 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 891 | 544 | 9 | -227.04 USD |
+| ferrariChampions2026 | 891 | 544 | 10 | -227.04 USD |
 
 ## Análisis general
 
@@ -1101,6 +1101,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | W15 Monastir: Iveta Dapkute vs Sarina Sc | Iveta Dapkute (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 81% | 5.00 | 4.6% | ⏳ pendiente | — |
 | UpTheBlues | Porto: Matilde Jorge vs Sinja Kraus | Sinja Kraus (BUY) | 84% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -1129,5 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Santa Margherita di Pula: Galatea Fe | Aurora Nosei (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 9.5% | ✅ ganada | +0.05 |
-| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.7% | ❌ perdida | -3.61 |
-| Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ✅ ganada | +0.53 |
