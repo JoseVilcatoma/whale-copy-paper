@@ -1,5 +1,5 @@
 {
-  "bankroll": 96.67822956778723,
+  "bankroll": 98.27791449929407,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30580,6 +30580,11 @@
       "timestamp": 1790132718.8456323,
       "bankroll": 96.68,
       "event": "won: Flaznorp \u2014 Crici\u00fama EC vs. Oper\u00e1rio Ferrovi\u00e1rio EC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790133965.7476585,
+      "bankroll": 98.28,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Texas Rangers (-1.5)"
     }
   ]
 }
