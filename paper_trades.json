@@ -153974,8 +153974,8 @@
     "title": "Spread: Chicago Cubs (-1.5)",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 15328.974391,
-    "whale_pct": 24.388,
+    "whale_usd": 15863.577791,
+    "whale_pct": 25.238,
     "whale_value_at_open": 62855.4682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -153986,8 +153986,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790200883.2611668,
-    "fills": 4
+    "last_fill_at": 1790201475.8002155,
+    "fills": 5
   },
   {
     "timestamp": 1790197232,
@@ -154123,8 +154123,8 @@
     "title": "Spread: Atlanta Braves (-1.5)",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 6252.7183079999995,
-    "whale_pct": 6.649,
+    "whale_usd": 17475.774674999997,
+    "whale_pct": 18.584,
     "whale_value_at_open": 94036.05,
     "paper_stake_usd": 4.93,
     "odds_at_bet": 50,
@@ -154135,7 +154135,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790201068.7283425,
-    "fills": 3
+    "last_fill_at": 1790201566.703821,
+    "fills": 6
   }
 ]
