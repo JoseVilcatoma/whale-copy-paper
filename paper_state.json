@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.05976517668601,
+  "bankroll": 95.43134144787246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31055,6 +31055,11 @@
       "timestamp": 1790187871.650281,
       "bankroll": 92.06,
       "event": "won: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX - Map 1 Winner"
+    },
+    {
+      "timestamp": 1790188189.5976179,
+      "bankroll": 95.43,
+      "event": "won: RN1 \u2014 St. Tropez: Titouan Droguet vs Borna Gojo"
     }
   ]
 }
