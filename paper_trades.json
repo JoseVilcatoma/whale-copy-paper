@@ -150972,8 +150972,8 @@
     "title": "Will Crici\u00fama EC win on 2026-09-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1381.6,
-    "whale_pct": 2.462,
+    "whale_usd": 2188.2169999999996,
+    "whale_pct": 3.9,
     "whale_value_at_open": 56110.3724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -150984,7 +150984,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790121538.3247862,
-    "fills": 1
+    "last_fill_at": 1790123090.1924322,
+    "fills": 2
   }
 ]
