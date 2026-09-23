@@ -150996,8 +150996,8 @@
     "title": "Independiente Santa Fe vs. AD Cali: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 532.2,
-    "whale_pct": 0.172,
+    "whale_usd": 1197.8600000000001,
+    "whale_pct": 0.387,
     "whale_value_at_open": 309838.5105,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -151008,7 +151008,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790125373.9284477,
-    "fills": 1
+    "last_fill_at": 1790125959.3701,
+    "fills": 2
   }
 ]

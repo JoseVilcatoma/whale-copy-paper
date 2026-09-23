@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 20:11:53 (hora de Perú)
+Actualizado: 2026-09-22 20:13:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $80.13
@@ -1085,7 +1085,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Independiente Santa Fe vs. AD Cali: O/U  | Under (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Criciúma EC win on 2026-09-21? | No (BUY) | 90% | 5.00 | 6.4% | ⏳ pendiente | — |
 | Flaznorp | Spread: Independiente Medellín (-1.5) | Jaguares de Córdoba FC (BUY) | 51% | 2.75 | 1.1% | ⏳ pendiente | — |
 | Flaznorp | Criciúma EC vs. Operário Ferroviário EC: | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
