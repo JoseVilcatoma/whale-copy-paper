@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 05:38:52 (hora de Perú)
+Actualizado: 2026-09-23 05:40:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $88.80
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 05:38:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.55 en 16 posiciones abiertas (disponible para nuevas apuestas: $10.25)
+**Capital comprometido ahora mismo:** $83.55 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 885 | 542 | 6 | -229.09 USD |
+| ferrariChampions2026 | 885 | 542 | 7 | -229.09 USD |
 
 ## Análisis general
 
@@ -1099,6 +1099,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Murphy Cassone vs Clement Ta | Murphy Cassone (BUY) | 58% | 3.55 | 0.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Aleksandar Vukic (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Oriol Roca Batalla vs Calvin  | Calvin Hemery (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -1128,4 +1129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ❌ perdida | -5.11 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 15.8% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ❌ perdida | -2.81 |
-| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 5.4% | ✅ ganada | +6.76 |
