@@ -152970,5 +152970,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790164173.6757762,
     "fills": 1
+  },
+  {
+    "timestamp": 1790164465,
+    "timestamp_added": 1790164466.1328576,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-glinka-blanche-2026-09-23",
+    "title": "St. Tropez: Daniil Glinka vs Ugo Blanchet",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "whale_usd": 3700.0,
+    "whale_pct": 1.302,
+    "whale_value_at_open": 284150.0257,
+    "paper_stake_usd": 4.41,
+    "odds_at_bet": 75,
+    "fee_usd": 0.055,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790164466.132871,
+    "fills": 1
   }
 ]
