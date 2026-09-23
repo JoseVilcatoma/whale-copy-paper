@@ -153364,8 +153364,8 @@
     "title": "Porto: Ayana Akli vs Gabriela Knutson",
     "outcome": "Gabriela Knutson",
     "side": "BUY",
-    "whale_usd": 6190.469200000001,
-    "whale_pct": 20.154,
+    "whale_usd": 13003.548200000001,
+    "whale_pct": 42.336,
     "whale_value_at_open": 30715.4227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -153378,7 +153378,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790172191.5707846,
-    "fills": 7
+    "last_fill_at": 1790172313.589717,
+    "fills": 8
   }
 ]

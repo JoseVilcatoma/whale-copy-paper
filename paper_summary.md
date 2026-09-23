@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 09:05:10 (hora de Perú)
+Actualizado: 2026-09-23 09:07:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.31
@@ -1102,7 +1102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 20.2% | ⏳ pendiente | — |
+| HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 42.3% | ⏳ pendiente | — |
 | RN1 | Ankara: Berfu Cengiz vs Aysegul Mert | Aysegul Mert (BUY) | 41% | 3.75 | 2.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Spain win on 2026-09-23? | Yes (BUY) | 91% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
