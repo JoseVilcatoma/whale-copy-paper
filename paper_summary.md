@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 22:18:03 (hora de Perú)
+Actualizado: 2026-09-22 22:20:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $96.68
@@ -1091,7 +1091,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Miami Marlins vs. Chicago Cubs | Chicago Cubs (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Los Angeles Sparks vs. Las Vegas Aces | Las Vegas Aces (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Golden State Valkyries vs. Portland Fire | Golden State Valkyries (BUY) | 88% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Andres Martin (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Texas Rangers (-1.5) | New York Mets (BUY) | 73% | 4.49 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 2.0% | ⏳ pendiente | — |
