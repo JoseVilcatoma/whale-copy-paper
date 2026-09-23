@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.00855212493582,
+  "bankroll": 93.53910768049137,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30800,6 +30800,11 @@
       "timestamp": 1790153495.9310336,
       "bankroll": 93.01,
       "event": "won: HMLSF \u2014 Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov"
+    },
+    {
+      "timestamp": 1790153998.5921326,
+      "bankroll": 93.54,
+      "event": "won: Flaznorp \u2014 M25 Yinchuan: Seonyong Han vs Nikolai Barsukov"
     }
   ]
 }

@@ -151920,8 +151920,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -152374,5 +152374,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790153806.0718193,
     "fills": 3
+  },
+  {
+    "timestamp": 1790153973,
+    "timestamp_added": 1790153973.9314632,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vukic-jacquet-2026-09-22",
+    "title": "Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet",
+    "outcome": "Kyrian Jacquet",
+    "side": "BUY",
+    "whale_usd": 2743.8911999999996,
+    "whale_pct": 1.814,
+    "whale_value_at_open": 151276.272,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790153973.9314733,
+    "fills": 1
   }
 ]
