@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 04:10:31 (hora de Perú)
+Actualizado: 2026-09-23 04:12:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 04:10:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $3.54)
+**Capital comprometido ahora mismo:** $93.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Flaznorp | 185 | 71 | 7 | -34.10 USD |
-| RN1 | 645 | 306 | 2 | -34.91 USD |
+| RN1 | 645 | 306 | 3 | -34.91 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1077,6 +1077,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-palicov-linana-2026-09-21 | HMLSF, ferrariChampions2026 |
 | atp-mayot-boulais-2026-09-22 | Flaznorp, RN1, ferrariChampions2026 |
 | mlb-tb-nyy-2026-05-23 | Donkey14, ferrariChampions2026 |
+| wta-sierra-dilek-2026-09-22 | RN1, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-22 | ferrariChampions2026, goshkam |
 | atp-boyer-johnso-2026-09-22 | Flaznorp, ferrariChampions2026 |
 | bra2-cri-ope-2026-09-21-total-2pt5 | Flaznorp, GoalLineGhost |
@@ -1096,6 +1097,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ankara: Solana Sierra vs Deniz Dilek | Solana Sierra (BUY) | 58% | 3.54 | 3.0% | ⏳ pendiente | — |
 | Flaznorp | W50 Plovdiv: Elizara Yaneva vs Margaux M | Elizara Yaneva (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Petros Tsitsipas vs Oleks | Oleksii Krutykh (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 49% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -1125,4 +1127,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 51% | 5.00 | 8.0% | ✅ ganada | +4.68 |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 24.0% | ✅ ganada | +4.18 |
-| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ✅ ganada | +1.36 |

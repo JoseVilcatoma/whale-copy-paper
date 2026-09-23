@@ -152449,5 +152449,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790154501.4878979,
     "fills": 5
+  },
+  {
+    "timestamp": 1790154700,
+    "timestamp_added": 1790154701.4728243,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-sierra-dilek-2026-09-22",
+    "title": "Ankara: Solana Sierra vs Deniz Dilek",
+    "outcome": "Solana Sierra",
+    "side": "BUY",
+    "whale_usd": 2047.1052910000005,
+    "whale_pct": 2.954,
+    "whale_value_at_open": 69291.6249,
+    "paper_stake_usd": 3.54,
+    "odds_at_bet": 58,
+    "fee_usd": 0.074,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790154701.472833,
+    "fills": 1
   }
 ]
