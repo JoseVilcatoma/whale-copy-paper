@@ -1,5 +1,5 @@
 {
-  "bankroll": 102.95576528867232,
+  "bankroll": 103.54674281676222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30900,6 +30900,11 @@
       "timestamp": 1790163777.5369818,
       "bankroll": 102.96,
       "event": "lost: RN1 \u2014 Hangzhou Open: Aleksandar Vukic vs Kyrian Jacquet"
+    },
+    {
+      "timestamp": 1790164959.8992136,
+      "bankroll": 103.55,
+      "event": "won: RN1 \u2014 Ankara: Weronika Falkowska vs Polina Iatcenko"
     }
   ]
 }
