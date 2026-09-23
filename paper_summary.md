@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:31:37 (hora de Perú)
+Actualizado: 2026-09-23 01:33:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $83.09
@@ -1091,7 +1091,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
