@@ -153028,8 +153028,8 @@
     "title": "Hangzhou Open: Valentin Royer vs Adam Walton",
     "outcome": "Valentin Royer",
     "side": "BUY",
-    "whale_usd": 9524.220257,
-    "whale_pct": 5.098,
+    "whale_usd": 13038.154221,
+    "whale_pct": 6.979,
     "whale_value_at_open": 186828.7515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -153040,8 +153040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790167827.4854205,
-    "fills": 4
+    "last_fill_at": 1790168615.295405,
+    "fills": 5
   },
   {
     "timestamp": 1790166575,
@@ -153148,8 +153148,8 @@
     "title": "Cleveland Guardians vs. Boston Red Sox: O/U 6.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1527.9276999999997,
-    "whale_pct": 0.743,
+    "whale_usd": 2087.8715999999995,
+    "whale_pct": 1.016,
     "whale_value_at_open": 205545.4696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -153160,8 +153160,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790167461.8436697,
-    "fills": 1
+    "last_fill_at": 1790168541.2370276,
+    "fills": 2
   },
   {
     "timestamp": 1790167551,
