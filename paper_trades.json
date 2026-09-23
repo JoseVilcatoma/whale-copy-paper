@@ -150268,8 +150268,8 @@
     "title": "St. Tropez: Murphy Cassone vs Clement Tabur",
     "outcome": "Clement Tabur",
     "side": "BUY",
-    "whale_usd": 4273.879567,
-    "whale_pct": 2.754,
+    "whale_usd": 5568.420767,
+    "whale_pct": 3.589,
     "whale_value_at_open": 155171.6684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -150280,8 +150280,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790159990.102935,
-    "fills": 4
+    "last_fill_at": 1790162529.8055573,
+    "fills": 5
   },
   {
     "timestamp": 1790097755,
@@ -152662,8 +152662,8 @@
     "title": "St. Tropez: Murphy Cassone vs Clement Tabur",
     "outcome": "Murphy Cassone",
     "side": "BUY",
-    "whale_usd": 952.8900000000001,
-    "whale_pct": 0.637,
+    "whale_usd": 2410.4071410000006,
+    "whale_pct": 1.611,
     "whale_value_at_open": 149594.2358,
     "paper_stake_usd": 3.55,
     "odds_at_bet": 58,
@@ -152674,8 +152674,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790159103.366147,
-    "fills": 1
+    "last_fill_at": 1790162538.973493,
+    "fills": 2
   },
   {
     "timestamp": 1790159958,
