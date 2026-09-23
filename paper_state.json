@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.59090276301588,
+  "bankroll": 85.8269435793424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31010,6 +31010,16 @@
       "timestamp": 1790174921.5041833,
       "bankroll": 89.59,
       "event": "won: UpTheBlues \u2014 Porto: Matilde Jorge vs Sinja Kraus"
+    },
+    {
+      "timestamp": 1790176122.1944675,
+      "bankroll": 85.73,
+      "event": "lost: RN1 \u2014 Ankara: Berfu Cengiz vs Aysegul Mert"
+    },
+    {
+      "timestamp": 1790176122.4950526,
+      "bankroll": 85.83,
+      "event": "won: ferrariChampions2026 \u2014 Ankara: Berfu Cengiz vs Aysegul Mert"
     }
   ]
 }
