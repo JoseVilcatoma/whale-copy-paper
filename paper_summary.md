@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 19:59:42 (hora de Perú)
+Actualizado: 2026-09-22 20:01:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $85.16
-**Retorno acumulado:** -82.97%
+**Bankroll actual:** $80.13
+**Retorno acumulado:** -83.97%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 19:59:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $84.69 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.47)
+**Capital comprometido ahora mismo:** $74.69 en 16 posiciones abiertas (disponible para nuevas apuestas: $5.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -156,11 +156,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 108 | 46 | 1 | -21.23 USD |
-| Flaznorp | 173 | 66 | 4 | -24.52 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| Flaznorp | 174 | 67 | 2 | -29.55 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | RN1 | 631 | 300 | 1 | -32.14 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5884
-- **Aciertos:** 3703 (62.9%)
+- **Apuestas resueltas:** 5886
+- **Aciertos:** 3704 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,164.44
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $539.38 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,174.44
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $539.46 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,9 +188,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3022 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1725 | 68.6% | 67.9% | +0.8 pp |
+| 60-79% | 1726 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 813 | 86.0% | 86.6% | -0.6 pp |
-| 95-99% (casi seguro) | 324 | 97.2% | 97.3% | -0.1 pp |
+| 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1093,14 +1093,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W50 Berkeley, CA: Madison Brengle vs Ann | Madison Brengle (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Spread: Detroit Tigers (-1.5) | Washington Nationals (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-16.5) | Las Vegas Aces (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Tigres FC win on 2026-09-22? | No (BUY) | 67% | 5.00 | 0.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ✅ ganada | +0.77 |
 | ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ✅ ganada | +0.20 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 9.1% | ⏳ pendiente | — |
 | Donkey14 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 62% | 4.68 | 22.2% | ⏳ pendiente | — |
 | Flaznorp | San Diego 2: Tristan Boyer vs Spencer Jo | Spencer Johnson (BUY) | 59% | 5.00 | 0.2% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Matthew William Donald (BUY) | 45% | 2.59 | 0.3% | ✅ ganada | +3.09 |
-| Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Gianluca Cadenasso (BUY) | 64% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | goshkam | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 72% | 5.00 | 257.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will HB Køge win on 2026-09-22? | No (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
