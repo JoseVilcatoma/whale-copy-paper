@@ -1,5 +1,5 @@
 {
-  "bankroll": 81.70837647604219,
+  "bankroll": 87.4429416934335,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30550,6 +30550,11 @@
       "timestamp": 1790130385.8474936,
       "bankroll": 81.71,
       "event": "won: ferrariChampions2026 \u2014 San Diego 2: Darwin Blanch vs J.J. Wolf"
+    },
+    {
+      "timestamp": 1790130574.2893176,
+      "bankroll": 87.44,
+      "event": "won: Donkey14 \u2014 Tampa Bay Rays vs. New York Yankees"
     }
   ]
 }
