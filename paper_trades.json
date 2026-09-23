@@ -151732,8 +151732,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Shintaro Mochizuki",
     "side": "BUY",
-    "whale_usd": 1356.2925089999999,
-    "whale_pct": 1.325,
+    "whale_usd": 4672.122509000001,
+    "whale_pct": 4.563,
     "whale_value_at_open": 102385.7106,
     "paper_stake_usd": 3.09,
     "odds_at_bet": 42,
@@ -151744,8 +151744,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790145310.8139114,
-    "fills": 1
+    "last_fill_at": 1790148683.4057431,
+    "fills": 2
   },
   {
     "timestamp": 1790145724,
@@ -151937,8 +151937,8 @@
     "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 4745.4631,
-    "whale_pct": 2.359,
+    "whale_usd": 6710.693099,
+    "whale_pct": 3.335,
     "whale_value_at_open": 201201.1462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -151949,8 +151949,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148135.8724523,
-    "fills": 4
+    "last_fill_at": 1790148673.283132,
+    "fills": 5
   },
   {
     "timestamp": 1790147401,
