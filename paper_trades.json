@@ -152140,8 +152140,8 @@
     "title": "Chengdu Open: Vit Kopriva vs Jia Hu",
     "outcome": "Vit Kopriva",
     "side": "BUY",
-    "whale_usd": 3233.4458659999996,
-    "whale_pct": 2.25,
+    "whale_usd": 4320.194348999999,
+    "whale_pct": 3.007,
     "whale_value_at_open": 143686.7954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -152152,8 +152152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790152139.3191087,
-    "fills": 1
+    "last_fill_at": 1790153014.4256744,
+    "fills": 2
   },
   {
     "timestamp": 1790152284,
@@ -152254,5 +152254,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790152855.201421,
     "fills": 1
+  },
+  {
+    "timestamp": 1790153044,
+    "timestamp_added": 1790153045.1441982,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-valent3-szieda1-2026-09-23",
+    "title": "W35 Santa Margherita di Pula: Denise Valente vs Franziska Sziedat",
+    "outcome": "Franziska Sziedat",
+    "side": "BUY",
+    "whale_usd": 6611.672167,
+    "whale_pct": 4.425,
+    "whale_value_at_open": 149430.7267,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790153045.5655684,
+    "fills": 3
   }
 ]
