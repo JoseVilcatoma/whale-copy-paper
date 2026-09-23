@@ -1,5 +1,5 @@
 {
-  "bankroll": 114.32945971931024,
+  "bankroll": 112.0690960829466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31085,6 +31085,16 @@
       "timestamp": 1790194777.2811413,
       "bankroll": 114.33,
       "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1790196047.3290038,
+      "bankroll": 109.2,
+      "event": "lost: Donkey14 \u2014 Toronto Blue Jays vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1790196047.4291844,
+      "bankroll": 112.07,
+      "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Toronto Blue Jays vs. Baltimore Orioles"
     }
   ]
 }
