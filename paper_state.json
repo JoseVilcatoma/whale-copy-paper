@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.75770462587867,
+  "bankroll": 85.95134098951503,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30640,6 +30640,16 @@
       "timestamp": 1790140226.083662,
       "bankroll": 84.76,
       "event": "won: RN1 \u2014 Korea Open: Kamilla Rakhimova vs Katie Volynets"
+    },
+    {
+      "timestamp": 1790140537.0923376,
+      "bankroll": 79.73,
+      "event": "lost: RN1 \u2014 Golden State Valkyries vs. Portland Fire"
+    },
+    {
+      "timestamp": 1790140537.6537862,
+      "bankroll": 85.95,
+      "event": "won: RN1 \u2014 Golden State Valkyries vs. Portland Fire"
     }
   ]
 }
