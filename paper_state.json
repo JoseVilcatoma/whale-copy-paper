@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.53910768049137,
+  "bankroll": 93.83677062573327,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30805,6 +30805,16 @@
       "timestamp": 1790153998.5921326,
       "bankroll": 93.54,
       "event": "won: Flaznorp \u2014 M25 Yinchuan: Seonyong Han vs Nikolai Barsukov"
+    },
+    {
+      "timestamp": 1790155320.3916018,
+      "bankroll": 93.59,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Vit Kopriva vs Jia Hu"
+    },
+    {
+      "timestamp": 1790155320.844209,
+      "bankroll": 93.84,
+      "event": "won: RN1 \u2014 Chengdu Open: Vit Kopriva vs Jia Hu"
     }
   ]
 }

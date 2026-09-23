@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 04:21:03 (hora de Perú)
+Actualizado: 2026-09-23 04:23:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $93.54
-**Retorno acumulado:** -81.29%
+**Bankroll actual:** $93.84
+**Retorno acumulado:** -81.23%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 04:21:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $93.54 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $83.54 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,23 +163,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Flaznorp | 185 | 71 | 7 | -34.10 USD |
-| RN1 | 645 | 306 | 3 | -34.91 USD |
+| RN1 | 646 | 306 | 2 | -34.66 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 882 | 540 | 8 | -222.74 USD |
+| ferrariChampions2026 | 883 | 540 | 7 | -222.69 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5943
-- **Aciertos:** 3745 (63.0%)
+- **Apuestas resueltas:** 5945
+- **Aciertos:** 3747 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,447.35
+- **Total apostado (suma de stakes):** $29,457.35
 - **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $543.59 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $543.61 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3044 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1743 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 825 | 85.8% | 86.6% | -0.7 pp |
-| 95-99% (casi seguro) | 331 | 97.3% | 97.4% | -0.1 pp |
+| 95-99% (casi seguro) | 333 | 97.3% | 97.3% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1106,11 +1106,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | W35 Santa Margherita di Pula: Anna Petko | Anna Petkovic (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Flaznorp | W35 Sharm ElSheikh: Leonie Rabl vs Sandr | Sandra Samir (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Denise Val | Franziska Sziedat (BUY) | 86% | 5.00 | 4.4% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 95% | 5.00 | 4.3% | ✅ ganada | +0.25 |
 | Flaznorp | W50 Plovdiv: Alessandra Mazzola vs Rosit | Alessandra Mazzola (BUY) | 83% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
 | RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 6.5% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ✅ ganada | +0.25 |
