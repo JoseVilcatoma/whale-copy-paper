@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:03:26 (hora de Perú)
+Actualizado: 2026-09-23 06:05:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.31
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 06:03:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.55 en 17 posiciones abiertas (disponible para nuevas apuestas: $6.76)
+**Capital comprometido ahora mismo:** $88.55 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 886 | 542 | 7 | -228.11 USD |
+| ferrariChampions2026 | 886 | 542 | 8 | -228.11 USD |
 
 ## Análisis general
 
@@ -1099,6 +1099,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Ilary Pist | Ilary Pistola (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1128,4 +1129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 65% | 5.00 | 5.7% | ✅ ganada | +2.61 |
 | HMLSF | Hangzhou Open, Qualification: Dalibor Sv | Dalibor Svrcina (BUY) | 95% | 5.00 | 15.8% | ✅ ganada | +0.25 |
 | HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 34.4% | ✅ ganada | +5.51 |
-| RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 7.8% | ❌ perdida | -5.11 |
