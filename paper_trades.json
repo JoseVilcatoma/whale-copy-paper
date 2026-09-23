@@ -151460,8 +151460,8 @@
     "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
     "outcome": "Jenson Brooksby",
     "side": "BUY",
-    "whale_usd": 7895.87,
-    "whale_pct": 34.26,
+    "whale_usd": 12022.83,
+    "whale_pct": 52.166,
     "whale_value_at_open": 23047.1066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -151472,8 +151472,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790142683.185014,
-    "fills": 3
+    "last_fill_at": 1790144330.9650004,
+    "fills": 4
   },
   {
     "timestamp": 1790141601,
