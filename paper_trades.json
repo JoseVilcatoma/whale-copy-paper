@@ -153708,8 +153708,8 @@
     "title": "Tolentino: Noemi Basiletti vs Mia Ristic",
     "outcome": "Mia Ristic",
     "side": "BUY",
-    "whale_usd": 535.1159999999999,
-    "whale_pct": 0.2,
+    "whale_usd": 3312.2360000000003,
+    "whale_pct": 1.235,
     "whale_value_at_open": 268093.3501,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -153720,8 +153720,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790188005.748911,
-    "fills": 1
+    "last_fill_at": 1790190836.0339727,
+    "fills": 2
   },
   {
     "timestamp": 1790188239,

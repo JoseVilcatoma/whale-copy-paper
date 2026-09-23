@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 14:12:44 (hora de Perú)
+Actualizado: 2026-09-23 14:14:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $95.43
@@ -1107,7 +1107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will FK Austria Wien win on 2026-09-23? | No (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 8.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ⏳ pendiente | — |
