@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.74280291253507,
+  "bankroll": 92.05976517668601,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31050,6 +31050,11 @@
       "timestamp": 1790184730.967625,
       "bankroll": 87.74,
       "event": "won: ferrariChampions2026 \u2014 Ankara: Han Shi vs Ayla Aksu"
+    },
+    {
+      "timestamp": 1790187871.650281,
+      "bankroll": 92.06,
+      "event": "won: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX - Map 1 Winner"
     }
   ]
 }
