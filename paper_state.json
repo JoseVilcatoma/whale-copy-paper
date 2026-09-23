@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.35125604167598,
+  "bankroll": 81.65898331440326,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30630,6 +30630,11 @@
       "timestamp": 1790139602.3811762,
       "bankroll": 79.35,
       "event": "won: Flaznorp \u2014 Independiente Santa Fe vs. AD Cali: O/U 3.5"
+    },
+    {
+      "timestamp": 1790139913.4048116,
+      "bankroll": 81.66,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Houston Astros vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
