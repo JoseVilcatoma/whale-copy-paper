@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 14:58:12 (hora de Perú)
+Actualizado: 2026-09-23 15:00:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $95.43
-**Retorno acumulado:** -80.91%
+**Bankroll actual:** $95.79
+**Retorno acumulado:** -80.84%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 14:58:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.43 en 21 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $90.43 en 20 posiciones abiertas (disponible para nuevas apuestas: $5.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,8 +154,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
+| GoalLineGhost | 111 | 46 | 2 | -18.53 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 110 | 46 | 3 | -18.89 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -172,13 +172,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5994
-- **Aciertos:** 3784 (63.1%)
+- **Apuestas resueltas:** 5995
+- **Aciertos:** 3785 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,697.60
+- **Total apostado (suma de stakes):** $29,702.60
 - **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $546.50 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $546.51 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3058 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1752 | 68.7% | 67.9% | +0.7 pp |
-| 80-94% | 845 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 846 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 339 | 97.3% | 97.4% | -0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1118,7 +1118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Ankara: Han Shi vs Ayla Aksu | Han Shi (BUY) | 80% | 5.00 | 2.3% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Washington Nationals vs. Detroit Tigers | Washington Nationals (BUY) | 41% | 2.30 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W35 Santa Margherita di Pula: Viola Turi | Viola Turini (BUY) | 74% | 5.00 | 1.7% | ❌ perdida | -5.07 |
-| GoalLineGhost | Azerbaijan vs. Tajikistan: O/U 0.5 | Over (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
+| GoalLineGhost | Azerbaijan vs. Tajikistan: O/U 0.5 | Over (BUY) | 93% | 5.00 | 1.3% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Ankara: Berfu Cengiz vs Aysegul Mert | Berfu Cengiz (BUY) | 98% | 5.00 | 6.0% | ✅ ganada | +0.10 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Minnesota Twins vs. San Francisco Giants | San Francisco Giants (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HMLSF | Porto: Ayana Akli vs Gabriela Knutson | Gabriela Knutson (BUY) | 66% | 5.00 | 55.2% | ✅ ganada | +2.49 |

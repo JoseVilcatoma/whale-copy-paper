@@ -1,5 +1,5 @@
 {
-  "bankroll": 95.43134144787246,
+  "bankroll": 95.79068553389396,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31060,6 +31060,11 @@
       "timestamp": 1790188189.5976179,
       "bankroll": 95.43,
       "event": "won: RN1 \u2014 St. Tropez: Titouan Droguet vs Borna Gojo"
+    },
+    {
+      "timestamp": 1790193522.0959828,
+      "bankroll": 95.79,
+      "event": "won: GoalLineGhost \u2014 Azerbaijan vs. Tajikistan: O/U 0.5"
     }
   ]
 }
