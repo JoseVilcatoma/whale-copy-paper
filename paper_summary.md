@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 02:21:35 (hora de Perú)
+Actualizado: 2026-09-23 02:23:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 02:21:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.83 en 18 posiciones abiertas (disponible para nuevas apuestas: $5.05)
+**Capital comprometido ahora mismo:** $90.83 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,7 +161,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 183 | 69 | 3 | -27.09 USD |
-| RN1 | 642 | 303 | 4 | -29.08 USD |
+| RN1 | 642 | 303 | 5 | -29.08 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1093,10 +1093,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | M25 Yinchuan: Seonyong Han vs Nikolai Ba | Nikolai Barsukov (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 6.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 58% | 5.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Lloyd Harri | Lloyd Harris (BUY) | 99% | 5.00 | 4.0% | ✅ ganada | +0.05 |
 | Flaznorp | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -1122,4 +1123,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Kamilla Rakhimova vs Katie V | Katie Volynets (BUY) | 61% | 5.00 | 9.2% | ✅ ganada | +3.10 |
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 24.7% | ✅ ganada | +1.36 |
 | Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ✅ ganada | +4.68 |
-| Flaznorp | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |

@@ -151887,8 +151887,8 @@
     "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
     "outcome": "Fajing Sun",
     "side": "BUY",
-    "whale_usd": 13119.6769,
-    "whale_pct": 6.945,
+    "whale_usd": 20665.3975,
+    "whale_pct": 10.939,
     "whale_value_at_open": 188913.4496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -151901,8 +151901,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790148063.881966,
-    "fills": 3
+    "last_fill_at": 1790148206.157976,
+    "fills": 4
   },
   {
     "timestamp": 1790146722,
@@ -151937,8 +151937,8 @@
     "title": "Chengdu Open, Qualification: Nikoloz Basilashvili vs Federico Cina",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 2560.6958999999997,
-    "whale_pct": 1.273,
+    "whale_usd": 4745.4631,
+    "whale_pct": 2.359,
     "whale_value_at_open": 201201.1462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -151949,8 +151949,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790147906.258287,
-    "fills": 3
+    "last_fill_at": 1790148135.8724523,
+    "fills": 4
   },
   {
     "timestamp": 1790147401,
@@ -151975,5 +151975,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790147804.5705872,
     "fills": 2
+  },
+  {
+    "timestamp": 1790148206,
+    "timestamp_added": 1790148206.4460256,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tomic-su-2026-09-23",
+    "title": "Hangzhou Open, Qualification: Bernard Tomic vs Fajing Sun",
+    "outcome": "Fajing Sun",
+    "side": "BUY",
+    "whale_usd": 3175.92,
+    "whale_pct": 6.161,
+    "whale_value_at_open": 51548.5834,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790148206.446038,
+    "fills": 1
   }
 ]
