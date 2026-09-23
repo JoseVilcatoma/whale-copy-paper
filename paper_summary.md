@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 12:40:42 (hora de Perú)
+Actualizado: 2026-09-23 12:42:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.74
@@ -1105,7 +1105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 6.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 8.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gibraltar win on 2026-09-23? | No (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |

@@ -153660,8 +153660,8 @@
     "title": "St. Tropez: Titouan Droguet vs Borna Gojo",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 554.6539999999999,
-    "whale_pct": 0.33,
+    "whale_usd": 10636.0772,
+    "whale_pct": 6.329,
     "whale_value_at_open": 168044.3731,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -153672,7 +153672,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790184791.710138,
-    "fills": 1
+    "last_fill_at": 1790185341.0798802,
+    "fills": 4
   }
 ]
