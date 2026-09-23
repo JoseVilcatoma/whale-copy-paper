@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 09:34:02 (hora de Perú)
+Actualizado: 2026-09-23 09:36:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $93.80
-**Retorno acumulado:** -81.24%
+**Bankroll actual:** $88.68
+**Retorno acumulado:** -82.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 09:34:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.28 en 19 posiciones abiertas (disponible para nuevas apuestas: $1.52)
+**Capital comprometido ahora mismo:** $87.28 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 894 | 545 | 8 | -228.77 USD |
+| ferrariChampions2026 | 894 | 546 | 7 | -233.89 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5982
+- **Apuestas resueltas:** 5983
 - **Aciertos:** 3775 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,638.85
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $545.67 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,643.85
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $545.79 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3054 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3055 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1749 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 841 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 338 | 97.3% | 97.4% | -0.0 pp |
@@ -1130,7 +1130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | ferrariChampions2026 | Singapore Open: Mirra Andreeva vs Aliaks | Mirra Andreeva (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ✅ ganada | +0.59 |
-| ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Yecla: Margaux Rouvroy vs Amandine H | Margaux Rouvroy (BUY) | 86% | 5.00 | 0.3% | ✅ ganada | +0.78 |
 | RN1 | Porto: Oceane Dodin vs Elena Malygina | Oceane Dodin (BUY) | 78% | 5.00 | 5.7% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | W50 Plovdiv: Julia Stamatova vs Valeria  | Julia Stamatova (BUY) | 89% | 5.00 | 0.4% | ❌ perdida | -5.03 |

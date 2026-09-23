@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.79852181063492,
+  "bankroll": 88.67852181063492,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31000,6 +31000,11 @@
       "timestamp": 1790172903.69892,
       "bankroll": 93.8,
       "event": "won: UpTheBlues \u2014 Singapore Open: Alycia Parks vs Leylah Fernandez"
+    },
+    {
+      "timestamp": 1790174100.4196491,
+      "bankroll": 88.68,
+      "event": "lost: ferrariChampions2026 \u2014 M25 Pardubice: Sebastian Sorger vs Stepan Baum"
     }
   ]
 }
