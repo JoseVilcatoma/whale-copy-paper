@@ -151312,8 +151312,8 @@
     "title": "Korea Open: Kamilla Rakhimova vs Katie Volynets",
     "outcome": "Katie Volynets",
     "side": "BUY",
-    "whale_usd": 2226.18,
-    "whale_pct": 3.554,
+    "whale_usd": 5753.691762,
+    "whale_pct": 9.185,
     "whale_value_at_open": 62639.2726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -151324,8 +151324,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790134182.527679,
-    "fills": 1
+    "last_fill_at": 1790135244.8739965,
+    "fills": 2
   },
   {
     "timestamp": 1790134901,
