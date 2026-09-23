@@ -153828,8 +153828,8 @@
     "title": "Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs",
     "outcome": "3DMAX",
     "side": "BUY",
-    "whale_usd": 7324.94,
-    "whale_pct": 3.51,
+    "whale_usd": 9641.74,
+    "whale_pct": 4.62,
     "whale_value_at_open": 208694.2395,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -153840,8 +153840,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790194220.224337,
-    "fills": 3
+    "last_fill_at": 1790204768.1646543,
+    "fills": 4
   },
   {
     "timestamp": 1790194366,
