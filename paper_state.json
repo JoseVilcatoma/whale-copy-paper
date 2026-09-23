@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.28493683497616,
+  "bankroll": 92.25793683497616,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30980,6 +30980,11 @@
       "timestamp": 1790170950.8489044,
       "bankroll": 97.28,
       "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Valentin Royer vs Adam Walton"
+    },
+    {
+      "timestamp": 1790171583.7482922,
+      "bankroll": 92.26,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Plovdiv: Julia Stamatova vs Valeria Garnevska"
     }
   ]
 }
