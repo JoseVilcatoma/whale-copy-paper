@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 07:47:05 (hora de Perú)
+Actualizado: 2026-09-23 07:49:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $98.53
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 07:47:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $3.53)
+**Capital comprometido ahora mismo:** $98.53 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| SDTrading | 37 | 36 | 1 | -10.29 USD |
+| SDTrading | 37 | 36 | 2 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -1101,6 +1101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 3.53 | 1.7% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Alycia Parks vs Leylah F | Leylah Fernandez (BUY) | 87% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | W15 Monastir: Iveta Dapkute vs Sarina Sc | Iveta Dapkute (BUY) | 74% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox:  | Under (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1130,4 +1131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Gibraltar vs. São Tomé e Príncipe: O/U 2 | Under (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Flaznorp | W35 Santa Margherita di Pula: Galatea Fe | Aurora Nosei (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Ankara: Solana Sierra vs Deniz Dilek | Deniz Dilek (BUY) | 59% | 5.00 | 18.2% | ✅ ganada | +3.37 |
-| ferrariChampions2026 | St. Tropez: Dino Prizmic vs David Jorda  | Dino Prizmic (BUY) | 99% | 5.00 | 9.5% | ✅ ganada | +0.05 |

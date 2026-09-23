@@ -153210,5 +153210,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790167563.491311,
     "fills": 1
+  },
+  {
+    "timestamp": 1790167696,
+    "timestamp_added": 1790167697.1973908,
+    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-hou-sea-2026-09-23",
+    "title": "Houston Astros vs. Seattle Mariners",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 724.8076,
+    "whale_pct": 1.705,
+    "whale_value_at_open": 42502.4102,
+    "paper_stake_usd": 3.53,
+    "odds_at_bet": 45,
+    "fee_usd": 0.097,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790167697.1974041,
+    "fills": 1
   }
 ]
