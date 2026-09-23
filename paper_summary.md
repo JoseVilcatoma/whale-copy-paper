@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 18:37:15 (hora de Perú)
+Actualizado: 2026-09-23 18:39:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $116.45
@@ -1128,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX (BO5 | 3DMAX (BUY) | 75% | 5.00 | 10.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ✅ ganada | +2.21 |
 | UpTheBlues | Will FK Austria Wien win on 2026-09-23? | No (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 1.2% | ✅ ganada | +3.52 |
