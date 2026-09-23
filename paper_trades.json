@@ -152844,5 +152844,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790163830.3380568,
     "fills": 1
+  },
+  {
+    "timestamp": 1790163914,
+    "timestamp_added": 1790163914.6418867,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-amarie1-janici1-2026-09-23",
+    "title": "W50 Plovdiv: Ilinca Dalina Amariei vs Selena Janicijevic",
+    "outcome": "Ilinca Dalina Amariei",
+    "side": "BUY",
+    "whale_usd": 516.0,
+    "whale_pct": 0.347,
+    "whale_value_at_open": 148570.2112,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790163914.6418955,
+    "fills": 1
   }
 ]

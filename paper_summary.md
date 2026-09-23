@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 06:44:06 (hora de Perú)
+Actualizado: 2026-09-23 06:46:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.96
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 06:44:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.55 en 15 posiciones abiertas (disponible para nuevas apuestas: $29.41)
+**Capital comprometido ahora mismo:** $78.55 en 16 posiciones abiertas (disponible para nuevas apuestas: $24.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 887 | 542 | 9 | -223.03 USD |
+| ferrariChampions2026 | 887 | 542 | 10 | -223.03 USD |
 
 ## Análisis general
 
@@ -1099,6 +1099,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Plovdiv: Ilinca Dalina Amariei vs Se | Ilinca Dalina Amariei (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Mirra Andreeva vs Aliaks | Mirra Andreeva (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Ankara: Weronika Falkowska vs Polina Iat | Polina Iatcenko (BUY) | 89% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | M25 Pardubice: Sebastian Sorger vs Stepa | Sebastian Sorger (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1128,4 +1129,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 58% | 5.00 | 2.9% | ✅ ganada | +3.52 |
 | ferrariChampions2026 | Set 1 Winner: Aleksandar Vukic vs Kyrian | Kyrian Jacquet (BUY) | 57% | 5.00 | 1.2% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Chengdu Open: Vit Kopriva vs Jia Hu | Vit Kopriva (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
-| RN1 | Hangzhou Open: Aleksandar Vukic vs Kyria | Kyrian Jacquet (BUY) | 53% | 5.00 | 14.7% | ✅ ganada | +4.32 |
