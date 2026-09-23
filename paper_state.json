@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.87855716313699,
+  "bankroll": 91.42058611268207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30710,6 +30710,26 @@
       "timestamp": 1790148027.9845345,
       "bankroll": 90.88,
       "event": "won: RN1 \u2014 Chengdu Open, Qualification: Lloyd Harris vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1790148405.1351042,
+      "bankroll": 85.74,
+      "event": "lost: RN1 \u2014 Chengdu Open: Sebastian Baez vs Jenson Brooksby"
+    },
+    {
+      "timestamp": 1790148405.2352574,
+      "bankroll": 88.71,
+      "event": "won: RN1 \u2014 Chengdu Open: Sebastian Baez vs Jenson Brooksby"
+    },
+    {
+      "timestamp": 1790148405.5357323,
+      "bankroll": 90.07,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Sebastian Baez vs Jenson Brooksby"
+    },
+    {
+      "timestamp": 1790148405.83617,
+      "bankroll": 91.42,
+      "event": "won: HMLSF \u2014 Chengdu Open: Sebastian Baez vs Jenson Brooksby"
     }
   ]
 }

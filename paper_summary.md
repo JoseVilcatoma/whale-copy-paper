@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 02:25:48 (hora de Perú)
+Actualizado: 2026-09-23 02:27:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $90.88
-**Retorno acumulado:** -81.82%
+**Bankroll actual:** $91.42
+**Retorno acumulado:** -81.72%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 02:25:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.83 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.05)
+**Capital comprometido ahora mismo:** $80.83 en 17 posiciones abiertas (disponible para nuevas apuestas: $10.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,9 +37,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | UpTheBlues | 40 | 10 | 0 | +19.24 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| HMLSF | 5 | 0 | 1 | +13.91 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| HMLSF | 4 | 0 | 1 | +12.55 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
@@ -161,24 +161,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Flaznorp | 183 | 69 | 3 | -27.09 USD |
-| RN1 | 642 | 303 | 5 | -29.08 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
+| RN1 | 643 | 304 | 4 | -31.25 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 878 | 538 | 9 | -231.14 USD |
+| ferrariChampions2026 | 879 | 538 | 8 | -229.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5924
-- **Aciertos:** 3733 (63.0%)
+- **Apuestas resueltas:** 5928
+- **Aciertos:** 3736 (63.0%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,356.52
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $541.90 (1.85% del capital apostado)
+- **Total apostado (suma de stakes):** $29,376.52
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $542.24 (1.85% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,8 +187,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3033 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1738 | 68.6% | 67.9% | +0.7 pp |
+| 40-59% | 3034 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1741 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 823 | 85.9% | 86.6% | -0.7 pp |
 | 95-99% (casi seguro) | 330 | 97.3% | 97.4% | -0.1 pp |
 
@@ -1087,12 +1087,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bolt-santill-2026-09-23 | Flaznorp, RN1 |
 | atp-muller-biryuko-2026-09-23 | Flaznorp, RN1 |
 | atp-tomic-su-2026-09-23 | RN1, ferrariChampions2026 |
-| atp-mochizu-kotov-2026-09-23 | Flaznorp, RN1, ferrariChampions2026 |
+| atp-mochizu-kotov-2026-09-23 | Flaznorp, HMLSF, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HMLSF | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 47% | 5.00 | 8.3% | ⏳ pendiente | — |
+| RN1 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Fajing Sun (BUY) | 67% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Federico Cina (BUY) | 51% | 2.74 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Nikoloz Bas | Nikoloz Basilashvili (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -1101,10 +1103,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Lloyd Harri | Lloyd Harris (BUY) | 99% | 5.00 | 4.0% | ✅ ganada | +0.05 |
 | Flaznorp | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ⏳ pendiente | — |
+| HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ✅ ganada | +1.36 |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ✅ ganada | +0.10 |
@@ -1114,12 +1116,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ✅ ganada | +0.30 |
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
-| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ✅ ganada | +2.97 |
+| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ❌ perdida | -5.14 |
 | RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ✅ ganada | +1.20 |
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
 | RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | So-Hyun Park (BUY) | 45% | 5.00 | 8.1% | ❌ perdida | -5.14 |
 | RN1 | San Diego 2: Keaton Hance vs Andres Mart | Keaton Hance (BUY) | 88% | 5.00 | 2.3% | ✅ ganada | +0.65 |
 | RN1 | Korea Open: Kamilla Rakhimova vs Katie V | Katie Volynets (BUY) | 61% | 5.00 | 9.2% | ✅ ganada | +3.10 |
-| RN1 | Korea Open: Lanlana Tararudee vs So-Hyun | Lanlana Tararudee (BUY) | 78% | 5.00 | 24.7% | ✅ ganada | +1.36 |
-| Flaznorp | Miami Marlins vs. Chicago Cubs: O/U 5.5 | Over (BUY) | 51% | 5.00 | 0.3% | ✅ ganada | +4.68 |
