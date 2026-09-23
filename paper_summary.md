@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-22 20:30:26 (hora de Perú)
+Actualizado: 2026-09-22 20:32:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $80.13
-**Retorno acumulado:** -83.97%
+**Bankroll actual:** $82.91
+**Retorno acumulado:** -83.42%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-22 20:30:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.69 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.44)
+**Capital comprometido ahora mismo:** $75.01 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -137,6 +137,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
+| Donkey14 | 4 | 5 | 1 | -7.67 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
@@ -145,7 +146,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | SDTrading | 37 | 36 | 0 | -10.29 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Donkey14 | 3 | 5 | 2 | -10.45 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 19 | 19 | 0 | -11.91 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5886
-- **Aciertos:** 3704 (62.9%)
+- **Apuestas resueltas:** 5887
+- **Aciertos:** 3705 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.96
-- **Total apostado (suma de stakes):** $29,174.44
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $539.46 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,179.12
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $539.55 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3022 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1726 | 68.6% | 67.9% | +0.7 pp |
+| 60-79% | 1727 | 68.6% | 67.9% | +0.7 pp |
 | 80-94% | 813 | 86.0% | 86.6% | -0.6 pp |
 | 95-99% (casi seguro) | 325 | 97.2% | 97.3% | -0.1 pp |
 
@@ -1098,7 +1098,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego 2: Jack Kennedy vs Liam Draxl | Liam Draxl (BUY) | 85% | 4.57 | 2.8% | ✅ ganada | +0.77 |
 | ferrariChampions2026 | San Diego 2: Tristan Boyer vs Spencer Jo | Tristan Boyer (BUY) | 96% | 5.00 | 1.0% | ✅ ganada | +0.20 |
 | Donkey14 | Tampa Bay Rays vs. New York Yankees | Tampa Bay Rays (BUY) | 46% | 5.00 | 9.1% | ⏳ pendiente | — |
-| Donkey14 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 62% | 4.68 | 22.2% | ⏳ pendiente | — |
+| Donkey14 | St. Louis Cardinals vs. Pittsburgh Pirat | Pittsburgh Pirates (BUY) | 62% | 4.68 | 22.2% | ✅ ganada | +2.78 |
 | Flaznorp | San Diego 2: Tristan Boyer vs Spencer Jo | Spencer Johnson (BUY) | 59% | 5.00 | 0.2% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Genoa 2: Matthew William Donald vs Gianl | Matthew William Donald (BUY) | 45% | 2.59 | 0.3% | ✅ ganada | +3.09 |
 | Flaznorp | Atletico FC Cali vs. Tigres FC: 1st Half | Under (BUY) | 99% | 5.00 | 0.2% | ✅ ganada | +0.05 |

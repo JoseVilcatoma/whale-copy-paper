@@ -1,5 +1,5 @@
 {
-  "bankroll": 80.12829571788153,
+  "bankroll": 82.90768281465571,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30520,6 +30520,11 @@
       "timestamp": 1790125197.3031745,
       "bankroll": 80.13,
       "event": "lost: Flaznorp \u2014 Will Tigres FC win on 2026-09-22?"
+    },
+    {
+      "timestamp": 1790127085.2326415,
+      "bankroll": 82.91,
+      "event": "won: Donkey14 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
     }
   ]
 }
