@@ -1,5 +1,5 @@
 {
-  "bankroll": 97.11921522583593,
+  "bankroll": 98.53421522583594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30950,6 +30950,11 @@
       "timestamp": 1790167172.531646,
       "bankroll": 97.12,
       "event": "won: RN1 \u2014 Porto: Oceane Dodin vs Elena Malygina"
+    },
+    {
+      "timestamp": 1790167298.6319675,
+      "bankroll": 98.53,
+      "event": "won: Flaznorp \u2014 St. Tropez: Daniil Glinka vs Ugo Blanchet"
     }
   ]
 }
