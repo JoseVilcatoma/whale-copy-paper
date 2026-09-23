@@ -151460,8 +151460,8 @@
     "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
     "outcome": "Jenson Brooksby",
     "side": "BUY",
-    "whale_usd": 15993.07,
-    "whale_pct": 69.393,
+    "whale_usd": 20642.43,
+    "whale_pct": 89.566,
     "whale_value_at_open": 23047.1066,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -151472,8 +151472,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790145069.4737632,
-    "fills": 5
+    "last_fill_at": 1790146271.0092838,
+    "fills": 6
   },
   {
     "timestamp": 1790141601,
@@ -151706,8 +151706,8 @@
     "title": "Chengdu Open: Sebastian Baez vs Jenson Brooksby",
     "outcome": "Jenson Brooksby",
     "side": "BUY",
-    "whale_usd": 14583.719643,
-    "whale_pct": 4.609,
+    "whale_usd": 25647.492642999998,
+    "whale_pct": 8.106,
     "whale_value_at_open": 316404.7396,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -151720,8 +151720,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790145208.7085636,
-    "fills": 3
+    "last_fill_at": 1790146265.8396857,
+    "fills": 5
   },
   {
     "timestamp": 1790145310,
@@ -151860,8 +151860,8 @@
     "title": "Chengdu Open, Qualification: Shintaro Mochizuki vs Pavel Kotov",
     "outcome": "Pavel Kotov",
     "side": "BUY",
-    "whale_usd": 917.0600000000002,
-    "whale_pct": 0.498,
+    "whale_usd": 1531.1423080000002,
+    "whale_pct": 0.831,
     "whale_value_at_open": 184220.6214,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -151875,7 +151875,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790145943.457591,
-    "fills": 1
+    "last_fill_at": 1790146274.979831,
+    "fills": 2
   }
 ]

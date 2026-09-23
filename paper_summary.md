@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 01:50:08 (hora de Perú)
+Actualizado: 2026-09-23 01:52:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.44
@@ -1092,13 +1092,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Lloyd Harri | Lloyd Harris (BUY) | 99% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Flaznorp | Chengdu Open, Qualification: Shintaro Mo | Pavel Kotov (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HMLSF | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 61.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Shintaro Mo | Shintaro Mochizuki (BUY) | 42% | 3.09 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 4.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 78% | 5.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Bernard To | Bernard Tomic (BUY) | 57% | 5.00 | 2.6% | ⏳ pendiente | — |
 | Flaznorp | W50 Nanao: Kurea Hayasaka vs Amelia Raje | Amelia Rajecki (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Chengdu Open, Qualification: Alexandre M | Alexandre Muller (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1108,7 +1108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | M25 Yinchuan: Reiya Komagata vs Aziz Dou | Reiya Komagata (BUY) | 97% | 5.00 | 1.4% | ✅ ganada | +0.15 |
 | RN1 | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 85.6% | ✅ ganada | +0.30 |
 | Flaznorp | Singapore Open: Oleksandra Oliynykova vs | Maja Chwalinska (BUY) | 94% | 5.00 | 24.4% | ✅ ganada | +0.30 |
-| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 69.4% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Jenson Brooksby (BUY) | 62% | 5.00 | 89.6% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Sebastian Baez vs Jenson B | Sebastian Baez (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open, Qualification: Taro Danie | Taro Daniel (BUY) | 80% | 5.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Portland Fire | Portland Fire (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
