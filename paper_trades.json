@@ -155354,8 +155354,8 @@
     "title": "Will Wales win on 2026-09-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2696.67,
-    "whale_pct": 1.288,
+    "whale_usd": 4300.65,
+    "whale_pct": 2.054,
     "whale_value_at_open": 209363.8519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -155366,8 +155366,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790233345.7218633,
-    "fills": 2
+    "last_fill_at": 1790235672.03059,
+    "fills": 3
   },
   {
     "timestamp": 1790233300,

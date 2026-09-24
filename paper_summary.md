@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:39:32 (hora de Perú)
+Actualizado: 2026-09-24 02:41:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.81
@@ -1121,7 +1121,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 62% | 3.58 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 8.2% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
-| UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 1.3% | ⏳ pendiente | — |
+| UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ✅ ganada | +1.60 |
