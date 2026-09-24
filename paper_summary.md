@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 19:43:00 (hora de Perú)
+Actualizado: 2026-09-23 19:45:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $113.18
@@ -1115,7 +1115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Over (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 7.4% | ⏳ pendiente | — |
 | Donkey14 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 50% | 4.93 | 18.6% | ⏳ pendiente | — |
 | HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ⏳ pendiente | — |
 | Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 26.3% | ⏳ pendiente | — |
