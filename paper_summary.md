@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 06:23:14 (hora de Perú)
+Actualizado: 2026-09-24 06:25:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.83
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 06:23:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.05 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.78)
+**Capital comprometido ahora mismo:** $77.05 en 17 posiciones abiertas (disponible para nuevas apuestas: $2.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,7 +161,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 667 | 316 | 6 | -26.80 USD |
+| RN1 | 667 | 316 | 7 | -26.80 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1122,9 +1122,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
-| RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ⏳ pendiente | — |
 | RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
@@ -1151,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.8% | ❌ perdida | -5.07 |
 | UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ✅ ganada | +0.36 |
-| RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ✅ ganada | +0.71 |

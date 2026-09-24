@@ -155971,8 +155971,8 @@
     "title": "Plovdiv 4: Ivan Ivanov vs Adrian Andreev",
     "outcome": "Adrian Andreev",
     "side": "BUY",
-    "whale_usd": 1169.3076,
-    "whale_pct": 1.434,
+    "whale_usd": 3160.9134000000004,
+    "whale_pct": 3.876,
     "whale_value_at_open": 81544.9061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -155983,8 +155983,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790245827.3189542,
-    "fills": 1
+    "last_fill_at": 1790249090.1642442,
+    "fills": 2
   },
   {
     "timestamp": 1790246292,
@@ -156037,5 +156037,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790248509.1982565,
     "fills": 7
+  },
+  {
+    "timestamp": 1790249029,
+    "timestamp_added": 1790249029.823755,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-prozoro-eala-2026-09-22",
+    "title": "Singapore Open: Tatiana Prozorova vs Alexandra Eala",
+    "outcome": "Alexandra Eala",
+    "side": "BUY",
+    "whale_usd": 1046.4816,
+    "whale_pct": 0.959,
+    "whale_value_at_open": 109068.8282,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790249029.8237658,
+    "fills": 1
   }
 ]
