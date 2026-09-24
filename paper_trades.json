@@ -155576,8 +155576,8 @@
     "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
     "outcome": "Xinyu Wang",
     "side": "BUY",
-    "whale_usd": 24049.502202,
-    "whale_pct": 18.635,
+    "whale_usd": 32632.304702,
+    "whale_pct": 25.286,
     "whale_value_at_open": 129053.3958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -155590,8 +155590,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790240143.6742382,
-    "fills": 10
+    "last_fill_at": 1790241548.729641,
+    "fills": 11
   },
   {
     "timestamp": 1790239526,
@@ -155693,5 +155693,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790241379.573983,
     "fills": 4
+  },
+  {
+    "timestamp": 1790241624,
+    "timestamp_added": 1790241625.0977883,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-kouame-muller-2026-09-24",
+    "title": "Chengdu Open: Moise Kouame vs Alexandre Muller",
+    "outcome": "Moise Kouame",
+    "side": "BUY",
+    "whale_usd": 935.46,
+    "whale_pct": 0.547,
+    "whale_value_at_open": 170909.4913,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790241625.0978012,
+    "fills": 1
   }
 ]

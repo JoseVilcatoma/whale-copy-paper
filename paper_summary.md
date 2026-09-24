@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:18:59 (hora de Perú)
+Actualizado: 2026-09-24 04:21:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.98
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 04:18:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $69.43 en 15 posiciones abiertas (disponible para nuevas apuestas: $6.55)
+**Capital comprometido ahora mismo:** $74.43 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 919 | 562 | 4 | -249.66 USD |
+| ferrariChampions2026 | 919 | 562 | 5 | -249.66 USD |
 
 ## Análisis general
 
@@ -1119,11 +1119,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 3.3% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 18.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 16.7% | ✅ ganada | +1.69 |
 | RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 7.7% | ⏳ pendiente | — |
@@ -1148,4 +1149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 34.2% | ❌ perdida | -5.11 |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 16.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
-| taylorsversion | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 41% | 5.00 | 6.5% | ❌ perdida | -5.15 |
