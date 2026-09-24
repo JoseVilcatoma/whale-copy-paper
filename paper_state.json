@@ -1,5 +1,5 @@
 {
-  "bankroll": 116.70094317551778,
+  "bankroll": 118.30560984218445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31155,6 +31155,11 @@
       "timestamp": 1790206944.4279392,
       "bankroll": 116.7,
       "event": "won: UpTheBlues \u2014 Buenos Aires 2: Nicolas Kicker vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1790208207.9413373,
+      "bankroll": 118.31,
+      "event": "won: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs"
     }
   ]
 }
