@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.13005427142448,
+  "bankroll": 61.04243522380543,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31665,6 +31665,11 @@
       "timestamp": 1790278642.3483827,
       "bankroll": 60.13,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1790279894.5593631,
+      "bankroll": 61.04,
+      "event": "won: GoalLineGhost \u2014 Andorra vs. Malta: O/U 0.5"
     }
   ]
 }
