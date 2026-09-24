@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:37:06 (hora de Perú)
+Actualizado: 2026-09-24 00:39:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $104.89
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 00:37:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.89 en 22 posiciones abiertas (disponible para nuevas apuestas: $3.00)
+**Capital comprometido ahora mismo:** $104.89 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 2 | -143.52 USD |
-| ferrariChampions2026 | 912 | 556 | 8 | -241.77 USD |
+| ferrariChampions2026 | 912 | 556 | 9 | -241.77 USD |
 
 ## Análisis general
 
@@ -1115,6 +1115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
@@ -1144,4 +1145,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 30.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 6.0% | ✅ ganada | +3.37 |
