@@ -154770,8 +154770,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 22276.884322,
-    "whale_pct": 7.998,
+    "whale_usd": 28583.364322,
+    "whale_pct": 10.262,
     "whale_value_at_open": 278524.7481,
     "paper_stake_usd": 3.44,
     "odds_at_bet": 45,
@@ -154784,8 +154784,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790236976.0211535,
-    "fills": 19
+    "last_fill_at": 1790237205.336691,
+    "fills": 20
   },
   {
     "timestamp": 1790220723,
