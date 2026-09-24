@@ -1,5 +1,5 @@
 {
-  "bankroll": 102.80711830200762,
+  "bankroll": 104.89258230667099,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31300,6 +31300,16 @@
       "timestamp": 1790226275.0120606,
       "bankroll": 102.81,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-1.5)"
+    },
+    {
+      "timestamp": 1790228153.5089087,
+      "bankroll": 104.59,
+      "event": "won: wr0ngw4yb3tt0r \u2014 San Diego Padres vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1790228153.9096603,
+      "bankroll": 104.89,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. Los Angeles Dodgers"
     }
   ]
 }
