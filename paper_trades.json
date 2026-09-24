@@ -154770,8 +154770,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 2069.7083,
-    "whale_pct": 0.743,
+    "whale_usd": 2641.2974,
+    "whale_pct": 0.948,
     "whale_value_at_open": 278524.7481,
     "paper_stake_usd": 3.44,
     "odds_at_bet": 45,
@@ -154784,8 +154784,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790219439.7144504,
-    "fills": 1
+    "last_fill_at": 1790234277.0129092,
+    "fills": 2
   },
   {
     "timestamp": 1790220723,
@@ -155422,5 +155422,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790234132.3446822,
     "fills": 2
+  },
+  {
+    "timestamp": 1790234265,
+    "timestamp_added": 1790234266.442812,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-nyy-2026-09-24-total-7pt5",
+    "title": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1094.34,
+    "whale_pct": 1.219,
+    "whale_value_at_open": 89762.6907,
+    "paper_stake_usd": 3.58,
+    "odds_at_bet": 62,
+    "fee_usd": 0.068,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790234266.4428234,
+    "fills": 1
   }
 ]
