@@ -155311,8 +155311,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -155335,8 +155335,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [
       "RN1"
     ],
@@ -155412,8 +155412,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [
       "RN1",
       "UpTheBlues"
@@ -155469,6 +155469,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790235279.7396631,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790236854,
+    "timestamp_added": 1790236854.8138983,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-duckwor-sonego-2026-09-22",
+    "title": "Chengdu Open: James Duckworth vs Lorenzo Sonego",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "whale_usd": 1013.7848,
+    "whale_pct": 1.268,
+    "whale_value_at_open": 79921.1547,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790236854.813911,
     "fills": 1
   }
 ]

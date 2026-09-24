@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:59:52 (hora de Perú)
+Actualizado: 2026-09-24 03:01:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $91.81
-**Retorno acumulado:** -81.64%
+**Bankroll actual:** $93.47
+**Retorno acumulado:** -81.31%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 02:59:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $91.05 en 19 posiciones abiertas (disponible para nuevas apuestas: $0.76)
+**Capital comprometido ahora mismo:** $81.05 en 17 posiciones abiertas (disponible para nuevas apuestas: $12.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 51 | 11 | 6 | +23.39 USD |
+| UpTheBlues | 52 | 11 | 5 | +23.75 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 662 | 313 | 3 | -21.51 USD |
+| RN1 | 663 | 313 | 3 | -20.80 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -169,17 +169,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 916 | 559 | 6 | -240.72 USD |
+| ferrariChampions2026 | 917 | 559 | 5 | -240.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6064
-- **Aciertos:** 3829 (63.1%)
+- **Apuestas resueltas:** 6067
+- **Aciertos:** 3832 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,025.04
+- **Total apostado (suma de stakes):** $30,040.04
 - **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $552.79 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $552.87 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3101 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1768 | 68.8% | 67.9% | +0.8 pp |
-| 80-94% | 850 | 85.8% | 86.6% | -0.8 pp |
+| 80-94% | 853 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 345 | 97.4% | 97.4% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1117,13 +1117,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 57% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Atlético Nacional win on 2026-09-24 | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 62% | 3.58 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 8.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 8.2% | ✅ ganada | +0.59 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
 | UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
-| UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ⏳ pendiente | — |
+| UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ✅ ganada | +0.36 |
+| RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ✅ ganada | +0.71 |
 | UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 3.2% | ✅ ganada | +2.61 |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 24.9% | ⏳ pendiente | — |
@@ -1146,4 +1147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
-| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 91.81023300200539,
+  "bankroll": 93.4746810528984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31410,6 +31410,21 @@
       "timestamp": 1790235262.4499183,
       "bankroll": 91.81,
       "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Dane Sweeny vs Taro Daniel"
+    },
+    {
+      "timestamp": 1790236840.7784226,
+      "bankroll": 92.52,
+      "event": "won: RN1 \u2014 Singapore Open: Talia Gibson vs Viktoria Morvayova"
+    },
+    {
+      "timestamp": 1790236840.8785923,
+      "bankroll": 92.88,
+      "event": "won: UpTheBlues \u2014 Singapore Open: Talia Gibson vs Viktoria Morvayova"
+    },
+    {
+      "timestamp": 1790236841.1791213,
+      "bankroll": 93.47,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Talia Gibson vs Viktoria Morvayova"
     }
   ]
 }
