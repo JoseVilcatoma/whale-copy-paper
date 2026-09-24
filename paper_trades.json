@@ -154022,8 +154022,8 @@
     "title": "Arizona Diamondbacks vs. Colorado Rockies",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 14835.004037,
-    "whale_pct": 5.9,
+    "whale_usd": 15938.741537000002,
+    "whale_pct": 6.339,
     "whale_value_at_open": 251441.9322,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -154034,8 +154034,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790211753.4687822,
-    "fills": 3
+    "last_fill_at": 1790214013.9082966,
+    "fills": 4
   },
   {
     "timestamp": 1790197343,
@@ -154317,8 +154317,8 @@
     "title": "Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar",
     "outcome": "Francisco Comesana",
     "side": "BUY",
-    "whale_usd": 3115.203967,
-    "whale_pct": 12.673,
+    "whale_usd": 3937.323967,
+    "whale_pct": 16.018,
     "whale_value_at_open": 24580.4908,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -154329,8 +154329,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790213199.8135786,
-    "fills": 4
+    "last_fill_at": 1790214008.617656,
+    "fills": 5
   },
   {
     "timestamp": 1790212660,
@@ -154380,6 +154380,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790212811.6614578,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790213909,
+    "timestamp_added": 1790213909.503336,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-atl-nyl-2026-09-23",
+    "title": "Atlanta Dream vs. New York Liberty",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1291.51026,
+    "whale_pct": 0.345,
+    "whale_value_at_open": 373997.6084,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790213909.5033462,
     "fills": 1
   }
 ]

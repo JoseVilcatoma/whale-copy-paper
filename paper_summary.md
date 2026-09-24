@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:38:25 (hora de Perú)
+Actualizado: 2026-09-23 20:40:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $105.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 20:38:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $96.38 en 20 posiciones abiertas (disponible para nuevas apuestas: $9.19)
+**Capital comprometido ahora mismo:** $101.38 en 21 posiciones abiertas (disponible para nuevas apuestas: $4.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 903 | 551 | 9 | -235.43 USD |
+| ferrariChampions2026 | 903 | 551 | 10 | -235.43 USD |
 
 ## Análisis general
 
@@ -1109,9 +1109,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Dream vs. New York Liberty | Atlanta Dream (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 12.7% | ⏳ pendiente | — |
+| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 16.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ❌ perdida | -5.13 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -1123,7 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ⏳ pendiente | — |
 | Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 26.3% | ❌ perdida | -5.13 |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 25.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ✅ ganada | +4.68 |
 | Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 25.2% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ✅ ganada | +4.46 |
@@ -1138,4 +1139,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will FK Austria Wien win on 2026-09-23? | No (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 1.2% | ✅ ganada | +3.52 |
 | GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ✅ ganada | +0.47 |
-| RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 8.9% | ✅ ganada | +3.37 |
