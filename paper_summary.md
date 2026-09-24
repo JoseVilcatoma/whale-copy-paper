@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:54:26 (hora de Perú)
+Actualizado: 2026-09-24 09:56:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $68.76
@@ -1122,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
 | GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
