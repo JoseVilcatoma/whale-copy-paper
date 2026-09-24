@@ -155913,5 +155913,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790243849.951179,
     "fills": 1
+  },
+  {
+    "timestamp": 1790244607,
+    "timestamp_added": 1790244608.083597,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-jjh-ef1-2026-09-24-game1",
+    "title": "Counter-Strike: JiJieHao vs Eternal Fire - Map 1 Winner",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 2972.0709,
+    "whale_pct": 4.739,
+    "whale_value_at_open": 62721.1393,
+    "paper_stake_usd": 3.43,
+    "odds_at_bet": 52,
+    "fee_usd": 0.082,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790244608.083606,
+    "fills": 1
   }
 ]
