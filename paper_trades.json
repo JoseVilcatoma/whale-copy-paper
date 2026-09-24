@@ -155679,8 +155679,8 @@
     "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 8881.257636,
-    "whale_pct": 5.45,
+    "whale_usd": 9903.377636000001,
+    "whale_pct": 6.077,
     "whale_value_at_open": 162965.0184,
     "paper_stake_usd": 3.43,
     "odds_at_bet": 60,
@@ -155691,8 +155691,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790242576.257954,
-    "fills": 5
+    "last_fill_at": 1790242921.2623055,
+    "fills": 6
   },
   {
     "timestamp": 1790241624,
@@ -155801,8 +155801,8 @@
     "title": "Chengdu Open: Juncheng Shang vs Adrian Mannarino",
     "outcome": "Juncheng Shang",
     "side": "BUY",
-    "whale_usd": 2847.65,
-    "whale_pct": 2.097,
+    "whale_usd": 4107.65,
+    "whale_pct": 3.025,
     "whale_value_at_open": 135797.9973,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -155815,7 +155815,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790242733.5505383,
-    "fills": 1
+    "last_fill_at": 1790242986.3382053,
+    "fills": 2
   }
 ]
