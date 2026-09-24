@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.19206760447268,
+  "bankroll": 68.71432112559944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31595,6 +31595,16 @@
       "timestamp": 1790259942.1175287,
       "bankroll": 69.19,
       "event": "lost: RN1 \u2014 Singapore Open: Tatiana Prozorova vs Alexandra Eala"
+    },
+    {
+      "timestamp": 1790260809.7234676,
+      "bankroll": 66.75,
+      "event": "lost: RN1 \u2014 Counter-Strike: fnatic vs Just Players - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790260809.9836776,
+      "bankroll": 68.71,
+      "event": "won: UpTheBlues \u2014 St. Tropez: Edas Butvilas vs Harold Mayot"
     }
   ]
 }

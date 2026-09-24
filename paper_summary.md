@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:38:05 (hora de Perú)
+Actualizado: 2026-09-24 09:40:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.19
-**Retorno acumulado:** -86.16%
+**Bankroll actual:** $68.71
+**Retorno acumulado:** -86.26%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 09:38:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.87 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.32)
+**Capital comprometido ahora mismo:** $60.49 en 13 posiciones abiertas (disponible para nuevas apuestas: $8.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,9 +27,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
+| UpTheBlues | 58 | 12 | 2 | +28.87 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| UpTheBlues | 57 | 12 | 3 | +26.90 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -164,8 +164,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 671 | 321 | 5 | -34.68 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
+| RN1 | 671 | 322 | 4 | -37.13 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -173,13 +173,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6101
-- **Aciertos:** 3851 (63.1%)
+- **Apuestas resueltas:** 6103
+- **Aciertos:** 3852 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,201.21
+- **Total apostado (suma de stakes):** $30,208.59
 - **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $555.86 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $556.00 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,8 +188,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3119 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1779 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 3120 | 49.8% | 50.1% | -0.2 pp |
+| 60-79% | 1780 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 855 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
 
@@ -1124,8 +1124,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
-| UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
+| RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ❌ perdida | -2.45 |
 | RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: paiN vs Bounty Hunters E | paiN (BUY) | 66% | 4.49 | 1.5% | ⏳ pendiente | — |
 | RN1 | China PR vs. Maldives: O/U 2.5 | Over (BUY) | 87% | 5.00 | 2.2% | ⏳ pendiente | — |
