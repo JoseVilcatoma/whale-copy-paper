@@ -156519,5 +156519,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790269291.323863,
     "fills": 4
+  },
+  {
+    "timestamp": 1790269417,
+    "timestamp_added": 1790269417.8064213,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "clf-rwo-sch-2026-09-24-sch",
+    "title": "Will Schalke 04 win on 2026-09-24?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 528.094839,
+    "whale_pct": 0.177,
+    "whale_value_at_open": 299028.0699,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790269417.8064315,
+    "fills": 1
   }
 ]
