@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 22:50:50 (hora de Perú)
+Actualizado: 2026-09-23 22:52:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $108.97
-**Retorno acumulado:** -78.21%
+**Bankroll actual:** $110.71
+**Retorno acumulado:** -77.86%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 22:50:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $107.86 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.11)
+**Capital comprometido ahora mismo:** $97.86 en 21 posiciones abiertas (disponible para nuevas apuestas: $12.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,10 +30,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| UpTheBlues | 48 | 10 | 5 | +25.79 USD |
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 46 | 10 | 7 | +24.05 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
@@ -172,14 +172,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6036
-- **Aciertos:** 3812 (63.2%)
+- **Apuestas resueltas:** 6038
+- **Aciertos:** 3814 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,895.65
+- **Total apostado (suma de stakes):** $29,905.65
 - **ROI sobre lo apostado:** -1.73%
-- **Comisiones pagadas (taker fee):** $550.56 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $550.62 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,9 +188,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3086 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1760 | 68.8% | 67.9% | +0.8 pp |
+| 60-79% | 1761 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 848 | 85.7% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 342 | 97.4% | 97.4% | +0.0 pp |
+| 95-99% (casi seguro) | 343 | 97.4% | 97.4% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1117,7 +1117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
-| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
+| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -1128,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Nanao: Jia-Jing Lu vs Tiana Tian Den | Tiana Tian Deng (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 5.00 | 8.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Antigua GFC win on 2026-09-23? | No (BUY) | 74% | 4.03 | 0.5% | ⏳ pendiente | — |
-| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. New York Liberty | Atlanta Dream (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |

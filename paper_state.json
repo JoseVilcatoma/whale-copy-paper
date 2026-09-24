@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.9681333569739,
+  "bankroll": 110.7073951642357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31270,6 +31270,16 @@
       "timestamp": 1790220704.6833358,
       "bankroll": 108.97,
       "event": "won: HMLSF \u2014 Arizona Diamondbacks vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1790221965.1959946,
+      "bankroll": 110.66,
+      "event": "won: UpTheBlues \u2014 Seattle Sounders FC vs. Real Salt Lake: Real Salt Lake O/U 1.5"
+    },
+    {
+      "timestamp": 1790221967.2697399,
+      "bankroll": 110.71,
+      "event": "won: UpTheBlues \u2014 Seattle Sounders FC vs. Real Salt Lake: O/U 5.5"
     }
   ]
 }
