@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.71253435891641,
+  "bankroll": 79.56953435891641,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31560,6 +31560,11 @@
       "timestamp": 1790255227.7373066,
       "bankroll": 84.71,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: The Last Resort vs Nexus (BO3) - European Pro League Series 9 Playoffs"
+    },
+    {
+      "timestamp": 1790256236.3611114,
+      "bankroll": 79.57,
+      "event": "lost: RN1 \u2014 Tolentino: Alice Tubello vs Julia Grabher"
     }
   ]
 }
