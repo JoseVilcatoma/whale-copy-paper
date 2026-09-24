@@ -154355,5 +154355,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790212661.3152711,
     "fills": 1
+  },
+  {
+    "timestamp": 1790212811,
+    "timestamp_added": 1790212811.6614454,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-atl-2026-09-23-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 852.6315790000001,
+    "whale_pct": 0.268,
+    "whale_value_at_open": 318217.6111,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Donkey14"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790212811.6614578,
+    "fills": 1
   }
 ]

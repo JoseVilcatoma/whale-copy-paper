@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:20:03 (hora de Perú)
+Actualizado: 2026-09-23 20:22:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $117.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 20:20:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $111.38 en 23 posiciones abiertas (disponible para nuevas apuestas: $6.48)
+**Capital comprometido ahora mismo:** $116.38 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 902 | 549 | 11 | -228.27 USD |
+| ferrariChampions2026 | 902 | 549 | 12 | -228.27 USD |
 
 ## Análisis general
 
@@ -1103,11 +1103,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
 | mlb-ari-col-2026-09-23 | Donkey14, HMLSF, ferrariChampions2026 |
 | mlb-mil-phi-2026-09-23 | Donkey14, ferrariChampions2026 |
+| mlb-cin-atl-2026-09-23-spread-home-1pt5 | Donkey14, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -1137,4 +1139,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Tolentino: Noemi Basiletti vs Mia Ristic | Mia Ristic (BUY) | 58% | 5.00 | 1.2% | ✅ ganada | +3.52 |
 | GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ✅ ganada | +0.47 |
 | RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 8.9% | ✅ ganada | +3.37 |
-| UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ✅ ganada | +2.84 |
