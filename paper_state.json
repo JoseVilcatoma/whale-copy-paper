@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.20706760447268,
+  "bankroll": 69.19206760447268,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31590,6 +31590,11 @@
       "timestamp": 1790259000.5536592,
       "bankroll": 74.21,
       "event": "won: RN1 \u2014 Japan vs. Uruguay: O/U 2.5"
+    },
+    {
+      "timestamp": 1790259942.1175287,
+      "bankroll": 69.19,
+      "event": "lost: RN1 \u2014 Singapore Open: Tatiana Prozorova vs Alexandra Eala"
     }
   ]
 }
