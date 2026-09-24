@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 17:43:31 (hora de Perú)
+Actualizado: 2026-09-24 17:45:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $60.32
-**Retorno acumulado:** -87.94%
+**Bankroll actual:** $54.63
+**Retorno acumulado:** -89.07%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 17:43:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.32 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $43.67 en 10 posiciones abiertas (disponible para nuevas apuestas: $10.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| UpTheBlues | 58 | 12 | 2 | +28.87 USD |
+| UpTheBlues | 59 | 12 | 1 | +29.02 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
@@ -141,7 +141,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| GoalLineGhost | 115 | 46 | 2 | -8.60 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 19 | 0 | -9.60 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
@@ -151,6 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| GoalLineGhost | 115 | 48 | 0 | -15.42 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 674 | 323 | 1 | -38.74 USD |
+| RN1 | 675 | 323 | 0 | -37.76 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6118
-- **Aciertos:** 3862 (63.1%)
+- **Apuestas resueltas:** 6122
+- **Aciertos:** 3864 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,278.20
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $557.05 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,294.85
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $557.28 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,10 +189,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3125 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3127 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1786 | 68.9% | 67.9% | +0.9 pp |
-| 80-94% | 857 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 350 | 97.4% | 97.4% | +0.1 pp |
+| 80-94% | 858 | 85.8% | 86.6% | -0.8 pp |
+| 95-99% (casi seguro) | 351 | 97.4% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1126,8 +1126,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs A | Anna Rogers (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ✅ ganada | +0.98 |
+| GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ❌ perdida | -3.52 |
 | ratatatatatatatataaaa | Spread: Packers (-4.5) | Packers (BUY) | 53% | 5.00 | 54.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 19.8% | ❌ perdida | -5.11 |
@@ -1138,7 +1138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
-| GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ❌ perdida | -3.30 |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ✅ ganada | +2.72 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.32229236666257,
+  "bankroll": 54.62702792746247,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31680,6 +31680,26 @@
       "timestamp": 1790284885.4140127,
       "bankroll": 60.32,
       "event": "won: GoalLineGhost \u2014 Will Schalke 04 win on 2026-09-24?"
+    },
+    {
+      "timestamp": 1790289910.1906724,
+      "bankroll": 60.47,
+      "event": "won: UpTheBlues \u2014 Will Wales win on 2026-09-24?"
+    },
+    {
+      "timestamp": 1790289911.9630702,
+      "bankroll": 57.17,
+      "event": "lost: GoalLineGhost \u2014 Portugal vs. Wales: O/U 3.5"
+    },
+    {
+      "timestamp": 1790289912.4809763,
+      "bankroll": 53.65,
+      "event": "lost: GoalLineGhost \u2014 Spread: Portugal (-2.5)"
+    },
+    {
+      "timestamp": 1790289912.7985904,
+      "bankroll": 54.63,
+      "event": "won: RN1 \u2014 Will Denmark win on 2026-09-24?"
     }
   ]
 }
