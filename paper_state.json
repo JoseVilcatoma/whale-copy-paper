@@ -1,5 +1,5 @@
 {
-  "bankroll": 90.09291738738744,
+  "bankroll": 87.5942330020054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31380,6 +31380,26 @@
       "timestamp": 1790229417.866682,
       "bankroll": 90.09,
       "event": "won: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
+    },
+    {
+      "timestamp": 1790233259.3728132,
+      "bankroll": 93.98,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Alina Charaeva"
+    },
+    {
+      "timestamp": 1790233259.5732427,
+      "bankroll": 97.8,
+      "event": "won: RN1 \u2014 Korea Open: Anna Bondar vs Alina Charaeva"
+    },
+    {
+      "timestamp": 1790233259.8738484,
+      "bankroll": 92.7,
+      "event": "lost: RN1 \u2014 Korea Open: Anna Bondar vs Alina Charaeva"
+    },
+    {
+      "timestamp": 1790233259.9740744,
+      "bankroll": 87.59,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Alina Charaeva"
     }
   ]
 }
