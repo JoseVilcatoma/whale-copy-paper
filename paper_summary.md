@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:49:28 (hora de Perú)
+Actualizado: 2026-09-24 04:51:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.94
@@ -1125,7 +1125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 71% | 5.00 | 2.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 6.1% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |

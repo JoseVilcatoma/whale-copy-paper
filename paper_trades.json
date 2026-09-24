@@ -155703,8 +155703,8 @@
     "title": "Chengdu Open: Moise Kouame vs Alexandre Muller",
     "outcome": "Moise Kouame",
     "side": "BUY",
-    "whale_usd": 935.46,
-    "whale_pct": 0.547,
+    "whale_usd": 2467.72138,
+    "whale_pct": 1.444,
     "whale_value_at_open": 170909.4913,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -155715,8 +155715,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790241625.0978012,
-    "fills": 1
+    "last_fill_at": 1790243371.528586,
+    "fills": 2
   },
   {
     "timestamp": 1790242466,
