@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 22:30:30 (hora de Perú)
+Actualizado: 2026-09-23 22:32:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $105.78
-**Retorno acumulado:** -78.84%
+**Bankroll actual:** $108.97
+**Retorno acumulado:** -78.21%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 22:30:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.78 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $102.86 en 22 posiciones abiertas (disponible para nuevas apuestas: $6.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,10 +30,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
+| HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 46 | 10 | 5 | +24.05 USD |
-| HMLSF | 8 | 0 | 1 | +22.16 USD |
+| UpTheBlues | 46 | 10 | 7 | +24.05 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
@@ -139,7 +139,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| Donkey14 | 7 | 8 | 1 | -9.16 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 19 | 0 | -9.60 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
@@ -148,6 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
+| Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | SDTrading | 39 | 38 | 1 | -13.56 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 1 | -143.52 USD |
-| ferrariChampions2026 | 908 | 554 | 11 | -237.26 USD |
+| ferrariChampions2026 | 909 | 554 | 10 | -234.16 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6033
-- **Aciertos:** 3810 (63.2%)
+- **Apuestas resueltas:** 6036
+- **Aciertos:** 3812 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,882.73
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $550.27 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,895.65
+- **ROI sobre lo apostado:** -1.73%
+- **Comisiones pagadas (taker fee):** $550.56 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,8 +187,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3085 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1758 | 68.7% | 67.9% | +0.8 pp |
+| 40-59% | 3086 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1760 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 848 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 342 | 97.4% | 97.4% | +0.0 pp |
 
@@ -1112,6 +1112,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1139,6 +1141,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 7.4% | ✅ ganada | +3.10 |
 | Donkey14 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 50% | 4.93 | 18.6% | ✅ ganada | +4.81 |
-| HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ⏳ pendiente | — |
-| Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 26.3% | ❌ perdida | -5.13 |
-| Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 25.1% | ⏳ pendiente | — |
+| HMLSF | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 30.8% | ✅ ganada | +3.10 |

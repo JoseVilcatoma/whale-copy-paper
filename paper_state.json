@@ -1,5 +1,5 @@
 {
-  "bankroll": 105.77669073402306,
+  "bankroll": 108.9681333569739,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31255,6 +31255,21 @@
       "timestamp": 1790218938.0427706,
       "bankroll": 105.78,
       "event": "lost: ferrariChampions2026 \u2014 New York Mets vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1790220704.483122,
+      "bankroll": 108.88,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1790220704.5832167,
+      "bankroll": 105.87,
+      "event": "lost: Donkey14 \u2014 Arizona Diamondbacks vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1790220704.6833358,
+      "bankroll": 108.97,
+      "event": "won: HMLSF \u2014 Arizona Diamondbacks vs. Colorado Rockies"
     }
   ]
 }
