@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 06:09:00 (hora de Perú)
+Actualizado: 2026-09-24 06:11:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.09
-**Retorno acumulado:** -81.58%
+**Bankroll actual:** $90.07
+**Retorno acumulado:** -81.99%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 06:09:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.05 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.04)
+**Capital comprometido ahora mismo:** $82.05 en 18 posiciones abiertas (disponible para nuevas apuestas: $8.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,17 +169,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 1 | -136.26 USD |
-| ferrariChampions2026 | 921 | 562 | 5 | -243.78 USD |
+| ferrariChampions2026 | 922 | 563 | 3 | -245.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6086
-- **Aciertos:** 3845 (63.2%)
+- **Apuestas resueltas:** 6088
+- **Aciertos:** 3846 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,130.94
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $554.36 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $30,140.94
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $554.58 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,8 +188,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3109 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1775 | 68.7% | 67.9% | +0.8 pp |
+| 40-59% | 3110 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 1776 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 854 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
 
@@ -1133,9 +1133,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 7.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ✅ ganada | +3.10 |
 | RN1 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 71% | 5.00 | 2.4% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 6.1% | ✅ ganada | +2.22 |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ✅ ganada | +0.59 |
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |
