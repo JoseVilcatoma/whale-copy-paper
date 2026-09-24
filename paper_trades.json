@@ -155995,8 +155995,8 @@
     "title": "Japan vs. Uruguay: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 657.72,
-    "whale_pct": 0.785,
+    "whale_usd": 1867.22,
+    "whale_pct": 2.227,
     "whale_value_at_open": 83838.6662,
     "paper_stake_usd": 2.62,
     "odds_at_bet": 43,
@@ -156009,7 +156009,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790246292.7091322,
-    "fills": 1
+    "last_fill_at": 1790246369.1761432,
+    "fills": 2
   }
 ]

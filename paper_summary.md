@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 05:39:12 (hora de Perú)
+Actualizado: 2026-09-24 05:41:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.05
@@ -1122,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 0.8% | ⏳ pendiente | — |
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ⏳ pendiente | — |
