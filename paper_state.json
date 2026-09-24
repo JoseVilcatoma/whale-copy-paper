@@ -1,5 +1,5 @@
 {
-  "bankroll": 107.33978112950328,
+  "bankroll": 107.53811446283662,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31240,6 +31240,11 @@
       "timestamp": 1790216725.4867117,
       "bankroll": 107.34,
       "event": "lost: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Tampa Bay Rays vs. New York Yankees"
+    },
+    {
+      "timestamp": 1790218054.5564263,
+      "bankroll": 107.54,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. New York Liberty"
     }
   ]
 }
