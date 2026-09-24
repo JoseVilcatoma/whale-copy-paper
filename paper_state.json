@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.34348291591641,
+  "bankroll": 70.62059683996705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31630,6 +31630,11 @@
       "timestamp": 1790266003.160813,
       "bankroll": 69.34,
       "event": "won: RN1 \u2014 Tolentino: Ekaterine Gorgodze vs Barbora Palicova"
+    },
+    {
+      "timestamp": 1790268071.7984102,
+      "bankroll": 70.62,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Felix Gill vs Iliyan Radulov"
     }
   ]
 }
