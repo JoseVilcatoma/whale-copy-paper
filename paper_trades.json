@@ -154834,5 +154834,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790220725.889304,
     "fills": 1
+  },
+  {
+    "timestamp": 1790220841,
+    "timestamp_added": 1790220842.0454493,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-oak-2026-09-23-spread-home-1pt5",
+    "title": "Spread: Athletics (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 1864.7343999999998,
+    "whale_pct": 0.68,
+    "whale_value_at_open": 274316.7175,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790220842.045456,
+    "fills": 1
   }
 ]
