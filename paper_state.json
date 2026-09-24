@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.6681018904721,
+  "bankroll": 73.91238760475781,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31640,6 +31640,11 @@
       "timestamp": 1790268507.5517406,
       "bankroll": 70.67,
       "event": "won: ferrariChampions2026 \u2014 Genoa 2: Jay Clarke vs Giuseppe La Vela"
+    },
+    {
+      "timestamp": 1790269389.9801078,
+      "bankroll": 73.91,
+      "event": "won: Elaran1993 \u2014 Will there be a run scored in the first inning?: St. Louis Cardinals vs. Pittsburgh Pirates"
     }
   ]
 }
