@@ -156505,8 +156505,8 @@
     "title": "St. Tropez: Andrea Guerrieri vs Jesper de Jong",
     "outcome": "Andrea Guerrieri",
     "side": "BUY",
-    "whale_usd": 28387.342514999997,
-    "whale_pct": 18.799,
+    "whale_usd": 29925.361514999997,
+    "whale_pct": 19.817,
     "whale_value_at_open": 151007.698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -156517,8 +156517,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790273973.0246472,
-    "fills": 14
+    "last_fill_at": 1790274139.6786969,
+    "fills": 15
   },
   {
     "timestamp": 1790269417,
@@ -156553,8 +156553,8 @@
     "title": "Spread: Packers (-4.5)",
     "outcome": "Packers",
     "side": "BUY",
-    "whale_usd": 4384.120000000001,
-    "whale_pct": 3.032,
+    "whale_usd": 66323.296,
+    "whale_pct": 45.865,
     "whale_value_at_open": 144603.9224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -156565,8 +156565,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790273631.1380467,
-    "fills": 2
+    "last_fill_at": 1790274181.8709297,
+    "fills": 5
   },
   {
     "timestamp": 1790273143,
