@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 01:42:29 (hora de Perú)
+Actualizado: 2026-09-24 01:44:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.09
@@ -1119,7 +1119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 15.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 59% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 17.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
