@@ -155076,8 +155076,8 @@
     "title": "Counter-Strike: The Last Resort vs Nexus (BO3) - European Pro League Series 9 Playoffs",
     "outcome": "Nexus",
     "side": "BUY",
-    "whale_usd": 1881.066,
-    "whale_pct": 26.345,
+    "whale_usd": 2490.15691,
+    "whale_pct": 34.875,
     "whale_value_at_open": 7140.2181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -155088,8 +155088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228729.9169955,
-    "fills": 2
+    "last_fill_at": 1790229693.1961243,
+    "fills": 3
   },
   {
     "timestamp": 1790228528,

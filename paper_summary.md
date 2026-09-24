@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:59:36 (hora de Perú)
+Actualizado: 2026-09-24 01:01:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.09
@@ -1123,7 +1123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 26.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 34.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 7.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 8.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
