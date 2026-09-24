@@ -156215,8 +156215,8 @@
     "title": "St. Tropez: Edas Butvilas vs Harold Mayot",
     "outcome": "Harold Mayot",
     "side": "BUY",
-    "whale_usd": 2837.43,
-    "whale_pct": 1.142,
+    "whale_usd": 3588.21,
+    "whale_pct": 1.444,
     "whale_value_at_open": 248425.612,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -156227,7 +156227,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790258385.3077173,
-    "fills": 4
+    "last_fill_at": 1790258752.793697,
+    "fills": 5
   }
 ]
