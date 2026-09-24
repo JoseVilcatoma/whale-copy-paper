@@ -1,5 +1,5 @@
 {
-  "bankroll": 117.57678112950327,
+  "bankroll": 107.33978112950328,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31230,6 +31230,16 @@
       "timestamp": 1790216536.7561722,
       "bankroll": 117.58,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1790216725.3116992,
+      "bankroll": 112.48,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1790216725.4867117,
+      "bankroll": 107.34,
+      "event": "lost: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Tampa Bay Rays vs. New York Yankees"
     }
   ]
 }

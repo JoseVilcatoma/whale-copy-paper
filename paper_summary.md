@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 21:23:25 (hora de Perú)
+Actualizado: 2026-09-23 21:25:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $117.58
-**Retorno acumulado:** -76.48%
+**Bankroll actual:** $107.34
+**Retorno acumulado:** -78.53%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 21:23:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.49 en 21 posiciones abiertas (disponible para nuevas apuestas: $19.09)
+**Capital comprometido ahora mismo:** $93.49 en 20 posiciones abiertas (disponible para nuevas apuestas: $13.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,7 +138,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
-| SDTrading | 39 | 37 | 2 | -8.42 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 19 | 0 | -9.60 USD |
@@ -149,6 +148,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
 | Donkey14 | 6 | 8 | 2 | -12.53 USD |
+| SDTrading | 39 | 38 | 1 | -13.56 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -167,19 +167,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 907 | 552 | 10 | -227.24 USD |
+|  | 130 | 89 | 1 | -143.52 USD |
+| ferrariChampions2026 | 907 | 553 | 9 | -232.33 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6028
+- **Apuestas resueltas:** 6030
 - **Aciertos:** 3808 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,857.73
-- **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $549.79 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,867.73
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $550.03 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,8 +187,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3082 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 1757 | 68.8% | 67.9% | +0.8 pp |
+| 40-59% | 3083 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1758 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 848 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |
 
@@ -1105,12 +1105,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-ari-col-2026-09-23 | Donkey14, HMLSF, ferrariChampions2026 |
 | mlb-mil-phi-2026-09-23 | Donkey14, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-23-spread-home-1pt5 | Donkey14, ferrariChampions2026 |
-| atp-comesan-aguil-2026-09-23 | RN1, UpTheBlues, ferrariChampions2026 |
+| atp-comesan-aguil-2026-09-23 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1, UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Nanao: Rion Itaya vs Kurea Hayasaka | Rion Itaya (BUY) | 74% | 3.82 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1140,4 +1141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ✅ ganada | +4.46 |
 | RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
 | RN1 | Buenos Aires 2: Facundo Mena vs Guido Ju | Facundo Mena (BUY) | 76% | 5.00 | 0.3% | ✅ ganada | +1.52 |
-| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 18.5% | ❌ perdida | -5.14 |
