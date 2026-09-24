@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 15:38:49 (hora de Perú)
+Actualizado: 2026-09-24 15:40:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $61.04
-**Retorno acumulado:** -87.79%
+**Bankroll actual:** $58.25
+**Retorno acumulado:** -88.35%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 15:38:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.37 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.67)
+**Capital comprometido ahora mismo:** $57.65 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -110,7 +110,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | HomeRunHazard | 432 | 230 | 2 | -2.68 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 67 | 1 | -2.83 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -135,6 +134,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | taylorsversion | 0 | 1 | 0 | -5.15 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 68 | 0 | -5.62 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 1 | 2 | 0 | -6.57 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6116
+- **Apuestas resueltas:** 6117
 - **Aciertos:** 3861 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,270.48
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $556.91 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,273.20
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $556.98 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3124 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3125 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1785 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 857 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 350 | 97.4% | 97.4% | +0.1 pp |
@@ -1130,7 +1130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 19.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 11.2% | ❌ perdida | -5.13 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ❌ perdida | -2.79 |
 | GoalLineGhost | Andorra vs. Malta: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
 | Elaran1993 | Will there be a run scored in the first  | Yes (BUY) | 42% | 2.40 | 23.7% | ✅ ganada | +3.24 |
 | ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
