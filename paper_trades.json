@@ -156423,5 +156423,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790265909.8399456,
     "fills": 1
+  },
+  {
+    "timestamp": 1790266189,
+    "timestamp_added": 1790266189.918938,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-and-mal-2026-09-24-total-0pt5",
+    "title": "Andorra vs. Malta: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1144.9987999999998,
+    "whale_pct": 0.525,
+    "whale_value_at_open": 218236.8024,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790266189.918949,
+    "fills": 1
   }
 ]
