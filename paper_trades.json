@@ -156181,5 +156181,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790255610.2941399,
     "fills": 1
+  },
+  {
+    "timestamp": 1790255753,
+    "timestamp_added": 1790255754.0813057,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-fnc-justpl-2026-09-24-game2",
+    "title": "Counter-Strike: fnatic vs Just Players - Map 2 Winner",
+    "outcome": "Just Players",
+    "side": "BUY",
+    "whale_usd": 670.4517,
+    "whale_pct": 0.302,
+    "whale_value_at_open": 222248.4505,
+    "paper_stake_usd": 2.38,
+    "odds_at_bet": 44,
+    "fee_usd": 0.067,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790255754.081318,
+    "fills": 1
   }
 ]
