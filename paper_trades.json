@@ -154455,5 +154455,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790214962.3392823,
     "fills": 1
+  },
+  {
+    "timestamp": 1790215128,
+    "timestamp_added": 1790215129.1446705,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "gtm-xel-ant-2026-09-23-ant",
+    "title": "Will Antigua GFC win on 2026-09-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 918.1867,
+    "whale_pct": 0.45,
+    "whale_value_at_open": 203864.1874,
+    "paper_stake_usd": 4.03,
+    "odds_at_bet": 74,
+    "fee_usd": 0.052,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790215129.1446846,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:56:55 (hora de Perú)
+Actualizado: 2026-09-23 20:58:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $104.60
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 20:56:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.57 en 21 posiciones abiertas (disponible para nuevas apuestas: $4.03)
+**Capital comprometido ahora mismo:** $104.60 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| UpTheBlues | 46 | 10 | 3 | +24.05 USD |
+| UpTheBlues | 46 | 10 | 4 | +24.05 USD |
 | HMLSF | 8 | 0 | 1 | +22.16 USD |
 | wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
@@ -1110,6 +1110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Antigua GFC win on 2026-09-23? | No (BUY) | 74% | 4.03 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. New York Liberty | Atlanta Dream (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1139,4 +1140,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ✅ ganada | +2.21 |
-| UpTheBlues | Will FK Austria Wien win on 2026-09-23? | No (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
