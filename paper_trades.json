@@ -154022,8 +154022,8 @@
     "title": "Arizona Diamondbacks vs. Colorado Rockies",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 15938.741537000002,
-    "whale_pct": 6.339,
+    "whale_usd": 19296.101537000002,
+    "whale_pct": 7.674,
     "whale_value_at_open": 251441.9322,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -154034,8 +154034,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790214013.9082966,
-    "fills": 4
+    "last_fill_at": 1790214151.627743,
+    "fills": 5
   },
   {
     "timestamp": 1790197343,
@@ -154293,8 +154293,8 @@
     "title": "Cincinnati Reds vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 5039.150458,
-    "whale_pct": 1.731,
+    "whale_usd": 6356.924975,
+    "whale_pct": 2.184,
     "whale_value_at_open": 291062.8516,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -154305,8 +154305,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790212421.5051143,
-    "fills": 2
+    "last_fill_at": 1790214264.0964828,
+    "fills": 3
   },
   {
     "timestamp": 1790208578,
