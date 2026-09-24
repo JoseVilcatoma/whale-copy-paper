@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:16:00 (hora de Perú)
+Actualizado: 2026-09-23 20:18:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $113.18
-**Retorno acumulado:** -77.36%
+**Bankroll actual:** $117.86
+**Retorno acumulado:** -76.43%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 20:16:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $111.38 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.80)
+**Capital comprometido ahora mismo:** $111.38 en 23 posiciones abiertas (disponible para nuevas apuestas: $6.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 901 | 549 | 11 | -232.95 USD |
+| ferrariChampions2026 | 902 | 549 | 11 | -228.27 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6015
-- **Aciertos:** 3800 (63.2%)
+- **Apuestas resueltas:** 6016
+- **Aciertos:** 3801 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,792.80
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $548.31 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,797.80
+- **ROI sobre lo apostado:** -1.71%
+- **Comisiones pagadas (taker fee):** $548.43 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3071 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 3072 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1756 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |
@@ -1108,6 +1108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ❌ perdida | -5.13 |
@@ -1121,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donkey14 | Milwaukee Brewers vs. Philadelphia Phill | Philadelphia Phillies (BUY) | 47% | 5.00 | 26.3% | ⏳ pendiente | — |
 | Donkey14 | Arizona Diamondbacks vs. Colorado Rockie | Colorado Rockies (BUY) | 41% | 2.92 | 25.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 5.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ✅ ganada | +4.68 |
 | Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 25.2% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ✅ ganada | +4.46 |
 | RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
@@ -1137,4 +1138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Oud-Heverlee Leuven Women win on 20 | No (BUY) | 91% | 5.00 | 0.5% | ✅ ganada | +0.47 |
 | RN1 | St. Tropez: Titouan Droguet vs Borna Goj | Titouan Droguet (BUY) | 59% | 5.00 | 8.9% | ✅ ganada | +3.37 |
 | UpTheBlues | Will Gibraltar vs. São Tomé e Príncipe e | Yes (BUY) | 42% | 2.10 | 0.2% | ✅ ganada | +2.84 |
-| RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 53% | 5.00 | 11.0% | ✅ ganada | +4.32 |
