@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 22:54:54 (hora de Perú)
+Actualizado: 2026-09-23 22:57:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $110.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 22:54:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $97.86 en 21 posiciones abiertas (disponible para nuevas apuestas: $12.85)
+**Capital comprometido ahora mismo:** $110.71 en 24 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 117 | 85 | 0 | +21.84 USD |
+| wr0ngw4yb3tt0r | 117 | 85 | 2 | +21.84 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 130 | 89 | 1 | -143.52 USD |
+|  | 130 | 89 | 2 | -143.52 USD |
 | ferrariChampions2026 | 909 | 554 | 11 | -234.16 USD |
 
 ## Análisis general
@@ -1098,7 +1098,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-dodin-malygin-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-min-sf-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
 | wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
-| mlb-hou-sea-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
+| mlb-hou-sea-2026-09-23 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-cengiz-mert-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
 | mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
@@ -1112,6 +1112,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Houston Astros vs. Seattle Mariners | Seattle Mariners (BUY) | 56% | 2.85 | 1.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 73% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1139,6 +1142,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Over (BUY) | 44% | 5.00 | 0.9% | ❌ perdida | -5.14 |
-| UpTheBlues | Buenos Aires 2: Nicolas Kicker vs Hugo D | Nicolas Kicker (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 61% | 5.00 | 7.4% | ✅ ganada | +3.10 |
-| Donkey14 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 50% | 4.93 | 18.6% | ✅ ganada | +4.81 |
