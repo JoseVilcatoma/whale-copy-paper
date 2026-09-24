@@ -155405,8 +155405,8 @@
     "title": "Singapore Open: Talia Gibson vs Viktoria Morvayova",
     "outcome": "Talia Gibson",
     "side": "BUY",
-    "whale_usd": 2523.26,
-    "whale_pct": 1.587,
+    "whale_usd": 13038.76225,
+    "whale_pct": 8.203,
     "whale_value_at_open": 158959.0239,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -155420,8 +155420,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790234132.3446822,
-    "fills": 2
+    "last_fill_at": 1790234585.0909584,
+    "fills": 3
   },
   {
     "timestamp": 1790234265,
