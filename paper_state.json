@@ -1,5 +1,5 @@
 {
-  "bankroll": 84.59362699884436,
+  "bankroll": 79.42818255439991,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31440,6 +31440,31 @@
       "timestamp": 1790237287.6159084,
       "bankroll": 84.59,
       "event": "lost: ferrariChampions2026 \u2014 Korea Open: Yeon-Woo Ku vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790239505.1887226,
+      "bankroll": 90.57,
+      "event": "won: UpTheBlues \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
+    },
+    {
+      "timestamp": 1790239505.658536,
+      "bankroll": 94.68,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
+    },
+    {
+      "timestamp": 1790239505.858974,
+      "bankroll": 89.58,
+      "event": "lost: RN1 \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
+    },
+    {
+      "timestamp": 1790239506.3706725,
+      "bankroll": 84.5,
+      "event": "lost: ferrariChampions2026 \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
+    },
+    {
+      "timestamp": 1790239506.5709944,
+      "bankroll": 79.43,
+      "event": "lost: UpTheBlues \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
     }
   ]
 }
