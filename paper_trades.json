@@ -155002,8 +155002,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 1448.7562,
-    "whale_pct": 1.547,
+    "whale_usd": 10012.7727,
+    "whale_pct": 10.693,
     "whale_value_at_open": 93635.8259,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -155014,8 +155014,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228167.7188215,
-    "fills": 1
+    "last_fill_at": 1790231376.6529422,
+    "fills": 3
   },
   {
     "timestamp": 1790228224,
@@ -155026,8 +155026,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 19142.754914,
-    "whale_pct": 13.615,
+    "whale_usd": 19856.554914,
+    "whale_pct": 14.122,
     "whale_value_at_open": 140603.2494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -155040,8 +155040,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790231215.2228796,
-    "fills": 5
+    "last_fill_at": 1790231374.4634418,
+    "fills": 6
   },
   {
     "timestamp": 1790228327,
@@ -155229,8 +155229,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Terence Atmane",
     "side": "BUY",
-    "whale_usd": 7081.215199,
-    "whale_pct": 4.771,
+    "whale_usd": 7940.424199,
+    "whale_pct": 5.35,
     "whale_value_at_open": 148409.0484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -155244,8 +155244,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790230468.5687892,
-    "fills": 2
+    "last_fill_at": 1790231344.7465818,
+    "fills": 3
   },
   {
     "timestamp": 1790228956,
