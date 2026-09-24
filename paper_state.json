@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.86036925817268,
+  "bankroll": 92.04728944596611,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31505,6 +31505,16 @@
       "timestamp": 1790243742.7639701,
       "bankroll": 87.86,
       "event": "won: UpTheBlues \u2014 Singapore Open: Xinyu Wang vs Joanna Garland"
+    },
+    {
+      "timestamp": 1790245519.336793,
+      "bankroll": 90.08,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Yunchaokete Bu vs Michael Zheng"
+    },
+    {
+      "timestamp": 1790245519.5371294,
+      "bankroll": 92.05,
+      "event": "won: RN1 \u2014 Hangzhou Open: Yunchaokete Bu vs Michael Zheng"
     }
   ]
 }
