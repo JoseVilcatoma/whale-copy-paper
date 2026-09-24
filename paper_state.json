@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.37205427142447,
+  "bankroll": 65.26005427142448,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31655,6 +31655,11 @@
       "timestamp": 1790273023.5727425,
       "bankroll": 70.37,
       "event": "won: lllllllIlll \u2014 Counter-Strike: CYBERSHOKE Esports vs K27 (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1790277084.492306,
+      "bankroll": 65.26,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Andrea Guerrieri vs Jesper de Jong"
     }
   ]
 }
