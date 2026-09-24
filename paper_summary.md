@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 23:44:19 (hora de Perú)
+Actualizado: 2026-09-23 23:46:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $107.94
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 23:44:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $101.89 en 22 posiciones abiertas (disponible para nuevas apuestas: $6.05)
+**Capital comprometido ahora mismo:** $106.89 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 2 | -143.52 USD |
-| ferrariChampions2026 | 911 | 555 | 8 | -236.94 USD |
+| ferrariChampions2026 | 911 | 555 | 9 | -236.94 USD |
 
 ## Análisis general
 
@@ -1108,11 +1108,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-atl-2026-09-23-spread-home-1pt5 | Donkey14, ferrariChampions2026 |
 | atp-faria-atmane-2026-09-22 | UpTheBlues, ferrariChampions2026 |
 | atp-comesan-aguil-2026-09-23 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1, UpTheBlues, ferrariChampions2026 |
+| mlb-sd-lad-2026-09-23 | ferrariChampions2026, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | taylorsversion | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Houston Astros vs. Seattle Mariners | Seattle Mariners (BUY) | 56% | 2.85 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1142,4 +1144,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 6.0% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ❌ perdida | -5.13 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
