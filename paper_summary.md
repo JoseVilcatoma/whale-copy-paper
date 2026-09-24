@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 10:33:25 (hora de Perú)
+Actualizado: 2026-09-24 10:35:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $68.76
-**Retorno acumulado:** -86.25%
+**Bankroll actual:** $64.38
+**Retorno acumulado:** -87.12%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 10:33:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.71 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.05)
+**Capital comprometido ahora mismo:** $58.71 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 672 | 322 | 3 | -37.08 USD |
+| RN1 | 673 | 323 | 1 | -41.46 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -173,14 +173,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6104
-- **Aciertos:** 3853 (63.1%)
+- **Apuestas resueltas:** 6106
+- **Aciertos:** 3854 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,213.59
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $556.00 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,223.59
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $556.13 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3120 | 49.8% | 50.1% | -0.2 pp |
-| 60-79% | 1780 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 855 | 85.7% | 86.6% | -0.9 pp |
+| 60-79% | 1781 | 68.8% | 67.9% | +0.9 pp |
+| 80-94% | 856 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 349 | 97.4% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1129,9 +1129,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
 | RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ❌ perdida | -2.45 |
-| RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | lllllllIlll | Counter-Strike: paiN vs Bounty Hunters E | paiN (BUY) | 66% | 4.49 | 1.5% | ⏳ pendiente | — |
-| RN1 | China PR vs. Maldives: O/U 2.5 | Over (BUY) | 87% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | China PR vs. Maldives: O/U 2.5 | Over (BUY) | 87% | 5.00 | 2.2% | ✅ ganada | +0.71 |
 | RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 5.0% | ✅ ganada | +2.51 |
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 18.4% | ❌ perdida | -5.01 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 68.76182617610449,
+  "bankroll": 64.3839526128861,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31610,6 +31610,16 @@
       "timestamp": 1790261559.5157726,
       "bankroll": 68.76,
       "event": "won: RN1 \u2014 Chengdu Open: Juan Manuel Cerundolo vs Yi Zhou"
+    },
+    {
+      "timestamp": 1790264060.66304,
+      "bankroll": 69.48,
+      "event": "won: RN1 \u2014 China PR vs. Maldives: O/U 2.5"
+    },
+    {
+      "timestamp": 1790264061.0473428,
+      "bankroll": 64.38,
+      "event": "lost: RN1 \u2014 China PR vs. Maldives: O/U 3.5"
     }
   ]
 }
