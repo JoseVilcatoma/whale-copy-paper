@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:01:00 (hora de Perú)
+Actualizado: 2026-09-24 02:03:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 02:01:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.62 en 15 posiciones abiertas (disponible para nuevas apuestas: $16.97)
+**Capital comprometido ahora mismo:** $85.62 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| UpTheBlues | 50 | 11 | 3 | +21.79 USD |
+| UpTheBlues | 50 | 11 | 6 | +21.79 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
@@ -1111,11 +1111,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-lad-2026-09-23 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-ku-ruse-2026-09-23 | RN1, ferrariChampions2026 |
 | wta-bondar-charaev-2026-09-23 | RN1, ferrariChampions2026 |
+| wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 1.3% | ⏳ pendiente | — |
+| UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 3.2% | ⏳ pendiente | — |
@@ -1143,6 +1147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ❌ perdida | -3.94 |
 | ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ✅ ganada | +1.97 |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ✅ ganada | +1.28 |
-| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ✅ ganada | +5.08 |
-| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
-| ferrariChampions2026 | W50 Nanao: Rion Itaya vs Kurea Hayasaka | Rion Itaya (BUY) | 74% | 3.82 | 0.9% | ✅ ganada | +1.29 |
