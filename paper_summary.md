@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:50:47 (hora de Perú)
+Actualizado: 2026-09-23 20:52:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $105.57
@@ -1115,7 +1115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 16.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ❌ perdida | -5.13 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |

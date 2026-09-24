@@ -154293,8 +154293,8 @@
     "title": "Cincinnati Reds vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 6356.924975,
-    "whale_pct": 2.184,
+    "whale_usd": 17336.864374999997,
+    "whale_pct": 5.956,
     "whale_value_at_open": 291062.8516,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -154305,8 +154305,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790214264.0964828,
-    "fills": 3
+    "last_fill_at": 1790214736.9003682,
+    "fills": 4
   },
   {
     "timestamp": 1790208578,
