@@ -1,5 +1,5 @@
 {
-  "bankroll": 87.5942330020054,
+  "bankroll": 89.19889966867206,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31400,6 +31400,11 @@
       "timestamp": 1790233259.9740744,
       "bankroll": 87.59,
       "event": "lost: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Alina Charaeva"
+    },
+    {
+      "timestamp": 1790233953.3080301,
+      "bankroll": 89.2,
+      "event": "won: UpTheBlues \u2014 Hangzhou Open: Sho Shimabukuro vs Hugo Gaston"
     }
   ]
 }

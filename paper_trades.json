@@ -154746,8 +154746,8 @@
     "title": "Chengdu Open: Tallon Griekspoor vs Denis Shapovalov",
     "outcome": "Tallon Griekspoor",
     "side": "BUY",
-    "whale_usd": 3301.7593,
-    "whale_pct": 1.168,
+    "whale_usd": 3966.7593,
+    "whale_pct": 1.404,
     "whale_value_at_open": 282618.4562,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -154758,8 +154758,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790218862.9120343,
-    "fills": 1
+    "last_fill_at": 1790233905.2696955,
+    "fills": 2
   },
   {
     "timestamp": 1790219439,
@@ -155287,8 +155287,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
