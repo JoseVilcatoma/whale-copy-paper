@@ -1,5 +1,5 @@
 {
-  "bankroll": 105.59239516423571,
+  "bankroll": 106.64495613984546,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31285,6 +31285,11 @@
       "timestamp": 1790223227.8341088,
       "bankroll": 105.59,
       "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1790224487.1978004,
+      "bankroll": 106.64,
+      "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Jia-Jing Lu vs Tiana Tian Deng"
     }
   ]
 }
