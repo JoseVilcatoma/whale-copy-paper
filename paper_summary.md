@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:15:10 (hora de Perú)
+Actualizado: 2026-09-24 02:17:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.20
@@ -1117,7 +1117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
