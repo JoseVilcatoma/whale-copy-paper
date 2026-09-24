@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 08:59:16 (hora de Perú)
+Actualizado: 2026-09-24 09:01:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $82.08
@@ -1122,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
+| UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ⏳ pendiente | — |
 | RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | lllllllIlll | Counter-Strike: paiN vs Bounty Hunters E | paiN (BUY) | 66% | 4.49 | 1.5% | ⏳ pendiente | — |
