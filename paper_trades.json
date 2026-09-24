@@ -154317,8 +154317,8 @@
     "title": "Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar",
     "outcome": "Francisco Comesana",
     "side": "BUY",
-    "whale_usd": 2146.2,
-    "whale_pct": 8.731,
+    "whale_usd": 3115.203967,
+    "whale_pct": 12.673,
     "whale_value_at_open": 24580.4908,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -154329,8 +154329,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790208587.182592,
-    "fills": 3
+    "last_fill_at": 1790213199.8135786,
+    "fills": 4
   },
   {
     "timestamp": 1790212660,
