@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.62098291591641,
+  "bankroll": 69.34348291591641,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31625,6 +31625,11 @@
       "timestamp": 1790265064.4689057,
       "bankroll": 66.62,
       "event": "won: lllllllIlll \u2014 Counter-Strike: paiN vs Bounty Hunters Esports (BO3) - FERJEE In House Group A"
+    },
+    {
+      "timestamp": 1790266003.160813,
+      "bankroll": 69.34,
+      "event": "won: RN1 \u2014 Tolentino: Ekaterine Gorgodze vs Barbora Palicova"
     }
   ]
 }
