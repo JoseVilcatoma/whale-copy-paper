@@ -155480,8 +155480,8 @@
     "title": "Chengdu Open: James Duckworth vs Lorenzo Sonego",
     "outcome": "Lorenzo Sonego",
     "side": "BUY",
-    "whale_usd": 1013.7848,
-    "whale_pct": 1.268,
+    "whale_usd": 1940.587559,
+    "whale_pct": 2.428,
     "whale_value_at_open": 79921.1547,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -155492,8 +155492,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790236854.813911,
-    "fills": 1
+    "last_fill_at": 1790239990.6362915,
+    "fills": 2
   },
   {
     "timestamp": 1790237012,
