@@ -154307,5 +154307,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790207009.5940208,
     "fills": 1
+  },
+  {
+    "timestamp": 1790208578,
+    "timestamp_added": 1790208579.1404102,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-comesan-aguil-2026-09-23",
+    "title": "Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar",
+    "outcome": "Francisco Comesana",
+    "side": "BUY",
+    "whale_usd": 2146.2,
+    "whale_pct": 8.731,
+    "whale_value_at_open": 24580.4908,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790208587.182592,
+    "fills": 3
   }
 ]
