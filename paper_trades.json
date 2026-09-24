@@ -156481,8 +156481,8 @@
     "title": "St. Louis Cardinals vs. Pittsburgh Pirates",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 17049.2697,
-    "whale_pct": 9.482,
+    "whale_usd": 20056.383700000002,
+    "whale_pct": 11.154,
     "whale_value_at_open": 179812.8029,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -156493,8 +156493,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790275435.6082811,
-    "fills": 5
+    "last_fill_at": 1790276304.1483333,
+    "fills": 6
   },
   {
     "timestamp": 1790268515,
