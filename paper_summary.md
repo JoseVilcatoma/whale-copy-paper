@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:15:30 (hora de Perú)
+Actualizado: 2026-09-24 09:17:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.21
@@ -1122,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ⏳ pendiente | — |

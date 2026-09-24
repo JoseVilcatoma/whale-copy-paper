@@ -156263,8 +156263,8 @@
     "title": "Chengdu Open: Juan Manuel Cerundolo vs Yi Zhou",
     "outcome": "Juan Manuel Cerundolo",
     "side": "BUY",
-    "whale_usd": 3097.894738,
-    "whale_pct": 1.355,
+    "whale_usd": 3631.903108,
+    "whale_pct": 1.589,
     "whale_value_at_open": 228557.6635,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -156275,7 +156275,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790259077.097626,
-    "fills": 2
+    "last_fill_at": 1790259399.4874523,
+    "fills": 3
   }
 ]
