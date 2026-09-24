@@ -155026,8 +155026,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 3075.4620000000004,
-    "whale_pct": 2.187,
+    "whale_usd": 4564.68,
+    "whale_pct": 3.246,
     "whale_value_at_open": 140603.2494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -155040,8 +155040,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228224.5550923,
-    "fills": 1
+    "last_fill_at": 1790228618.809958,
+    "fills": 2
   },
   {
     "timestamp": 1790228327,
@@ -155116,5 +155116,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790228529.0331342,
     "fills": 1
+  },
+  {
+    "timestamp": 1790228608,
+    "timestamp_added": 1790228608.840352,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-faria-atmane-2026-09-22",
+    "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
+    "outcome": "Terence Atmane",
+    "side": "BUY",
+    "whale_usd": 2250.9,
+    "whale_pct": 3.62,
+    "whale_value_at_open": 62180.178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790228618.0048835,
+    "fills": 2
   }
 ]

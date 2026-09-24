@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:43:18 (hora de Perú)
+Actualizado: 2026-09-24 00:45:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $105.00
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 00:43:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $76.85 en 17 posiciones abiertas (disponible para nuevas apuestas: $28.15)
+**Capital comprometido ahora mismo:** $81.85 en 18 posiciones abiertas (disponible para nuevas apuestas: $23.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 661 | 312 | 2 | -20.22 USD |
+| RN1 | 661 | 312 | 3 | -20.22 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -1106,7 +1106,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-ari-col-2026-09-23 | Donkey14, HMLSF, ferrariChampions2026 |
 | mlb-mil-phi-2026-09-23 | Donkey14, ferrariChampions2026 |
 | mlb-cin-atl-2026-09-23-spread-home-1pt5 | Donkey14, ferrariChampions2026 |
-| atp-faria-atmane-2026-09-22 | UpTheBlues, ferrariChampions2026 |
+| atp-faria-atmane-2026-09-22 | RN1, UpTheBlues, ferrariChampions2026 |
 | atp-comesan-aguil-2026-09-23 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1, UpTheBlues, ferrariChampions2026 |
 | mlb-sd-lad-2026-09-23 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-ku-ruse-2026-09-23 | RN1, ferrariChampions2026 |
@@ -1116,10 +1116,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 16.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 4.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
 | taylorsversion | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
@@ -1145,4 +1146,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ❌ perdida | -4.25 |
 | ferrariChampions2026 | Atlanta Dream vs. New York Liberty | Atlanta Dream (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
