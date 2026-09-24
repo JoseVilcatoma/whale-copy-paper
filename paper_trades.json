@@ -155203,8 +155203,8 @@
     "title": "Korea Open: Anna Bondar vs Alina Charaeva",
     "outcome": "Alina Charaeva",
     "side": "BUY",
-    "whale_usd": 2887.4777999999997,
-    "whale_pct": 1.946,
+    "whale_usd": 3464.4013999999997,
+    "whale_pct": 2.334,
     "whale_value_at_open": 148409.0484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -155217,8 +155217,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228925.0099323,
-    "fills": 1
+    "last_fill_at": 1790229853.6333027,
+    "fills": 2
   },
   {
     "timestamp": 1790228935,
@@ -155293,6 +155293,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790229814.9806452,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790229928,
+    "timestamp_added": 1790229929.3215206,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-gibson-morvayo-2026-09-23",
+    "title": "Singapore Open: Talia Gibson vs Viktoria Morvayova",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "whale_usd": 1320.135,
+    "whale_pct": 1.78,
+    "whale_value_at_open": 74146.4167,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790229929.3215334,
     "fills": 1
   }
 ]
