@@ -155777,8 +155777,8 @@
     "title": "Chengdu Open: Juncheng Shang vs Adrian Mannarino",
     "outcome": "Juncheng Shang",
     "side": "BUY",
-    "whale_usd": 4972.552,
-    "whale_pct": 6.494,
+    "whale_usd": 5986.647199999999,
+    "whale_pct": 7.818,
     "whale_value_at_open": 76573.1951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -155789,8 +155789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790242734.0721967,
-    "fills": 2
+    "last_fill_at": 1790244097.340637,
+    "fills": 3
   },
   {
     "timestamp": 1790242732,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:59:56 (hora de Perú)
+Actualizado: 2026-09-24 05:02:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.86
@@ -1126,7 +1126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 71% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
