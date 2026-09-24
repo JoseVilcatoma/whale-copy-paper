@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.56953435891641,
+  "bankroll": 82.07598597181963,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31565,6 +31565,11 @@
       "timestamp": 1790256236.3611114,
       "bankroll": 79.57,
       "event": "lost: RN1 \u2014 Tolentino: Alice Tubello vs Julia Grabher"
+    },
+    {
+      "timestamp": 1790257047.153243,
+      "bankroll": 82.08,
+      "event": "won: RN1 \u2014 Hangzhou Open: Jie Cui vs Adolfo Vallejo"
     }
   ]
 }

@@ -156047,8 +156047,8 @@
     "title": "Singapore Open: Tatiana Prozorova vs Alexandra Eala",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 14941.007739,
-    "whale_pct": 13.699,
+    "whale_usd": 20109.466521000002,
+    "whale_pct": 18.437,
     "whale_value_at_open": 109068.8282,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -156059,8 +156059,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790256965.5312898,
-    "fills": 8
+    "last_fill_at": 1790257014.2543268,
+    "fills": 9
   },
   {
     "timestamp": 1790251517,
@@ -156102,8 +156102,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.08,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.51,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -156205,5 +156205,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790255754.081318,
     "fills": 1
+  },
+  {
+    "timestamp": 1790257047,
+    "timestamp_added": 1790257047.616563,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-butvila-mayot-2026-09-24",
+    "title": "St. Tropez: Edas Butvilas vs Harold Mayot",
+    "outcome": "Harold Mayot",
+    "side": "BUY",
+    "whale_usd": 1212.6,
+    "whale_pct": 0.488,
+    "whale_value_at_open": 248425.612,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790257090.6304507,
+    "fills": 2
   }
 ]
