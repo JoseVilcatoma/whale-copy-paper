@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.62059683996705,
+  "bankroll": 70.6681018904721,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31635,6 +31635,11 @@
       "timestamp": 1790268071.7984102,
       "bankroll": 70.62,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 4: Felix Gill vs Iliyan Radulov"
+    },
+    {
+      "timestamp": 1790268507.5517406,
+      "bankroll": 70.67,
+      "event": "won: ferrariChampions2026 \u2014 Genoa 2: Jay Clarke vs Giuseppe La Vela"
     }
   ]
 }
