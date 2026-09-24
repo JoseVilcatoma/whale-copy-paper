@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 13:01:02 (hora de Perú)
+Actualizado: 2026-09-24 13:03:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.91
@@ -1124,7 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 11.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 15.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ⏳ pendiente | — |
 | GoalLineGhost | Andorra vs. Malta: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
