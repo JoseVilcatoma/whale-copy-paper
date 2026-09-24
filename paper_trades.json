@@ -154130,8 +154130,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.123,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.81,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -154372,8 +154372,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [
       "Donkey14"
     ],
@@ -154576,6 +154576,33 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790216222.6288824,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790216442,
+    "timestamp_added": 1790216442.7314286,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-comesan-aguil-2026-09-23",
+    "title": "Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar",
+    "outcome": "Joaquin Aguilar",
+    "side": "BUY",
+    "whale_usd": 815.8490630000001,
+    "whale_pct": 0.322,
+    "whale_value_at_open": 253217.7443,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790216442.7314403,
     "fills": 1
   }
 ]

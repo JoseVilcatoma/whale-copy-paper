@@ -1,5 +1,5 @@
 {
-  "bankroll": 108.41710847277466,
+  "bankroll": 114.20520485831683,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31215,6 +31215,16 @@
       "timestamp": 1790215779.3981614,
       "bankroll": 108.42,
       "event": "lost: Donkey14 \u2014 Cleveland Guardians vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1790216409.321993,
+      "bankroll": 113.22,
+      "event": "won: Donkey14 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1790216409.8740494,
+      "bankroll": 114.21,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
     }
   ]
 }
