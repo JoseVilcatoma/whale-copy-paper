@@ -1,5 +1,5 @@
 {
-  "bankroll": 89.19889966867206,
+  "bankroll": 91.81023300200539,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31405,6 +31405,11 @@
       "timestamp": 1790233953.3080301,
       "bankroll": 89.2,
       "event": "won: UpTheBlues \u2014 Hangzhou Open: Sho Shimabukuro vs Hugo Gaston"
+    },
+    {
+      "timestamp": 1790235262.4499183,
+      "bankroll": 91.81,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Dane Sweeny vs Taro Daniel"
     }
   ]
 }

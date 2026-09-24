@@ -154770,8 +154770,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 7253.710734,
-    "whale_pct": 2.604,
+    "whale_usd": 13945.154958000001,
+    "whale_pct": 5.007,
     "whale_value_at_open": 278524.7481,
     "paper_stake_usd": 3.44,
     "odds_at_bet": 45,
@@ -154784,8 +154784,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790235164.0151927,
-    "fills": 7
+    "last_fill_at": 1790235326.159516,
+    "fills": 13
   },
   {
     "timestamp": 1790220723,
@@ -155126,8 +155126,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Terence Atmane",
     "side": "BUY",
-    "whale_usd": 3347.9991,
-    "whale_pct": 5.384,
+    "whale_usd": 4746.8554,
+    "whale_pct": 7.634,
     "whale_value_at_open": 62180.178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -155141,8 +155141,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790234087.729507,
-    "fills": 3
+    "last_fill_at": 1790235326.1176045,
+    "fills": 4
   },
   {
     "timestamp": 1790228737,
@@ -155263,8 +155263,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.072,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -155378,8 +155378,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Terence Atmane",
     "side": "BUY",
-    "whale_usd": 1086.87,
-    "whale_pct": 0.519,
+    "whale_usd": 1676.25,
+    "whale_pct": 0.801,
     "whale_value_at_open": 209363.8519,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -155393,8 +155393,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790233395.1884274,
-    "fills": 2
+    "last_fill_at": 1790235326.1323314,
+    "fills": 3
   },
   {
     "timestamp": 1790234086,
@@ -155445,6 +155445,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790234266.4428234,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790235278,
+    "timestamp_added": 1790235279.7396452,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "col1-atn-mif-2026-09-24-atn",
+    "title": "Will Atl\u00e9tico Nacional win on 2026-09-24?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 937.7684999999999,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 186461.646,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790235279.7396631,
     "fills": 1
   }
 ]
