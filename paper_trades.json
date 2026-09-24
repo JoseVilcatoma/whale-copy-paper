@@ -156277,5 +156277,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790259399.4874523,
     "fills": 3
+  },
+  {
+    "timestamp": 1790261179,
+    "timestamp_added": 1790261180.145073,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-ind-min-2026-09-24-spread-away-3pt5",
+    "title": "Spread: Indiana Fever (-3.5)",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "whale_usd": 1277.2268,
+    "whale_pct": 1.015,
+    "whale_value_at_open": 125847.2676,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790261180.1450844,
+    "fills": 1
   }
 ]

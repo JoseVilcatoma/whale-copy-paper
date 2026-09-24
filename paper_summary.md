@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:46:17 (hora de Perú)
+Actualizado: 2026-09-24 09:48:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $68.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 09:46:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.49 en 13 posiciones abiertas (disponible para nuevas apuestas: $8.22)
+**Capital comprometido ahora mismo:** $65.49 en 14 posiciones abiertas (disponible para nuevas apuestas: $3.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
-| ferrariChampions2026 | 922 | 564 | 2 | -250.92 USD |
+| ferrariChampions2026 | 922 | 564 | 3 | -250.92 USD |
 
 ## Análisis general
 
@@ -1122,6 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
@@ -1151,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
