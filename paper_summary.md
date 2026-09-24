@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:13:09 (hora de Perú)
+Actualizado: 2026-09-24 02:15:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $89.20
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 02:13:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.62 en 17 posiciones abiertas (disponible para nuevas apuestas: $8.58)
+**Capital comprometido ahora mismo:** $85.62 en 18 posiciones abiertas (disponible para nuevas apuestas: $3.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 915 | 559 | 6 | -243.33 USD |
+| ferrariChampions2026 | 915 | 559 | 7 | -243.33 USD |
 
 ## Análisis general
 
@@ -1111,12 +1111,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-lad-2026-09-23 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-ku-ruse-2026-09-23 | RN1, ferrariChampions2026 |
 | wta-bondar-charaev-2026-09-23 | RN1, ferrariChampions2026 |
-| wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues |
+| wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -1127,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 59% | 5.00 | 2.9% | ❌ perdida | -5.10 |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 17.2% | ❌ perdida | -5.11 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 2.1% | ✅ ganada | +3.82 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 34.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 8.5% | ✅ ganada | +3.89 |
@@ -1146,4 +1147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ❌ perdida | -3.94 |
 | ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ✅ ganada | +1.97 |
-| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ✅ ganada | +1.28 |

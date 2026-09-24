@@ -155126,8 +155126,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Terence Atmane",
     "side": "BUY",
-    "whale_usd": 2250.9,
-    "whale_pct": 3.62,
+    "whale_usd": 3347.9991,
+    "whale_pct": 5.384,
     "whale_value_at_open": 62180.178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -155141,8 +155141,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228618.0048835,
-    "fills": 2
+    "last_fill_at": 1790234087.729507,
+    "fills": 3
   },
   {
     "timestamp": 1790228737,
@@ -155395,5 +155395,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790233395.1884274,
     "fills": 2
+  },
+  {
+    "timestamp": 1790234086,
+    "timestamp_added": 1790234087.169109,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-gibson-morvayo-2026-09-23",
+    "title": "Singapore Open: Talia Gibson vs Viktoria Morvayova",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "whale_usd": 1129.26,
+    "whale_pct": 0.71,
+    "whale_value_at_open": 158959.0239,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790234087.1691222,
+    "fills": 1
   }
 ]
