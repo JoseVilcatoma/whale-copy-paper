@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 07:05:24 (hora de Perú)
+Actualizado: 2026-09-24 07:07:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.84
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 07:05:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $73.62 en 16 posiciones abiertas (disponible para nuevas apuestas: $4.22)
+**Capital comprometido ahora mismo:** $77.84 en 17 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,7 +161,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 668 | 317 | 6 | -28.79 USD |
+| RN1 | 668 | 317 | 7 | -28.79 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -1122,7 +1122,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 1.7% | ⏳ pendiente | — |
+| RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
@@ -1151,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 62% | 3.58 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 89% | 5.00 | 8.2% | ✅ ganada | +0.59 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 71% | 5.00 | 0.8% | ❌ perdida | -5.07 |
-| UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
