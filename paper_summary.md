@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 13:03:02 (hora de Perú)
+Actualizado: 2026-09-24 13:05:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $73.91
-**Retorno acumulado:** -85.22%
+**Bankroll actual:** $70.37
+**Retorno acumulado:** -85.93%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 13:03:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.94 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.97)
+**Capital comprometido ahora mismo:** $66.94 en 15 posiciones abiertas (disponible para nuevas apuestas: $3.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| lllllllIlll | 5 | 1 | 0 | +11.25 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 22 | 14 | 0 | +10.74 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| lllllllIlll | 4 | 1 | 1 | +9.65 USD |
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
 | ripley86alien | 4 | 1 | 0 | +9.22 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -73,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 |  | 2 | 0 | 0 | +2.66 USD |
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 66 | 2 | +2.31 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -94,6 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| ratatatatatatatataaaa | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -110,6 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | HomeRunHazard | 432 | 230 | 2 | -2.68 USD |
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 67 | 1 | -2.83 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
@@ -173,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6111
-- **Aciertos:** 3859 (63.1%)
+- **Apuestas resueltas:** 6113
+- **Aciertos:** 3860 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,245.48
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $556.42 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,255.48
+- **ROI sobre lo apostado:** -1.84%
+- **Comisiones pagadas (taker fee):** $556.63 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3121 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1784 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 3122 | 49.8% | 50.1% | -0.2 pp |
+| 60-79% | 1785 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 856 | 85.7% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 350 | 97.4% | 97.4% | +0.1 pp |
 
@@ -1123,14 +1124,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ratatatatatatatataaaa | Spread: Packers (-4.5) | Packers (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 15.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 15.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ⏳ pendiente | — |
 | GoalLineGhost | Andorra vs. Malta: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Elaran1993 | Will there be a run scored in the first  | Yes (BUY) | 42% | 2.40 | 23.7% | ✅ ganada | +3.24 |
 | ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ⏳ pendiente | — |
+| lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1152,4 +1154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ✅ ganada | +1.52 |
-| RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ❌ perdida | -5.13 |

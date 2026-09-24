@@ -1,5 +1,5 @@
 {
-  "bankroll": 73.91238760475781,
+  "bankroll": 70.37205427142447,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31645,6 +31645,16 @@
       "timestamp": 1790269389.9801078,
       "bankroll": 73.91,
       "event": "won: Elaran1993 \u2014 Will there be a run scored in the first inning?: St. Louis Cardinals vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1790273020.5921416,
+      "bankroll": 68.77,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: CYBERSHOKE Esports vs K27 (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1790273023.5727425,
+      "bankroll": 70.37,
+      "event": "won: lllllllIlll \u2014 Counter-Strike: CYBERSHOKE Esports vs K27 (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs"
     }
   ]
 }
