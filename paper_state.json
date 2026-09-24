@@ -1,5 +1,5 @@
 {
-  "bankroll": 118.30560984218445,
+  "bankroll": 113.17760984218445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31160,6 +31160,11 @@
       "timestamp": 1790208207.9413373,
       "bankroll": 118.31,
       "event": "won: RN1 \u2014 Counter-Strike: Luminosity vs 3DMAX (BO5) - Logitech G Play Connect Playoffs"
+    },
+    {
+      "timestamp": 1790209595.2569132,
+      "bankroll": 113.18,
+      "event": "lost: ferrariChampions2026 \u2014 Tampa Bay Rays vs. New York Yankees: O/U 6.5"
     }
   ]
 }

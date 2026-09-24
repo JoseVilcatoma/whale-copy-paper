@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 19:24:39 (hora de Perú)
+Actualizado: 2026-09-23 19:26:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $118.31
-**Retorno acumulado:** -76.34%
+**Bankroll actual:** $113.18
+**Retorno acumulado:** -77.36%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 19:24:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $116.38 en 24 posiciones abiertas (disponible para nuevas apuestas: $1.93)
+**Capital comprometido ahora mismo:** $111.38 en 23 posiciones abiertas (disponible para nuevas apuestas: $1.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 901 | 548 | 12 | -227.82 USD |
+| ferrariChampions2026 | 901 | 549 | 11 | -232.95 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6014
+- **Apuestas resueltas:** 6015
 - **Aciertos:** 3800 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,787.80
-- **ROI sobre lo apostado:** -1.71%
-- **Comisiones pagadas (taker fee):** $548.18 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,792.80
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $548.31 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3070 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 3071 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1756 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |
@@ -1110,7 +1110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. Atlanta Braves | Atlanta Braves (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 12.3% | ❌ perdida | -5.13 |
 | UpTheBlues | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs S | Sofia Elena Cabezas Dominguez (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Philadelphia Phill | Over (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
