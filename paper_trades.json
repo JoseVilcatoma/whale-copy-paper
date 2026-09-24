@@ -154760,5 +154760,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790218862.9120343,
     "fills": 1
+  },
+  {
+    "timestamp": 1790219439,
+    "timestamp_added": 1790219439.7144384,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-faria-atmane-2026-09-22",
+    "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "whale_usd": 2069.7083,
+    "whale_pct": 0.743,
+    "whale_value_at_open": 278524.7481,
+    "paper_stake_usd": 3.44,
+    "odds_at_bet": 45,
+    "fee_usd": 0.095,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790219439.7144504,
+    "fills": 1
   }
 ]
