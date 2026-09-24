@@ -1,5 +1,5 @@
 {
-  "bankroll": 114.20520485831683,
+  "bankroll": 117.57678112950327,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31225,6 +31225,11 @@
       "timestamp": 1790216409.8740494,
       "bankroll": 114.21,
       "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1790216536.7561722,
+      "bankroll": 117.58,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Atlanta Braves"
     }
   ]
 }
