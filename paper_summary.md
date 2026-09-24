@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 07:33:51 (hora de Perú)
+Actualizado: 2026-09-24 07:35:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.84
@@ -1124,7 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 2.1% | ⏳ pendiente | — |
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 3.1% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 9.1% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
