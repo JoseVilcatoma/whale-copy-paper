@@ -1,5 +1,5 @@
 {
-  "bankroll": 68.71432112559944,
+  "bankroll": 68.76182617610449,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31605,6 +31605,11 @@
       "timestamp": 1790260809.9836776,
       "bankroll": 68.71,
       "event": "won: UpTheBlues \u2014 St. Tropez: Edas Butvilas vs Harold Mayot"
+    },
+    {
+      "timestamp": 1790261559.5157726,
+      "bankroll": 68.76,
+      "event": "won: RN1 \u2014 Chengdu Open: Juan Manuel Cerundolo vs Yi Zhou"
     }
   ]
 }
