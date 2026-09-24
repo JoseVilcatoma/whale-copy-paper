@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:09:25 (hora de Perú)
+Actualizado: 2026-09-24 09:11:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.08
-**Retorno acumulado:** -83.58%
+**Bankroll actual:** $74.21
+**Retorno acumulado:** -85.16%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 09:09:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.49 en 18 posiciones abiertas (disponible para nuevas apuestas: $1.59)
+**Capital comprometido ahora mismo:** $72.87 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -161,26 +161,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 670 | 318 | 7 | -26.92 USD |
+| RN1 | 671 | 320 | 6 | -29.67 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 132 | 89 | 1 | -136.26 USD |
+|  | 132 | 90 | 0 | -141.38 USD |
 | ferrariChampions2026 | 922 | 564 | 2 | -250.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6096
-- **Aciertos:** 3850 (63.2%)
+- **Apuestas resueltas:** 6100
+- **Aciertos:** 3851 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,178.59
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $555.39 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,196.21
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $555.85 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3115 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3119 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1779 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 854 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
@@ -1122,6 +1122,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ⏳ pendiente | — |
 | RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1130,15 +1132,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 5.0% | ✅ ganada | +2.51 |
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 18.4% | ⏳ pendiente | — |
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ✅ ganada | +5.08 |
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ❌ perdida | -2.70 |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ❌ perdida | -3.51 |
 | RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
-| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ✅ ganada | +1.52 |
-| RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ❌ perdida | -5.12 |
 | RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 7.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ✅ ganada | +3.10 |
@@ -1150,5 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 16.7% | ✅ ganada | +1.69 |
-| RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 13.9% | ✅ ganada | +3.66 |
