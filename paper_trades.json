@@ -155576,8 +155576,8 @@
     "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
     "outcome": "Xinyu Wang",
     "side": "BUY",
-    "whale_usd": 14488.417121999999,
-    "whale_pct": 11.227,
+    "whale_usd": 19779.871668,
+    "whale_pct": 15.327,
     "whale_value_at_open": 129053.3958,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -155590,8 +155590,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790239486.4489994,
-    "fills": 7
+    "last_fill_at": 1790239599.266422,
+    "fills": 8
   },
   {
     "timestamp": 1790239526,
@@ -155628,8 +155628,8 @@
     "title": "Korea Open: Jelena Ostapenko vs Taylah Preston",
     "outcome": "Taylah Preston",
     "side": "BUY",
-    "whale_usd": 7194.7,
-    "whale_pct": 3.706,
+    "whale_usd": 8094.69,
+    "whale_pct": 4.17,
     "whale_value_at_open": 194129.6325,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -155640,8 +155640,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790239558.4374135,
-    "fills": 2
+    "last_fill_at": 1790239647.1346684,
+    "fills": 3
   },
   {
     "timestamp": 1790239569,
@@ -155668,6 +155668,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790239569.3190815,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790239668,
+    "timestamp_added": 1790239668.3118532,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bu-zheng-2026-09-22",
+    "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
+    "outcome": "Yunchaokete Bu",
+    "side": "BUY",
+    "whale_usd": 2649.1,
+    "whale_pct": 1.626,
+    "whale_value_at_open": 162965.0184,
+    "paper_stake_usd": 3.43,
+    "odds_at_bet": 60,
+    "fee_usd": 0.069,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790239668.3118649,
     "fills": 1
   }
 ]
