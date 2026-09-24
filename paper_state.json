@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.23009720589351,
+  "bankroll": 79.94153208095997,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31480,6 +31480,16 @@
       "timestamp": 1790242415.0212767,
       "bankroll": 76.23,
       "event": "won: UpTheBlues \u2014 Korea Open: Jelena Ostapenko vs Taylah Preston"
+    },
+    {
+      "timestamp": 1790242541.7074575,
+      "bankroll": 79.89,
+      "event": "won: RN1 \u2014 Chengdu Open: James Duckworth vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1790242542.4380362,
+      "bankroll": 79.94,
+      "event": "won: UpTheBlues \u2014 Chengdu Open: James Duckworth vs Lorenzo Sonego"
     }
   ]
 }
