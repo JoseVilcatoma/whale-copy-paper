@@ -1,5 +1,5 @@
 {
-  "bankroll": 117.85953141081191,
+  "bankroll": 105.57025272228734,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31170,6 +31170,26 @@
       "timestamp": 1790212619.1629028,
       "bankroll": 117.86,
       "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1790213889.334532,
+      "bankroll": 112.73,
+      "event": "lost: Donkey14 \u2014 Milwaukee Brewers vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1790213889.7213042,
+      "bankroll": 115.83,
+      "event": "won: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1790213889.8790352,
+      "bankroll": 110.69,
+      "event": "lost: ferrariChampions2026 \u2014 Milwaukee Brewers vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1790213890.035695,
+      "bankroll": 105.57,
+      "event": "lost: ferrariChampions2026 \u2014 W50 Berkeley, CA: Yara Bartashevich vs Sofia Elena Cabezas Dominguez"
     }
   ]
 }
