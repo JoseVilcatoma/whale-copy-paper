@@ -1,5 +1,5 @@
 {
-  "bankroll": 107.93711830200762,
+  "bankroll": 102.80711830200762,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31295,6 +31295,11 @@
       "timestamp": 1790224804.684536,
       "bankroll": 107.94,
       "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Rion Itaya vs Kurea Hayasaka"
+    },
+    {
+      "timestamp": 1790226275.0120606,
+      "bankroll": 102.81,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Athletics (-1.5)"
     }
   ]
 }
