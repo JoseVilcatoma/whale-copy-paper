@@ -155528,8 +155528,8 @@
     "title": "Chengdu Open: Tallon Griekspoor vs Denis Shapovalov",
     "outcome": "Denis Shapovalov",
     "side": "BUY",
-    "whale_usd": 825.63,
-    "whale_pct": 0.634,
+    "whale_usd": 3503.13,
+    "whale_pct": 2.689,
     "whale_value_at_open": 130259.9439,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -155540,8 +155540,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790237086.529822,
-    "fills": 1
+    "last_fill_at": 1790237491.9456365,
+    "fills": 2
   },
   {
     "timestamp": 1790237124,
@@ -155565,6 +155565,32 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790237125.231266,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790237476,
+    "timestamp_added": 1790237476.673707,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-wa-garland-2026-09-22",
+    "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
+    "outcome": "Xinyu Wang",
+    "side": "BUY",
+    "whale_usd": 636.3000000000001,
+    "whale_pct": 0.493,
+    "whale_value_at_open": 129053.3958,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790237476.673719,
     "fills": 1
   }
 ]

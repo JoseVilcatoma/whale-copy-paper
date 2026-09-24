@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 03:10:01 (hora de Perú)
+Actualizado: 2026-09-24 03:12:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $84.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 03:10:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $79.44 en 17 posiciones abiertas (disponible para nuevas apuestas: $5.15)
+**Capital comprometido ahora mismo:** $84.44 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 917 | 560 | 6 | -245.24 USD |
+| ferrariChampions2026 | 917 | 560 | 7 | -245.24 USD |
 
 ## Análisis general
 
@@ -1112,13 +1112,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-ku-ruse-2026-09-23 | RN1, ferrariChampions2026 |
 | wta-bondar-charaev-2026-09-23 | RN1, ferrariChampions2026 |
 | wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues, ferrariChampions2026 |
+| wta-wa-garland-2026-09-22 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 57% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Atlético Nacional win on 2026-09-24 | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1146,4 +1148,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 73% | 5.00 | 1.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ❌ perdida | -5.13 |
-| UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
