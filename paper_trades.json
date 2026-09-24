@@ -156399,5 +156399,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790265074.7444613,
     "fills": 1
+  },
+  {
+    "timestamp": 1790265909,
+    "timestamp_added": 1790265909.8399339,
+    "username": "Elaran1993",
+    "wallet": "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d",
+    "slug": "mlb-stl-pit-2026-09-24-nrfi",
+    "title": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Pittsburgh Pirates",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1380.2754239999997,
+    "whale_pct": 16.392,
+    "whale_value_at_open": 8420.6651,
+    "paper_stake_usd": 2.4,
+    "odds_at_bet": 42,
+    "fee_usd": 0.07,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790265909.8399456,
+    "fills": 1
   }
 ]
