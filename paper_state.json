@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.97993931115667,
+  "bankroll": 76.23009720589351,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31475,6 +31475,11 @@
       "timestamp": 1790241406.5764058,
       "bankroll": 75.98,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Tallon Griekspoor vs Denis Shapovalov"
+    },
+    {
+      "timestamp": 1790242415.0212767,
+      "bankroll": 76.23,
+      "event": "won: UpTheBlues \u2014 Korea Open: Jelena Ostapenko vs Taylah Preston"
     }
   ]
 }

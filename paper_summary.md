@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:33:12 (hora de Perú)
+Actualizado: 2026-09-24 04:35:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $75.98
-**Retorno acumulado:** -84.80%
+**Bankroll actual:** $76.23
+**Retorno acumulado:** -84.75%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 04:33:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.43 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.55)
+**Capital comprometido ahora mismo:** $74.43 en 16 posiciones abiertas (disponible para nuevas apuestas: $1.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| UpTheBlues | 54 | 12 | 5 | +26.01 USD |
+| UpTheBlues | 55 | 12 | 4 | +26.26 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -163,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
-| RN1 | 663 | 315 | 2 | -31.02 USD |
+| RN1 | 663 | 315 | 3 | -31.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -173,13 +173,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6077
-- **Aciertos:** 3836 (63.1%)
+- **Apuestas resueltas:** 6078
+- **Aciertos:** 3837 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,087.51
+- **Total apostado (suma de stakes):** $30,092.51
 - **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $553.85 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $553.87 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3106 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1773 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 853 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 345 | 97.4% | 97.4% | +0.0 pp |
+| 95-99% (casi seguro) | 346 | 97.4% | 97.4% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1114,15 +1114,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues, ferrariChampions2026 |
 | atp-duckwor-sonego-2026-09-22 | RN1, UpTheBlues |
 | wta-wa-garland-2026-09-22 | RN1, UpTheBlues, ferrariChampions2026 |
+| atp-bu-zheng-2026-09-22 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 71% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 3.3% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
-| UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
+| UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
@@ -1148,4 +1150,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 8.5% | ✅ ganada | +3.89 |
 | ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 34.2% | ❌ perdida | -5.11 |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 16.9% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |

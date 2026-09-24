@@ -155635,8 +155635,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -155716,6 +155716,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790241625.0978012,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790242466,
+    "timestamp_added": 1790242467.3710046,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bu-zheng-2026-09-22",
+    "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
+    "outcome": "Yunchaokete Bu",
+    "side": "BUY",
+    "whale_usd": 2097.746,
+    "whale_pct": 2.405,
+    "whale_value_at_open": 87241.1249,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790242467.3710175,
     "fills": 1
   }
 ]
