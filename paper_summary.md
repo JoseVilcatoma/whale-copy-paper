@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 05:37:04 (hora de Perú)
+Actualizado: 2026-09-24 05:39:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $92.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 05:37:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.43 en 19 posiciones abiertas (disponible para nuevas apuestas: $2.62)
+**Capital comprometido ahora mismo:** $92.05 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 666 | 315 | 6 | -21.73 USD |
+| RN1 | 666 | 315 | 7 | -21.73 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -1116,11 +1116,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-wa-garland-2026-09-22 | RN1, UpTheBlues, ferrariChampions2026 |
 | atp-bu-zheng-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-shang-mannari-2026-09-22 | RN1, ferrariChampions2026 |
+| fif-jpn-ury-2026-09-24-total-2pt5 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 0.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ⏳ pendiente | — |
@@ -1150,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ✅ ganada | +0.36 |
 | RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ✅ ganada | +0.71 |
 | UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ✅ ganada | +1.60 |
-| ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 3.2% | ✅ ganada | +2.61 |
