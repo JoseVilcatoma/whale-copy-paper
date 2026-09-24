@@ -155076,8 +155076,8 @@
     "title": "Counter-Strike: The Last Resort vs Nexus (BO3) - European Pro League Series 9 Playoffs",
     "outcome": "Nexus",
     "side": "BUY",
-    "whale_usd": 1141.041,
-    "whale_pct": 15.98,
+    "whale_usd": 1881.066,
+    "whale_pct": 26.345,
     "whale_value_at_open": 7140.2181,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -155088,8 +155088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228510.082029,
-    "fills": 1
+    "last_fill_at": 1790228729.9169955,
+    "fills": 2
   },
   {
     "timestamp": 1790228528,
@@ -155143,5 +155143,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790228618.0048835,
     "fills": 2
+  },
+  {
+    "timestamp": 1790228737,
+    "timestamp_added": 1790228738.095646,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-cs1-k271-2026-09-24",
+    "title": "Counter-Strike: CYBERSHOKE Esports vs K27 (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs",
+    "outcome": "CYBERSHOKE Esports",
+    "side": "BUY",
+    "whale_usd": 2352.7686,
+    "whale_pct": 28.679,
+    "whale_value_at_open": 8203.8695,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790228738.095659,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790228844,
+    "timestamp_added": 1790228844.5537403,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-bondar-charaev-2026-09-23",
+    "title": "Korea Open: Anna Bondar vs Alina Charaeva",
+    "outcome": "Alina Charaeva",
+    "side": "BUY",
+    "whale_usd": 2175.6227940000003,
+    "whale_pct": 3.27,
+    "whale_value_at_open": 66532.1335,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790228844.5537527,
+    "fills": 1
   }
 ]
