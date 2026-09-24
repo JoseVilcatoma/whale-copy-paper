@@ -156447,5 +156447,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790266189.918949,
     "fills": 1
+  },
+  {
+    "timestamp": 1790266504,
+    "timestamp_added": 1790266504.5169575,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-pha-is-2026-09-24",
+    "title": "Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs",
+    "outcome": "Phantom",
+    "side": "BUY",
+    "whale_usd": 3434.2042,
+    "whale_pct": 12.263,
+    "whale_value_at_open": 28005.3602,
+    "paper_stake_usd": 2.72,
+    "odds_at_bet": 50,
+    "fee_usd": 0.068,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790266504.5169702,
+    "fills": 1
   }
 ]
