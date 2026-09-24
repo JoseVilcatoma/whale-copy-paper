@@ -154770,8 +154770,8 @@
     "title": "Hangzhou Open: Jaime Faria vs Terence Atmane",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 21525.879522000003,
-    "whale_pct": 7.729,
+    "whale_usd": 22276.884322,
+    "whale_pct": 7.998,
     "whale_value_at_open": 278524.7481,
     "paper_stake_usd": 3.44,
     "odds_at_bet": 45,
@@ -154784,8 +154784,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790236712.002329,
-    "fills": 18
+    "last_fill_at": 1790236976.0211535,
+    "fills": 19
   },
   {
     "timestamp": 1790220723,
@@ -155493,6 +155493,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790236854.813911,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790237012,
+    "timestamp_added": 1790237012.8903275,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-wa-garland-2026-09-22",
+    "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
+    "outcome": "Xinyu Wang",
+    "side": "BUY",
+    "whale_usd": 2636.4968,
+    "whale_pct": 3.319,
+    "whale_value_at_open": 79427.9251,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790237012.8903408,
     "fills": 1
   }
 ]
