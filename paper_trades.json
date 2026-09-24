@@ -154022,8 +154022,8 @@
     "title": "Arizona Diamondbacks vs. Colorado Rockies",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 9066.27,
-    "whale_pct": 3.606,
+    "whale_usd": 14835.004037,
+    "whale_pct": 5.9,
     "whale_value_at_open": 251441.9322,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -154034,8 +154034,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790197343.3163161,
-    "fills": 1
+    "last_fill_at": 1790211753.4687822,
+    "fills": 3
   },
   {
     "timestamp": 1790197343,
