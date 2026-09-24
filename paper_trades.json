@@ -155083,8 +155083,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -156047,8 +156047,8 @@
     "title": "Singapore Open: Tatiana Prozorova vs Alexandra Eala",
     "outcome": "Alexandra Eala",
     "side": "BUY",
-    "whale_usd": 13552.564289,
-    "whale_pct": 12.426,
+    "whale_usd": 14139.976739,
+    "whale_pct": 12.964,
     "whale_value_at_open": 109068.8282,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -156059,8 +156059,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790254473.6051738,
-    "fills": 6
+    "last_fill_at": 1790255220.3751547,
+    "fills": 7
   },
   {
     "timestamp": 1790251517,

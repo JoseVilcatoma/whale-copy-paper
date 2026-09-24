@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 08:06:15 (hora de Perú)
+Actualizado: 2026-09-24 08:08:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $82.33
-**Retorno acumulado:** -83.53%
+**Bankroll actual:** $84.71
+**Retorno acumulado:** -83.06%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 08:06:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.33 en 18 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $77.33 en 17 posiciones abiertas (disponible para nuevas apuestas: $7.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 |  | 2 | 0 | 0 | +2.66 USD |
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 66 | 1 | +2.31 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -93,7 +94,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 2 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -173,14 +173,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6093
-- **Aciertos:** 3848 (63.2%)
+- **Apuestas resueltas:** 6094
+- **Aciertos:** 3849 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,164.37
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $555.09 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,169.37
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $555.17 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3114 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1777 | 68.8% | 67.9% | +0.8 pp |
+| 60-79% | 1778 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 854 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
 
@@ -1126,7 +1126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China PR vs. Maldives: O/U 2.5 | Over (BUY) | 87% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 5.0% | ⏳ pendiente | — |
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 12.4% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 13.0% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
