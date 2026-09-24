@@ -1,5 +1,5 @@
 {
-  "bankroll": 92.04728944596611,
+  "bankroll": 92.09479449647117,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31515,6 +31515,11 @@
       "timestamp": 1790245519.5371294,
       "bankroll": 92.05,
       "event": "won: RN1 \u2014 Hangzhou Open: Yunchaokete Bu vs Michael Zheng"
+    },
+    {
+      "timestamp": 1790247044.6208658,
+      "bankroll": 92.09,
+      "event": "won: RN1 \u2014 Ankara: Teodora Kostovic vs Elena Ruxandra Bertea"
     }
   ]
 }

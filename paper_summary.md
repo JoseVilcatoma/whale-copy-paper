@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 05:49:45 (hora de Perú)
+Actualizado: 2026-09-24 05:51:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $92.05
-**Retorno acumulado:** -81.59%
+**Bankroll actual:** $92.09
+**Retorno acumulado:** -81.58%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 05:49:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $92.05 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $92.05 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 666 | 315 | 7 | -21.73 USD |
+| RN1 | 667 | 315 | 7 | -21.68 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -173,12 +173,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6085
-- **Aciertos:** 3844 (63.2%)
+- **Apuestas resueltas:** 6086
+- **Aciertos:** 3845 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,125.94
-- **ROI sobre lo apostado:** -1.78%
+- **Total apostado (suma de stakes):** $30,130.94
+- **ROI sobre lo apostado:** -1.77%
 - **Comisiones pagadas (taker fee):** $554.36 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3109 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1775 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 854 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 347 | 97.4% | 97.4% | +0.0 pp |
+| 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1122,11 +1122,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ⏳ pendiente | — |
-| RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -1151,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Wales win on 2026-09-24? | No (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 93% | 5.00 | 1.1% | ✅ ganada | +0.36 |
 | RN1 | Singapore Open: Talia Gibson vs Viktoria | Talia Gibson (BUY) | 87% | 5.00 | 1.8% | ✅ ganada | +0.71 |
-| UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 2.3% | ✅ ganada | +1.60 |

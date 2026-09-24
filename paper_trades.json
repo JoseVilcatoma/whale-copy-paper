@@ -155906,8 +155906,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -156011,5 +156011,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790246369.1761432,
     "fills": 2
+  },
+  {
+    "timestamp": 1790247047,
+    "timestamp_added": 1790247048.658615,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fif-jpn-ury-2026-09-24-total-2pt5",
+    "title": "Japan vs. Uruguay: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 751.68,
+    "whale_pct": 0.8,
+    "whale_value_at_open": 94003.8515,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790247048.6586275,
+    "fills": 1
   }
 ]
