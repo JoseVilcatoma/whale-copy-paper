@@ -155784,8 +155784,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -155808,8 +155808,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "RN1"
     ],
@@ -156021,8 +156021,8 @@
     "title": "Japan vs. Uruguay: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 7417.08,
-    "whale_pct": 7.89,
+    "whale_usd": 10683.08,
+    "whale_pct": 11.365,
     "whale_value_at_open": 94003.8515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -156035,7 +156035,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790248493.158017,
-    "fills": 6
+    "last_fill_at": 1790248509.1982565,
+    "fills": 7
   }
 ]

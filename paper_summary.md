@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 06:15:03 (hora de Perú)
+Actualizado: 2026-09-24 06:17:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $90.07
-**Retorno acumulado:** -81.99%
+**Bankroll actual:** $79.83
+**Retorno acumulado:** -84.03%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 06:15:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $82.05 en 18 posiciones abiertas (disponible para nuevas apuestas: $8.02)
+**Capital comprometido ahora mismo:** $72.05 en 16 posiciones abiertas (disponible para nuevas apuestas: $7.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,11 +157,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 667 | 315 | 7 | -21.68 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 667 | 316 | 6 | -26.80 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -169,18 +169,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 1 | -136.26 USD |
-| ferrariChampions2026 | 922 | 563 | 3 | -245.80 USD |
+| ferrariChampions2026 | 922 | 564 | 2 | -250.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6088
+- **Apuestas resueltas:** 6090
 - **Aciertos:** 3846 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,140.94
-- **ROI sobre lo apostado:** -1.78%
-- **Comisiones pagadas (taker fee):** $554.58 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,150.94
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $554.83 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3110 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 3112 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1776 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 854 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 348 | 97.4% | 97.4% | +0.1 pp |
@@ -1122,7 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 7.9% | ⏳ pendiente | — |
+| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ⏳ pendiente | — |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -1131,8 +1131,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 7.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ❌ perdida | -5.12 |
+| RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 7.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ✅ ganada | +3.10 |
 | RN1 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 71% | 5.00 | 2.4% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
