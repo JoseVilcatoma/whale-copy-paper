@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 21:29:41 (hora de Perú)
+Actualizado: 2026-09-23 21:31:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $107.34
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 21:29:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $98.49 en 21 posiciones abiertas (disponible para nuevas apuestas: $8.85)
+**Capital comprometido ahora mismo:** $107.34 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 1 | -143.52 USD |
-| ferrariChampions2026 | 907 | 553 | 9 | -232.33 USD |
+| ferrariChampions2026 | 907 | 553 | 11 | -232.33 USD |
 
 ## Análisis general
 
@@ -1111,6 +1111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1139,5 +1141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. Colorado Rockie | Arizona Diamondbacks (BUY) | 61% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Baltimore Orioles: | Under (BUY) | 51% | 5.00 | 5.8% | ✅ ganada | +4.68 |
 | Donkey14 | Spread: Chicago Cubs (-1.5) | Miami Marlins (BUY) | 59% | 5.00 | 25.2% | ⏳ pendiente | — |
-| RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ✅ ganada | +4.46 |
-| RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
