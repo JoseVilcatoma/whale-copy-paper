@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:55:32 (hora de Perú)
+Actualizado: 2026-09-24 00:57:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $88.12
-**Retorno acumulado:** -82.38%
+**Bankroll actual:** $90.09
+**Retorno acumulado:** -81.98%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 00:55:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $83.62 en 18 posiciones abiertas (disponible para nuevas apuestas: $4.50)
+**Capital comprometido ahora mismo:** $78.62 en 17 posiciones abiertas (disponible para nuevas apuestas: $11.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,18 +169,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 913 | 558 | 9 | -244.09 USD |
+| ferrariChampions2026 | 914 | 558 | 8 | -242.12 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6057
-- **Aciertos:** 3824 (63.1%)
+- **Apuestas resueltas:** 6058
+- **Aciertos:** 3825 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,993.89
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $552.18 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,998.89
+- **ROI sobre lo apostado:** -1.79%
+- **Comisiones pagadas (taker fee):** $552.25 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3096 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1766 | 68.7% | 67.9% | +0.8 pp |
+| 60-79% | 1767 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 850 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 345 | 97.4% | 97.4% | +0.0 pp |
 
@@ -1119,7 +1119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
+| RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 8.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1139,7 +1139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ❌ perdida | -3.94 |
-| ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ✅ ganada | +1.97 |
 | RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ✅ ganada | +1.28 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ✅ ganada | +5.08 |
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |

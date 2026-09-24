@@ -1,5 +1,5 @@
 {
-  "bankroll": 88.12366386626069,
+  "bankroll": 90.09291738738744,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31375,6 +31375,11 @@
       "timestamp": 1790229102.1988354,
       "bankroll": 88.12,
       "event": "lost: taylorsversion \u2014 Houston Astros vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1790229417.866682,
+      "bankroll": 90.09,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Houston Astros (-1.5)"
     }
   ]
 }
