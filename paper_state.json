@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.25443522380543,
+  "bankroll": 60.32229236666257,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31675,6 +31675,11 @@
       "timestamp": 1790282389.1916869,
       "bankroll": 58.25,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Phantom vs Iberian Soul (BO3) - Stake Ranked Episode 5: Closed Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1790284885.4140127,
+      "bankroll": 60.32,
+      "event": "won: GoalLineGhost \u2014 Will Schalke 04 win on 2026-09-24?"
     }
   ]
 }
