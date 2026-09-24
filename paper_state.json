@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.42818255439991,
+  "bankroll": 75.97993931115667,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31465,6 +31465,16 @@
       "timestamp": 1790239506.5709944,
       "bankroll": 79.43,
       "event": "lost: UpTheBlues \u2014 Hangzhou Open: Jaime Faria vs Terence Atmane"
+    },
+    {
+      "timestamp": 1790241405.3726666,
+      "bankroll": 74.29,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open: Tallon Griekspoor vs Denis Shapovalov"
+    },
+    {
+      "timestamp": 1790241406.5764058,
+      "bankroll": 75.98,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Tallon Griekspoor vs Denis Shapovalov"
     }
   ]
 }

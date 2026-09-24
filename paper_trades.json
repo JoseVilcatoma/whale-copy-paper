@@ -154753,8 +154753,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -155535,8 +155535,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -155679,8 +155679,8 @@
     "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 4625.1,
-    "whale_pct": 2.838,
+    "whale_usd": 5453.671429,
+    "whale_pct": 3.347,
     "whale_value_at_open": 162965.0184,
     "paper_stake_usd": 3.43,
     "odds_at_bet": 60,
@@ -155691,7 +155691,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790240688.6442623,
-    "fills": 3
+    "last_fill_at": 1790241379.573983,
+    "fills": 4
   }
 ]
