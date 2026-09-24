@@ -156335,8 +156335,8 @@
     "title": "Plovdiv 4: Felix Gill vs Iliyan Radulov",
     "outcome": "Felix Gill",
     "side": "BUY",
-    "whale_usd": 4334.3184,
-    "whale_pct": 3.277,
+    "whale_usd": 5599.142400000001,
+    "whale_pct": 4.233,
     "whale_value_at_open": 132270.8727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -156347,7 +156347,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790261722.7143373,
-    "fills": 4
+    "last_fill_at": 1790262182.0353327,
+    "fills": 5
   }
 ]
