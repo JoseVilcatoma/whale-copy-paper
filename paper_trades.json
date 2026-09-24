@@ -156505,8 +156505,8 @@
     "title": "St. Tropez: Andrea Guerrieri vs Jesper de Jong",
     "outcome": "Andrea Guerrieri",
     "side": "BUY",
-    "whale_usd": 23868.665370999996,
-    "whale_pct": 15.806,
+    "whale_usd": 26042.854461999996,
+    "whale_pct": 17.246,
     "whale_value_at_open": 151007.698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -156517,8 +156517,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790273067.0722728,
-    "fills": 11
+    "last_fill_at": 1790273172.4790337,
+    "fills": 12
   },
   {
     "timestamp": 1790269417,
@@ -156566,6 +156566,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790273103.5622666,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790273143,
+    "timestamp_added": 1790273143.909476,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-prt-wal-2026-09-24-spread-home-2pt5",
+    "title": "Spread: Portugal (-2.5)",
+    "outcome": "Portugal",
+    "side": "BUY",
+    "whale_usd": 611.732,
+    "whale_pct": 0.172,
+    "whale_value_at_open": 354789.2653,
+    "paper_stake_usd": 3.43,
+    "odds_at_bet": 45,
+    "fee_usd": 0.094,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790273143.909485,
     "fills": 1
   }
 ]
