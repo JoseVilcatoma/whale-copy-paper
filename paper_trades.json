@@ -156687,5 +156687,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790290151.0651872,
     "fills": 1
+  },
+  {
+    "timestamp": 1790290182,
+    "timestamp_added": 1790290182.3297179,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-cle-bos-2026-09-24",
+    "title": "Cleveland Guardians vs. Boston Red Sox",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 7155.3,
+    "whale_pct": 2.754,
+    "whale_value_at_open": 259847.9439,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790290182.3297274,
+    "fills": 1
   }
 ]
