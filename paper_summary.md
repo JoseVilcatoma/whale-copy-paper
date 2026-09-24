@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:02:45 (hora de Perú)
+Actualizado: 2026-09-24 04:04:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $79.43
@@ -1119,7 +1119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 2.4% | ⏳ pendiente | — |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ⏳ pendiente | — |
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |

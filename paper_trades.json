@@ -155679,8 +155679,8 @@
     "title": "Hangzhou Open: Yunchaokete Bu vs Michael Zheng",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 2649.1,
-    "whale_pct": 1.626,
+    "whale_usd": 3932.85,
+    "whale_pct": 2.413,
     "whale_value_at_open": 162965.0184,
     "paper_stake_usd": 3.43,
     "odds_at_bet": 60,
@@ -155691,7 +155691,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790239668.3118649,
-    "fills": 1
+    "last_fill_at": 1790240687.24651,
+    "fills": 2
   }
 ]
