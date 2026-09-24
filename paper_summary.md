@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 15:10:13 (hora de Perú)
+Actualizado: 2026-09-24 15:12:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $61.04
@@ -1124,7 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ⏳ pendiente | — |
 | ratatatatatatatataaaa | Spread: Packers (-4.5) | Packers (BUY) | 53% | 5.00 | 54.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |

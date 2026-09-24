@@ -156601,8 +156601,8 @@
     "title": "Will Denmark win on 2026-09-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1234.556667,
-    "whale_pct": 0.59,
+    "whale_usd": 2472.716667,
+    "whale_pct": 1.181,
     "whale_value_at_open": 209421.0152,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -156613,7 +156613,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790280326.6088483,
-    "fills": 1
+    "last_fill_at": 1790280724.0208566,
+    "fills": 2
   }
 ]
