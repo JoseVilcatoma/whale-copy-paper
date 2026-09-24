@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 03:03:56 (hora de Perú)
+Actualizado: 2026-09-24 03:05:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $93.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 03:03:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $86.05 en 18 posiciones abiertas (disponible para nuevas apuestas: $7.42)
+**Capital comprometido ahora mismo:** $93.47 en 20 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 89 | 0 | -136.26 USD |
-| ferrariChampions2026 | 917 | 559 | 5 | -240.13 USD |
+| ferrariChampions2026 | 917 | 559 | 7 | -240.13 USD |
 
 ## Análisis general
 
@@ -1117,6 +1117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 57% | 5.00 | 1.3% | ⏳ pendiente | — |
 | UpTheBlues | Will Atlético Nacional win on 2026-09-24 | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1145,5 +1147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 73% | 5.00 | 1.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 8.0% | ⏳ pendiente | — |
