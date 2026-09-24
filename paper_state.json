@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.82951580794658,
+  "bankroll": 76.31751580794658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31540,6 +31540,11 @@
       "timestamp": 1790248543.0051298,
       "bankroll": 79.83,
       "event": "lost: ferrariChampions2026 \u2014 Chengdu Open: Juncheng Shang vs Adrian Mannarino"
+    },
+    {
+      "timestamp": 1790251049.4391153,
+      "bankroll": 76.32,
+      "event": "lost: RN1 \u2014 Counter-Strike: JiJieHao vs Eternal Fire - Map 1 Winner"
     }
   ]
 }
