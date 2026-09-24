@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 10:35:28 (hora de Perú)
+Actualizado: 2026-09-24 10:37:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.38
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 10:35:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $58.71 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.67)
+**Capital comprometido ahora mismo:** $63.71 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| lllllllIlll | 3 | 1 | 1 | +7.41 USD |
+| lllllllIlll | 3 | 1 | 2 | +7.41 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -1111,6 +1111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sd-lad-2026-09-23 | ferrariChampions2026, wr0ngw4yb3tt0r |
 | wta-ku-ruse-2026-09-23 | RN1, ferrariChampions2026 |
 | wta-bondar-charaev-2026-09-23 | RN1, ferrariChampions2026 |
+| cs2-cs1-k271-2026-09-24 | 0x29b52d98ac9ef9414b04164246c95BC63d7, lllllllIlll |
 | wta-gibson-morvayo-2026-09-23 | RN1, UpTheBlues, ferrariChampions2026 |
 | atp-duckwor-sonego-2026-09-22 | RN1, UpTheBlues |
 | wta-wa-garland-2026-09-22 | RN1, UpTheBlues, ferrariChampions2026 |
@@ -1122,6 +1123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1151,4 +1153,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Moise Kouame (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Michael | Yunchaokete Bu (BUY) | 60% | 3.43 | 6.1% | ✅ ganada | +2.22 |
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ✅ ganada | +0.59 |
-| UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |
