@@ -155026,8 +155026,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 12088.989999000001,
-    "whale_pct": 8.598,
+    "whale_usd": 14774.307142000001,
+    "whale_pct": 10.508,
     "whale_value_at_open": 140603.2494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -155040,8 +155040,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790229295.1576657,
-    "fills": 3
+    "last_fill_at": 1790230997.0348756,
+    "fills": 4
   },
   {
     "timestamp": 1790228327,
