@@ -156409,8 +156409,8 @@
     "title": "Will there be a run scored in the first inning?: St. Louis Cardinals vs. Pittsburgh Pirates",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1380.2754239999997,
-    "whale_pct": 16.392,
+    "whale_usd": 1994.8654239999996,
+    "whale_pct": 23.69,
     "whale_value_at_open": 8420.6651,
     "paper_stake_usd": 2.4,
     "odds_at_bet": 42,
@@ -156421,8 +156421,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790265909.8399456,
-    "fills": 1
+    "last_fill_at": 1790267273.4951148,
+    "fills": 2
   },
   {
     "timestamp": 1790266189,
