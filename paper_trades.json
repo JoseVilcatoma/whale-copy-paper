@@ -156577,8 +156577,8 @@
     "title": "Spread: Portugal (-2.5)",
     "outcome": "Portugal",
     "side": "BUY",
-    "whale_usd": 611.732,
-    "whale_pct": 0.172,
+    "whale_usd": 1914.734,
+    "whale_pct": 0.54,
     "whale_value_at_open": 354789.2653,
     "paper_stake_usd": 3.43,
     "odds_at_bet": 45,
@@ -156589,7 +156589,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790273143.909485,
-    "fills": 1
+    "last_fill_at": 1790275328.9205017,
+    "fills": 2
   }
 ]
