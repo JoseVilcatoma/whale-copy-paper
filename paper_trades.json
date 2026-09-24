@@ -154431,5 +154431,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790214411.9258513,
     "fills": 1
+  },
+  {
+    "timestamp": 1790214961,
+    "timestamp_added": 1790214962.3392704,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "mls-sea-rsl-2026-04-12-team-total-away-1pt5",
+    "title": "Seattle Sounders FC vs. Real Salt Lake: Real Salt Lake O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 715.4,
+    "whale_pct": 0.328,
+    "whale_value_at_open": 218125.6536,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790214962.3392823,
+    "fills": 1
   }
 ]
