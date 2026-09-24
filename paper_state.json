@@ -1,5 +1,5 @@
 {
-  "bankroll": 79.94153208095997,
+  "bankroll": 87.86036925817268,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31490,6 +31490,21 @@
       "timestamp": 1790242542.4380362,
       "bankroll": 79.94,
       "event": "won: UpTheBlues \u2014 Chengdu Open: James Duckworth vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1790243742.4631417,
+      "bankroll": 83.61,
+      "event": "won: RN1 \u2014 Singapore Open: Xinyu Wang vs Joanna Garland"
+    },
+    {
+      "timestamp": 1790243742.6637497,
+      "bankroll": 87.27,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Xinyu Wang vs Joanna Garland"
+    },
+    {
+      "timestamp": 1790243742.7639701,
+      "bankroll": 87.86,
+      "event": "won: UpTheBlues \u2014 Singapore Open: Xinyu Wang vs Joanna Garland"
     }
   ]
 }
