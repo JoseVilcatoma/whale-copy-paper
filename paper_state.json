@@ -1,5 +1,5 @@
 {
-  "bankroll": 110.7073951642357,
+  "bankroll": 105.59239516423571,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31280,6 +31280,11 @@
       "timestamp": 1790221967.2697399,
       "bankroll": 110.71,
       "event": "won: UpTheBlues \u2014 Seattle Sounders FC vs. Real Salt Lake: O/U 5.5"
+    },
+    {
+      "timestamp": 1790223227.8341088,
+      "bankroll": 105.59,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
