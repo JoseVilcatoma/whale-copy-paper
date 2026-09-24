@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 01:01:37 (hora de Perú)
+Actualizado: 2026-09-24 01:03:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $90.09
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 01:01:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $78.62 en 17 posiciones abiertas (disponible para nuevas apuestas: $11.47)
+**Capital comprometido ahora mismo:** $83.62 en 18 posiciones abiertas (disponible para nuevas apuestas: $6.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| UpTheBlues | 50 | 11 | 2 | +21.79 USD |
+| UpTheBlues | 50 | 11 | 3 | +21.79 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
@@ -1116,10 +1116,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Hangzhou Open: Sho Shimabukuro vs Hugo G | Hugo Gaston (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Dane Sweeny vs Taro Danie | Taro Daniel (BUY) | 54% | 3.15 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 8.7% | ⏳ pendiente | — |
+| RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 9.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1145,4 +1146,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | W50 Nanao: Rion Itaya vs Kurea Hayasaka | Rion Itaya (BUY) | 74% | 3.82 | 0.9% | ✅ ganada | +1.29 |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | W50 Nanao: Jia-Jing Lu vs Tiana Tian Den | Tiana Tian Deng (BUY) | 82% | 5.00 | 1.0% | ✅ ganada | +1.05 |

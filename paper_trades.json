@@ -155177,8 +155177,8 @@
     "title": "Korea Open: Anna Bondar vs Alina Charaeva",
     "outcome": "Alina Charaeva",
     "side": "BUY",
-    "whale_usd": 5795.219194,
-    "whale_pct": 8.71,
+    "whale_usd": 6352.694728,
+    "whale_pct": 9.548,
     "whale_value_at_open": 66532.1335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -155191,8 +155191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790229447.397897,
-    "fills": 3
+    "last_fill_at": 1790229698.597972,
+    "fills": 4
   },
   {
     "timestamp": 1790228924,
@@ -155269,6 +155269,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1790228957.4706888,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790229814,
+    "timestamp_added": 1790229814.9806323,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-shimabu-gaston-2026-09-22",
+    "title": "Hangzhou Open: Sho Shimabukuro vs Hugo Gaston",
+    "outcome": "Hugo Gaston",
+    "side": "BUY",
+    "whale_usd": 973.1,
+    "whale_pct": 0.505,
+    "whale_value_at_open": 192765.3131,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790229814.9806452,
     "fills": 1
   }
 ]
