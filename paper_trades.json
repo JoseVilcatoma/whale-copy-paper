@@ -156505,8 +156505,8 @@
     "title": "St. Tropez: Andrea Guerrieri vs Jesper de Jong",
     "outcome": "Andrea Guerrieri",
     "side": "BUY",
-    "whale_usd": 16263.035714999998,
-    "whale_pct": 10.77,
+    "whale_usd": 17421.240315,
+    "whale_pct": 11.537,
     "whale_value_at_open": 151007.698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -156517,8 +156517,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790270978.7489321,
-    "fills": 8
+    "last_fill_at": 1790272000.9721212,
+    "fills": 9
   },
   {
     "timestamp": 1790269417,
