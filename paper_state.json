@@ -1,5 +1,5 @@
 {
-  "bankroll": 93.4746810528984,
+  "bankroll": 84.59362699884436,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31425,6 +31425,21 @@
       "timestamp": 1790236841.1791213,
       "bankroll": 93.47,
       "event": "won: ferrariChampions2026 \u2014 Singapore Open: Talia Gibson vs Viktoria Morvayova"
+    },
+    {
+      "timestamp": 1790237286.6421025,
+      "bankroll": 94.84,
+      "event": "won: UpTheBlues \u2014 Will Antigua GFC win on 2026-09-23?"
+    },
+    {
+      "timestamp": 1790237287.515758,
+      "bankroll": 89.71,
+      "event": "lost: RN1 \u2014 Korea Open: Yeon-Woo Ku vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790237287.6159084,
+      "bankroll": 84.59,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Yeon-Woo Ku vs Gabriela Ruse"
     }
   ]
 }
