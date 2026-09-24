@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:28:56 (hora de Perú)
+Actualizado: 2026-09-24 00:31:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $102.81
@@ -1133,7 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Nanao: Rion Itaya vs Kurea Hayasaka | Rion Itaya (BUY) | 74% | 3.82 | 0.9% | ✅ ganada | +1.29 |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Nanao: Jia-Jing Lu vs Tiana Tian Den | Tiana Tian Deng (BUY) | 82% | 5.00 | 1.0% | ✅ ganada | +1.05 |
-| ferrariChampions2026 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 5.00 | 11.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 5.00 | 12.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Antigua GFC win on 2026-09-23? | No (BUY) | 74% | 4.03 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
 | UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ⏳ pendiente | — |
