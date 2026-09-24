@@ -156553,8 +156553,8 @@
     "title": "Spread: Packers (-4.5)",
     "outcome": "Packers",
     "side": "BUY",
-    "whale_usd": 1660.3600000000001,
-    "whale_pct": 1.148,
+    "whale_usd": 4384.120000000001,
+    "whale_pct": 3.032,
     "whale_value_at_open": 144603.9224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -156565,8 +156565,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790273103.5622666,
-    "fills": 1
+    "last_fill_at": 1790273631.1380467,
+    "fills": 2
   },
   {
     "timestamp": 1790273143,
