@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 13:42:14 (hora de Perú)
+Actualizado: 2026-09-24 13:44:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.37
@@ -1125,10 +1125,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ⏳ pendiente | — |
-| ratatatatatatatataaaa | Spread: Packers (-4.5) | Packers (BUY) | 53% | 5.00 | 45.9% | ⏳ pendiente | — |
+| ratatatatatatatataaaa | Spread: Packers (-4.5) | Packers (BUY) | 53% | 5.00 | 54.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 19.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 9.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ⏳ pendiente | — |
 | GoalLineGhost | Andorra vs. Malta: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Elaran1993 | Will there be a run scored in the first  | Yes (BUY) | 42% | 2.40 | 23.7% | ✅ ganada | +3.24 |

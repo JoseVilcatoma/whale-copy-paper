@@ -156481,8 +156481,8 @@
     "title": "St. Louis Cardinals vs. Pittsburgh Pirates",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 4235.6523,
-    "whale_pct": 2.356,
+    "whale_usd": 17049.2697,
+    "whale_pct": 9.482,
     "whale_value_at_open": 179812.8029,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -156493,8 +156493,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790274426.1836674,
-    "fills": 2
+    "last_fill_at": 1790275435.6082811,
+    "fills": 5
   },
   {
     "timestamp": 1790268515,
@@ -156553,8 +156553,8 @@
     "title": "Spread: Packers (-4.5)",
     "outcome": "Packers",
     "side": "BUY",
-    "whale_usd": 66323.296,
-    "whale_pct": 45.865,
+    "whale_usd": 78428.89600000001,
+    "whale_pct": 54.237,
     "whale_value_at_open": 144603.9224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -156565,8 +156565,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790274181.8709297,
-    "fills": 5
+    "last_fill_at": 1790275345.7954662,
+    "fills": 6
   },
   {
     "timestamp": 1790273143,
