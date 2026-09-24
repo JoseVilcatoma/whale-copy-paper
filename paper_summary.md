@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 21:13:09 (hora de Perú)
+Actualizado: 2026-09-23 21:15:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $108.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 21:13:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $89.60 en 19 posiciones abiertas (disponible para nuevas apuestas: $18.82)
+**Capital comprometido ahora mismo:** $99.60 en 21 posiciones abiertas (disponible para nuevas apuestas: $8.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 905 | 552 | 7 | -231.59 USD |
+| ferrariChampions2026 | 905 | 552 | 9 | -231.59 USD |
 
 ## Análisis general
 
@@ -1098,6 +1098,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-dodin-malygin-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-min-sf-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
 | wta-akli-knutson-2026-09-23 | HMLSF, RN1 |
+| mlb-hou-sea-2026-09-23 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, ferrariChampions2026 |
 | wta-cengiz-mert-2026-09-23 | RN1, ferrariChampions2026 |
 | mlb-tor-bal-2026-09-22 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492, Donkey14 |
 | mlb-cle-bos-2026-09-23 | Donkey14, ferrariChampions2026 |
@@ -1110,6 +1111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | W50 Nanao: Jia-Jing Lu vs Tiana Tian Den | Tiana Tian Deng (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
 | UpTheBlues | Will Antigua GFC win on 2026-09-23? | No (BUY) | 74% | 4.03 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ⏳ pendiente | — |
@@ -1138,5 +1141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX (BO5 | 3DMAX (BUY) | 75% | 5.00 | 10.9% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 6.7% | ✅ ganada | +3.66 |
-| ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ✅ ganada | +2.21 |
