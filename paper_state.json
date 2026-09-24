@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.26005427142448,
+  "bankroll": 60.13005427142448,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31660,6 +31660,11 @@
       "timestamp": 1790277084.492306,
       "bankroll": 65.26,
       "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Andrea Guerrieri vs Jesper de Jong"
+    },
+    {
+      "timestamp": 1790278642.3483827,
+      "bankroll": 60.13,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
     }
   ]
 }
