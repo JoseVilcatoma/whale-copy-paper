@@ -1,5 +1,5 @@
 {
-  "bankroll": 104.99537815197498,
+  "bankroll": 88.12366386626069,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31350,6 +31350,31 @@
       "timestamp": 1790228471.1037583,
       "bankroll": 105.0,
       "event": "won: UpTheBlues \u2014 Spread: Seattle Sounders FC (-1.5)"
+    },
+    {
+      "timestamp": 1790229100.0686915,
+      "bankroll": 101.37,
+      "event": "lost: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Houston Astros vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1790229100.91268,
+      "bankroll": 96.23,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1790229101.9984255,
+      "bankroll": 91.1,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Houston Astros vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1790229102.0986319,
+      "bankroll": 93.27,
+      "event": "won: 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c \u2014 Houston Astros vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1790229102.1988354,
+      "bankroll": 88.12,
+      "event": "lost: taylorsversion \u2014 Houston Astros vs. Seattle Mariners"
     }
   ]
 }

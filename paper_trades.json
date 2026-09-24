@@ -153227,8 +153227,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.097,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.63,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -154496,8 +154496,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x16bb9951a36fce71e2ef57890b786145e0ba8492"
     ],
@@ -154899,8 +154899,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
       "ferrariChampions2026"
@@ -154926,8 +154926,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.063,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.18,
     "overlaps_with": [
       "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
       "ferrariChampions2026",
@@ -154954,8 +154954,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [
       "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
       "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
@@ -155052,8 +155052,8 @@
     "title": "Korea Open: Anna Bondar vs Alina Charaeva",
     "outcome": "Anna Bondar",
     "side": "BUY",
-    "whale_usd": 6613.134811000001,
-    "whale_pct": 4.672,
+    "whale_usd": 11169.374811000002,
+    "whale_pct": 7.891,
     "whale_value_at_open": 141552.7246,
     "paper_stake_usd": 3.0,
     "odds_at_bet": 43,
@@ -155064,8 +155064,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228511.2849715,
-    "fills": 2
+    "last_fill_at": 1790229103.2789984,
+    "fills": 3
   },
   {
     "timestamp": 1790228509,

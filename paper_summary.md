@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:51:27 (hora de Perú)
+Actualizado: 2026-09-24 00:53:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $105.00
-**Retorno acumulado:** -79.00%
+**Bankroll actual:** $88.12
+**Retorno acumulado:** -82.38%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 00:51:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $83.62 en 18 posiciones abiertas (disponible para nuevas apuestas: $4.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,11 +33,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| wr0ngw4yb3tt0r | 118 | 85 | 1 | +23.62 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | UpTheBlues | 50 | 11 | 2 | +21.79 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
+| wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -93,7 +93,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| taylorsversion | 0 | 0 | 1 | +0.00 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 104 | 66 | 2 | -0.07 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -132,6 +131,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
 | maz26 | 0 | 1 | 0 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
+| taylorsversion | 0 | 1 | 0 | -5.15 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
@@ -149,12 +149,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
-| SDTrading | 39 | 38 | 1 | -13.56 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | RN1 | 661 | 312 | 4 | -20.22 USD |
@@ -168,19 +168,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 131 | 89 | 1 | -138.44 USD |
-| ferrariChampions2026 | 913 | 557 | 10 | -238.95 USD |
+|  | 132 | 89 | 0 | -136.26 USD |
+| ferrariChampions2026 | 913 | 558 | 9 | -244.09 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6052
-- **Aciertos:** 3823 (63.2%)
+- **Apuestas resueltas:** 6057
+- **Aciertos:** 3824 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,972.51
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $551.60 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,993.89
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $552.18 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3091 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 3096 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 1766 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 850 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 345 | 97.4% | 97.4% | +0.0 pp |
@@ -1124,13 +1124,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 26.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 4.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 43% | 3.00 | 7.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 55% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Korea Open: Yeon-Woo Ku vs Gabriela Ruse | Yeon-Woo Ku (BUY) | 47% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 94% | 5.00 | 0.2% | ✅ ganada | +0.30 |
-| taylorsversion | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
-| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Houston Astros vs. Seattle Mariners | Seattle Mariners (BUY) | 56% | 2.85 | 1.4% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
+| taylorsversion | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 41% | 5.00 | 6.5% | ❌ perdida | -5.15 |
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Houston Astros vs. Seattle Mariners | Seattle Mariners (BUY) | 56% | 2.85 | 1.4% | ✅ ganada | +2.18 |
+| wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 73% | 5.00 | 1.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
