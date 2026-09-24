@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:21:00 (hora de Perú)
+Actualizado: 2026-09-24 04:23:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $75.98
@@ -1127,7 +1127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Connecticut Sun (-1.5) | Toronto Tempo (BUY) | 47% | 2.42 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Denis Shapovalov (BUY) | 74% | 5.00 | 16.7% | ✅ ganada | +1.69 |
-| RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 7.7% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 13.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 57% | 5.00 | 12.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Atlético Nacional win on 2026-09-24 | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. New York Yankees: O/U | Under (BUY) | 62% | 3.58 | 1.2% | ⏳ pendiente | — |

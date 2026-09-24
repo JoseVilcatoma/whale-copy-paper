@@ -155504,8 +155504,8 @@
     "title": "Singapore Open: Xinyu Wang vs Joanna Garland",
     "outcome": "Xinyu Wang",
     "side": "BUY",
-    "whale_usd": 6077.9872,
-    "whale_pct": 7.652,
+    "whale_usd": 11032.9872,
+    "whale_pct": 13.891,
     "whale_value_at_open": 79427.9251,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -155516,8 +155516,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790240889.9251895,
-    "fills": 4
+    "last_fill_at": 1790241773.8288815,
+    "fills": 5
   },
   {
     "timestamp": 1790237086,
