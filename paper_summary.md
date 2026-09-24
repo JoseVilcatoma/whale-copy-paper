@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 02:57:50 (hora de Perú)
+Actualizado: 2026-09-24 02:59:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $91.81
@@ -1144,6 +1144,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ❌ perdida | -5.13 |
 | UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
