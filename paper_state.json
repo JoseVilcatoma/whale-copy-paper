@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.83646317636763,
+  "bankroll": 82.33184779175224,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31550,6 +31550,11 @@
       "timestamp": 1790251468.1294138,
       "bankroll": 77.84,
       "event": "won: RN1 \u2014 Counter-Strike: Rune Eaters vs Team Nemesis - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790254289.952129,
+      "bankroll": 82.33,
+      "event": "won: RN1 \u2014 Plovdiv 4: Ivan Ivanov vs Adrian Andreev"
     }
   ]
 }
