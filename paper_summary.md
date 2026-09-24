@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 20:52:53 (hora de Perú)
+Actualizado: 2026-09-23 20:54:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $105.57
-**Retorno acumulado:** -78.89%
+**Bankroll actual:** $104.60
+**Retorno acumulado:** -79.08%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 20:52:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.57 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $95.57 en 20 posiciones abiertas (disponible para nuevas apuestas: $9.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -138,6 +138,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
+| SDTrading | 39 | 37 | 2 | -8.42 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 20 | 19 | 0 | -9.60 USD |
@@ -148,7 +149,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
 | Donkey14 | 5 | 7 | 4 | -12.20 USD |
-| SDTrading | 38 | 37 | 3 | -12.56 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -168,17 +168,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 903 | 551 | 10 | -235.43 USD |
+| ferrariChampions2026 | 903 | 552 | 9 | -240.54 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6020
-- **Aciertos:** 3802 (63.2%)
+- **Apuestas resueltas:** 6022
+- **Aciertos:** 3803 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,817.80
+- **Total apostado (suma de stakes):** $29,827.80
 - **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $548.92 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $549.15 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3075 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 3077 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1757 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |

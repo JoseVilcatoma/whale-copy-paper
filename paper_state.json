@@ -1,5 +1,5 @@
 {
-  "bankroll": 105.57025272228734,
+  "bankroll": 104.6045119815466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31190,6 +31190,16 @@
       "timestamp": 1790213890.035695,
       "bankroll": 105.57,
       "event": "lost: ferrariChampions2026 \u2014 W50 Berkeley, CA: Yara Bartashevich vs Sofia Elena Cabezas Dominguez"
+    },
+    {
+      "timestamp": 1790214831.5806375,
+      "bankroll": 109.71,
+      "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1790214831.750989,
+      "bankroll": 104.6,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
     }
   ]
 }
