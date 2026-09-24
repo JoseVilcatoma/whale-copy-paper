@@ -156301,5 +156301,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790261180.1450844,
     "fills": 1
+  },
+  {
+    "timestamp": 1790261434,
+    "timestamp_added": 1790261435.092616,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-prt-wal-2026-09-24-total-3pt5",
+    "title": "Portugal vs. Wales: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 648.915,
+    "whale_pct": 0.285,
+    "whale_value_at_open": 227963.2492,
+    "paper_stake_usd": 3.22,
+    "odds_at_bet": 51,
+    "fee_usd": 0.079,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790261435.0926256,
+    "fills": 1
   }
 ]

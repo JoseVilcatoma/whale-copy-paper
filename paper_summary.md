@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 09:50:24 (hora de Perú)
+Actualizado: 2026-09-24 09:52:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $68.71
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 09:50:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.49 en 14 posiciones abiertas (disponible para nuevas apuestas: $3.22)
+**Capital comprometido ahora mismo:** $68.71 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -147,7 +147,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
-| GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
+| GoalLineGhost | 113 | 46 | 1 | -11.58 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
@@ -1122,6 +1122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -1151,4 +1152,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 89% | 5.00 | 0.4% | ✅ ganada | +0.59 |
 | UpTheBlues | Korea Open: Jelena Ostapenko vs Taylah P | Taylah Preston (BUY) | 95% | 5.00 | 4.2% | ✅ ganada | +0.25 |
 | UpTheBlues | Chengdu Open: James Duckworth vs Lorenzo | Lorenzo Sonego (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Joanna Gar | Xinyu Wang (BUY) | 57% | 5.00 | 25.3% | ✅ ganada | +3.66 |
