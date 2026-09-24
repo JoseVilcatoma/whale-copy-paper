@@ -1,5 +1,5 @@
 {
-  "bankroll": 107.53811446283662,
+  "bankroll": 110.90969073402306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31245,6 +31245,11 @@
       "timestamp": 1790218054.5564263,
       "bankroll": 107.54,
       "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. New York Liberty"
+    },
+    {
+      "timestamp": 1790218623.9265828,
+      "bankroll": 110.91,
+      "event": "won: Donkey14 \u2014 Spread: Chicago Cubs (-1.5)"
     }
   ]
 }
