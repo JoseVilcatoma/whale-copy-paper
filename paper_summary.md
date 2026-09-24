@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 04:55:48 (hora de Perú)
+Actualizado: 2026-09-24 04:57:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $87.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 04:55:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $64.43 en 14 posiciones abiertas (disponible para nuevas apuestas: $23.43)
+**Capital comprometido ahora mismo:** $84.43 en 18 posiciones abiertas (disponible para nuevas apuestas: $3.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| RN1 | 665 | 315 | 2 | -23.70 USD |
+| RN1 | 665 | 315 | 5 | -23.70 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 132 | 89 | 0 | -136.26 USD |
+|  | 132 | 89 | 1 | -136.26 USD |
 | ferrariChampions2026 | 920 | 562 | 6 | -246.00 USD |
 
 ## Análisis general
@@ -1121,6 +1121,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Ankara: Teodora Kostovic vs Elena Ruxand | Teodora Kostovic (BUY) | 99% | 5.00 | 3.5% | ⏳ pendiente | — |
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Rune Eaters vs Team Neme | Team Nemesis (BUY) | 76% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Japan vs. Uruguay: Both Teams to Score | No (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Juncheng Shang vs Adrian M | Juncheng Shang (BUY) | 52% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Moise Kouame vs Alexandre  | Alexandre Muller (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -1147,7 +1151,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 68% | 5.00 | 24.9% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 59% | 5.00 | 2.9% | ❌ perdida | -5.10 |
 | RN1 | Korea Open: Anna Bondar vs Alina Charaev | Alina Charaeva (BUY) | 58% | 5.00 | 17.2% | ❌ perdida | -5.11 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: CYBERSHOKE Esports vs K2 | CYBERSHOKE Esports (BUY) | 42% | 5.00 | 28.7% | ⏳ pendiente | — |
-| RN1 | Hangzhou Open: Jaime Faria vs Terence At | Terence Atmane (BUY) | 62% | 5.00 | 10.0% | ❌ perdida | -5.09 |
-| RN1 | Korea Open: Anna Bondar vs Alina Charaev | Anna Bondar (BUY) | 56% | 5.00 | 2.1% | ✅ ganada | +3.82 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: The Last Resort vs Nexus | Nexus (BUY) | 67% | 5.00 | 44.1% | ⏳ pendiente | — |
