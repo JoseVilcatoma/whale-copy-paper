@@ -156095,8 +156095,8 @@
     "title": "Hangzhou Open: Jie Cui vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 2619.1561189999998,
-    "whale_pct": 1.684,
+    "whale_usd": 3228.6328169999997,
+    "whale_pct": 2.076,
     "whale_value_at_open": 155519.3241,
     "paper_stake_usd": 4.22,
     "odds_at_bet": 62,
@@ -156107,7 +156107,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790251637.658926,
-    "fills": 1
+    "last_fill_at": 1790253209.0848165,
+    "fills": 2
   }
 ]
