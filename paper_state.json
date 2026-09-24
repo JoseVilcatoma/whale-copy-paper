@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.31751580794658,
+  "bankroll": 77.83646317636763,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31545,6 +31545,11 @@
       "timestamp": 1790251049.4391153,
       "bankroll": 76.32,
       "event": "lost: RN1 \u2014 Counter-Strike: JiJieHao vs Eternal Fire - Map 1 Winner"
+    },
+    {
+      "timestamp": 1790251468.1294138,
+      "bankroll": 77.84,
+      "event": "won: RN1 \u2014 Counter-Strike: Rune Eaters vs Team Nemesis - Map 2 Winner"
     }
   ]
 }
