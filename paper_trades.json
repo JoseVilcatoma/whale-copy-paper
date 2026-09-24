@@ -155002,8 +155002,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 10012.7727,
-    "whale_pct": 10.693,
+    "whale_usd": 15813.414499999999,
+    "whale_pct": 16.888,
     "whale_value_at_open": 93635.8259,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -155014,8 +155014,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790231376.6529422,
-    "fills": 3
+    "last_fill_at": 1790231494.19842,
+    "fills": 5
   },
   {
     "timestamp": 1790228224,
@@ -155026,8 +155026,8 @@
     "title": "Korea Open: Yeon-Woo Ku vs Gabriela Ruse",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 19856.554914,
-    "whale_pct": 14.122,
+    "whale_usd": 38814.498032999996,
+    "whale_pct": 27.606,
     "whale_value_at_open": 140603.2494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -155040,8 +155040,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790231374.4634418,
-    "fills": 6
+    "last_fill_at": 1790231509.94589,
+    "fills": 14
   },
   {
     "timestamp": 1790228327,
@@ -155256,8 +155256,8 @@
     "title": "Hangzhou Open: Dane Sweeny vs Taro Daniel",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 2344.8896,
-    "whale_pct": 1.564,
+    "whale_usd": 4780.8896,
+    "whale_pct": 3.188,
     "whale_value_at_open": 149950.0361,
     "paper_stake_usd": 3.15,
     "odds_at_bet": 54,
@@ -155268,8 +155268,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228957.4706888,
-    "fills": 1
+    "last_fill_at": 1790231476.1363153,
+    "fills": 2
   },
   {
     "timestamp": 1790229814,
