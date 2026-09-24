@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 00:39:07 (hora de Perú)
+Actualizado: 2026-09-24 00:41:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $104.89
-**Retorno acumulado:** -79.02%
+**Bankroll actual:** $105.00
+**Retorno acumulado:** -79.00%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 00:39:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $104.89 en 23 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $66.85 en 15 posiciones abiertas (disponible para nuevas apuestas: $38.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,12 +30,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| UpTheBlues | 48 | 10 | 5 | +25.79 USD |
 | HMLSF | 9 | 0 | 0 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 | wr0ngw4yb3tt0r | 118 | 85 | 1 | +23.62 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
+| UpTheBlues | 50 | 11 | 2 | +21.79 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
@@ -153,11 +153,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 660 | 311 | 3 | -16.43 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| RN1 | 661 | 312 | 1 | -20.22 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 130 | 89 | 2 | -143.52 USD |
-| ferrariChampions2026 | 912 | 556 | 9 | -241.77 USD |
+|  | 131 | 89 | 1 | -138.44 USD |
+| ferrariChampions2026 | 913 | 557 | 7 | -238.95 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6044
-- **Aciertos:** 3818 (63.2%)
+- **Apuestas resueltas:** 6052
+- **Aciertos:** 3823 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,934.47
+- **Total apostado (suma de stakes):** $29,972.51
 - **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $551.05 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $551.60 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -188,10 +188,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3088 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1763 | 68.8% | 67.9% | +0.9 pp |
+| 40-59% | 3091 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 1766 | 68.7% | 67.9% | +0.8 pp |
 | 80-94% | 850 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 343 | 97.4% | 97.4% | +0.0 pp |
+| 95-99% (casi seguro) | 345 | 97.4% | 97.4% | +0.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1124,24 +1124,24 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | San Diego Padres vs. Los Angeles Dodgers | San Diego Padres (BUY) | 73% | 5.00 | 1.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Spread: Athletics (-1.5) | Los Angeles Angels (BUY) | 48% | 5.00 | 0.7% | ❌ perdida | -5.13 |
-| UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
-| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
+| UpTheBlues | Spread: Seattle Sounders FC (-1.5) | Seattle Sounders FC (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
+| UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Hangzhou Open: Jaime Faria vs Terence At | Jaime Faria (BUY) | 45% | 3.44 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Tallon Griekspoor vs Denis | Tallon Griekspoor (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 53% | 3.85 | 0.5% | ❌ perdida | -3.94 |
 | ferrariChampions2026 | Spread: Houston Astros (-1.5) | Seattle Mariners (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 79% | 5.00 | 1.7% | ✅ ganada | +1.28 |
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 49% | 5.00 | 0.9% | ✅ ganada | +5.08 |
+| ferrariChampions2026 | Buenos Aires 2: Francisco Comesana vs Jo | Joaquin Aguilar (BUY) | 42% | 5.00 | 0.3% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | W50 Nanao: Rion Itaya vs Kurea Hayasaka | Rion Itaya (BUY) | 74% | 3.82 | 0.9% | ✅ ganada | +1.29 |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners: O/U | Under (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | W50 Nanao: Jia-Jing Lu vs Tiana Tian Den | Tiana Tian Deng (BUY) | 82% | 5.00 | 1.0% | ✅ ganada | +1.05 |
 | ferrariChampions2026 | Houston Astros vs. Seattle Mariners | Houston Astros (BUY) | 45% | 5.00 | 12.2% | ⏳ pendiente | — |
 | UpTheBlues | Will Antigua GFC win on 2026-09-23? | No (BUY) | 74% | 4.03 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Seattle Sounders FC vs. Real Salt Lake:  | Under (BUY) | 74% | 5.00 | 0.3% | ✅ ganada | +1.69 |
-| UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ⏳ pendiente | — |
+| UpTheBlues | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 71% | 4.19 | 0.5% | ❌ perdida | -4.25 |
 | ferrariChampions2026 | Atlanta Dream vs. New York Liberty | Atlanta Dream (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Cincinnati Reds (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | New York Mets vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 30.3% | ⏳ pendiente | — |
+| RN1 | Buenos Aires 2: Francisco Comesana vs Jo | Francisco Comesana (BUY) | 74% | 5.00 | 30.3% | ❌ perdida | -5.07 |

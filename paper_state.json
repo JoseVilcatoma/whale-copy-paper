@@ -1,5 +1,5 @@
 {
-  "bankroll": 104.89258230667099,
+  "bankroll": 104.99537815197498,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31310,6 +31310,46 @@
       "timestamp": 1790228153.9096603,
       "bankroll": 104.89,
       "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1790228468.2852128,
+      "bankroll": 99.83,
+      "event": "lost: RN1 \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228468.385436,
+      "bankroll": 95.58,
+      "event": "lost: UpTheBlues \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228469.090762,
+      "bankroll": 102.34,
+      "event": "won: ferrariChampions2026 \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228469.1909618,
+      "bankroll": 107.41,
+      "event": "won: 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228469.2912314,
+      "bankroll": 108.69,
+      "event": "won: RN1 \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228469.8070211,
+      "bankroll": 104.75,
+      "event": "lost: ferrariChampions2026 \u2014 Buenos Aires 2: Francisco Comesana vs Joaquin Aguilar"
+    },
+    {
+      "timestamp": 1790228470.6810837,
+      "bankroll": 104.95,
+      "event": "won: UpTheBlues \u2014 Seattle Sounders FC vs. Real Salt Lake: O/U 2.5"
+    },
+    {
+      "timestamp": 1790228471.1037583,
+      "bankroll": 105.0,
+      "event": "won: UpTheBlues \u2014 Spread: Seattle Sounders FC (-1.5)"
     }
   ]
 }
