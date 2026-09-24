@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 16:41:52 (hora de Perú)
+Actualizado: 2026-09-24 16:43:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $60.32
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 16:41:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.65 en 13 posiciones abiertas (disponible para nuevas apuestas: $2.67)
+**Capital comprometido ahora mismo:** $60.32 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| HMLSF | 9 | 0 | 0 | +25.26 USD |
+| HMLSF | 9 | 0 | 1 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
@@ -1124,6 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs A | Anna Rogers (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ⏳ pendiente | — |
@@ -1153,4 +1154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ❌ perdida | -2.70 |
 | RN1 | Plovdiv 4: Ivan Ivanov vs Adrian Andreev | Adrian Andreev (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | HomeRunHazard | Spread: Packers (-5.5) | Falcons (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: JiJieHao vs Eternal Fire | Eternal Fire (BUY) | 52% | 3.43 | 4.7% | ❌ perdida | -3.51 |

@@ -156639,5 +156639,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790284898.4298298,
     "fills": 1
+  },
+  {
+    "timestamp": 1790286186,
+    "timestamp_added": 1790286186.5934498,
+    "username": "HMLSF",
+    "wallet": "0x1610db79f753a80207e1d66716be9e91e627ae49",
+    "slug": "mlb-mil-phi-2026-09-24",
+    "title": "Milwaukee Brewers vs. Philadelphia Phillies",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 12308.0406,
+    "whale_pct": 15.475,
+    "whale_value_at_open": 79535.4009,
+    "paper_stake_usd": 2.67,
+    "odds_at_bet": 47,
+    "fee_usd": 0.071,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790286186.5934584,
+    "fills": 1
   }
 ]
