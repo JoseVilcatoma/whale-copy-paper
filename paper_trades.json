@@ -154489,8 +154489,8 @@
     "title": "Houston Astros vs. Seattle Mariners",
     "outcome": "Houston Astros",
     "side": "BUY",
-    "whale_usd": 29120.579180000004,
-    "whale_pct": 11.248,
+    "whale_usd": 29974.241780000004,
+    "whale_pct": 11.578,
     "whale_value_at_open": 258888.0026,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -154503,8 +154503,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790225975.8838794,
-    "fills": 10
+    "last_fill_at": 1790226083.7906454,
+    "fills": 11
   },
   {
     "timestamp": 1790216093,
