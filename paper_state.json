@@ -1,5 +1,5 @@
 {
-  "bankroll": 106.64495613984546,
+  "bankroll": 107.93711830200762,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31290,6 +31290,11 @@
       "timestamp": 1790224487.1978004,
       "bankroll": 106.64,
       "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Jia-Jing Lu vs Tiana Tian Deng"
+    },
+    {
+      "timestamp": 1790224804.684536,
+      "bankroll": 107.94,
+      "event": "won: ferrariChampions2026 \u2014 W50 Nanao: Rion Itaya vs Kurea Hayasaka"
     }
   ]
 }
