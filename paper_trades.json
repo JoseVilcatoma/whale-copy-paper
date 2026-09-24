@@ -155100,8 +155100,8 @@
     "title": "Korea Open: Anna Bondar vs Alina Charaeva",
     "outcome": "Anna Bondar",
     "side": "BUY",
-    "whale_usd": 818.8888890000001,
-    "whale_pct": 1.313,
+    "whale_usd": 1331.177723,
+    "whale_pct": 2.135,
     "whale_value_at_open": 62363.6091,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -155114,8 +155114,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790228529.0331342,
-    "fills": 1
+    "last_fill_at": 1790230645.249368,
+    "fills": 2
   },
   {
     "timestamp": 1790228608,
@@ -155280,8 +155280,8 @@
     "title": "Hangzhou Open: Sho Shimabukuro vs Hugo Gaston",
     "outcome": "Hugo Gaston",
     "side": "BUY",
-    "whale_usd": 973.1,
-    "whale_pct": 0.505,
+    "whale_usd": 3223.53,
+    "whale_pct": 1.672,
     "whale_value_at_open": 192765.3131,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -155292,8 +155292,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790229814.9806452,
-    "fills": 1
+    "last_fill_at": 1790230664.185348,
+    "fills": 2
   },
   {
     "timestamp": 1790229928,
