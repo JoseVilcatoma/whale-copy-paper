@@ -155177,8 +155177,8 @@
     "title": "Korea Open: Anna Bondar vs Alina Charaeva",
     "outcome": "Alina Charaeva",
     "side": "BUY",
-    "whale_usd": 6352.694728,
-    "whale_pct": 9.548,
+    "whale_usd": 10853.262328,
+    "whale_pct": 16.313,
     "whale_value_at_open": 66532.1335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -155191,8 +155191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790229698.597972,
-    "fills": 4
+    "last_fill_at": 1790229986.8986878,
+    "fills": 5
   },
   {
     "timestamp": 1790228924,
