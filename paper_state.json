@@ -1,5 +1,5 @@
 {
-  "bankroll": 104.6045119815466,
+  "bankroll": 108.41710847277466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31200,6 +31200,21 @@
       "timestamp": 1790214831.750989,
       "bankroll": 104.6,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1790215778.874539,
+      "bankroll": 109.89,
+      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Boston Red Sox: O/U 6.5"
+    },
+    {
+      "timestamp": 1790215779.2979484,
+      "bankroll": 113.56,
+      "event": "won: ferrariChampions2026 \u2014 Cleveland Guardians vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1790215779.3981614,
+      "bankroll": 108.42,
+      "event": "lost: Donkey14 \u2014 Cleveland Guardians vs. Boston Red Sox"
     }
   ]
 }

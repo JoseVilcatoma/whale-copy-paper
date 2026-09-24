@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-23 21:09:06 (hora de Perú)
+Actualizado: 2026-09-23 21:11:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $104.60
-**Retorno acumulado:** -79.08%
+**Bankroll actual:** $108.42
+**Retorno acumulado:** -78.32%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-23 21:09:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $104.60 en 22 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $89.60 en 19 posiciones abiertas (disponible para nuevas apuestas: $18.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -148,13 +148,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | GoalLineGhost | 113 | 46 | 0 | -11.58 USD |
-| Donkey14 | 5 | 7 | 4 | -12.20 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | RN1 | 660 | 311 | 1 | -16.43 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| Donkey14 | 5 | 8 | 3 | -17.34 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -168,18 +168,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 130 | 89 | 0 | -143.52 USD |
-| ferrariChampions2026 | 903 | 552 | 9 | -240.54 USD |
+| ferrariChampions2026 | 905 | 552 | 7 | -231.59 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6022
-- **Aciertos:** 3803 (63.2%)
+- **Apuestas resueltas:** 6025
+- **Aciertos:** 3805 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $29,827.80
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $549.15 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $29,842.80
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $549.52 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -187,7 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3077 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 3080 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 1757 | 68.8% | 67.9% | +0.8 pp |
 | 80-94% | 847 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 341 | 97.4% | 97.4% | +0.0 pp |
@@ -1134,9 +1134,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC Barcelona vs. Paris FC: O/U 6.5 | Over (BUY) | 42% | 3.30 | 0.3% | ✅ ganada | +4.46 |
 | RN1 | Chelsea FC vs. FK Austria Wien: O/U 2.5 | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
 | RN1 | Buenos Aires 2: Facundo Mena vs Guido Ju | Facundo Mena (BUY) | 76% | 5.00 | 0.3% | ✅ ganada | +1.52 |
-| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 18.5% | ⏳ pendiente | — |
+| Donkey14 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 45% | 5.00 | 18.5% | ❌ perdida | -5.14 |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX - Ma | 3DMAX (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | Counter-Strike: Luminosity vs 3DMAX (BO5 | 3DMAX (BUY) | 75% | 5.00 | 10.9% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | W50 Berkeley, CA: Connie Ma vs Akasha Ur | Connie Ma (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cleveland Guardians vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 6.7% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | San Diego 2: Henry Searle vs Liam Draxl | Henry Searle (BUY) | 63% | 3.89 | 1.3% | ✅ ganada | +2.21 |
