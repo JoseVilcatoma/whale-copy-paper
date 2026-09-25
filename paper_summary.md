@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:07:17 (hora de Perú)
+Actualizado: 2026-09-24 23:09:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:07:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $27.46)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $22.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| UpTheBlues | 59 | 12 | 1 | +29.02 USD |
+| UpTheBlues | 59 | 12 | 2 | +29.02 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | HMLSF | 10 | 0 | 0 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -1120,15 +1120,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shang-mannari-2026-09-22 | RN1, ferrariChampions2026 |
 | fif-jpn-ury-2026-09-24-total-2pt5 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1 |
 | nfl-atl-gb-2026-09-25-spread-home-5pt5 | HomeRunHazard, RN1 |
+| wta-volynet-birrell-2026-09-24 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 4.2% | ⏳ pendiente | — |
+| RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |
@@ -1154,4 +1156,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ✅ ganada | +2.72 |
-| UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |

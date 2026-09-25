@@ -156843,8 +156843,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Katie Volynets",
     "side": "BUY",
-    "whale_usd": 11738.593251999999,
-    "whale_pct": 4.161,
+    "whale_usd": 15303.038079999998,
+    "whale_pct": 5.425,
     "whale_value_at_open": 282087.701,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -156855,8 +156855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790309101.856085,
-    "fills": 4
+    "last_fill_at": 1790309274.0408685,
+    "fills": 5
   },
   {
     "timestamp": 1790308187,
@@ -156929,5 +156929,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790308618.4478304,
     "fills": 1
+  },
+  {
+    "timestamp": 1790309335,
+    "timestamp_added": 1790309335.999503,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-volynet-birrell-2026-09-24",
+    "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 1712.82,
+    "whale_pct": 0.523,
+    "whale_value_at_open": 327243.802,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790309341.3884704,
+    "fills": 3
   }
 ]
