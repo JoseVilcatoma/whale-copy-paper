@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 18:06:20 (hora de Perú)
+Actualizado: 2026-09-25 18:08:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.21
@@ -1133,7 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Boston Red Sox (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Boston Red Sox (BUY) | 44% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Boston Red Sox (BUY) | 44% | 5.00 | 4.5% | ⏳ pendiente | — |
 | omnibus-076daa | Baltimore Orioles vs. New York Yankees | Baltimore Orioles (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Minnesota Twins: O/U 7 | Under (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 20.3% | ✅ ganada | +1.69 |

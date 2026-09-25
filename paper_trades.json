@@ -157531,8 +157531,8 @@
     "title": "Chicago Cubs vs. Boston Red Sox",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 16320.750851,
-    "whale_pct": 4.348,
+    "whale_usd": 16822.785311,
+    "whale_pct": 4.481,
     "whale_value_at_open": 375399.8097,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -157543,8 +157543,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790376593.7660117,
-    "fills": 3
+    "last_fill_at": 1790377611.668292,
+    "fills": 4
   },
   {
     "timestamp": 1790376577,
