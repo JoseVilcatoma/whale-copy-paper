@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 03:38:01 (hora de Perú)
+Actualizado: 2026-09-25 03:40:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $61.06
@@ -1128,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: Heroic vs fnatic - Map 1 | fnatic (BUY) | 56% | 5.00 | 7.7% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Heroic vs fnatic - Map 1 | fnatic (BUY) | 56% | 5.00 | 9.9% | ⏳ pendiente | — |
 | UpTheBlues | Chengdu Open: Jenson Brooksby vs Lorenzo | Jenson Brooksby (BUY) | 54% | 3.47 | 0.5% | ✅ ganada | +2.88 |
 | RN1 | Chengdu Open: Jenson Brooksby vs Lorenzo | Lorenzo Sonego (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
