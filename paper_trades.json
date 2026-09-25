@@ -157167,8 +157167,8 @@
     "title": "Chengdu Open: Jenson Brooksby vs Lorenzo Sonego",
     "outcome": "Lorenzo Sonego",
     "side": "BUY",
-    "whale_usd": 853.9569230000001,
-    "whale_pct": 0.512,
+    "whale_usd": 1488.9653230000001,
+    "whale_pct": 0.893,
     "whale_value_at_open": 166752.4891,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -157179,8 +157179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790312604.0078928,
-    "fills": 1
+    "last_fill_at": 1790319977.9207742,
+    "fills": 2
   },
   {
     "timestamp": 1790313353,
