@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:56:48 (hora de Perú)
+Actualizado: 2026-09-24 23:58:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $78.39
-**Retorno acumulado:** -84.32%
+**Bankroll actual:** $73.47
+**Retorno acumulado:** -85.31%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:56:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $18.39)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $8.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 60 | 12 | 3 | +34.75 USD |
+| UpTheBlues | 60 | 12 | 5 | +34.75 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| GoalLineGhost | 115 | 48 | 2 | -15.42 USD |
+| GoalLineGhost | 115 | 48 | 3 | -15.42 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -162,9 +162,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| RN1 | 681 | 323 | 4 | -26.76 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
+| RN1 | 682 | 324 | 2 | -31.67 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6137
-- **Aciertos:** 3876 (63.2%)
+- **Apuestas resueltas:** 6139
+- **Aciertos:** 3877 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,360.74
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $558.45 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,370.74
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $558.47 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -191,8 +191,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3136 | 49.8% | 50.1% | -0.2 pp |
 | 60-79% | 1788 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 860 | 85.8% | 86.6% | -0.8 pp |
-| 95-99% (casi seguro) | 353 | 97.5% | 97.4% | +0.1 pp |
+| 80-94% | 861 | 85.7% | 86.6% | -0.9 pp |
+| 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1127,14 +1127,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
+| UpTheBlues | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
+| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ✅ ganada | +0.10 |
 | UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
-| RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 2.9% | ❌ perdida | -5.01 |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
@@ -1154,6 +1157,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 11.2% | ❌ perdida | -5.13 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ❌ perdida | -2.79 |
 | GoalLineGhost | Andorra vs. Malta: O/U 0.5 | Over (BUY) | 84% | 5.00 | 0.5% | ✅ ganada | +0.91 |
-| Elaran1993 | Will there be a run scored in the first  | Yes (BUY) | 42% | 2.40 | 23.7% | ✅ ganada | +3.24 |
-| ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
-| lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |

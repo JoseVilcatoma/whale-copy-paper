@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.38588231755388,
+  "bankroll": 73.4679231338804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31775,6 +31775,16 @@
       "timestamp": 1790311288.0016837,
       "bankroll": 78.39,
       "event": "won: RN1 \u2014 Las Vegas Aces vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1790312220.770571,
+      "bankroll": 73.37,
+      "event": "lost: RN1 \u2014 Golden State Valkyries vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1790312220.9709675,
+      "bankroll": 73.47,
+      "event": "won: RN1 \u2014 Golden State Valkyries vs. Los Angeles Sparks"
     }
   ]
 }
