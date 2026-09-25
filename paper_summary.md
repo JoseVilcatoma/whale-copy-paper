@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 05:33:50 (hora de Perú)
+Actualizado: 2026-09-25 05:35:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $66.73
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 05:33:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $6.73)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $1.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,7 +164,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
-| RN1 | 683 | 325 | 2 | -32.98 USD |
+| RN1 | 683 | 325 | 3 | -32.98 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1129,6 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Tolentino: Guiomar Maristany vs Rebeka M | Guiomar Maristany (BUY) | 62% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Game Handicap: 1WIN (-1.5) vs GamerLegio | GamerLegion (BUY) | 56% | 5.00 | 3.5% | ⏳ pendiente | — |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ✅ ganada | +1.32 |
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 3.4% | ✅ ganada | +0.53 |
@@ -1158,4 +1159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ✅ ganada | +2.94 |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs A | Anna Rogers (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ✅ ganada | +0.98 |
-| GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ❌ perdida | -3.52 |

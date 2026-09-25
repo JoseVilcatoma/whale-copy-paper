@@ -157305,5 +157305,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790332325.1053154,
     "fills": 2
+  },
+  {
+    "timestamp": 1790332472,
+    "timestamp_added": 1790332473.3601344,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-marista-masarov-2026-09-25",
+    "title": "Tolentino: Guiomar Maristany vs Rebeka Masarova",
+    "outcome": "Guiomar Maristany",
+    "side": "BUY",
+    "whale_usd": 862.333539,
+    "whale_pct": 0.755,
+    "whale_value_at_open": 114234.9268,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790332473.3601475,
+    "fills": 1
   }
 ]
