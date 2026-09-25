@@ -8,32 +8,32 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
     "added_at": 1790281184.2299094,
-    "roi_pct": 452.22,
+    "roi_pct": 448.51,
     "short_term_pct": 60.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1790296300.044516,
-    "roi_pct": 1554.63,
+    "roi_pct": 1539.43,
     "short_term_pct": 100.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790312529.6915116,
-    "roi_pct": 171.88,
+    "roi_pct": 157.13,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "FORTNITEMASTER888",
     "added_at": 1790335807.0648377,
-    "roi_pct": 415.45,
+    "roi_pct": 429.93,
     "short_term_pct": 90.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1790356492.8973262,
-    "roi_pct": 279.21,
-    "short_term_pct": 100.0
+    "roi_pct": 273.06,
+    "short_term_pct": 90.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
@@ -44,19 +44,19 @@
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1790376316.9033194,
-    "roi_pct": 731.82,
+    "roi_pct": 709.16,
     "short_term_pct": 100.0
   },
-  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
-    "username": "UpTheBlues",
-    "added_at": 1790377255.0263083,
-    "roi_pct": 217.9,
+  "0x1610db79f753a80207e1d66716be9e91e627ae49": {
+    "username": "HMLSF",
+    "added_at": 1790378193.7966702,
+    "roi_pct": 471.09,
     "short_term_pct": 100.0
   },
-  "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
-    "username": "Flaznorp",
-    "added_at": 1790377255.0263171,
-    "roi_pct": 132.32,
-    "short_term_pct": 100.0
+  "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c": {
+    "username": "Herdonia",
+    "added_at": 1790378193.7966766,
+    "roi_pct": 129.9,
+    "short_term_pct": 80.0
   }
 }
