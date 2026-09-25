@@ -157593,5 +157593,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790376638.9006863,
     "fills": 4
+  },
+  {
+    "timestamp": 1790376710,
+    "timestamp_added": 1790376710.8787105,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-ari-sd-2026-09-25-total-7pt5",
+    "title": "Arizona Diamondbacks vs. San Diego Padres: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2784.6896,
+    "whale_pct": 0.682,
+    "whale_value_at_open": 408536.0895,
+    "paper_stake_usd": 2.52,
+    "odds_at_bet": 50,
+    "fee_usd": 0.063,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790376710.8787215,
+    "fills": 1
   }
 ]
