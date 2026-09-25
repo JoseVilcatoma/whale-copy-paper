@@ -8,55 +8,55 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
     "added_at": 1790281184.2299094,
-    "roi_pct": 1179.6,
-    "short_term_pct": 100.0
+    "roi_pct": 554.35,
+    "short_term_pct": 70.0
   },
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1790289693.6060631,
-    "roi_pct": 473.43,
-    "short_term_pct": 90.0
+    "roi_pct": 461.75,
+    "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1790296300.044516,
-    "roi_pct": 1550.96,
+    "roi_pct": 1553.64,
     "short_term_pct": 100.0
   },
   "0xa38a455bbdd4b68486548b7e19da99903f4f821d": {
     "username": "takeormake",
     "added_at": 1790304815.346981,
-    "roi_pct": 577.41,
+    "roi_pct": 577.39,
     "short_term_pct": 80.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790312529.6915116,
-    "roi_pct": 570.0,
+    "roi_pct": 561.85,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "FORTNITEMASTER888",
     "added_at": 1790335807.0648377,
-    "roi_pct": 539.72,
+    "roi_pct": 538.63,
     "short_term_pct": 80.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1790340480.0007265,
-    "roi_pct": 2092.32,
+    "roi_pct": 2342.07,
     "short_term_pct": 100.0
   },
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1790343307.4371614,
-    "roi_pct": 96.55,
-    "short_term_pct": 70.0
-  },
-  "0x67542c3219b37fd1610aad290676ff91cdbfe3bc": {
-    "username": "maz26",
-    "added_at": 1790344244.1030903,
-    "roi_pct": 96.21,
+    "roi_pct": 97.57,
     "short_term_pct": 50.0
+  },
+  "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c": {
+    "username": "Herdonia",
+    "added_at": 1790345180.364281,
+    "roi_pct": 264.52,
+    "short_term_pct": 30.0
   }
 }
