@@ -1,5 +1,5 @@
 {
-  "bankroll": 75.71495737443077,
+  "bankroll": 70.57695737443076,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31840,6 +31840,11 @@
       "timestamp": 1790351550.9800286,
       "bankroll": 75.71,
       "event": "won: ferrariChampions2026 \u2014 Porto: Elena Malygina vs Sinja Kraus"
+    },
+    {
+      "timestamp": 1790352804.8663468,
+      "bankroll": 70.58,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Felix Gill vs Jonas Forejtek"
     }
   ]
 }
