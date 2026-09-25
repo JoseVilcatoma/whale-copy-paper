@@ -157459,8 +157459,8 @@
     "title": "Will France win on 2026-09-25?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 28248.933756,
-    "whale_pct": 12.493,
+    "whale_usd": 32079.632704,
+    "whale_pct": 14.187,
     "whale_value_at_open": 226113.5542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -157471,7 +157471,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790363683.871659,
-    "fills": 13
+    "last_fill_at": 1790363810.7835572,
+    "fills": 16
   }
 ]
