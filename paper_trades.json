@@ -156769,8 +156769,8 @@
     "title": "Falcons vs. Packers",
     "outcome": "Falcons",
     "side": "BUY",
-    "whale_usd": 22011.027122000003,
-    "whale_pct": 8.342,
+    "whale_usd": 23158.885796000002,
+    "whale_pct": 8.777,
     "whale_value_at_open": 263859.5879,
     "paper_stake_usd": 2.22,
     "odds_at_bet": 42,
@@ -156781,8 +156781,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790302254.1362205,
-    "fills": 18
+    "last_fill_at": 1790302689.217394,
+    "fills": 19
   },
   {
     "timestamp": 1790300201,
