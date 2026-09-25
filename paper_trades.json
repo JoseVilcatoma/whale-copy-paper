@@ -157039,8 +157039,8 @@
     "title": "Italy vs. Belgium: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1685.0029,
-    "whale_pct": 0.767,
+    "whale_usd": 2324.6029,
+    "whale_pct": 1.059,
     "whale_value_at_open": 219590.0616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -157051,8 +157051,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790312104.5964968,
-    "fills": 2
+    "last_fill_at": 1790365870.6142979,
+    "fills": 3
   },
   {
     "timestamp": 1790312105,
