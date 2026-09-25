@@ -157339,8 +157339,8 @@
     "title": "Genoa 2: Lukas Neumayer vs Luka Mikrut",
     "outcome": "Luka Mikrut",
     "side": "BUY",
-    "whale_usd": 848.1715559999999,
-    "whale_pct": 0.522,
+    "whale_usd": 1798.1715559999998,
+    "whale_pct": 1.106,
     "whale_value_at_open": 162593.6666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -157351,8 +157351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790340336.7661178,
-    "fills": 1
+    "last_fill_at": 1790341084.5917108,
+    "fills": 2
   },
   {
     "timestamp": 1790340590,
