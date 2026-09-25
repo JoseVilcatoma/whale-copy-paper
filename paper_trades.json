@@ -156843,8 +156843,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Katie Volynets",
     "side": "BUY",
-    "whale_usd": 6497.4,
-    "whale_pct": 2.303,
+    "whale_usd": 10761.793252,
+    "whale_pct": 3.815,
     "whale_value_at_open": 282087.701,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -156855,8 +156855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790307829.7384167,
-    "fills": 1
+    "last_fill_at": 1790308792.8656344,
+    "fills": 3
   },
   {
     "timestamp": 1790308187,
@@ -156891,8 +156891,8 @@
     "title": "Golden State Valkyries vs. Los Angeles Sparks",
     "outcome": "Los Angeles Sparks",
     "side": "BUY",
-    "whale_usd": 3115.58,
-    "whale_pct": 1.564,
+    "whale_usd": 4782.0056,
+    "whale_pct": 2.401,
     "whale_value_at_open": 199195.8358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -156903,8 +156903,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790308500.1659665,
-    "fills": 3
+    "last_fill_at": 1790308759.6087961,
+    "fills": 5
   },
   {
     "timestamp": 1790308617,
