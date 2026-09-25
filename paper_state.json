@@ -1,5 +1,5 @@
 {
-  "bankroll": 68.3509231338804,
+  "bankroll": 63.3129231338804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31790,6 +31790,11 @@
       "timestamp": 1790313768.9088147,
       "bankroll": 68.35,
       "event": "lost: ratatatatatatatataaaa \u2014 Spread: Packers (-4.5)"
+    },
+    {
+      "timestamp": 1790315955.136846,
+      "bankroll": 63.31,
+      "event": "lost: GoalLineGhost \u2014 Will Cura\u00e7ao win on 2026-09-24?"
     }
   ]
 }

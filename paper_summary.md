@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 00:58:27 (hora de Perú)
+Actualizado: 2026-09-25 01:00:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $68.35
-**Retorno acumulado:** -86.33%
+**Bankroll actual:** $63.31
+**Retorno acumulado:** -87.34%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 00:58:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $68.47 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $63.47 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| GoalLineGhost | 115 | 48 | 3 | -15.42 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -158,6 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 0 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| GoalLineGhost | 115 | 49 | 2 | -20.46 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6140
+- **Apuestas resueltas:** 6141
 - **Aciertos:** 3877 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,375.74
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $558.59 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,380.74
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $558.62 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3137 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1788 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 861 | 85.7% | 86.6% | -0.9 pp |
+| 80-94% | 862 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1144,7 +1144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
-| GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ❌ perdida | -5.04 |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |
 | RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 11.6% | ✅ ganada | +3.23 |
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ✅ ganada | +3.98 |
