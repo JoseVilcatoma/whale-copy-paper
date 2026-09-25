@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:44:22 (hora de Perú)
+Actualizado: 2026-09-24 23:46:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.39
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:44:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $28.39)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $23.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| GoalLineGhost | 115 | 48 | 1 | -15.42 USD |
+| GoalLineGhost | 115 | 48 | 2 | -15.42 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1126,6 +1126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1155,4 +1156,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
-| GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ❌ perdida | -3.30 |
