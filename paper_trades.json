@@ -156843,8 +156843,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Katie Volynets",
     "side": "BUY",
-    "whale_usd": 16021.471679999999,
-    "whale_pct": 5.68,
+    "whale_usd": 16536.239279999998,
+    "whale_pct": 5.862,
     "whale_value_at_open": 282087.701,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -156855,8 +156855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790309507.1565354,
-    "fills": 6
+    "last_fill_at": 1790309893.3375823,
+    "fills": 7
   },
   {
     "timestamp": 1790308187,
@@ -156955,5 +156955,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790309341.3884704,
     "fills": 3
+  },
+  {
+    "timestamp": 1790309947,
+    "timestamp_added": 1790309947.6227763,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wnba-gsv-la-2026-09-24",
+    "title": "Golden State Valkyries vs. Los Angeles Sparks",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 1106.4869999999999,
+    "whale_pct": 0.501,
+    "whale_value_at_open": 220971.4191,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790309947.6227868,
+    "fills": 1
   }
 ]
