@@ -157329,5 +157329,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790332473.3601475,
     "fills": 1
+  },
+  {
+    "timestamp": 1790340335,
+    "timestamp_added": 1790340336.766109,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-neumaye-mikrut-2026-09-25",
+    "title": "Genoa 2: Lukas Neumayer vs Luka Mikrut",
+    "outcome": "Luka Mikrut",
+    "side": "BUY",
+    "whale_usd": 848.1715559999999,
+    "whale_pct": 0.522,
+    "whale_value_at_open": 162593.6666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790340336.7661178,
+    "fills": 1
   }
 ]
