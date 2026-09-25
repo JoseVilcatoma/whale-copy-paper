@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 17:45:27 (hora de Perú)
+Actualizado: 2026-09-25 17:47:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 17:45:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $22.52)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $17.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 134 | 90 | 0 | -136.24 USD |
+|  | 134 | 90 | 1 | -136.24 USD |
 | ferrariChampions2026 | 928 | 569 | 2 | -269.20 USD |
 
 ## Análisis general
@@ -1129,6 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| omnibus-076daa | Baltimore Orioles vs. New York Yankees | Baltimore Orioles (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Minnesota Twins: O/U 7 | Under (BUY) | 56% | 5.00 | 1.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 20.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ✅ ganada | +1.28 |
@@ -1158,4 +1159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ❌ perdida | -5.04 |
-| RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |

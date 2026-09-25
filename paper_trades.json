@@ -157497,5 +157497,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790376302.1651504,
     "fills": 1
+  },
+  {
+    "timestamp": 1790376400,
+    "timestamp_added": 1790376400.8532684,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-bal-nyy-2026-09-26",
+    "title": "Baltimore Orioles vs. New York Yankees",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 554.33,
+    "whale_pct": 0.236,
+    "whale_value_at_open": 234609.8417,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790376400.85328,
+    "fills": 1
   }
 ]
