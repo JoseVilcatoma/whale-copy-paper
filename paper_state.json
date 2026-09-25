@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.72399504545086,
+  "bankroll": 61.23999504545086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31715,6 +31715,11 @@
       "timestamp": 1790300194.4085531,
       "bankroll": 63.72,
       "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Cleveland Guardians vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1790300507.5329106,
+      "bankroll": 61.24,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Connecticut Sun (-1.5)"
     }
   ]
 }
