@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:27:52 (hora de Perú)
+Actualizado: 2026-09-24 23:29:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:27:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $17.46)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $12.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| UpTheBlues | 59 | 12 | 2 | +29.02 USD |
+| UpTheBlues | 59 | 12 | 3 | +29.02 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | HMLSF | 10 | 0 | 0 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -1126,12 +1126,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 5.9% | ⏳ pendiente | — |
+| RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |
@@ -1155,4 +1156,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ❌ perdida | -3.30 |
 | ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ❌ perdida | -5.12 |
-| RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
