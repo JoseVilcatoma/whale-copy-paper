@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.51947106657212,
+  "bankroll": 74.21122782332888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31870,6 +31870,11 @@
       "timestamp": 1790376260.5717807,
       "bankroll": 72.52,
       "event": "won: GoalLineGhost \u2014 Spread: Poland (-2.5)"
+    },
+    {
+      "timestamp": 1790376885.3819895,
+      "bankroll": 74.21,
+      "event": "won: GoalLineGhost \u2014 Will France win on 2026-09-25?"
     }
   ]
 }
