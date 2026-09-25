@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.3129231338804,
+  "bankroll": 61.06084905980633,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31795,6 +31795,16 @@
       "timestamp": 1790315955.136846,
       "bankroll": 63.31,
       "event": "lost: GoalLineGhost \u2014 Will Cura\u00e7ao win on 2026-09-24?"
+    },
+    {
+      "timestamp": 1790324693.1471179,
+      "bankroll": 58.18,
+      "event": "lost: RN1 \u2014 Chengdu Open: Jenson Brooksby vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1790324693.2472653,
+      "bankroll": 61.06,
+      "event": "won: UpTheBlues \u2014 Chengdu Open: Jenson Brooksby vs Lorenzo Sonego"
     }
   ]
 }
