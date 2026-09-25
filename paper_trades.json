@@ -157353,5 +157353,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790340336.7661178,
     "fills": 1
+  },
+  {
+    "timestamp": 1790340590,
+    "timestamp_added": 1790340591.46104,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-pol-bih-2026-09-25-spread-home-2pt5",
+    "title": "Spread: Poland (-2.5)",
+    "outcome": "Bosnia and Herzegovina",
+    "side": "BUY",
+    "whale_usd": 1930.0031999999999,
+    "whale_pct": 1.588,
+    "whale_value_at_open": 121530.1466,
+    "paper_stake_usd": 4.7,
+    "odds_at_bet": 83,
+    "fee_usd": 0.04,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790340591.4610527,
+    "fills": 1
   }
 ]
