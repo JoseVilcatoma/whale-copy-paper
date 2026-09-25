@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.218697173110435,
+  "bankroll": 63.72399504545086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31710,6 +31710,11 @@
       "timestamp": 1790299257.4336889,
       "bankroll": 58.22,
       "event": "won: HMLSF \u2014 Milwaukee Brewers vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1790300194.4085531,
+      "bankroll": 63.72,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Cleveland Guardians vs. Boston Red Sox"
     }
   ]
 }

@@ -156704,8 +156704,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -156769,8 +156769,8 @@
     "title": "Falcons vs. Packers",
     "outcome": "Falcons",
     "side": "BUY",
-    "whale_usd": 7242.56,
-    "whale_pct": 2.745,
+    "whale_usd": 13147.742193000002,
+    "whale_pct": 4.983,
     "whale_value_at_open": 263859.5879,
     "paper_stake_usd": 2.22,
     "odds_at_bet": 42,
@@ -156781,7 +156781,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790299674.0491807,
-    "fills": 6
+    "last_fill_at": 1790300165.282865,
+    "fills": 10
   }
 ]
