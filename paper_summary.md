@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 05:29:41 (hora de Perú)
+Actualizado: 2026-09-25 05:31:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $64.88
-**Retorno acumulado:** -87.02%
+**Bankroll actual:** $66.73
+**Retorno acumulado:** -86.65%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 05:29:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $64.88 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $11.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,19 +169,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 132 | 90 | 1 | -141.38 USD |
-| ferrariChampions2026 | 925 | 568 | 2 | -266.78 USD |
+|  | 133 | 90 | 0 | -140.06 USD |
+| ferrariChampions2026 | 926 | 568 | 1 | -266.25 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6144
-- **Aciertos:** 3879 (63.1%)
+- **Apuestas resueltas:** 6146
+- **Aciertos:** 3881 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,394.21
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $558.94 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,404.09
+- **ROI sobre lo apostado:** -1.84%
+- **Comisiones pagadas (taker fee):** $559.02 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,8 +190,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3140 | 49.8% | 50.1% | -0.2 pp |
-| 60-79% | 1788 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 862 | 85.6% | 86.6% | -1.0 pp |
+| 60-79% | 1789 | 68.9% | 67.9% | +0.9 pp |
+| 80-94% | 863 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1129,8 +1129,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 3.4% | ⏳ pendiente | — |
+| 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ✅ ganada | +1.32 |
+| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 3.4% | ✅ ganada | +0.53 |
 | RN1 | Counter-Strike: Heroic vs fnatic - Map 1 | fnatic (BUY) | 56% | 5.00 | 9.9% | ✅ ganada | +3.82 |
 | UpTheBlues | Chengdu Open: Jenson Brooksby vs Lorenzo | Jenson Brooksby (BUY) | 54% | 3.47 | 0.5% | ✅ ganada | +2.88 |
 | RN1 | Chengdu Open: Jenson Brooksby vs Lorenzo | Lorenzo Sonego (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |

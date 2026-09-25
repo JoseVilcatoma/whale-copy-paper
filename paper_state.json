@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.87942048837776,
+  "bankroll": 66.73238630034356,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31810,6 +31810,16 @@
       "timestamp": 1790329741.7749088,
       "bankroll": 64.88,
       "event": "won: RN1 \u2014 Counter-Strike: Heroic vs fnatic - Map 1 Winner"
+    },
+    {
+      "timestamp": 1790332300.0509338,
+      "bankroll": 65.41,
+      "event": "won: ferrariChampions2026 \u2014 Singapore Open: Xinyu Wang vs Tatiana Prozorova"
+    },
+    {
+      "timestamp": 1790332300.1511815,
+      "bankroll": 66.73,
+      "event": "won: 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c \u2014 Singapore Open: Xinyu Wang vs Tatiana Prozorova"
     }
   ]
 }
