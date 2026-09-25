@@ -156857,5 +156857,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790307829.7384167,
     "fills": 1
+  },
+  {
+    "timestamp": 1790308187,
+    "timestamp_added": 1790308188.236431,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wnba-las-phx-2026-09-24",
+    "title": "Las Vegas Aces vs. Phoenix Mercury",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 981.38281,
+    "whale_pct": 0.339,
+    "whale_value_at_open": 289754.131,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790308188.236442,
+    "fills": 1
   }
 ]
