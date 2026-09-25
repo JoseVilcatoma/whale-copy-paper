@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 18:23:03 (hora de Perú)
+Actualizado: 2026-09-25 18:25:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $76.48
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 18:23:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.52 en 14 posiciones abiertas (disponible para nuevas apuestas: $8.96)
+**Capital comprometido ahora mismo:** $76.48 en 16 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 90 | 1 | -136.24 USD |
-| ferrariChampions2026 | 928 | 569 | 5 | -269.20 USD |
+| ferrariChampions2026 | 928 | 569 | 7 | -269.20 USD |
 
 ## Análisis general
 
@@ -1129,6 +1129,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -1157,5 +1159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ✅ ganada | +0.10 |
-| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ✅ ganada | +0.10 |
