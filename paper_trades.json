@@ -157217,8 +157217,8 @@
     "title": "Counter-Strike: Heroic vs fnatic - Map 1 Winner",
     "outcome": "fnatic",
     "side": "BUY",
-    "whale_usd": 5255.550000000001,
-    "whale_pct": 6.387,
+    "whale_usd": 6342.960000000001,
+    "whale_pct": 7.708,
     "whale_value_at_open": 82288.9724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157229,7 +157229,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790325221.2235036,
-    "fills": 4
+    "last_fill_at": 1790325439.8607094,
+    "fills": 5
   }
 ]
