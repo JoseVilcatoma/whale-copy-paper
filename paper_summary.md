@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 08:32:58 (hora de Perú)
+Actualizado: 2026-09-25 08:35:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.61
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 08:32:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $64.70 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.91)
+**Capital comprometido ahora mismo:** $69.70 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -154,7 +154,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| SDTrading | 39 | 39 | 0 | -17.19 USD |
+| SDTrading | 39 | 39 | 1 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | GoalLineGhost | 115 | 49 | 3 | -20.46 USD |
@@ -1129,6 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Lukas Neumayer vs Luka Mikrut | Luka Mikrut (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |
 | RN1 | Tolentino: Guiomar Maristany vs Rebeka M | Guiomar Maristany (BUY) | 62% | 5.00 | 0.8% | ✅ ganada | +2.97 |
@@ -1158,4 +1159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ✅ ganada | +3.98 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 47% | 5.00 | 2.8% | ✅ ganada | +5.51 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Liberty (-2.5) | Liberty (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
-| HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ✅ ganada | +2.94 |

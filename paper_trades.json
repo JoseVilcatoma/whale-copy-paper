@@ -157377,5 +157377,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790340591.4610527,
     "fills": 1
+  },
+  {
+    "timestamp": 1790343190,
+    "timestamp_added": 1790343190.994508,
+    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bal-nyy-2026-09-25-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 1532.2900000000002,
+    "whale_pct": 7.198,
+    "whale_value_at_open": 21286.4476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790343190.99452,
+    "fills": 1
   }
 ]
