@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 10:51:31 (hora de Perú)
+Actualizado: 2026-09-25 10:53:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.43
-**Retorno acumulado:** -85.11%
+**Bankroll actual:** $75.71
+**Retorno acumulado:** -84.86%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 10:51:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $74.43 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $74.70 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 39 | 39 | 1 | -17.19 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 115 | 49 | 3 | -20.46 USD |
+| GoalLineGhost | 115 | 49 | 4 | -20.46 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 90 | 0 | -136.24 USD |
-| ferrariChampions2026 | 927 | 568 | 3 | -265.34 USD |
+| ferrariChampions2026 | 928 | 568 | 2 | -264.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6149
-- **Aciertos:** 3884 (63.2%)
+- **Apuestas resueltas:** 6150
+- **Aciertos:** 3885 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,419.09
-- **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $559.27 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,423.82
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $559.32 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3141 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 1790 | 68.9% | 67.9% | +0.9 pp |
+| 60-79% | 1791 | 68.9% | 67.9% | +1.0 pp |
 | 80-94% | 864 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1129,7 +1129,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Jonas Forejtek | Felix Gill (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 1.6% | ⏳ pendiente | — |
@@ -1158,4 +1159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ❌ perdida | -5.04 |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |
 | RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 11.6% | ✅ ganada | +3.23 |
-| RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ✅ ganada | +3.98 |

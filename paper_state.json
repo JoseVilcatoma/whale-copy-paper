@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.43285481032821,
+  "bankroll": 75.71495737443077,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31835,6 +31835,11 @@
       "timestamp": 1790348230.1105356,
       "bankroll": 74.43,
       "event": "won: 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c \u2014 Game Handicap: 1WIN (-1.5) vs GamerLegion (+1.5)"
+    },
+    {
+      "timestamp": 1790351550.9800286,
+      "bankroll": 75.71,
+      "event": "won: ferrariChampions2026 \u2014 Porto: Elena Malygina vs Sinja Kraus"
     }
   ]
 }
