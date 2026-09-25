@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 00:15:19 (hora de Perú)
+Actualizado: 2026-09-25 00:17:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $73.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 00:15:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $3.47)
+**Capital comprometido ahora mismo:** $73.47 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 60 | 12 | 5 | +34.75 USD |
+| UpTheBlues | 60 | 12 | 6 | +34.75 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -1122,11 +1122,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-atl-gb-2026-09-25-spread-home-5pt5 | HomeRunHazard, RN1 |
 | wta-volynet-birrell-2026-09-24 | RN1, UpTheBlues |
 | unl-ita-bel-2026-09-25-total-2pt5 | GoalLineGhost, UpTheBlues |
+| atp-brooksb-sonego-2026-09-24 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Chengdu Open: Jenson Brooksby vs Lorenzo | Jenson Brooksby (BUY) | 54% | 3.47 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Jenson Brooksby vs Lorenzo | Lorenzo Sonego (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | UpTheBlues | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1156,4 +1158,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Schalke 04 win on 2026-09-24? | Yes (BUY) | 70% | 5.00 | 0.2% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | St. Tropez: Andrea Guerrieri vs Jesper d | Andrea Guerrieri (BUY) | 55% | 5.00 | 19.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Pittsburgh Pirat | St. Louis Cardinals (BUY) | 48% | 5.00 | 11.2% | ❌ perdida | -5.13 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs Iberian Soul  | Phantom (BUY) | 50% | 2.72 | 37.6% | ❌ perdida | -2.79 |

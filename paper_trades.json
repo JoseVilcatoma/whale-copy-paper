@@ -157181,5 +157181,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790312604.0078928,
     "fills": 1
+  },
+  {
+    "timestamp": 1790313353,
+    "timestamp_added": 1790313355.257233,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-brooksb-sonego-2026-09-24",
+    "title": "Chengdu Open: Jenson Brooksby vs Lorenzo Sonego",
+    "outcome": "Jenson Brooksby",
+    "side": "BUY",
+    "whale_usd": 981.4434,
+    "whale_pct": 0.487,
+    "whale_value_at_open": 201372.1242,
+    "paper_stake_usd": 3.47,
+    "odds_at_bet": 54,
+    "fee_usd": 0.08,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790313355.2572458,
+    "fills": 1
   }
 ]
