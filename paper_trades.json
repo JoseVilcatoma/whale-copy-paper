@@ -156711,5 +156711,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790290182.3297274,
     "fills": 1
+  },
+  {
+    "timestamp": 1790295286,
+    "timestamp_added": 1790295286.791859,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-librty-coast-2026-09-24-total-53pt5",
+    "title": "Liberty vs. Coastal Carolina: O/U 53.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1032.4314000000002,
+    "whale_pct": 2.844,
+    "whale_value_at_open": 36299.954,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790295286.7918687,
+    "fills": 1
   }
 ]

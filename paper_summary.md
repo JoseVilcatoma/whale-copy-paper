@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 19:13:41 (hora de Perú)
+Actualizado: 2026-09-24 19:15:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $55.28
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 19:13:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.67 en 11 posiciones abiertas (disponible para nuevas apuestas: $6.61)
+**Capital comprometido ahora mismo:** $53.67 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 675 | 323 | 0 | -37.76 USD |
+| RN1 | 675 | 323 | 1 | -37.76 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -1124,6 +1124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Liberty (-2.5) | Liberty (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ⏳ pendiente | — |
@@ -1153,4 +1154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 18.4% | ❌ perdida | -5.01 |
 | RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ✅ ganada | +5.08 |
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Under (BUY) | 43% | 2.62 | 2.2% | ❌ perdida | -2.70 |
