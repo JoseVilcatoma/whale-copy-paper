@@ -157281,5 +157281,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790329798.5677748,
     "fills": 1
+  },
+  {
+    "timestamp": 1790332324,
+    "timestamp_added": 1790332324.5877552,
+    "username": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-gl-1win-2026-09-25-game-handicap-home-1pt5",
+    "title": "Game Handicap: 1WIN (-1.5) vs GamerLegion (+1.5)",
+    "outcome": "GamerLegion",
+    "side": "BUY",
+    "whale_usd": 2671.858,
+    "whale_pct": 3.501,
+    "whale_value_at_open": 76323.8565,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790332325.1053154,
+    "fills": 2
   }
 ]
