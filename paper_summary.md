@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 17:57:58 (hora de Perú)
+Actualizado: 2026-09-25 18:00:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $74.21
@@ -1129,7 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Boston Red Sox (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |

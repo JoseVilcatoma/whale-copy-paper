@@ -157627,8 +157627,8 @@
     "title": "Counter-Strike: Liquid vs NRG - Map 1 Winner",
     "outcome": "NRG",
     "side": "BUY",
-    "whale_usd": 906.08,
-    "whale_pct": 0.364,
+    "whale_usd": 2778.08,
+    "whale_pct": 1.116,
     "whale_value_at_open": 249033.0777,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -157639,7 +157639,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790376921.922912,
-    "fills": 1
+    "last_fill_at": 1790377145.5552044,
+    "fills": 3
   }
 ]
