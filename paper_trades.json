@@ -156759,5 +156759,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790299261.7125535,
     "fills": 1
+  },
+  {
+    "timestamp": 1790299617,
+    "timestamp_added": 1790299618.1509228,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-atl-gb-2026-09-25",
+    "title": "Falcons vs. Packers",
+    "outcome": "Falcons",
+    "side": "BUY",
+    "whale_usd": 7242.56,
+    "whale_pct": 2.745,
+    "whale_value_at_open": 263859.5879,
+    "paper_stake_usd": 2.22,
+    "odds_at_bet": 42,
+    "fee_usd": 0.064,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790299674.0491807,
+    "fills": 6
   }
 ]
