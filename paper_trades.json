@@ -157013,8 +157013,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 4536.5834780000005,
-    "whale_pct": 2.32,
+    "whale_usd": 5081.698678000001,
+    "whale_pct": 2.599,
     "whale_value_at_open": 195531.4608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157027,8 +157027,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790324441.2203267,
-    "fills": 5
+    "last_fill_at": 1790325081.149478,
+    "fills": 6
   },
   {
     "timestamp": 1790311513,
@@ -157217,8 +157217,8 @@
     "title": "Counter-Strike: Heroic vs fnatic - Map 1 Winner",
     "outcome": "fnatic",
     "side": "BUY",
-    "whale_usd": 1769.4500000000003,
-    "whale_pct": 2.15,
+    "whale_usd": 3087.8500000000004,
+    "whale_pct": 3.752,
     "whale_value_at_open": 82288.9724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157229,7 +157229,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790324776.8298106,
-    "fills": 2
+    "last_fill_at": 1790325045.625405,
+    "fills": 3
   }
 ]
