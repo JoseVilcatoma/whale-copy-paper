@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.19180068490083,
+  "bankroll": 78.28884150122735,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31765,6 +31765,11 @@
       "timestamp": 1790310604.048144,
       "bankroll": 78.19,
       "event": "won: UpTheBlues \u2014 Will Atl\u00e9tico Nacional win on 2026-09-24?"
+    },
+    {
+      "timestamp": 1790310790.6758685,
+      "bankroll": 78.29,
+      "event": "won: RN1 \u2014 San Diego 2: Nishesh Basavareddy vs Keaton Hance"
     }
   ]
 }
