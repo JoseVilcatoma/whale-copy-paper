@@ -1,5 +1,5 @@
 {
-  "bankroll": 52.47499504545086,
+  "bankroll": 57.56135718892536,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31730,6 +31730,16 @@
       "timestamp": 1790304253.5875227,
       "bankroll": 52.47,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1790307501.1751857,
+      "bankroll": 56.97,
+      "event": "won: HomeRunHazard \u2014 Spread: Packers (-5.5)"
+    },
+    {
+      "timestamp": 1790307502.5243802,
+      "bankroll": 57.56,
+      "event": "won: RN1 \u2014 Spread: Packers (-5.5)"
     }
   ]
 }
