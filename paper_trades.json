@@ -157013,8 +157013,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 4021.3534780000005,
-    "whale_pct": 2.057,
+    "whale_usd": 4536.5834780000005,
+    "whale_pct": 2.32,
     "whale_value_at_open": 195531.4608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157027,8 +157027,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790312167.316573,
-    "fills": 4
+    "last_fill_at": 1790324441.2203267,
+    "fills": 5
   },
   {
     "timestamp": 1790311513,
