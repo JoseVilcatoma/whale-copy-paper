@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.70190242937582,
+  "bankroll": 70.61428338175678,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31825,6 +31825,11 @@
       "timestamp": 1790340113.3792703,
       "bankroll": 69.7,
       "event": "won: RN1 \u2014 Tolentino: Guiomar Maristany vs Rebeka Masarova"
+    },
+    {
+      "timestamp": 1790343172.8855994,
+      "bankroll": 70.61,
+      "event": "won: ferrariChampions2026 \u2014 Genoa 2: Lukas Neumayer vs Luka Mikrut"
     }
   ]
 }
