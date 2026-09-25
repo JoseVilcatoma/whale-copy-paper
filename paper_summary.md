@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 20:36:39 (hora de Perú)
+Actualizado: 2026-09-24 20:38:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $63.72
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 20:36:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.22 en 12 posiciones abiertas (disponible para nuevas apuestas: $10.50)
+**Capital comprometido ahora mismo:** $63.22 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,7 +150,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| GoalLineGhost | 115 | 48 | 0 | -15.42 USD |
+| GoalLineGhost | 115 | 48 | 1 | -15.42 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 675 | 323 | 3 | -37.76 USD |
+| RN1 | 675 | 323 | 4 | -37.76 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -1119,11 +1119,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bu-zheng-2026-09-22 | RN1, ferrariChampions2026 |
 | atp-shang-mannari-2026-09-22 | RN1, ferrariChampions2026 |
 | fif-jpn-ury-2026-09-24-total-2pt5 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1 |
+| nfl-atl-gb-2026-09-25-spread-home-5pt5 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 5.0% | ⏳ pendiente | — |
 | RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -1152,5 +1155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China PR vs. Maldives: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | lllllllIlll | Counter-Strike: paiN vs Bounty Hunters E | paiN (BUY) | 66% | 4.49 | 1.5% | ✅ ganada | +2.24 |
 | RN1 | China PR vs. Maldives: O/U 2.5 | Over (BUY) | 87% | 5.00 | 2.2% | ✅ ganada | +0.71 |
-| RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 5.0% | ✅ ganada | +2.51 |
-| RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ❌ perdida | -5.14 |
