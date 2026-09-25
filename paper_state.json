@@ -1,5 +1,5 @@
 {
-  "bankroll": 74.21122782332888,
+  "bankroll": 76.48416899979946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31875,6 +31875,11 @@
       "timestamp": 1790376885.3819895,
       "bankroll": 74.21,
       "event": "won: GoalLineGhost \u2014 Will France win on 2026-09-25?"
+    },
+    {
+      "timestamp": 1790378451.4255676,
+      "bankroll": 76.48,
+      "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }

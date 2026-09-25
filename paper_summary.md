@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 18:18:52 (hora de Perú)
+Actualizado: 2026-09-25 18:20:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $74.21
-**Retorno acumulado:** -85.16%
+**Bankroll actual:** $76.48
+**Retorno acumulado:** -84.70%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 18:18:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $72.52 en 15 posiciones abiertas (disponible para nuevas apuestas: $1.69)
+**Capital comprometido ahora mismo:** $67.52 en 14 posiciones abiertas (disponible para nuevas apuestas: $8.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -150,11 +150,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
+| SDTrading | 40 | 39 | 0 | -14.92 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| SDTrading | 39 | 39 | 1 | -17.19 USD |
 | GoalLineGhost | 118 | 50 | 0 | -17.45 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6157
-- **Aciertos:** 3889 (63.2%)
+- **Apuestas resueltas:** 6158
+- **Aciertos:** 3890 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,458.52
+- **Total apostado (suma de stakes):** $30,463.52
 - **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $560.05 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $560.13 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3146 | 49.8% | 50.1% | -0.2 pp |
-| 60-79% | 1792 | 68.9% | 67.9% | +1.0 pp |
+| 60-79% | 1793 | 68.9% | 67.9% | +1.0 pp |
 | 80-94% | 865 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1139,7 +1139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 20.3% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Jonas Forejtek | Felix Gill (BUY) | 45% | 5.00 | 0.8% | ❌ perdida | -5.14 |
-| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ⏳ pendiente | — |
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ✅ ganada | +2.27 |
 | GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 3.2% | ✅ ganada | +0.92 |
 | ferrariChampions2026 | Genoa 2: Lukas Neumayer vs Luka Mikrut | Luka Mikrut (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |
 | RN1 | Tolentino: Guiomar Maristany vs Rebeka M | Guiomar Maristany (BUY) | 62% | 5.00 | 0.8% | ✅ ganada | +2.97 |
