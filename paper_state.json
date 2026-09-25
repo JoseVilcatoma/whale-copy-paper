@@ -1,5 +1,5 @@
 {
-  "bankroll": 61.06084905980633,
+  "bankroll": 64.87942048837776,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31805,6 +31805,11 @@
       "timestamp": 1790324693.2472653,
       "bankroll": 61.06,
       "event": "won: UpTheBlues \u2014 Chengdu Open: Jenson Brooksby vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1790329741.7749088,
+      "bankroll": 64.88,
+      "event": "won: RN1 \u2014 Counter-Strike: Heroic vs fnatic - Map 1 Winner"
     }
   ]
 }
