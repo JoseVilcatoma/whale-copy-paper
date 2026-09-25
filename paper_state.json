@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.73238630034356,
+  "bankroll": 69.70190242937582,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31820,6 +31820,11 @@
       "timestamp": 1790332300.1511815,
       "bankroll": 66.73,
       "event": "won: 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c \u2014 Singapore Open: Xinyu Wang vs Tatiana Prozorova"
+    },
+    {
+      "timestamp": 1790340113.3792703,
+      "bankroll": 69.7,
+      "event": "won: RN1 \u2014 Tolentino: Guiomar Maristany vs Rebeka Masarova"
     }
   ]
 }
