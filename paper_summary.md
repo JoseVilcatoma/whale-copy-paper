@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 04:52:12 (hora de Perú)
+Actualizado: 2026-09-25 04:54:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.88
@@ -1130,7 +1130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Heroic vs fnatic - Map 1 | fnatic (BUY) | 56% | 5.00 | 9.9% | ✅ ganada | +3.82 |
 | UpTheBlues | Chengdu Open: Jenson Brooksby vs Lorenzo | Jenson Brooksby (BUY) | 54% | 3.47 | 0.5% | ✅ ganada | +2.88 |
 | RN1 | Chengdu Open: Jenson Brooksby vs Lorenzo | Lorenzo Sonego (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |

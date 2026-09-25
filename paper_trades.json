@@ -157241,8 +157241,8 @@
     "title": "Singapore Open: Xinyu Wang vs Tatiana Prozorova",
     "outcome": "Tatiana Prozorova",
     "side": "BUY",
-    "whale_usd": 1859.9424,
-    "whale_pct": 1.653,
+    "whale_usd": 2576.2424,
+    "whale_pct": 2.29,
     "whale_value_at_open": 112521.1314,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -157253,8 +157253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790329845.3464143,
-    "fills": 2
+    "last_fill_at": 1790329963.051252,
+    "fills": 3
   },
   {
     "timestamp": 1790329798,
