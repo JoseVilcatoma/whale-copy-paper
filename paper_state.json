@@ -1,5 +1,5 @@
 {
-  "bankroll": 57.56135718892536,
+  "bankroll": 60.56307147463965,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31740,6 +31740,11 @@
       "timestamp": 1790307502.5243802,
       "bankroll": 57.56,
       "event": "won: RN1 \u2014 Spread: Packers (-5.5)"
+    },
+    {
+      "timestamp": 1790307812.8074706,
+      "bankroll": 60.56,
+      "event": "won: RN1 \u2014 Falcons vs. Packers"
     }
   ]
 }
