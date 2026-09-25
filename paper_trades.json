@@ -157207,5 +157207,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790313355.2572458,
     "fills": 1
+  },
+  {
+    "timestamp": 1790324756,
+    "timestamp_added": 1790324757.2963102,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-hero-fnc-2026-09-25-game1",
+    "title": "Counter-Strike: Heroic vs fnatic - Map 1 Winner",
+    "outcome": "fnatic",
+    "side": "BUY",
+    "whale_usd": 1769.4500000000003,
+    "whale_pct": 2.15,
+    "whale_value_at_open": 82288.9724,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790324776.8298106,
+    "fills": 2
   }
 ]
