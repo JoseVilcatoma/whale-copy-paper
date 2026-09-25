@@ -1,5 +1,5 @@
 {
-  "bankroll": 76.48416899979946,
+  "bankroll": 77.13598718161765,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31880,6 +31880,11 @@
       "timestamp": 1790378451.4255676,
       "bankroll": 76.48,
       "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1790378828.8699481,
+      "bankroll": 77.14,
+      "event": "won: RN1 \u2014 Counter-Strike: GamerLegion vs K27 - Map 2 Winner"
     }
   ]
 }
