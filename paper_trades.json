@@ -157013,8 +157013,8 @@
     "title": "Korea Open: Katie Volynets vs Kimberly Birrell",
     "outcome": "Kimberly Birrell",
     "side": "BUY",
-    "whale_usd": 686.3450000000001,
-    "whale_pct": 0.351,
+    "whale_usd": 4021.3534780000005,
+    "whale_pct": 2.057,
     "whale_value_at_open": 195531.4608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157027,8 +157027,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790310905.0223327,
-    "fills": 1
+    "last_fill_at": 1790312167.316573,
+    "fills": 4
   },
   {
     "timestamp": 1790311513,
@@ -157039,8 +157039,8 @@
     "title": "Italy vs. Belgium: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 656.0014,
-    "whale_pct": 0.299,
+    "whale_usd": 1685.0029,
+    "whale_pct": 0.767,
     "whale_value_at_open": 219590.0616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -157051,7 +157051,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790311513.5883787,
+    "last_fill_at": 1790312104.5964968,
+    "fills": 2
+  },
+  {
+    "timestamp": 1790312105,
+    "timestamp_added": 1790312106.1739945,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "unl-ita-bel-2026-09-25-total-2pt5",
+    "title": "Italy vs. Belgium: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 599.67,
+    "whale_pct": 0.296,
+    "whale_value_at_open": 202542.494,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790312106.174005,
     "fills": 1
   }
 ]

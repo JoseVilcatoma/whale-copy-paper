@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:54:43 (hora de Perú)
+Actualizado: 2026-09-24 23:56:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $78.39
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:54:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $23.39)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $18.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 60 | 12 | 2 | +34.75 USD |
+| UpTheBlues | 60 | 12 | 3 | +34.75 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -1121,13 +1121,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | fif-jpn-ury-2026-09-24-total-2pt5 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, RN1 |
 | nfl-atl-gb-2026-09-25-spread-home-5pt5 | HomeRunHazard, RN1 |
 | wta-volynet-birrell-2026-09-24 | RN1, UpTheBlues |
+| unl-ita-bel-2026-09-25-total-2pt5 | GoalLineGhost, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
+| UpTheBlues | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -1155,4 +1157,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Elaran1993 | Will there be a run scored in the first  | Yes (BUY) | 42% | 2.40 | 23.7% | ✅ ganada | +3.24 |
 | ferrariChampions2026 | Genoa 2: Jay Clarke vs Giuseppe La Vela | Jay Clarke (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |
-| ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
