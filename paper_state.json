@@ -1,5 +1,5 @@
 {
-  "bankroll": 61.23999504545086,
+  "bankroll": 57.59199504545086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31720,6 +31720,11 @@
       "timestamp": 1790300507.5329106,
       "bankroll": 61.24,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Connecticut Sun (-1.5)"
+    },
+    {
+      "timestamp": 1790300819.3301525,
+      "bankroll": 57.59,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. New York Yankees: O/U 7.5"
     }
   ]
 }
