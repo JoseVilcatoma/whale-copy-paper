@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 15:04:57 (hora de Perú)
+Actualizado: 2026-09-25 15:07:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.58
@@ -1129,7 +1129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 19.9% | ⏳ pendiente | — |
+| GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 20.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Jonas Forejtek | Felix Gill (BUY) | 45% | 5.00 | 0.8% | ❌ perdida | -5.14 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ⏳ pendiente | — |
@@ -1146,7 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
+| GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Under (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ✅ ganada | +0.10 |
