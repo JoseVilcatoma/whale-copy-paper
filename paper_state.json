@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.57695737443076,
+  "bankroll": 72.51947106657212,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31845,6 +31845,31 @@
       "timestamp": 1790352804.8663468,
       "bankroll": 70.58,
       "event": "lost: ferrariChampions2026 \u2014 Plovdiv 4: Felix Gill vs Jonas Forejtek"
+    },
+    {
+      "timestamp": 1790376259.8867266,
+      "bankroll": 76.08,
+      "event": "won: GoalLineGhost \u2014 Italy vs. Belgium: O/U 2.5"
+    },
+    {
+      "timestamp": 1790376259.9868436,
+      "bankroll": 81.82,
+      "event": "won: UpTheBlues \u2014 Italy vs. Belgium: O/U 2.5"
+    },
+    {
+      "timestamp": 1790376260.1872227,
+      "bankroll": 76.71,
+      "event": "lost: UpTheBlues \u2014 Italy vs. Belgium: O/U 2.5"
+    },
+    {
+      "timestamp": 1790376260.2874212,
+      "bankroll": 71.6,
+      "event": "lost: GoalLineGhost \u2014 Italy vs. Belgium: O/U 2.5"
+    },
+    {
+      "timestamp": 1790376260.5717807,
+      "bankroll": 72.52,
+      "event": "won: GoalLineGhost \u2014 Spread: Poland (-2.5)"
     }
   ]
 }

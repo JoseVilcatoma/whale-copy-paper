@@ -157046,8 +157046,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -157070,8 +157070,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [
       "GoalLineGhost"
     ],
@@ -157122,8 +157122,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "GoalLineGhost"
     ],
@@ -157148,8 +157148,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -157370,8 +157370,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.04,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.92,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -157473,5 +157473,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790366716.2742236,
     "fills": 23
+  },
+  {
+    "timestamp": 1790376301,
+    "timestamp_added": 1790376302.1651392,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-min-2026-09-25-total-7pt5",
+    "title": "Texas Rangers vs. Minnesota Twins: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5950.799999999999,
+    "whale_pct": 1.577,
+    "whale_value_at_open": 377371.169,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790376302.1651504,
+    "fills": 1
   }
 ]
