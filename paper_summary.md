@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 22:56:57 (hora de Perú)
+Actualizado: 2026-09-24 22:59:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $69.22
-**Retorno acumulado:** -86.16%
+**Bankroll actual:** $72.46
+**Retorno acumulado:** -85.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 22:56:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $24.22)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $27.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,8 +162,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
+| RN1 | 679 | 323 | 4 | -26.96 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 678 | 323 | 4 | -30.19 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6133
-- **Aciertos:** 3872 (63.1%)
+- **Apuestas resueltas:** 6134
+- **Aciertos:** 3873 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,340.74
-- **ROI sobre lo apostado:** -1.84%
-- **Comisiones pagadas (taker fee):** $558.20 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,345.74
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $558.30 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3135 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1787 | 68.8% | 67.9% | +0.9 pp |
+| 60-79% | 1788 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 860 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 351 | 97.4% | 97.4% | +0.1 pp |
 
@@ -1125,13 +1125,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ✅ ganada | +3.00 |
-| RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 11.6% | ⏳ pendiente | — |
+| RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 11.6% | ✅ ganada | +3.23 |
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ✅ ganada | +3.98 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 47% | 5.00 | 2.8% | ✅ ganada | +5.51 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Liberty (-2.5) | Liberty (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
@@ -1154,4 +1155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ✅ ganada | +2.72 |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
-| RN1 | Counter-Strike: fnatic vs Just Players - | Just Players (BUY) | 44% | 2.38 | 0.3% | ❌ perdida | -2.45 |

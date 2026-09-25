@@ -1,5 +1,5 @@
 {
-  "bankroll": 69.22390213417619,
+  "bankroll": 72.45723546750952,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31755,6 +31755,11 @@
       "timestamp": 1790308432.0982082,
       "bankroll": 69.22,
       "event": "won: RN1 \u2014 Liberty vs. Coastal Carolina: O/U 53.5"
+    },
+    {
+      "timestamp": 1790308741.3352866,
+      "bankroll": 72.46,
+      "event": "won: RN1 \u2014 Liberty vs. Coastal Carolina"
     }
   ]
 }
