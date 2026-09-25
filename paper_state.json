@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.45723546750952,
+  "bankroll": 78.19180068490083,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31760,6 +31760,11 @@
       "timestamp": 1790308741.3352866,
       "bankroll": 72.46,
       "event": "won: RN1 \u2014 Liberty vs. Coastal Carolina"
+    },
+    {
+      "timestamp": 1790310604.048144,
+      "bankroll": 78.19,
+      "event": "won: UpTheBlues \u2014 Will Atl\u00e9tico Nacional win on 2026-09-24?"
     }
   ]
 }

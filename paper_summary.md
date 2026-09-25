@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 23:29:56 (hora de Perú)
+Actualizado: 2026-09-24 23:31:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.46
-**Retorno acumulado:** -85.51%
+**Bankroll actual:** $78.19
+**Retorno acumulado:** -84.36%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 23:29:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $12.46)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $23.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,11 +23,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
+| UpTheBlues | 60 | 12 | 2 | +34.75 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
-| UpTheBlues | 59 | 12 | 3 | +29.02 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
 | HMLSF | 10 | 0 | 0 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6134
-- **Aciertos:** 3873 (63.1%)
+- **Apuestas resueltas:** 6135
+- **Aciertos:** 3874 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,345.74
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $558.30 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,350.74
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $558.44 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3135 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3136 | 49.8% | 50.1% | -0.2 pp |
 | 60-79% | 1788 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 860 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 351 | 97.4% | 97.4% | +0.1 pp |
@@ -1128,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Will Cavalry FC win on 2026-09-25? | Yes (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Golden State Valkyries (BUY) | 98% | 5.00 | 0.5% | ⏳ pendiente | — |
-| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
+| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 76% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Nishesh Basavareddy vs Keat | Nishesh Basavareddy (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
