@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 20:19:58 (hora de Perú)
+Actualizado: 2026-09-24 20:22:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $55.28
-**Retorno acumulado:** -88.94%
+**Bankroll actual:** $58.22
+**Retorno acumulado:** -88.36%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 20:19:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.67 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.61)
+**Capital comprometido ahora mismo:** $56.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $2.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,9 +29,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | UpTheBlues | 59 | 12 | 1 | +29.02 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
+| HMLSF | 10 | 0 | 0 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| HMLSF | 9 | 0 | 1 | +25.26 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 675 | 323 | 1 | -37.76 USD |
+| RN1 | 675 | 323 | 2 | -37.76 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6123
-- **Aciertos:** 3865 (63.1%)
+- **Apuestas resueltas:** 6124
+- **Aciertos:** 3866 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,299.85
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $557.31 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,302.52
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $557.38 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3127 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3128 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1786 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 859 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 351 | 97.4% | 97.4% | +0.1 pp |
@@ -1124,10 +1124,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Liberty (-2.5) | Liberty (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ⏳ pendiente | — |
+| HMLSF | Milwaukee Brewers vs. Philadelphia Phill | Milwaukee Brewers (BUY) | 47% | 2.67 | 15.5% | ✅ ganada | +2.94 |
 | ferrariChampions2026 | W50 Berkeley, CA: Yara Bartashevich vs A | Anna Rogers (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | RN1 | Will Denmark win on 2026-09-24? | No (BUY) | 83% | 5.00 | 1.2% | ✅ ganada | +0.98 |
 | GoalLineGhost | Spread: Portugal (-2.5) | Portugal (BUY) | 45% | 3.43 | 0.5% | ❌ perdida | -3.52 |
@@ -1153,4 +1154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hangzhou Open: Jie Cui vs Adolfo Vallejo | Adolfo Vallejo (BUY) | 62% | 4.22 | 5.0% | ✅ ganada | +2.51 |
 | RN1 | Tolentino: Alice Tubello vs Julia Grabhe | Alice Tubello (BUY) | 43% | 5.00 | 4.5% | ❌ perdida | -5.14 |
 | RN1 | Singapore Open: Tatiana Prozorova vs Ale | Alexandra Eala (BUY) | 94% | 5.00 | 18.4% | ❌ perdida | -5.01 |
-| RN1 | Japan vs. Uruguay: O/U 2.5 | Over (BUY) | 49% | 5.00 | 11.4% | ✅ ganada | +5.08 |

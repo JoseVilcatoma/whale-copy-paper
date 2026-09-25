@@ -1,5 +1,5 @@
 {
-  "bankroll": 55.27884610928065,
+  "bankroll": 58.218697173110435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31705,6 +31705,11 @@
       "timestamp": 1790295205.968573,
       "bankroll": 55.28,
       "event": "won: ferrariChampions2026 \u2014 W50 Berkeley, CA: Yara Bartashevich vs Anna Rogers"
+    },
+    {
+      "timestamp": 1790299257.4336889,
+      "bankroll": 58.22,
+      "event": "won: HMLSF \u2014 Milwaukee Brewers vs. Philadelphia Phillies"
     }
   ]
 }
