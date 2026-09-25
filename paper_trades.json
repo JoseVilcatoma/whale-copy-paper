@@ -157141,8 +157141,8 @@
     "title": "Italy vs. Belgium: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1343.0010000000002,
-    "whale_pct": 0.607,
+    "whale_usd": 4318.0038,
+    "whale_pct": 1.95,
     "whale_value_at_open": 221401.4341,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157155,8 +157155,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790312283.5687325,
-    "fills": 1
+    "last_fill_at": 1790360020.6170776,
+    "fills": 3
   },
   {
     "timestamp": 1790312603,
@@ -157459,8 +157459,8 @@
     "title": "Will France win on 2026-09-25?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 7667.9942,
-    "whale_pct": 3.391,
+    "whale_usd": 10240.996,
+    "whale_pct": 4.529,
     "whale_value_at_open": 226113.5542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -157471,7 +157471,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790357928.5894997,
-    "fills": 5
+    "last_fill_at": 1790360044.7626579,
+    "fills": 6
   }
 ]
