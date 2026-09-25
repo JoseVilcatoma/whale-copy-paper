@@ -1,5 +1,5 @@
 {
-  "bankroll": 78.28884150122735,
+  "bankroll": 78.38588231755388,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31770,6 +31770,11 @@
       "timestamp": 1790310790.6758685,
       "bankroll": 78.29,
       "event": "won: RN1 \u2014 San Diego 2: Nishesh Basavareddy vs Keaton Hance"
+    },
+    {
+      "timestamp": 1790311288.0016837,
+      "bankroll": 78.39,
+      "event": "won: RN1 \u2014 Las Vegas Aces vs. Phoenix Mercury"
     }
   ]
 }
