@@ -157435,8 +157435,8 @@
     "title": "Porto: Elena Malygina vs Sinja Kraus",
     "outcome": "Sinja Kraus",
     "side": "BUY",
-    "whale_usd": 1127.7184,
-    "whale_pct": 0.677,
+    "whale_usd": 1998.2132000000001,
+    "whale_pct": 1.2,
     "whale_value_at_open": 166486.165,
     "paper_stake_usd": 4.73,
     "odds_at_bet": 78,
@@ -157447,7 +157447,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790348407.6271663,
-    "fills": 1
+    "last_fill_at": 1790348757.3417702,
+    "fills": 2
   }
 ]
