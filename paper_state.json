@@ -1,5 +1,5 @@
 {
-  "bankroll": 54.62702792746247,
+  "bankroll": 55.27884610928065,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31700,6 +31700,11 @@
       "timestamp": 1790289912.7985904,
       "bankroll": 54.63,
       "event": "won: RN1 \u2014 Will Denmark win on 2026-09-24?"
+    },
+    {
+      "timestamp": 1790295205.968573,
+      "bankroll": 55.28,
+      "event": "won: ferrariChampions2026 \u2014 W50 Berkeley, CA: Yara Bartashevich vs Anna Rogers"
     }
   ]
 }
