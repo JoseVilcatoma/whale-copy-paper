@@ -157363,8 +157363,8 @@
     "title": "Spread: Poland (-2.5)",
     "outcome": "Bosnia and Herzegovina",
     "side": "BUY",
-    "whale_usd": 1930.0031999999999,
-    "whale_pct": 1.588,
+    "whale_usd": 3885.2032,
+    "whale_pct": 3.197,
     "whale_value_at_open": 121530.1466,
     "paper_stake_usd": 4.7,
     "odds_at_bet": 83,
@@ -157375,8 +157375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790340591.4610527,
-    "fills": 1
+    "last_fill_at": 1790358494.7198539,
+    "fills": 2
   },
   {
     "timestamp": 1790343190,

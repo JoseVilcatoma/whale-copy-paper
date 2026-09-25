@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 12:48:05 (hora de Perú)
+Actualizado: 2026-09-25 12:50:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.58
@@ -1133,7 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Porto: Elena Malygina vs Sinja Kraus | Sinja Kraus (BUY) | 78% | 4.73 | 1.2% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Jonas Forejtek | Felix Gill (BUY) | 45% | 5.00 | 0.8% | ❌ perdida | -5.14 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 1.6% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Lukas Neumayer vs Luka Mikrut | Luka Mikrut (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |
 | RN1 | Tolentino: Guiomar Maristany vs Rebeka M | Guiomar Maristany (BUY) | 62% | 5.00 | 0.8% | ✅ ganada | +2.97 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Game Handicap: 1WIN (-1.5) vs GamerLegio | GamerLegion (BUY) | 56% | 5.00 | 3.5% | ✅ ganada | +3.82 |
