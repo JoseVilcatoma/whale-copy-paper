@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 21:43:16 (hora de Perú)
+Actualizado: 2026-09-24 21:45:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $57.59
-**Retorno acumulado:** -88.48%
+**Bankroll actual:** $52.47
+**Retorno acumulado:** -89.51%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-24 21:43:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.22 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.37)
+**Capital comprometido ahora mismo:** $52.22 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 132 | 90 | 0 | -141.38 USD |
-| ferrariChampions2026 | 925 | 567 | 2 | -261.66 USD |
+| ferrariChampions2026 | 925 | 568 | 1 | -266.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6127
+- **Apuestas resueltas:** 6128
 - **Aciertos:** 3867 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,313.52
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $557.64 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,318.52
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $557.76 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3130 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3131 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1787 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 859 | 85.8% | 86.6% | -0.8 pp |
 | 95-99% (casi seguro) | 351 | 97.4% | 97.4% | +0.1 pp |
@@ -1128,7 +1128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Curaçao win on 2026-09-24? | No (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Falcons vs. Packers | Falcons (BUY) | 42% | 2.22 | 10.3% | ⏳ pendiente | — |
-| RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 4.0% | ⏳ pendiente | — |
+| RN1 | Liberty vs. Coastal Carolina | Liberty (BUY) | 60% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Liberty vs. Coastal Carolina: O/U 53.5 | Under (BUY) | 55% | 5.00 | 4.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Cleveland Guardians vs. Boston Red Sox | Cleveland Guardians (BUY) | 47% | 5.00 | 2.8% | ✅ ganada | +5.51 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Spread: Liberty (-2.5) | Liberty (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -1147,7 +1147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lllllllIlll | Counter-Strike: CYBERSHOKE Esports vs K2 | K27 (BUY) | 75% | 5.00 | 159.0% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Iliyan Radulov | Felix Gill (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | GoalLineGhost | Portugal vs. Wales: O/U 3.5 | Over (BUY) | 51% | 3.22 | 0.3% | ❌ perdida | -3.30 |
-| ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 53% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | RN1 | Chengdu Open: Juan Manuel Cerundolo vs Y | Juan Manuel Cerundolo (BUY) | 99% | 5.00 | 1.6% | ✅ ganada | +0.05 |
 | RN1 | Tolentino: Ekaterine Gorgodze vs Barbora | Ekaterine Gorgodze (BUY) | 64% | 5.00 | 2.1% | ✅ ganada | +2.72 |
 | UpTheBlues | St. Tropez: Edas Butvilas vs Harold Mayo | Harold Mayot (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
