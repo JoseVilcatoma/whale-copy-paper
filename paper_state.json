@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.56307147463965,
+  "bankroll": 69.22390213417619,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31745,6 +31745,16 @@
       "timestamp": 1790307812.8074706,
       "bankroll": 60.56,
       "event": "won: RN1 \u2014 Falcons vs. Packers"
+    },
+    {
+      "timestamp": 1790308431.819347,
+      "bankroll": 65.24,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Spread: Liberty (-2.5)"
+    },
+    {
+      "timestamp": 1790308432.0982082,
+      "bankroll": 69.22,
+      "event": "won: RN1 \u2014 Liberty vs. Coastal Carolina: O/U 53.5"
     }
   ]
 }
