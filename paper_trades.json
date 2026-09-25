@@ -156745,8 +156745,8 @@
     "title": "Liberty vs. Coastal Carolina",
     "outcome": "Liberty",
     "side": "BUY",
-    "whale_usd": 8495.547999999999,
-    "whale_pct": 3.476,
+    "whale_usd": 9876.486571999998,
+    "whale_pct": 4.041,
     "whale_value_at_open": 244412.5955,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -156757,8 +156757,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790301632.298744,
-    "fills": 4
+    "last_fill_at": 1790301702.0451343,
+    "fills": 5
   },
   {
     "timestamp": 1790299617,
