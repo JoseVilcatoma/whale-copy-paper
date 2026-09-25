@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-24 22:54:53 (hora de Perú)
+Actualizado: 2026-09-24 22:56:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $69.22
@@ -1125,7 +1125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Golden State Valkyries vs. Los Angeles S | Los Angeles Sparks (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Las Vegas Aces vs. Phoenix Mercury | Las Vegas Aces (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Korea Open: Katie Volynets vs Kimberly B | Katie Volynets (BUY) | 86% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Spread: Packers (-5.5) | Falcons (BUY) | 89% | 5.00 | 0.6% | ✅ ganada | +0.59 |

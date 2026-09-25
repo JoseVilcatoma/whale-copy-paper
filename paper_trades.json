@@ -156891,8 +156891,8 @@
     "title": "Golden State Valkyries vs. Los Angeles Sparks",
     "outcome": "Los Angeles Sparks",
     "side": "BUY",
-    "whale_usd": 2078.28,
-    "whale_pct": 1.043,
+    "whale_usd": 3115.58,
+    "whale_pct": 1.564,
     "whale_value_at_open": 199195.8358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -156903,7 +156903,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790308467.026361,
-    "fills": 2
+    "last_fill_at": 1790308500.1659665,
+    "fills": 3
   }
 ]
