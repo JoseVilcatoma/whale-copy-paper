@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.615200770959405,
+  "bankroll": 58.29838917675651,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32010,6 +32010,11 @@
       "timestamp": 1790404456.6330721,
       "bankroll": 56.62,
       "event": "won: Flaznorp \u2014 Korea Open: Taylah Preston vs Alina Korneeva"
+    },
+    {
+      "timestamp": 1790405945.7000105,
+      "bankroll": 58.3,
+      "event": "won: UpTheBlues \u2014 El Salvador vs. Martinique: O/U 4.5"
     }
   ]
 }
