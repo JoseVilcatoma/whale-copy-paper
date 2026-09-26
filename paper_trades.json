@@ -159219,5 +159219,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790453861.0211604,
     "fills": 1
+  },
+  {
+    "timestamp": 1790455354,
+    "timestamp_added": 1790455355.0670176,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "argpn-qui-gue-2026-09-26-total-1pt5",
+    "title": "Quilmes AC vs. CA Guemes: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 903.4300000000001,
+    "whale_pct": 0.115,
+    "whale_value_at_open": 782498.3512,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790455355.0670292,
+    "fills": 1
   }
 ]
