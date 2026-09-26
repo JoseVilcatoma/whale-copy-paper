@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 20:47:11 (hora de Perú)
+Actualizado: 2026-09-25 20:49:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $72.18
@@ -1135,7 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Washington Nationals | New York Mets (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
-| ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ✅ ganada | +0.65 |
