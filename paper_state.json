@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.93390277768149,
+  "bankroll": 51.81690277768149,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32215,6 +32215,11 @@
       "timestamp": 1790453590.4242506,
       "bankroll": 56.93,
       "event": "won: Flaznorp \u2014 Bulgaria vs. Luxembourg: O/U 3.5"
+    },
+    {
+      "timestamp": 1790454091.3049157,
+      "bankroll": 51.82,
+      "event": "lost: RN1 \u2014 Spread: Texas (-11.5)"
     }
   ]
 }
