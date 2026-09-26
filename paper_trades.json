@@ -158041,8 +158041,8 @@
     "title": "Korea Open: Taylah Preston vs Alina Korneeva",
     "outcome": "Alina Korneeva",
     "side": "BUY",
-    "whale_usd": 14473.639996000002,
-    "whale_pct": 4.229,
+    "whale_usd": 22311.039988,
+    "whale_pct": 6.519,
     "whale_value_at_open": 342236.0362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -158055,8 +158055,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790399785.0260572,
-    "fills": 2
+    "last_fill_at": 1790400167.4865272,
+    "fills": 3
   },
   {
     "timestamp": 1790399945,
@@ -158080,6 +158080,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790399946.3187704,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790400109,
+    "timestamp_added": 1790400109.887869,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerund-fokina-2026-09-25",
+    "title": "Chengdu Open: Juan Manuel Cerundolo vs Alejandro Davidovich Fokina",
+    "outcome": "Alejandro Davidovich Fokina",
+    "side": "BUY",
+    "whale_usd": 691.93,
+    "whale_pct": 0.69,
+    "whale_value_at_open": 100346.462,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790400109.88788,
     "fills": 1
   }
 ]
