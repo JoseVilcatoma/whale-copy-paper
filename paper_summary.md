@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 00:24:56 (hora de Perú)
+Actualizado: 2026-09-26 00:27:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.01
@@ -1131,7 +1131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
