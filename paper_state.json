@@ -1,5 +1,5 @@
 {
-  "bankroll": 70.11760583746158,
+  "bankroll": 59.88060583746158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32125,6 +32125,16 @@
       "timestamp": 1790436565.330512,
       "bankroll": 70.12,
       "event": "won: UpTheBlues \u2014 Will Nantong Zhiyun win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790438883.8765879,
+      "bankroll": 65.0,
+      "event": "lost: ferrariChampions2026 \u2014 AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 2.5"
+    },
+    {
+      "timestamp": 1790438946.2401218,
+      "bankroll": 59.88,
+      "event": "lost: GoalLineGhost \u2014 AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 1.5"
     }
   ]
 }

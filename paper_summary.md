@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 11:07:07 (hora de Perú)
+Actualizado: 2026-09-26 11:09:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $70.12
-**Retorno acumulado:** -85.98%
+**Bankroll actual:** $59.88
+**Retorno acumulado:** -88.02%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 11:07:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.12 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $60.12 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -155,9 +155,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| GoalLineGhost | 121 | 52 | 2 | -17.80 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
+| GoalLineGhost | 121 | 53 | 1 | -22.92 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 1 | -140.58 USD |
-| ferrariChampions2026 | 940 | 578 | 6 | -275.26 USD |
+| ferrariChampions2026 | 940 | 579 | 5 | -280.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6207
+- **Apuestas resueltas:** 6209
 - **Aciertos:** 3922 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,698.26
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $564.11 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,708.26
+- **ROI sobre lo apostado:** -1.85%
+- **Comisiones pagadas (taker fee):** $564.35 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3168 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3170 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1809 | 69.0% | 67.9% | +1.0 pp |
 | 80-94% | 873 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
@@ -1141,12 +1141,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | RN1 | Charlton Athletic vs. Manchester City WF | Under (BUY) | 42% | 2.77 | 0.2% | ⏳ pendiente | — |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
-| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
+| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 4.1% | ✅ ganada | +0.05 |
 | RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 5.0% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 131.7% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 18.8% | ✅ ganada | +2.49 |
 | UpTheBlues | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 69% | 4.62 | 2.3% | ✅ ganada | +2.00 |
