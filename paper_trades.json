@@ -158249,5 +158249,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790406998.6757734,
     "fills": 1
+  },
+  {
+    "timestamp": 1790407119,
+    "timestamp_added": 1790407119.6505349,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-halys-safiull-2026-09-25",
+    "title": "Hangzhou Open: Quentin Halys vs Roman Safiullin",
+    "outcome": "Roman Safiullin",
+    "side": "BUY",
+    "whale_usd": 8658.9916,
+    "whale_pct": 8.215,
+    "whale_value_at_open": 105402.3496,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790407119.6505451,
+    "fills": 1
   }
 ]
