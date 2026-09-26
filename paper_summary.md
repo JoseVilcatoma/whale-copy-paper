@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 19:44:29 (hora de Perú)
+Actualizado: 2026-09-25 19:46:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $77.29
@@ -1131,7 +1131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Spread: Vila Nova FC (-1.5) | Vila Nova FC (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Atlante FC vs. CF Monterrey: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
-| GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 3.1% | ⏳ pendiente | — |
+| GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Mets vs. Washington Nationals | New York Mets (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
 | ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 3.2% | ⏳ pendiente | — |
