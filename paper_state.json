@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.57584393269968,
+  "bankroll": 64.50862313199501,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32145,6 +32145,21 @@
       "timestamp": 1790440638.5316503,
       "bankroll": 58.58,
       "event": "won: RN1 \u2014 Charlton Athletic vs. Manchester City WFC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790441878.376631,
+      "bankroll": 61.55,
+      "event": "won: ferrariChampions2026 \u2014 Slovenia vs. Scotland: O/U 2.5"
+    },
+    {
+      "timestamp": 1790441878.7917042,
+      "bankroll": 64.04,
+      "event": "won: UpTheBlues \u2014 Will Slovenia win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790441880.075098,
+      "bankroll": 64.51,
+      "event": "won: RN1 \u2014 Will Scotland win on 2026-09-26?"
     }
   ]
 }

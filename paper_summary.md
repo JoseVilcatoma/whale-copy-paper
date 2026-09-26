@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 11:56:39 (hora de Perú)
+Actualizado: 2026-09-26 11:58:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.58
-**Retorno acumulado:** -88.28%
+**Bankroll actual:** $64.51
+**Retorno acumulado:** -87.10%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 11:56:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.35 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.23)
+**Capital comprometido ahora mismo:** $52.35 en 11 posiciones abiertas (disponible para nuevas apuestas: $12.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 69 | 14 | 1 | +44.35 USD |
+| UpTheBlues | 70 | 14 | 0 | +46.84 USD |
 | HMLSF | 12 | 1 | 0 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -162,7 +162,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
-| RN1 | 690 | 327 | 1 | -29.79 USD |
+| RN1 | 691 | 327 | 2 | -29.32 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 195 | 72 | 2 | -30.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 1 | -140.58 USD |
-| ferrariChampions2026 | 940 | 579 | 6 | -280.38 USD |
+| ferrariChampions2026 | 941 | 579 | 5 | -277.41 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6211
-- **Aciertos:** 3923 (63.2%)
+- **Apuestas resueltas:** 6214
+- **Aciertos:** 3926 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,716.03
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $564.48 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,731.03
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $564.68 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,8 +190,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3171 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1809 | 69.0% | 67.9% | +1.0 pp |
-| 80-94% | 874 | 85.6% | 86.6% | -1.0 pp |
+| 60-79% | 1811 | 69.0% | 67.9% | +1.1 pp |
+| 80-94% | 875 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1128,25 +1128,28 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-preston-korneev-2026-09-25 | Flaznorp, ferrariChampions2026 |
 | atp-damm-hurkacz-2026-09-25 | UpTheBlues, ferrariChampions2026 |
 | atp-bu-majchrz-2026-09-25 | UpTheBlues, ferrariChampions2026 |
+| atp-droguet-prizmic-2026-09-26 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.2% | ⏳ pendiente | — |
 | omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | M15 Forbach: Arthur Nagel vs Flynn Thoma | Arthur Nagel (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | RN1 | Charlton Athletic vs. Manchester City WF | Under (BUY) | 42% | 2.77 | 0.2% | ✅ ganada | +3.75 |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ❌ perdida | -5.05 |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
+| UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.7% | ✅ ganada | +2.49 |
 | RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 4.1% | ✅ ganada | +0.05 |
 | RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 5.0% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.8% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 131.7% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 18.8% | ✅ ganada | +2.49 |
@@ -1161,5 +1164,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ✅ ganada | +1.36 |
 | FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 3.7% | ❌ perdida | -5.14 |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ✅ ganada | +3.37 |
-| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ❌ perdida | -5.14 |
