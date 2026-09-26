@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 17:55:39 (hora de Perú)
+Actualizado: 2026-09-26 17:57:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $46.62
-**Retorno acumulado:** -90.68%
+**Bankroll actual:** $40.17
+**Retorno acumulado:** -91.97%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 17:55:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $46.63 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $38.49 en 8 posiciones abiertas (disponible para nuevas apuestas: $1.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,10 +164,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| Flaznorp | 197 | 73 | 3 | -32.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| Flaznorp | 198 | 74 | 1 | -35.26 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 693 | 331 | 3 | -38.23 USD |
+| RN1 | 693 | 332 | 3 | -41.45 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -175,14 +175,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6231
-- **Aciertos:** 3934 (63.1%)
+- **Apuestas resueltas:** 6234
+- **Aciertos:** 3935 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,808.67
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $566.15 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,821.81
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $566.41 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,8 +190,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3181 | 49.7% | 50.1% | -0.3 pp |
-| 60-79% | 1815 | 69.1% | 67.9% | +1.1 pp |
+| 40-59% | 3183 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1816 | 69.1% | 67.9% | +1.2 pp |
 | 80-94% | 877 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 358 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1135,11 +1135,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ⏳ pendiente | — |
 | RN1 | San Diego 2: Timo Legout vs Igor Ribeiro | Timo Legout (BUY) | 58% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Buenos Aires 2: Joaquin Aguilar vs Alex  | Alex Barrena (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ⏳ pendiente | — |
+| RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ❌ perdida | -3.22 |
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ❌ perdida | -5.05 |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.7% | ✅ ganada | +2.49 |
-| RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 4.1% | ✅ ganada | +0.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 46.6224881108775,
+  "bankroll": 40.16693255532194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32245,6 +32245,21 @@
       "timestamp": 1790461238.9551432,
       "bankroll": 46.62,
       "event": "lost: Flaznorp \u2014 Saint-Quentin vs. Bourg-en-Bresse"
+    },
+    {
+      "timestamp": 1790463406.9329042,
+      "bankroll": 48.5,
+      "event": "won: Flaznorp \u2014 Will England win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790463407.2339523,
+      "bankroll": 43.39,
+      "event": "lost: Flaznorp \u2014 Will Spain win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790463407.7581046,
+      "bankroll": 40.17,
+      "event": "lost: RN1 \u2014 Will England vs. Spain end in a draw?"
     }
   ]
 }
