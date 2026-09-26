@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 02:12:33 (hora de Perú)
+Actualizado: 2026-09-26 02:14:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $56.39
-**Retorno acumulado:** -88.72%
+**Bankroll actual:** $57.17
+**Retorno acumulado:** -88.57%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 02:12:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $11.39)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $17.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,19 +169,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 134 | 91 | 1 | -141.36 USD |
+|  | 135 | 91 | 0 | -140.58 USD |
 | ferrariChampions2026 | 933 | 576 | 4 | -286.04 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6187
-- **Aciertos:** 3906 (63.1%)
+- **Apuestas resueltas:** 6188
+- **Aciertos:** 3907 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,601.47
+- **Total apostado (suma de stakes):** $30,606.47
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $562.64 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $562.67 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3160 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1802 | 68.9% | 67.9% | +0.9 pp |
-| 80-94% | 871 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 872 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1141,7 +1141,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 6.5% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 10.4% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Júbilo Iwata vs. Vanraure Hachinohe FC:  | Over (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
-| omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
+| omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ✅ ganada | +2.54 |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ❌ perdida | -5.12 |
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
