@@ -1,5 +1,5 @@
 {
-  "bankroll": 77.13598718161765,
+  "bankroll": 72.02798718161765,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31885,6 +31885,11 @@
       "timestamp": 1790378828.8699481,
       "bankroll": 77.14,
       "event": "won: RN1 \u2014 Counter-Strike: GamerLegion vs K27 - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790381587.025326,
+      "bankroll": 72.03,
+      "event": "lost: RN1 \u2014 Counter-Strike: Liquid vs NRG - Map 1 Winner"
     }
   ]
 }
