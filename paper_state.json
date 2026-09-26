@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.49974231378913,
+  "bankroll": 67.59678313011565,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32080,6 +32080,11 @@
       "timestamp": 1790424072.3478029,
       "bankroll": 67.5,
       "event": "won: ferrariChampions2026 \u2014 J\u00fabilo Iwata vs. Vanraure Hachinohe FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790424388.0619526,
+      "bankroll": 67.6,
+      "event": "won: UpTheBlues \u2014 Kataller Toyama vs. Yokohama FC: O/U 8.5"
     }
   ]
 }

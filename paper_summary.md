@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 07:05:59 (hora de Perú)
+Actualizado: 2026-09-26 07:08:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $67.50
-**Retorno acumulado:** -86.50%
+**Bankroll actual:** $67.60
+**Retorno acumulado:** -86.48%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 07:05:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.33)
+**Capital comprometido ahora mismo:** $67.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 67 | 14 | 2 | +40.88 USD |
+| UpTheBlues | 68 | 14 | 2 | +40.98 USD |
 | HMLSF | 12 | 1 | 0 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -174,11 +174,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6198
-- **Aciertos:** 3915 (63.2%)
+- **Apuestas resueltas:** 6199
+- **Aciertos:** 3916 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,656.09
+- **Total apostado (suma de stakes):** $30,661.09
 - **ROI sobre lo apostado:** -1.82%
 - **Comisiones pagadas (taker fee):** $563.56 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
@@ -192,7 +192,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3165 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1806 | 68.9% | 67.9% | +1.0 pp |
 | 80-94% | 872 | 85.7% | 86.6% | -0.9 pp |
-| 95-99% (casi seguro) | 355 | 97.5% | 97.4% | +0.1 pp |
+| 95-99% (casi seguro) | 356 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1133,6 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -1140,7 +1141,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 70.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 11.0% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 69% | 4.62 | 2.3% | ✅ ganada | +2.00 |
-| UpTheBlues | Kataller Toyama vs. Yokohama FC: O/U 8.5 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
+| UpTheBlues | Kataller Toyama vs. Yokohama FC: O/U 8.5 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Chengdu Open: Valentin Vacherot vs Lloyd | Lloyd Harris (BUY) | 75% | 5.00 | 15.4% | ✅ ganada | +1.60 |
 | UpTheBlues | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 99% | 5.00 | 2.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 30.6% | ✅ ganada | +2.61 |
@@ -1162,4 +1163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ✅ ganada | +2.54 |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ❌ perdida | -5.12 |
-| HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
