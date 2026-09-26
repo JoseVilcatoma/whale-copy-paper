@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 03:39:26 (hora de Perú)
+Actualizado: 2026-09-26 03:41:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.53
-**Retorno acumulado:** -88.29%
+**Bankroll actual:** $57.88
+**Retorno acumulado:** -88.42%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 03:39:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.36)
+**Capital comprometido ahora mismo:** $47.17 en 10 posiciones abiertas (disponible para nuevas apuestas: $10.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,17 +170,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 0 | -140.58 USD |
-| ferrariChampions2026 | 934 | 576 | 6 | -284.68 USD |
+| ferrariChampions2026 | 935 | 577 | 4 | -285.32 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6189
-- **Aciertos:** 3908 (63.1%)
+- **Apuestas resueltas:** 6191
+- **Aciertos:** 3909 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,611.47
+- **Total apostado (suma de stakes):** $30,621.47
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $562.73 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $562.99 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3160 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3162 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1803 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 872 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
@@ -1137,8 +1137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ✅ ganada | +1.36 |
 | FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ✅ ganada | +4.50 |
+| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ❌ perdida | -5.14 |
 | Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 6.7% | ✅ ganada | +3.23 |

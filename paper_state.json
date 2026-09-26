@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.52593240871835,
+  "bankroll": 57.88131702410296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32035,6 +32035,16 @@
       "timestamp": 1790411666.7751918,
       "bankroll": 58.53,
       "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Quentin Halys vs Roman Safiullin"
+    },
+    {
+      "timestamp": 1790412040.0252078,
+      "bankroll": 53.39,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open: Federico Cina vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1790412040.1253798,
+      "bankroll": 57.88,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Federico Cina vs Alexandre Muller"
     }
   ]
 }
