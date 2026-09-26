@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.08395646532834,
+  "bankroll": 59.048956465328345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32170,6 +32170,11 @@
       "timestamp": 1790442188.6592672,
       "bankroll": 64.08,
       "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Coleman Wong vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1790443441.642207,
+      "bankroll": 59.05,
+      "event": "lost: ferrariChampions2026 \u2014 M15 Forbach: Arthur Nagel vs Flynn Thomas"
     }
   ]
 }
