@@ -158863,8 +158863,8 @@
     "title": "St. Tropez: Titouan Droguet vs Dino Prizmic",
     "outcome": "Dino Prizmic",
     "side": "BUY",
-    "whale_usd": 663.7518000000001,
-    "whale_pct": 0.205,
+    "whale_usd": 3737.972753,
+    "whale_pct": 1.153,
     "whale_value_at_open": 324285.3726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -158875,7 +158875,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790440921.44449,
-    "fills": 1
+    "last_fill_at": 1790441257.451017,
+    "fills": 2
   }
 ]
