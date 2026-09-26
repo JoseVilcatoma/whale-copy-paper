@@ -157723,8 +157723,8 @@
     "title": "Will Jamaica vs. Guatemala end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2723.0126999999998,
-    "whale_pct": 1.906,
+    "whale_usd": 4454.1123,
+    "whale_pct": 3.118,
     "whale_value_at_open": 142831.5693,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -157735,8 +157735,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790383248.421367,
-    "fills": 3
+    "last_fill_at": 1790383440.0671544,
+    "fills": 5
   },
   {
     "timestamp": 1790383027,
@@ -157760,6 +157760,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790383027.8047204,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790383379,
+    "timestamp_added": 1790383379.9514523,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bra2-vln-lon-2026-09-25-spread-home-1pt5",
+    "title": "Spread: Vila Nova FC (-1.5)",
+    "outcome": "Vila Nova FC",
+    "side": "BUY",
+    "whale_usd": 769.9972,
+    "whale_pct": 0.497,
+    "whale_value_at_open": 154795.1684,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790383379.9514637,
     "fills": 1
   }
 ]
