@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 15:16:24 (hora de Perú)
+Actualizado: 2026-09-26 15:18:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.93
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 15:16:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.79 en 11 posiciones abiertas (disponible para nuevas apuestas: $3.14)
+**Capital comprometido ahora mismo:** $56.93 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
 | Flaznorp | 196 | 72 | 3 | -29.08 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 693 | 330 | 1 | -33.11 USD |
+| RN1 | 693 | 330 | 2 | -33.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ⏳ pendiente | — |
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.8% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 131.7% | ✅ ganada | +1.87 |
-| ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 18.8% | ✅ ganada | +2.49 |

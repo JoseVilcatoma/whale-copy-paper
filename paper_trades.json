@@ -159195,5 +159195,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790453636.5595057,
     "fills": 1
+  },
+  {
+    "timestamp": 1790453860,
+    "timestamp_added": 1790453861.0211504,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "unl-eng-esp-2026-09-26-draw",
+    "title": "Will England vs. Spain end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 682.4927999999999,
+    "whale_pct": 0.139,
+    "whale_value_at_open": 490817.4191,
+    "paper_stake_usd": 3.14,
+    "odds_at_bet": 49,
+    "fee_usd": 0.08,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790453861.0211604,
+    "fills": 1
   }
 ]
