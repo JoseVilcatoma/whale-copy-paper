@@ -1,5 +1,5 @@
 {
-  "bankroll": 46.613048388056725,
+  "bankroll": 49.45755632456466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31965,6 +31965,11 @@
       "timestamp": 1790398489.3337374,
       "bankroll": 46.61,
       "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Athletics"
+    },
+    {
+      "timestamp": 1790398801.2016032,
+      "bankroll": 49.46,
+      "event": "won: HMLSF \u2014 Korea Open: Lanlana Tararudee vs Maya Joint"
     }
   ]
 }

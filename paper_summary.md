@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 23:58:58 (hora de Perú)
+Actualizado: 2026-09-26 00:01:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $46.61
-**Retorno acumulado:** -90.68%
+**Bankroll actual:** $49.46
+**Retorno acumulado:** -90.11%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 23:58:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $46.70 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $41.70 en 9 posiciones abiertas (disponible para nuevas apuestas: $7.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,11 +25,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | UpTheBlues | 63 | 14 | 2 | +33.78 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
+| HMLSF | 11 | 0 | 2 | +31.04 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
-| HMLSF | 10 | 0 | 3 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6175
-- **Aciertos:** 3897 (63.1%)
+- **Apuestas resueltas:** 6176
+- **Aciertos:** 3898 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,544.77
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $561.56 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,549.77
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $561.65 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3154 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1798 | 68.9% | 67.9% | +0.9 pp |
+| 60-79% | 1799 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 869 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1132,7 +1132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ⏳ pendiente | — |
-| HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ⏳ pendiente | — |
+| HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ⏳ pendiente | — |
