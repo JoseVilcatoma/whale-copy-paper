@@ -5,12 +5,6 @@
     "roi_pct": 22423.17,
     "short_term_pct": 100.0
   },
-  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
-    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
-    "added_at": 1790281184.2299094,
-    "roi_pct": 198.35,
-    "short_term_pct": 100.0
-  },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1790296300.044516,
@@ -20,13 +14,13 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1790356492.8973262,
-    "roi_pct": 304.18,
+    "roi_pct": 290.68,
     "short_term_pct": 100.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790384771.5621266,
-    "roi_pct": 314.33,
+    "roi_pct": 319.42,
     "short_term_pct": 100.0
   },
   "0x1610db79f753a80207e1d66716be9e91e627ae49": {
@@ -38,25 +32,31 @@
   "0x0346afae2603313d2bbee96b628536c8cbe352a5": {
     "username": "GoalLineGhost",
     "added_at": 1790426309.4414904,
-    "roi_pct": 238.46,
+    "roi_pct": 239.92,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "FORTNITEMASTER888",
     "added_at": 1790433840.2803988,
-    "roi_pct": 637.07,
-    "short_term_pct": 50.0
+    "roi_pct": 636.63,
+    "short_term_pct": 60.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
     "added_at": 1790435720.8410404,
-    "roi_pct": 211.2,
+    "roi_pct": 212.3,
     "short_term_pct": 100.0
   },
-  "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
-    "username": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
-    "added_at": 1790436660.810584,
-    "roi_pct": 176.24,
+  "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
+    "username": "e46m3",
+    "added_at": 1790437604.5700936,
+    "roi_pct": 1762.62,
+    "short_term_pct": 37.5
+  },
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1790437604.5701077,
+    "roi_pct": 524.67,
     "short_term_pct": 100.0
   }
 }
