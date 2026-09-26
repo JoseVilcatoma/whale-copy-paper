@@ -1,5 +1,5 @@
 {
-  "bankroll": 51.70304838805673,
+  "bankroll": 46.613048388056725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31960,6 +31960,11 @@
       "timestamp": 1790395081.1481664,
       "bankroll": 51.7,
       "event": "won: GoalLineGhost \u2014 Will Jamaica vs. Guatemala end in a draw?"
+    },
+    {
+      "timestamp": 1790398489.3337374,
+      "bankroll": 46.61,
+      "event": "lost: ferrariChampions2026 \u2014 Houston Astros vs. Athletics"
     }
   ]
 }
