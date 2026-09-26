@@ -157917,8 +157917,8 @@
     "title": "Korea Open: Anna Bondar vs Gabriela Ruse",
     "outcome": "Gabriela Ruse",
     "side": "BUY",
-    "whale_usd": 21635.3179,
-    "whale_pct": 13.288,
+    "whale_usd": 27355.7019,
+    "whale_pct": 16.801,
     "whale_value_at_open": 162820.6029,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -157931,8 +157931,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790395138.3139951,
-    "fills": 4
+    "last_fill_at": 1790395439.8594437,
+    "fills": 5
   },
   {
     "timestamp": 1790395099,
