@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.45755632456466,
+  "bankroll": 53.276127753136095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31970,6 +31970,11 @@
       "timestamp": 1790398801.2016032,
       "bankroll": 49.46,
       "event": "won: HMLSF \u2014 Korea Open: Lanlana Tararudee vs Maya Joint"
+    },
+    {
+      "timestamp": 1790399109.784353,
+      "bankroll": 53.28,
+      "event": "won: GoalLineGhost \u2014 Atlante FC vs. CF Monterrey: O/U 2.5"
     }
   ]
 }
