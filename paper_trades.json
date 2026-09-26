@@ -158115,8 +158115,8 @@
     "title": "Will England win on 2026-09-26?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1411.38,
-    "whale_pct": 0.388,
+    "whale_usd": 2973.668,
+    "whale_pct": 0.817,
     "whale_value_at_open": 364088.1242,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -158127,8 +158127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790400217.4090564,
-    "fills": 1
+    "last_fill_at": 1790448602.1532054,
+    "fills": 2
   },
   {
     "timestamp": 1790400278,
