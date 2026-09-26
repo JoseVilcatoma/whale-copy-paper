@@ -158767,8 +158767,8 @@
     "title": "Hangzhou Open: Coleman Wong vs Adolfo Vallejo",
     "outcome": "Adolfo Vallejo",
     "side": "BUY",
-    "whale_usd": 2506.5436,
-    "whale_pct": 1.462,
+    "whale_usd": 3537.763743,
+    "whale_pct": 2.063,
     "whale_value_at_open": 171461.065,
     "paper_stake_usd": 3.56,
     "odds_at_bet": 45,
@@ -158779,7 +158779,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790432364.7686803,
-    "fills": 1
+    "last_fill_at": 1790432797.7850475,
+    "fills": 2
   }
 ]
