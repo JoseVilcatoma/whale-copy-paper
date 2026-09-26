@@ -158405,8 +158405,8 @@
     "title": "Chengdu Open: Valentin Vacherot vs Lloyd Harris",
     "outcome": "Lloyd Harris",
     "side": "BUY",
-    "whale_usd": 569.23077,
-    "whale_pct": 0.522,
+    "whale_usd": 2767.25277,
+    "whale_pct": 2.539,
     "whale_value_at_open": 108985.3035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -158417,8 +158417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790414533.9151378,
-    "fills": 1
+    "last_fill_at": 1790414730.2696207,
+    "fills": 2
   },
   {
     "timestamp": 1790414538,

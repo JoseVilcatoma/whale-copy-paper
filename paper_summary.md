@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 04:25:03 (hora de Perú)
+Actualizado: 2026-09-26 04:27:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.79
@@ -1135,7 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 69% | 4.62 | 0.3% | ⏳ pendiente | — |
 | UpTheBlues | Kataller Toyama vs. Yokohama FC: O/U 8.5 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Valentin Vacherot vs Lloyd | Lloyd Harris (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Valentin Vacherot vs Lloyd | Lloyd Harris (BUY) | 75% | 5.00 | 2.5% | ⏳ pendiente | — |
 | UpTheBlues | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 99% | 5.00 | 2.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 14.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 55% | 5.00 | 6.7% | ✅ ganada | +3.98 |
