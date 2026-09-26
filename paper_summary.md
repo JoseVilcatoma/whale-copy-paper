@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 12:08:57 (hora de Perú)
+Actualizado: 2026-09-26 12:11:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $64.08
@@ -1138,7 +1138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Texas (-11.5) | Texas (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 41% | 2.16 | 0.4% | ⏳ pendiente | — |
 | RN1 | San Diego State vs. Toledo: O/U 46.5 | Under (BUY) | 59% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 9.6% | ⏳ pendiente | — |
 | RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
