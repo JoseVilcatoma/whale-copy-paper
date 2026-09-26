@@ -159349,8 +159349,8 @@
     "title": "Charlotte FC vs. Chicago Fire FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 679.14,
-    "whale_pct": 0.481,
+    "whale_usd": 1281.174477,
+    "whale_pct": 0.908,
     "whale_value_at_open": 141141.9617,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -159361,8 +159361,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790464194.5604877,
-    "fills": 1
+    "last_fill_at": 1790467083.3215482,
+    "fills": 2
   },
   {
     "timestamp": 1790464431,

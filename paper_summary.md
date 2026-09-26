@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 18:57:43 (hora de Perú)
+Actualizado: 2026-09-26 18:59:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $29.18
@@ -1136,7 +1136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ⏳ pendiente | — |
-| GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
+| GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ✅ ganada | +4.34 |
 | RN1 | San Diego 2: Timo Legout vs Igor Ribeiro | Timo Legout (BUY) | 58% | 5.00 | 0.9% | ⏳ pendiente | — |
