@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 02:24:57 (hora de Perú)
+Actualizado: 2026-09-26 02:27:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.17
@@ -1132,10 +1132,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 8.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 14.9% | ⏳ pendiente | — |
 | FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |

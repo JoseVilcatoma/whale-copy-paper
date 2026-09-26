@@ -158187,8 +158187,8 @@
     "title": "Chengdu Open: Federico Cina vs Alexandre Muller",
     "outcome": "Alexandre Muller",
     "side": "BUY",
-    "whale_usd": 3747.4495369999995,
-    "whale_pct": 3.126,
+    "whale_usd": 6496.489336999999,
+    "whale_pct": 5.419,
     "whale_value_at_open": 119887.472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -158199,8 +158199,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790407468.1181905,
-    "fills": 2
+    "last_fill_at": 1790407510.8831828,
+    "fills": 3
   },
   {
     "timestamp": 1790406160,
@@ -158259,8 +158259,8 @@
     "title": "Hangzhou Open: Quentin Halys vs Roman Safiullin",
     "outcome": "Roman Safiullin",
     "side": "BUY",
-    "whale_usd": 8658.9916,
-    "whale_pct": 8.215,
+    "whale_usd": 15704.6764,
+    "whale_pct": 14.9,
     "whale_value_at_open": 105402.3496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -158271,8 +158271,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790407119.6505451,
-    "fills": 1
+    "last_fill_at": 1790407571.9879887,
+    "fills": 2
   },
   {
     "timestamp": 1790407382,
