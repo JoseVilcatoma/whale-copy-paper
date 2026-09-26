@@ -1,5 +1,5 @@
 {
-  "bankroll": 65.36478313011565,
+  "bankroll": 60.226783130115656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32090,6 +32090,11 @@
       "timestamp": 1790424700.5023396,
       "bankroll": 65.36,
       "event": "lost: GoalLineGhost \u2014 Will Blaublitz Akita win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790425325.6985655,
+      "bankroll": 60.23,
+      "event": "lost: FORTNITEMASTER888 \u2014 Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B"
     }
   ]
 }
