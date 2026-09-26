@@ -158781,5 +158781,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790432797.7850475,
     "fills": 2
+  },
+  {
+    "timestamp": 1790434159,
+    "timestamp_added": 1790434159.6787126,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "unl-slv-sco-2026-09-26-sco",
+    "title": "Will Scotland win on 2026-09-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 783.2,
+    "whale_pct": 0.297,
+    "whale_value_at_open": 263522.0926,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790434159.6787245,
+    "fills": 1
   }
 ]

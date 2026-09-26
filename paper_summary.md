@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 09:47:47 (hora de Perú)
+Actualizado: 2026-09-26 09:49:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $66.75
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 09:47:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $61.33 en 13 posiciones abiertas (disponible para nuevas apuestas: $5.42)
+**Capital comprometido ahora mismo:** $66.33 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 195 | 72 | 2 | -30.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 689 | 327 | 1 | -33.54 USD |
+| RN1 | 689 | 327 | 2 | -33.54 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1133,6 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | M15 Forbach: Arthur Nagel vs Flynn Thoma | Arthur Nagel (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
@@ -1162,4 +1163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 6.7% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ❌ perdida | -5.14 |
