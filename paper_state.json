@@ -1,5 +1,5 @@
 {
-  "bankroll": 59.048956465328345,
+  "bankroll": 63.182086900110946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32175,6 +32175,26 @@
       "timestamp": 1790443441.642207,
       "bankroll": 59.05,
       "event": "lost: ferrariChampions2026 \u2014 M15 Forbach: Arthur Nagel vs Flynn Thomas"
+    },
+    {
+      "timestamp": 1790445005.2649372,
+      "bankroll": 53.94,
+      "event": "lost: ferrariChampions2026 \u2014 St. Tropez: Titouan Droguet vs Dino Prizmic"
+    },
+    {
+      "timestamp": 1790445005.7017775,
+      "bankroll": 59.67,
+      "event": "won: RN1 \u2014 St. Tropez: Titouan Droguet vs Dino Prizmic"
+    },
+    {
+      "timestamp": 1790445005.8019297,
+      "bankroll": 65.41,
+      "event": "won: ferrariChampions2026 \u2014 St. Tropez: Titouan Droguet vs Dino Prizmic"
+    },
+    {
+      "timestamp": 1790445006.00229,
+      "bankroll": 63.18,
+      "event": "lost: RN1 \u2014 St. Tropez: Titouan Droguet vs Dino Prizmic"
     }
   ]
 }
