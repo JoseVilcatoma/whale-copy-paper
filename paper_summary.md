@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 22:56:58 (hora de Perú)
+Actualizado: 2026-09-25 22:59:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $49.92
-**Retorno acumulado:** -90.02%
+**Bankroll actual:** $51.70
+**Retorno acumulado:** -89.66%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 22:56:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.88 en 10 posiciones abiertas (disponible para nuevas apuestas: $1.04)
+**Capital comprometido ahora mismo:** $51.70 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | Feromont | 13 | 4 | 0 | +28.22 USD |
-| HMLSF | 10 | 0 | 2 | +28.20 USD |
+| HMLSF | 10 | 0 | 3 | +28.20 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
@@ -157,7 +157,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
-| GoalLineGhost | 119 | 51 | 2 | -21.17 USD |
+| GoalLineGhost | 120 | 51 | 1 | -19.39 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 91 | 0 | -141.36 USD |
-| ferrariChampions2026 | 930 | 573 | 3 | -276.78 USD |
+| ferrariChampions2026 | 930 | 573 | 4 | -276.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6173
-- **Aciertos:** 3896 (63.1%)
+- **Apuestas resueltas:** 6174
+- **Aciertos:** 3897 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,534.77
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $561.40 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,539.77
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $561.47 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3154 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1796 | 68.9% | 67.9% | +0.9 pp |
+| 60-79% | 1797 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 869 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1130,6 +1130,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 3.6% | ⏳ pendiente | — |
+| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 13.3% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ⏳ pendiente | — |
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ⏳ pendiente | — |
@@ -1137,7 +1139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Vila Nova FC vs. Londrina EC: O/U 2.5 | Over (BUY) | 66% | 4.77 | 0.8% | ❌ perdida | -4.85 |
 | GoalLineGhost | Spread: Vila Nova FC (-1.5) | Vila Nova FC (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
 | GoalLineGhost | Atlante FC vs. CF Monterrey: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
-| GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 5.2% | ⏳ pendiente | — |
+| GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 5.2% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | New York Mets vs. Washington Nationals | New York Mets (BUY) | 41% | 5.00 | 0.6% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
 | ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 10.7% | ⏳ pendiente | — |
@@ -1158,5 +1160,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Game Handicap: 1WIN (-1.5) vs GamerLegio | GamerLegion (BUY) | 56% | 5.00 | 3.5% | ✅ ganada | +3.82 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ✅ ganada | +1.32 |
 | ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 3.4% | ✅ ganada | +0.53 |
-| RN1 | Counter-Strike: Heroic vs fnatic - Map 1 | fnatic (BUY) | 56% | 5.00 | 9.9% | ✅ ganada | +3.82 |
-| UpTheBlues | Chengdu Open: Jenson Brooksby vs Lorenzo | Jenson Brooksby (BUY) | 54% | 3.47 | 0.5% | ✅ ganada | +2.88 |

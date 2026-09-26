@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.92173331956358,
+  "bankroll": 51.70304838805673,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31955,6 +31955,11 @@
       "timestamp": 1790394460.5838091,
       "bankroll": 49.92,
       "event": "lost: GoalLineGhost \u2014 Vila Nova FC vs. Londrina EC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790395081.1481664,
+      "bankroll": 51.7,
+      "event": "won: GoalLineGhost \u2014 Will Jamaica vs. Guatemala end in a draw?"
     }
   ]
 }
