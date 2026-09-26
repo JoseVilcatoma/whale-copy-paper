@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 04:10:32 (hora de Perú)
+Actualizado: 2026-09-26 04:12:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.88
@@ -1133,7 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 99% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 55% | 5.00 | 6.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
