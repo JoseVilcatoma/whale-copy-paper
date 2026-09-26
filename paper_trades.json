@@ -157723,8 +157723,8 @@
     "title": "Will Jamaica vs. Guatemala end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 6544.8827,
-    "whale_pct": 4.582,
+    "whale_usd": 7373.4918,
+    "whale_pct": 5.162,
     "whale_value_at_open": 142831.5693,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -157735,8 +157735,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790383576.8840055,
-    "fills": 7
+    "last_fill_at": 1790383632.1809871,
+    "fills": 8
   },
   {
     "timestamp": 1790383027,
