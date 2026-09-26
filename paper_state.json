@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.395397832183775,
+  "bankroll": 63.00435769840451,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32065,6 +32065,16 @@
       "timestamp": 1790421384.2004194,
       "bankroll": 58.4,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Valentin Vacherot vs Lloyd Harris"
+    },
+    {
+      "timestamp": 1790423448.679991,
+      "bankroll": 61.0,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Yunchaokete Bu vs Kamil Majchrzak"
+    },
+    {
+      "timestamp": 1790423449.058875,
+      "bankroll": 63.0,
+      "event": "won: UpTheBlues \u2014 Hangzhou Open: Yunchaokete Bu vs Kamil Majchrzak"
     }
   ]
 }
