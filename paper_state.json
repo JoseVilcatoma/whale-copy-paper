@@ -1,5 +1,5 @@
 {
-  "bankroll": 57.88131702410296,
+  "bankroll": 56.79073116551711,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32045,6 +32045,21 @@
       "timestamp": 1790412040.1253798,
       "bankroll": 57.88,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Federico Cina vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1790414528.006912,
+      "bankroll": 52.76,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open: Martin Damm vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1790414528.3691177,
+      "bankroll": 56.74,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Martin Damm vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1790414528.5694444,
+      "bankroll": 56.79,
+      "event": "won: UpTheBlues \u2014 Chengdu Open: Martin Damm vs Hubert Hurkacz"
     }
   ]
 }
