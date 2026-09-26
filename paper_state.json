@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.3312469575795,
+  "bankroll": 66.74602956627514,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32115,6 +32115,11 @@
       "timestamp": 1790432307.988761,
       "bankroll": 66.33,
       "event": "won: FORTNITEMASTER888 \u2014 Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B"
+    },
+    {
+      "timestamp": 1790434062.363384,
+      "bankroll": 66.75,
+      "event": "won: RN1 \u2014 Counter-Strike: EYEBALLERS vs K27 - Map 2 Winner"
     }
   ]
 }
