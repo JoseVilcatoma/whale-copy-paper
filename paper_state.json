@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.45234485672943,
+  "bankroll": 59.33234485672943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31920,6 +31920,11 @@
       "timestamp": 1790391102.1420693,
       "bankroll": 64.45,
       "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1790392597.9015958,
+      "bankroll": 59.33,
+      "event": "lost: omnibus-076daa \u2014 Baltimore Orioles vs. New York Yankees"
     }
   ]
 }
