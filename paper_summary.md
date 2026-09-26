@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 00:18:45 (hora de Perú)
+Actualizado: 2026-09-26 00:20:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $56.01
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 00:18:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.88 en 7 posiciones abiertas (disponible para nuevas apuestas: $22.13)
+**Capital comprometido ahora mismo:** $38.88 en 8 posiciones abiertas (disponible para nuevas apuestas: $17.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 91 | 1 | -141.36 USD |
-| ferrariChampions2026 | 931 | 575 | 3 | -284.43 USD |
+| ferrariChampions2026 | 931 | 575 | 4 | -284.43 USD |
 
 ## Análisis general
 
@@ -1131,6 +1131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Flaznorp | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Júbilo Iwata vs. Vanraure Hachinohe FC:  | Over (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1160,4 +1161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 4: Felix Gill vs Jonas Forejtek | Felix Gill (BUY) | 45% | 5.00 | 0.8% | ❌ perdida | -5.14 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 68% | 5.00 | 7.2% | ✅ ganada | +2.27 |
 | GoalLineGhost | Spread: Poland (-2.5) | Bosnia and Herzegovina (BUY) | 83% | 4.70 | 3.2% | ✅ ganada | +0.92 |
-| ferrariChampions2026 | Genoa 2: Lukas Neumayer vs Luka Mikrut | Luka Mikrut (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |

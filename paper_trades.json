@@ -158057,5 +158057,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790399785.0260572,
     "fills": 2
+  },
+  {
+    "timestamp": 1790399945,
+    "timestamp_added": 1790399946.318761,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerund-fokina-2026-09-25",
+    "title": "Chengdu Open: Juan Manuel Cerundolo vs Alejandro Davidovich Fokina",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "whale_usd": 2449.5809999999997,
+    "whale_pct": 2.248,
+    "whale_value_at_open": 108949.2498,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790399946.3187704,
+    "fills": 1
   }
 ]
