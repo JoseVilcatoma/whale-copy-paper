@@ -1,5 +1,5 @@
 {
-  "bankroll": 54.83060583746158,
+  "bankroll": 58.57584393269968,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32140,6 +32140,11 @@
       "timestamp": 1790439071.7736318,
       "bankroll": 54.83,
       "event": "lost: GoalLineGhost \u2014 AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 3.5"
+    },
+    {
+      "timestamp": 1790440638.5316503,
+      "bankroll": 58.58,
+      "event": "won: RN1 \u2014 Charlton Athletic vs. Manchester City WFC: O/U 2.5"
     }
   ]
 }
