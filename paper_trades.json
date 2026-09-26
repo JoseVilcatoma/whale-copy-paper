@@ -159075,5 +159075,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790445042.2130744,
     "fills": 1
+  },
+  {
+    "timestamp": 1790445352,
+    "timestamp_added": 1790445353.1613827,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "cfb-nill-gast-2026-09-26-total-56pt5",
+    "title": "Northern Illinois vs. Georgia State: O/U 56.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 6797.015,
+    "whale_pct": 1.814,
+    "whale_value_at_open": 374710.5768,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790445370.8644202,
+    "fills": 2
   }
 ]
