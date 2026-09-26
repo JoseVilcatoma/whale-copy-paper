@@ -158453,8 +158453,8 @@
     "title": "Hangzhou Open: Yunchaokete Bu vs Kamil Majchrzak",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 3307.2916,
-    "whale_pct": 1.227,
+    "whale_usd": 4076.2216,
+    "whale_pct": 1.512,
     "whale_value_at_open": 269523.4982,
     "paper_stake_usd": 4.62,
     "odds_at_bet": 69,
@@ -158467,7 +158467,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790415605.614786,
-    "fills": 5
+    "last_fill_at": 1790415929.1512902,
+    "fills": 6
   }
 ]
