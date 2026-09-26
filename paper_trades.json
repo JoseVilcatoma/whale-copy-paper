@@ -158685,5 +158685,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790430000.2580166,
     "fills": 1
+  },
+  {
+    "timestamp": 1790430190,
+    "timestamp_added": 1790430190.9848385,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wsl-cha-mci-2026-09-26-total-2pt5",
+    "title": "Charlton Athletic vs. Manchester City WFC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 676.5,
+    "whale_pct": 0.24,
+    "whale_value_at_open": 282223.0247,
+    "paper_stake_usd": 2.77,
+    "odds_at_bet": 42,
+    "fee_usd": 0.08,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790430190.9848487,
+    "fills": 1
   }
 ]
