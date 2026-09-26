@@ -1,5 +1,5 @@
 {
-  "bankroll": 72.02798718161765,
+  "bankroll": 77.29334485672942,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31890,6 +31890,21 @@
       "timestamp": 1790381587.025326,
       "bankroll": 72.03,
       "event": "lost: RN1 \u2014 Counter-Strike: Liquid vs NRG - Map 1 Winner"
+    },
+    {
+      "timestamp": 1790382838.0007997,
+      "bankroll": 78.25,
+      "event": "won: ferrariChampions2026 \u2014 Chicago Cubs vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1790382838.281026,
+      "bankroll": 81.35,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1790382838.5814962,
+      "bankroll": 77.29,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Boston Red Sox"
     }
   ]
 }

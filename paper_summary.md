@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 19:31:58 (hora de Perú)
+Actualizado: 2026-09-25 19:34:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $72.03
-**Retorno acumulado:** -85.59%
+**Bankroll actual:** $77.29
+**Retorno acumulado:** -84.54%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 19:31:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $71.48 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.55)
+**Capital comprometido ahora mismo:** $57.52 en 12 posiciones abiertas (disponible para nuevas apuestas: $19.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 90 | 1 | -136.24 USD |
-| ferrariChampions2026 | 928 | 569 | 8 | -269.20 USD |
+| ferrariChampions2026 | 930 | 570 | 5 | -263.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6160
-- **Aciertos:** 3891 (63.2%)
+- **Apuestas resueltas:** 6163
+- **Aciertos:** 3893 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,473.52
-- **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $560.27 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,487.48
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $560.60 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3147 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1793 | 68.9% | 67.9% | +1.0 pp |
+| 40-59% | 3149 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1794 | 69.0% | 67.9% | +1.0 pp |
 | 80-94% | 866 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1130,13 +1130,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | New York Mets vs. Washington Nationals | New York Mets (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
 | ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ✅ ganada | +0.65 |
-| ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Boston Red Sox (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Boston Red Sox (BUY) | 44% | 5.00 | 4.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Boston Red Sox (BUY) | 61% | 5.00 | 1.0% | ✅ ganada | +3.10 |
+| ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Boston Red Sox (BUY) | 44% | 5.00 | 4.5% | ✅ ganada | +6.22 |
 | omnibus-076daa | Baltimore Orioles vs. New York Yankees | Baltimore Orioles (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Minnesota Twins: O/U 7 | Under (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will France win on 2026-09-25? | Yes (BUY) | 74% | 5.00 | 20.3% | ✅ ganada | +1.69 |
