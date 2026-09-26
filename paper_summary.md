@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 16:28:50 (hora de Perú)
+Actualizado: 2026-09-26 16:30:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $54.69
-**Retorno acumulado:** -89.06%
+**Bankroll actual:** $49.56
+**Retorno acumulado:** -90.09%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 16:28:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.14 en 11 posiciones abiertas (disponible para nuevas apuestas: $1.55)
+**Capital comprometido ahora mismo:** $48.14 en 10 posiciones abiertas (disponible para nuevas apuestas: $1.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | martingaleking | 2 | 1 | 0 | +0.86 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 7 | 6 | 0 | +0.79 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 19 | 1 | +0.59 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
@@ -117,6 +116,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | bands1 | 2 | 2 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 20 | 0 | -4.53 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
 | darkumbreon99 | 0 | 1 | 0 | -5.05 USD |
 | goshkam | 0 | 1 | 0 | -5.07 USD |
@@ -175,14 +175,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6228
-- **Aciertos:** 3933 (63.2%)
+- **Apuestas resueltas:** 6229
+- **Aciertos:** 3933 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,793.67
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $565.94 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,798.67
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $566.06 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3180 | 49.7% | 50.1% | -0.3 pp |
+| 40-59% | 3181 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1814 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 877 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
@@ -1142,7 +1142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
 | Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Northern Illinois vs. Georgia State: O/U | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Northern Illinois vs. Georgia State: O/U | Over (BUY) | 51% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | Flaznorp | Bulgaria vs. Luxembourg: O/U 3.5 | Under (BUY) | 82% | 5.00 | 0.2% | ✅ ganada | +1.05 |
 | RN1 | Illinois vs. Ohio State: O/U 57.5 | Over (BUY) | 51% | 3.13 | 0.5% | ✅ ganada | +2.93 |
 | RN1 | Spread: Texas (-11.5) | Texas (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
