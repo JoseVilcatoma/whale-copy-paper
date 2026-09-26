@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.45680251313505,
+  "bankroll": 66.3312469575795,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32110,6 +32110,11 @@
       "timestamp": 1790431059.2077165,
       "bankroll": 64.46,
       "event": "won: RN1 \u2014 Hangzhou Open: Daniil Medvedev vs Valentin Royer"
+    },
+    {
+      "timestamp": 1790432307.988761,
+      "bankroll": 66.33,
+      "event": "won: FORTNITEMASTER888 \u2014 Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B"
     }
   ]
 }
