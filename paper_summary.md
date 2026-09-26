@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 22:48:42 (hora de Perú)
+Actualizado: 2026-09-25 22:50:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.92
@@ -1132,7 +1132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 16.8% | ⏳ pendiente | — |
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 15.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 16.2% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ⏳ pendiente | — |
 | GoalLineGhost | Vila Nova FC vs. Londrina EC: O/U 2.5 | Over (BUY) | 66% | 4.77 | 0.8% | ❌ perdida | -4.85 |
 | GoalLineGhost | Spread: Vila Nova FC (-1.5) | Vila Nova FC (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
