@@ -1,5 +1,5 @@
 {
-  "bankroll": 51.632488110877496,
+  "bankroll": 46.6224881108775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32240,6 +32240,11 @@
       "timestamp": 1790459998.9855397,
       "bankroll": 51.63,
       "event": "won: Flaznorp \u2014 Buenos Aires 2: Joaquin Aguilar vs Alex Barrena"
+    },
+    {
+      "timestamp": 1790461238.9551432,
+      "bankroll": 46.62,
+      "event": "lost: Flaznorp \u2014 Saint-Quentin vs. Bourg-en-Bresse"
     }
   ]
 }

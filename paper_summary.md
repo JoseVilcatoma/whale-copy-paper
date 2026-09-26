@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 17:20:31 (hora de Perú)
+Actualizado: 2026-09-26 17:22:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $51.63
-**Retorno acumulado:** -89.67%
+**Bankroll actual:** $46.62
+**Retorno acumulado:** -90.68%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 17:20:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $51.63 en 11 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $46.63 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,9 +162,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| Flaznorp | 197 | 72 | 4 | -27.01 USD |
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
+| Flaznorp | 197 | 73 | 3 | -32.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | RN1 | 693 | 331 | 3 | -38.23 USD |
@@ -175,14 +175,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6230
+- **Apuestas resueltas:** 6231
 - **Aciertos:** 3934 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,803.67
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $566.14 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,808.67
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $566.15 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3181 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1815 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 877 | 85.5% | 86.6% | -1.1 pp |
-| 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
+| 95-99% (casi seguro) | 358 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1143,7 +1143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
-| Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ❌ perdida | -5.01 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Northern Illinois vs. Georgia State: O/U | Over (BUY) | 51% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | Flaznorp | Bulgaria vs. Luxembourg: O/U 3.5 | Under (BUY) | 82% | 5.00 | 0.2% | ✅ ganada | +1.05 |
 | RN1 | Illinois vs. Ohio State: O/U 57.5 | Over (BUY) | 51% | 3.13 | 0.5% | ✅ ganada | +2.93 |
