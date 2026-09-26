@@ -158479,8 +158479,8 @@
     "title": "Genoa 2: Marvin Moeller vs Luka Mikrut",
     "outcome": "Luka Mikrut",
     "side": "BUY",
-    "whale_usd": 16959.580256,
-    "whale_pct": 10.281,
+    "whale_usd": 18123.246131,
+    "whale_pct": 10.986,
     "whale_value_at_open": 164962.6922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -158491,8 +158491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424156.3810854,
-    "fills": 6
+    "last_fill_at": 1790424323.8020132,
+    "fills": 7
   },
   {
     "timestamp": 1790423491,
@@ -158575,8 +158575,8 @@
     "title": "Hangzhou Open: Daniil Medvedev vs Valentin Royer",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 8435.34,
-    "whale_pct": 4.081,
+    "whale_usd": 10360.25,
+    "whale_pct": 5.013,
     "whale_value_at_open": 206677.6052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -158587,8 +158587,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424195.526899,
-    "fills": 4
+    "last_fill_at": 1790424327.4390252,
+    "fills": 7
   },
   {
     "timestamp": 1790424161,
