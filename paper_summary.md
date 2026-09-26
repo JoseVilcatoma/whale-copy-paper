@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 07:01:49 (hora de Perú)
+Actualizado: 2026-09-26 07:03:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $67.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 07:01:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $10.33)
+**Capital comprometido ahora mismo:** $67.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 195 | 72 | 2 | -30.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 686 | 327 | 0 | -35.69 USD |
+| RN1 | 686 | 327 | 2 | -35.69 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -1133,10 +1133,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 70.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 10.3% | ⏳ pendiente | — |
 | UpTheBlues | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 69% | 4.62 | 2.3% | ✅ ganada | +2.00 |
 | UpTheBlues | Kataller Toyama vs. Yokohama FC: O/U 8.5 | Under (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Valentin Vacherot vs Lloyd | Lloyd Harris (BUY) | 75% | 5.00 | 15.4% | ✅ ganada | +1.60 |
@@ -1161,5 +1163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ✅ ganada | +2.54 |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ❌ perdida | -5.12 |
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
-| UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ✅ ganada | +1.68 |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ❌ perdida | -5.10 |
