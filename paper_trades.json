@@ -158503,8 +158503,8 @@
     "title": "Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B",
     "outcome": "LOUD",
     "side": "BUY",
-    "whale_usd": 2718.638966,
-    "whale_pct": 4.051,
+    "whale_usd": 37099.445156,
+    "whale_pct": 55.275,
     "whale_value_at_open": 67118.4851,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -158515,8 +158515,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790423519.900935,
-    "fills": 2
+    "last_fill_at": 1790423660.987851,
+    "fills": 6
   },
   {
     "timestamp": 1790423513,
