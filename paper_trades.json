@@ -158297,5 +158297,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790407383.0133765,
     "fills": 1
+  },
+  {
+    "timestamp": 1790407672,
+    "timestamp_added": 1790407672.8364933,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ja2-bla-alb-2026-09-26-bla",
+    "title": "Will Blaublitz Akita win on 2026-09-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 580.9985999999999,
+    "whale_pct": 0.736,
+    "whale_value_at_open": 78898.2113,
+    "paper_stake_usd": 2.17,
+    "odds_at_bet": 43,
+    "fee_usd": 0.062,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790407672.8365018,
+    "fills": 1
   }
 ]
