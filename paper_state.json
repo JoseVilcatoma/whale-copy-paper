@@ -1,5 +1,5 @@
 {
-  "bankroll": 67.59678313011565,
+  "bankroll": 65.36478313011565,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32085,6 +32085,11 @@
       "timestamp": 1790424388.0619526,
       "bankroll": 67.6,
       "event": "won: UpTheBlues \u2014 Kataller Toyama vs. Yokohama FC: O/U 8.5"
+    },
+    {
+      "timestamp": 1790424700.5023396,
+      "bankroll": 65.36,
+      "event": "lost: GoalLineGhost \u2014 Will Blaublitz Akita win on 2026-09-26?"
     }
   ]
 }

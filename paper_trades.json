@@ -158314,8 +158314,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.062,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -2.23,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -158599,8 +158599,8 @@
     "title": "Singapore Open: Leylah Fernandez vs Maja Chwalinska",
     "outcome": "Leylah Fernandez",
     "side": "BUY",
-    "whale_usd": 752.519534,
-    "whale_pct": 0.364,
+    "whale_usd": 2271.565934,
+    "whale_pct": 1.099,
     "whale_value_at_open": 206677.6052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -158611,8 +158611,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424161.765328,
-    "fills": 1
+    "last_fill_at": 1790424658.7735245,
+    "fills": 2
   },
   {
     "timestamp": 1790424431,

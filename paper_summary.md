@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 07:10:00 (hora de Perú)
+Actualizado: 2026-09-26 07:12:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $67.60
-**Retorno acumulado:** -86.48%
+**Bankroll actual:** $65.36
+**Retorno acumulado:** -86.93%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 07:10:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $67.17 en 14 posiciones abiertas (disponible para nuevas apuestas: $0.43)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $0.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,9 +153,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 40 | 39 | 0 | -14.92 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| GoalLineGhost | 121 | 51 | 1 | -15.57 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| GoalLineGhost | 121 | 52 | 0 | -17.80 USD |
 | BBQChickenisthebesttt | 8 | 9 | 0 | -17.97 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 7 | 0 | -18.85 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -174,13 +174,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6199
+- **Apuestas resueltas:** 6200
 - **Aciertos:** 3916 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,661.09
-- **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $563.56 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $30,663.26
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $563.63 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3165 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3166 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1806 | 68.9% | 67.9% | +1.0 pp |
 | 80-94% | 872 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 356 | 97.5% | 97.4% | +0.1 pp |
@@ -1134,7 +1134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -1146,7 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 99% | 5.00 | 2.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 30.6% | ✅ ganada | +2.61 |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 55% | 5.00 | 6.7% | ✅ ganada | +3.98 |
-| GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ❌ perdida | -2.23 |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ✅ ganada | +1.36 |
 | FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
