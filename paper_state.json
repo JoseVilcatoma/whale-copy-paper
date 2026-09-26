@@ -1,5 +1,5 @@
 {
-  "bankroll": 64.50862313199501,
+  "bankroll": 64.08395646532834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32160,6 +32160,16 @@
       "timestamp": 1790441880.075098,
       "bankroll": 64.51,
       "event": "won: RN1 \u2014 Will Scotland win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790442188.559076,
+      "bankroll": 60.85,
+      "event": "lost: ferrariChampions2026 \u2014 Hangzhou Open: Coleman Wong vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1790442188.6592672,
+      "bankroll": 64.08,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Coleman Wong vs Adolfo Vallejo"
     }
   ]
 }
