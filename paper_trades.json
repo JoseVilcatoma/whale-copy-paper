@@ -157651,8 +157651,8 @@
     "title": "Houston Astros vs. Athletics",
     "outcome": "Houston Astros",
     "side": "BUY",
-    "whale_usd": 31792.59,
-    "whale_pct": 8.616,
+    "whale_usd": 39380.71569999999,
+    "whale_pct": 10.672,
     "whale_value_at_open": 368998.425,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -157663,8 +157663,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790389607.086273,
-    "fills": 7
+    "last_fill_at": 1790389621.349063,
+    "fills": 9
   },
   {
     "timestamp": 1790378627,
