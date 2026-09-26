@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 15:51:48 (hora de Perú)
+Actualizado: 2026-09-26 15:53:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $53.34
-**Retorno acumulado:** -89.33%
+**Bankroll actual:** $54.69
+**Retorno acumulado:** -89.06%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 15:51:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $51.93 en 11 posiciones abiertas (disponible para nuevas apuestas: $1.41)
+**Capital comprometido ahora mismo:** $53.14 en 11 posiciones abiertas (disponible para nuevas apuestas: $1.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,25 +163,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
-| Flaznorp | 196 | 72 | 4 | -29.08 USD |
+| Flaznorp | 196 | 72 | 5 | -29.08 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | RN1 | 693 | 331 | 1 | -38.23 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 135 | 91 | 1 | -140.58 USD |
+|  | 136 | 91 | 0 | -139.23 USD |
 | ferrariChampions2026 | 944 | 582 | 2 | -280.74 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6227
-- **Aciertos:** 3932 (63.1%)
+- **Apuestas resueltas:** 6228
+- **Aciertos:** 3933 (63.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,789.88
+- **Total apostado (suma de stakes):** $30,793.67
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $565.89 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $565.94 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3180 | 49.7% | 50.1% | -0.3 pp |
-| 60-79% | 1813 | 69.1% | 67.9% | +1.1 pp |
+| 60-79% | 1814 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 877 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Buenos Aires 2: Joaquin Aguilar vs Alex  | Alex Barrena (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ⏳ pendiente | — |
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -1151,7 +1152,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 | RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.9% | ❌ perdida | -5.11 |
-| omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ⏳ pendiente | — |
+| omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ✅ ganada | +1.35 |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |
 | RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ❌ perdida | -3.66 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 4.1% | ✅ ganada | +0.05 |
 | RN1 | Hangzhou Open: Daniil Medvedev vs Valent | Daniil Medvedev (BUY) | 74% | 5.00 | 5.0% | ✅ ganada | +1.69 |
 | ferrariChampions2026 | Slovenia vs. Scotland: O/U 2.5 | Under (BUY) | 62% | 5.00 | 2.8% | ✅ ganada | +2.97 |
-| ferrariChampions2026 | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 52% | 5.00 | 1.0% | ❌ perdida | -5.12 |
