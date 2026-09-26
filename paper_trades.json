@@ -158091,8 +158091,8 @@
     "title": "Chengdu Open: Juan Manuel Cerundolo vs Alejandro Davidovich Fokina",
     "outcome": "Alejandro Davidovich Fokina",
     "side": "BUY",
-    "whale_usd": 1223.0095999999999,
-    "whale_pct": 1.219,
+    "whale_usd": 3834.4919,
+    "whale_pct": 3.821,
     "whale_value_at_open": 100346.462,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -158103,8 +158103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790400522.6235082,
-    "fills": 2
+    "last_fill_at": 1790401091.3244936,
+    "fills": 3
   },
   {
     "timestamp": 1790400216,
