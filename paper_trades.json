@@ -157959,5 +157959,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790397030.233757,
     "fills": 19
+  },
+  {
+    "timestamp": 1790398958,
+    "timestamp_added": 1790398959.4858341,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mex-tij-atl-2026-09-25-total-5pt5",
+    "title": "Club Tijuana vs. Atlas FC: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 978.559995,
+    "whale_pct": 1.031,
+    "whale_value_at_open": 94911.8764,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790398959.4858449,
+    "fills": 1
   }
 ]

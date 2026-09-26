@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 00:01:02 (hora de Perú)
+Actualizado: 2026-09-26 00:03:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 00:01:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $41.70 en 9 posiciones abiertas (disponible para nuevas apuestas: $7.76)
+**Capital comprometido ahora mismo:** $46.70 en 10 posiciones abiertas (disponible para nuevas apuestas: $2.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 134 | 91 | 0 | -141.36 USD |
+|  | 134 | 91 | 1 | -141.36 USD |
 | ferrariChampions2026 | 930 | 574 | 3 | -281.87 USD |
 
 ## Análisis general
@@ -1130,6 +1130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
@@ -1159,4 +1160,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tolentino: Guiomar Maristany vs Rebeka M | Guiomar Maristany (BUY) | 62% | 5.00 | 0.8% | ✅ ganada | +2.97 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Game Handicap: 1WIN (-1.5) vs GamerLegio | GamerLegion (BUY) | 56% | 5.00 | 3.5% | ✅ ganada | +3.82 |
 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 78% | 4.88 | 0.7% | ✅ ganada | +1.32 |
-| ferrariChampions2026 | Singapore Open: Xinyu Wang vs Tatiana Pr | Tatiana Prozorova (BUY) | 90% | 5.00 | 3.4% | ✅ ganada | +0.53 |
