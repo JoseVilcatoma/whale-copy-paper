@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 22:29:10 (hora de Perú)
+Actualizado: 2026-09-25 22:31:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $53.65
@@ -1131,8 +1131,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 9.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
+| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ⏳ pendiente | — |
 | GoalLineGhost | Vila Nova FC vs. Londrina EC: O/U 2.5 | Over (BUY) | 66% | 4.77 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Vila Nova FC (-1.5) | Vila Nova FC (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | Atlante FC vs. CF Monterrey: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
