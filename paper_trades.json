@@ -158719,8 +158719,8 @@
     "title": "Counter-Strike: EYEBALLERS vs K27 - Map 2 Winner",
     "outcome": "K27",
     "side": "BUY",
-    "whale_usd": 648.0,
-    "whale_pct": 0.212,
+    "whale_usd": 1170.88,
+    "whale_pct": 0.383,
     "whale_value_at_open": 305777.1713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -158731,7 +158731,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790431061.8621979,
-    "fills": 1
+    "last_fill_at": 1790431578.2043855,
+    "fills": 2
   }
 ]
