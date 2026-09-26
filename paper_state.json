@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.27428818062071,
+  "bankroll": 62.765045756378285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32100,6 +32100,11 @@
       "timestamp": 1790427008.835551,
       "bankroll": 60.27,
       "event": "won: RN1 \u2014 Singapore Open: Leylah Fernandez vs Maja Chwalinska"
+    },
+    {
+      "timestamp": 1790429997.0692556,
+      "bankroll": 62.77,
+      "event": "won: ferrariChampions2026 \u2014 Genoa 2: Marvin Moeller vs Luka Mikrut"
     }
   ]
 }
