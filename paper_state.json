@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.79073116551711,
+  "bankroll": 58.395397832183775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32060,6 +32060,11 @@
       "timestamp": 1790414528.5694444,
       "bankroll": 56.79,
       "event": "won: UpTheBlues \u2014 Chengdu Open: Martin Damm vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1790421384.2004194,
+      "bankroll": 58.4,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Valentin Vacherot vs Lloyd Harris"
     }
   ]
 }
