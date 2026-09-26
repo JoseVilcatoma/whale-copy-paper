@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 08:45:14 (hora de Perú)
+Actualizado: 2026-09-26 08:47:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $62.77
@@ -1134,7 +1134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Charlton Athletic vs. Manchester City WF | Under (BUY) | 42% | 2.77 | 0.2% | ⏳ pendiente | — |
-| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
+| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ⏳ pendiente | — |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Slovenia win on 2026-09-26? | No (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Singapore Open: Leylah Fernandez vs Maja | Leylah Fernandez (BUY) | 99% | 5.00 | 4.1% | ✅ ganada | +0.05 |
