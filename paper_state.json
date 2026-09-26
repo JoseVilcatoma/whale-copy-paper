@@ -1,5 +1,5 @@
 {
-  "bankroll": 56.006902898618975,
+  "bankroll": 56.615200770959405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32000,6 +32000,16 @@
       "timestamp": 1790399435.0250547,
       "bankroll": 56.01,
       "event": "won: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790404456.5328727,
+      "bankroll": 56.31,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Taylah Preston vs Alina Korneeva"
+    },
+    {
+      "timestamp": 1790404456.6330721,
+      "bankroll": 56.62,
+      "event": "won: Flaznorp \u2014 Korea Open: Taylah Preston vs Alina Korneeva"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 01:33:14 (hora de Perú)
+Actualizado: 2026-09-26 01:35:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $56.01
-**Retorno acumulado:** -88.80%
+**Bankroll actual:** $56.62
+**Retorno acumulado:** -88.68%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 01:33:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $53.88 en 11 posiciones abiertas (disponible para nuevas apuestas: $2.13)
+**Capital comprometido ahora mismo:** $43.88 en 9 posiciones abiertas (disponible para nuevas apuestas: $12.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,24 +163,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| Flaznorp | 194 | 72 | 3 | -30.43 USD |
+| Flaznorp | 195 | 72 | 2 | -30.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 686 | 327 | 0 | -35.69 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 91 | 1 | -141.36 USD |
-| ferrariChampions2026 | 931 | 575 | 5 | -284.43 USD |
+| ferrariChampions2026 | 932 | 575 | 4 | -284.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6182
-- **Aciertos:** 3902 (63.1%)
+- **Apuestas resueltas:** 6184
+- **Aciertos:** 3904 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,577.59
-- **ROI sobre lo apostado:** -1.87%
-- **Comisiones pagadas (taker fee):** $562.31 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $30,587.59
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $562.34 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3159 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1800 | 68.8% | 67.9% | +0.9 pp |
-| 80-94% | 869 | 85.6% | 86.6% | -1.0 pp |
+| 80-94% | 871 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1135,8 +1135,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
-| Flaznorp | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 6.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 10.4% | ⏳ pendiente | — |
+| Flaznorp | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 6.5% | ✅ ganada | +0.30 |
+| ferrariChampions2026 | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 10.4% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Júbilo Iwata vs. Vanraure Hachinohe FC:  | Over (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ✅ ganada | +2.54 |
