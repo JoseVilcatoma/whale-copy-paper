@@ -157893,8 +157893,8 @@
     "title": "Korea Open: Lanlana Tararudee vs Maya Joint",
     "outcome": "Maya Joint",
     "side": "BUY",
-    "whale_usd": 11699.703800000001,
-    "whale_pct": 16.839,
+    "whale_usd": 27347.8908,
+    "whale_pct": 39.362,
     "whale_value_at_open": 69477.875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -157905,7 +157905,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790394511.3797097,
-    "fills": 1
+    "last_fill_at": 1790394853.97107,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 22:52:51 (hora de Perú)
+Actualizado: 2026-09-25 22:54:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.92
@@ -1130,7 +1130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 16.8% | ⏳ pendiente | — |
+| HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ⏳ pendiente | — |
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ⏳ pendiente | — |
 | HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ⏳ pendiente | — |
