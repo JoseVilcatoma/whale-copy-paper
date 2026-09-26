@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 02:06:20 (hora de Perú)
+Actualizado: 2026-09-26 02:08:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.30
-**Retorno acumulado:** -88.34%
+**Bankroll actual:** $56.39
+**Retorno acumulado:** -88.72%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 02:06:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $3.30)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $11.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 91 | 1 | -141.36 USD |
-| ferrariChampions2026 | 932 | 575 | 6 | -284.13 USD |
+| ferrariChampions2026 | 933 | 576 | 4 | -286.04 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6185
-- **Aciertos:** 3905 (63.1%)
+- **Apuestas resueltas:** 6187
+- **Aciertos:** 3906 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,591.47
+- **Total apostado (suma de stakes):** $30,601.47
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $562.40 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $562.64 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3159 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1801 | 68.9% | 67.9% | +0.9 pp |
+| 40-59% | 3160 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1802 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 871 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1136,8 +1136,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 6.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Alejandro Davidovich Fokina (BUY) | 60% | 5.00 | 6.7% | ✅ ganada | +3.23 |
+| ferrariChampions2026 | Chengdu Open: Juan Manuel Cerundolo vs A | Juan Manuel Cerundolo (BUY) | 44% | 5.00 | 2.2% | ❌ perdida | -5.14 |
 | Flaznorp | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 6.5% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Korea Open: Taylah Preston vs Alina Korn | Alina Korneeva (BUY) | 94% | 5.00 | 10.4% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Júbilo Iwata vs. Vanraure Hachinohe FC:  | Over (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.29838917675651,
+  "bankroll": 56.39172251008984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32015,6 +32015,16 @@
       "timestamp": 1790405945.7000105,
       "bankroll": 58.3,
       "event": "won: UpTheBlues \u2014 El Salvador vs. Martinique: O/U 4.5"
+    },
+    {
+      "timestamp": 1790406503.9555876,
+      "bankroll": 53.16,
+      "event": "lost: ferrariChampions2026 \u2014 Chengdu Open: Juan Manuel Cerundolo vs Alejandro Davidovich Fokina"
+    },
+    {
+      "timestamp": 1790406504.0557337,
+      "bankroll": 56.39,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Juan Manuel Cerundolo vs Alejandro Davidovich Fokina"
     }
   ]
 }
