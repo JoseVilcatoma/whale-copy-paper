@@ -1,5 +1,5 @@
 {
-  "bankroll": 62.765045756378285,
+  "bankroll": 64.45680251313505,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32105,6 +32105,11 @@
       "timestamp": 1790429997.0692556,
       "bankroll": 62.77,
       "event": "won: ferrariChampions2026 \u2014 Genoa 2: Marvin Moeller vs Luka Mikrut"
+    },
+    {
+      "timestamp": 1790431059.2077165,
+      "bankroll": 64.46,
+      "event": "won: RN1 \u2014 Hangzhou Open: Daniil Medvedev vs Valentin Royer"
     }
   ]
 }
