@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 00:09:17 (hora de Perú)
+Actualizado: 2026-09-26 00:12:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $53.28
-**Retorno acumulado:** -89.34%
+**Bankroll actual:** $56.01
+**Retorno acumulado:** -88.80%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 00:09:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $41.70 en 9 posiciones abiertas (disponible para nuevas apuestas: $11.58)
+**Capital comprometido ahora mismo:** $18.88 en 4 posiciones abiertas (disponible para nuevas apuestas: $37.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 63 | 14 | 2 | +33.78 USD |
+| UpTheBlues | 64 | 14 | 1 | +37.15 USD |
+| HMLSF | 12 | 1 | 0 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| HMLSF | 11 | 0 | 2 | +31.04 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -170,18 +170,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 134 | 91 | 1 | -141.36 USD |
-| ferrariChampions2026 | 930 | 574 | 3 | -281.87 USD |
+| ferrariChampions2026 | 931 | 575 | 1 | -284.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6177
-- **Aciertos:** 3899 (63.1%)
+- **Apuestas resueltas:** 6182
+- **Aciertos:** 3902 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,554.77
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $561.76 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,577.59
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $562.31 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,8 +189,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3155 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1799 | 68.9% | 67.9% | +0.9 pp |
+| 40-59% | 3159 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1800 | 68.8% | 67.9% | +0.9 pp |
 | 80-94% | 869 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1131,12 +1131,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | omnibus-076daa | Club Tijuana vs. Atlas FC: O/U 5.5 | Under (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ⏳ pendiente | — |
-| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 52% | 2.82 | 32.2% | ✅ ganada | +2.54 |
+| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 50% | 5.00 | 39.3% | ❌ perdida | -5.12 |
 | HMLSF | Korea Open: Lanlana Tararudee vs Maya Jo | Maya Joint (BUY) | 63% | 5.00 | 39.4% | ✅ ganada | +2.84 |
 | UpTheBlues | El Salvador vs. Martinique: O/U 4.5 | Under (BUY) | 69% | 3.88 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ⏳ pendiente | — |
-| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Korea Open: Anna Bondar vs Gabriela Ruse | Gabriela Ruse (BUY) | 61% | 5.00 | 18.0% | ❌ perdida | -5.10 |
+| HMLSF | Korea Open: Anna Bondar vs Gabriela Ruse | Anna Bondar (BUY) | 41% | 5.00 | 17.7% | ✅ ganada | +7.05 |
 | GoalLineGhost | Vila Nova FC vs. Londrina EC: O/U 2.5 | Over (BUY) | 66% | 4.77 | 0.8% | ❌ perdida | -4.85 |
 | GoalLineGhost | Spread: Vila Nova FC (-1.5) | Vila Nova FC (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
 | GoalLineGhost | Atlante FC vs. CF Monterrey: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.8% | ✅ ganada | +3.82 |

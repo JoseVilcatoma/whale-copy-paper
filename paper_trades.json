@@ -156996,8 +156996,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -157826,8 +157826,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -157850,8 +157850,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "HMLSF"
     ],
@@ -157924,8 +157924,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -157950,8 +157950,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.068,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.54,
     "overlaps_with": [
       "HMLSF"
     ],

@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.276127753136095,
+  "bankroll": 56.006902898618975,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31975,6 +31975,31 @@
       "timestamp": 1790399109.784353,
       "bankroll": 53.28,
       "event": "won: GoalLineGhost \u2014 Atlante FC vs. CF Monterrey: O/U 2.5"
+    },
+    {
+      "timestamp": 1790399434.3990839,
+      "bankroll": 56.65,
+      "event": "won: UpTheBlues \u2014 Will Cavalry FC win on 2026-09-25?"
+    },
+    {
+      "timestamp": 1790399434.5634158,
+      "bankroll": 63.69,
+      "event": "won: HMLSF \u2014 Korea Open: Anna Bondar vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790399434.6635697,
+      "bankroll": 58.6,
+      "event": "lost: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790399434.9249146,
+      "bankroll": 53.47,
+      "event": "lost: HMLSF \u2014 Korea Open: Anna Bondar vs Gabriela Ruse"
+    },
+    {
+      "timestamp": 1790399435.0250547,
+      "bankroll": 56.01,
+      "event": "won: ferrariChampions2026 \u2014 Korea Open: Anna Bondar vs Gabriela Ruse"
     }
   ]
 }
