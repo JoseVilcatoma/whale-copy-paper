@@ -157747,8 +157747,8 @@
     "title": "Atlante FC vs. CF Monterrey: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 526.9000000000001,
-    "whale_pct": 0.36,
+    "whale_usd": 1228.9825,
+    "whale_pct": 0.841,
     "whale_value_at_open": 146208.3648,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -157759,8 +157759,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790383027.8047204,
-    "fills": 1
+    "last_fill_at": 1790387509.4192536,
+    "fills": 2
   },
   {
     "timestamp": 1790383379,
