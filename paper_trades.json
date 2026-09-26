@@ -157785,5 +157785,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790383379.9514637,
     "fills": 1
+  },
+  {
+    "timestamp": 1790383903,
+    "timestamp_added": 1790383903.854968,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bra2-vln-lon-2026-09-25-total-2pt5",
+    "title": "Vila Nova FC vs. Londrina EC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1241.9940000000001,
+    "whale_pct": 0.757,
+    "whale_value_at_open": 164151.8198,
+    "paper_stake_usd": 4.77,
+    "odds_at_bet": 66,
+    "fee_usd": 0.081,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790383947.3121965,
+    "fills": 2
   }
 ]
