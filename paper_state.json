@@ -1,5 +1,5 @@
 {
-  "bankroll": 57.17067599846194,
+  "bankroll": 58.52593240871835,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32030,6 +32030,11 @@
       "timestamp": 1790406876.0684233,
       "bankroll": 57.17,
       "event": "won: omnibus-076daa \u2014 Club Tijuana vs. Atlas FC: O/U 5.5"
+    },
+    {
+      "timestamp": 1790411666.7751918,
+      "bankroll": 58.53,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Quentin Halys vs Roman Safiullin"
     }
   ]
 }

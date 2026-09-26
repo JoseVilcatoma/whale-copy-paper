@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 03:33:18 (hora de Perú)
+Actualizado: 2026-09-26 03:35:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $57.17
-**Retorno acumulado:** -88.57%
+**Bankroll actual:** $58.53
+**Retorno acumulado:** -88.29%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 03:33:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $57.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $57.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,17 +170,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 0 | -140.58 USD |
-| ferrariChampions2026 | 933 | 576 | 6 | -286.04 USD |
+| ferrariChampions2026 | 934 | 576 | 6 | -284.68 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6188
-- **Aciertos:** 3907 (63.1%)
+- **Apuestas resueltas:** 6189
+- **Aciertos:** 3908 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,606.47
+- **Total apostado (suma de stakes):** $30,611.47
 - **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $562.67 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $562.73 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3160 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1802 | 68.9% | 67.9% | +0.9 pp |
+| 60-79% | 1803 | 68.9% | 67.9% | +0.9 pp |
 | 80-94% | 872 | 85.7% | 86.6% | -0.9 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
@@ -1131,9 +1131,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 55% | 5.00 | 6.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ✅ ganada | +1.36 |
 | FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -1160,4 +1161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
 | ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 10.7% | ❌ perdida | -5.09 |
 | RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Arizona Diamondbacks vs. San Diego Padre | Under (BUY) | 50% | 2.52 | 0.7% | ❌ perdida | -2.58 |
