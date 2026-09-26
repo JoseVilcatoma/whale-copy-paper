@@ -158259,8 +158259,8 @@
     "title": "Hangzhou Open: Quentin Halys vs Roman Safiullin",
     "outcome": "Roman Safiullin",
     "side": "BUY",
-    "whale_usd": 15704.6764,
-    "whale_pct": 14.9,
+    "whale_usd": 16874.3722,
+    "whale_pct": 16.009,
     "whale_value_at_open": 105402.3496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -158271,8 +158271,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790407571.9879887,
-    "fills": 2
+    "last_fill_at": 1790408377.941123,
+    "fills": 3
   },
   {
     "timestamp": 1790407382,
