@@ -1,5 +1,5 @@
 {
-  "bankroll": 34.295750737140125,
+  "bankroll": 29.178750737140124,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32275,6 +32275,11 @@
       "timestamp": 1790464642.2957616,
       "bankroll": 34.3,
       "event": "lost: ferrariChampions2026 \u2014 Atlanta Braves vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1790467001.9737346,
+      "bankroll": 29.18,
+      "event": "lost: weflyhigh \u2014 Spread: Auburn (-9.5)"
     }
   ]
 }
