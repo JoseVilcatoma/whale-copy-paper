@@ -1,5 +1,5 @@
 {
-  "bankroll": 40.16693255532194,
+  "bankroll": 35.079932555321946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32260,6 +32260,11 @@
       "timestamp": 1790463407.7581046,
       "bankroll": 40.17,
       "event": "lost: RN1 \u2014 Will England vs. Spain end in a draw?"
+    },
+    {
+      "timestamp": 1790464024.8331013,
+      "bankroll": 35.08,
+      "event": "lost: Flaznorp \u2014 Quilmes AC vs. CA Guemes: O/U 1.5"
     }
   ]
 }
