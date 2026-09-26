@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 14:53:26 (hora de Perú)
+Actualizado: 2026-09-26 14:55:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $58.08
-**Retorno acumulado:** -88.38%
+**Bankroll actual:** $52.95
+**Retorno acumulado:** -89.41%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 14:53:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $56.92 en 12 posiciones abiertas (disponible para nuevas apuestas: $1.16)
+**Capital comprometido ahora mismo:** $51.92 en 11 posiciones abiertas (disponible para nuevas apuestas: $1.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -164,8 +164,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 121 | 54 | 0 | -27.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 195 | 72 | 4 | -30.13 USD |
-| RN1 | 692 | 329 | 3 | -30.91 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 692 | 330 | 2 | -36.04 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6222
+- **Apuestas resueltas:** 6223
 - **Aciertos:** 3929 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,766.75
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $565.46 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,771.75
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $565.59 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,7 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3177 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3178 | 49.7% | 50.1% | -0.3 pp |
 | 60-79% | 1812 | 69.0% | 67.9% | +1.1 pp |
 | 80-94% | 876 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 357 | 97.5% | 97.4% | +0.1 pp |
@@ -1144,7 +1144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | San Diego State vs. Toledo: O/U 46.5 | Under (BUY) | 59% | 5.00 | 0.1% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 9.6% | ✅ ganada | +5.73 |
 | RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
-| RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |

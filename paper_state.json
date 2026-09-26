@@ -1,5 +1,5 @@
 {
-  "bankroll": 58.079086900110944,
+  "bankroll": 52.951086900110944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32200,6 +32200,11 @@
       "timestamp": 1790450897.008497,
       "bankroll": 58.08,
       "event": "lost: RN1 \u2014 San Diego State vs. Toledo: O/U 46.5"
+    },
+    {
+      "timestamp": 1790452527.1231463,
+      "bankroll": 52.95,
+      "event": "lost: RN1 \u2014 Illinois vs. Ohio State: O/U 61.5"
     }
   ]
 }
