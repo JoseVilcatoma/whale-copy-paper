@@ -158853,5 +158853,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790436947.1009946,
     "fills": 1
+  },
+  {
+    "timestamp": 1790440920,
+    "timestamp_added": 1790440921.4444702,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-droguet-prizmic-2026-09-26",
+    "title": "St. Tropez: Titouan Droguet vs Dino Prizmic",
+    "outcome": "Dino Prizmic",
+    "side": "BUY",
+    "whale_usd": 663.7518000000001,
+    "whale_pct": 0.205,
+    "whale_value_at_open": 324285.3726,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790440921.44449,
+    "fills": 1
   }
 ]
