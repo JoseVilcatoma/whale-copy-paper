@@ -1,5 +1,5 @@
 {
-  "bankroll": 35.079932555321946,
+  "bankroll": 39.423750737140125,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32265,6 +32265,11 @@
       "timestamp": 1790464024.8331013,
       "bankroll": 35.08,
       "event": "lost: Flaznorp \u2014 Quilmes AC vs. CA Guemes: O/U 1.5"
+    },
+    {
+      "timestamp": 1790464148.448484,
+      "bankroll": 39.42,
+      "event": "won: RN1 \u2014 UConn vs. Miami (OH)"
     }
   ]
 }
