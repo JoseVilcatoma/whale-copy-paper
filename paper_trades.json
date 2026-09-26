@@ -157713,5 +157713,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790378854.914573,
     "fills": 2
+  },
+  {
+    "timestamp": 1790382844,
+    "timestamp_added": 1790382844.7686296,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "conl-jam-gua-2026-09-25-draw",
+    "title": "Will Jamaica vs. Guatemala end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 966.8591999999999,
+    "whale_pct": 0.677,
+    "whale_value_at_open": 142831.5693,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790382844.7686408,
+    "fills": 1
   }
 ]
