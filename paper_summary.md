@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 18:12:07 (hora de Perú)
+Actualizado: 2026-09-26 18:14:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 18:12:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $4.42)
+**Capital comprometido ahora mismo:** $39.42 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -162,7 +162,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 33 | 22 | 0 | -25.60 USD |
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
-| GoalLineGhost | 121 | 54 | 1 | -27.97 USD |
+| GoalLineGhost | 121 | 54 | 2 | -27.97 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ✅ ganada | +4.34 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | RN1 | Charlton Athletic vs. Manchester City WF | Under (BUY) | 42% | 2.77 | 0.2% | ✅ ganada | +3.75 |
 | GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ❌ perdida | -5.05 |
-| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |

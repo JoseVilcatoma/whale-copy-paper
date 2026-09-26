@@ -159363,5 +159363,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790464194.5604877,
     "fills": 1
+  },
+  {
+    "timestamp": 1790464431,
+    "timestamp_added": 1790464431.6400182,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "bra2-goi-acg-2026-09-26-acg",
+    "title": "Will AC Goianiense win on 2026-09-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1493.999,
+    "whale_pct": 1.059,
+    "whale_value_at_open": 141079.2819,
+    "paper_stake_usd": 4.42,
+    "odds_at_bet": 84,
+    "fee_usd": 0.035,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790464431.6400292,
+    "fills": 1
   }
 ]
