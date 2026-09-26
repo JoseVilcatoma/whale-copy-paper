@@ -1,5 +1,5 @@
 {
-  "bankroll": 53.64689381339074,
+  "bankroll": 49.92173331956358,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31945,6 +31945,16 @@
       "timestamp": 1790392847.4197323,
       "bankroll": 53.65,
       "event": "won: UpTheBlues \u2014 Korea Open: Katie Volynets vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790394460.3326178,
+      "bankroll": 54.77,
+      "event": "won: GoalLineGhost \u2014 Spread: Vila Nova FC (-1.5)"
+    },
+    {
+      "timestamp": 1790394460.5838091,
+      "bankroll": 49.92,
+      "event": "lost: GoalLineGhost \u2014 Vila Nova FC vs. Londrina EC: O/U 2.5"
     }
   ]
 }
