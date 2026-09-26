@@ -158503,8 +158503,8 @@
     "title": "Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B",
     "outcome": "LOUD",
     "side": "BUY",
-    "whale_usd": 52087.831156,
-    "whale_pct": 77.606,
+    "whale_usd": 88363.14949000001,
+    "whale_pct": 131.652,
     "whale_value_at_open": 67118.4851,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -158515,8 +158515,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424570.6987538,
-    "fills": 9
+    "last_fill_at": 1790424727.5244772,
+    "fills": 12
   },
   {
     "timestamp": 1790423513,
@@ -158599,8 +158599,8 @@
     "title": "Singapore Open: Leylah Fernandez vs Maja Chwalinska",
     "outcome": "Leylah Fernandez",
     "side": "BUY",
-    "whale_usd": 2271.565934,
-    "whale_pct": 1.099,
+    "whale_usd": 7670.897354000001,
+    "whale_pct": 3.712,
     "whale_value_at_open": 206677.6052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -158611,8 +158611,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424658.7735245,
-    "fills": 2
+    "last_fill_at": 1790424796.5026593,
+    "fills": 4
   },
   {
     "timestamp": 1790424431,
@@ -158623,8 +158623,8 @@
     "title": "Will Slovenia win on 2026-09-26?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 862.9399999999999,
-    "whale_pct": 0.312,
+    "whale_usd": 2042.95,
+    "whale_pct": 0.739,
     "whale_value_at_open": 276276.1808,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -158635,7 +158635,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424432.1128094,
-    "fills": 1
+    "last_fill_at": 1790424801.0720806,
+    "fills": 3
   }
 ]
