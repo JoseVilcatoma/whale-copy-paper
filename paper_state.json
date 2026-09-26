@@ -1,5 +1,5 @@
 {
-  "bankroll": 59.88060583746158,
+  "bankroll": 54.83060583746158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32135,6 +32135,11 @@
       "timestamp": 1790438946.2401218,
       "bankroll": 59.88,
       "event": "lost: GoalLineGhost \u2014 AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 1.5"
+    },
+    {
+      "timestamp": 1790439071.7736318,
+      "bankroll": 54.83,
+      "event": "lost: GoalLineGhost \u2014 AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 3.5"
     }
   ]
 }
