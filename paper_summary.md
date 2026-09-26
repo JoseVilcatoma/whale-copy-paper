@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 15:47:39 (hora de Perú)
+Actualizado: 2026-09-26 15:49:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $53.34
@@ -1135,7 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ⏳ pendiente | — |
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |

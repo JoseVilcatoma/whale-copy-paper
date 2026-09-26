@@ -159229,8 +159229,8 @@
     "title": "Quilmes AC vs. CA Guemes: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 903.4300000000001,
-    "whale_pct": 0.115,
+    "whale_usd": 1840.0,
+    "whale_pct": 0.235,
     "whale_value_at_open": 782498.3512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -159241,7 +159241,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790455355.0670292,
-    "fills": 1
+    "last_fill_at": 1790455728.6930652,
+    "fills": 2
   }
 ]
