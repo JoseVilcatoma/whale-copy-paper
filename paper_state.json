@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.182086900110946,
+  "bankroll": 58.079086900110944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32195,6 +32195,11 @@
       "timestamp": 1790445006.00229,
       "bankroll": 63.18,
       "event": "lost: RN1 \u2014 St. Tropez: Titouan Droguet vs Dino Prizmic"
+    },
+    {
+      "timestamp": 1790450897.008497,
+      "bankroll": 58.08,
+      "event": "lost: RN1 \u2014 San Diego State vs. Toledo: O/U 46.5"
     }
   ]
 }
