@@ -158405,8 +158405,8 @@
     "title": "Chengdu Open: Valentin Vacherot vs Lloyd Harris",
     "outcome": "Lloyd Harris",
     "side": "BUY",
-    "whale_usd": 4425.272370000001,
-    "whale_pct": 4.06,
+    "whale_usd": 5009.1952280000005,
+    "whale_pct": 4.596,
     "whale_value_at_open": 108985.3035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -158417,8 +158417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790415196.9559076,
-    "fills": 4
+    "last_fill_at": 1790415682.4511492,
+    "fills": 5
   },
   {
     "timestamp": 1790414538,
@@ -158453,8 +158453,8 @@
     "title": "Hangzhou Open: Yunchaokete Bu vs Kamil Majchrzak",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 1893.3616,
-    "whale_pct": 0.702,
+    "whale_usd": 3307.2916,
+    "whale_pct": 1.227,
     "whale_value_at_open": 269523.4982,
     "paper_stake_usd": 4.62,
     "odds_at_bet": 69,
@@ -158467,7 +158467,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790415156.1581833,
-    "fills": 3
+    "last_fill_at": 1790415605.614786,
+    "fills": 5
   }
 ]
