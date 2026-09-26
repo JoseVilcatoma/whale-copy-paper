@@ -158551,8 +158551,8 @@
     "title": "Slovenia vs. Scotland: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3530.0151000000005,
-    "whale_pct": 2.337,
+    "whale_usd": 4181.3685000000005,
+    "whale_pct": 2.769,
     "whale_value_at_open": 151028.2223,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -158563,8 +158563,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790423528.63009,
-    "fills": 2
+    "last_fill_at": 1790427064.9079242,
+    "fills": 3
   },
   {
     "timestamp": 1790424147,
@@ -158606,8 +158606,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -158637,5 +158637,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790424801.0720806,
     "fills": 3
+  },
+  {
+    "timestamp": 1790427024,
+    "timestamp_added": 1790427025.265525,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "es2-ceu-rso-2026-09-26-total-1pt5",
+    "title": "AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 565.9992000000001,
+    "whale_pct": 0.362,
+    "whale_value_at_open": 156412.1364,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790427025.2655368,
+    "fills": 1
   }
 ]

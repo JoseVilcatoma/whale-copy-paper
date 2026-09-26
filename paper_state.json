@@ -1,5 +1,5 @@
 {
-  "bankroll": 60.226783130115656,
+  "bankroll": 60.27428818062071,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32095,6 +32095,11 @@
       "timestamp": 1790425325.6985655,
       "bankroll": 60.23,
       "event": "lost: FORTNITEMASTER888 \u2014 Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B"
+    },
+    {
+      "timestamp": 1790427008.835551,
+      "bankroll": 60.27,
+      "event": "won: RN1 \u2014 Singapore Open: Leylah Fernandez vs Maja Chwalinska"
     }
   ]
 }
