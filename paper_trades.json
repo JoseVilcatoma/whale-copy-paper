@@ -159051,5 +159051,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790442256.77169,
     "fills": 2
+  },
+  {
+    "timestamp": 1790445041,
+    "timestamp_added": 1790445042.2130637,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "unl-bul-lux-2026-09-26-total-3pt5",
+    "title": "Bulgaria vs. Luxembourg: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1958.1599999999999,
+    "whale_pct": 0.21,
+    "whale_value_at_open": 932073.2397,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790445042.2130744,
+    "fills": 1
   }
 ]
