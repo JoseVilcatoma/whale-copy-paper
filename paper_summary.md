@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 03:47:44 (hora de Perú)
+Actualizado: 2026-09-26 03:49:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.88
@@ -1138,7 +1138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Quentin Halys vs Roman Sa | Roman Safiullin (BUY) | 78% | 5.00 | 16.0% | ✅ ganada | +1.36 |
-| FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
+| FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ❌ perdida | -5.14 |

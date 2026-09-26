@@ -158235,8 +158235,8 @@
     "title": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
     "outcome": "Global Esports",
     "side": "BUY",
-    "whale_usd": 1064.2676000000001,
-    "whale_pct": 2.117,
+    "whale_usd": 1882.741457,
+    "whale_pct": 3.745,
     "whale_value_at_open": 50279.6367,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -158247,8 +158247,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790408500.4029598,
-    "fills": 2
+    "last_fill_at": 1790412506.9166963,
+    "fills": 3
   },
   {
     "timestamp": 1790407119,
