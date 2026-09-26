@@ -158479,8 +158479,8 @@
     "title": "Genoa 2: Marvin Moeller vs Luka Mikrut",
     "outcome": "Luka Mikrut",
     "side": "BUY",
-    "whale_usd": 18123.246131,
-    "whale_pct": 10.986,
+    "whale_usd": 19088.690249,
+    "whale_pct": 11.572,
     "whale_value_at_open": 164962.6922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -158491,8 +158491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790424323.8020132,
-    "fills": 7
+    "last_fill_at": 1790425702.4820204,
+    "fills": 8
   },
   {
     "timestamp": 1790423491,
