@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 03:41:31 (hora de Perú)
+Actualizado: 2026-09-26 03:43:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 03:41:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $47.17 en 10 posiciones abiertas (disponible para nuevas apuestas: $10.71)
+**Capital comprometido ahora mismo:** $57.17 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 65 | 14 | 1 | +38.83 USD |
+| UpTheBlues | 65 | 14 | 2 | +38.83 USD |
 | HMLSF | 12 | 1 | 0 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 0 | -140.58 USD |
-| ferrariChampions2026 | 935 | 577 | 4 | -285.32 USD |
+| ferrariChampions2026 | 935 | 577 | 5 | -285.32 USD |
 
 ## Análisis general
 
@@ -1126,11 +1126,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-wa-prozoro-2026-09-25 | 0x076daa87c4fe1a85402a9b6b8e0a866224388d4c, ferrariChampions2026 |
 | wta-bondar-ruse-2026-09-25 | HMLSF, ferrariChampions2026 |
 | wta-preston-korneev-2026-09-25 | Flaznorp, ferrariChampions2026 |
+| atp-damm-hurkacz-2026-09-25 | UpTheBlues, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 99% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 65% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Hubert Hurkacz (BUY) | 55% | 5.00 | 6.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Blaublitz Akita win on 2026-09-26? | Yes (BUY) | 43% | 2.17 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Martin Damm vs Hubert Hurk | Martin Damm (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -1159,5 +1162,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Jamaica vs. Guatemala end in a draw | No (BUY) | 73% | 5.00 | 5.2% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | New York Mets vs. Washington Nationals | New York Mets (BUY) | 41% | 5.00 | 0.6% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Chicago Cubs (BUY) | 51% | 3.96 | 1.6% | ❌ perdida | -4.06 |
-| ferrariChampions2026 | Houston Astros vs. Athletics | Houston Astros (BUY) | 64% | 5.00 | 10.7% | ❌ perdida | -5.09 |
-| RN1 | Counter-Strike: Liquid vs NRG - Map 1 Wi | NRG (BUY) | 57% | 5.00 | 1.1% | ❌ perdida | -5.11 |
