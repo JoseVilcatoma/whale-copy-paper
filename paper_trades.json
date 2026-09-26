@@ -158805,5 +158805,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790434159.6787245,
     "fills": 1
+  },
+  {
+    "timestamp": 1790436863,
+    "timestamp_added": 1790436863.9073067,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wong-vallejo-2026-09-25",
+    "title": "Hangzhou Open: Coleman Wong vs Adolfo Vallejo",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "whale_usd": 1443.917074,
+    "whale_pct": 0.628,
+    "whale_value_at_open": 229846.4594,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790436863.9073157,
+    "fills": 1
   }
 ]
