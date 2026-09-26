@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 02:14:37 (hora de Perú)
+Actualizado: 2026-09-26 02:16:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $57.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 02:14:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $17.17)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $12.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
-| Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| Lakersfan111 | 11 | 8 | 1 | +4.18 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -1131,6 +1131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| FORTNITEMASTER888 | Valorant: Global Esports vs Team Vitalit | Global Esports (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | UpTheBlues | Will Nantong Zhiyun win on 2026-09-26? | Yes (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
@@ -1160,4 +1161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: GamerLegion vs K27 - Map | GamerLegion (BUY) | 88% | 5.00 | 1.6% | ✅ ganada | +0.65 |
 | ferrariChampions2026 | Spread: Chicago Cubs (-1.5) | Boston Red Sox (BUY) | 61% | 5.00 | 1.0% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Chicago Cubs vs. Boston Red Sox | Boston Red Sox (BUY) | 44% | 5.00 | 4.5% | ✅ ganada | +6.22 |
-| omnibus-076daa | Baltimore Orioles vs. New York Yankees | Baltimore Orioles (BUY) | 52% | 5.00 | 0.5% | ❌ perdida | -5.12 |

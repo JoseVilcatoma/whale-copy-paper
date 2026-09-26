@@ -158225,5 +158225,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790406160.721779,
     "fills": 1
+  },
+  {
+    "timestamp": 1790406998,
+    "timestamp_added": 1790406998.6757617,
+    "username": "FORTNITEMASTER888",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-ge1-vit-2026-09-26",
+    "title": "Valorant: Global Esports vs Team Vitality (BO3) - VCT Champions Group B",
+    "outcome": "Global Esports",
+    "side": "BUY",
+    "whale_usd": 528.0,
+    "whale_pct": 1.05,
+    "whale_value_at_open": 50279.6367,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790406998.6757734,
+    "fills": 1
   }
 ]
