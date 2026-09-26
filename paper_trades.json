@@ -159147,5 +159147,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790445534.3997686,
     "fills": 1
+  },
+  {
+    "timestamp": 1790452804,
+    "timestamp_added": 1790452804.810636,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-atl-mia-2026-09-26",
+    "title": "Atlanta Braves vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 11682.050000000001,
+    "whale_pct": 3.315,
+    "whale_value_at_open": 352407.24,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790452804.8106475,
+    "fills": 1
   }
 ]

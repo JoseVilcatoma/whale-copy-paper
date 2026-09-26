@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 14:59:43 (hora de Perú)
+Actualizado: 2026-09-26 15:01:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $55.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 14:59:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $48.79 en 10 posiciones abiertas (disponible para nuevas apuestas: $7.09)
+**Capital comprometido ahora mismo:** $53.79 en 11 posiciones abiertas (disponible para nuevas apuestas: $2.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 135 | 91 | 1 | -140.58 USD |
-| ferrariChampions2026 | 943 | 582 | 2 | -282.26 USD |
+| ferrariChampions2026 | 943 | 582 | 3 | -282.26 USD |
 
 ## Análisis general
 
@@ -1134,6 +1134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Northern Illinois vs. Georgia State: O/U | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -1163,4 +1164,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | FORTNITEMASTER888 | Valorant: LOUD vs EDward Gaming (BO3) -  | LOUD (BUY) | 72% | 5.00 | 131.7% | ✅ ganada | +1.87 |
 | ferrariChampions2026 | Genoa 2: Marvin Moeller vs Luka Mikrut | Luka Mikrut (BUY) | 66% | 5.00 | 18.8% | ✅ ganada | +2.49 |
 | UpTheBlues | Hangzhou Open: Yunchaokete Bu vs Kamil M | Yunchaokete Bu (BUY) | 69% | 4.62 | 2.3% | ✅ ganada | +2.00 |
-| UpTheBlues | Kataller Toyama vs. Yokohama FC: O/U 8.5 | Under (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
