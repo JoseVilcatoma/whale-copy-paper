@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 10:35:46 (hora de Perú)
+Actualizado: 2026-09-26 10:37:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $70.12
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 10:35:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $66.33 en 14 posiciones abiertas (disponible para nuevas apuestas: $3.79)
+**Capital comprometido ahora mismo:** $70.12 en 15 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
-|  | 135 | 91 | 0 | -140.58 USD |
+|  | 135 | 91 | 1 | -140.58 USD |
 | ferrariChampions2026 | 940 | 578 | 6 | -275.26 USD |
 
 ## Análisis general
@@ -1133,6 +1133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ⏳ pendiente | — |
@@ -1162,4 +1163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Alexandre Muller (BUY) | 52% | 5.00 | 5.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Chengdu Open: Federico Cina vs Alexandre | Federico Cina (BUY) | 44% | 5.00 | 3.3% | ❌ perdida | -5.14 |
 | Flaznorp | Will Spain win on 2026-09-26? | No (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
-| Flaznorp | Will England win on 2026-09-26? | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |

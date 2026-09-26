@@ -158829,5 +158829,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790436863.9073157,
     "fills": 1
+  },
+  {
+    "timestamp": 1790436946,
+    "timestamp_added": 1790436947.100986,
+    "username": "omnibus-076daa",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-alcaraz-fritz-2026-09-26",
+    "title": "Laver Cup: Carlos Alcaraz vs Taylor Fritz",
+    "outcome": "Carlos Alcaraz",
+    "side": "BUY",
+    "whale_usd": 4405.469999,
+    "whale_pct": 2.729,
+    "whale_value_at_open": 161439.4397,
+    "paper_stake_usd": 3.79,
+    "odds_at_bet": 73,
+    "fee_usd": 0.051,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790436947.1009946,
+    "fills": 1
   }
 ]
