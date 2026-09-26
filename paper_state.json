@@ -1,5 +1,5 @@
 {
-  "bankroll": 66.74602956627514,
+  "bankroll": 70.11760583746158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32120,6 +32120,11 @@
       "timestamp": 1790434062.363384,
       "bankroll": 66.75,
       "event": "won: RN1 \u2014 Counter-Strike: EYEBALLERS vs K27 - Map 2 Winner"
+    },
+    {
+      "timestamp": 1790436565.330512,
+      "bankroll": 70.12,
+      "event": "won: UpTheBlues \u2014 Will Nantong Zhiyun win on 2026-09-26?"
     }
   ]
 }
