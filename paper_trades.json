@@ -158201,5 +158201,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790404847.9555273,
     "fills": 1
+  },
+  {
+    "timestamp": 1790406160,
+    "timestamp_added": 1790406160.7217677,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi2-nan-cha-2026-09-26-nan",
+    "title": "Will Nantong Zhiyun win on 2026-09-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 624.37,
+    "whale_pct": 0.255,
+    "whale_value_at_open": 244616.4538,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790406160.721779,
+    "fills": 1
   }
 ]
