@@ -1,5 +1,5 @@
 {
-  "bankroll": 63.00435769840451,
+  "bankroll": 67.49974231378913,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32075,6 +32075,11 @@
       "timestamp": 1790423449.058875,
       "bankroll": 63.0,
       "event": "won: UpTheBlues \u2014 Hangzhou Open: Yunchaokete Bu vs Kamil Majchrzak"
+    },
+    {
+      "timestamp": 1790424072.3478029,
+      "bankroll": 67.5,
+      "event": "won: ferrariChampions2026 \u2014 J\u00fabilo Iwata vs. Vanraure Hachinohe FC: O/U 2.5"
     }
   ]
 }
