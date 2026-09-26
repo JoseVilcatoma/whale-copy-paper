@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 17:22:36 (hora de Perú)
+Actualizado: 2026-09-26 17:24:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $46.62
@@ -1136,7 +1136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ⏳ pendiente | — |
-| RN1 | San Diego 2: Timo Legout vs Igor Ribeiro | Timo Legout (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | San Diego 2: Timo Legout vs Igor Ribeiro | Timo Legout (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Buenos Aires 2: Joaquin Aguilar vs Alex  | Alex Barrena (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ⏳ pendiente | — |
