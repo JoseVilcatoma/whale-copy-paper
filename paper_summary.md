@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-25 22:18:48 (hora de Perú)
+Actualizado: 2026-09-25 22:20:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $59.33
-**Retorno acumulado:** -88.13%
+**Bankroll actual:** $53.65
+**Retorno acumulado:** -89.27%
 **Peor caída desde un máximo (drawdown):** 93.85%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-25 22:18:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $59.77 en 12 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $39.77 en 8 posiciones abiertas (disponible para nuevas apuestas: $13.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 62 | 13 | 3 | +38.25 USD |
+| UpTheBlues | 63 | 14 | 1 | +33.78 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -165,7 +165,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | Flaznorp | 194 | 72 | 0 | -30.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 685 | 326 | 2 | -34.47 USD |
+| RN1 | 686 | 327 | 0 | -35.69 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
@@ -174,14 +174,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6167
-- **Aciertos:** 3893 (63.1%)
+- **Apuestas resueltas:** 6171
+- **Aciertos:** 3895 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.95
-- **Total apostado (suma de stakes):** $30,505.00
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $561.04 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,525.00
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $561.28 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -189,9 +189,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3153 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1794 | 69.0% | 67.9% | +1.0 pp |
-| 80-94% | 866 | 85.7% | 86.6% | -0.9 pp |
+| 40-59% | 3154 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1795 | 68.9% | 67.9% | +1.0 pp |
+| 80-94% | 868 | 85.6% | 86.6% | -1.0 pp |
 | 95-99% (casi seguro) | 354 | 97.5% | 97.4% | +0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1158,4 +1158,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chengdu Open: Jenson Brooksby vs Lorenzo | Lorenzo Sonego (BUY) | 49% | 5.00 | 0.9% | ❌ perdida | -5.13 |
 | GoalLineGhost | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | UpTheBlues | Italy vs. Belgium: O/U 2.5 | Over (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
+| UpTheBlues | Korea Open: Katie Volynets vs Kimberly B | Kimberly Birrell (BUY) | 89% | 5.00 | 0.4% | ✅ ganada | +0.59 |

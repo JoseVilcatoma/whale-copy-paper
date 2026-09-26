@@ -156850,8 +156850,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -156946,8 +156946,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [
       "RN1"
     ],
@@ -157020,8 +157020,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [
       "UpTheBlues"
     ],
@@ -157096,8 +157096,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [
       "RN1"
     ],

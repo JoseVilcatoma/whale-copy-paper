@@ -1,5 +1,5 @@
 {
-  "bankroll": 59.33234485672943,
+  "bankroll": 53.64689381339074,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -31925,6 +31925,26 @@
       "timestamp": 1790392597.9015958,
       "bankroll": 59.33,
       "event": "lost: omnibus-076daa \u2014 Baltimore Orioles vs. New York Yankees"
+    },
+    {
+      "timestamp": 1790392846.8338666,
+      "bankroll": 54.3,
+      "event": "lost: RN1 \u2014 Korea Open: Katie Volynets vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790392846.934098,
+      "bankroll": 49.24,
+      "event": "lost: UpTheBlues \u2014 Korea Open: Katie Volynets vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790392847.3195205,
+      "bankroll": 53.06,
+      "event": "won: RN1 \u2014 Korea Open: Katie Volynets vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790392847.4197323,
+      "bankroll": 53.65,
+      "event": "won: UpTheBlues \u2014 Korea Open: Katie Volynets vs Kimberly Birrell"
     }
   ]
 }
