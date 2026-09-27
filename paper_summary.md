@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 07:44:26 (hora de Perú)
+Actualizado: 2026-09-27 07:46:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $21.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 07:44:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $10.00 en 2 posiciones abiertas (disponible para nuevas apuestas: $11.42)
+**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $6.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -151,7 +151,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| SDTrading | 40 | 39 | 0 | -14.92 USD |
+| SDTrading | 40 | 39 | 1 | -14.92 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Maya Joint vs Kimberly Birre | Maya Joint (BUY) | 43% | 5.00 | 1.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 2.6% | ❌ perdida | -4.95 |
 | ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 41.2% | ✅ ganada | +2.17 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ✅ ganada | +1.35 |
-| ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |

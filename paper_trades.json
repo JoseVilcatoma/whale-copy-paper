@@ -159531,5 +159531,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790493741.2566786,
     "fills": 1
+  },
+  {
+    "timestamp": 1790513103,
+    "timestamp_added": 1790513103.8036432,
+    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "nfl-sea-was-2026-09-27-spread-away-9pt5",
+    "title": "Spread: Seahawks (-9.5)",
+    "outcome": "Commanders",
+    "side": "BUY",
+    "whale_usd": 1258.22,
+    "whale_pct": 1.283,
+    "whale_value_at_open": 98038.1777,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790513187.2798178,
+    "fills": 2
   }
 ]
