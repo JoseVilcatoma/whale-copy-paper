@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 00:48:11 (hora de Perú)
+Actualizado: 2026-09-27 00:50:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $24.85
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 00:48:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $9.85)
+**Capital comprometido ahora mismo:** $24.85 en 5 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -171,7 +171,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 944 | 583 | 2 | -285.87 USD |
+| ferrariChampions2026 | 944 | 583 | 4 | -285.87 USD |
 
 ## Análisis general
 
@@ -1135,6 +1135,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Roman Safiullin vs Yuncha | Roman Safiullin (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Rice vs. Fresno State | Fresno State (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
 | RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ✅ ganada | +3.82 |
@@ -1163,5 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | omnibus-076daa | Laver Cup: Carlos Alcaraz vs Taylor Frit | Carlos Alcaraz (BUY) | 73% | 3.79 | 2.7% | ✅ ganada | +1.35 |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Coleman Wong (BUY) | 60% | 5.00 | 0.6% | ✅ ganada | +3.23 |
 | RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ✅ ganada | +0.47 |
-| ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ❌ perdida | -3.66 |
-| ferrariChampions2026 | M15 Forbach: Arthur Nagel vs Flynn Thoma | Arthur Nagel (BUY) | 86% | 5.00 | 0.3% | ❌ perdida | -5.04 |
