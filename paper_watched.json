@@ -2,7 +2,7 @@
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
     "username": "beachboy4",
     "added_at": 1789958653.6099703,
-    "roi_pct": 24791.41,
+    "roi_pct": 24151.57,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -14,49 +14,49 @@
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1790463176.2378435,
-    "roi_pct": 407.75,
-    "short_term_pct": 100.0
-  },
-  "0x27f738fe203827445690339104aae35b20bc44b0": {
-    "username": "ic4cream",
-    "added_at": 1790482995.7118378,
-    "roi_pct": 110.8,
+    "roi_pct": 372.43,
     "short_term_pct": 100.0
   },
   "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
     "username": "bands1",
     "added_at": 1790488879.5710983,
-    "roi_pct": 137.87,
+    "roi_pct": 131.04,
     "short_term_pct": 100.0
   },
   "0x361b16e3ddfe1d415d41008daac2631d94ab74fe": {
     "username": "0x361b16e3ddfe1d415d41008daac2631d94ab74fe",
     "added_at": 1790494688.4346786,
-    "roi_pct": 959.09,
+    "roi_pct": 959.06,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1790513146.6777627,
-    "roi_pct": 133.22,
+    "roi_pct": 147.18,
     "short_term_pct": 100.0
   },
   "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487": {
     "username": "ratatatatatatatataaaa",
     "added_at": 1790524381.0483458,
-    "roi_pct": 197.5,
+    "roi_pct": 160.76,
     "short_term_pct": 100.0
   },
   "0xfea31bc088000ff909be1dfd8d0e3f2c7ef2d227": {
     "username": "ndb1",
     "added_at": 1790526256.113878,
-    "roi_pct": 133.79,
+    "roi_pct": 133.89,
     "short_term_pct": 70.0
   },
   "0x821dab0565ebf5b327f51db06223fdcfe01acf16": {
     "username": "Flaznorp",
     "added_at": 1790529698.6226735,
-    "roi_pct": 117.78,
-    "short_term_pct": 70.0
+    "roi_pct": 115.61,
+    "short_term_pct": 90.0
+  },
+  "0xf28e42d20e4826f2b10a24bc952001697947cab2": {
+    "username": "ethanaz",
+    "added_at": 1790530640.8040934,
+    "roi_pct": 788.55,
+    "short_term_pct": 100.0
   }
 }
