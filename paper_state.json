@@ -1,5 +1,5 @@
 {
-  "bankroll": 31.294768410226,
+  "bankroll": 38.05453031498791,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32340,6 +32340,11 @@
       "timestamp": 1790544026.0731008,
       "bankroll": 31.29,
       "event": "won: bands1 \u2014 Panthers vs. Browns"
+    },
+    {
+      "timestamp": 1790553042.8102205,
+      "bankroll": 38.05,
+      "event": "won: primm \u2014 Raiders vs. Saints: O/U 50.5"
     }
   ]
 }
