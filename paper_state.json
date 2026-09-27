@@ -1,5 +1,5 @@
 {
-  "bankroll": 24.073750737140124,
+  "bankroll": 19.798655499044884,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32285,6 +32285,16 @@
       "timestamp": 1790470692.3130782,
       "bankroll": 24.07,
       "event": "lost: RN1 \u2014 San Diego 2: Timo Legout vs Igor Ribeiro Marcondes"
+    },
+    {
+      "timestamp": 1790474066.7297864,
+      "bankroll": 18.99,
+      "event": "lost: GoalLineGhost \u2014 Charlotte FC vs. Chicago Fire FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1790474067.005587,
+      "bankroll": 19.8,
+      "event": "won: GoalLineGhost \u2014 Will AC Goianiense win on 2026-09-26?"
     }
   ]
 }
