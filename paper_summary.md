@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 21:02:37 (hora de Perú)
+Actualizado: 2026-09-26 21:04:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $19.80
-**Retorno acumulado:** -96.04%
+**Bankroll actual:** $20.05
+**Retorno acumulado:** -95.99%
 **Peor caída desde un máximo (drawdown):** 96.87%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 21:02:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $19.80 en 4 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $14.80 en 3 posiciones abiertas (disponible para nuevas apuestas: $5.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 198 | 75 | 0 | -40.35 USD |
-| RN1 | 694 | 333 | 2 | -42.22 USD |
+| RN1 | 695 | 333 | 1 | -41.97 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -175,13 +175,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6241
-- **Aciertos:** 3937 (63.1%)
+- **Apuestas resueltas:** 6242
+- **Aciertos:** 3938 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,854.72
+- **Total apostado (suma de stakes):** $30,859.72
 - **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $567.06 (1.84% del capital apostado)
+- **Comisiones pagadas (taker fee):** $567.07 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 3187 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1818 | 69.0% | 67.9% | +1.1 pp |
 | 80-94% | 878 | 85.5% | 86.6% | -1.1 pp |
-| 95-99% (casi seguro) | 358 | 97.2% | 97.4% | -0.2 pp |
+| 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -1138,7 +1138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ✅ ganada | +0.81 |
 | GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.9% | ❌ perdida | -5.08 |
-| RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
 | RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ✅ ganada | +4.34 |
 | RN1 | San Diego 2: Timo Legout vs Igor Ribeiro | Timo Legout (BUY) | 58% | 5.00 | 0.9% | ❌ perdida | -5.11 |
 | Flaznorp | Buenos Aires 2: Joaquin Aguilar vs Alex  | Alex Barrena (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |

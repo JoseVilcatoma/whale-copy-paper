@@ -1,5 +1,5 @@
 {
-  "bankroll": 19.798655499044884,
+  "bankroll": 20.048813393781725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32295,6 +32295,11 @@
       "timestamp": 1790474067.005587,
       "bankroll": 19.8,
       "event": "won: GoalLineGhost \u2014 Will AC Goianiense win on 2026-09-26?"
+    },
+    {
+      "timestamp": 1790474679.7687166,
+      "bankroll": 20.05,
+      "event": "won: RN1 \u2014 James Madison vs. Old Dominion"
     }
   ]
 }
