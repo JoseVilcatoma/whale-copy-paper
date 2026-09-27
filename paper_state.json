@@ -1,5 +1,5 @@
 {
-  "bankroll": 24.84918250659662,
+  "bankroll": 27.017559318190823,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32310,6 +32310,11 @@
       "timestamp": 1790488091.5121288,
       "bankroll": 24.85,
       "event": "won: RN1 \u2014 Rice vs. Fresno State"
+    },
+    {
+      "timestamp": 1790493694.0620406,
+      "bankroll": 27.02,
+      "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Jenson Brooksby vs Nikoloz Basilashvili"
     }
   ]
 }
