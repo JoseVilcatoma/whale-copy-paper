@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 08:55:50 (hora de Perú)
+Actualizado: 2026-09-27 08:57:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $21.42
@@ -1136,7 +1136,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
-| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Korea Open: Maya Joint vs Kimberly Birre | Maya Joint (BUY) | 43% | 5.00 | 1.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 2.6% | ❌ perdida | -4.95 |
 | ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 41.2% | ✅ ganada | +2.17 |

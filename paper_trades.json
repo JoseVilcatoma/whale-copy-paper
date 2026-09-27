@@ -159541,8 +159541,8 @@
     "title": "Spread: Seahawks (-9.5)",
     "outcome": "Commanders",
     "side": "BUY",
-    "whale_usd": 1258.22,
-    "whale_pct": 1.283,
+    "whale_usd": 3389.7676,
+    "whale_pct": 3.458,
     "whale_value_at_open": 98038.1777,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -159553,8 +159553,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790513187.2798178,
-    "fills": 2
+    "last_fill_at": 1790517453.456474,
+    "fills": 3
   },
   {
     "timestamp": 1790513425,
