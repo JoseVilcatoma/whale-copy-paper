@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 16:32:21 (hora de Perú)
+Actualizado: 2026-09-27 16:34:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.29
@@ -1137,7 +1137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
+| primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ⏳ pendiente | — |
 | primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Racing Club Avellaneda win on 2026- | Yes (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
 | bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ✅ ganada | +5.73 |

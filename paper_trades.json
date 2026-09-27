@@ -159637,8 +159637,8 @@
     "title": "Raiders vs. Saints: O/U 47.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3976.739999,
-    "whale_pct": 1.843,
+    "whale_usd": 7953.479998,
+    "whale_pct": 3.686,
     "whale_value_at_open": 215761.0624,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -159649,8 +159649,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790544710.4878232,
-    "fills": 1
+    "last_fill_at": 1790544745.8424149,
+    "fills": 2
   },
   {
     "timestamp": 1790544709,
