@@ -1,5 +1,5 @@
 {
-  "bankroll": 20.048813393781725,
+  "bankroll": 23.86808612105445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32300,6 +32300,11 @@
       "timestamp": 1790474679.7687166,
       "bankroll": 20.05,
       "event": "won: RN1 \u2014 James Madison vs. Old Dominion"
+    },
+    {
+      "timestamp": 1790487171.6011333,
+      "bankroll": 23.87,
+      "event": "won: RN1 \u2014 CDP Junior FC vs. Independiente Medell\u00edn: O/U 1.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 00:31:49 (hora de Perú)
+Actualizado: 2026-09-27 00:33:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $20.05
-**Retorno acumulado:** -95.99%
+**Bankroll actual:** $23.87
+**Retorno acumulado:** -95.23%
 **Peor caída desde un máximo (drawdown):** 96.87%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 00:31:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $19.80 en 4 posiciones abiertas (disponible para nuevas apuestas: $0.25)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $3.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,23 +166,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 122 | 55 | 0 | -32.24 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
+| RN1 | 696 | 333 | 1 | -38.15 USD |
 | Flaznorp | 198 | 75 | 0 | -40.35 USD |
-| RN1 | 695 | 333 | 2 | -41.97 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 944 | 583 | 1 | -285.87 USD |
+| ferrariChampions2026 | 944 | 583 | 2 | -285.87 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6242
-- **Aciertos:** 3938 (63.1%)
+- **Apuestas resueltas:** 6243
+- **Aciertos:** 3939 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,859.72
-- **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $567.07 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,864.52
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $567.18 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3187 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3188 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1818 | 69.0% | 67.9% | +1.1 pp |
 | 80-94% | 878 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
@@ -1135,8 +1135,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Hangzhou Open: Roman Safiullin vs Yuncha | Roman Safiullin (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Rice vs. Fresno State | Fresno State (BUY) | 83% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ⏳ pendiente | — |
+| RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ✅ ganada | +3.82 |
 | GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ✅ ganada | +0.81 |
 | GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.9% | ❌ perdida | -5.08 |
 | RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Scotland win on 2026-09-26? | No (BUY) | 91% | 5.00 | 0.3% | ✅ ganada | +0.47 |
 | ferrariChampions2026 | Hangzhou Open: Coleman Wong vs Adolfo Va | Adolfo Vallejo (BUY) | 45% | 3.56 | 2.1% | ❌ perdida | -3.66 |
 | ferrariChampions2026 | M15 Forbach: Arthur Nagel vs Flynn Thoma | Arthur Nagel (BUY) | 86% | 5.00 | 0.3% | ❌ perdida | -5.04 |
-| RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
