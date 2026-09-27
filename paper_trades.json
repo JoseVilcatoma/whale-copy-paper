@@ -159387,5 +159387,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790464431.6400292,
     "fills": 1
+  },
+  {
+    "timestamp": 1790474077,
+    "timestamp_added": 1790474077.9007938,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col1-cjf-inm-2026-09-26-total-1pt5",
+    "title": "CDP Junior FC vs. Independiente Medell\u00edn: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 793.3410000000001,
+    "whale_pct": 0.275,
+    "whale_value_at_open": 288252.4066,
+    "paper_stake_usd": 4.8,
+    "odds_at_bet": 55,
+    "fee_usd": 0.108,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790474077.900806,
+    "fills": 1
   }
 ]

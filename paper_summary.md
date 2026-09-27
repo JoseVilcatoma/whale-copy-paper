@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-26 20:54:27 (hora de Perú)
+Actualizado: 2026-09-26 20:56:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $19.80
@@ -13,7 +13,7 @@ Actualizado: 2026-09-26 20:54:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $4.80)
+**Capital comprometido ahora mismo:** $19.80 en 4 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 198 | 75 | 0 | -40.35 USD |
-| RN1 | 694 | 333 | 1 | -42.22 USD |
+| RN1 | 694 | 333 | 2 | -42.22 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ✅ ganada | +0.81 |
 | GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.9% | ❌ perdida | -5.08 |
 | RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | M15 Forbach: Arthur Nagel vs Flynn Thoma | Arthur Nagel (BUY) | 86% | 5.00 | 0.3% | ❌ perdida | -5.04 |
 | RN1 | Counter-Strike: EYEBALLERS vs K27 - Map  | K27 (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
 | RN1 | Charlton Athletic vs. Manchester City WF | Under (BUY) | 42% | 2.77 | 0.2% | ✅ ganada | +3.75 |
-| GoalLineGhost | AD Ceuta FC vs. Real Sociedad de Fútbol  | Under (BUY) | 80% | 5.00 | 0.5% | ❌ perdida | -5.05 |
