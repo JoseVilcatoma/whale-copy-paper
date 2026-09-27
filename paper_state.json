@@ -1,5 +1,5 @@
 {
-  "bankroll": 21.415943933575438,
+  "bankroll": 31.294768410226,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32330,6 +32330,16 @@
       "timestamp": 1790513066.7297585,
       "bankroll": 21.42,
       "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Roman Safiullin vs Yunchaokete Bu"
+    },
+    {
+      "timestamp": 1790544025.7841856,
+      "bankroll": 25.56,
+      "event": "won: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Spread: Seahawks (-9.5)"
+    },
+    {
+      "timestamp": 1790544026.0731008,
+      "bankroll": 31.29,
+      "event": "won: bands1 \u2014 Panthers vs. Browns"
     }
   ]
 }

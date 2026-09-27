@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 16:18:23 (hora de Perú)
+Actualizado: 2026-09-27 16:20:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $21.42
-**Retorno acumulado:** -95.72%
+**Bankroll actual:** $31.29
+**Retorno acumulado:** -93.74%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 16:18:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $1.42)
+**Capital comprometido ahora mismo:** $10.00 en 2 posiciones abiertas (disponible para nuevas apuestas: $21.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,6 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
+| bands1 | 3 | 2 | 0 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | purplegatto | 1 | 0 | 0 | +1.87 USD |
@@ -113,7 +114,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
-| bands1 | 2 | 2 | 1 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 20 | 0 | -4.53 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -148,10 +148,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| SDTrading | 41 | 39 | 0 | -10.78 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
-| SDTrading | 40 | 39 | 1 | -14.92 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Sunny24 | 4 | 6 | 0 | -16.92 USD |
@@ -175,14 +175,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6248
-- **Aciertos:** 3942 (63.1%)
+- **Apuestas resueltas:** 6250
+- **Aciertos:** 3944 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,889.37
-- **ROI sobre lo apostado:** -1.96%
-- **Comisiones pagadas (taker fee):** $567.67 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,899.37
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $567.92 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -190,7 +190,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3191 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3193 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1819 | 69.0% | 67.9% | +1.1 pp |
 | 80-94% | 879 | 85.6% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
@@ -1135,8 +1135,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ⏳ pendiente | — |
-| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ⏳ pendiente | — |
+| bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ✅ ganada | +5.73 |
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Korea Open: Maya Joint vs Kimberly Birre | Maya Joint (BUY) | 43% | 5.00 | 1.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 2.6% | ❌ perdida | -4.95 |
 | ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 41.2% | ✅ ganada | +2.17 |
