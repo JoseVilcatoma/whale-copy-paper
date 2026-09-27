@@ -159469,8 +159469,8 @@
     "title": "Chengdu Open: Jenson Brooksby vs Nikoloz Basilashvili",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 36211.93953,
-    "whale_pct": 32.2,
+    "whale_usd": 46361.07996,
+    "whale_pct": 41.225,
     "whale_value_at_open": 112458.0572,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -159481,8 +159481,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790491078.524032,
-    "fills": 8
+    "last_fill_at": 1790491240.295011,
+    "fills": 9
   },
   {
     "timestamp": 1790488180,
