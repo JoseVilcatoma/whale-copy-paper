@@ -1,5 +1,5 @@
 {
-  "bankroll": 29.178750737140124,
+  "bankroll": 24.073750737140124,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32280,6 +32280,11 @@
       "timestamp": 1790467001.9737346,
       "bankroll": 29.18,
       "event": "lost: weflyhigh \u2014 Spread: Auburn (-9.5)"
+    },
+    {
+      "timestamp": 1790470692.3130782,
+      "bankroll": 24.07,
+      "event": "lost: RN1 \u2014 San Diego 2: Timo Legout vs Igor Ribeiro Marcondes"
     }
   ]
 }
