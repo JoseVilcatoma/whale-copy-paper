@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 18:51:44 (hora de Perú)
+Actualizado: 2026-09-27 18:53:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $38.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 18:51:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $25.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $13.05)
+**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $3.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| Elaran1993 | 4 | 1 | 0 | +7.94 USD |
+| Elaran1993 | 4 | 1 | 1 | +7.94 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | primm | 1 | 0 | 2 | +6.76 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
@@ -168,7 +168,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | RN1 | 697 | 333 | 0 | -37.17 USD |
-| Flaznorp | 198 | 75 | 0 | -40.35 USD |
+| Flaznorp | 198 | 75 | 1 | -40.35 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1136,6 +1136,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ⏳ pendiente | — |
 | primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ⏳ pendiente | — |
 | primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ✅ ganada | +6.76 |
@@ -1164,5 +1166,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Bulgaria vs. Luxembourg: O/U 3.5 | Under (BUY) | 82% | 5.00 | 0.2% | ✅ ganada | +1.05 |
 | RN1 | Illinois vs. Ohio State: O/U 57.5 | Over (BUY) | 51% | 3.13 | 0.5% | ✅ ganada | +2.93 |
 | RN1 | Spread: Texas (-11.5) | Texas (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
-| RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 41% | 2.16 | 0.4% | ❌ perdida | -2.22 |
-| RN1 | San Diego State vs. Toledo: O/U 46.5 | Under (BUY) | 59% | 5.00 | 0.1% | ❌ perdida | -5.10 |
