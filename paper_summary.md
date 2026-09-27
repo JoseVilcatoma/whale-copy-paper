@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 01:31:17 (hora de Perú)
+Actualizado: 2026-09-27 01:33:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $24.85
@@ -1135,7 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Hangzhou Open: Roman Safiullin vs Yuncha | Roman Safiullin (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Rice vs. Fresno State | Fresno State (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |

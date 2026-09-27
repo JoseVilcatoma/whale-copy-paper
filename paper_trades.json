@@ -159493,8 +159493,8 @@
     "title": "Hangzhou Open: Fabian Marozsan vs Kyrian Jacquet",
     "outcome": "Fabian Marozsan",
     "side": "BUY",
-    "whale_usd": 1007.0536000000001,
-    "whale_pct": 0.874,
+    "whale_usd": 2938.887,
+    "whale_pct": 2.551,
     "whale_value_at_open": 115216.6932,
     "paper_stake_usd": 4.85,
     "odds_at_bet": 57,
@@ -159505,7 +159505,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790488180.9083877,
-    "fills": 1
+    "last_fill_at": 1790490705.588979,
+    "fills": 3
   }
 ]
