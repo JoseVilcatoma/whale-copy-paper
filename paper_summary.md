@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 16:20:26 (hora de Perú)
+Actualizado: 2026-09-27 16:22:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.29
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 16:20:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $10.00 en 2 posiciones abiertas (disponible para nuevas apuestas: $21.29)
+**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $16.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -163,7 +163,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| GoalLineGhost | 122 | 55 | 0 | -32.24 USD |
+| GoalLineGhost | 122 | 55 | 1 | -32.24 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | RN1 | 697 | 333 | 0 | -37.17 USD |
@@ -1135,6 +1135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Racing Club Avellaneda win on 2026- | Yes (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
 | bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ✅ ganada | +5.73 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Korea Open: Maya Joint vs Kimberly Birre | Maya Joint (BUY) | 43% | 5.00 | 1.9% | ❌ perdida | -5.14 |
@@ -1164,4 +1165,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 9.6% | ✅ ganada | +5.73 |
 | RN1 | St. Tropez: Titouan Droguet vs Dino Priz | Titouan Droguet (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 | RN1 | Illinois vs. Ohio State: O/U 61.5 | Over (BUY) | 49% | 5.00 | 0.2% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | St. Tropez: Titouan Droguet vs Dino Priz | Dino Prizmic (BUY) | 55% | 5.00 | 1.9% | ❌ perdida | -5.11 |
