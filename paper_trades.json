@@ -159723,5 +159723,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790553216.2186582,
     "fills": 1
+  },
+  {
+    "timestamp": 1790553394,
+    "timestamp_added": 1790553394.61008,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nfl-la-den-2026-09-28",
+    "title": "Rams vs. Broncos",
+    "outcome": "Broncos",
+    "side": "BUY",
+    "whale_usd": 28174.9,
+    "whale_pct": 11.126,
+    "whale_value_at_open": 253245.7154,
+    "paper_stake_usd": 3.05,
+    "odds_at_bet": 51,
+    "fee_usd": 0.075,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Elaran1993"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790553394.61009,
+    "fills": 1
   }
 ]
