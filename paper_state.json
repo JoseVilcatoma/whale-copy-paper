@@ -1,5 +1,5 @@
 {
-  "bankroll": 16.920559318190822,
+  "bankroll": 21.415943933575438,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32325,6 +32325,11 @@
       "timestamp": 1790498057.8970237,
       "bankroll": 16.92,
       "event": "lost: ferrariChampions2026 \u2014 Korea Open: Maya Joint vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1790513066.7297585,
+      "bankroll": 21.42,
+      "event": "won: ferrariChampions2026 \u2014 Hangzhou Open: Roman Safiullin vs Yunchaokete Bu"
     }
   ]
 }
