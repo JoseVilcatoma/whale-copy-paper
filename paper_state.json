@@ -1,5 +1,5 @@
 {
-  "bankroll": 27.017559318190823,
+  "bankroll": 22.063559318190823,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32315,6 +32315,11 @@
       "timestamp": 1790493694.0620406,
       "bankroll": 27.02,
       "event": "won: ferrariChampions2026 \u2014 Chengdu Open: Jenson Brooksby vs Nikoloz Basilashvili"
+    },
+    {
+      "timestamp": 1790496215.9785237,
+      "bankroll": 22.06,
+      "event": "lost: ferrariChampions2026 \u2014 Hangzhou Open: Fabian Marozsan vs Kyrian Jacquet"
     }
   ]
 }
