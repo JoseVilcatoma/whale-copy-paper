@@ -159555,5 +159555,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790513187.2798178,
     "fills": 2
+  },
+  {
+    "timestamp": 1790513425,
+    "timestamp_added": 1790513425.655849,
+    "username": "bands1",
+    "wallet": "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f",
+    "slug": "nfl-car-cle-2026-09-27",
+    "title": "Panthers vs. Browns",
+    "outcome": "Browns",
+    "side": "BUY",
+    "whale_usd": 4242.4875,
+    "whale_pct": 2.846,
+    "whale_value_at_open": 149064.6425,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790513425.6558578,
+    "fills": 1
   }
 ]
