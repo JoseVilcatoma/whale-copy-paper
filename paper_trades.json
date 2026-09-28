@@ -160629,5 +160629,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790596183.4895852,
     "fills": 1
+  },
+  {
+    "timestamp": 1790597544,
+    "timestamp_added": 1790597545.202666,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fif-jpn-ven-2026-09-28-draw",
+    "title": "Will Japan vs. Venezuela end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 505.3284,
+    "whale_pct": 0.29,
+    "whale_value_at_open": 174001.9348,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790597545.2026772,
+    "fills": 1
   }
 ]

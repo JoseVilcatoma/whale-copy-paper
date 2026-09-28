@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 07:11:16 (hora de Perú)
+Actualizado: 2026-09-28 07:13:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $43.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 07:11:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.14 en 8 posiciones abiertas (disponible para nuevas apuestas: $6.28)
+**Capital comprometido ahora mismo:** $42.14 en 9 posiciones abiertas (disponible para nuevas apuestas: $1.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 709 | 337 | 4 | -35.56 USD |
+| RN1 | 709 | 337 | 5 | -35.56 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 2 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
@@ -1139,11 +1139,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hanfman-machac-2026-09-27 | RN1, UpTheBlues |
 | atp-landalu-trungel-2026-09-28 | RN1, ferrariChampions2026 |
 | atp-munar-giron-2026-09-27 | RN1, ferrariChampions2026 |
+| fif-jpn-ven-2026-09-28-draw | GoalLineGhost, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Japan vs. Venezuela end in a draw? | Yes (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | magic (BUY) | 43% | 4.36 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 4.0% | ⏳ pendiente | — |
@@ -1173,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Japan Open Tennis Championships, Qualifi | Martin Damm (BUY) | 58% | 5.00 | 0.5% | ❌ perdida | -5.11 |
 | HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ✅ ganada | +3.66 |
 | HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 17.7% | ❌ perdida | -5.12 |
-| UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
