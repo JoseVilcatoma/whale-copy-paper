@@ -160375,8 +160375,8 @@
     "title": "Chengdu Open: Nikoloz Basilashvili vs Alejandro Davidovich Fokina",
     "outcome": "Nikoloz Basilashvili",
     "side": "BUY",
-    "whale_usd": 5313.148697999999,
-    "whale_pct": 6.192,
+    "whale_usd": 7597.968697999999,
+    "whale_pct": 8.855,
     "whale_value_at_open": 85808.3695,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -160387,8 +160387,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790586899.8823807,
-    "fills": 3
+    "last_fill_at": 1790587318.8561244,
+    "fills": 4
   },
   {
     "timestamp": 1790587077,

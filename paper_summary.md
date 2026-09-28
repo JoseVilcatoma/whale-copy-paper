@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 04:20:39 (hora de Perú)
+Actualizado: 2026-09-28 04:22:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $40.89
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 6.2% | ⏳ pendiente | — |
+| RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 21.6% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 16.0% | ✅ ganada | +2.84 |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 2.2% | ✅ ganada | +0.36 |
