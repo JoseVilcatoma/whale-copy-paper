@@ -159776,5 +159776,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790557595.045012,
     "fills": 1
+  },
+  {
+    "timestamp": 1790557767,
+    "timestamp_added": 1790557768.177882,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "nfl-la-den-2026-09-28-total-43pt5",
+    "title": "Rams vs. Broncos: O/U 43.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1436.96,
+    "whale_pct": 1.919,
+    "whale_value_at_open": 74884.5276,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790557768.1778944,
+    "fills": 1
   }
 ]
