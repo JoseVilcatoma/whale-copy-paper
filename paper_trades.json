@@ -160519,8 +160519,8 @@
     "title": "Counter-Strike: magic vs GamerLegion - Map 1 Winner",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 1520.80625,
-    "whale_pct": 0.971,
+    "whale_usd": 2022.6782500000002,
+    "whale_pct": 1.292,
     "whale_value_at_open": 156586.151,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -160531,8 +160531,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790593738.9679255,
-    "fills": 2
+    "last_fill_at": 1790594108.0248122,
+    "fills": 3
   },
   {
     "timestamp": 1790593844,
@@ -160543,8 +160543,8 @@
     "title": "Bari: Federico Arnaboldi vs Svyatoslav Gulin",
     "outcome": "Federico Arnaboldi",
     "side": "BUY",
-    "whale_usd": 11373.879666,
-    "whale_pct": 6.584,
+    "whale_usd": 12442.974366,
+    "whale_pct": 7.203,
     "whale_value_at_open": 172757.4977,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -160555,8 +160555,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790594009.816062,
-    "fills": 6
+    "last_fill_at": 1790594092.5236793,
+    "fills": 7
   },
   {
     "timestamp": 1790593871,
