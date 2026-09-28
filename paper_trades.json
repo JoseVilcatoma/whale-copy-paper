@@ -160129,8 +160129,8 @@
     "title": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
     "outcome": "Tomas Machac",
     "side": "BUY",
-    "whale_usd": 4102.400000000001,
-    "whale_pct": 2.116,
+    "whale_usd": 14730.2476,
+    "whale_pct": 7.598,
     "whale_value_at_open": 193862.5659,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -160143,8 +160143,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790574211.487722,
-    "fills": 1
+    "last_fill_at": 1790575419.298386,
+    "fills": 5
   },
   {
     "timestamp": 1790574818,

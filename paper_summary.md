@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 01:02:50 (hora de Perú)
+Actualizado: 2026-09-28 01:04:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $43.63
@@ -1143,7 +1143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ⏳ pendiente | — |
-| RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Arthur Fils (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Jingshan: Yidi Yang vs Fiona Ferro | Yidi Yang (BUY) | 49% | 4.66 | 0.4% | ❌ perdida | -4.78 |
