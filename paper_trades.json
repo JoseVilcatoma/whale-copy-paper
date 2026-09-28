@@ -160953,8 +160953,8 @@
     "title": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
     "outcome": "Matteo Martineau",
     "side": "BUY",
-    "whale_usd": 7111.422600000001,
-    "whale_pct": 3.959,
+    "whale_usd": 8291.5447,
+    "whale_pct": 4.616,
     "whale_value_at_open": 179613.7827,
     "paper_stake_usd": 3.24,
     "odds_at_bet": 43,
@@ -160965,8 +160965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790631620.8562896,
-    "fills": 3
+    "last_fill_at": 1790631803.6612828,
+    "fills": 4
   },
   {
     "timestamp": 1790630338,
