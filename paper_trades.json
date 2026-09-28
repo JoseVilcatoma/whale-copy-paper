@@ -160351,8 +160351,8 @@
     "title": "China Open, Qualification: Ruien Zhang vs Storm Hunter",
     "outcome": "Storm Hunter",
     "side": "BUY",
-    "whale_usd": 9543.146,
-    "whale_pct": 21.594,
+    "whale_usd": 17086.206,
+    "whale_pct": 38.663,
     "whale_value_at_open": 44192.7557,
     "paper_stake_usd": 4.74,
     "odds_at_bet": 78,
@@ -160363,8 +160363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790584871.0723329,
-    "fills": 2
+    "last_fill_at": 1790587569.1904929,
+    "fills": 3
   },
   {
     "timestamp": 1790586805,
@@ -160412,6 +160412,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790587077.1877232,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790587566,
+    "timestamp_added": 1790587566.8207355,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "fif-jpn-ven-2026-09-28-total-2pt5",
+    "title": "Japan vs. Venezuela: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1111.9992,
+    "whale_pct": 1.201,
+    "whale_value_at_open": 92611.453,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790587566.8207479,
     "fills": 1
   }
 ]
