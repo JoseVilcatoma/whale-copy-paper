@@ -160679,5 +160679,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790598852.7273266,
     "fills": 1
+  },
+  {
+    "timestamp": 1790599054,
+    "timestamp_added": 1790599055.0176375,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bonzi-holmgre-2026-09-28",
+    "title": "Porto 2: Benjamin Bonzi vs August Holmgren",
+    "outcome": "August Holmgren",
+    "side": "BUY",
+    "whale_usd": 4007.8185000000003,
+    "whale_pct": 2.228,
+    "whale_value_at_open": 179918.7275,
+    "paper_stake_usd": 3.32,
+    "odds_at_bet": 52,
+    "fee_usd": 0.08,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790599055.5791228,
+    "fills": 2
   }
 ]
