@@ -1,5 +1,5 @@
 {
-  "bankroll": 42.776567392526445,
+  "bankroll": 42.14195200791106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32510,6 +32510,16 @@
       "timestamp": 1790593757.6496902,
       "bankroll": 42.78,
       "event": "won: RN1 \u2014 Mouilleron-le-Captif: Alexandre Reco vs Patrick Zahraj"
+    },
+    {
+      "timestamp": 1790596021.631927,
+      "bankroll": 37.65,
+      "event": "lost: RN1 \u2014 Chengdu Open: Nikoloz Basilashvili vs Alejandro Davidovich Fokina"
+    },
+    {
+      "timestamp": 1790596021.7322125,
+      "bankroll": 42.14,
+      "event": "won: RN1 \u2014 Chengdu Open: Nikoloz Basilashvili vs Alejandro Davidovich Fokina"
     }
   ]
 }
