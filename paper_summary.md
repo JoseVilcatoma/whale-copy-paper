@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 16:46:53 (hora de Perú)
+Actualizado: 2026-09-28 16:48:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $34.15
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 41.9% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 42.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 4.6% | ⏳ pendiente | — |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |

@@ -160977,8 +160977,8 @@
     "title": "Spread: Eagles (-3.5)",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 46656.263334,
-    "whale_pct": 41.899,
+    "whale_usd": 47277.977501,
+    "whale_pct": 42.457,
     "whale_value_at_open": 111354.7199,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -160989,7 +160989,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790631555.2812243,
-    "fills": 7
+    "last_fill_at": 1790632062.235128,
+    "fills": 8
   }
 ]
