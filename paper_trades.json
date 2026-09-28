@@ -160905,8 +160905,8 @@
     "title": "Columbus: Tyler Zink vs Mitchell Krueger",
     "outcome": "Mitchell Krueger",
     "side": "BUY",
-    "whale_usd": 569.047656,
-    "whale_pct": 0.3,
+    "whale_usd": 1498.117656,
+    "whale_pct": 0.79,
     "whale_value_at_open": 189643.6191,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -160917,7 +160917,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790625616.8743858,
-    "fills": 1
+    "last_fill_at": 1790625891.1870005,
+    "fills": 2
   }
 ]
