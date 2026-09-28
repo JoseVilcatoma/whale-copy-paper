@@ -1,5 +1,5 @@
 {
-  "bankroll": 37.967495052218375,
+  "bankroll": 33.24227766091403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32590,6 +32590,16 @@
       "timestamp": 1790625455.2084057,
       "bankroll": 37.97,
       "event": "won: GoalLineGhost \u2014 Will Latvia win on 2026-09-28?"
+    },
+    {
+      "timestamp": 1790626107.7929912,
+      "bankroll": 38.38,
+      "event": "won: GoalLineGhost \u2014 Will Kyrgyz Republic win on 2026-09-28?"
+    },
+    {
+      "timestamp": 1790626108.2245767,
+      "bankroll": 33.24,
+      "event": "lost: GoalLineGhost \u2014 Will Georgia win on 2026-09-28?"
     }
   ]
 }
