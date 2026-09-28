@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 02:45:48 (hora de Perú)
+Actualizado: 2026-09-28 02:47:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.54
@@ -1143,7 +1143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 11.6% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ⏳ pendiente | — |
