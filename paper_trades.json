@@ -160461,5 +160461,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790587715.7907639,
     "fills": 3
+  },
+  {
+    "timestamp": 1790587992,
+    "timestamp_added": 1790587993.3406098,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-sonego-majchrz-2026-09-27",
+    "title": "Japan Open Tennis Championships, Qualification: Lorenzo Sonego vs Kamil Majchrzak",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "whale_usd": 1020.9979599999999,
+    "whale_pct": 0.82,
+    "whale_value_at_open": 124479.3706,
+    "paper_stake_usd": 2.52,
+    "odds_at_bet": 44,
+    "fee_usd": 0.07,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790587993.3406203,
+    "fills": 1
   }
 ]
