@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 04:16:31 (hora de Perú)
+Actualizado: 2026-09-28 04:18:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $40.89
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 04:16:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $23.37 en 5 posiciones abiertas (disponible para nuevas apuestas: $17.52)
+**Capital comprometido ahora mismo:** $28.37 en 6 posiciones abiertas (disponible para nuevas apuestas: $12.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 704 | 335 | 3 | -38.09 USD |
+| RN1 | 704 | 335 | 4 | -38.09 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1144,6 +1144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 21.6% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 16.0% | ✅ ganada | +2.84 |
@@ -1173,4 +1174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ✅ ganada | +2.86 |
 | Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ✅ ganada | +2.61 |
 | Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ✅ ganada | +4.68 |
-| primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |

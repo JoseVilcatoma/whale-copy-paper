@@ -160389,5 +160389,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790586899.8823807,
     "fills": 3
+  },
+  {
+    "timestamp": 1790587077,
+    "timestamp_added": 1790587077.1877122,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-basilas-fokina-2026-09-28",
+    "title": "Chengdu Open: Nikoloz Basilashvili vs Alejandro Davidovich Fokina",
+    "outcome": "Alejandro Davidovich Fokina",
+    "side": "BUY",
+    "whale_usd": 1710.03,
+    "whale_pct": 1.913,
+    "whale_value_at_open": 89403.2818,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790587077.1877232,
+    "fills": 1
   }
 ]
