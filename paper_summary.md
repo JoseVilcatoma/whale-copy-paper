@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 03:16:45 (hora de Perú)
+Actualizado: 2026-09-28 03:18:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $33.37
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 13.2% | ⏳ pendiente | — |
-| RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 7.0% | ⏳ pendiente | — |
+| RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 11.8% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 9.4% | ❌ perdida | -5.02 |

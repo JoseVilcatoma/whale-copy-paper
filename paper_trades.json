@@ -160325,8 +160325,8 @@
     "title": "Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron",
     "outcome": "Jaume Munar",
     "side": "BUY",
-    "whale_usd": 3104.96,
-    "whale_pct": 7.026,
+    "whale_usd": 5198.462667,
+    "whale_pct": 11.763,
     "whale_value_at_open": 44192.7557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -160339,8 +160339,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790583300.5441465,
-    "fills": 1
+    "last_fill_at": 1790583497.8782322,
+    "fills": 2
   },
   {
     "timestamp": 1790583300,
