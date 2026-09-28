@@ -160991,5 +160991,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790633128.4535809,
     "fills": 13
+  },
+  {
+    "timestamp": 1790635246,
+    "timestamp_added": 1790635246.5027378,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shick-baris-2026-09-28",
+    "title": "Columbus: Braden Shick vs Ozan Baris",
+    "outcome": "Braden Shick",
+    "side": "BUY",
+    "whale_usd": 7104.2426,
+    "whale_pct": 3.161,
+    "whale_value_at_open": 224737.3037,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790635246.5027504,
+    "fills": 1
   }
 ]

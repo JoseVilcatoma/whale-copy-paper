@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 17:40:23 (hora de Perú)
+Actualizado: 2026-09-28 17:42:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $40.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 17:40:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $28.24 en 6 posiciones abiertas (disponible para nuevas apuestas: $11.89)
+**Capital comprometido ahora mismo:** $33.24 en 7 posiciones abiertas (disponible para nuevas apuestas: $6.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -174,7 +174,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 950 | 587 | 2 | -285.30 USD |
+| ferrariChampions2026 | 950 | 587 | 3 | -285.30 USD |
 
 ## Análisis general
 
@@ -1145,6 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 3.2% | ⏳ pendiente | — |
 | Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 54.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 23.4% | ⏳ pendiente | — |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
@@ -1174,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ✅ ganada | +1.28 |
 | RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 16.0% | ✅ ganada | +2.84 |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 2.2% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 2.0% | ✅ ganada | +4.32 |
