@@ -160043,5 +160043,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790569324.5070598,
     "fills": 1
+  },
+  {
+    "timestamp": 1790569681,
+    "timestamp_added": 1790569681.6398218,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-yan-ferro-2026-09-27",
+    "title": "Jingshan: Yidi Yang vs Fiona Ferro",
+    "outcome": "Yidi Yang",
+    "side": "BUY",
+    "whale_usd": 963.1372299999999,
+    "whale_pct": 0.421,
+    "whale_value_at_open": 228656.2359,
+    "paper_stake_usd": 4.66,
+    "odds_at_bet": 49,
+    "fee_usd": 0.119,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HMLSF"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790569681.6398335,
+    "fills": 1
   }
 ]
