@@ -1,5 +1,5 @@
 {
-  "bankroll": 42.14195200791106,
+  "bankroll": 43.41906593196169,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32520,6 +32520,11 @@
       "timestamp": 1790596021.7322125,
       "bankroll": 42.14,
       "event": "won: RN1 \u2014 Chengdu Open: Nikoloz Basilashvili vs Alejandro Davidovich Fokina"
+    },
+    {
+      "timestamp": 1790597265.73905,
+      "bankroll": 43.42,
+      "event": "won: RN1 \u2014 Bari: Federico Arnaboldi vs Svyatoslav Gulin"
     }
   ]
 }
