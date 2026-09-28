@@ -159848,5 +159848,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790560757.6834211,
     "fills": 1
+  },
+  {
+    "timestamp": 1790561068,
+    "timestamp_added": 1790561069.1998744,
+    "username": "primm",
+    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
+    "slug": "nfl-la-den-2026-09-28-spread-away-10pt5",
+    "title": "Spread: Rams (-10.5)",
+    "outcome": "Rams",
+    "side": "BUY",
+    "whale_usd": 3122.4444,
+    "whale_pct": 4.222,
+    "whale_value_at_open": 73958.1355,
+    "paper_stake_usd": 3.59,
+    "odds_at_bet": 52,
+    "fee_usd": 0.086,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790561069.1998847,
+    "fills": 1
   }
 ]
