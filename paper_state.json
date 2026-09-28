@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.63359332829363,
+  "bankroll": 38.51359332829363,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32425,6 +32425,11 @@
       "timestamp": 1790573761.4987974,
       "bankroll": 43.63,
       "event": "lost: RN1 \u2014 Jingshan: Yidi Yang vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1790575617.1698627,
+      "bankroll": 38.51,
+      "event": "lost: HMLSF \u2014 China Open, Qualification: Yufei Ren vs Yexin Ma"
     }
   ]
 }
