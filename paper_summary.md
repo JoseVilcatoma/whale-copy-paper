@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 15:23:56 (hora de Perú)
+Actualizado: 2026-09-28 15:25:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $33.24
@@ -1146,7 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 1.2% | ⏳ pendiente | — |
-| bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 5.8% | ⏳ pendiente | — |
+| bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
