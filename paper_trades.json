@@ -160179,8 +160179,8 @@
     "title": "China Open, Qualification: Martin Landaluce vs Marco Trungelliti",
     "outcome": "Marco Trungelliti",
     "side": "BUY",
-    "whale_usd": 570.447778,
-    "whale_pct": 0.592,
+    "whale_usd": 1099.158378,
+    "whale_pct": 1.141,
     "whale_value_at_open": 96300.8507,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -160191,7 +160191,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790578538.269392,
-    "fills": 1
+    "last_fill_at": 1790580092.857746,
+    "fills": 2
   }
 ]
