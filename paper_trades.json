@@ -160953,8 +160953,8 @@
     "title": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
     "outcome": "Matteo Martineau",
     "side": "BUY",
-    "whale_usd": 38292.0275,
-    "whale_pct": 21.319,
+    "whale_usd": 41108.066865,
+    "whale_pct": 22.887,
     "whale_value_at_open": 179613.7827,
     "paper_stake_usd": 3.24,
     "odds_at_bet": 43,
@@ -160965,8 +160965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790633068.161296,
-    "fills": 14
+    "last_fill_at": 1790633216.674753,
+    "fills": 16
   },
   {
     "timestamp": 1790630338,
@@ -160977,8 +160977,8 @@
     "title": "Spread: Eagles (-3.5)",
     "outcome": "Bears",
     "side": "BUY",
-    "whale_usd": 56439.31583600001,
-    "whale_pct": 50.684,
+    "whale_usd": 60772.62750300001,
+    "whale_pct": 54.576,
     "whale_value_at_open": 111354.7199,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -160989,7 +160989,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790632691.1972673,
-    "fills": 12
+    "last_fill_at": 1790633128.4535809,
+    "fills": 13
   }
 ]
