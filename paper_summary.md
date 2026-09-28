@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 16:17:30 (hora de Perú)
+Actualizado: 2026-09-28 16:20:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $34.15
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 16:17:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $28.24 en 6 posiciones abiertas (disponible para nuevas apuestas: $5.91)
+**Capital comprometido ahora mismo:** $33.24 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
+| Diabolical-Prize | 13 | 8 | 1 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 118 | 86 | 1 | +18.49 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
@@ -1145,6 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 1.2% | ⏳ pendiente | — |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |
@@ -1174,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 16.0% | ✅ ganada | +2.84 |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 2.2% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 2.0% | ✅ ganada | +4.32 |
-| ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 9.4% | ❌ perdida | -5.02 |

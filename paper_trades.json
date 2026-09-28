@@ -160967,5 +160967,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790626612.8078618,
     "fills": 2
+  },
+  {
+    "timestamp": 1790630338,
+    "timestamp_added": 1790630338.6954587,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "nfl-phi-chi-2026-09-29-spread-away-3pt5",
+    "title": "Spread: Eagles (-3.5)",
+    "outcome": "Bears",
+    "side": "BUY",
+    "whale_usd": 6514.0816,
+    "whale_pct": 5.85,
+    "whale_value_at_open": 111354.7199,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790630338.6954706,
+    "fills": 1
   }
 ]
