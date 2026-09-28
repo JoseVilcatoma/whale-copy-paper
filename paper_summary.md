@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 20:59:01 (hora de Perú)
+Actualizado: 2026-09-27 21:01:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $41.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 20:59:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.05 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.59)
+**Capital comprometido ahora mismo:** $38.05 en 8 posiciones abiertas (disponible para nuevas apuestas: $3.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| primm | 3 | 0 | 0 | +12.77 USD |
+| primm | 3 | 0 | 1 | +12.77 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | lllllllIlll | 5 | 1 | 0 | +11.25 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
@@ -1139,6 +1139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| primm | Spread: Rams (-10.5) | Broncos (BUY) | 44% | 5.00 | 4.3% | ⏳ pendiente | — |
 | takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 1.6% | ⏳ pendiente | — |
 | takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -1168,4 +1169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Atlanta Braves vs. Miami Marlins | Miami Marlins (BUY) | 49% | 5.00 | 3.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Detroit Tigers (-2.5) | Pittsburgh Pirates (BUY) | 76% | 5.00 | 0.4% | ✅ ganada | +1.52 |
-| Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ❌ perdida | -5.01 |
