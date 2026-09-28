@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.66251927796943,
+  "bankroll": 49.80915845322716,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32400,6 +32400,11 @@
       "timestamp": 1790568926.4091942,
       "bankroll": 49.66,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Rams vs. Broncos"
+    },
+    {
+      "timestamp": 1790571534.5741565,
+      "bankroll": 49.81,
+      "event": "won: UpTheBlues \u2014 Jingshan: Sara Saito vs Chenting Zhu"
     }
   ]
 }
