@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.539748055341,
+  "bankroll": 39.58725310584605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32455,6 +32455,11 @@
       "timestamp": 1790580248.893889,
       "bankroll": 39.54,
       "event": "won: RN1 \u2014 Will CF Am\u00e9rica win on 2026-09-27?"
+    },
+    {
+      "timestamp": 1790582477.965291,
+      "bankroll": 39.59,
+      "event": "won: RN1 \u2014 China Open, Qualification: Elvina Kalieva vs Ellen Perez"
     }
   ]
 }
