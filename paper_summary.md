@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 09:54:20 (hora de Perú)
+Actualizado: 2026-09-28 09:56:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $36.26
-**Retorno acumulado:** -92.75%
+**Bankroll actual:** $37.95
+**Retorno acumulado:** -92.41%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 09:54:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $36.26 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $36.26 en 8 posiciones abiertas (disponible para nuevas apuestas: $1.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,11 +166,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| GoalLineGhost | 124 | 56 | 2 | -32.18 USD |
+| GoalLineGhost | 124 | 56 | 3 | -32.18 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 712 | 340 | 2 | -42.74 USD |
+| RN1 | 713 | 340 | 1 | -41.05 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,13 +178,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6296
-- **Aciertos:** 3975 (63.1%)
+- **Apuestas resueltas:** 6297
+- **Aciertos:** 3976 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,118.39
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $571.44 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,123.39
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $571.50 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3214 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1832 | 69.1% | 68.0% | +1.1 pp |
+| 60-79% | 1833 | 69.1% | 68.0% | +1.2 pp |
 | 80-94% | 887 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1145,11 +1145,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ⏳ pendiente | — |
-| RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ⏳ pendiente | — |
+| RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ✅ ganada | +1.69 |
 | GoalLineGhost | Will Kyrgyz Republic win on 2026-09-28? | Yes (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Porto 2: Benjamin Bonzi vs August Holmgr | August Holmgren (BUY) | 52% | 3.32 | 3.8% | ✅ ganada | +2.98 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Sh | Denis Shapovalov (BUY) | 72% | 5.00 | 0.6% | ❌ perdida | -5.07 |
@@ -1174,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ✅ ganada | +0.05 |
 | RN1 | China Open, Qualification: Martin Landal | Marco Trungelliti (BUY) | 56% | 5.00 | 2.1% | ✅ ganada | +3.82 |
 | RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ✅ ganada | +2.35 |
-| RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 13.7% | ✅ ganada | +1.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 36.25620582792914,
+  "bankroll": 37.947962584685904,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32570,6 +32570,11 @@
       "timestamp": 1790606025.5750318,
       "bankroll": 36.26,
       "event": "lost: RN1 \u2014 Will Japan vs. Venezuela end in a draw?"
+    },
+    {
+      "timestamp": 1790607267.6308732,
+      "bankroll": 37.95,
+      "event": "won: RN1 \u2014 Porto 2: Max Basing vs Mili Poljicak"
     }
   ]
 }
