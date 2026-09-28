@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 03:14:41 (hora de Perú)
+Actualizado: 2026-09-28 03:16:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $33.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 03:14:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $23.63 en 5 posiciones abiertas (disponible para nuevas apuestas: $9.74)
+**Capital comprometido ahora mismo:** $33.37 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 702 | 335 | 2 | -41.29 USD |
+| RN1 | 702 | 335 | 4 | -41.29 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1138,11 +1138,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fils-damm-2026-09-27 | RN1, UpTheBlues |
 | atp-hanfman-machac-2026-09-27 | RN1, UpTheBlues |
 | atp-landalu-trungel-2026-09-28 | RN1, ferrariChampions2026 |
+| atp-munar-giron-2026-09-27 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 13.2% | ⏳ pendiente | — |
+| RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 7.0% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 9.4% | ❌ perdida | -5.02 |
@@ -1171,5 +1174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ✅ ganada | +4.68 |
 | primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
 | primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ✅ ganada | +3.52 |
-| primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ✅ ganada | +6.76 |
-| GoalLineGhost | Will Racing Club Avellaneda win on 2026- | Yes (BUY) | 89% | 5.00 | 0.5% | ❌ perdida | -5.03 |
