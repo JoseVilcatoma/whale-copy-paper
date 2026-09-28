@@ -1,5 +1,5 @@
 {
-  "bankroll": 33.365824534417484,
+  "bankroll": 40.52729473507637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32475,6 +32475,16 @@
       "timestamp": 1790583220.6012776,
       "bankroll": 33.37,
       "event": "lost: ferrariChampions2026 \u2014 China Open, Qualification: Martin Landaluce vs Marco Trungelliti"
+    },
+    {
+      "timestamp": 1790586620.233817,
+      "bankroll": 37.68,
+      "event": "won: ferrariChampions2026 \u2014 Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron"
+    },
+    {
+      "timestamp": 1790586620.4342065,
+      "bankroll": 40.53,
+      "event": "won: RN1 \u2014 Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron"
     }
   ]
 }
