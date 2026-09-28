@@ -160761,8 +160761,8 @@
     "title": "Porto 2: Michael Mmoh vs Laslo Djere",
     "outcome": "Laslo Djere",
     "side": "BUY",
-    "whale_usd": 8198.56,
-    "whale_pct": 4.877,
+    "whale_usd": 10290.789999999999,
+    "whale_pct": 6.121,
     "whale_value_at_open": 168116.5736,
     "paper_stake_usd": 2.29,
     "odds_at_bet": 42,
@@ -160773,7 +160773,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790603740.4156768,
-    "fills": 3
+    "last_fill_at": 1790604575.177838,
+    "fills": 4
   }
 ]

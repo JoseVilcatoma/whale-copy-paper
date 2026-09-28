@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 09:09:09 (hora de Perú)
+Actualizado: 2026-09-28 09:11:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $46.44
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 4.9% | ⏳ pendiente | — |
+| RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ⏳ pendiente | — |
 | RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kyrgyz Republic win on 2026-09-28? | Yes (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Porto 2: Benjamin Bonzi vs August Holmgr | August Holmgren (BUY) | 52% | 3.32 | 3.8% | ✅ ganada | +2.98 |
