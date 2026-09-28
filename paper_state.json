@@ -1,5 +1,5 @@
 {
-  "bankroll": 42.171561898020954,
+  "bankroll": 39.58156189802095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32495,6 +32495,11 @@
       "timestamp": 1790590591.0012488,
       "bankroll": 42.17,
       "event": "won: RN1 \u2014 China Open, Qualification: Ruien Zhang vs Storm Hunter"
+    },
+    {
+      "timestamp": 1790592705.2829218,
+      "bankroll": 39.58,
+      "event": "lost: RN1 \u2014 Japan Open Tennis Championships, Qualification: Lorenzo Sonego vs Kamil Majchrzak"
     }
   ]
 }
