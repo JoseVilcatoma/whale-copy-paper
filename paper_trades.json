@@ -160823,5 +160823,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790606112.460954,
     "fills": 1
+  },
+  {
+    "timestamp": 1790606572,
+    "timestamp_added": 1790606573.8829076,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-lat-cyp-2026-09-28-lat",
+    "title": "Will Latvia win on 2026-09-28?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1188.5705,
+    "whale_pct": 0.94,
+    "whale_value_at_open": 126501.5048,
+    "paper_stake_usd": 3.97,
+    "odds_at_bet": 66,
+    "fee_usd": 0.067,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790606573.882919,
+    "fills": 1
   }
 ]
