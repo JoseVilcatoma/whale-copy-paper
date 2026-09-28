@@ -160145,5 +160145,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790574211.487722,
     "fills": 1
+  },
+  {
+    "timestamp": 1790574818,
+    "timestamp_added": 1790574819.5919242,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-garcia-tia-2026-09-28",
+    "title": "China Open, Qualification: Andrea Lazaro Garcia vs Jialin Tian",
+    "outcome": "Andrea Lazaro Garcia",
+    "side": "BUY",
+    "whale_usd": 8753.829999999998,
+    "whale_pct": 4.402,
+    "whale_value_at_open": 198871.617,
+    "paper_stake_usd": 3.63,
+    "odds_at_bet": 60,
+    "fee_usd": 0.073,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790574820.1558003,
+    "fills": 2
   }
 ]
