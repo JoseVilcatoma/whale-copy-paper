@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 23:14:23 (hora de Perú)
+Actualizado: 2026-09-27 23:16:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $43.51
-**Retorno acumulado:** -91.30%
+**Bankroll actual:** $49.66
+**Retorno acumulado:** -90.07%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 23:14:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $41.64 en 9 posiciones abiertas (disponible para nuevas apuestas: $1.87)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $29.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 70 | 14 | 0 | +46.84 USD |
+| UpTheBlues | 70 | 14 | 1 | +46.84 USD |
 | HMLSF | 12 | 1 | 0 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -38,9 +38,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
+| primm | 4 | 1 | 0 | +15.31 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| primm | 3 | 0 | 2 | +12.77 USD |
+| Elaran1993 | 5 | 1 | 0 | +12.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | lllllllIlll | 5 | 1 | 0 | +11.25 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
@@ -51,7 +52,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| Elaran1993 | 4 | 1 | 1 | +7.94 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -96,7 +96,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 2 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -117,6 +116,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 1 | 0 | -3.93 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 20 | 0 | -4.53 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -174,18 +174,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 946 | 585 | 2 | -289.29 USD |
+| ferrariChampions2026 | 947 | 585 | 1 | -286.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6256
-- **Aciertos:** 3949 (63.1%)
+- **Apuestas resueltas:** 6262
+- **Aciertos:** 3953 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,929.37
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $568.44 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,956.01
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $568.97 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,9 +193,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3195 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1822 | 69.1% | 67.9% | +1.2 pp |
-| 80-94% | 880 | 85.5% | 86.6% | -1.2 pp |
+| 40-59% | 3199 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1823 | 69.1% | 67.9% | +1.1 pp |
+| 80-94% | 881 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1139,15 +1139,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ⏳ pendiente | — |
-| primm | Spread: Rams (-10.5) | Rams (BUY) | 52% | 3.59 | 4.2% | ⏳ pendiente | — |
-| primm | Spread: Rams (-10.5) | Broncos (BUY) | 44% | 5.00 | 4.3% | ⏳ pendiente | — |
+| UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ✅ ganada | +1.13 |
+| primm | Spread: Rams (-10.5) | Rams (BUY) | 52% | 3.59 | 4.2% | ❌ perdida | -3.68 |
+| primm | Spread: Rams (-10.5) | Broncos (BUY) | 44% | 5.00 | 4.3% | ✅ ganada | +6.22 |
 | takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 1.6% | ✅ ganada | +1.87 |
 | takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 28.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 28.9% | ❌ perdida | -5.06 |
+| ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ✅ ganada | +2.86 |
 | Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ✅ ganada | +2.61 |
-| Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ⏳ pendiente | — |
+| Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ✅ ganada | +4.68 |
 | primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
 | primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ✅ ganada | +3.52 |
 | primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ✅ ganada | +6.76 |
@@ -1168,4 +1169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Buenos Aires 2: Joaquin Aguilar vs Alex  | Alex Barrena (BUY) | 70% | 5.00 | 0.9% | ✅ ganada | +2.07 |
 | Flaznorp | Quilmes AC vs. CA Guemes: O/U 1.5 | Under (BUY) | 65% | 5.00 | 0.2% | ❌ perdida | -5.09 |
 | RN1 | Will England vs. Spain end in a draw? | Yes (BUY) | 49% | 3.14 | 0.1% | ❌ perdida | -3.22 |
-| weflyhigh | Spread: Auburn (-9.5) | Auburn (BUY) | 53% | 5.00 | 3.8% | ❌ perdida | -5.12 |

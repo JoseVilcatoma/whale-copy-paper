@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.51372968267003,
+  "bankroll": 49.66251927796943,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32370,6 +32370,36 @@
       "timestamp": 1790566759.4139202,
       "bankroll": 43.51,
       "event": "won: takeormake \u2014 Dallas Wings vs. Golden State Valkyries"
+    },
+    {
+      "timestamp": 1790568925.3194232,
+      "bankroll": 48.2,
+      "event": "won: Elaran1993 \u2014 Rams vs. Broncos"
+    },
+    {
+      "timestamp": 1790568925.4195557,
+      "bankroll": 51.05,
+      "event": "won: ferrariChampions2026 \u2014 Rams vs. Broncos"
+    },
+    {
+      "timestamp": 1790568925.5196936,
+      "bankroll": 45.99,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Rams vs. Broncos"
+    },
+    {
+      "timestamp": 1790568926.208804,
+      "bankroll": 52.21,
+      "event": "won: primm \u2014 Spread: Rams (-10.5)"
+    },
+    {
+      "timestamp": 1790568926.308995,
+      "bankroll": 48.54,
+      "event": "lost: primm \u2014 Spread: Rams (-10.5)"
+    },
+    {
+      "timestamp": 1790568926.4091942,
+      "bankroll": 49.66,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Rams vs. Broncos"
     }
   ]
 }
