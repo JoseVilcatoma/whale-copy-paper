@@ -160169,5 +160169,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790574820.1558003,
     "fills": 2
+  },
+  {
+    "timestamp": 1790578537,
+    "timestamp_added": 1790578538.2693806,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-landalu-trungel-2026-09-28",
+    "title": "China Open, Qualification: Martin Landaluce vs Marco Trungelliti",
+    "outcome": "Marco Trungelliti",
+    "side": "BUY",
+    "whale_usd": 570.447778,
+    "whale_pct": 0.592,
+    "whale_value_at_open": 96300.8507,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790578538.269392,
+    "fills": 1
   }
 ]
