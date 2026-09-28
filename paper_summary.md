@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 08:19:18 (hora de Perú)
+Actualizado: 2026-09-28 08:21:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $41.10
-**Retorno acumulado:** -91.78%
+**Bankroll actual:** $43.45
+**Retorno acumulado:** -91.31%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 08:19:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $41.10 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $37.47 en 8 posiciones abiertas (disponible para nuevas apuestas: $5.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,10 +167,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 711 | 338 | 3 | -35.52 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 2 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 710 | 338 | 4 | -37.87 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6289
-- **Aciertos:** 3971 (63.1%)
+- **Apuestas resueltas:** 6290
+- **Aciertos:** 3972 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,087.29
+- **Total apostado (suma de stakes):** $31,090.92
 - **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $570.85 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $570.93 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3211 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1828 | 69.1% | 68.0% | +1.2 pp |
+| 60-79% | 1829 | 69.2% | 68.0% | +1.2 pp |
 | 80-94% | 887 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1167,7 +1167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 11.6% | ❌ perdida | -5.02 |
 | RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ✅ ganada | +0.05 |
 | RN1 | China Open, Qualification: Martin Landal | Marco Trungelliti (BUY) | 56% | 5.00 | 2.1% | ✅ ganada | +3.82 |
-| RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ⏳ pendiente | — |
+| RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ✅ ganada | +2.35 |
 | RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 13.7% | ✅ ganada | +1.05 |
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | RN1 | Japan Open Tennis Championships, Qualifi | Arthur Fils (BUY) | 87% | 5.00 | 5.8% | ✅ ganada | +0.71 |

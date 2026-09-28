@@ -1,5 +1,5 @@
 {
-  "bankroll": 41.103442743555895,
+  "bankroll": 43.4504427435559,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32535,6 +32535,11 @@
       "timestamp": 1790598509.3639767,
       "bankroll": 41.1,
       "event": "lost: RN1 \u2014 Counter-Strike: magic vs GamerLegion - Map 1 Winner"
+    },
+    {
+      "timestamp": 1790601616.4845247,
+      "bankroll": 43.45,
+      "event": "won: RN1 \u2014 China Open, Qualification: Andrea Lazaro Garcia vs Jialin Tian"
     }
   ]
 }
