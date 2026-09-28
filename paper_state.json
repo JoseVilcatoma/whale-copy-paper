@@ -1,5 +1,5 @@
 {
-  "bankroll": 34.999769724406086,
+  "bankroll": 31.667769724406085,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32615,6 +32615,11 @@
       "timestamp": 1790635840.493883,
       "bankroll": 35.0,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Will France win on 2026-09-28?"
+    },
+    {
+      "timestamp": 1790636764.7747579,
+      "bankroll": 31.67,
+      "event": "lost: ferrariChampions2026 \u2014 Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau"
     }
   ]
 }
