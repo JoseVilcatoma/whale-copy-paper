@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.49224300483595,
+  "bankroll": 39.539748055341,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32450,6 +32450,11 @@
       "timestamp": 1790578401.8532865,
       "bankroll": 39.49,
       "event": "won: RN1 \u2014 China Open, Qualification: Yannick Hanfmann vs Tomas Machac"
+    },
+    {
+      "timestamp": 1790580248.893889,
+      "bankroll": 39.54,
+      "event": "won: RN1 \u2014 Will CF Am\u00e9rica win on 2026-09-27?"
     }
   ]
 }
