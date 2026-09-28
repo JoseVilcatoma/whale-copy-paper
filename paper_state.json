@@ -1,5 +1,5 @@
 {
-  "bankroll": 42.30406189802095,
+  "bankroll": 42.776567392526445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32505,6 +32505,11 @@
       "timestamp": 1790593633.430912,
       "bankroll": 42.3,
       "event": "won: RN1 \u2014 Adana: Emiliana Arango vs Anna Blinkova"
+    },
+    {
+      "timestamp": 1790593757.6496902,
+      "bankroll": 42.78,
+      "event": "won: RN1 \u2014 Mouilleron-le-Captif: Alexandre Reco vs Patrick Zahraj"
     }
   ]
 }

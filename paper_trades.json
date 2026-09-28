@@ -160502,8 +160502,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -160519,8 +160519,8 @@
     "title": "Counter-Strike: magic vs GamerLegion - Map 1 Winner",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 800.8062500000001,
-    "whale_pct": 0.511,
+    "whale_usd": 1520.80625,
+    "whale_pct": 0.971,
     "whale_value_at_open": 156586.151,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -160531,7 +160531,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790593650.4293327,
-    "fills": 1
+    "last_fill_at": 1790593738.9679255,
+    "fills": 2
   }
 ]
