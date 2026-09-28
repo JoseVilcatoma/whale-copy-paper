@@ -1,5 +1,5 @@
 {
-  "bankroll": 41.36505812817128,
+  "bankroll": 36.25620582792914,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32550,6 +32550,26 @@
       "timestamp": 1790605716.0483766,
       "bankroll": 41.37,
       "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Chengdu Open: Hubert Hurkacz vs Denis Shapovalov"
+    },
+    {
+      "timestamp": 1790606024.8061275,
+      "bankroll": 44.74,
+      "event": "won: GoalLineGhost \u2014 Japan vs. Venezuela: O/U 2.5"
+    },
+    {
+      "timestamp": 1790606025.0928705,
+      "bankroll": 46.45,
+      "event": "won: GoalLineGhost \u2014 Will Japan vs. Venezuela end in a draw?"
+    },
+    {
+      "timestamp": 1790606025.4748287,
+      "bankroll": 41.33,
+      "event": "lost: RN1 \u2014 Will Japan win on 2026-09-28?"
+    },
+    {
+      "timestamp": 1790606025.5750318,
+      "bankroll": 36.26,
+      "event": "lost: RN1 \u2014 Will Japan vs. Venezuela end in a draw?"
     }
   ]
 }

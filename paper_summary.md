@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 09:31:41 (hora de Perú)
+Actualizado: 2026-09-28 09:33:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $41.37
-**Retorno acumulado:** -91.73%
+**Bankroll actual:** $36.26
+**Retorno acumulado:** -92.75%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 09:31:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $41.44 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $22.29 en 5 posiciones abiertas (disponible para nuevas apuestas: $13.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,11 +166,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| RN1 | 712 | 338 | 4 | -32.54 USD |
+| GoalLineGhost | 124 | 56 | 1 | -32.18 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| GoalLineGhost | 122 | 56 | 3 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
+| RN1 | 712 | 340 | 2 | -42.74 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6292
-- **Aciertos:** 3973 (63.1%)
+- **Apuestas resueltas:** 6296
+- **Aciertos:** 3975 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,099.24
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $571.08 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,118.39
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $571.44 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,8 +193,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3212 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1830 | 69.1% | 68.0% | +1.2 pp |
+| 40-59% | 3214 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 1832 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 887 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1150,16 +1150,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Kyrgyz Republic win on 2026-09-28? | Yes (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Porto 2: Benjamin Bonzi vs August Holmgr | August Holmgren (BUY) | 52% | 3.32 | 3.8% | ✅ ganada | +2.98 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Sh | Denis Shapovalov (BUY) | 72% | 5.00 | 0.6% | ❌ perdida | -5.07 |
-| RN1 | Will Japan vs. Venezuela end in a draw? | Yes (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Japan vs. Venezuela end in a draw? | Yes (BUY) | 70% | 5.00 | 0.3% | ❌ perdida | -5.08 |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | magic (BUY) | 43% | 4.36 | 1.6% | ❌ perdida | -4.48 |
-| RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 4.0% | ⏳ pendiente | — |
+| RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |
+| GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 4.0% | ✅ ganada | +1.72 |
 | RN1 | Bari: Federico Arnaboldi vs Svyatoslav G | Federico Arnaboldi (BUY) | 79% | 5.00 | 7.2% | ✅ ganada | +1.28 |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | GamerLegion (BUY) | 69% | 5.00 | 2.6% | ✅ ganada | +2.17 |
 | RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ✅ ganada | +0.47 |
 | RN1 | Japan Open Tennis Championships, Qualifi | Lorenzo Sonego (BUY) | 44% | 2.52 | 0.8% | ❌ perdida | -2.59 |
 | RN1 | Adana: Emiliana Arango vs Anna Blinkova | Anna Blinkova (BUY) | 64% | 5.00 | 11.7% | ✅ ganada | +2.72 |
-| GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 6.4% | ⏳ pendiente | — |
+| GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 8.8% | ✅ ganada | +4.50 |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ❌ perdida | -5.13 |
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ✅ ganada | +1.28 |
