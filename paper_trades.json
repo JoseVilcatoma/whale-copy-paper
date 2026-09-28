@@ -160689,8 +160689,8 @@
     "title": "Porto 2: Benjamin Bonzi vs August Holmgren",
     "outcome": "August Holmgren",
     "side": "BUY",
-    "whale_usd": 4007.8185000000003,
-    "whale_pct": 2.228,
+    "whale_usd": 6838.6385,
+    "whale_pct": 3.801,
     "whale_value_at_open": 179918.7275,
     "paper_stake_usd": 3.32,
     "odds_at_bet": 52,
@@ -160701,7 +160701,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790599055.5791228,
-    "fills": 2
+    "last_fill_at": 1790600663.0298655,
+    "fills": 3
   }
 ]
