@@ -160943,5 +160943,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790626243.3059466,
     "fills": 3
+  },
+  {
+    "timestamp": 1790626528,
+    "timestamp_added": 1790626529.4364953,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tabur-martin-2026-09-28",
+    "title": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
+    "outcome": "Matteo Martineau",
+    "side": "BUY",
+    "whale_usd": 1593.2800000000002,
+    "whale_pct": 0.887,
+    "whale_value_at_open": 179613.7827,
+    "paper_stake_usd": 3.24,
+    "odds_at_bet": 43,
+    "fee_usd": 0.092,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790626529.4365132,
+    "fills": 1
   }
 ]
