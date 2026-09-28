@@ -160567,8 +160567,8 @@
     "title": "Will Japan vs. Venezuela end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2975.7000000000003,
-    "whale_pct": 2.006,
+    "whale_usd": 3962.57,
+    "whale_pct": 2.672,
     "whale_value_at_open": 148309.1293,
     "paper_stake_usd": 4.15,
     "odds_at_bet": 70,
@@ -160579,8 +160579,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790595937.7231934,
-    "fills": 3
+    "last_fill_at": 1790596126.748143,
+    "fills": 4
   },
   {
     "timestamp": 1790596095,
@@ -160604,6 +160604,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790596095.534291,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790596183,
+    "timestamp_added": 1790596183.489573,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-mgc-gl1-2026-09-28-game1",
+    "title": "Counter-Strike: magic vs GamerLegion - Map 1 Winner",
+    "outcome": "magic",
+    "side": "BUY",
+    "whale_usd": 3158.4,
+    "whale_pct": 1.589,
+    "whale_value_at_open": 198769.9151,
+    "paper_stake_usd": 4.36,
+    "odds_at_bet": 43,
+    "fee_usd": 0.124,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790596183.4895852,
     "fills": 1
   }
 ]

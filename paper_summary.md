@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 06:48:44 (hora de Perú)
+Actualizado: 2026-09-28 06:50:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $42.14
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 06:48:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.78 en 8 posiciones abiertas (disponible para nuevas apuestas: $4.36)
+**Capital comprometido ahora mismo:** $42.14 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 708 | 337 | 4 | -36.84 USD |
+| RN1 | 708 | 337 | 5 | -36.84 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 2 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
@@ -1144,8 +1144,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: magic vs GamerLegion - M | magic (BUY) | 43% | 4.36 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
-| GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 2.0% | ⏳ pendiente | — |
+| GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 2.7% | ⏳ pendiente | — |
 | RN1 | Bari: Federico Arnaboldi vs Svyatoslav G | Federico Arnaboldi (BUY) | 79% | 5.00 | 7.2% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | GamerLegion (BUY) | 69% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ✅ ganada | +0.47 |
@@ -1173,4 +1174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ✅ ganada | +3.66 |
 | HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 17.7% | ❌ perdida | -5.12 |
 | UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ✅ ganada | +1.13 |
