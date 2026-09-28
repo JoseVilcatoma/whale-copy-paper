@@ -160703,5 +160703,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790600663.0298655,
     "fills": 3
+  },
+  {
+    "timestamp": 1790601835,
+    "timestamp_added": 1790601835.6762836,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "fif-kyr-mdv-2026-09-28-kyr",
+    "title": "Will Kyrgyz Republic win on 2026-09-28?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 583.002,
+    "whale_pct": 0.29,
+    "whale_value_at_open": 200805.9697,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790601835.676294,
+    "fills": 1
   }
 ]
