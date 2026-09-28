@@ -1,5 +1,5 @@
 {
-  "bankroll": 46.43505812817128,
+  "bankroll": 41.36505812817128,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32545,6 +32545,11 @@
       "timestamp": 1790603110.2823234,
       "bankroll": 46.44,
       "event": "won: RN1 \u2014 Porto 2: Benjamin Bonzi vs August Holmgren"
+    },
+    {
+      "timestamp": 1790605716.0483766,
+      "bankroll": 41.37,
+      "event": "lost: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Chengdu Open: Hubert Hurkacz vs Denis Shapovalov"
     }
   ]
 }
