@@ -160543,8 +160543,8 @@
     "title": "Bari: Federico Arnaboldi vs Svyatoslav Gulin",
     "outcome": "Federico Arnaboldi",
     "side": "BUY",
-    "whale_usd": 7563.709665999999,
-    "whale_pct": 4.378,
+    "whale_usd": 11373.879666,
+    "whale_pct": 6.584,
     "whale_value_at_open": 172757.4977,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -160555,8 +160555,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790593845.5232975,
-    "fills": 3
+    "last_fill_at": 1790594009.816062,
+    "fills": 6
   },
   {
     "timestamp": 1790593871,
