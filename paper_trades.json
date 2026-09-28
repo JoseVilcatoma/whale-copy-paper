@@ -160727,5 +160727,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790601835.676294,
     "fills": 1
+  },
+  {
+    "timestamp": 1790603299,
+    "timestamp_added": 1790603300.1410851,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-basing-poljica-2026-09-28",
+    "title": "Porto 2: Max Basing vs Mili Poljicak",
+    "outcome": "Mili Poljicak",
+    "side": "BUY",
+    "whale_usd": 1759.3,
+    "whale_pct": 1.12,
+    "whale_value_at_open": 157130.7202,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790603300.1410973,
+    "fills": 1
   }
 ]
