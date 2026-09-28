@@ -159759,8 +159759,8 @@
     "title": "Rams vs. Broncos",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 20038.978,
-    "whale_pct": 3.684,
+    "whale_usd": 31149.2299,
+    "whale_pct": 5.726,
     "whale_value_at_open": 543965.6092,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -159774,8 +159774,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790557595.045012,
-    "fills": 1
+    "last_fill_at": 1790558597.0623167,
+    "fills": 2
   },
   {
     "timestamp": 1790557767,
@@ -159799,6 +159799,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1790557768.1778944,
+    "fills": 1
+  },
+  {
+    "timestamp": 1790558612,
+    "timestamp_added": 1790558613.0997424,
+    "username": "takeormake",
+    "wallet": "0xa38a455bbdd4b68486548b7e19da99903f4f821d",
+    "slug": "wnba-dal-gsv-2026-09-27",
+    "title": "Dallas Wings vs. Golden State Valkyries",
+    "outcome": "Golden State Valkyries",
+    "side": "BUY",
+    "whale_usd": 519.72,
+    "whale_pct": 0.773,
+    "whale_value_at_open": 67270.1328,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790558613.0997534,
     "fills": 1
   }
 ]
