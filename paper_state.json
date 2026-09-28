@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.4504427435559,
+  "bankroll": 46.43505812817128,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32540,6 +32540,11 @@
       "timestamp": 1790601616.4845247,
       "bankroll": 43.45,
       "event": "won: RN1 \u2014 China Open, Qualification: Andrea Lazaro Garcia vs Jialin Tian"
+    },
+    {
+      "timestamp": 1790603110.2823234,
+      "bankroll": 46.44,
+      "event": "won: RN1 \u2014 Porto 2: Benjamin Bonzi vs August Holmgren"
     }
   ]
 }
