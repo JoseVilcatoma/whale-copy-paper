@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 14:57:13 (hora de Perú)
+Actualizado: 2026-09-28 14:59:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $35.99
-**Retorno acumulado:** -92.80%
+**Bankroll actual:** $37.97
+**Retorno acumulado:** -92.41%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 14:57:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.97 en 7 posiciones abiertas (disponible para nuevas apuestas: $2.02)
+**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $7.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -166,7 +166,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 16 | 20 | 0 | -26.22 USD |
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
-| GoalLineGhost | 124 | 56 | 3 | -32.18 USD |
+| GoalLineGhost | 125 | 56 | 2 | -30.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
@@ -178,13 +178,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6299
-- **Aciertos:** 3977 (63.1%)
+- **Apuestas resueltas:** 6300
+- **Aciertos:** 3978 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,130.68
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $571.62 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,134.65
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $571.69 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3215 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1834 | 69.1% | 68.0% | +1.1 pp |
+| 60-79% | 1835 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 887 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1147,7 +1147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
-| GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ⏳ pendiente | — |
+| GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ✅ ganada | +1.98 |
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ❌ perdida | -5.05 |
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ✅ ganada | +3.10 |

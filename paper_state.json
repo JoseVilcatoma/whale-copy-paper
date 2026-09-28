@@ -1,5 +1,5 @@
 {
-  "bankroll": 35.98934353706686,
+  "bankroll": 37.967495052218375,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32585,6 +32585,11 @@
       "timestamp": 1790612536.3783152,
       "bankroll": 35.99,
       "event": "won: RN1 \u2014 Porto 2: Michael Mmoh vs Laslo Djere"
+    },
+    {
+      "timestamp": 1790625455.2084057,
+      "bankroll": 37.97,
+      "event": "won: GoalLineGhost \u2014 Will Latvia win on 2026-09-28?"
     }
   ]
 }
