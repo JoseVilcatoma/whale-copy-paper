@@ -1,5 +1,5 @@
 {
-  "bankroll": 40.127769724406086,
+  "bankroll": 34.999769724406086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32610,6 +32610,11 @@
       "timestamp": 1790635222.5333443,
       "bankroll": 40.13,
       "event": "won: ferrariChampions2026 \u2014 Romania vs. Bosnia and Herzegovina: O/U 2.5"
+    },
+    {
+      "timestamp": 1790635840.493883,
+      "bankroll": 35.0,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will France win on 2026-09-28?"
     }
   ]
 }

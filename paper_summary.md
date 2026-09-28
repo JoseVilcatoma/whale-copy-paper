@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 17:48:37 (hora de Perú)
+Actualizado: 2026-09-28 17:50:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $40.13
-**Retorno acumulado:** -91.97%
+**Bankroll actual:** $35.00
+**Retorno acumulado:** -93.00%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 17:48:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $38.24 en 8 posiciones abiertas (disponible para nuevas apuestas: $1.89)
+**Capital comprometido ahora mismo:** $33.24 en 7 posiciones abiertas (disponible para nuevas apuestas: $1.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,8 +37,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 1 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 118 | 86 | 1 | +18.49 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
+| wr0ngw4yb3tt0r | 118 | 87 | 0 | +13.36 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Elaran1993 | 5 | 1 | 0 | +12.62 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6304
-- **Aciertos:** 3981 (63.2%)
+- **Apuestas resueltas:** 6305
+- **Aciertos:** 3981 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,154.65
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $572.03 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,159.65
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $572.16 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3217 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3218 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1835 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 889 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
@@ -1154,7 +1154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ✅ ganada | +1.98 |
-| wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ❌ perdida | -5.05 |
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ✅ ganada | +3.10 |
 | RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ✅ ganada | +1.69 |
