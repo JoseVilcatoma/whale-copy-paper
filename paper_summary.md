@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 02:31:20 (hora de Perú)
+Actualizado: 2026-09-28 02:33:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 02:31:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.63 en 7 posiciones abiertas (disponible para nuevas apuestas: $5.91)
+**Capital comprometido ahora mismo:** $38.63 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -174,7 +174,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 947 | 585 | 2 | -286.43 USD |
+| ferrariChampions2026 | 947 | 585 | 3 | -286.43 USD |
 
 ## Análisis general
 
@@ -1143,6 +1143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 8.9% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 11.6% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ⏳ pendiente | — |
@@ -1172,4 +1173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ✅ ganada | +6.76 |
 | GoalLineGhost | Will Racing Club Avellaneda win on 2026- | Yes (BUY) | 89% | 5.00 | 0.5% | ❌ perdida | -5.03 |
 | bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ✅ ganada | +5.73 |
-| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ✅ ganada | +4.14 |

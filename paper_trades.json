@@ -160267,5 +160267,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790580575.5221946,
     "fills": 2
+  },
+  {
+    "timestamp": 1790580733,
+    "timestamp_added": 1790580734.0083587,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-munar-giron-2026-09-27",
+    "title": "Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron",
+    "outcome": "Jaume Munar",
+    "side": "BUY",
+    "whale_usd": 665.6,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 132443.9075,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790580734.0083702,
+    "fills": 1
   }
 ]
