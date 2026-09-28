@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 23:20:34 (hora de Perú)
+Actualizado: 2026-09-27 23:22:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 23:20:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $9.66)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $4.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 70 | 14 | 3 | +46.84 USD |
+| UpTheBlues | 70 | 14 | 4 | +46.84 USD |
 | HMLSF | 12 | 1 | 2 | +32.97 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -1139,10 +1139,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| UpTheBlues | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
+| UpTheBlues | Jingshan: Sara Saito vs Chenting Zhu | Chenting Zhu (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
+| UpTheBlues | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | UpTheBlues | Japan Open Tennis Championships, Qualifi | Martin Damm (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ⏳ pendiente | — |
-| HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 3.0% | ⏳ pendiente | — |
+| HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 4.2% | ⏳ pendiente | — |
 | UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ✅ ganada | +1.13 |
 | primm | Spread: Rams (-10.5) | Rams (BUY) | 52% | 3.59 | 4.2% | ❌ perdida | -3.68 |
@@ -1168,4 +1169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will AC Goianiense win on 2026-09-26? | Yes (BUY) | 84% | 4.42 | 1.1% | ✅ ganada | +0.81 |
 | GoalLineGhost | Charlotte FC vs. Chicago Fire FC: O/U 2. | Over (BUY) | 67% | 5.00 | 0.9% | ❌ perdida | -5.08 |
 | RN1 | James Madison vs. Old Dominion | James Madison (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
-| RN1 | UConn vs. Miami (OH) | Miami (OH) (BUY) | 44% | 3.49 | 0.2% | ✅ ganada | +4.34 |

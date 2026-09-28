@@ -159933,8 +159933,8 @@
     "title": "China Open, Qualification: Yufei Ren vs Yexin Ma",
     "outcome": "Yufei Ren",
     "side": "BUY",
-    "whale_usd": 1412.5878,
-    "whale_pct": 3.021,
+    "whale_usd": 1985.9871,
+    "whale_pct": 4.247,
     "whale_value_at_open": 46764.0039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -159945,8 +159945,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790568987.4808354,
-    "fills": 1
+    "last_fill_at": 1790569357.5788128,
+    "fills": 2
   },
   {
     "timestamp": 1790569162,
@@ -160005,8 +160005,8 @@
     "title": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
     "outcome": "Tomas Machac",
     "side": "BUY",
-    "whale_usd": 1659.9700000000003,
-    "whale_pct": 0.653,
+    "whale_usd": 2424.3100000000004,
+    "whale_pct": 0.953,
     "whale_value_at_open": 254263.0174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -160017,7 +160017,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790569197.880874,
-    "fills": 3
+    "last_fill_at": 1790569330.5743947,
+    "fills": 4
+  },
+  {
+    "timestamp": 1790569323,
+    "timestamp_added": 1790569324.5070467,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "wta-saito-chentin-2026-09-27",
+    "title": "Jingshan: Sara Saito vs Chenting Zhu",
+    "outcome": "Chenting Zhu",
+    "side": "BUY",
+    "whale_usd": 655.68999,
+    "whale_pct": 0.254,
+    "whale_value_at_open": 257889.0169,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790569324.5070598,
+    "fills": 1
   }
 ]
