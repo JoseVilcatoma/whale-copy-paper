@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 02:39:36 (hora de Perú)
+Actualizado: 2026-09-28 02:41:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.54
@@ -1147,7 +1147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Martin Landal | Martin Landaluce (BUY) | 92% | 5.00 | 11.6% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ⏳ pendiente | — |
-| RN1 | China Open, Qualification: Martin Landal | Marco Trungelliti (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | China Open, Qualification: Martin Landal | Marco Trungelliti (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 13.7% | ✅ ganada | +1.05 |
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
