@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 20:50:48 (hora de Perú)
+Actualizado: 2026-09-27 20:52:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $39.03
-**Retorno acumulado:** -92.19%
+**Bankroll actual:** $41.64
+**Retorno acumulado:** -91.67%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 20:50:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $38.05 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.98)
+**Capital comprometido ahora mismo:** $33.05 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | RN1 | 697 | 333 | 0 | -37.17 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
-| Flaznorp | 198 | 75 | 1 | -40.35 USD |
+| Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6254
-- **Aciertos:** 3947 (63.1%)
+- **Apuestas resueltas:** 6255
+- **Aciertos:** 3948 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,919.37
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $568.28 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,924.37
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $568.37 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3195 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1820 | 69.1% | 67.9% | +1.1 pp |
+| 60-79% | 1821 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 880 | 85.5% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1143,7 +1143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ⏳ pendiente | — |
-| Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
+| Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ✅ ganada | +2.61 |
 | Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ⏳ pendiente | — |
 | primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
 | primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ✅ ganada | +3.52 |
