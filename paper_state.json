@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.58725310584605,
+  "bankroll": 33.365824534417484,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32460,6 +32460,21 @@
       "timestamp": 1790582477.965291,
       "bankroll": 39.59,
       "event": "won: RN1 \u2014 China Open, Qualification: Elvina Kalieva vs Ellen Perez"
+    },
+    {
+      "timestamp": 1790583220.400957,
+      "bankroll": 43.41,
+      "event": "won: RN1 \u2014 China Open, Qualification: Martin Landaluce vs Marco Trungelliti"
+    },
+    {
+      "timestamp": 1790583220.501125,
+      "bankroll": 38.39,
+      "event": "lost: RN1 \u2014 China Open, Qualification: Martin Landaluce vs Marco Trungelliti"
+    },
+    {
+      "timestamp": 1790583220.6012776,
+      "bankroll": 33.37,
+      "event": "lost: ferrariChampions2026 \u2014 China Open, Qualification: Martin Landaluce vs Marco Trungelliti"
     }
   ]
 }
