@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 00:42:11 (hora de Perú)
+Actualizado: 2026-09-28 00:44:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $43.63
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 00:42:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.63)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $3.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 697 | 334 | 2 | -41.95 USD |
+| RN1 | 697 | 334 | 3 | -41.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1136,11 +1136,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-la-den-2026-09-28 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, Elaran1993, ferrariChampions2026 |
 | wta-yan-ferro-2026-09-27 | HMLSF, RN1 |
 | atp-fils-damm-2026-09-27 | RN1, UpTheBlues |
+| atp-hanfman-machac-2026-09-27 | RN1, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Arthur Fils (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | RN1 | Jingshan: Yidi Yang vs Fiona Ferro | Yidi Yang (BUY) | 49% | 4.66 | 0.4% | ❌ perdida | -4.78 |
@@ -1170,4 +1172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 41.2% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Hangzhou Open: Roman Safiullin vs Yuncha | Roman Safiullin (BUY) | 52% | 5.00 | 2.1% | ✅ ganada | +4.50 |
 | RN1 | Rice vs. Fresno State | Fresno State (BUY) | 83% | 5.00 | 1.0% | ✅ ganada | +0.98 |
-| RN1 | CDP Junior FC vs. Independiente Medellín | Over (BUY) | 55% | 4.80 | 0.3% | ✅ ganada | +3.82 |

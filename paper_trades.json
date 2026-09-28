@@ -160119,5 +160119,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790571799.832029,
     "fills": 1
+  },
+  {
+    "timestamp": 1790574211,
+    "timestamp_added": 1790574211.4877121,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-hanfman-machac-2026-09-27",
+    "title": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
+    "outcome": "Tomas Machac",
+    "side": "BUY",
+    "whale_usd": 4102.400000000001,
+    "whale_pct": 2.116,
+    "whale_value_at_open": 193862.5659,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "UpTheBlues"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790574211.487722,
+    "fills": 1
   }
 ]
