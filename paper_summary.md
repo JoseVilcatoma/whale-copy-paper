@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 05:16:23 (hora de Perú)
+Actualizado: 2026-09-28 05:18:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $40.89
-**Retorno acumulado:** -91.82%
+**Bankroll actual:** $42.17
+**Retorno acumulado:** -91.57%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 05:16:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.89 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $41.15 en 9 posiciones abiertas (disponible para nuevas apuestas: $1.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,10 +167,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 705 | 335 | 6 | -36.81 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 1 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 704 | 335 | 6 | -38.09 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,13 +178,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6280
-- **Aciertos:** 3965 (63.1%)
+- **Apuestas resueltas:** 6281
+- **Aciertos:** 3966 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,045.67
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $570.12 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,050.41
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $570.17 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3207 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1824 | 69.1% | 67.9% | +1.1 pp |
+| 60-79% | 1825 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 886 | 85.3% | 86.6% | -1.3 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
 
@@ -1144,12 +1144,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Lorenzo Sonego (BUY) | 44% | 2.52 | 0.8% | ⏳ pendiente | — |
 | RN1 | Adana: Emiliana Arango vs Anna Blinkova | Anna Blinkova (BUY) | 64% | 5.00 | 11.7% | ⏳ pendiente | — |
 | GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ⏳ pendiente | — |
-| RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ⏳ pendiente | — |
+| RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ✅ ganada | +1.28 |
 | RN1 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 63% | 5.00 | 16.0% | ✅ ganada | +2.84 |
 | RN1 | China Open, Qualification: Shiyu Ye vs L | Linda Fruhvirtova (BUY) | 93% | 5.00 | 2.2% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Japan Open Tennis Championships, Qualifi | Jaume Munar (BUY) | 53% | 5.00 | 2.0% | ✅ ganada | +4.32 |
@@ -1173,4 +1174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | primm | Spread: Rams (-10.5) | Broncos (BUY) | 44% | 5.00 | 4.3% | ✅ ganada | +6.22 |
 | takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 1.6% | ✅ ganada | +1.87 |
 | takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ❌ perdida | -5.11 |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 28.9% | ❌ perdida | -5.06 |
