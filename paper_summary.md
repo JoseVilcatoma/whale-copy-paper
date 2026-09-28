@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 09:33:46 (hora de Perú)
+Actualizado: 2026-09-28 09:35:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $36.26
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 09:33:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $22.29 en 5 posiciones abiertas (disponible para nuevas apuestas: $13.97)
+**Capital comprometido ahora mismo:** $32.29 en 7 posiciones abiertas (disponible para nuevas apuestas: $3.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 40 | 31 | 0 | +21.84 USD |
 | Diabolical-Prize | 13 | 8 | 0 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
-| wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
+| wr0ngw4yb3tt0r | 118 | 86 | 1 | +18.49 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -174,7 +174,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 948 | 586 | 1 | -287.13 USD |
+| ferrariChampions2026 | 948 | 586 | 2 | -287.13 USD |
 
 ## Análisis general
 
@@ -1145,6 +1145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ⏳ pendiente | — |
 | RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kyrgyz Republic win on 2026-09-28? | Yes (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1173,5 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ✅ ganada | +2.35 |
 | RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 13.7% | ✅ ganada | +1.05 |
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-| RN1 | Japan Open Tennis Championships, Qualifi | Arthur Fils (BUY) | 87% | 5.00 | 5.8% | ✅ ganada | +0.71 |
-| RN1 | Jingshan: Yidi Yang vs Fiona Ferro | Yidi Yang (BUY) | 49% | 4.66 | 0.4% | ❌ perdida | -4.78 |
