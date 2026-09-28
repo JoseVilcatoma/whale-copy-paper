@@ -160737,8 +160737,8 @@
     "title": "Porto 2: Max Basing vs Mili Poljicak",
     "outcome": "Mili Poljicak",
     "side": "BUY",
-    "whale_usd": 1759.3,
-    "whale_pct": 1.12,
+    "whale_usd": 9549.9248,
+    "whale_pct": 6.078,
     "whale_value_at_open": 157130.7202,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -160749,7 +160749,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790603300.1410973,
-    "fills": 1
+    "last_fill_at": 1790603395.2082908,
+    "fills": 6
   }
 ]
