@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.58156189802095,
+  "bankroll": 42.30406189802095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32500,6 +32500,11 @@
       "timestamp": 1790592705.2829218,
       "bankroll": 39.58,
       "event": "lost: RN1 \u2014 Japan Open Tennis Championships, Qualification: Lorenzo Sonego vs Kamil Majchrzak"
+    },
+    {
+      "timestamp": 1790593633.430912,
+      "bankroll": 42.3,
+      "event": "won: RN1 \u2014 Adana: Emiliana Arango vs Anna Blinkova"
     }
   ]
 }
