@@ -1,5 +1,5 @@
 {
-  "bankroll": 34.15465861329498,
+  "bankroll": 40.127769724406086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32605,6 +32605,11 @@
       "timestamp": 1790630125.6922092,
       "bankroll": 34.15,
       "event": "won: ferrariChampions2026 \u2014 Columbus: Tyler Zink vs Mitchell Krueger"
+    },
+    {
+      "timestamp": 1790635222.5333443,
+      "bankroll": 40.13,
+      "event": "won: ferrariChampions2026 \u2014 Romania vs. Bosnia and Herzegovina: O/U 2.5"
     }
   ]
 }

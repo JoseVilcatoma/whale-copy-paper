@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 17:38:19 (hora de Perú)
+Actualizado: 2026-09-28 17:40:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $34.15
-**Retorno acumulado:** -93.17%
+**Bankroll actual:** $40.13
+**Retorno acumulado:** -91.97%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 17:38:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.24 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.91)
+**Capital comprometido ahora mismo:** $28.24 en 6 posiciones abiertas (disponible para nuevas apuestas: $11.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -174,18 +174,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
-| ferrariChampions2026 | 949 | 587 | 3 | -291.27 USD |
+| ferrariChampions2026 | 950 | 587 | 2 | -285.30 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6303
-- **Aciertos:** 3980 (63.1%)
+- **Apuestas resueltas:** 6304
+- **Aciertos:** 3981 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,149.65
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $571.89 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,154.65
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $572.03 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3216 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3217 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1835 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 889 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 23.4% | ⏳ pendiente | — |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ✅ ganada | +1.98 |
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
