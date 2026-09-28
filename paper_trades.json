@@ -160655,5 +160655,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790597545.2026772,
     "fills": 1
+  },
+  {
+    "timestamp": 1790598851,
+    "timestamp_added": 1790598852.727316,
+    "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "slug": "atp-hurkacz-shapova-2026-09-28",
+    "title": "Chengdu Open: Hubert Hurkacz vs Denis Shapovalov",
+    "outcome": "Denis Shapovalov",
+    "side": "BUY",
+    "whale_usd": 940.0541999999999,
+    "whale_pct": 0.562,
+    "whale_value_at_open": 167409.0197,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790598852.7273266,
+    "fills": 1
   }
 ]
