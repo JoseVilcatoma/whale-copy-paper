@@ -1,5 +1,5 @@
 {
-  "bankroll": 32.02711381042759,
+  "bankroll": 31.594613810427592,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32625,6 +32625,11 @@
       "timestamp": 1790637996.0362494,
       "bankroll": 32.03,
       "event": "won: ferrariChampions2026 \u2014 Columbus: Braden Shick vs Ozan Baris"
+    },
+    {
+      "timestamp": 1790639415.1001194,
+      "bankroll": 31.59,
+      "event": "venta anticipada: gmpm2 \u2014 1H Spread: Eagles (-2.5) (-0.43 USD)"
     }
   ]
 }

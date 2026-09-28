@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 18:50:09 (hora de Perú)
+Actualizado: 2026-09-28 18:52:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $32.03
-**Retorno acumulado:** -93.59%
+**Bankroll actual:** $31.59
+**Retorno acumulado:** -93.68%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 18:50:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $2.03)
+**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $1.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -133,10 +133,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | weflyhigh | 0 | 1 | 0 | -5.12 USD |
 | tyutgbhnm | 0 | 1 | 0 | -5.13 USD |
 | BreakTheBank | 0 | 1 | 0 | -5.13 USD |
-| maz26 | 0 | 1 | 1 | -5.13 USD |
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | taylorsversion | 0 | 1 | 0 | -5.15 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
+| maz26 | 0 | 2 | 0 | -5.56 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 68 | 0 | -5.62 USD |
 | five5120 | 2 | 2 | 0 | -6.36 USD |
@@ -145,7 +145,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 2 | 0 | -9.00 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 2 | 1 | -9.00 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -1145,7 +1145,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
+| gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 4.8% | ✅ ganada | +0.36 |
 | Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 141.3% | ⏳ pendiente | — |
@@ -1174,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 8.8% | ✅ ganada | +4.50 |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ❌ perdida | -5.13 |
-| RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ✅ ganada | +1.28 |
