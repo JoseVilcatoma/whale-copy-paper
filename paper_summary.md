@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 20:34:21 (hora de Perú)
+Actualizado: 2026-09-27 20:36:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.03
@@ -1139,7 +1139,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 0.8% | ⏳ pendiente | — |
+| takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 1.6% | ⏳ pendiente | — |
 | takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ⏳ pendiente | — |

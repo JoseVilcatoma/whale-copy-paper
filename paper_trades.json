@@ -159810,8 +159810,8 @@
     "title": "Dallas Wings vs. Golden State Valkyries",
     "outcome": "Golden State Valkyries",
     "side": "BUY",
-    "whale_usd": 519.72,
-    "whale_pct": 0.773,
+    "whale_usd": 1043.79,
+    "whale_pct": 1.552,
     "whale_value_at_open": 67270.1328,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -159822,7 +159822,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790558613.0997534,
-    "fills": 1
+    "last_fill_at": 1790559325.684008,
+    "fills": 2
   }
 ]
