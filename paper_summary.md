@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 19:41:04 (hora de Perú)
+Actualizado: 2026-09-27 19:43:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $33.03
-**Retorno acumulado:** -93.39%
+**Bankroll actual:** $39.03
+**Retorno acumulado:** -92.19%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 19:41:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $33.05 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $23.05 en 5 posiciones abiertas (disponible para nuevas apuestas: $15.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 118 | 86 | 0 | +18.49 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| primm | 3 | 0 | 0 | +12.77 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | lllllllIlll | 5 | 1 | 0 | +11.25 USD |
 | Kch-Temp | 6 | 3 | 0 | +11.21 USD |
@@ -52,7 +53,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | Elaran1993 | 4 | 1 | 1 | +7.94 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| primm | 1 | 0 | 2 | +6.76 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -176,14 +176,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6252
-- **Aciertos:** 3945 (63.1%)
+- **Apuestas resueltas:** 6254
+- **Aciertos:** 3947 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,909.37
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $568.09 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,919.37
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $568.28 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -191,8 +191,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3194 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1819 | 69.0% | 67.9% | +1.1 pp |
+| 40-59% | 3195 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 1820 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 880 | 85.5% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 359 | 97.2% | 97.4% | -0.2 pp |
 
@@ -1140,8 +1140,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ⏳ pendiente | — |
 | Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ⏳ pendiente | — |
-| primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
-| primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ⏳ pendiente | — |
+| primm | Raiders vs. Saints: O/U 45.5 | Over (BUY) | 66% | 5.00 | 0.5% | ✅ ganada | +2.49 |
+| primm | Raiders vs. Saints: O/U 47.5 | Over (BUY) | 58% | 5.00 | 3.7% | ✅ ganada | +3.52 |
 | primm | Raiders vs. Saints: O/U 50.5 | Over (BUY) | 42% | 5.00 | 0.4% | ✅ ganada | +6.76 |
 | GoalLineGhost | Will Racing Club Avellaneda win on 2026- | Yes (BUY) | 89% | 5.00 | 0.5% | ❌ perdida | -5.03 |
 | bands1 | Panthers vs. Browns | Browns (BUY) | 46% | 5.00 | 2.8% | ✅ ganada | +5.73 |

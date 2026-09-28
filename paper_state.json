@@ -1,5 +1,5 @@
 {
-  "bankroll": 33.02753031498791,
+  "bankroll": 39.0339775459179,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32350,6 +32350,16 @@
       "timestamp": 1790554647.9035761,
       "bankroll": 33.03,
       "event": "lost: GoalLineGhost \u2014 Will Racing Club Avellaneda win on 2026-09-27?"
+    },
+    {
+      "timestamp": 1790556126.2935183,
+      "bankroll": 36.54,
+      "event": "won: primm \u2014 Raiders vs. Saints: O/U 47.5"
+    },
+    {
+      "timestamp": 1790556126.5631146,
+      "bankroll": 39.03,
+      "event": "won: primm \u2014 Raiders vs. Saints: O/U 45.5"
     }
   ]
 }
