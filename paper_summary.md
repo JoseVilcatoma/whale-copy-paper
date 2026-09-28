@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 02:25:09 (hora de Perú)
+Actualizado: 2026-09-28 02:27:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.54
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 02:25:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $18.63 en 4 posiciones abiertas (disponible para nuevas apuestas: $20.91)
+**Capital comprometido ahora mismo:** $23.63 en 5 posiciones abiertas (disponible para nuevas apuestas: $15.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -170,7 +170,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
-| RN1 | 700 | 334 | 2 | -40.14 USD |
+| RN1 | 700 | 334 | 3 | -40.14 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1142,6 +1142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | China Open, Qualification: Elvina Kaliev | Elvina Kalieva (BUY) | 99% | 5.00 | 7.8% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Martin Landal | Marco Trungelliti (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Andrea Lazaro | Andrea Lazaro Garcia (BUY) | 60% | 3.63 | 4.4% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 82% | 5.00 | 13.7% | ✅ ganada | +1.05 |
@@ -1171,4 +1172,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Spread: Seahawks (-9.5) | Commanders (BUY) | 54% | 5.00 | 3.5% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Korea Open: Maya Joint vs Kimberly Birre | Maya Joint (BUY) | 43% | 5.00 | 1.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Hangzhou Open: Fabian Marozsan vs Kyrian | Fabian Marozsan (BUY) | 57% | 4.85 | 2.6% | ❌ perdida | -4.95 |
-| ferrariChampions2026 | Chengdu Open: Jenson Brooksby vs Nikoloz | Nikoloz Basilashvili (BUY) | 69% | 5.00 | 41.2% | ✅ ganada | +2.17 |
