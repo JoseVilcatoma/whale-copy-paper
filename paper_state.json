@@ -1,5 +1,5 @@
 {
-  "bankroll": 40.52729473507637,
+  "bankroll": 40.886638821097876,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32485,6 +32485,11 @@
       "timestamp": 1790586620.4342065,
       "bankroll": 40.53,
       "event": "won: RN1 \u2014 Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron"
+    },
+    {
+      "timestamp": 1790586867.4925468,
+      "bankroll": 40.89,
+      "event": "won: RN1 \u2014 China Open, Qualification: Shiyu Ye vs Linda Fruhvirtova"
     }
   ]
 }
