@@ -160301,8 +160301,8 @@
     "title": "China Open, Qualification: Shiyu Ye vs Linda Fruhvirtova",
     "outcome": "Linda Fruhvirtova",
     "side": "BUY",
-    "whale_usd": 574.1008,
-    "whale_pct": 1.053,
+    "whale_usd": 1188.2808,
+    "whale_pct": 2.18,
     "whale_value_at_open": 54496.2088,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -160313,8 +160313,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790582826.1080403,
-    "fills": 1
+    "last_fill_at": 1790584546.7628074,
+    "fills": 2
   },
   {
     "timestamp": 1790583300,
@@ -160325,8 +160325,8 @@
     "title": "Japan Open Tennis Championships, Qualification: Jaume Munar vs Marcos Giron",
     "outcome": "Jaume Munar",
     "side": "BUY",
-    "whale_usd": 5198.462667,
-    "whale_pct": 11.763,
+    "whale_usd": 7070.926667,
+    "whale_pct": 16.0,
     "whale_value_at_open": 44192.7557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -160339,8 +160339,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790583497.8782322,
-    "fills": 2
+    "last_fill_at": 1790584628.687058,
+    "fills": 3
   },
   {
     "timestamp": 1790583300,
