@@ -160351,8 +160351,8 @@
     "title": "China Open, Qualification: Ruien Zhang vs Storm Hunter",
     "outcome": "Storm Hunter",
     "side": "BUY",
-    "whale_usd": 5849.72,
-    "whale_pct": 13.237,
+    "whale_usd": 9543.146,
+    "whale_pct": 21.594,
     "whale_value_at_open": 44192.7557,
     "paper_stake_usd": 4.74,
     "odds_at_bet": 78,
@@ -160363,7 +160363,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790583301.0936663,
-    "fills": 1
+    "last_fill_at": 1790584871.0723329,
+    "fills": 2
   }
 ]
