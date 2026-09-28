@@ -160079,8 +160079,8 @@
     "title": "Japan Open Tennis Championships, Qualification: Arthur Fils vs Martin Damm",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 4080.0,
-    "whale_pct": 1.779,
+    "whale_usd": 13200.0,
+    "whale_pct": 5.756,
     "whale_value_at_open": 229340.2814,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -160093,8 +160093,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790571601.651825,
-    "fills": 1
+    "last_fill_at": 1790571869.9256687,
+    "fills": 3
   },
   {
     "timestamp": 1790571799,
