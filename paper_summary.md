@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 00:26:26 (hora de Perú)
+Actualizado: 2026-09-28 00:28:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $49.86
-**Retorno acumulado:** -90.03%
+**Bankroll actual:** $44.75
+**Retorno acumulado:** -91.05%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 00:26:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $49.66 en 10 posiciones abiertas (disponible para nuevas apuestas: $0.20)
+**Capital comprometido ahora mismo:** $44.66 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | purplegatto | 1 | 0 | 0 | +1.87 USD |
-| takeormake | 1 | 0 | 1 | +1.87 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -114,6 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 11 | 11 | 0 | -2.74 USD |
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| takeormake | 1 | 1 | 0 | -3.24 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 0 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 1 | 0 | -3.93 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6264
+- **Apuestas resueltas:** 6265
 - **Aciertos:** 3955 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,966.01
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $568.98 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30,971.01
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $569.09 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3199 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3200 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1823 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 881 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 361 | 97.2% | 97.4% | -0.1 pp |
@@ -1154,7 +1154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | primm | Spread: Rams (-10.5) | Rams (BUY) | 52% | 3.59 | 4.2% | ❌ perdida | -3.68 |
 | primm | Spread: Rams (-10.5) | Broncos (BUY) | 44% | 5.00 | 4.3% | ✅ ganada | +6.22 |
 | takeormake | Dallas Wings vs. Golden State Valkyries | Golden State Valkyries (BUY) | 72% | 5.00 | 1.6% | ✅ ganada | +1.87 |
-| takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
+| takeormake | Rams vs. Broncos: O/U 43.5 | Under (BUY) | 57% | 5.00 | 1.9% | ❌ perdida | -5.11 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 28.9% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ✅ ganada | +2.86 |
 | Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ✅ ganada | +2.61 |

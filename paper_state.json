@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.856663503732214,
+  "bankroll": 44.74866350373222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32410,6 +32410,11 @@
       "timestamp": 1790571722.5767658,
       "bankroll": 49.86,
       "event": "won: UpTheBlues \u2014 China Open, Qualification: Carol Zhao vs Vivian Wolff"
+    },
+    {
+      "timestamp": 1790573275.6824253,
+      "bankroll": 44.75,
+      "event": "lost: takeormake \u2014 Rams vs. Broncos: O/U 43.5"
     }
   ]
 }
