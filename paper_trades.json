@@ -160567,8 +160567,8 @@
     "title": "Will Japan vs. Venezuela end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5101.63,
-    "whale_pct": 3.44,
+    "whale_usd": 5912.916667,
+    "whale_pct": 3.987,
     "whale_value_at_open": 148309.1293,
     "paper_stake_usd": 4.15,
     "odds_at_bet": 70,
@@ -160579,8 +160579,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790596585.2902958,
-    "fills": 5
+    "last_fill_at": 1790596866.3524885,
+    "fills": 6
   },
   {
     "timestamp": 1790596095,
