@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 00:34:43 (hora de Perú)
+Actualizado: 2026-09-28 00:38:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $44.75
-**Retorno acumulado:** -91.05%
+**Bankroll actual:** $43.63
+**Retorno acumulado:** -91.27%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 00:34:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $44.66 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.09)
+**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
 | UpTheBlues | 72 | 14 | 2 | +47.04 USD |
-| HMLSF | 12 | 1 | 2 | +32.97 USD |
+| HMLSF | 13 | 1 | 1 | +36.63 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -168,9 +168,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
-| RN1 | 697 | 333 | 3 | -37.17 USD |
 | GoalLineGhost | 122 | 56 | 0 | -37.27 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
+| RN1 | 697 | 334 | 2 | -41.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6265
-- **Aciertos:** 3955 (63.1%)
+- **Apuestas resueltas:** 6267
+- **Aciertos:** 3956 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $30,971.01
+- **Total apostado (suma de stakes):** $30,980.67
 - **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $569.09 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $569.31 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3200 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3202 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1823 | 69.1% | 67.9% | +1.1 pp |
 | 80-94% | 881 | 85.5% | 86.6% | -1.1 pp |
 | 95-99% (casi seguro) | 361 | 97.2% | 97.4% | -0.1 pp |
@@ -1143,11 +1143,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Will CF América win on 2026-09-27? | Yes (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Japan Open Tennis Championships, Qualifi | Arthur Fils (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
-| RN1 | Jingshan: Yidi Yang vs Fiona Ferro | Yidi Yang (BUY) | 49% | 4.66 | 0.4% | ⏳ pendiente | — |
+| RN1 | Jingshan: Yidi Yang vs Fiona Ferro | Yidi Yang (BUY) | 49% | 4.66 | 0.4% | ❌ perdida | -4.78 |
 | UpTheBlues | Jingshan: Sara Saito vs Chenting Zhu | Chenting Zhu (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
 | UpTheBlues | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | UpTheBlues | Japan Open Tennis Championships, Qualifi | Martin Damm (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ⏳ pendiente | — |
+| HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ✅ ganada | +3.66 |
 | HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 17.7% | ⏳ pendiente | — |
 | UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ✅ ganada | +1.13 |

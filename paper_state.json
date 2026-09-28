@@ -1,5 +1,5 @@
 {
-  "bankroll": 44.74866350373222,
+  "bankroll": 43.63359332829363,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32415,6 +32415,16 @@
       "timestamp": 1790573275.6824253,
       "bankroll": 44.75,
       "event": "lost: takeormake \u2014 Rams vs. Broncos: O/U 43.5"
+    },
+    {
+      "timestamp": 1790573761.030013,
+      "bankroll": 48.41,
+      "event": "won: HMLSF \u2014 Jingshan: Yidi Yang vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1790573761.4987974,
+      "bankroll": 43.63,
+      "event": "lost: RN1 \u2014 Jingshan: Yidi Yang vs Fiona Ferro"
     }
   ]
 }
