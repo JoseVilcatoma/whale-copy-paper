@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 20:05:36 (hora de Perú)
+Actualizado: 2026-09-27 20:07:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-27 20:05:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $23.05 en 5 posiciones abiertas (disponible para nuevas apuestas: $15.98)
+**Capital comprometido ahora mismo:** $28.05 en 6 posiciones abiertas (disponible para nuevas apuestas: $10.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,6 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -1131,12 +1132,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-damm-hurkacz-2026-09-25 | UpTheBlues, ferrariChampions2026 |
 | atp-bu-majchrz-2026-09-25 | UpTheBlues, ferrariChampions2026 |
 | atp-droguet-prizmic-2026-09-26 | RN1, ferrariChampions2026 |
-| nfl-la-den-2026-09-28 | Elaran1993, ferrariChampions2026 |
+| nfl-la-den-2026-09-28 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465, Elaran1993, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Rams (BUY) | 75% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Rams vs. Broncos | Broncos (BUY) | 51% | 3.05 | 11.1% | ⏳ pendiente | — |
 | Flaznorp | Washington Mystics vs. Atlanta Dream | Atlanta Dream (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Elaran1993 | Rams vs. Broncos | Broncos (BUY) | 51% | 5.00 | 1184.9% | ⏳ pendiente | — |
@@ -1166,4 +1168,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Saint-Quentin vs. Bourg-en-Bresse | Bourg-en-Bresse (BUY) | 96% | 5.00 | 0.1% | ❌ perdida | -5.01 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Northern Illinois vs. Georgia State: O/U | Over (BUY) | 51% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | Flaznorp | Bulgaria vs. Luxembourg: O/U 3.5 | Under (BUY) | 82% | 5.00 | 0.2% | ✅ ganada | +1.05 |
-| RN1 | Illinois vs. Ohio State: O/U 57.5 | Over (BUY) | 51% | 3.13 | 0.5% | ✅ ganada | +2.93 |
