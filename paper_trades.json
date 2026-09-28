@@ -159759,8 +159759,8 @@
     "title": "Rams vs. Broncos",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 152523.5871,
-    "whale_pct": 28.039,
+    "whale_usd": 157301.556138,
+    "whale_pct": 28.918,
     "whale_value_at_open": 543965.6092,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -159774,8 +159774,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790565206.9333463,
-    "fills": 8
+    "last_fill_at": 1790565687.0593824,
+    "fills": 9
   },
   {
     "timestamp": 1790557767,
