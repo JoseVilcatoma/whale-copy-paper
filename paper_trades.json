@@ -160895,5 +160895,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790612578.6763942,
     "fills": 1
+  },
+  {
+    "timestamp": 1790625616,
+    "timestamp_added": 1790625616.8743763,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-zink-krueger-2026-09-28",
+    "title": "Columbus: Tyler Zink vs Mitchell Krueger",
+    "outcome": "Mitchell Krueger",
+    "side": "BUY",
+    "whale_usd": 569.047656,
+    "whale_pct": 0.3,
+    "whale_value_at_open": 189643.6191,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790625616.8743858,
+    "fills": 1
   }
 ]
