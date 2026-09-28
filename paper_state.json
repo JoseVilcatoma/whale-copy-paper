@@ -1,5 +1,5 @@
 {
-  "bankroll": 32.892962584685904,
+  "bankroll": 35.98934353706686,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32580,6 +32580,11 @@
       "timestamp": 1790610679.5507967,
       "bankroll": 32.89,
       "event": "lost: ferrariChampions2026 \u2014 Columbus: Oliver Okonkwo vs Shunsuke Mitsui"
+    },
+    {
+      "timestamp": 1790612536.3783152,
+      "bankroll": 35.99,
+      "event": "won: RN1 \u2014 Porto 2: Michael Mmoh vs Laslo Djere"
     }
   ]
 }
