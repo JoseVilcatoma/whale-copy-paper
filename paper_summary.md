@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 10:23:15 (hora de Perú)
+Actualizado: 2026-09-28 10:25:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $37.95
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |

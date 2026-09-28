@@ -160857,8 +160857,8 @@
     "title": "Will Georgia win on 2026-09-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 840.9983,
-    "whale_pct": 0.595,
+    "whale_usd": 1924.9973,
+    "whale_pct": 1.361,
     "whale_value_at_open": 141418.6275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -160869,7 +160869,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790607295.4634993,
-    "fills": 1
+    "last_fill_at": 1790609028.0246234,
+    "fills": 2
   }
 ]
