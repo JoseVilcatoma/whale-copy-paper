@@ -1,5 +1,5 @@
 {
-  "bankroll": 49.80915845322716,
+  "bankroll": 49.856663503732214,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32405,6 +32405,11 @@
       "timestamp": 1790571534.5741565,
       "bankroll": 49.81,
       "event": "won: UpTheBlues \u2014 Jingshan: Sara Saito vs Chenting Zhu"
+    },
+    {
+      "timestamp": 1790571722.5767658,
+      "bankroll": 49.86,
+      "event": "won: UpTheBlues \u2014 China Open, Qualification: Carol Zhao vs Vivian Wolff"
     }
   ]
 }
