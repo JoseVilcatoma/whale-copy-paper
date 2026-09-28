@@ -159933,8 +159933,8 @@
     "title": "China Open, Qualification: Yufei Ren vs Yexin Ma",
     "outcome": "Yufei Ren",
     "side": "BUY",
-    "whale_usd": 3959.5128,
-    "whale_pct": 8.467,
+    "whale_usd": 8267.1655,
+    "whale_pct": 17.678,
     "whale_value_at_open": 46764.0039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -159945,8 +159945,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790569498.9610412,
-    "fills": 4
+    "last_fill_at": 1790571065.0104425,
+    "fills": 6
   },
   {
     "timestamp": 1790569162,

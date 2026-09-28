@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-27 23:49:23 (hora de Perú)
+Actualizado: 2026-09-27 23:51:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $49.66
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | China Open, Qualification: Yannick Hanfm | Tomas Machac (BUY) | 53% | 5.00 | 1.0% | ⏳ pendiente | — |
 | UpTheBlues | Japan Open Tennis Championships, Qualifi | Martin Damm (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HMLSF | Jingshan: Yidi Yang vs Fiona Ferro | Fiona Ferro (BUY) | 57% | 5.00 | 25.2% | ⏳ pendiente | — |
-| HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 8.5% | ⏳ pendiente | — |
+| HMLSF | China Open, Qualification: Yufei Ren vs  | Yufei Ren (BUY) | 52% | 5.00 | 17.7% | ⏳ pendiente | — |
 | UpTheBlues | China Open, Qualification: Carol Zhao vs | Vivian Wolff (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Rams vs. Broncos | Broncos (BUY) | 81% | 5.00 | 6.9% | ✅ ganada | +1.13 |
 | primm | Spread: Rams (-10.5) | Rams (BUY) | 52% | 3.59 | 4.2% | ❌ perdida | -3.68 |
