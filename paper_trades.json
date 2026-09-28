@@ -160423,8 +160423,8 @@
     "title": "Japan vs. Venezuela: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2308.0017000000003,
-    "whale_pct": 2.492,
+    "whale_usd": 5901.0051,
+    "whale_pct": 6.372,
     "whale_value_at_open": 92611.453,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -160435,8 +160435,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790589383.918838,
-    "fills": 2
+    "last_fill_at": 1790595453.9866047,
+    "fills": 5
   },
   {
     "timestamp": 1790587714,

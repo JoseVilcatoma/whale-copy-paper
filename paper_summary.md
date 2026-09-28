@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 06:36:31 (hora de Perú)
+Actualizado: 2026-09-28 06:38:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $42.78
@@ -1150,7 +1150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ✅ ganada | +0.47 |
 | RN1 | Japan Open Tennis Championships, Qualifi | Lorenzo Sonego (BUY) | 44% | 2.52 | 0.8% | ❌ perdida | -2.59 |
 | RN1 | Adana: Emiliana Arango vs Anna Blinkova | Anna Blinkova (BUY) | 64% | 5.00 | 11.7% | ✅ ganada | +2.72 |
-| GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 2.5% | ⏳ pendiente | — |
+| GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 6.4% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 8.8% | ⏳ pendiente | — |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ⏳ pendiente | — |
 | RN1 | China Open, Qualification: Ruien Zhang v | Storm Hunter (BUY) | 78% | 4.74 | 38.7% | ✅ ganada | +1.28 |
