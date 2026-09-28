@@ -1,5 +1,5 @@
 {
-  "bankroll": 37.947962584685904,
+  "bankroll": 32.892962584685904,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32575,6 +32575,11 @@
       "timestamp": 1790607267.6308732,
       "bankroll": 37.95,
       "event": "won: RN1 \u2014 Porto 2: Max Basing vs Mili Poljicak"
+    },
+    {
+      "timestamp": 1790610679.5507967,
+      "bankroll": 32.89,
+      "event": "lost: ferrariChampions2026 \u2014 Columbus: Oliver Okonkwo vs Shunsuke Mitsui"
     }
   ]
 }
