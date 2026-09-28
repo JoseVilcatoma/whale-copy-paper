@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 18:11:12 (hora de Perú)
+Actualizado: 2026-09-28 18:13:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.67
@@ -1147,7 +1147,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 4.8% | ⏳ pendiente | — |
-| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 57.0% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 66.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 23.4% | ❌ perdida | -3.33 |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |
