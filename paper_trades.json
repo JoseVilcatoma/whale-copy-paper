@@ -161161,5 +161161,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790654448.6454632,
     "fills": 1
+  },
+  {
+    "timestamp": 1790659216,
+    "timestamp_added": 1790659216.9870408,
+    "username": "raybanman",
+    "wallet": "0xcbc666209b4c17ea84c03c0dda71b5dab9e4ec62",
+    "slug": "atp-trungel-molcan-2026-09-28",
+    "title": "China Open, Qualification: Marco Trungelliti vs Alex Molcan",
+    "outcome": "Alex Molcan",
+    "side": "BUY",
+    "whale_usd": 22878.9332,
+    "whale_pct": 13.292,
+    "whale_value_at_open": 172127.4613,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790659216.9870539,
+    "fills": 1
   }
 ]
