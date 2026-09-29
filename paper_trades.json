@@ -161233,5 +161233,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790664501.1766753,
     "fills": 1
+  },
+  {
+    "timestamp": 1790667480,
+    "timestamp_added": 1790667481.0516226,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "fif-aus-bra-2026-09-29-total-2pt5",
+    "title": "Australia vs. Brazil: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 561.3,
+    "whale_pct": 0.657,
+    "whale_value_at_open": 85438.0168,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790667481.051635,
+    "fills": 1
   }
 ]

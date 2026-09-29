@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 02:37:35 (hora de Perú)
+Actualizado: 2026-09-29 02:39:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.35
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 02:37:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $9.35)
+**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $4.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -171,7 +171,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
-| GoalLineGhost | 127 | 58 | 2 | -39.95 USD |
+| GoalLineGhost | 127 | 58 | 3 | -39.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1146,6 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3)  | G2 Esports (BUY) | 43% | 5.00 | 12.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Australia win on 2026-09-29? | No (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
 | raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ✅ ganada | +1.13 |
@@ -1175,4 +1176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 4.0% | ✅ ganada | +1.72 |
 | RN1 | Bari: Federico Arnaboldi vs Svyatoslav G | Federico Arnaboldi (BUY) | 79% | 5.00 | 7.2% | ✅ ganada | +1.28 |
-| RN1 | Counter-Strike: magic vs GamerLegion - M | GamerLegion (BUY) | 69% | 5.00 | 2.6% | ✅ ganada | +2.17 |
