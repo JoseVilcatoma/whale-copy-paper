@@ -161329,5 +161329,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790680747.6398838,
     "fills": 1
+  },
+  {
+    "timestamp": 1790682701,
+    "timestamp_added": 1790682702.0054436,
+    "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-chc-sd-2026-09-29",
+    "title": "Chicago Cubs vs. San Diego Padres",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 6438.204000000001,
+    "whale_pct": 15.543,
+    "whale_value_at_open": 41421.0092,
+    "paper_stake_usd": 2.44,
+    "odds_at_bet": 46,
+    "fee_usd": 0.066,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790682702.0054524,
+    "fills": 1
   }
 ]

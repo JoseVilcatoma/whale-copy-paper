@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 06:51:00 (hora de Perú)
+Actualizado: 2026-09-29 06:53:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $42.44
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 06:51:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $2.44)
+**Capital comprometido ahora mismo:** $42.44 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -152,7 +152,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| SDTrading | 41 | 39 | 0 | -10.78 USD |
+| SDTrading | 41 | 39 | 1 | -10.78 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
@@ -1146,6 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
 | GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
@@ -1175,4 +1176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Porto 2: Benjamin Bonzi vs August Holmgr | August Holmgren (BUY) | 52% | 3.32 | 3.8% | ✅ ganada | +2.98 |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Sh | Denis Shapovalov (BUY) | 72% | 5.00 | 0.6% | ❌ perdida | -5.07 |
 | RN1 | Will Japan vs. Venezuela end in a draw? | Yes (BUY) | 70% | 5.00 | 0.3% | ❌ perdida | -5.08 |
-| RN1 | Counter-Strike: magic vs GamerLegion - M | magic (BUY) | 43% | 4.36 | 1.6% | ❌ perdida | -4.48 |
