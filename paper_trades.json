@@ -161535,8 +161535,8 @@
     "title": "Panthers vs. Hurricanes",
     "outcome": "Hurricanes",
     "side": "BUY",
-    "whale_usd": 12013.796161999999,
-    "whale_pct": 3.742,
+    "whale_usd": 16526.616162,
+    "whale_pct": 5.148,
     "whale_value_at_open": 321036.4887,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -161547,7 +161547,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790723285.8682377,
-    "fills": 2
+    "last_fill_at": 1790723569.6882796,
+    "fills": 3
   }
 ]
