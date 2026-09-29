@@ -161501,5 +161501,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790702547.3014905,
     "fills": 4
+  },
+  {
+    "timestamp": 1790722429,
+    "timestamp_added": 1790722429.9645135,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-las-ind-2026-09-29",
+    "title": "Las Vegas Aces vs. Indiana Fever",
+    "outcome": "Indiana Fever",
+    "side": "BUY",
+    "whale_usd": 1220.1975000000002,
+    "whale_pct": 0.401,
+    "whale_value_at_open": 303985.6859,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790722429.964528,
+    "fills": 1
   }
 ]

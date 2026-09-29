@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 17:52:18 (hora de Perú)
+Actualizado: 2026-09-29 17:54:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $35.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 17:52:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $29.51 en 7 posiciones abiertas (disponible para nuevas apuestas: $5.52)
+**Capital comprometido ahora mismo:** $34.51 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
-| wr0ngw4yb3tt0r | 118 | 88 | 1 | +8.23 USD |
+| wr0ngw4yb3tt0r | 118 | 88 | 2 | +8.23 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -1148,6 +1148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Jsram | Will Switzerland win on 2026-09-29? | No (BUY) | 49% | 3.81 | 2.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
@@ -1177,4 +1178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Latvia win on 2026-09-28? | No (BUY) | 66% | 3.97 | 0.9% | ✅ ganada | +1.98 |
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ❌ perdida | -5.05 |
