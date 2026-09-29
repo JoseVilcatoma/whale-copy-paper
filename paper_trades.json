@@ -161487,8 +161487,8 @@
     "title": "Will Switzerland win on 2026-09-29?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2872.615385,
-    "whale_pct": 2.252,
+    "whale_usd": 3501.23077,
+    "whale_pct": 2.745,
     "whale_value_at_open": 127538.2636,
     "paper_stake_usd": 3.81,
     "odds_at_bet": 49,
@@ -161499,7 +161499,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790702054.2286105,
-    "fills": 3
+    "last_fill_at": 1790702547.3014905,
+    "fills": 4
   }
 ]
