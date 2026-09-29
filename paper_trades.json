@@ -161089,5 +161089,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790640781.179274,
     "fills": 16
+  },
+  {
+    "timestamp": 1790652892,
+    "timestamp_added": 1790652893.2046807,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "conl-gua-slv-2026-09-28-total-6pt5",
+    "title": "Guatemala vs. El Salvador: O/U 6.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 519.89,
+    "whale_pct": 0.259,
+    "whale_value_at_open": 201113.4923,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790652893.204693,
+    "fills": 1
   }
 ]

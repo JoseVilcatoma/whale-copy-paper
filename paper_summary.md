@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 22:34:11 (hora de Perú)
+Actualizado: 2026-09-28 22:36:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $43.25
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 22:34:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $28.25)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $23.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -167,7 +167,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| GoalLineGhost | 126 | 57 | 0 | -34.93 USD |
+| GoalLineGhost | 126 | 57 | 1 | -34.93 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
@@ -1145,6 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Guatemala vs. El Salvador: O/U 6.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 6.9% | ✅ ganada | +3.52 |
 | gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -1174,4 +1175,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Adana: Emiliana Arango vs Anna Blinkova | Anna Blinkova (BUY) | 64% | 5.00 | 11.7% | ✅ ganada | +2.72 |
 | GoalLineGhost | Japan vs. Venezuela: O/U 2.5 | Over (BUY) | 59% | 5.00 | 6.4% | ✅ ganada | +3.37 |
 | RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Alejandro Davidovich Fokina (BUY) | 52% | 5.00 | 8.8% | ✅ ganada | +4.50 |
-| RN1 | Chengdu Open: Nikoloz Basilashvili vs Al | Nikoloz Basilashvili (BUY) | 48% | 5.00 | 8.9% | ❌ perdida | -5.13 |
