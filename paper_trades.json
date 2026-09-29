@@ -161477,5 +161477,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790701371.9552891,
     "fills": 1
+  },
+  {
+    "timestamp": 1790701993,
+    "timestamp_added": 1790701993.9091678,
+    "username": "Jsram",
+    "wallet": "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223",
+    "slug": "unl-sco-che-2026-09-29-che",
+    "title": "Will Switzerland win on 2026-09-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2872.615385,
+    "whale_pct": 2.252,
+    "whale_value_at_open": 127538.2636,
+    "paper_stake_usd": 3.81,
+    "odds_at_bet": 49,
+    "fee_usd": 0.097,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790702054.2286105,
+    "fills": 3
   }
 ]
