@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 01:47:19 (hora de Perú)
+Actualizado: 2026-09-29 01:49:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.35
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 01:47:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $25.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $14.35)
+**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $9.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
-| Diabolical-Prize | 14 | 8 | 0 | +24.21 USD |
+| Diabolical-Prize | 14 | 8 | 1 | +24.21 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
@@ -1146,6 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3)  | G2 Esports (BUY) | 43% | 5.00 | 12.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Australia win on 2026-09-29? | No (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
 | raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ✅ ganada | +1.13 |
 | GoalLineGhost | Will San Marino win on 2026-09-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -1175,4 +1176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Japan vs. Venezuela end in a draw? | No (BUY) | 70% | 4.15 | 4.0% | ✅ ganada | +1.72 |
 | RN1 | Bari: Federico Arnaboldi vs Svyatoslav G | Federico Arnaboldi (BUY) | 79% | 5.00 | 7.2% | ✅ ganada | +1.28 |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | GamerLegion (BUY) | 69% | 5.00 | 2.6% | ✅ ganada | +2.17 |
-| RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ✅ ganada | +0.47 |

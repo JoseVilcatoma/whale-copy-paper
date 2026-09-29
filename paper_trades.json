@@ -161209,5 +161209,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790663339.1212978,
     "fills": 1
+  },
+  {
+    "timestamp": 1790664500,
+    "timestamp_added": 1790664501.1766636,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "val-g21-pr1-2026-09-29",
+    "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 2910.5832,
+    "whale_pct": 12.844,
+    "whale_value_at_open": 22660.2877,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790664501.1766753,
+    "fills": 1
   }
 ]
