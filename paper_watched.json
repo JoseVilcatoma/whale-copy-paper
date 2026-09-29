@@ -2,13 +2,13 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
     "added_at": 1790545475.4719307,
-    "roi_pct": 313.76,
+    "roi_pct": 393.45,
     "short_term_pct": 100.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
     "added_at": 1790602350.522725,
-    "roi_pct": 2871.15,
+    "roi_pct": 2381.49,
     "short_term_pct": 100.0
   },
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
@@ -20,7 +20,7 @@
   "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
     "username": "bands1",
     "added_at": 1790609508.6978323,
-    "roi_pct": 1217.93,
+    "roi_pct": 1013.92,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -32,31 +32,31 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1790619814.641245,
-    "roi_pct": 665.36,
+    "roi_pct": 530.7,
     "short_term_pct": 100.0
   },
   "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563": {
     "username": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
     "added_at": 1790631247.1085498,
-    "roi_pct": 340.2,
+    "roi_pct": 245.41,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1790635890.303348,
-    "roi_pct": 1426.47,
+    "roi_pct": 580.03,
     "short_term_pct": 100.0
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
     "username": "Jsram",
     "added_at": 1790638680.808245,
-    "roi_pct": 307.64,
+    "roi_pct": 307.19,
     "short_term_pct": 100.0
   },
   "0x054964a95e2cb3fc2105a62a1edf3da44979c052": {
     "username": "COMEONDUDE",
     "added_at": 1790640537.7977242,
-    "roi_pct": 563.24,
+    "roi_pct": 465.67,
     "short_term_pct": 100.0
   }
 }
