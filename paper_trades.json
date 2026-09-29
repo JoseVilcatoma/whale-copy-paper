@@ -161453,5 +161453,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790697244.827449,
     "fills": 1
+  },
+  {
+    "timestamp": 1790701370,
+    "timestamp_added": 1790701371.9552789,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-phi-atl-2026-09-29-f5-total-3pt5",
+    "title": "Philadelphia Phillies vs. Atlanta Braves: 1st 5 Innings O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 722.6600000000001,
+    "whale_pct": 2.022,
+    "whale_value_at_open": 35746.065,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790701371.9552891,
+    "fills": 1
   }
 ]

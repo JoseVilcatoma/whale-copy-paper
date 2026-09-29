@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 12:01:57 (hora de Perú)
+Actualizado: 2026-09-29 12:04:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $39.51
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 12:01:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.70 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.81)
+**Capital comprometido ahora mismo:** $35.70 en 8 posiciones abiertas (disponible para nuevas apuestas: $3.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
 | Diabolical-Prize | 14 | 10 | 0 | +13.94 USD |
-| wr0ngw4yb3tt0r | 118 | 87 | 1 | +13.36 USD |
+| wr0ngw4yb3tt0r | 118 | 87 | 2 | +13.36 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Elaran1993 | 5 | 1 | 0 | +12.62 USD |
@@ -1148,6 +1148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
 | gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ✅ ganada | +3.82 |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
@@ -1177,4 +1178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will France win on 2026-09-28? | No (BUY) | 49% | 5.00 | 11.2% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Columbus: Oliver Okonkwo vs Shunsuke Mit | Shunsuke Mitsui (BUY) | 78% | 5.00 | 0.6% | ❌ perdida | -5.05 |
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ✅ ganada | +3.10 |
-| RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ✅ ganada | +1.69 |
