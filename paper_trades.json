@@ -161281,5 +161281,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790668639.2249193,
     "fills": 2
+  },
+  {
+    "timestamp": 1790672653,
+    "timestamp_added": 1790672654.3452513,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "wta-kenin-krueger-2026-09-29",
+    "title": "China Open: Sofia Kenin vs Ashlyn Krueger",
+    "outcome": "Sofia Kenin",
+    "side": "BUY",
+    "whale_usd": 3688.97,
+    "whale_pct": 47.115,
+    "whale_value_at_open": 7829.7712,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790672654.345263,
+    "fills": 1
   }
 ]
