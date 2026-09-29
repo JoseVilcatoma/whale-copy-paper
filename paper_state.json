@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.34918171500027,
+  "bankroll": 41.04093847175703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32660,6 +32660,11 @@
       "timestamp": 1790663339.3499386,
       "bankroll": 39.35,
       "event": "won: raybanman \u2014 China Open, Qualification: Marco Trungelliti vs Alex Molcan"
+    },
+    {
+      "timestamp": 1790671967.8151164,
+      "bankroll": 41.04,
+      "event": "won: ferrariChampions2026 \u2014 W100 Templeton, CA: Ekaterina Maklakova vs Jenna DeFalco"
     }
   ]
 }
