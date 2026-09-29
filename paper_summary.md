@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 11:51:38 (hora de Perú)
+Actualizado: 2026-09-29 11:53:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $35.70
-**Retorno acumulado:** -92.86%
+**Bankroll actual:** $39.51
+**Retorno acumulado:** -92.10%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 11:51:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.70 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $30.70 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 13 | 8 | 0 | +4.11 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| gvrgb326552g65 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
 | TheMafiaa | 2 | 1 | 0 | +3.35 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -96,7 +97,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| gvrgb326552g65 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6319
-- **Aciertos:** 3991 (63.2%)
+- **Apuestas resueltas:** 6320
+- **Aciertos:** 3992 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,227.24
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $573.23 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,232.24
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $573.34 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3224 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3225 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1839 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 892 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 364 | 97.3% | 97.4% | -0.1 pp |
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
-| gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ⏳ pendiente | — |
+| gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ✅ ganada | +3.82 |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |

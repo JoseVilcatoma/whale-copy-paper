@@ -1,5 +1,5 @@
 {
-  "bankroll": 35.69557436864703,
+  "bankroll": 39.51414579721846,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32695,6 +32695,11 @@
       "timestamp": 1790695911.0114317,
       "bankroll": 35.7,
       "event": "lost: Diabolical-Prize \u2014 Dota 2: 1win vs Natus Vincere - Game 2 Winner"
+    },
+    {
+      "timestamp": 1790700737.186149,
+      "bankroll": 39.51,
+      "event": "won: gvrgb326552g65 \u2014 Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B"
     }
   ]
 }
