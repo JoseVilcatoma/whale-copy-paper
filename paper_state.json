@@ -1,5 +1,5 @@
 {
-  "bankroll": 40.86516527773794,
+  "bankroll": 40.82357436864703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32685,6 +32685,11 @@
       "timestamp": 1790691154.1248193,
       "bankroll": 40.87,
       "event": "won: GoalLineGhost \u2014 Australia vs. Brazil: O/U 2.5"
+    },
+    {
+      "timestamp": 1790695565.6943648,
+      "bankroll": 40.82,
+      "event": "venta anticipada: Sunshine.Smile \u2014 Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B (-0.04 USD)"
     }
   ]
 }

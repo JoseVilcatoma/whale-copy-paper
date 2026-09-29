@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 10:25:06 (hora de Perú)
+Actualizado: 2026-09-29 10:27:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $40.87
-**Retorno acumulado:** -91.83%
+**Bankroll actual:** $40.82
+**Retorno acumulado:** -91.84%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 10:25:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.44 en 8 posiciones abiertas (disponible para nuevas apuestas: $3.43)
+**Capital comprometido ahora mismo:** $32.44 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | bands1 | 4 | 2 | 0 | +5.99 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
-| Sunshine.Smile | 13 | 7 | 1 | +4.15 USD |
+| Sunshine.Smile | 13 | 8 | 0 | +4.11 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | fRibrenlc | 5 | 1 | 0 | +3.59 USD |
@@ -1146,7 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | ⏳ pendiente | — |
+| Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
 | GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
