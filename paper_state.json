@@ -1,5 +1,5 @@
 {
-  "bankroll": 38.17583715832238,
+  "bankroll": 38.22334220882743,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32650,6 +32650,11 @@
       "timestamp": 1790661429.8376062,
       "bankroll": 38.18,
       "event": "lost: GoalLineGhost \u2014 Guatemala vs. El Salvador: O/U 4.5"
+    },
+    {
+      "timestamp": 1790661553.7656007,
+      "bankroll": 38.22,
+      "event": "won: GoalLineGhost \u2014 Guatemala vs. El Salvador: O/U 6.5"
     }
   ]
 }
