@@ -1,5 +1,5 @@
 {
-  "bankroll": 37.29393847175703,
+  "bankroll": 40.86516527773794,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32675,6 +32675,16 @@
       "timestamp": 1790684650.4029918,
       "bankroll": 37.29,
       "event": "lost: Diabolical-Prize \u2014 Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C"
+    },
+    {
+      "timestamp": 1790691153.8130116,
+      "bankroll": 37.77,
+      "event": "won: GoalLineGhost \u2014 Will Australia win on 2026-09-29?"
+    },
+    {
+      "timestamp": 1790691154.1248193,
+      "bankroll": 40.87,
+      "event": "won: GoalLineGhost \u2014 Australia vs. Brazil: O/U 2.5"
     }
   ]
 }

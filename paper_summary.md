@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 09:11:05 (hora de Perú)
+Actualizado: 2026-09-29 09:13:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $37.29
-**Retorno acumulado:** -92.54%
+**Bankroll actual:** $40.87
+**Retorno acumulado:** -91.83%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 09:11:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $37.44 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $27.44 en 6 posiciones abiertas (disponible para nuevas apuestas: $13.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -168,10 +168,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| GoalLineGhost | 129 | 58 | 2 | -36.38 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
-| GoalLineGhost | 127 | 58 | 4 | -39.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -179,14 +179,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6316
-- **Aciertos:** 3989 (63.2%)
+- **Apuestas resueltas:** 6318
+- **Aciertos:** 3991 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,212.24
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $572.98 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,222.24
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $573.10 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,8 +195,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3223 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 1838 | 69.1% | 68.0% | +1.1 pp |
-| 80-94% | 891 | 85.4% | 86.6% | -1.2 pp |
+| 60-79% | 1839 | 69.1% | 68.0% | +1.1 pp |
+| 80-94% | 892 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 364 | 97.3% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1150,9 +1150,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
-| GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3)  | G2 Esports (BUY) | 43% | 5.00 | 811.4% | ❌ perdida | -5.14 |
-| GoalLineGhost | Will Australia win on 2026-09-29? | No (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
+| GoalLineGhost | Will Australia win on 2026-09-29? | No (BUY) | 91% | 5.00 | 0.7% | ✅ ganada | +0.47 |
 | raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ✅ ganada | +1.13 |
 | GoalLineGhost | Will San Marino win on 2026-09-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Guatemala vs. El Salvador: O/U 4.5 | Under (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
