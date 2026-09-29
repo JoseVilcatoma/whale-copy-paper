@@ -1,5 +1,5 @@
 {
-  "bankroll": 35.08046902954169,
+  "bankroll": 31.17346902954169,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32715,6 +32715,11 @@
       "timestamp": 1790722918.0454233,
       "bankroll": 35.08,
       "event": "won: GoalLineGhost \u2014 Will San Marino win on 2026-09-29?"
+    },
+    {
+      "timestamp": 1790723230.2585833,
+      "bankroll": 31.17,
+      "event": "lost: Jsram \u2014 Will Switzerland win on 2026-09-29?"
     }
   ]
 }
