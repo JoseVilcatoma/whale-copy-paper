@@ -1,5 +1,5 @@
 {
-  "bankroll": 31.594613810427592,
+  "bankroll": 43.24583715832238,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32630,6 +32630,21 @@
       "timestamp": 1790639415.1001194,
       "bankroll": 31.59,
       "event": "venta anticipada: gmpm2 \u2014 1H Spread: Eagles (-2.5) (-0.43 USD)"
+    },
+    {
+      "timestamp": 1790652795.153387,
+      "bankroll": 35.41,
+      "event": "won: bands1 \u2014 Spread: Eagles (-4.5)"
+    },
+    {
+      "timestamp": 1790652795.5085187,
+      "bankroll": 39.73,
+      "event": "won: Diabolical-Prize \u2014 Spread: Eagles (-3.5)"
+    },
+    {
+      "timestamp": 1790652796.2587378,
+      "bankroll": 43.25,
+      "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Spread: Eagles (-5.5)"
     }
   ]
 }

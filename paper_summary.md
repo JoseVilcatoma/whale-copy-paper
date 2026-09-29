@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 22:32:07 (hora de Perú)
+Actualizado: 2026-09-28 22:34:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $31.59
-**Retorno acumulado:** -93.68%
+**Bankroll actual:** $43.25
+**Retorno acumulado:** -91.35%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-28 22:32:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.00 en 6 posiciones abiertas (disponible para nuevas apuestas: $1.59)
+**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $28.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,8 +34,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | ChonkyChocolateCake | 49 | 30 | 0 | +24.77 USD |
 | monkeymashingkeyboard | 17 | 9 | 0 | +24.63 USD |
+| Diabolical-Prize | 14 | 8 | 0 | +24.21 USD |
 |  | 40 | 31 | 0 | +21.84 USD |
-| Diabolical-Prize | 13 | 8 | 1 | +19.89 USD |
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
 | wr0ngw4yb3tt0r | 118 | 87 | 0 | +13.36 USD |
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kkookkoo | 4 | 1 | 0 | +6.31 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| bands1 | 4 | 2 | 0 | +5.99 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 |  | 2 | 1 | 0 | +3.99 USD |
@@ -75,7 +76,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | xifutloong3 | 1 | 0 | 0 | +2.38 USD |
 | hurrican | 2 | 0 | 0 | +2.23 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
-| bands1 | 3 | 2 | 1 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | purplegatto | 1 | 0 | 0 | +1.87 USD |
@@ -136,6 +136,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TKD44 | 0 | 1 | 0 | -5.14 USD |
 | taylorsversion | 0 | 1 | 0 | -5.15 USD |
 | Devs777 | 1 | 2 | 0 | -5.18 USD |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 2 | 2 | 0 | -5.48 USD |
 | maz26 | 0 | 2 | 0 | -5.56 USD |
 | TAIWANNUMBERONE | 40 | 30 | 0 | -5.59 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 105 | 68 | 0 | -5.62 USD |
@@ -145,7 +146,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | 1 | 2 | 1 | -9.00 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -178,14 +178,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6307
-- **Aciertos:** 3982 (63.1%)
+- **Apuestas resueltas:** 6310
+- **Aciertos:** 3985 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,167.89
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $572.27 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,182.89
+- **ROI sobre lo apostado:** -1.87%
+- **Comisiones pagadas (taker fee):** $572.60 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3219 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3222 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1835 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 890 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 363 | 97.2% | 97.4% | -0.1 pp |
@@ -1145,13 +1145,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 6.9% | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 6.9% | ✅ ganada | +3.52 |
 | gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 4.8% | ✅ ganada | +0.36 |
-| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 141.3% | ⏳ pendiente | — |
+| Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 141.3% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 23.4% | ❌ perdida | -3.33 |
-| bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ⏳ pendiente | — |
+| bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
 | GoalLineGhost | Will Georgia win on 2026-09-28? | Yes (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
