@@ -1,5 +1,5 @@
 {
-  "bankroll": 35.03296397903664,
+  "bankroll": 35.08046902954169,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32710,6 +32710,11 @@
       "timestamp": 1790722301.915055,
       "bankroll": 35.03,
       "event": "won: GoalLineGhost \u2014 Spain vs. Croatia: O/U 1.5"
+    },
+    {
+      "timestamp": 1790722918.0454233,
+      "bankroll": 35.08,
+      "event": "won: GoalLineGhost \u2014 Will San Marino win on 2026-09-29?"
     }
   ]
 }
