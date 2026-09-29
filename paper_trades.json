@@ -161171,8 +161171,8 @@
     "title": "China Open, Qualification: Marco Trungelliti vs Alex Molcan",
     "outcome": "Alex Molcan",
     "side": "BUY",
-    "whale_usd": 22878.9332,
-    "whale_pct": 13.292,
+    "whale_usd": 57645.1252,
+    "whale_pct": 33.49,
     "whale_value_at_open": 172127.4613,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -161183,7 +161183,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790659216.9870539,
-    "fills": 1
+    "last_fill_at": 1790659336.6240482,
+    "fills": 3
   }
 ]

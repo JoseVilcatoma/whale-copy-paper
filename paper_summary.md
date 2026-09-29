@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 00:20:59 (hora de Perú)
+Actualizado: 2026-09-29 00:23:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $43.25
@@ -1146,7 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 13.3% | ⏳ pendiente | — |
+| raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will San Marino win on 2026-09-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Guatemala vs. El Salvador: O/U 4.5 | Under (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Guatemala vs. El Salvador: O/U 6.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
