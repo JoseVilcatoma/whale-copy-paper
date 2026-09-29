@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 17:50:17 (hora de Perú)
+Actualizado: 2026-09-29 17:52:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $34.38
-**Retorno acumulado:** -93.12%
+**Bankroll actual:** $35.03
+**Retorno acumulado:** -92.99%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 17:50:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $34.51 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $29.51 en 7 posiciones abiertas (disponible para nuevas apuestas: $5.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -169,7 +169,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 19 | 21 | 0 | -26.58 USD |
 | Zzzz87 | 4 | 8 | 0 | -30.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| GoalLineGhost | 129 | 58 | 2 | -36.38 USD |
+| GoalLineGhost | 130 | 58 | 1 | -35.73 USD |
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
@@ -180,13 +180,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6321
-- **Aciertos:** 3992 (63.2%)
+- **Apuestas resueltas:** 6322
+- **Aciertos:** 3993 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,237.24
-- **ROI sobre lo apostado:** -1.90%
-- **Comisiones pagadas (taker fee):** $573.47 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,242.24
+- **ROI sobre lo apostado:** -1.89%
+- **Comisiones pagadas (taker fee):** $573.50 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -197,7 +197,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3226 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1839 | 69.1% | 68.0% | +1.1 pp |
-| 80-94% | 892 | 85.4% | 86.6% | -1.2 pp |
+| 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 364 | 97.3% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1155,7 +1155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
-| GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
+| GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
 | GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
