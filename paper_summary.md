@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 10:27:09 (hora de Perú)
+Actualizado: 2026-09-29 10:29:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $40.82
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 10:27:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $32.44 en 7 posiciones abiertas (disponible para nuevas apuestas: $8.38)
+**Capital comprometido ahora mismo:** $37.44 en 8 posiciones abiertas (disponible para nuevas apuestas: $3.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,6 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
+| gvrgb326552g65 | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -1141,11 +1142,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-landalu-trungel-2026-09-28 | RN1, ferrariChampions2026 |
 | atp-munar-giron-2026-09-27 | RN1, ferrariChampions2026 |
 | fif-jpn-ven-2026-09-28-draw | GoalLineGhost, RN1 |
+| dota2-1win-navi-2026-09-29 | Sunshine.Smile, gvrgb326552g65 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 5.2% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
@@ -1175,4 +1178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Porto 2: Michael Mmoh vs Laslo Djere | Laslo Djere (BUY) | 42% | 2.29 | 6.1% | ✅ ganada | +3.10 |
 | RN1 | Porto 2: Max Basing vs Mili Poljicak | Mili Poljicak (BUY) | 74% | 5.00 | 9.1% | ✅ ganada | +1.69 |
 | GoalLineGhost | Will Kyrgyz Republic win on 2026-09-28? | Yes (BUY) | 92% | 5.00 | 0.3% | ✅ ganada | +0.41 |
-| RN1 | Porto 2: Benjamin Bonzi vs August Holmgr | August Holmgren (BUY) | 52% | 3.32 | 3.8% | ✅ ganada | +2.98 |

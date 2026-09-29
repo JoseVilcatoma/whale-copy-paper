@@ -161403,5 +161403,31 @@
     "fills": 2,
     "fee_total_usd": 0.223,
     "closed_price": 57
+  },
+  {
+    "timestamp": 1790695741,
+    "timestamp_added": 1790695742.7625651,
+    "username": "gvrgb326552g65",
+    "wallet": "0x676c1bb692c76b57b06f1b93817515acfa5ce139",
+    "slug": "dota2-1win-navi-2026-09-29",
+    "title": "Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B",
+    "outcome": "1win",
+    "side": "BUY",
+    "whale_usd": 540.1303300000001,
+    "whale_pct": 5.178,
+    "whale_value_at_open": 10430.9868,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sunshine.Smile"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790695742.7625892,
+    "fills": 1
   }
 ]
