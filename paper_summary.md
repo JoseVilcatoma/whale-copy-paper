@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 06:18:01 (hora de Perú)
+Actualizado: 2026-09-29 06:20:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $42.44
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 06:18:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $7.44)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $2.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -171,7 +171,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
-| GoalLineGhost | 127 | 58 | 3 | -39.95 USD |
+| GoalLineGhost | 127 | 58 | 4 | -39.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -1146,6 +1146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
 | GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -1175,4 +1176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Chengdu Open: Hubert Hurkacz vs Denis Sh | Denis Shapovalov (BUY) | 72% | 5.00 | 0.6% | ❌ perdida | -5.07 |
 | RN1 | Will Japan vs. Venezuela end in a draw? | Yes (BUY) | 70% | 5.00 | 0.3% | ❌ perdida | -5.08 |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | magic (BUY) | 43% | 4.36 | 1.6% | ❌ perdida | -4.48 |
-| RN1 | Will Japan win on 2026-09-28? | No (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |

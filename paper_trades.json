@@ -161305,5 +161305,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790672654.345263,
     "fills": 1
+  },
+  {
+    "timestamp": 1790680747,
+    "timestamp_added": 1790680747.6398733,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-esp-hrv-2026-09-29-total-1pt5",
+    "title": "Spain vs. Croatia: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 729.832858,
+    "whale_pct": 0.604,
+    "whale_value_at_open": 120871.2018,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790680747.6398838,
+    "fills": 1
   }
 ]
