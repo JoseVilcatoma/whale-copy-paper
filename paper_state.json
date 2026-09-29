@@ -1,5 +1,5 @@
 {
-  "bankroll": 39.51414579721846,
+  "bankroll": 34.38114579721846,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32700,6 +32700,11 @@
       "timestamp": 1790700737.186149,
       "bankroll": 39.51,
       "event": "won: gvrgb326552g65 \u2014 Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B"
+    },
+    {
+      "timestamp": 1790711893.838198,
+      "bankroll": 34.38,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Philadelphia Phillies vs. Atlanta Braves: 1st 5 Innings O/U 3.5"
     }
   ]
 }

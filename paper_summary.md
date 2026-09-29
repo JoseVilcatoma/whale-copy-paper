@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 14:57:55 (hora de Perú)
+Actualizado: 2026-09-29 14:59:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $39.51
-**Retorno acumulado:** -92.10%
+**Bankroll actual:** $34.38
+**Retorno acumulado:** -93.12%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 14:57:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $39.51 en 9 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $34.51 en 8 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | tikstt | 7 | 2 | 0 | +19.21 USD |
 | primm | 4 | 1 | 0 | +15.31 USD |
 | Diabolical-Prize | 14 | 10 | 0 | +13.94 USD |
-| wr0ngw4yb3tt0r | 118 | 87 | 2 | +13.36 USD |
 | zofgkt1111 | 17 | 11 | 0 | +13.06 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Elaran1993 | 5 | 1 | 0 | +12.62 USD |
@@ -52,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
+| wr0ngw4yb3tt0r | 118 | 88 | 1 | +8.23 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | us391 | 1 | 0 | 1 | +6.48 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6320
+- **Apuestas resueltas:** 6321
 - **Aciertos:** 3992 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,232.24
-- **ROI sobre lo apostado:** -1.88%
-- **Comisiones pagadas (taker fee):** $573.34 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,237.24
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $573.47 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3225 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 3226 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1839 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 892 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 364 | 97.3% | 97.4% | -0.1 pp |
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Jsram | Will Switzerland win on 2026-09-29? | No (BUY) | 49% | 3.81 | 2.7% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
 | gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ✅ ganada | +3.82 |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
