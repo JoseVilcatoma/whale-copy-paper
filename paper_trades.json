@@ -161353,5 +161353,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790682702.0054524,
     "fills": 1
+  },
+  {
+    "timestamp": 1790691232,
+    "timestamp_added": 1790691233.182993,
+    "username": "Diabolical-Prize",
+    "wallet": "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb",
+    "slug": "dota2-1win-navi-2026-09-29-game2",
+    "title": "Dota 2: 1win vs Natus Vincere - Game 2 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 3167.0881,
+    "whale_pct": 2.354,
+    "whale_value_at_open": 134519.3531,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790691233.1830049,
+    "fills": 1
   }
 ]
