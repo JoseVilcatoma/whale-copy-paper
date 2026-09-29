@@ -1,5 +1,5 @@
 {
-  "bankroll": 43.24583715832238,
+  "bankroll": 38.17583715832238,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32645,6 +32645,11 @@
       "timestamp": 1790652796.2587378,
       "bankroll": 43.25,
       "event": "won: 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 \u2014 Spread: Eagles (-5.5)"
+    },
+    {
+      "timestamp": 1790661429.8376062,
+      "bankroll": 38.18,
+      "event": "lost: GoalLineGhost \u2014 Guatemala vs. El Salvador: O/U 4.5"
     }
   ]
 }
