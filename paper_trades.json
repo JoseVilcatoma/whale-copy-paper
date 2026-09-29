@@ -161413,8 +161413,8 @@
     "title": "Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B",
     "outcome": "1win",
     "side": "BUY",
-    "whale_usd": 540.1303300000001,
-    "whale_pct": 5.178,
+    "whale_usd": 13764.644803,
+    "whale_pct": 131.959,
     "whale_value_at_open": 10430.9868,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -161427,7 +161427,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790695742.7625892,
-    "fills": 1
+    "last_fill_at": 1790695863.4756577,
+    "fills": 8
   }
 ]

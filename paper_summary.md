@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 10:29:13 (hora de Perú)
+Actualizado: 2026-09-29 10:31:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $40.82
@@ -1148,7 +1148,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 5.2% | ⏳ pendiente | — |
+| gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
