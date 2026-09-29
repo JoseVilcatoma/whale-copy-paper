@@ -1,5 +1,5 @@
 {
-  "bankroll": 41.04093847175703,
+  "bankroll": 42.43693847175703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32665,6 +32665,11 @@
       "timestamp": 1790671967.8151164,
       "bankroll": 41.04,
       "event": "won: ferrariChampions2026 \u2014 W100 Templeton, CA: Ekaterina Maklakova vs Jenna DeFalco"
+    },
+    {
+      "timestamp": 1790677851.4725442,
+      "bankroll": 42.44,
+      "event": "won: Sunshine.Smile \u2014 Dota 2: Yangon Galacticos vs InterActive Philippines - Game 2 Winner"
     }
   ]
 }
