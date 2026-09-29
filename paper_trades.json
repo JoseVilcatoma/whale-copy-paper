@@ -161137,5 +161137,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790653362.821871,
     "fills": 1
+  },
+  {
+    "timestamp": 1790654448,
+    "timestamp_added": 1790654448.6454496,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "unl-smr-alb-2026-09-29-smr",
+    "title": "Will San Marino win on 2026-09-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 525.33005,
+    "whale_pct": 0.315,
+    "whale_value_at_open": 166613.53,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790654448.6454632,
+    "fills": 1
   }
 ]
