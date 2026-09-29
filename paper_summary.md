@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 01:28:52 (hora de Perú)
+Actualizado: 2026-09-29 01:30:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $38.22
-**Retorno acumulado:** -92.36%
+**Bankroll actual:** $39.35
+**Retorno acumulado:** -92.13%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 01:28:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $25.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $13.22)
+**Capital comprometido ahora mismo:** $25.00 en 5 posiciones abiertas (disponible para nuevas apuestas: $14.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,6 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| raybanman | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | Lakersfan111 | 12 | 9 | 0 | +0.91 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -95,7 +96,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| raybanman | 0 | 0 | 1 | +0.00 USD |
 | 1l2ihj34li12u34 | 1 | 1 | 0 | -0.46 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | theowalcott | 8 | 7 | 0 | -0.73 USD |
@@ -171,7 +171,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 38 | 31 | 0 | -36.88 USD |
 | Flaznorp | 199 | 75 | 0 | -37.74 USD |
 | RN1 | 714 | 340 | 0 | -37.95 USD |
-| GoalLineGhost | 127 | 58 | 1 | -39.95 USD |
+| GoalLineGhost | 127 | 58 | 2 | -39.95 USD |
 | sbsigner | 10 | 16 | 0 | -55.21 USD |
 | Sassy-Bucket | 24 | 42 | 0 | -101.62 USD |
 |  | 136 | 91 | 0 | -139.23 USD |
@@ -179,13 +179,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6312
-- **Aciertos:** 3986 (63.1%)
+- **Apuestas resueltas:** 6313
+- **Aciertos:** 3987 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,192.89
-- **ROI sobre lo apostado:** -1.89%
-- **Comisiones pagadas (taker fee):** $572.67 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,197.89
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $572.72 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -196,7 +196,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3222 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 1836 | 69.1% | 68.0% | +1.1 pp |
-| 80-94% | 890 | 85.4% | 86.6% | -1.2 pp |
+| 80-94% | 891 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 364 | 97.3% | 97.4% | -0.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -1146,7 +1146,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Australia win on 2026-09-29? | No (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
+| raybanman | China Open, Qualification: Marco Trungel | Alex Molcan (BUY) | 81% | 5.00 | 33.5% | ✅ ganada | +1.13 |
 | GoalLineGhost | Will San Marino win on 2026-09-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Guatemala vs. El Salvador: O/U 4.5 | Under (BUY) | 72% | 5.00 | 0.3% | ❌ perdida | -5.07 |
 | GoalLineGhost | Guatemala vs. El Salvador: O/U 6.5 | Under (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
@@ -1175,4 +1176,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Bari: Federico Arnaboldi vs Svyatoslav G | Federico Arnaboldi (BUY) | 79% | 5.00 | 7.2% | ✅ ganada | +1.28 |
 | RN1 | Counter-Strike: magic vs GamerLegion - M | GamerLegion (BUY) | 69% | 5.00 | 2.6% | ✅ ganada | +2.17 |
 | RN1 | Mouilleron-le-Captif: Alexandre Reco vs  | Alexandre Reco (BUY) | 91% | 5.00 | 1.5% | ✅ ganada | +0.47 |
-| RN1 | Japan Open Tennis Championships, Qualifi | Lorenzo Sonego (BUY) | 44% | 2.52 | 0.8% | ❌ perdida | -2.59 |

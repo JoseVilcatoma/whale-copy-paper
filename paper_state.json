@@ -1,5 +1,5 @@
 {
-  "bankroll": 38.22334220882743,
+  "bankroll": 39.34918171500027,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32655,6 +32655,11 @@
       "timestamp": 1790661553.7656007,
       "bankroll": 38.22,
       "event": "won: GoalLineGhost \u2014 Guatemala vs. El Salvador: O/U 6.5"
+    },
+    {
+      "timestamp": 1790663339.3499386,
+      "bankroll": 39.35,
+      "event": "won: raybanman \u2014 China Open, Qualification: Marco Trungelliti vs Alex Molcan"
     }
   ]
 }
