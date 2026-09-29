@@ -161219,8 +161219,8 @@
     "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 2910.5832,
-    "whale_pct": 12.844,
+    "whale_usd": 5840.814,
+    "whale_pct": 25.776,
     "whale_value_at_open": 22660.2877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -161231,8 +161231,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790664501.1766753,
-    "fills": 1
+    "last_fill_at": 1790668666.5364969,
+    "fills": 2
   },
   {
     "timestamp": 1790667480,
@@ -161257,5 +161257,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790667481.051635,
     "fills": 1
+  },
+  {
+    "timestamp": 1790668633,
+    "timestamp_added": 1790668634.0465462,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "dota2-yg-iac-2026-09-29-game2",
+    "title": "Dota 2: Yangon Galacticos vs InterActive Philippines - Game 2 Winner",
+    "outcome": "Yangon Galacticos",
+    "side": "BUY",
+    "whale_usd": 1304.9011999999998,
+    "whale_pct": 51.368,
+    "whale_value_at_open": 2540.2841,
+    "paper_stake_usd": 4.35,
+    "odds_at_bet": 75,
+    "fee_usd": 0.054,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790668639.2249193,
+    "fills": 2
   }
 ]
