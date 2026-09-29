@@ -161429,5 +161429,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790695863.4756577,
     "fills": 8
+  },
+  {
+    "timestamp": 1790697243,
+    "timestamp_added": 1790697244.8274405,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "mlb-bos-nyy-2026-09-29-spread-home-1pt5",
+    "title": "Spread: New York Yankees (-1.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 821.5039999999999,
+    "whale_pct": 2.735,
+    "whale_value_at_open": 30037.6951,
+    "paper_stake_usd": 3.26,
+    "odds_at_bet": 65,
+    "fee_usd": 0.057,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790697244.827449,
+    "fills": 1
   }
 ]
