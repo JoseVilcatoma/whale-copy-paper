@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-28 19:02:27 (hora de Perú)
+Actualizado: 2026-09-28 19:04:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.59
@@ -1145,7 +1145,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 4.0% | ⏳ pendiente | — |
+| 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 4.2% | ⏳ pendiente | — |
 | gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 4.8% | ✅ ganada | +0.36 |
