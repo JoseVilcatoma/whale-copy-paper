@@ -1,5 +1,5 @@
 {
-  "bankroll": 21.663225878756208,
+  "bankroll": 16.523225878756207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32775,6 +32775,11 @@
       "timestamp": 1790759897.118691,
       "bankroll": 21.66,
       "event": "won: UpTheBlues \u2014 Japan Open Tennis Championships: Arthur Fils vs Luca Van Assche"
+    },
+    {
+      "timestamp": 1790766763.0780191,
+      "bankroll": 16.52,
+      "event": "lost: HomeRunHazard \u2014 Adana: Erika Andreeva vs Simona Waltert"
     }
   ]
 }

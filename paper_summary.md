@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 06:11:41 (hora de Perú)
+Actualizado: 2026-09-30 06:13:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $21.66
-**Retorno acumulado:** -95.67%
-**Peor caída desde un máximo (drawdown):** 97.21%
+**Bankroll actual:** $16.52
+**Retorno acumulado:** -96.70%
+**Peor caída desde un máximo (drawdown):** 97.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-30 06:11:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $1.66)
+**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $1.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 1 | 0 | +1.60 USD |
-| HomeRunHazard | 435 | 232 | 1 | +1.58 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -118,6 +117,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | takeormake | 1 | 1 | 0 | -3.24 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 1 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
+| HomeRunHazard | 435 | 233 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 22 | 20 | 0 | -4.53 USD |
 | totoro3miyazaki | 3 | 2 | 0 | -4.55 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6335
+- **Apuestas resueltas:** 6336
 - **Aciertos:** 3999 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,301.01
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $574.60 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,306.01
+- **ROI sobre lo apostado:** -1.95%
+- **Comisiones pagadas (taker fee):** $574.74 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3234 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3235 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1842 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 366 | 97.3% | 97.4% | -0.1 pp |
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Adana: Erika Andreeva vs Simona Waltert | Simona Waltert (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Adana: Erika Andreeva vs Simona Waltert | Simona Waltert (BUY) | 44% | 5.00 | 1.8% | ❌ perdida | -5.14 |
 | UpTheBlues | Japan Open Tennis Championships: Arthur  | Arthur Fils (BUY) | 99% | 5.00 | 3.6% | ✅ ganada | +0.05 |
 | UpTheBlues | China Open: Daria Snigur vs Katarzyna Ka | Katarzyna Kawa (BUY) | 65% | 4.64 | 3.0% | ❌ perdida | -4.72 |
 | UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 6.0% | ✅ ganada | +1.69 |
