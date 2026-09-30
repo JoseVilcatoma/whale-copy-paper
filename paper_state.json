@@ -1,5 +1,5 @@
 {
-  "bankroll": 31.17346902954169,
+  "bankroll": 26.053469029541688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32720,6 +32720,11 @@
       "timestamp": 1790723230.2585833,
       "bankroll": 31.17,
       "event": "lost: Jsram \u2014 Will Switzerland win on 2026-09-29?"
+    },
+    {
+      "timestamp": 1790728185.1542625,
+      "bankroll": 26.05,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Panthers vs. Hurricanes"
     }
   ]
 }
