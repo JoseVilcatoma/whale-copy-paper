@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 22:38:38 (hora de Perú)
+Actualizado: 2026-09-29 22:40:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $30.32
-**Retorno acumulado:** -93.94%
+**Bankroll actual:** $27.01
+**Retorno acumulado:** -94.60%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 22:38:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $30.32 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $27.06 en 6 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 38 | 24 | 0 | +9.52 USD |
 | ripley86alien | 4 | 1 | 0 | +9.22 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
-| wr0ngw4yb3tt0r | 119 | 89 | 1 | +8.84 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | 11vsldfdsgfkjgos | 4 | 0 | 0 | +8.48 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -60,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | bands1 | 4 | 2 | 0 | +5.99 USD |
+| wr0ngw4yb3tt0r | 119 | 90 | 0 | +5.52 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ChayEhc | 1 | 0 | 0 | +4.50 USD |
 | Sunshine.Smile | 13 | 8 | 0 | +4.11 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6328
+- **Apuestas resueltas:** 6329
 - **Aciertos:** 3996 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,271.05
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $574.09 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,274.31
+- **ROI sobre lo apostado:** -1.92%
+- **Comisiones pagadas (taker fee):** $574.15 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -196,7 +196,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3231 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1839 | 69.1% | 68.0% | +1.1 pp |
+| 60-79% | 1840 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 365 | 97.3% | 97.4% | -0.1 pp |
 
@@ -1157,7 +1157,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 46% | 5.00 | 0.6% | ✅ ganada | +5.73 |
 | Jsram | Will Switzerland win on 2026-09-29? | No (BUY) | 49% | 3.81 | 2.7% | ❌ perdida | -3.91 |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ❌ perdida | -5.13 |
-| wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ❌ perdida | -3.32 |
 | gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ✅ ganada | +3.82 |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |

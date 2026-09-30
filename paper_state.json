@@ -1,5 +1,5 @@
 {
-  "bankroll": 30.3239640714944,
+  "bankroll": 27.0069640714944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32740,6 +32740,11 @@
       "timestamp": 1790737765.7174966,
       "bankroll": 30.32,
       "event": "lost: HomeRunHazard \u2014 Minnesota Lynx vs. New York Liberty"
+    },
+    {
+      "timestamp": 1790739622.0655713,
+      "bankroll": 27.01,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }
