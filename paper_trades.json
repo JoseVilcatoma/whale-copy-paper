@@ -161705,8 +161705,8 @@
     "title": "Japan Open Tennis Championships: Arthur Fils vs Luca Van Assche",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 2531.3199999999997,
-    "whale_pct": 1.484,
+    "whale_usd": 3295.33,
+    "whale_pct": 1.931,
     "whale_value_at_open": 170617.2984,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -161717,7 +161717,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790755891.3980546,
-    "fills": 1
+    "last_fill_at": 1790756068.3647099,
+    "fills": 2
   }
 ]

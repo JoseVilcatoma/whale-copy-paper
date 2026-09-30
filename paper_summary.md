@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 03:13:50 (hora de Perú)
+Actualizado: 2026-09-30 03:15:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $21.62
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| UpTheBlues | Japan Open Tennis Championships: Arthur  | Arthur Fils (BUY) | 99% | 5.00 | 1.5% | ⏳ pendiente | — |
+| UpTheBlues | Japan Open Tennis Championships: Arthur  | Arthur Fils (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 | UpTheBlues | China Open: Daria Snigur vs Katarzyna Ka | Katarzyna Kawa (BUY) | 65% | 4.64 | 3.0% | ❌ perdida | -4.72 |
 | UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 6.0% | ✅ ganada | +1.69 |
 | UpTheBlues | China Open: Janice Tjen vs Anhelina Kali | Anhelina Kalinina (BUY) | 52% | 4.62 | 7.7% | ❌ perdida | -4.73 |
