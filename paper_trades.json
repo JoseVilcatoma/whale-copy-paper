@@ -161719,5 +161719,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790757781.8927956,
     "fills": 5
+  },
+  {
+    "timestamp": 1790760316,
+    "timestamp_added": 1790760316.8118086,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-andree-waltert-2026-09-30",
+    "title": "Adana: Erika Andreeva vs Simona Waltert",
+    "outcome": "Simona Waltert",
+    "side": "BUY",
+    "whale_usd": 4343.4103,
+    "whale_pct": 1.816,
+    "whale_value_at_open": 239161.7195,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790760317.9650984,
+    "fills": 2
   }
 ]

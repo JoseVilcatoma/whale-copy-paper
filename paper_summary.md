@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 04:23:22 (hora de Perú)
+Actualizado: 2026-09-30 04:25:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $21.66
@@ -13,7 +13,7 @@ Actualizado: 2026-09-30 04:23:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $6.66)
+**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $1.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | 0xE16D3F2A5807999b358aFfD9445C3a09E45E5e30-1776429210592 | 1 | 1 | 0 | +1.60 USD |
-| HomeRunHazard | 435 | 232 | 0 | +1.58 USD |
+| HomeRunHazard | 435 | 232 | 1 | +1.58 USD |
 | mimi121 | 1 | 1 | 0 | +1.33 USD |
 | rabbitfoot1 | 2 | 0 | 0 | +1.30 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -1149,6 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Adana: Erika Andreeva vs Simona Waltert | Simona Waltert (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
 | UpTheBlues | Japan Open Tennis Championships: Arthur  | Arthur Fils (BUY) | 99% | 5.00 | 3.6% | ✅ ganada | +0.05 |
 | UpTheBlues | China Open: Daria Snigur vs Katarzyna Ka | Katarzyna Kawa (BUY) | 65% | 4.64 | 3.0% | ❌ perdida | -4.72 |
 | UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 6.0% | ✅ ganada | +1.69 |
@@ -1178,4 +1179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465 | Spread: Eagles (-5.5) | Bears (BUY) | 58% | 5.00 | 6.9% | ✅ ganada | +3.52 |
 | gmpm2 | 1H Spread: Eagles (-2.5) | Eagles (BUY) | 52% | 5.00 | 46.8% | 💰 vendida anticipada | -0.43 |
 | ferrariChampions2026 | W100 Templeton, CA: Ekaterina Maklakova  | Ekaterina Maklakova (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | Columbus: Braden Shick vs Ozan Baris | Braden Shick (BUY) | 93% | 5.00 | 4.8% | ✅ ganada | +0.36 |
