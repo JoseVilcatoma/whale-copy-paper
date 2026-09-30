@@ -1,5 +1,5 @@
 {
-  "bankroll": 24.6449640714944,
+  "bankroll": 19.9239640714944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32760,6 +32760,11 @@
       "timestamp": 1790749514.4415243,
       "bankroll": 24.64,
       "event": "lost: UpTheBlues \u2014 China Open: Janice Tjen vs Anhelina Kalinina"
+    },
+    {
+      "timestamp": 1790754311.835634,
+      "bankroll": 19.92,
+      "event": "lost: UpTheBlues \u2014 China Open: Daria Snigur vs Katarzyna Kawa"
     }
   ]
 }
