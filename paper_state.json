@@ -1,5 +1,5 @@
 {
-  "bankroll": 24.5009640714944,
+  "bankroll": 24.6449640714944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32750,6 +32750,16 @@
       "timestamp": 1790745151.5995445,
       "bankroll": 24.5,
       "event": "lost: 0x16bb9951a36fce71e2ef57890b786145e0ba8492 \u2014 Chicago Cubs vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1790749514.341415,
+      "bankroll": 29.38,
+      "event": "won: HomeRunHazard \u2014 China Open: Janice Tjen vs Anhelina Kalinina"
+    },
+    {
+      "timestamp": 1790749514.4415243,
+      "bankroll": 24.64,
+      "event": "lost: UpTheBlues \u2014 China Open: Janice Tjen vs Anhelina Kalinina"
     }
   ]
 }
