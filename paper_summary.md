@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 03:05:39 (hora de Perú)
+Actualizado: 2026-09-30 03:07:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $19.92
-**Retorno acumulado:** -96.02%
+**Bankroll actual:** $21.62
+**Retorno acumulado:** -95.68%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-30 03:05:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $20.00 en 4 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $6.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 73 | 17 | 1 | +36.80 USD |
+| UpTheBlues | 74 | 17 | 0 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HMLSF | 13 | 2 | 0 | +31.51 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -180,13 +180,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6333
-- **Aciertos:** 3997 (63.1%)
+- **Apuestas resueltas:** 6334
+- **Aciertos:** 3998 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,291.01
-- **ROI sobre lo apostado:** -1.94%
-- **Comisiones pagadas (taker fee):** $574.53 (1.84% del capital apostado)
+- **Total apostado (suma de stakes):** $31,296.01
+- **ROI sobre lo apostado:** -1.93%
+- **Comisiones pagadas (taker fee):** $574.60 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -196,7 +196,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 3234 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 1841 | 69.0% | 68.0% | +1.1 pp |
+| 60-79% | 1842 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 365 | 97.3% | 97.4% | -0.1 pp |
 
@@ -1150,7 +1150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | China Open: Daria Snigur vs Katarzyna Ka | Katarzyna Kawa (BUY) | 65% | 4.64 | 3.0% | ❌ perdida | -4.72 |
-| UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 6.0% | ⏳ pendiente | — |
+| UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 6.0% | ✅ ganada | +1.69 |
 | UpTheBlues | China Open: Janice Tjen vs Anhelina Kali | Anhelina Kalinina (BUY) | 52% | 4.62 | 7.7% | ❌ perdida | -4.73 |
 | HomeRunHazard | China Open: Janice Tjen vs Anhelina Kali | Janice Tjen (BUY) | 50% | 5.00 | 6.4% | ✅ ganada | +4.88 |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | Minnesota Lynx (BUY) | 49% | 5.00 | 0.8% | ❌ perdida | -5.13 |

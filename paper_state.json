@@ -1,5 +1,5 @@
 {
-  "bankroll": 19.9239640714944,
+  "bankroll": 21.615720828251156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32765,6 +32765,11 @@
       "timestamp": 1790754311.835634,
       "bankroll": 19.92,
       "event": "lost: UpTheBlues \u2014 China Open: Daria Snigur vs Katarzyna Kawa"
+    },
+    {
+      "timestamp": 1790755662.104071,
+      "bankroll": 21.62,
+      "event": "won: UpTheBlues \u2014 China Open: Aliaksandra Sasnovich vs Talia Gibson"
     }
   ]
 }
