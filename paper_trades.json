@@ -161559,8 +161559,8 @@
     "title": "Minnesota Lynx vs. New York Liberty",
     "outcome": "New York Liberty",
     "side": "BUY",
-    "whale_usd": 2878.7678,
-    "whale_pct": 1.635,
+    "whale_usd": 4205.1805,
+    "whale_pct": 2.388,
     "whale_value_at_open": 176068.4742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -161571,8 +161571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790731456.9167886,
-    "fills": 2
+    "last_fill_at": 1790732850.5622823,
+    "fills": 3
   },
   {
     "timestamp": 1790731455,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 20:47:24 (hora de Perú)
+Actualizado: 2026-09-29 20:49:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.79
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | Minnesota Lynx (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. New York Liberty | New York Liberty (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. New York Liberty | New York Liberty (BUY) | 57% | 5.00 | 2.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Panthers vs. Hurricanes | Hurricanes (BUY) | 52% | 5.00 | 5.1% | ❌ perdida | -5.12 |
 | wr0ngw4yb3tt0r | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 46% | 5.00 | 0.6% | ✅ ganada | +5.73 |
 | Jsram | Will Switzerland win on 2026-09-29? | No (BUY) | 49% | 3.81 | 2.7% | ❌ perdida | -3.91 |
