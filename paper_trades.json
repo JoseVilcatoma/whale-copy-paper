@@ -161631,8 +161631,8 @@
     "title": "China Open: Janice Tjen vs Anhelina Kalinina",
     "outcome": "Anhelina Kalinina",
     "side": "BUY",
-    "whale_usd": 19873.0158,
-    "whale_pct": 7.411,
+    "whale_usd": 20626.595797,
+    "whale_pct": 7.692,
     "whale_value_at_open": 268165.9646,
     "paper_stake_usd": 4.62,
     "odds_at_bet": 52,
@@ -161645,7 +161645,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790739112.9327521,
-    "fills": 13
+    "last_fill_at": 1790741027.1417036,
+    "fills": 14
   }
 ]
