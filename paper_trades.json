@@ -161695,5 +161695,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1790749882.8920827,
     "fills": 2
+  },
+  {
+    "timestamp": 1790755890,
+    "timestamp_added": 1790755891.3980412,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "atp-fils-assche-2026-09-30",
+    "title": "Japan Open Tennis Championships: Arthur Fils vs Luca Van Assche",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "whale_usd": 2531.3199999999997,
+    "whale_pct": 1.484,
+    "whale_value_at_open": 170617.2984,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1790755891.3980546,
+    "fills": 1
   }
 ]
