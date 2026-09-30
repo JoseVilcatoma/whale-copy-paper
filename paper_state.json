@@ -1,5 +1,5 @@
 {
-  "bankroll": 26.053469029541688,
+  "bankroll": 31.788034246932995,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32725,6 +32725,11 @@
       "timestamp": 1790728185.1542625,
       "bankroll": 26.05,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Panthers vs. Hurricanes"
+    },
+    {
+      "timestamp": 1790731396.979454,
+      "bankroll": 31.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Indiana Fever"
     }
   ]
 }
