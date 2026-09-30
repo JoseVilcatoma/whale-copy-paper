@@ -1,5 +1,5 @@
 {
-  "bankroll": 31.788034246932995,
+  "bankroll": 30.3239640714944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32730,6 +32730,16 @@
       "timestamp": 1790731396.979454,
       "bankroll": 31.79,
       "event": "won: wr0ngw4yb3tt0r \u2014 Las Vegas Aces vs. Indiana Fever"
+    },
+    {
+      "timestamp": 1790737765.6173706,
+      "bankroll": 35.45,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. New York Liberty"
+    },
+    {
+      "timestamp": 1790737765.7174966,
+      "bankroll": 30.32,
+      "event": "lost: HomeRunHazard \u2014 Minnesota Lynx vs. New York Liberty"
     }
   ]
 }
