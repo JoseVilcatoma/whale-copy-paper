@@ -1,5 +1,5 @@
 {
-  "bankroll": 21.615720828251156,
+  "bankroll": 21.663225878756208,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32770,6 +32770,11 @@
       "timestamp": 1790755662.104071,
       "bankroll": 21.62,
       "event": "won: UpTheBlues \u2014 China Open: Aliaksandra Sasnovich vs Talia Gibson"
+    },
+    {
+      "timestamp": 1790759897.118691,
+      "bankroll": 21.66,
+      "event": "won: UpTheBlues \u2014 Japan Open Tennis Championships: Arthur Fils vs Luca Van Assche"
     }
   ]
 }
