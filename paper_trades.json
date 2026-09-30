@@ -161681,8 +161681,8 @@
     "title": "China Open: Daria Snigur vs Katarzyna Kawa",
     "outcome": "Katarzyna Kawa",
     "side": "BUY",
-    "whale_usd": 3112.16,
-    "whale_pct": 1.942,
+    "whale_usd": 4750.91,
+    "whale_pct": 2.965,
     "whale_value_at_open": 160248.7477,
     "paper_stake_usd": 4.64,
     "odds_at_bet": 65,
@@ -161693,7 +161693,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1790749595.0694904,
-    "fills": 1
+    "last_fill_at": 1790749882.8920827,
+    "fills": 2
   }
 ]
