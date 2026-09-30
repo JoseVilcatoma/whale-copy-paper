@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 02:12:23 (hora de Perú)
+Actualizado: 2026-09-30 02:14:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $24.64
@@ -1150,7 +1150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | China Open: Daria Snigur vs Katarzyna Ka | Katarzyna Kawa (BUY) | 65% | 4.64 | 3.0% | ⏳ pendiente | — |
-| UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 1.5% | ⏳ pendiente | — |
+| UpTheBlues | China Open: Aliaksandra Sasnovich vs Tal | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 2.0% | ⏳ pendiente | — |
 | UpTheBlues | China Open: Janice Tjen vs Anhelina Kali | Anhelina Kalinina (BUY) | 52% | 4.62 | 7.7% | ❌ perdida | -4.73 |
 | HomeRunHazard | China Open: Janice Tjen vs Anhelina Kali | Janice Tjen (BUY) | 50% | 5.00 | 6.4% | ✅ ganada | +4.88 |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | Minnesota Lynx (BUY) | 49% | 5.00 | 0.8% | ❌ perdida | -5.13 |
