@@ -161511,8 +161511,8 @@
     "title": "Las Vegas Aces vs. Indiana Fever",
     "outcome": "Indiana Fever",
     "side": "BUY",
-    "whale_usd": 1220.1975000000002,
-    "whale_pct": 0.401,
+    "whale_usd": 1950.1475000000003,
+    "whale_pct": 0.642,
     "whale_value_at_open": 303985.6859,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -161523,8 +161523,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790722429.964528,
-    "fills": 1
+    "last_fill_at": 1790727609.2195783,
+    "fills": 2
   },
   {
     "timestamp": 1790723217,

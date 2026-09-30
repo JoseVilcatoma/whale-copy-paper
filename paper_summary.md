@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 19:18:52 (hora de Perú)
+Actualizado: 2026-09-29 19:20:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $31.17
@@ -1149,7 +1149,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Panthers vs. Hurricanes | Hurricanes (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Las Vegas Aces vs. Indiana Fever | Indiana Fever (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Jsram | Will Switzerland win on 2026-09-29? | No (BUY) | 49% | 3.81 | 2.7% | ❌ perdida | -3.91 |
 | wr0ngw4yb3tt0r | Philadelphia Phillies vs. Atlanta Braves | Over (BUY) | 47% | 5.00 | 2.0% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 3.26 | 2.7% | ⏳ pendiente | — |
