@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 00:46:19 (hora de Perú)
+Actualizado: 2026-09-30 00:48:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $24.50
@@ -1150,7 +1150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | UpTheBlues | China Open: Janice Tjen vs Anhelina Kali | Anhelina Kalinina (BUY) | 52% | 4.62 | 7.7% | ⏳ pendiente | — |
-| HomeRunHazard | China Open: Janice Tjen vs Anhelina Kali | Janice Tjen (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | China Open: Janice Tjen vs Anhelina Kali | Janice Tjen (BUY) | 50% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | Minnesota Lynx (BUY) | 49% | 5.00 | 0.8% | ❌ perdida | -5.13 |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | New York Liberty (BUY) | 57% | 5.00 | 2.4% | ✅ ganada | +3.66 |
 | wr0ngw4yb3tt0r | Panthers vs. Hurricanes | Hurricanes (BUY) | 52% | 5.00 | 5.1% | ❌ perdida | -5.12 |
