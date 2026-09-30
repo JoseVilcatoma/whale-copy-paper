@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-29 22:09:45 (hora de Perú)
+Actualizado: 2026-09-29 22:11:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $30.32
@@ -13,7 +13,7 @@ Actualizado: 2026-09-29 22:09:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $20.70 en 5 posiciones abiertas (disponible para nuevas apuestas: $9.62)
+**Capital comprometido ahora mismo:** $30.32 en 7 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| UpTheBlues | 73 | 15 | 0 | +46.25 USD |
+| UpTheBlues | 73 | 15 | 1 | +46.25 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HMLSF | 13 | 2 | 0 | +31.51 USD |
 | HongYunX | 13 | 6 | 0 | +30.97 USD |
@@ -115,7 +115,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | takeormake | 1 | 1 | 0 | -3.24 USD |
-| HomeRunHazard | 434 | 232 | 0 | -3.30 USD |
+| HomeRunHazard | 434 | 232 | 1 | -3.30 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 1 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -1143,11 +1143,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-munar-giron-2026-09-27 | RN1, ferrariChampions2026 |
 | fif-jpn-ven-2026-09-28-draw | GoalLineGhost, RN1 |
 | dota2-1win-navi-2026-09-29 | Sunshine.Smile, gvrgb326552g65 |
+| wta-tjen-kalinin-2026-09-29 | HomeRunHazard, UpTheBlues |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | China Open: Janice Tjen vs Anhelina Kali | Anhelina Kalinina (BUY) | 52% | 4.62 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | China Open: Janice Tjen vs Anhelina Kali | Janice Tjen (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | Minnesota Lynx (BUY) | 49% | 5.00 | 0.8% | ❌ perdida | -5.13 |
 | HomeRunHazard | Minnesota Lynx vs. New York Liberty | New York Liberty (BUY) | 57% | 5.00 | 2.4% | ✅ ganada | +3.66 |
 | wr0ngw4yb3tt0r | Panthers vs. Hurricanes | Hurricanes (BUY) | 52% | 5.00 | 5.1% | ❌ perdida | -5.12 |
@@ -1176,5 +1179,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Spread: Eagles (-3.5) | Bears (BUY) | 53% | 5.00 | 141.3% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Mouilleron-Le-Captif: Clement Tabur vs M | Matteo Martineau (BUY) | 43% | 3.24 | 23.4% | ❌ perdida | -3.33 |
 | bands1 | Spread: Eagles (-4.5) | Bears (BUY) | 56% | 5.00 | 26.7% | ✅ ganada | +3.82 |
-| ferrariChampions2026 | Columbus: Tyler Zink vs Mitchell Krueger | Mitchell Krueger (BUY) | 84% | 5.00 | 2.8% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | Romania vs. Bosnia and Herzegovina: O/U  | Over (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
