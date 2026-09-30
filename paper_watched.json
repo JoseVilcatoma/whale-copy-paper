@@ -8,7 +8,7 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1790659017.2785058,
-    "roi_pct": 845.99,
+    "roi_pct": 946.99,
     "short_term_pct": 100.0
   },
   "0xe5b70fd855af9258d9463992e4f1ed7987905ee3": {
@@ -20,13 +20,13 @@
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "username": "BreakTheBank",
     "added_at": 1790722724.046296,
-    "roi_pct": 324.31,
+    "roi_pct": 324.76,
     "short_term_pct": 70.0
   },
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1790724641.9244726,
-    "roi_pct": 3366.53,
+    "roi_pct": 5087.09,
     "short_term_pct": 50.0
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
@@ -35,16 +35,10 @@
     "roi_pct": 276.78,
     "short_term_pct": 100.0
   },
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
-    "username": "primm",
-    "added_at": 1790732243.6000721,
-    "roi_pct": 14258.72,
-    "short_term_pct": 100.0
-  },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
     "added_at": 1790736027.7256904,
-    "roi_pct": 399.2,
+    "roi_pct": 399.6,
     "short_term_pct": 100.0
   },
   "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
@@ -56,7 +50,13 @@
   "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
     "username": "e46m3",
     "added_at": 1790742731.8184028,
-    "roi_pct": 1214.05,
-    "short_term_pct": 80.0
+    "roi_pct": 1214.38,
+    "short_term_pct": 57.1
+  },
+  "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
+    "username": "HomeRunHazard",
+    "added_at": 1790744604.041299,
+    "roi_pct": 302.11,
+    "short_term_pct": 100.0
   }
 }
