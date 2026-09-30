@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 00:11:29 (hora de Perú)
+Actualizado: 2026-09-30 00:13:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $27.01
-**Retorno acumulado:** -94.60%
+**Bankroll actual:** $24.50
+**Retorno acumulado:** -95.10%
 **Peor caída desde un máximo (drawdown):** 97.21%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-30 00:11:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $27.06 en 6 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $24.62 en 5 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -153,9 +153,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| SDTrading | 41 | 39 | 1 | -10.78 USD |
 | vjnn | 4 | 5 | 0 | -10.94 USD |
 | Donkey14 | 7 | 9 | 0 | -12.17 USD |
+| SDTrading | 41 | 40 | 0 | -13.29 USD |
 | AGUGava | 2 | 3 | 0 | -13.56 USD |
 | pleaseplease123 | 33 | 32 | 0 | -15.54 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6329
+- **Apuestas resueltas:** 6330
 - **Aciertos:** 3996 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,274.31
+- **Total apostado (suma de stakes):** $31,276.75
 - **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $574.15 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $574.22 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3231 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3232 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1840 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 365 | 97.3% | 97.4% | -0.1 pp |
@@ -1161,7 +1161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | gvrgb326552g65 | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 56% | 5.00 | 132.0% | ✅ ganada | +3.82 |
 | Sunshine.Smile | Dota 2: 1win vs Natus Vincere (BO3) - BL | 1win (BUY) | 55% | 5.00 | 61.6% | 💰 vendida anticipada | -0.04 |
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
-| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ⏳ pendiente | — |
+| 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ❌ perdida | -2.51 |
 | GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
