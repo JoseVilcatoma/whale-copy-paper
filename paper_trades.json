@@ -161657,8 +161657,8 @@
     "title": "China Open: Aliaksandra Sasnovich vs Talia Gibson",
     "outcome": "Aliaksandra Sasnovich",
     "side": "BUY",
-    "whale_usd": 4385.9327,
-    "whale_pct": 2.737,
+    "whale_usd": 9687.592700000001,
+    "whale_pct": 6.045,
     "whale_value_at_open": 160248.7477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -161669,8 +161669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1790752953.2342658,
-    "fills": 5
+    "last_fill_at": 1790753600.2871392,
+    "fills": 6
   },
   {
     "timestamp": 1790749594,
