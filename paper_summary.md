@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-30 23:56:27 (hora de Perú)
+Actualizado: 2026-09-30 23:58:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $16.52
-**Retorno acumulado:** -96.70%
-**Peor caída desde un máximo (drawdown):** 97.27%
+**Bankroll actual:** $11.38
+**Retorno acumulado:** -97.72%
+**Peor caída desde un máximo (drawdown):** 98.12%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-09-30 23:56:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $15.00 en 3 posiciones abiertas (disponible para nuevas apuestas: $1.52)
+**Capital comprometido ahora mismo:** $10.00 en 2 posiciones abiertas (disponible para nuevas apuestas: $1.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -115,7 +115,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 3 | 0 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | takeormake | 1 | 1 | 0 | -3.24 USD |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 1 | 1 | -3.36 USD |
 | Wiretransferxyz | 9 | 6 | 0 | -3.54 USD |
 | HomeRunHazard | 435 | 233 | 0 | -3.56 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -147,6 +146,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Noprajsk | 8 | 5 | 0 | -6.86 USD |
 | Gambler661 | 4 | 2 | 0 | -8.39 USD |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 1 | 2 | 0 | -8.50 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | Antblack | 2 | 4 | 0 | -9.24 USD |
 | gransaaa | 0 | 2 | 0 | -10.23 USD |
@@ -180,14 +180,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 6336
+- **Apuestas resueltas:** 6337
 - **Aciertos:** 3999 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.94
-- **Total apostado (suma de stakes):** $31,306.01
-- **ROI sobre lo apostado:** -1.95%
-- **Comisiones pagadas (taker fee):** $574.74 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $31,311.01
+- **ROI sobre lo apostado:** -1.96%
+- **Comisiones pagadas (taker fee):** $574.88 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 3235 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 3236 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 1842 | 69.1% | 68.0% | +1.1 pp |
 | 80-94% | 893 | 85.4% | 86.6% | -1.2 pp |
 | 95-99% (casi seguro) | 366 | 97.3% | 97.4% | -0.1 pp |
@@ -1167,7 +1167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Diabolical-Prize | Dota 2: 1win vs Natus Vincere - Game 2 W | Natus Vincere (BUY) | 49% | 5.00 | 2.4% | ❌ perdida | -5.13 |
 | 0x16bb9951a36fce71e2ef57890b786145e0ba8492 | Chicago Cubs vs. San Diego Padres | Chicago Cubs (BUY) | 46% | 2.44 | 15.5% | ❌ perdida | -2.51 |
 | GoalLineGhost | Spain vs. Croatia: O/U 1.5 | Over (BUY) | 88% | 5.00 | 0.6% | ✅ ganada | +0.65 |
-| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ⏳ pendiente | — |
+| 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | China Open: Sofia Kenin vs Ashlyn Kruege | Sofia Kenin (BUY) | 44% | 5.00 | 47.1% | ❌ perdida | -5.14 |
 | Sunshine.Smile | Dota 2: Yangon Galacticos vs InterActive | Yangon Galacticos (BUY) | 75% | 4.35 | 51.4% | ✅ ganada | +1.40 |
 | GoalLineGhost | Australia vs. Brazil: O/U 2.5 | Over (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
 | Diabolical-Prize | Valorant: G2 Esports vs Paper Rex (BO3)  | G2 Esports (BUY) | 43% | 5.00 | 811.4% | ❌ perdida | -5.14 |

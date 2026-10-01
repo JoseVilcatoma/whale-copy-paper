@@ -1,5 +1,5 @@
 {
-  "bankroll": 16.523225878756207,
+  "bankroll": 11.383225878756207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -32780,6 +32780,11 @@
       "timestamp": 1790766763.0780191,
       "bankroll": 16.52,
       "event": "lost: HomeRunHazard \u2014 Adana: Erika Andreeva vs Simona Waltert"
+    },
+    {
+      "timestamp": 1790830649.9411068,
+      "bankroll": 11.38,
+      "event": "lost: 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 \u2014 China Open: Sofia Kenin vs Ashlyn Krueger"
     }
   ]
 }
