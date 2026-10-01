@@ -8,19 +8,19 @@
   "0xe5b70fd855af9258d9463992e4f1ed7987905ee3": {
     "username": "alwaysfade",
     "added_at": 1790683437.0537739,
-    "roi_pct": 662.75,
+    "roi_pct": 663.04,
     "short_term_pct": 40.0
   },
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1790781826.600282,
-    "roi_pct": 1310.1,
+    "roi_pct": 1534.81,
     "short_term_pct": 100.0
   },
   "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7": {
     "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
     "added_at": 1790794576.7602117,
-    "roi_pct": 3019.67,
+    "roi_pct": 3028.74,
     "short_term_pct": 50.0
   },
   "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
@@ -38,7 +38,7 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1790819797.2703938,
-    "roi_pct": 510.43,
+    "roi_pct": 551.38,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
@@ -56,7 +56,7 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1790841691.813298,
-    "roi_pct": 197.28,
+    "roi_pct": 246.17,
     "short_term_pct": 100.0
   }
 }
