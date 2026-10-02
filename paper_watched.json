@@ -2,61 +2,61 @@
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
     "username": "beachboy4",
     "added_at": 1790872986.449331,
-    "roi_pct": 10749.9,
+    "roi_pct": 13150.72,
     "short_term_pct": 100.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
     "added_at": 1790872986.4493542,
-    "roi_pct": 872.01,
+    "roi_pct": 1301.85,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1790875902.6851702,
-    "roi_pct": 3149.41,
+    "roi_pct": 3094.81,
     "short_term_pct": 90.0
   },
   "0xb4f978be63cdf75554b0b46a4262a6db597cc9a7": {
     "username": "0xb4F978BE63cDF75554b0B46a4262a6dB597cc9A7-1779258330186",
     "added_at": 1790876879.8403006,
-    "roi_pct": 1479.77,
+    "roi_pct": 1838.15,
     "short_term_pct": 70.0
-  },
-  "0x676c1bb692c76b57b06f1b93817515acfa5ce139": {
-    "username": "Thorin1",
-    "added_at": 1790876879.8403053,
-    "roi_pct": 1181.24,
-    "short_term_pct": 100.0
   },
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1790876879.8403087,
-    "roi_pct": 525.68,
+    "roi_pct": 621.3,
     "short_term_pct": 100.0
   },
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
     "username": "primm",
     "added_at": 1790894507.250172,
-    "roi_pct": 651.13,
+    "roi_pct": 655.07,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1790897323.475863,
-    "roi_pct": 470.62,
+    "roi_pct": 1499.44,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1790897323.4758651,
-    "roi_pct": 413.75,
+    "roi_pct": 818.57,
     "short_term_pct": 100.0
   },
-  "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
-    "username": "BreakTheBank",
-    "added_at": 1790899195.7250245,
-    "roi_pct": 308.98,
+  "0x9b11866433281ade9f2811dbde8acdefc45f5375": {
+    "username": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+    "added_at": 1790901341.1442256,
+    "roi_pct": 1089.51,
+    "short_term_pct": 100.0
+  },
+  "0xc430e5b17128df7ce78d69fa28bc7de038641ebf": {
+    "username": "Gourmet1",
+    "added_at": 1790901341.1442304,
+    "roi_pct": 545.02,
     "short_term_pct": 100.0
   }
 }
