@@ -14,49 +14,49 @@
   "0xd3b034d7bfb2473fb252d0414646d9786bac329e": {
     "username": "Sunshine.Smile",
     "added_at": 1791025065.4000788,
-    "roi_pct": 331.25,
+    "roi_pct": 332.89,
     "short_term_pct": 100.0
   },
   "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c": {
     "username": "liquiditycrisis",
     "added_at": 1791038741.9684365,
-    "roi_pct": 356.41,
+    "roi_pct": 370.96,
     "short_term_pct": 100.0
   },
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1791038741.9684377,
-    "roi_pct": 1595.84,
+    "roi_pct": 1596.62,
     "short_term_pct": 50.0
   },
   "0x054964a95e2cb3fc2105a62a1edf3da44979c052": {
     "username": "COMEONDUDE",
     "added_at": 1791044490.3128521,
-    "roi_pct": 441.78,
-    "short_term_pct": 100.0
-  },
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
-    "username": "primm",
-    "added_at": 1791045179.9303553,
-    "roi_pct": 261.85,
+    "roi_pct": 437.89,
     "short_term_pct": 100.0
   },
   "0x7f7351b5ba33a4be08b7111911b227cdd82414f1": {
     "username": "qiu3",
     "added_at": 1791047054.7353628,
-    "roi_pct": 277.66,
+    "roi_pct": 838.36,
     "short_term_pct": 100.0
   },
   "0xe40ecff63ec661d218a86c048186ac83389a9770": {
     "username": "lllllllIlll",
     "added_at": 1791048934.1696737,
-    "roi_pct": 364.02,
+    "roi_pct": 321.01,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791049869.2787483,
-    "roi_pct": 249.47,
+    "roi_pct": 259.5,
     "short_term_pct": 100.0
+  },
+  "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
+    "username": "e46m3",
+    "added_at": 1791050810.3355114,
+    "roi_pct": 959.62,
+    "short_term_pct": 30.0
   }
 }
