@@ -8,13 +8,13 @@
   "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c": {
     "username": "liquiditycrisis",
     "added_at": 1791082902.4008129,
-    "roi_pct": 217.5,
+    "roi_pct": 180.85,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1791088679.223286,
-    "roi_pct": 1307.52,
+    "roi_pct": 1069.56,
     "short_term_pct": 50.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
@@ -23,40 +23,40 @@
     "roi_pct": 3997.89,
     "short_term_pct": 100.0
   },
-  "0x1d1ade627d0bb0205758580b20d808573e720df6": {
-    "username": "Pwaddler",
-    "added_at": 1791120130.560298,
-    "roi_pct": 149.37,
-    "short_term_pct": 100.0
-  },
   "0xe40ecff63ec661d218a86c048186ac83389a9770": {
     "username": "lllllllIlll",
     "added_at": 1791124840.5373664,
-    "roi_pct": 534.45,
+    "roi_pct": 727.38,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "crispychook99",
     "added_at": 1791124840.537369,
-    "roi_pct": 266.35,
+    "roi_pct": 480.31,
     "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791124840.5373707,
-    "roi_pct": 242.91,
+    "roi_pct": 330.02,
     "short_term_pct": 100.0
   },
   "0x7f8e1877a0907f2b2c7cabf8bdb2e2a8f3854487": {
     "username": "ratatatatatatatataaaa",
     "added_at": 1791124840.5373743,
-    "roi_pct": 153.97,
+    "roi_pct": 145.66,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791125785.0176916,
     "roi_pct": 3957.45,
+    "short_term_pct": 100.0
+  },
+  "0x83720820a8aa6c3f20ad71850e7a1a17d16c5223": {
+    "username": "Jsram",
+    "added_at": 1791127668.6664667,
+    "roi_pct": 179.72,
     "short_term_pct": 100.0
   }
 }
