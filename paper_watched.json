@@ -8,7 +8,7 @@
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1791088679.223286,
-    "roi_pct": 417.05,
+    "roi_pct": 479.62,
     "short_term_pct": 60.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
@@ -17,46 +17,46 @@
     "roi_pct": 3997.89,
     "short_term_pct": 100.0
   },
-  "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
-    "username": "Diabolical-Prize",
-    "added_at": 1791124840.5373707,
-    "roi_pct": 125.66,
-    "short_term_pct": 100.0
-  },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791125785.0176916,
-    "roi_pct": 3955.62,
+    "roi_pct": 3926.64,
     "short_term_pct": 100.0
   },
   "0x054964a95e2cb3fc2105a62a1edf3da44979c052": {
     "username": "COMEONDUDE",
     "added_at": 1791129549.6478415,
-    "roi_pct": 209.08,
+    "roi_pct": 189.42,
     "short_term_pct": 100.0
   },
   "0x7f7351b5ba33a4be08b7111911b227cdd82414f1": {
     "username": "qiu3",
     "added_at": 1791130491.7629132,
-    "roi_pct": 1171.81,
+    "roi_pct": 1395.01,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791130491.7629182,
-    "roi_pct": 262.98,
-    "short_term_pct": 70.0
+    "roi_pct": 235.84,
+    "short_term_pct": 90.0
   },
   "0xa90429bc88a1d22eb40e4aac9aaf0bcefd29d20c": {
     "username": "liquiditycrisis",
     "added_at": 1791131440.40133,
-    "roi_pct": 254.55,
+    "roi_pct": 308.16,
     "short_term_pct": 100.0
   },
-  "0x1d1ade627d0bb0205758580b20d808573e720df6": {
-    "username": "Pwaddler",
-    "added_at": 1791133333.0732303,
-    "roi_pct": 128.02,
+  "0xf28e42d20e4826f2b10a24bc952001697947cab2": {
+    "username": "ethanaz",
+    "added_at": 1791134276.9990544,
+    "roi_pct": 1417.43,
+    "short_term_pct": 100.0
+  },
+  "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
+    "username": "crispychook99",
+    "added_at": 1791134276.9990582,
+    "roi_pct": 553.32,
     "short_term_pct": 100.0
   }
 }
