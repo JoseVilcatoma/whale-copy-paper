@@ -8,55 +8,55 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791125785.0176916,
-    "roi_pct": 2813.87,
+    "roi_pct": 2809.8,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791130491.7629182,
-    "roi_pct": 337.06,
+    "roi_pct": 515.15,
     "short_term_pct": 100.0
   },
   "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3": {
     "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
     "added_at": 1791153486.4292057,
-    "roi_pct": 164.42,
-    "short_term_pct": 100.0
-  },
-  "0xe6ca6ebbec97e8a46ff3dbdb2a99d46254fbbff4": {
-    "username": "SmartPredictOrNot",
-    "added_at": 1791158487.5938494,
-    "roi_pct": 578.16,
+    "roi_pct": 135.06,
     "short_term_pct": 100.0
   },
   "0xd218e474776403a330142299f7796e8ba32eb5c9": {
     "username": "cigarettes",
     "added_at": 1791159434.7336075,
-    "roi_pct": 360.13,
+    "roi_pct": 356.69,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1791160392.647846,
-    "roi_pct": 830.22,
+    "roi_pct": 870.34,
     "short_term_pct": 90.0
   },
   "0x27f738fe203827445690339104aae35b20bc44b0": {
     "username": "ic4cream",
     "added_at": 1791164211.3094862,
-    "roi_pct": 2630.94,
+    "roi_pct": 4366.21,
     "short_term_pct": 80.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1791165170.168583,
-    "roi_pct": 317.15,
+    "roi_pct": 309.0,
     "short_term_pct": 100.0
   },
   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
     "username": "BreakTheBank",
     "added_at": 1791168044.7638316,
-    "roi_pct": 178.1,
+    "roi_pct": 160.72,
     "short_term_pct": 50.0
+  },
+  "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d": {
+    "username": "mooseborzoii",
+    "added_at": 1791170927.5082588,
+    "roi_pct": 75.81,
+    "short_term_pct": 100.0
   }
 }
