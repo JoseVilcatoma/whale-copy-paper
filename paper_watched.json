@@ -8,8 +8,8 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791335350.603618,
-    "roi_pct": 308.29,
-    "short_term_pct": 100.0
+    "roi_pct": 292.17,
+    "short_term_pct": 80.0
   },
   "0xbeb1c94b4260398f93f418e349a15a40b2ae4687": {
     "username": "Ne8om",
@@ -26,13 +26,13 @@
   "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d": {
     "username": "mooseborzoii",
     "added_at": 1791385964.9084592,
-    "roi_pct": 1724.99,
+    "roi_pct": 1655.62,
     "short_term_pct": 100.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1791402359.4759834,
-    "roi_pct": 282.61,
+    "roi_pct": 247.64,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
@@ -44,7 +44,7 @@
   "0x1d1ade627d0bb0205758580b20d808573e720df6": {
     "username": "Pwaddler",
     "added_at": 1791408550.9191365,
-    "roi_pct": 496.65,
+    "roi_pct": 530.53,
     "short_term_pct": 100.0
   }
 }
