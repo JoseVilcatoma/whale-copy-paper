@@ -1,44 +1,38 @@
 {
-  "0x31e5d54aded22aa7cd80dbe9e33102abe2504879": {
-    "username": "Noprajsk",
-    "added_at": 1791585567.4667428,
-    "roi_pct": 648.94,
-    "short_term_pct": 100.0
-  },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791596950.8332276,
-    "roi_pct": 8906.2,
+    "roi_pct": 8914.77,
     "short_term_pct": 100.0
   },
   "0x7b6c6d1279098054b0c630a4b871002a7cd46305": {
     "username": "eschaworldchampion2026",
     "added_at": 1791608194.754692,
-    "roi_pct": 348.16,
+    "roi_pct": 309.7,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791610076.1230152,
-    "roi_pct": 137.72,
+    "roi_pct": 135.06,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1791617081.761735,
-    "roi_pct": 455.04,
+    "roi_pct": 363.21,
     "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791622780.4396715,
-    "roi_pct": 409.96,
+    "roi_pct": 487.06,
     "short_term_pct": 100.0
   },
   "0x1e52bbdf389526f57abc62641d518868f4c5eb43": {
     "username": "dsasdaas",
     "added_at": 1791623730.0065358,
-    "roi_pct": 8509.5,
+    "roi_pct": 8108.02,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
@@ -58,5 +52,11 @@
     "added_at": 1791625637.4880867,
     "roi_pct": 39.46,
     "short_term_pct": 100.0
+  },
+  "0xde7be6d489bce070a959e0cb813128ae659b5f4b": {
+    "username": "wan123",
+    "added_at": 1791626427.106439,
+    "roi_pct": 15.92,
+    "short_term_pct": 50.0
   }
 }
