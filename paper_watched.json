@@ -2,61 +2,61 @@
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791596950.8332276,
-    "roi_pct": 8942.11,
+    "roi_pct": 8955.88,
     "short_term_pct": 100.0
   },
   "0x1e52bbdf389526f57abc62641d518868f4c5eb43": {
     "username": "dsasdaas",
     "added_at": 1791623730.0065358,
-    "roi_pct": 884.01,
+    "roi_pct": 706.42,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
     "username": "Elaran1993",
     "added_at": 1791625637.4880772,
-    "roi_pct": 3252.54,
+    "roi_pct": 3163.39,
     "short_term_pct": 100.0
   },
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791628291.8605928,
-    "roi_pct": 1372.94,
+    "roi_pct": 1281.75,
     "short_term_pct": 100.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
     "added_at": 1791650345.9356654,
-    "roi_pct": 869.8,
+    "roi_pct": 692.79,
     "short_term_pct": 100.0
   },
   "0x0f6f76ced62a911bccef92f50faaff143854d977": {
     "username": "totoro3miyazaki",
     "added_at": 1791650345.9356673,
-    "roi_pct": 750.06,
-    "short_term_pct": 100.0
-  },
-  "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
-    "username": "Diabolical-Prize",
-    "added_at": 1791651307.2576294,
-    "roi_pct": 250.87,
-    "short_term_pct": 100.0
-  },
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
-    "username": "fantasy7788",
-    "added_at": 1791654070.4288273,
-    "roi_pct": 258.65,
-    "short_term_pct": 100.0
-  },
-  "0x31e5d54aded22aa7cd80dbe9e33102abe2504879": {
-    "username": "Noprajsk",
-    "added_at": 1791654070.4288309,
-    "roi_pct": 612.59,
+    "roi_pct": 769.54,
     "short_term_pct": 100.0
   },
   "0x7b6c6d1279098054b0c630a4b871002a7cd46305": {
     "username": "eschaworldchampion2026",
     "added_at": 1791656963.665514,
-    "roi_pct": 259.66,
+    "roi_pct": 214.1,
+    "short_term_pct": 100.0
+  },
+  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
+    "username": "THEHIGHLIFE",
+    "added_at": 1791657927.3744845,
+    "roi_pct": 5518.53,
+    "short_term_pct": 100.0
+  },
+  "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": {
+    "username": "juice-fruit",
+    "added_at": 1791657927.3744931,
+    "roi_pct": 290.04,
+    "short_term_pct": 100.0
+  },
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
+    "username": "primm",
+    "added_at": 1791657927.3744957,
+    "roi_pct": 185.46,
     "short_term_pct": 100.0
   }
 }
