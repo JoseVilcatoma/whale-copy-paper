@@ -8,37 +8,31 @@
   "0x7b6c6d1279098054b0c630a4b871002a7cd46305": {
     "username": "eschaworldchampion2026",
     "added_at": 1791608194.754692,
-    "roi_pct": 303.59,
+    "roi_pct": 295.68,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791610076.1230152,
-    "roi_pct": 142.3,
-    "short_term_pct": 100.0
-  },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1791617081.761735,
-    "roi_pct": 340.05,
+    "roi_pct": 146.3,
     "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791622780.4396715,
-    "roi_pct": 303.29,
+    "roi_pct": 925.24,
     "short_term_pct": 100.0
   },
   "0x1e52bbdf389526f57abc62641d518868f4c5eb43": {
     "username": "dsasdaas",
     "added_at": 1791623730.0065358,
-    "roi_pct": 9651.1,
+    "roi_pct": 7930.54,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "fortnitethegoat667",
     "added_at": 1791624687.3604517,
-    "roi_pct": 45.36,
+    "roi_pct": 44.77,
     "short_term_pct": 100.0
   },
   "0xb7271c112cbd83eb4c1ef1b554ff963604ae2a9d": {
@@ -47,16 +41,22 @@
     "roi_pct": 1917.44,
     "short_term_pct": 100.0
   },
-  "0x4f1d5ae26fc31472966e951af3183308736d8de2": {
-    "username": "e46m3",
-    "added_at": 1791627360.490421,
-    "roi_pct": 1035.39,
-    "short_term_pct": 30.0
-  },
   "0x31e5d54aded22aa7cd80dbe9e33102abe2504879": {
     "username": "Noprajsk",
     "added_at": 1791627360.4904232,
-    "roi_pct": 648.94,
+    "roi_pct": 666.72,
+    "short_term_pct": 100.0
+  },
+  "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
+    "username": "Kkunn",
+    "added_at": 1791628291.8605928,
+    "roi_pct": 3320.97,
+    "short_term_pct": 100.0
+  },
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
+    "username": "fantasy7788",
+    "added_at": 1791628291.8606005,
+    "roi_pct": 223.43,
     "short_term_pct": 100.0
   }
 }
