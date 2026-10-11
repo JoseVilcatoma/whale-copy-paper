@@ -2,61 +2,61 @@
   "0x0f6f76ced62a911bccef92f50faaff143854d977": {
     "username": "totoro3miyazaki",
     "added_at": 1791650345.9356673,
-    "roi_pct": 294.95,
+    "roi_pct": 384.03,
     "short_term_pct": 100.0
   },
   "0x27f738fe203827445690339104aae35b20bc44b0": {
     "username": "ic4cream",
     "added_at": 1791663699.4662175,
-    "roi_pct": 1050.72,
+    "roi_pct": 1118.01,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791679631.6350527,
-    "roi_pct": 324.57,
-    "short_term_pct": 90.0
+    "roi_pct": 323.7,
+    "short_term_pct": 100.0
   },
   "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d": {
     "username": "mooseborzoii",
     "added_at": 1791684360.7608194,
-    "roi_pct": 647.29,
-    "short_term_pct": 100.0
+    "roi_pct": 538.79,
+    "short_term_pct": 70.0
   },
   "0xa38a455bbdd4b68486548b7e19da99903f4f821d": {
     "username": "takeormake",
     "added_at": 1791686251.0344539,
-    "roi_pct": 267.78,
-    "short_term_pct": 100.0
-  },
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
-    "username": "fantasy7788",
-    "added_at": 1791717740.9158323,
-    "roi_pct": 2468.19,
+    "roi_pct": 299.37,
     "short_term_pct": 100.0
   },
   "0x1e52bbdf389526f57abc62641d518868f4c5eb43": {
     "username": "dsasdaas",
     "added_at": 1791718697.451488,
-    "roi_pct": 1551.54,
+    "roi_pct": 1574.69,
     "short_term_pct": 100.0
   },
   "0x2dfa4e79eca44b7c774f40a45535adbc368a6f60": {
     "username": "BillyGating",
     "added_at": 1791726980.318942,
-    "roi_pct": 277.5,
+    "roi_pct": 153.02,
     "short_term_pct": 100.0
   },
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
     "username": "primm",
     "added_at": 1791726980.3189452,
-    "roi_pct": 1434.03,
+    "roi_pct": 1716.68,
     "short_term_pct": 100.0
   },
-  "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748": {
-    "username": "3edmond.dantes",
-    "added_at": 1791726980.3189538,
-    "roi_pct": 178.55,
+  "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": {
+    "username": "juice-fruit",
+    "added_at": 1791729840.9947336,
+    "roi_pct": 133.82,
+    "short_term_pct": 100.0
+  },
+  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
+    "username": "UpTheBlues",
+    "added_at": 1791729840.9947348,
+    "roi_pct": 132.71,
     "short_term_pct": 100.0
   }
 }
