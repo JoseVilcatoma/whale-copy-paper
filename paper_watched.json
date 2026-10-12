@@ -2,55 +2,49 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791679631.6350527,
-    "roi_pct": 275.2,
+    "roi_pct": 295.31,
     "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791750314.4767103,
-    "roi_pct": 1448.22,
+    "roi_pct": 6025.88,
     "short_term_pct": 100.0
   },
   "0xd29312e2446a746bbd94408e1c475f1ec6d7d683": {
     "username": "Kyn008",
     "added_at": 1791768401.2536886,
-    "roi_pct": 448.26,
+    "roi_pct": 411.19,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791769347.9483063,
-    "roi_pct": 12459.64,
-    "short_term_pct": 100.0
-  },
-  "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
-    "username": "UpTheBlues",
-    "added_at": 1791772208.7538245,
-    "roi_pct": 488.63,
+    "roi_pct": 12499.48,
     "short_term_pct": 100.0
   },
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791792391.317155,
-    "roi_pct": 4780.49,
+    "roi_pct": 4449.73,
     "short_term_pct": 100.0
   },
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
     "username": "fantasy7788",
     "added_at": 1791802029.8902643,
-    "roi_pct": 780.01,
+    "roi_pct": 2002.63,
     "short_term_pct": 100.0
   },
   "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c": {
     "username": "Herdonia",
     "added_at": 1791809044.9110768,
-    "roi_pct": 748.45,
+    "roi_pct": 748.7,
     "short_term_pct": 60.0
   },
   "0xe4a57385a34b0b32fd86be72efd25cda41003cad": {
     "username": "chubbytoro",
     "added_at": 1791812840.835097,
-    "roi_pct": 3096.14,
+    "roi_pct": 3080.74,
     "short_term_pct": 100.0
   },
   "0x0f6f76ced62a911bccef92f50faaff143854d977": {
@@ -58,5 +52,11 @@
     "added_at": 1791813789.5262904,
     "roi_pct": 210.89,
     "short_term_pct": 100.0
+  },
+  "0x27f738fe203827445690339104aae35b20bc44b0": {
+    "username": "ic4cream",
+    "added_at": 1791814757.6323466,
+    "roi_pct": 11209.16,
+    "short_term_pct": 60.0
   }
 }
