@@ -2,61 +2,61 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791679631.6350527,
-    "roi_pct": 326.34,
-    "short_term_pct": 80.0
+    "roi_pct": 275.2,
+    "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791750314.4767103,
-    "roi_pct": 3215.91,
+    "roi_pct": 1448.22,
     "short_term_pct": 100.0
   },
   "0xd29312e2446a746bbd94408e1c475f1ec6d7d683": {
     "username": "Kyn008",
     "added_at": 1791768401.2536886,
-    "roi_pct": 455.89,
+    "roi_pct": 448.26,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1791769347.9483063,
-    "roi_pct": 12581.46,
+    "roi_pct": 12459.64,
     "short_term_pct": 100.0
   },
   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
     "username": "UpTheBlues",
     "added_at": 1791772208.7538245,
-    "roi_pct": 556.62,
+    "roi_pct": 488.63,
     "short_term_pct": 100.0
   },
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791792391.317155,
-    "roi_pct": 1383.72,
+    "roi_pct": 4780.49,
     "short_term_pct": 100.0
   },
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
     "username": "fantasy7788",
     "added_at": 1791802029.8902643,
-    "roi_pct": 1539.68,
-    "short_term_pct": 100.0
-  },
-  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
-    "username": "THEHIGHLIFE",
-    "added_at": 1791807150.3113973,
-    "roi_pct": 253.1,
+    "roi_pct": 780.01,
     "short_term_pct": 100.0
   },
   "0xd106952ebf30a3125affd8a23b6c1f30c35fc79c": {
     "username": "Herdonia",
     "added_at": 1791809044.9110768,
-    "roi_pct": 748.32,
+    "roi_pct": 748.45,
     "short_term_pct": 60.0
   },
   "0xe4a57385a34b0b32fd86be72efd25cda41003cad": {
     "username": "chubbytoro",
     "added_at": 1791812840.835097,
-    "roi_pct": 3108.67,
+    "roi_pct": 3096.14,
+    "short_term_pct": 100.0
+  },
+  "0x0f6f76ced62a911bccef92f50faaff143854d977": {
+    "username": "totoro3miyazaki",
+    "added_at": 1791813789.5262904,
+    "roi_pct": 210.89,
     "short_term_pct": 100.0
   }
 }
