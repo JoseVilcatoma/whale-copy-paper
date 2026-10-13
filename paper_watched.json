@@ -2,61 +2,61 @@
   "0xd29312e2446a746bbd94408e1c475f1ec6d7d683": {
     "username": "Kyn008",
     "added_at": 1791768401.2536886,
-    "roi_pct": 266.44,
+    "roi_pct": 265.58,
     "short_term_pct": 100.0
   },
   "0x0f6f76ced62a911bccef92f50faaff143854d977": {
     "username": "totoro3miyazaki",
     "added_at": 1791817639.9225945,
-    "roi_pct": 294.66,
+    "roi_pct": 291.85,
     "short_term_pct": 100.0
   },
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791855036.0669007,
-    "roi_pct": 332.14,
+    "roi_pct": 270.92,
     "short_term_pct": 100.0
   },
   "0xe5b70fd855af9258d9463992e4f1ed7987905ee3": {
     "username": "alwaysfade",
     "added_at": 1791855970.6562724,
-    "roi_pct": 1973.88,
+    "roi_pct": 1974.42,
     "short_term_pct": 80.0
   },
   "0x676c1bb692c76b57b06f1b93817515acfa5ce139": {
     "username": "para-Vision",
     "added_at": 1791858779.7279687,
-    "roi_pct": 1530.34,
+    "roi_pct": 838.87,
     "short_term_pct": 100.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
     "username": "Kch-Temp",
     "added_at": 1791866035.5873792,
-    "roi_pct": 962.86,
+    "roi_pct": 975.87,
     "short_term_pct": 100.0
   },
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791867892.9655688,
-    "roi_pct": 122.13,
+    "roi_pct": 160.4,
     "short_term_pct": 100.0
   },
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
     "username": "THEHIGHLIFE",
     "added_at": 1791894256.1573775,
-    "roi_pct": 665.6,
-    "short_term_pct": 100.0
-  },
-  "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
-    "username": "fortnitethegoat667",
-    "added_at": 1791896156.1804156,
-    "roi_pct": 102.02,
+    "roi_pct": 739.6,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1791896156.180417,
-    "roi_pct": 89.06,
+    "roi_pct": 90.13,
     "short_term_pct": 100.0
+  },
+  "0x6575759174ad221bba9947bc3f18750ec769b198": {
+    "username": "dromedaryy",
+    "added_at": 1791897093.6090941,
+    "roi_pct": 81.61,
+    "short_term_pct": 40.0
   }
 }
