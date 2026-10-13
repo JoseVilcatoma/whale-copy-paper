@@ -2,7 +2,7 @@
   "0xd29312e2446a746bbd94408e1c475f1ec6d7d683": {
     "username": "Kyn008",
     "added_at": 1791768401.2536886,
-    "roi_pct": 262.91,
+    "roi_pct": 262.86,
     "short_term_pct": 100.0
   },
   "0x0f6f76ced62a911bccef92f50faaff143854d977": {
@@ -14,7 +14,7 @@
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791855036.0669007,
-    "roi_pct": 248.41,
+    "roi_pct": 256.73,
     "short_term_pct": 100.0
   },
   "0xe5b70fd855af9258d9463992e4f1ed7987905ee3": {
@@ -26,7 +26,7 @@
   "0x676c1bb692c76b57b06f1b93817515acfa5ce139": {
     "username": "para-Vision",
     "added_at": 1791858779.7279687,
-    "roi_pct": 601.09,
+    "roi_pct": 577.16,
     "short_term_pct": 100.0
   },
   "0x924379a79c64b77ad5816ad362122a5f6228658e": {
@@ -38,7 +38,7 @@
   "0x7c37b52eb226bcb9411375ec48b0169663fb6aeb": {
     "username": "Diabolical-Prize",
     "added_at": 1791867892.9655688,
-    "roi_pct": 249.27,
+    "roi_pct": 412.78,
     "short_term_pct": 100.0
   },
   "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
@@ -50,13 +50,13 @@
   "0x5fdd66ffd0325d4e8d1d86fbec50caa31770a747": {
     "username": "juice-fruit",
     "added_at": 1791898033.8268178,
-    "roi_pct": 425.6,
+    "roi_pct": 403.34,
     "short_term_pct": 100.0
   },
-  "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
-    "username": "omnibus-076daa",
-    "added_at": 1791898973.1857665,
-    "roi_pct": 101.4,
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1791899911.0787382,
+    "roi_pct": 122.99,
     "short_term_pct": 100.0
   }
 }
