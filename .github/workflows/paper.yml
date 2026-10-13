@@ -44,7 +44,7 @@ jobs:
         run: python -u whale_copy_paper.py
 
       - name: Re-lanzar el próximo ciclo
-        if: always()
+        if: ${{ !cancelled() }}
         run: |
           curl -X POST \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
