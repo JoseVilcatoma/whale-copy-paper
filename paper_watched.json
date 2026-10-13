@@ -14,7 +14,7 @@
   "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034": {
     "username": "Kkunn",
     "added_at": 1791855036.0669007,
-    "roi_pct": 631.41,
+    "roi_pct": 633.88,
     "short_term_pct": 100.0
   },
   "0xe5b70fd855af9258d9463992e4f1ed7987905ee3": {
@@ -50,13 +50,13 @@
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1791879051.1673062,
-    "roi_pct": 289.92,
+    "roi_pct": 282.87,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "omnibus-076daa",
     "added_at": 1791882117.2180448,
-    "roi_pct": 154.23,
-    "short_term_pct": 100.0
+    "roi_pct": 152.22,
+    "short_term_pct": 90.0
   }
 }
